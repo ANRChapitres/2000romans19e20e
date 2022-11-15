@@ -1,0 +1,819 @@
+<?xml version='1.0' encoding='UTF8'?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> Un enfant, tome 3 </title>
+        <author from="1801" key="" name="Desprez, Ernest" sex="male" to="1859"/>
+        <edition n=""/>
+        <editor name="Librairie de Charles Gosselin" where="Paris"/>
+      </titleStmt>
+      <publicationStmt>
+        <date type="created" when="1832"/>
+        <date type="issued" when="1832"/>
+      </publicationStmt>
+      <editionStmt>
+        <profileDesc tag="non-canon" type="genre">
+          <textClass>
+            <keywords/>
+          </textClass>
+        </profileDesc>
+      </editionStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docAuthor/>
+        <docTitle>
+          <titlePart main="Un enfant, tome 3"/>
+          <titlePart sub=""/>
+        </docTitle>
+      </titlePage>
+    </front>
+    <body>
+      <head> UN ENFANT. </head>
+      <p> III. </p>
+      <p> Imprimé par Everat , rue du Cadran, nº 16. </p>
+      <head> UN ENFANT, </head>
+      <p> PAR  ERNEST DESPREZ.  Tome Troisième.  PARIS.  LIBRAIRIE DE CHARLES GOSSELIN,  RUE SAINT-GERMAIN-DES-PRÉS, Nº 9. MDCCC XXXIII. </p>
+      <div title="UN ENFANT. Troisième Partie" type="part">
+        <head> UN ENFANT. </head>
+        <p> Troisième Partie. </p>
+        <div title="CHAPITRE PREMIER." type="chapter">
+          <head> CHAPITRE PREMIER. </head>
+          <p>SIX ans sont écoulés. Une femme, jeune encore, est agenouillée sur le même petit tombeau de marbre blanc où Louise priait autrefois, où pendant long-temps elle n’a plus prié. </p>
+          <p> L’attitude mélancolique des saules qui se penchent pour cacher les tombes, les promeneurs indifférens, les curieux moqueurs, les amans qui fuient sous la voûte épaisse des arbres, tout nous fait souvenir que nous sommes au Père-Lachaise , ce cimetière odorant et joyeux comme un jardin touffu de roses. </p>
+          <p> Mais la femme qui prie là-bas sur ce petit tombeau de marbre ne voit, elle, dans ce jardin, qu’un misérable cimetière; elle murmure tout bas le nom de Dieu et elle pleure. </p>
+          <p> Si cette femme est Louise, il faut que de longs malheurs aient passé sur sa tête. Rien ne ressemble moins à la fille de madame Drouart, à la belle maîtresse de Gustave, à l’amie de l’insouciante madame Valery, rien ne lui ressemble moins que la pauvre créature maigre, pâle et mal vêtue qui gémit et qui crie: </p>
+          <p> —Ma mère! mon Dieu! ma fille! </p>
+          <p> Voilà quatre dimanches de suite, à la même heure, que cette femme revient, après six ans d’absence ou d’oubli, répandre de blanches couronnes arrosées de larmes sur ce frêle mausolée sans nom. </p>
+          <p> Elle continue de prier, abîmée qu’elle est dans la pensée de Dieu et dans le souvenir de ses maux, de ses fautes peut-être... </p>
+          <p> Un vieil homme infirme, soutenu par une domestique aussi vieille que lui, monte à pas lents le sentier qui conduit au petit tombeau de marbre. A l’aspect de cette femme agenouillée là, il s’arrête, surpris d’abord, puis, poursuivant sa pénible route, il s’avance vers le tombeau, s’affaisse lentement et se laisse tomber sur ses deux genoux à côté de la femme en prières. </p>
+          <p> Tous deux ils se regardent avec émotion. C’est le vieillard qui parle le premier. </p>
+          <p> —Vous l’avez donc connu, mademoiselle? </p>
+          <p> Mais la jeune femme recule étonnée et garde le silence. </p>
+          <p> —N’ayez pas peur, mademoiselle, reprend le vieillard, je sais que mon pauvre enfant aimait une femme. Cette femme, c’est vous, je n’en doute pas; eh bien! vous êtes ma fille, nous allons parler de mon fils ensemble. </p>
+          <p> —Monsieur!... s’écria Louise en se levant... la douleur vous égare... ce tombeau... </p>
+          <p> —Est le tombeau de mon fils, mademoiselle... mais ne craignez rien de son père. Je chérissais trop mon enfant pour ne pas vous aimer aussi, vous qui venez lui apporter des fleurs... </p>
+          <p> Le vieillard se mit à sangloter. </p>
+          <p> —C’était mon seul appui, mon seul ami, je peux dire... Il y a sept ans bientôt que Dieu me l’a enlevé... et, depuis sept ans, je demande au ciel la grâce de me réunir à mon pauvre Octave... </p>
+          <p> Louise, immobile, jetait sur le vieillard des regards pleins d’effroi. </p>
+          <p> —Monsieur, s’écria-t-elle enfin, ce que vous dites n’est pas possible... Votre fils, votre fils, je ne le connais pas... C’est ma fille, monsieur, qui est dans ce tombeau! </p>
+          <p> —Mon fils, madame, mon pauvre Octave!... Je ne comprends rien à votre erreur. </p>
+          <p> —Mais, monsieur, c’est vous qui vous trompez... Au nom du ciel, ne me dites pas le contraire!... Je suis venue il y a six ans pleurer et prier ici. Voilà quatre dimanches de suite que j’y viens prier et pleurer encore... Je n’ai pas pleuré sur un étranger, monsieur... Non, ce serait à me rendre folle!... C’est bien ma fille qu’on a enterrée là... </p>
+          <p> —Non, madame, je vous répète que c’est mon enfant. </p>
+          <p> Le vieillard fit signe à sa domestique d’approcher, et, sur un ordre qu’il lui donna, la vieille servante dégagea le tombeau de l’épaisse étoffe noire qui en cachait le faîte. </p>
+          <p> —Lisez, madame, dit-il. </p>
+          <p> Louise, anéantie, les yeux fixés sur le sol, n’entendait ni ne voyait rien. </p>
+          <p> —Mais regardez et lisez, ajouta tristement le vieillard: </p>
+          <p> A LA MÉMOIRE D’OCTAVE-LAURENT VERRIER,  MORT A TRENTE-UN ANS..... </p>
+          <p> La voix sourde et lente du père continuait de dire l’inscription funèbre du fils, lorsque Louise, à la vue de cette épitaphe, jeta un cri terrible; un de ces cris qui réveilleraient les morts dans leurs tombeaux, si les morts se réveillaient... </p>
+          <p> —Ce n’est pas ma fille qui est là! C’est un homme!.. Ah! malheureuse!... malheureuse! </p>
+          <p> —Madame, calmez-vous, cette tombe n’est pas la seule... </p>
+          <p> —Cette tombe, monsieur, interrompit Louise avec épouvante, cette tombe, j’ai pleuré dessus.... et dessous il n’y avait rien à moi..... rien qu’un étranger! Mais où est donc ma fille?... s’écria-t-elle en se meurtrissant le visage. </p>
+          <p> —Peut-être ici près, madame, répondit le vieillard ému de sa douleur; le tombeau de votre fille ne doit pas être bien loin... Le fossoyeur vous aura trompée sans le vouloir; mais, ajouta-t-il, les personnes qui étaient à l’enterrement vous indiqueront la place... </p>
+          <p> —Et quelles personnes, monsieur, quelles personnes?... le sais-je?.. On a enterré ma fille à mon insu...... Je n’y étais pas, moi, monsieur!... </p>
+          <p> —Je le crois bien, madame...... Mais enfin vous avez vu?... </p>
+          <p> —Rien, rien, monsieur; je n’ai rien vu... ils ne me l’ont montrée ni vivante ni morte! </p>
+          <p> Le vieillard fit une exclamation de doute. </p>
+          <p> Louise répéta d’une voix désespérée: ni vivante ni morte! </p>
+          <p> Après quoi elle s’éloigna rapidement. Le vieillard la suivit long-temps des yeux. Elle courait d’un bout du cimetière à l’autre, et elle cherchait en pleurant parmi les tombes. </p>
+          <p> . . . . . . . . . </p>
+          <p> A cette époque, Louise occupait une petite chambre, au quatrième étage, dans la rue des Fossés-Saint-Victor. Dire comment elle était tombée là, nous l’ignorons; depuis quel temps, nous l’ignorons de même. Tout ce qu’il nous a été possible de découvrir, c’est que Louise habitait la rue des Fossés-Saint-Victor, lorsque nous l’avons retrouvée, demandant sa fille à tous les tombeaux du Père-Lachaise . </p>
+          <p> En quittant le cimetière, Louise, au lieu de rentrer chez elle, prit le chemin de la rue Bleue, où avait autrefois logé madame Lefebvre. Peut-être, se dit-elle, cette femme y demeure-t-elle encore. Je saurai si elle m’a trompée. Il faut qu’elle me dise ce qu’ils ont fait de ma fille! </p>
+          <p> Madame Lefebvre avait déménagé l’année précédente. Louise demanda si l’on ne savait pas sa nouvelle adresse. Le portier répondit qu’elle ne l’avait pas laissée en partant; mais, à force d’instances, Louise obtint de lui cette réponse: Je crois qu’elle demeure rue Chauchat, nº 13 ou 15; je n’en suis pas bien sûr. </p>
+          <p> Par hasard, Louise frappa tout d’abord à la porte de la maison nº 15, et c’était là vraiment le domicile de la Lefebvre, qui pour l’instant était sortie. Je reviendrai dans la journée, dit Louise. En effet, elle revint, mais inutilement. La Lefebvre ne rentra que fort avant dans la nuit. </p>
+          <p> Le lendemain, lundi, de bonne heure, Louise était rue Chauchat. La Lefebvre était absente depuis quelques minutes; mais elle avait donné ordre au portier de dire qu’elle serait de retour à deux heures précises. Louise attendit dans les environs, et enfin elle rencontra son ancienne femme de chambre. L’étonnement de celle-ci fut grand à voir Louise flétrie comme si elle était vieille, mal vêtue comme si elle était dans une extrême misère. </p>
+          <p> —Ah! mon Dieu! s’écria la Lefebvre, c’est vous, ma chère petite dame! Qu’est-ce que vous êtes donc devenue depuis le temps? C’est cette Valery qui vous a réduite là, je m’en doute.... Si vous m’aviez écoutée.... mais vous n’avez jamais voulu.... Je parie qu’elle vous a mangé toutes vos pauvres rentes?... N’est-ce pas? Ah! ces coquines de femmes, je vous avais bien dit de vous en méfier... </p>
+          <p> Louise n’osait lever les yeux, une vive rougeur colorait les pommettes amaigries de ses joues. </p>
+          <p> —Et que faites-vous maintenant? demanda la Lefebvre. </p>
+          <p> —Je travaille, répondit Louise. </p>
+          <p> —Elle travaille! pauvre cher trésor! j’avais toujours pensé que vous en reviendriez là: vous n’étiez pas faite pour la coquetterie, vous, ça ne vous allait pas. Enfin, je conçois, vous avez voulu vous étourdir... Mais cette Valery, vous en a-t-elle mangé, de l’argent?... Hé! vous n’avez rien à me reprocher, toujours! je vous ai donné de bons conseils; je vous ai dit: Restez avec moi, madame; vivons ensemble, ne nous quittons jamais.. mais, bah! les jeunes filles n’écoutent que leur tête! </p>
+          <p> —Madame Lefebvre, interrompit Louise, en faisant un effort sur elle-même, je viens vous demander ce qu’est devenu..... </p>
+          <p> —Monsieur Gustave? je n’en ai jamais entendu parler depuis vous, madame. Seulement, je reçois de sa part, de temps en temps, de petits secours... mais peu de chose. </p>
+          <p> —Ah! il ne vous a donc pas oubliée, vous? </p>
+          <p> —Et pourquoi m’aurait-il oubliée? répondit la Lefebvre; moi, je n’ai jamais été sa maîtresse. </p>
+          <p> —Il ne s’agit pas de M. Gustave, que je méprise et qui sans doute me méprise aussi, répliqua Louise d’une voix altérée par l’émotion. Ce que je veux savoir, madame Lefebvre, et ce que vous allez me dire tout de suite, ou je saurai bien vous y contraindre, c’est en quel endroit on a mis mon enfant.—Qu’est devenue ma fille? </p>
+          <p> Louise tremblait de tout son corps, et ses lèvres agitées, quoique muettes, disaient l’exaltation douloureuse de son ame. </p>
+          <p> La Lefebvre resta un moment interdite. </p>
+          <p> —Votre fille? répondit-elle. Mais, vous le savez bien, elle est morte. </p>
+          <p> —Où l’a-t-on enterrée? </p>
+          <p> —Au Père-Lachaise .... mon Dieu, mais calmez-vous. Est-ce que vous n’avez plus votre raison?... Quoi! vous ne vous souvenez pas du jour où je vous ai conduite à ce petit tombeau de marbre? </p>
+          <p> —Eh bien? </p>
+          <p> —Eh bien! madame, ce petit tombeau, c’était celui... </p>
+          <p> —D’un jeune homme que je ne connais pas! s’écria Louise, la face ruisselante de larmes. J’ai vu le père de ce jeune homme, de cet étranger, que je croyais être ma fille... Vous m’avez fait prier et pleurer sur un tombeau vide, jeter des fleurs sur l’enfant d’un autre... Ah! c’est horrible! c’est horrible!.. Madame Lefebvre, ajouta-t-elle d’une voix suppliante, je vous en conjure, où a-t-on mis ma pauvre fille? où est enterrée mon enfant?—Car elle est morte, ma fille, vous ne me trompez pas, elle est bien morte? </p>
+          <p> —Si elle est morte?... Ah! par exemple, je le crois bien qu’elle l’est, la pauvre petite! Eh bien! voilà une idée!... Ce n’est pas l’embarras, qui est-ce qui aurait jamais cru ça d’un enfant si fort et si beau? </p>
+          <p> —Vous l’avez vue, vous.... n’est-ce pas qu’elle était belle? </p>
+          <p> —Superbe! madame. Mais n’en parlons plus... ça me fait trop de mal et à vous aussi... Une petite fille charmante, quoi! </p>
+          <p> —Souriait-elle, madame Lefebvre? demanda Louise, dont la figure était alors un incroyable mélange de douleur et de joie. Ses petits yeux étaient-ils ouverts? Ses cheveux, avez-vous vu ses cheveux?... Et sa petite bouche, madame Lefebvre, ses petites mains?... chère enfant! </p>
+          <p> La Lefebvre voulut reporter les idées de Louise sur un sujet moins triste, mais Louise s’obstinait à parler de sa fille, à demander surtout en quel lieu elle était enterrée, et pour quelle raison, par quel raffinement de cruauté on l’avait conduite, elle malheureuse mère, sur un tombeau qui n’était pas celui de son enfant. </p>
+          <p> La Lefebvre, d’abord un peu embarrassée de répondre, finit par assurer Louise que ce malentendu avait pour unique cause la douleur de Gustave; qu’il n’avait pu venir à l’enterrement, tant son désespoir était affreux; et que, elle madame Lefebvre, elle s’en était fiée à sa mémoire qui l’avait égarée aisément au milieu de tous les petits chemins, et de toutes les petites tombes dont est parsemé le Père-Lachaise . Cependant, si vous y tenez beaucoup, madame, ajouta-t-elle, demain, ou un autre jour, je vous conduirai au cimetière, et j’ai tout lieu de croire que nous serons plus heureuses. </p>
+          <p> Louise accueillit cette proposition avec transport. Elle insista pour emmener tout de suite madame Lefebvre, mais celle-ci, tout en feignant de se rendre à ses vœux, lui dit de l’air le plus triste qu’elle put se donner: </p>
+          <p> —Je ne demande pas mieux que de vous accompagner, madame, certainement... Mais au bout de six ans, comment voulez-vous que je me rappelle?... Si nous allions nous tromper comme la première fois, je me le reprocherais toute ma vie. Vous concevez? un tombeau où l’on n’a mis ni inscription, ni rien qui le fasse reconnaître..... M. Gustave devait faire graver dessus le nom de votre fille, son âge, le jour où elle est morte, mais M. Gustave est parti si vite... Il était si chagrin, si troublé!..... C’est égal, madame, nous chercherons une petite tombe toute simple, sans nom, et ce sera peut-être celle-là. </p>
+          <p> Ce mot peut-être , que madame Lefebvre n’avait pas dit sans intention, frappa douloureusement le cœur de Louise. Elle tressaillit d’horreur à la pensée de prier pour la seconde fois sur une tombe étrangère et vide...... Elle vit là un châtiment de Dieu, qui lui refusait la consolation même de pleurer sur les cendres de sa fille. Tout bonheur lui était donc ôté! Après six ans de désordre ou d’illusion, seule, pauvre, flétrie dans son ame et dans sa beauté, au moment où elle demandait au passé quelques ressouvenirs d’amour qui lui fissent oublier le présent, le passé devenait stérile, impitoyable. Elle ne pouvait retrouver le tombeau de son enfant, et sa mère, sa vieille mère dont elle avait causé la mort, avait été jetée dans la fosse commune..... Elle était sans passé, sans présent, sans avenir! D’amis, elle n’en avait plus: les vivans l’avaient abandonnée, et elle ne savait où étaient les morts.... </p>
+          <p> —Adieu, madame Lefebvre, dit Louise, adieu pour toujours! </p>
+          <p> La Lefebvre essaya de la retenir, de lui faire comprendre que le désespoir ne remédie à rien; mais Louise, sans l’écouter et sans l’entendre, ouvrit violemment la porte et s’enfuit. </p>
+          <p> Elle achevait de descendre l’escalier, et l’éclat de ses sanglots venait encore frapper l’oreille de madame Lefebvre. </p>
+          <p> —La pauvre fille! murmura piteusement la femme de chambre. Si elle était restée avec moi, si elle n’avait pas écouté cette Valery, elle serait moins malheureuse, elle aurait plus d’argent qu’elle ne paraît en avoir, et moi j’aurais fait de meilleures affaires. Cependant, pensa-t-elle, au cas où M. Gustave serait à Paris, je ne veux pas perdre l’occasion de lui dire que son ancienne maîtresse est revenue et qu’elle est misérable. Il fera quelque chose pour elle, s’il en a envie; mais pour moi je suis bien certaine qu’il ne m’oubliera pas. C’est un service que je lui rends: il se tiendra sur ses gardes. Comme il disait: Cette femme-là est capable de tout. </p>
+          <p> Laissons madame Lefebvre allant s’informer si Gustave est à Paris ou à la campagne, en Angleterre ou en Suisse, et suivons Louise autant que la rapidité de sa course nous le permet. </p>
+          <p> Elle longe la rue du faubourg Montmartre, traverse les boulevards, la rue Vivienne, le Palais-Royal, et se dirige vers les quais. </p>
+          <p> La voilà parvenue sur le quai du Louvre. Il fait un soleil doux. La foule des promeneurs est grande. A mesure qu’elle approche du bord de l’eau, son pas devient lent, son courage faiblit: elle regarde timidement par-dessus le parapet, comme pour mesurer la hauteur de sa chute. Des enfans sont là qui jouent sous le pont; des bateliers suivent le courant. Elle détourne la tête et aperçoit différentes personnes qui se sont arrêtées près d’elle et qui l’examinent. </p>
+          <p> Elle s’éloigne du parapet et se dit: </p>
+          <p> —Je reviendrai ce soir, à la nuit. On ne me verra pas et j’aurai peut-être plus de courage. </p>
+          <p> En marchant au hasard, elle est arrivée en face du Pont-Royal, vis-à-vis de la grille des Tuileries. Elle a été près d’entrer dans le jardin; mais à la vue de tout ce monde qui est là, joyeux, et qui se promène, Louise continue sa marche tout le long du quai devenu plus solitaire. </p>
+          <p> Elle a passé la place Louis XVI, et bientôt elle se glisse sous les arbres sombres des Champs-Élysées. </p>
+          <p> Une allée lui paraît plus sombre encore que les autres: c’est celle-là qu’elle choisit. Quelques rares piétons la rencontrent; les uns l’accostent et lui sourient; les autres l’accueillent d’un geste effronté. Elle fuit de sentiers en sentiers, se jette au milieu de la foule, se rejette dans la solitude, perd son chemin et le retrouve à peine parmi ce labyrinthe d’allées désertes ou passantes. </p>
+          <p> Voilà plusieurs heures qu’elle marche. Le jour commence à baisser. </p>
+          <p> Au détour d’une allée, Louise aperçoit tout à coup, à vingt-cinq pas devant elle, une petite fille courant après un cerceau que bien vite l’enfant rattrape et chasse dans les jambes d’un homme qui le lui renvoie en riant. </p>
+          <p> Les joues de la petite fille sont éclatantes de joie et de santé. Sous son grand chapeau de paille coule une blonde chevelure qui tombe en longues boucles sur ses épaules. Ses jambes sont à l’aise sous un large pantalon blanc, et sa robe large et blanche aussi flotte et descend à la hauteur du jarret; sa taille est élancée, ses mouvemens sont gracieux et souples. </p>
+          <p> Le cerceau qu’elle chasse à l’aide d’une badine dévie du but où elle le pousse, et, fuyant à côté de l’homme qui l’attendait au passage, il arrive jusqu��à Louise, involontairement distraite par ce jeu. </p>
+          <p> Louise s’est emparée du cerceau, et, sans le vouloir, comme par un ressouvenir machinal d’enfance, elle pousse légèrement le jouet vers l’enfant, qui le lui renvoie à son tour. </p>
+          <p> Cette fois, Louise garde le cerceau et laisse venir la petite fille jusqu’à elle. </p>
+          <p> —Que vous êtes jolie, mon enfant! lui dit Louise; laissez-moi vous embrasser, voulez-vous? </p>
+          <p> La petite fille tend son front, où Louise dépose un baiser, puis deux. </p>
+          <p> —L’heureux âge! dit-elle en soupirant. </p>
+          <p> L’enfant comprit sans doute qu’on lui demandait son âge, car elle dit: </p>
+          <p> —J’ai six ans, madame. </p>
+          <p> —Six ans! répète Louise en la regardant avec amour et douleur. </p>
+          <p> Elle a passé ses bras autour du cou de la petite fille, elle lui baise les yeux, elle roule dans ses doigts les soyeux anneaux de sa blonde chevelure. </p>
+          <p> —Six ans! répète-t-elle, ce serait l’âge de la mienne... </p>
+          <p> Et des larmes de tristesse lui viennent en pensant à l’heureuse mère de cette enfant. </p>
+          <p> Elle continuait à se tenir penchée sur la petite fille indifférente à ses caresses, impatiente même de quitter Louise, et de reprendre sa volée avec sa badine et son cerceau. Mais plus l’enfant témoignait l’envie de s’en aller, plus Louise la pressait contre elle. A la fin, surprise et honteuse de la retenir presque par violence, Louise ouvrait lentement ses bras pour lui donner passage, lorsque en relevant la tête elle aperçut un homme à ses côtés. Il tenait dans sa main la main de la petite fille, qu’il attirait doucement à lui. </p>
+          <p> Cet homme sourit à Louise comme ferait un père dont on vient de caresser l’enfant; mais tout à coup ses lèvres, qui souriaient, tremblèrent, et il détourna son visage pâle de stupeur. </p>
+          <p> Louise, qui était encore à demi accroupie, se dressa d’un bond. </p>
+          <p> —Ah!... cria-t-elle. </p>
+          <p> Cette exclamation fut suivie d’un long silence et d’une immobilité complète; cependant la petite fille et l’homme s’éloignaient avec vitesse. Louise poussa de nouveau des sons étouffés et se mit à courir. Elle rejoignit l’homme et l’enfant au moment où l’un et l’autre quittaient l’ombre du bois pour passer sur la chaussée. Là, une voiture les attendait sans doute, car ils n’eurent pas plus tôt paru qu’un domestique s’empressa d’abattre le marchepied devant eux. </p>
+          <p> Louise, avec ses deux mains, saisit l’homme par les basques de son habit. </p>
+          <p> —Qu’est-ce là? dit-il, que demande cette femme?... </p>
+          <p> —Pardon, monsieur, répondit Louise, fortement émue, n’êtes-vous pas M. Gustave Charrière? </p>
+          <p> En toute autre occasion, Gustave eût renié son nom, mais la présence de ses domestiques lui ôtait toute possibilité de faire un mensonge. Je suis M. Charrière, en effet, reprit-il, que me voulez-vous? Je ne vous connais pas. </p>
+          <p> Louise jeta un long regard sur l’enfant, puis un autre regard, mais plus rapide, sur Gustave. </p>
+          <p> —Vous ne me connaissez pas? dit-elle... C’est possible. Six ans de malheur m’ont bien vieillie... Mais, ajouta-t-elle tout bas, et comme si elle se parlait à elle-même, mes idées se confondent... je ne sais plus ce que je veux lui demander. </p>
+          <p> Cependant elle se penchait sur la petite fille avec un œil si étrange, si craintif à la fois et si avide, que l’enfant alarmé se serra contre Gustave et lui dit:—Papa, cette femme me fait peur!... </p>
+          <p> —Papa! dit Louise d’une voix éclatante... Vous êtes son père?... </p>
+          <p> Gustave arracha violemment sa fille des mains de Louise, et, s’adressant à la foule qui s’amassait: </p>
+          <p> —Je ne sais quelle est cette femme? il faut qu’elle soit folle. Baptiste, dit-il à un de ses domestiques, retenez cette insensée, mais ne lui faites pas de mal. </p>
+          <p> Suivant les ordres de son maître, le laquais saisit Louise par les bras, tandis que Gustave et sa fille montaient en voiture. Louise pleurait, criait, suppliait: </p>
+          <p> —S’il est son père, c’est mon enfant! Six ans, c’est cela, elle est à moi... Ils ne l’ont pas enterrée!... Ils me l’ont prise... Monsieur, disait-elle au laquais, je vous en conjure, je ne suis pas une méchante femme, lâchez-moi, je veux seulement embrasser ma fille... Messieurs, disait-elle à la foule, c’est mon enfant qu’ils m’ont volée! </p>
+          <p> —C’est une pauvre femme folle, répondait froidement le laquais. </p>
+          <p> —Non, messieurs, je ne suis pas folle, au contraire. C’est ma fille, ma fille, ma chère fille qu’ils m’ont prise, messieurs!... Vous voyez bien que c’est ma fille, puisqu’ils l’emmènent et que je pleure... Est-ce que je pleurerais pour la fille d’une autre?... </p>
+          <p> —Mais pourtant, si c’est sa fille, dit un homme du peuple en rudoyant le laquais, il faut qu’on la rende à cette femme... </p>
+          <p> —Oui, monsieur, dit Louise en tombant à genoux devant l’homme en casquette, oui, monsieur, faites-moi rendre ma fille... Elle est à moi, monsieur... Ils ne me l’ont montrée ni vivante, ni morte! </p>
+          <p> Ce dernier cri que lui avait arraché la scène du cimetière, elle le répéta cette fois avec une expression de douleur plus vive, car elle trouvait aujourd’hui dans l’idée que ces mots lui rappelaient la preuve certaine de l’existence de son enfant. </p>
+          <p> Quelques personnes paraissaient disposées à la croire, quand le laquais, empressé de rejoindre la voiture, qui s’éloignait avec rapidité, lâcha les mains de Louise, et dit en fuyant: </p>
+          <p> —Vous autres, ne vous donnez pas la peine de la ramener à Charenton ce soir, entendez-vous?... Elle vous fatiguerait les jambes: regardez-la courir... </p>
+          <p> Louise, en effet, ne se sentit pas plus tôt libre qu’elle se précipita sur les pas du domestique, en appelant et criant: </p>
+          <p> —Ma fille, ma fille! </p>
+          <p> Les curieux restèrent convaincus que Louise était en démence, surtout après cette réflexion faite tout haut par un gamin: </p>
+          <p> —Sont-ils bêtes, ceux-là, de croire qu’une femme qui est à pied est la mère d’un enfant dont le père roule carrosse! Elle aurait au moins un cabriolet ou un fiacre, farceurs que vous êtes! </p>
+          <p> Un éclat de rire accueillit cette logique des rues, et les hommes graves qui avaient été témoins de la douleur de Louise cessèrent d’y prendre même un intérêt de curiosité. Il n’en fut pas ainsi des enfans: ils s’élancèrent après Louise, qui ne discontinuait pas sa course, et ils criaient derrière elle: </p>
+          <p> —Oh, la folle! la folle, Ohé! </p>
+          <p> Louise, le visage inondé de larmes, se tournait fréquemment vers eux, et leur disait à travers ses sanglots: </p>
+          <p> —C’est ma fille, c’est ma fille, mes bons petits amis... ne m’appelez pas folle!... je vous dis que c’est mon enfant!.. courez après cette voiture... dites qu’on l’arrête, qu’on l’arrête... ils m’emportent ma fille! </p>
+          <p> Et, désespérée, haletante, sans force, elle s’épuisait à vouloir suivre la voiture; et les petits garçons, moqueurs et audacieux, sautaient autour d’elle et répétaient en riant: </p>
+          <p> —Oh, la folle, la folle! Ohé! </p>
+          <p> Un d’eux la tira violemment par sa robe, et la fit tomber... Sa tête porta contre une des bornes qui séparent les Champs-Élysées de la place Louis XVI. </p>
+        </div>
+        <div title="CHAPITRE II." type="chapter">
+          <head> CHAPITRE II. </head>
+          <p> Le soir même de cet événement, le docteur Thévenot reçut la lettre qui suit: </p>
+          <p> «Je pars et je ne puis vous aller voir, mon cher et bon docteur. Ma fuite (car c’en est une) est si précipitée que mon désir de vous dire adieu cède à la nécessité de quitter Paris au plus vite. Je ne prends pas même le temps de faire une malle, pas même le temps d’emporter les chiffons et joujoux de ma fille, qui se désole, parce que tout cela ne doit être mis à la diligence que demain. </p>
+          <p> »A propos, brûlez ma lettre. </p>
+          <p> »Cette femme, dont je n’ai pas le courage d’écrire le nom, a reparu. Je l’ai rencontrée; elle a vu ma fille; il y a eu une scène horrible; mais elle ne sait ni où je demeure, ni où prendre des renseignemens sur moi. Sans doute elle viendra vous trouver: dites-lui que vous m’avez perdu de vue depuis des années. En tout cas, persuadez-lui que j’ai un enfant naturel, une fille de l’âge que devrait avoir la sienne; que je lui étais infidèle, et qu’à peu près dans le même temps, mes deux maîtresses m’ont rendu père. Son enfant, à elle, est mort, l’enfant de l’autre vit: c’est celui-là qu’elle a rencontré sans doute avec moi. La Lefebvre est avertie, vos deux versions ne se démentiront pas; la Lefebvre est trop bien payée pour me trahir; mais vous, docteur, comment paierai-je, comment reconnaîtrai-je jamais votre discrétion et votre dévouement? </p>
+          <p> »Vous seriez bien aimable de me débarrasser de cette petite galerie de tableaux dont la mort de mon père me fait l’héritier indigne: ils sont tous dans le salon, je ne les en ai pas encore retirés; car vraiment je ne sais qu’en faire; je n’entends rien à la peinture. Vous qui êtes amateur, délivrez-en un profane comme moi. C’est un trésor qui, dans mes mains, serait perdu. Acceptez, sinon par amitié pour moi, du moins par pitié pour les arts. </p>
+          <p> »Je vous avoue qu’il m’est bien désagréable de quitter Paris en ce moment. Cette succession de mon père est tellement embrouillée, elle me laisse tant d’argent à payer, tant d’argent à recevoir, que mon absence ne peut manquer d’être préjudiciable à mes intérêts. Que voulez-vous? Mon plus grand soin ne doit-il pas être de veiller à ce que cette femme ne puisse pas troubler mon repos, mon bonheur et celui de ma fille? </p>
+          <p> »Je vous demande un peu ce que ma fille deviendrait entre les mains de cette folle? Vous savez quelle vie elle a menée, bon Dieu. Comment se fait-il qu’elle ait quitté Londres? N’est-ce pas à Londres qu’elle était allée avec la Valery? Je n’en sais plus rien. L’essentiel, c’est que je puisse m’affranchir de ses persécutions. J’espère beaucoup en vous et en madame Lefebvre. Ce que vous lui direz la calmera sans doute. </p>
+          <p> »D’ailleurs, rien ne prouve que j’aie sa fille. L’acte de naissance ne porte pas le nom de L** D**. Que peut-elle faire? rien... Mais c’est égal, avec une tête comme la sienne, on se moque des lois. Qu’est-ce que je dis? elle m’attaquerait en faux, elle m’accuserait de supposition d’enfant, que sais-je? Elle perdrait, je n’en doute pas. Mais un procès, les cris de cette femme, tout cela m’épouvante, rien que d’y penser. Je ne crains pas qu’elle reprenne ma fille, je l’en défie. Ce que je crains, ce sont toutes les démarches qu’elle ferait dans l’espoir de la reprendre. Elle remuerait ciel et terre. Je ne me soucie nullement d’un éclat. </p>
+          <p> »Elle a été mise sur la voie de la vérité par les précautions mêmes que nous avions prises pour entretenir son erreur. La Lefebvre vous contera cela. Elles se sont déjà vues. Pour comble de malheur, elle rencontre ma petite qui lui dit son âge! c’est une fatalité. </p>
+          <p> »Je serai de retour à la fin de la semaine. J’emmène ma fille à la campagne, où elle restera toute la belle saison, toute l’année s’il le faut. Il m’en coûte de me séparer ainsi de cette chère petite, qui m’aime tant et qui pleure de toute son ame, parce que je lui ai dit que j’allais la conduire en province, où je la laisserais toute seule... rien que six jours. Elle ne veut pas entendre parler de cela. Six jours sans moi lui font jeter les hauts cris. </p>
+          <p> »Adieu, en voilà bien long pour un homme pressé de fuir. Au revoir, jusqu’à la fin de la semaine. Brûlez ma lettre, et n’oubliez aucune de mes instructions. Votre tout dévoué pour la vie. </p>
+          <p> Ce 16 juin 183... </p>
+          <p> » Gustave. </p>
+          <p> » P. S. Si j’en juge par sa mise, elle est tombée dans la plus profonde misère. Dites-lui qu’à titre d’ ami , j’ajoutai autrefois au revenu que je lui avais assuré un revenu nouveau de deux mille francs dont vous deviez lui servir la rente. Donnez-lui telle somme qu’elle voudra, mais en lui faisant observer que si je m’engageai autrefois , par devant vous, à doubler presque sa pension, ce fut à la condition seule qu’elle quitterait la France, et ne chercherait jamais à me revoir. Le besoin d’argent et le désir que sa nouvelle rente de deux mille francs lui soit continuée la fera, j’espère, consentir à me laisser en repos, surtout si vous lui persuadez que la fille dont je suis le père est l’enfant d’une autre femme. Adieu, derechef, je vous laisse le soin de mon bonheur à venir.» </p>
+          <p> Le lendemain, le docteur Thévenot, qui attendait Louise, reçut la visite de la Lefebvre, qui, de son coté, montra quelque étonnement de n’avoir pas encore revu l’ancienne maîtresse de Gustave. Tous deux ils pensèrent que Louise ne pouvait tarder long-temps à venir les fatiguer de questions et de reproches. Ils se distribuèrent leurs rôles en conséquence; mais ce fut peine perdue, Louise ne vint pas. Après trois ou quatre jours ils demeurèrent convaincus que la pauvre femme avait renoncé à faire d’inutiles démarches, ou bien qu’il lui était arrivé quelque malheur. </p>
+          <p> Voici la vérité. Par suite de sa chute, Louise s’était fait à la tête une blessure assez grave pour garder la chambre et même le lit. Mais son courage, né de son désespoir, lui fit surmonter un mal auquel sans doute elle eût cédé en toute autre circonstance. Aujourd’hui c’est à peine si elle se ressent de sa blessure. Il n’est pas une douleur physique, quelque grande qu’elle soit, qui ne se taise lorsque vient à éclater une violente passion de l’ame. </p>
+          <p> Toutefois, au sang qui se coagulait dans ses cheveux, Louise vit bien qu’elle était blessée; et, par un instinct de conservation, par ce besoin de vivre, devenu plus fort du moment où elle avait retrouvé sa fille, elle étancha sa plaie avec de l’eau fraîche, se serra la tête de linges, puis, après avoir caché le tout sous son bonnet, dès le matin du jour suivant, elle sortit pour chercher son enfant au milieu des rues. </p>
+          <p> Son projet fut d’abord de retourner aux Champs-Élysées; mais, avec un peu de réflexion, elle reconnut que ce serait perdre son temps; que Gustave ne ramènerait pas sa fille précisément là où ils s’étaient rencontrés la veille, et que c’était ailleurs qu’il lui fallait porter ses pas. Mais où? </p>
+          <p> Interroger madame Lefebvre fut une des pensées auxquelles son esprit s’attacha le plus fortement. Mais cette pensée, où elle avait vu luire quelque espoir de bonheur, elle la rejeta bientôt avec effroi. Il me serait impossible, se dit-elle, de me retrouver en présence de cette méchante femme sans oublier toute retenue. D’ailleurs elle qui m’a trompée déjà, que lui en coûterait-il de me tromper de nouveau? Son premier mensonge ne lui fait-il pas une nécessité de me cacher la demeure de Gustave? Elle me soutiendra toujours que mon enfant est mort. </p>
+          <p> S’adresser au docteur Thévenot lui parut tout aussi impossible, tout aussi inutile que d’essayer une démarche auprès de madame Lefebvre. La conviction où elle était d’avoir été la victime de leur faiblesse ou de leur cruauté lui rendait méprisable, odieux le souvenir même de cet homme et de cette femme. A plus forte raison rejetait-elle avec horreur l’idée de les regarder en face. Elle ne put se résoudre à leur aller demander des nouvelles de sa fille. </p>
+          <p> Une autre pensée, il est vrai, lui donna l’espoir qu’elle pourrait, sans leur aide menteur, découvrir la véritable retraite où Gustave cachait son enfant; espoir qui devait se réaliser, suivant elle, en allant frapper tout droit à la porte de M. Charrière. M. Charrière, pensait-elle, me dira le lieu où est son fils, et quand je le saurai, il faudra bien qu’on me rende ma fille. </p>
+          <p> Nous savons déjà, nous, que depuis sept mois M. Charrière n’existe plus. </p>
+          <p> Louise, pleine de confiance dans la réussite de son dessein, se dirigeait en toute hâte vers la maison de M. Charrière, là, où six années auparavant, sa jalousie l’avait entraînée sur les pas de Gustave. Sa course était rapide; elle se jetait dans les rues avec l’imprévoyance et les précipitations hardies du désespoir ou du bonheur. </p>
+          <p> Elle s’égara de son chemin, et après avoir fait de nombreux détours, elle sentit son courage s’abattre sous le poids de la fatigue de son corps. </p>
+          <p> Déjà elle se voyait humiliée par M. Charrière, reniée par Gustave, méconnue par sa fille, chassée par leurs laquais... Elle regarda tout autour d’elle, comme pour chercher un protecteur parmi cette foule qui passait indifférente à ses côtés. </p>
+          <p> En ce moment, Louise crut s’apercevoir qu’elle était en face du Palais de Justice. Dans la peur de se tromper, elle s’adressa au premier passant venu, qui l’assura qu’en effet c’était bien là le Palais . Des avocats en robe, errant au loin sous le péristyle, ne lui laissèrent plus aucun doute sur le lieu où le hasard l’avait conduite. Son cœur s’échauffa d’une foi plus vive. Il lui parut que la justice s’offrait à elle pour faire reconnaître et valoir ses droits comme mère. </p>
+          <p> Elle monta les degrés l’ame remplie d’une joie noble et sainte. </p>
+          <p> —Ils me feront rendre ma fille, dit-elle. </p>
+          <p> D’abord le costume sévère et la mine froide des avocats lui imposèrent de la crainte. Elle les regardait tous les uns après les autres, surprise de son peu de hardiesse, surprise aussi qu’aucun d’eux ne devinât, pour ainsi dire, quelle était sa peine, et n’accourût lui offrir généreusement ses services. </p>
+          <p> Lasse de regarder et de se promener inutilement sous les galeries, elle entra dans la vaste salle des Pas-Perdus , décidée cette fois à demander justice. Pour se donner de la force, elle se représenta, par la pensée, sa fille lui tendant les mains, l’appelant sa mère, tandis que Gustave fuyait avec l’enfant.... </p>
+          <p> Il ne fallut rien moins que cette image pour lui remettre quelque hardiesse au cœur; car, seule parmi tous ces hommes vêtus de noir, elle hésitait à parler.... </p>
+          <p> Un vieillard en robe se promenait rêveur dans un coin de la salle. Elle courut à ce vieillard. </p>
+          <p> —Monsieur, lui dit-elle, j’ai une fille.... </p>
+          <p> Le vieil avocat l’interrompit. </p>
+          <p> —Je ne donne pas mes consultations ici, madame. Je n’ai pas le temps de vous entendre. Venez me trouver demain dans mon cabinet. Vous voyez bien que je vais plaider devant la Cour. </p>
+          <p> Cela dit, le vieil avocat poussa une porte derrière laquelle il disparut. </p>
+          <p> Louise, anéantie, remontait lentement la salle, lorsqu’un autre homme noir, plus jeune que le premier, lui dit avec douceur: </p>
+          <p> —Vous cherchez quelqu’un pour vous défendre, madame? </p>
+          <p> —Oh! oui, monsieur, s’écria Louise, quelqu’un qui me défende! Ah! monsieur, prenez pitié de moi. </p>
+          <p> —Qu’est-ce que c’est que votre affaire, madame? </p>
+          <p> Louise, interrompue vingt fois par ses larmes, conta son histoire le plus clairement qu’il lui fut possible. L’avocat l’écoutait avec beaucoup d’attention: </p>
+          <p> —Quelle preuve avez-vous, lui demanda-t-il, que votre enfant soit celui-là même que ce M. Gustave possède? </p>
+          <p> —Elle a six ans, monsieur, et il me l’ont prise! </p>
+          <p> —Mais, encore une fois, comment prouverez-vous que cette fille soit la fille dont vous êtes accouchée il y a six ans? Avez-vous l’acte de naissance de votre enfant? quel nom porte-t-il? </p>
+          <p> —Son nom? mais je ne sais pas, monsieur.... ils lui en auront sans doute donné un autre... </p>
+          <p> —Il faudrait pouvoir constater l’identité de l’enfant... ce sera difficile... vous n’avez pas l’acte de naissance?... </p>
+          <p> —Non, monsieur. </p>
+          <p> —Mais, au moins, vous avez des témoins pour affirmer comme quoi vous êtes accouchée tel jour, dans telle maison, de tel enfant... </p>
+          <p> —Certainement, monsieur, mais ce sont toutes des personnes dévouées à M. Gustave... elles ne conviendront de rien... </p>
+          <p> L’avocat tira un crayon de sa poche, et il écrivit son nom et son adresse sur un lambeau de papier qu’il remit à Louise: </p>
+          <p> —Passez chez moi demain, de neuf à dix heures, madame. Nous causerons plus amplement de votre affaire. Il n’est pas impossible de réussir. </p>
+          <p> —Ah! monsieur, que de remerciemens!.. </p>
+          <p> —Mais je ne vous cache pas que ce peut être un procès fort long, fort dispendieux... et vous ne paraissez pas riche? </p>
+          <p> —Hélas! non, monsieur; je suis pauvre, très-pauvre... Mais c’est égal, monsieur; je travaille, et j’aurai toujours de quoi nourrir mon enfant. </p>
+          <p> L’avocat parut réfléchir un instant. </p>
+          <p> —Plus j’y songe, dit-il, et plus cette affaire me semble embarrassante. Vous ne pouvez pas vous constituer partie civile (il lui expliqua le sens de cette expression); c’est le ministère public qui, sur votre plainte, doit poursuivre d’office..... alors qu’arrivera-t-il? </p>
+          <p> —Ah! monsieur, lui dit Louise en l’interrompant, qu’on me rende mon enfant; c’est tout ce que je demande. </p>
+          <p> —Fort bien, reprit l’avocat. Mais faites attention: si la justice ordonne que votre fille vous soit remise, ce M. Gustave est par cela seul convaincu de supposition de part, de substitution d’état, de faux en acte authentique sur les registres de la mairie..... il y va de la réclusion ou des galères. </p>
+          <p> Louise pâlit d’effroi. </p>
+          <p> —Le père de ma fille aux galères, monsieur, et par moi!..... Ah! non, non, jamais je ne ferai cela! j’aimerais mieux mourir toute seule dans un coin comme une malheureuse! </p>
+          <p> L’avocat lui dit que, selon toute apparence, tel ne serait pas l’arrêt de la justice, qui prendrait en considération les circonstances, la position du prévenu; il ajouta que, tout interdite que peut être la recherche de la paternité, le tribunal ne saurait se défendre de voir dans Gustave un père qui a cru pouvoir disposer de son enfant. Moi juge, continua-t-il, je n’aurais pas, je vous l’avoue, la force de condamner ce jeune homme. </p>
+          <p> —C’est que vous êtes homme, vous monsieur! répondit Louise avec amertume. </p>
+          <p> —Il ne s’agit pas de cela, madame, répondit l’homme de loi: je vous parle justice et raison. En tout cas, ce M. Gustave a pris sans doute les précautions nécessaires pour n’être pas inquiété dans sa fille. </p>
+          <p> —Mais on lui demandera d’où elle lui vient, cette fille? </p>
+          <p> —Il l’a trouvée un soir, au coin d’une borne, et il l’élève. </p>
+          <p> —Mais, mon enfant, à moi, ne faut-il pas qu’il dise ce qu’il en a fait, ce qu’elle est devenue? </p>
+          <p> —Il l’a mise aux Enfans trouvés ... Croyez-moi, madame, je vous le dis dans votre intérêt: ce que vous avez de mieux à faire, c’est de décider Gustave à vous rendre votre fille par amour pour vous..... S’il résiste, eh bien! en désespoir de cause, vous le menacerez d’un procès peu honorable. </p>
+          <p> —C’était là mon intention d’abord, répondit Louise; quand j’ai passé près d’ici, j’allais trouver lui ou son père. </p>
+          <p> L’avocat l’affermit dans ce projet, en lui disant qu’au pis-aller les lois lui pourraient être de quelque secours,—mais, ajouta-t-il, d’un secours si douteux, madame, que je vous conseille de tenter un arrangement à l’amiable. Vous êtes plus certaine de réussir par la douceur que par la violence; plus certaine aussi de réussir par la peur que vous lui ferez de la justice, que par l’arrêt que prononcerait la justice elle-même. </p>
+          <p> Il l’engagea très-fortement à lui venir rendre compte, le lendemain, du succès de sa démarche, et Louise le quitta après l’avoir remercié de bouche, mais non de cœur: car dans les paroles de cet avocat elle n’avait puisé ni plus de confiance, ni plus de courage; loin de là peut-être. Le corps débile et l’ame abattue, elle eut grand’peine à se traîner jusqu’à la porte de M. Charrière. Une femme, la portière sans doute, était dans la loge lorsque Louise y entra toute tremblante. </p>
+          <p> —M. Charrière demeure-t-il toujours ici, madame? </p>
+          <p> La portière répondit froidement: </p>
+          <p> —Si c’est M. Charrière père que vous demandez, il est mort depuis sept mois; si c’est le fils, il ne demeure pas dans cette maison. </p>
+          <p> —Mort! répéta Louise avec stupeur. Il est mort! et son fils?... </p>
+          <p> —Je vous dis qu’il ne demeure pas ici... D’ailleurs, il est parti ce matin avec sa demoiselle pour la campagne. </p>
+          <p> —Partir!... Et ils reviendront?... </p>
+          <p> —Oh! ma foi, je n’en sais rien, moi: je ne suis pas sa portière. Adressez-vous où il demeure, dans la maison en face: elle lui appartient. </p>
+          <p> —Son père mort, et lui parti avec mon enfant! murmura Louise... Je n’ai plus d’espoir qu’en Dieu! </p>
+          <p> Elle traversa la rue avec crainte, regardant timidement aux fenêtres de l’hôtel qui lui faisait face. </p>
+          <p> Quoiqu’elle fût certaine de ne rencontrer ni Gustave ni son enfant, elle ne put maîtriser sa vive émotion en mettant le pied dans cette maison, où ce matin encore était sa fille... </p>
+          <p> La première personne qu’elle y trouva fut le même domestique qui, la veille, aux Champs-Élysées, lui avait tenu les bras pendant que la voiture s’enfuyait. </p>
+          <p> Ils se reconnurent au premier coup d’œil. </p>
+          <p> Le domestique portait à la main une petite cassette en bois jaune, qu’il déposa bien vite sur d’autres petits paquets épars dans la cour de l’hôtel, et, courant à Louise, il lui cria d’une voix rude: </p>
+          <p> —Que demandez-vous? </p>
+          <p> Dans son trouble, Louise, au lieu de gagner la porte de la rue, remonta la cour de l’hôtel. Le domestique la poursuivit avec colère: </p>
+          <p> —Qu’est-ce que c’est que cette folle? Voulez-vous sortir d’ici tout de suite! </p>
+          <p> Elle se débattait timidement entre les mains de cet homme. Il lui fallut bientôt céder à la force. Le domestique la poussait et la traînait vers la rue. </p>
+          <p> Louise n’avait pas encore prononcé une seule parole, lorsqu’en passant à côté des paquets où le domestique venait de déposer la petite cassette en bois jaune, elle lut sur un carton: </p>
+          <p> «A M. Gustave Charrière, au château de Baroy, par Landrecies (Nord).» </p>
+          <p> —Ah! mon Dieu! s’écria-t-elle. </p>
+          <p> Le domestique, qui alors la tirait par le bras, et non sans résistance de la part de Louise, crut qu’il l’avait blessée; et prenant un ton plus doux: </p>
+          <p> —Sortez de bonne volonté, je ne vous ferai pas de mal. </p>
+          <p> Elle ne se le fit pas redire, et cette fois elle s’élança vers la rue. </p>
+          <p> Le concierge et plusieurs gens de l’hôtel étaient accourus à ce débat. </p>
+          <p> —Vous voyez bien cette femme, dit le domestique en la désignant du doigt; si jamais elle se présente ici, chassez-la comme une coquine: c’est une voleuse ou une folle. </p>
+          <p> Dans un jour moins agité, moins plein de sa fille, les injures du valet eussent fait une douloureuse impression sur le cœur de la pauvre mère; mais, à cette heure, que lui importait d’être insultée, battue même? Elle savait en quel lieu Gustave avait emmené son enfant!... et insensible à tout ce qui se passait autour d’elle, elle répétait tout bas, avec ardeur, et comme si elle eût craint de ne plus s’en ressouvenir: «Le château de Baroy, par Landrecies (Nord).» </p>
+          <p> Tout le long de la rue, qu’elle descendait précipitamment, elle n’eut que des pensées de bonheur. Plus loin, l’inquiétude la prit: comment aller là? qui lui indiquera son chemin? qui donc, dans le fond de cette province où elle ne connaît personne, la défendra contre Gustave, si Gustave refuse de lui rendre sa fille? </p>
+          <p> Elle pensa que le jeune avocat, dont elle avait éprouvé la bienveillance au Palais de Justice, l’aiderait une seconde fois de ses conseils. Elle chercha le bout de papier sur quoi il lui avait écrit son adresse; mais ce papier, elle ne le trouva point: il était perdu. Peut-être lui était-il échappé pendant sa lutte avec le domestique. </p>
+          <p> Cet accident ne la désespéra point: au contraire. L’impossibilité d’être secourue doubla son énergie. Sans guide et sans conseil, réduite à ses propres forces, elle se sentit tout autre que si elle eût compté sur une protection étrangère. Elle fut presque contente d’être seule, elle qui, une minute auparavant, s’inquiétait de n’avoir pas d’appui. Je suis mère, se dit-elle, ma fille est à moi: je la prendrai partout où elle sera. Puisqu’on m’a dit que les lois peuvent me la refuser, eh bien! je me passerai des lois. Je sais où est mon enfant, il ne me reste plus qu’à demander mon chemin. </p>
+          <p> Par malheur pour l’impatiente mère, l’argent nécessaire au voyage lui manquait; et puis, son corps usé de fatigues et de privations avait besoin de forces avant d’entreprendre ce voyage. La nature épuisée lui en fit une impérieuse loi. </p>
+          <p> Elle resta deux jours entiers sans pouvoir quitter sa petite chambre de la rue des Fossés-Saint-Victor. Outre la faiblesse de son corps, la pénurie d’argent était un empêchement à son départ. Les meubles de sa chambre lui appartenaient; mais ils étaient si rares et si chétifs, qu’à peine un miroitier, son voisin, lui en offrit trente-cinq francs. Avec cette somme, il lui fallait payer le loyer courant et faire sa route. Elle se désespérait. </p>
+          <p> Enfin, possédée du désir d’aller chercher sa fille, elle vendit à vil prix tout ce qu’elle possédait, paya vingt francs pour trois mois de loyer, pas même échus, et, après avoir demandé à Dieu de ne point l’abandonner, elle se mit en voyage avec quinze francs pour toute fortune. </p>
+        </div>
+        <div title="CHAPITRE III." type="chapter">
+          <head> CHAPITRE III. </head>
+          <p> Nous ne suivrons pas Louise lieue par lieue, tantôt montant pour quelque menue monnaie sur la voiture d’un maraîcher, tantôt seule, à pied, traînant avec peine ses jambes débiles; quelquefois n’interrompant pas sa route, même la nuit; d’autres fois se couchant sous les hangars ou dans les granges, afin d’économiser le loyer d’un lit d’auberge; avare du peu qu’elle a, car son argent doit servir moins à elle qu’à sa fille, lorsqu’elle sera rentrée dans la possession de cette fille, soit par ruse, soit par force. </p>
+          <p> Cependant quelle que soit son économie, le petit trésor qu’elle garde pour son enfant diminue de jour en jour. De la barrière Saint-Martin à Landrecies, le chemin est long et coûteux à qui voyage comme elle. Dans les rares villages, dispersés sur sa route, elle a pu trouver nourriture et gîte à bon compte; mais à Senlis, Compiègne, Noyon, Ham, Saint-Quentin, le peu de repos et d’alimens qu’elle a pris lui a été vendu cher... Arrivée à Landrecies, après quatre jours de marche, il lui reste tout au plus quelques francs. </p>
+          <p> Sa chaussure est usée, ses vêtemens tombent en lambeaux. Elle s’afflige à l’aspect de cette misère que va partager sa fille. Pourtant elle est à Landrecies, cette ville dont elle a demandé tant de fois le chemin aux voituriers, aux piétons des grandes routes; la voilà tout près de son enfant... Dans quelques heures elle la pressera sur ses lèvres... Mais cette pensée, tout heureuse qu’elle est, ne peut la distraire de cette autre pensée: je suis misérable, et quand ma fille aura faim, qu’est-ce que je lui donnerai à manger? </p>
+          <p> —N’importe, dit-elle, je veux la voir, et Dieu n’abandonnera sans doute ni la fille ni la mère! </p>
+          <p> Elle était entrée dans une pauvre auberge du faubourg; et là, présentant à regret le prix du morceau de pain et de la triboulette de bière qu’on l’avait obligé de boire sous prétexte que l’eau manque en Flandres, elle s’informait à quelle distance de la ville est le château de Baroy. </p>
+          <p> L’hôtesse commença par lui faire signe de garder son argent, puis elle ajouta: </p>
+          <p> —Les mendiantes ne paient jamais rien chez nous, tant s’en faut; mais, voyons, qu’est-ce que vous demandez? </p>
+          <p> —Le château de Baroy? </p>
+          <p> —Je ne connais pas ça. A moins que ce ne soit du côté d’Avesne? </p>
+          <p> Un enfant de douze ans, qui fumait gravement sa pipe, assis devant un énorme feu de charbon de terre, dit, sans détourner la tête: </p>
+          <p> —Le château de Baroy? ça doit être au-delà de Floyon. </p>
+          <p> —Et... est-ce loin d’ici, demanda Louise? </p>
+          <p> —Environ quatre lieues et demie, répondit l’immobile fumeur: il faut passer par Beaurepaire, le Rétiau, ensuite Floyon... A Floyon, on vous enseignera le château. </p>
+          <p> —Merci, dit Louise, merci, mes braves gens!... Mais, par où m’en aller? </p>
+          <p> —Par le Favril; attendez, je vais vous mettre dans votre chemin. </p>
+          <p> L’enfant se leva sans jeter un seul coup d’œil sur Louise, sans avoir l’air de se douter qu’il lui rendît service. Il la précéda d’un pas tranquille, pendant l’espace d’un demi-quart de lieue. </p>
+          <p> —Maintenant, lui dit-il en s’arrêtant, vous allez prendre ce sentier; au bout, vous trouverez une cache ; après cela, vous suivrez les pâtures , toujours tout droit, il n’y a pas moyen de se tromper. </p>
+          <p> Louise, habituée à ne pas quitter la grande route, laissa voir à l’enfant qu’elle craignait de s’égarer. </p>
+          <p> —Puisque c’est comme ça, lui dit-il, je vais vous conduire jusqu’au Favril. </p>
+          <p> Les excellentes gens que ces Flamands! pensait Louise, en marchant à côté de son jeune conducteur; leur bon accueil m’est d’un heureux augure pour le succès de mon voyage! Et puis, ajouta-t-elle tout bas et les larmes aux yeux, Dieu, sans doute, laisse éclater ses desseins dans le choix de mon guide; c’est un enfant qu’il me donne pour me conduire à la recherche de ma fille! </p>
+          <p> Tout près du Favril, avant de continuer seule le reste de sa route, Louise embrassa le petit garçon, fort étonné de cette vive étreinte, et plus surpris encore de sentir la main de Louise qui glissait dans la sienne quelques gros sous. </p>
+          <p> Il porta le poing à son bonnet de laine bigarrée, et, après ce geste incomplet de politesse, il quitta, sans mot dire, celle qu’il avait prise jusque-là pour une pauvre mendiante. </p>
+          <p> La partie de la Flandre, où Louise se trouvait alors, est coupée par d’innombrables prairies ouvertes au piéton en hiver, fermées en été. Dans cette dernière saison, le passage des prairies ou pâtures est abandonné pour les sentiers qui les côtoient; sentiers boueux, ombreux, bordés de haies odorantes qui se rejoignent par le faîte, et que les Flamands nomment des caches , sans doute parce que ce sont autant d’étroites et sombres voûtes que l’œil et le soleil ne peuvent percer. </p>
+          <p> Louise, qui suivait depuis plus d’une heure le chemin mystérieux et parfumé des caches , avait hâte d’arriver en pleine campagne; car il ne lui semblait pas qu’au terme de ces allées, elle dût jamais rencontrer un village. Elle cherchait une issue, quand, à sa grande joie, elle reconnut qu’elle était au sein même d’un lieu habité qu’elle longeait alors sans le savoir. </p>
+          <p> Quelques jeunes paysannes, coquettement vêtues et coiffées en cheveux, se livraient devant la porte d’une ferme aux travaux les plus grossiers de la campagne. Louise s’approcha d’elles avec timidité. </p>
+          <p> —Pouvez-vous me dire, mesdemoiselles, la route du château de Baroy? </p>
+          <p> Les jeunes Flamandes se regardèrent, comme pour s’assurer si quelqu’une d’entre elles ne savait pas où est ce château. Du moins Louise en jugea ainsi, et leur silence à sa question la confirma dans l’idée que ce château leur était inconnu. </p>
+          <p> —Mais, ajouta-t-elle, n’y a-t-il personne dans ce village qui puisse me dire où est situé Baroy? </p>
+          <p> Les taciturnes Flamandes reprirent leur besogne sans répondre. A la fin Louise entendit l’une d’elles qui disait à ses compagnes: </p>
+          <p> —Elle le sait aussi bien que nous où est le château de Baroy. </p>
+          <p> —Comment ne le saurait-elle pas, répondit une autre, puisque la voilà justement sur le chemin! </p>
+          <p> Louise, satisfaite de ce renseignement, reprit courage. Quelques champs passés, elle chemina, d’un pied leste, à travers un petit bois tapissé de verdure, au bout duquel se montra un frais hameau tout parfumé de prairies, de haies en fleurs et d’arbres fruitiers. C’était le Rétiau, où depuis elle revint bien souvent, attirée par l’accueil hospitalier des bons cultivateurs. Pour l’instant, nul intérêt possible ne la retenait là: elle n’y voyait pas de château. Elle continua donc d’aller droit devant elle. Après une petite lieue de marche à travers la campagne la plus riche et la plus suave qui soit en Flandre, Louise, dépassant Fontenelle, entra dans le village de Floyon. Quoiqu’elle n’aperçût pas de château, elle pensa que les arbres le cachaient. Elle crut être à Baroy. Cette erreur la fit s’arrêter à la première maison du village. C’était une auberge. Plusieurs hommes fumaient et buvaient dans une salle fort propre et en apparence sablée. La vue de ces hommes la déconcerta un peu; elle chercha des yeux si quelque femme ne viendrait pas à son secours: elle n’en découvrit aucune. L’aubergiste, qui buvait à une table, la voyant s’approcher d’une fenêtre, d’où elle regardait dans la cour, se leva, et planta tranquillement devant elle, sur le bord de la fenêtre, une mesure de bière et un verre. Après quoi il retourna prendre place à côté des buveurs, ses amis. </p>
+          <p> Louise se versa à boire, moins parce qu’elle avait soif, que pour ôter au cabaretier tout prétexte de la mettre dehors. Elle espérait sans cesse voir arriver la maîtresse de l’auberge, à qui du moins elle pourrait adresser quelques adroites questions sur Gustave, sa fille, le château. D’ailleurs, il lui fallait un asile, et mieux valait encore cette maison que toute autre: celle-ci, la première du village, isolée même des habitations, lui paraissait un abri sûr, un lieu où elle pourrait aisément éviter les regards de Gustave et des domestiques, jusqu’à ce qu’elle trouvât un instant favorable pour s’emparer de sa fille. </p>
+          <p> Le soir venait, et Louise, qui n’avait encore osé s’informer à personne du château de Baroy, crut entendre prononcer ce nom par un des hommes qui buvaient et causaient non loin d’elle. Toute son attention se porta sur cet homme: il était debout et semblait prêt à partir. </p>
+          <p> —Qu’est-ce que c’est, disait-il, qu’un quart de lieue d’ici Baroy? je serai au château avant dix minutes. </p>
+          <p> Là-dessus, il souhaita le bonsoir à l’aubergiste, et, sa pipe allumée, il s’en alla. Louise, sans tarder davantage, déposa sur la table le prix de sa mesure de bière, et, pressant le pas, elle ne tarda point à rejoindre le vieillard, car c’était un vieil homme, à la mine jaune, aux jambes peu assurées, qui avait l’air maladif et presque aveugle. </p>
+          <p> Son premier mouvement avait été d’accoster le vieillard, d’entrer en conversation avec lui, mais ensuite la réflexion lui faisant craindre qu’il ne soit un des domestiques du château, elle se tient à distance, de façon à n’être pas même remarquée du bonhomme. Son seul désir pour le moment est de connaître la retraite où Gustave cache sa fille. Avec quelle ardeur elle suit son guide! comme le cœur lui bat vite! comme elle est bien aise de vivre! chaque pas qui la rapproche de son enfant double pour elle le prix de l’existence... </p>
+          <p> Il lui fallut marcher environ une demi-heure avant de découvrir, non loin devant elle, une grande et belle maison, encaissée entre des prairies et un petit bois. Le sentier qui conduisait à cette espèce de château, descendait en pente douce à travers les pâtures; le bois était derrière la maison, qu’il dominait de toute la hauteur de ses arbres. Un jardin vaste, bien planté, séparait les pâtures du château, où l’on n’arrivait qu’après avoir traversé un ruisseau assez large pour qu’on eût jugé utile d’y jeter un pont formé de deux mauvaises planches. </p>
+          <p> Louise n’avançait plus qu’avec une extrême circonspection, elle regardait de toutes parts, craintive, heureuse, le cœur ému, le visage inquiet. Elle se levait sur la pointe des pieds, pour chercher au loin si elle n’apercevrait pas sa fille, et bien vite elle se faisait petite, elle se cachait derrière le vieillard, dans la peur d’être aperçue de Gustave... </p>
+          <p> Ils venaient de quitter les pâtures, nouvellement fauchées, et déjà le bonhomme passait le frêle pont de bois, au bout duquel s’étend le jardin du château.... Louise, debout sur la rive, où les prairies finissent, n’osait ni avancer ni retourner en arrière. Mais tout à coup voilà le vieillard qui vacille et qui tombe; lui porter secours fut un sentiment auquel tout autre céda. Oubliant même les précautions que lui commandait la plus simple prudence, et voyant que ses forces étaient insuffisantes pour tirer le pauvre homme de l’eau, elle se mit à crier, elle appela à son aide. </p>
+          <p> A ses cris, à ceux du vieillard, quelques personnes accoururent du château. Parmi ces personnes, Louise distingua sa fille, sa chère petite fille, qui se pendait à la main d’un homme, tous deux empressés, hors d’haleine... Ils n’étaient plus qu’à une très-courte distance d’elle, ils allaient assurément la voir et la reconnaître.... </p>
+          <p> La peur d’être reconnue, d’être poursuivie par Gustave ou ses domestiques lui enleva tout son courage de mère. </p>
+          <p> Elle se glissa le long de la haie des prairies, et, le dos courbé, elle remonta, en fuyant et en pleurant, le chemin qu’elle avait descendu si heureuse tout à l’heure. </p>
+        </div>
+        <div title="CHAPITRE IV." type="chapter">
+          <head> CHAPITRE IV. </head>
+          <p> Louise passait les nuits dans l’auberge de Floyon, et le jour elle se tenait parmi les sentiers qui avoisinent le château. Souvent on la rencontrait au pied du jardin, par-delà le ruisseau, cachée derrière la haie vive; mais, le plus souvent, c’était le petit bois qu’elle choisissait pour centre de ses observations. Protégée par l’épaisseur des arbres, elle pouvait, sans être vue, voir tout ce qui se mouvait autour d’elle. Du haut de la petite montagne boisée elle plongeait sur les environs, et pas un seul habitant du château ne sortait ou ne rentrait qu’elle ne le distinguât parfaitement, qu’elle ne le suivît de l’œil, même un peu loin. </p>
+          <p> Jusqu’à présent elle n’avait compté comme habitans du château que cinq personnes: sa fille, le vieillard avec qui elle était venue de Floyon, une femme âgée, une femme de trente ans environ, et un homme à peu près du même âge que cette dernière. Gustave n’avait pas encore paru. </p>
+          <p> Sa fille, la tête ombragée d’un grand chapeau de paille, courait presque tout le jour dans le jardin, mais jamais seule; c’était tantôt la jeune femme, tantôt l’homme de trente ans qui la surveillaient, jouant avec elle ou l’aidant à remuer la terre où elle se plaisait à faire de petites plantations. Louise finit par croire à l’absence de Gustave, et par reconnaître dans cet homme, assez proprement vêtu, celui-là même qui était accouru avec sa fille aux cris du vieillard. Ce soir-là, l’obscurité et la crainte avaient aisément pu lui faire prendre le change. Maintenant elle est certaine de s’être effrayée sans cause: Gustave n’est pas au château. </p>
+          <p> Pour ne pas éveiller les soupçons, elle n’avait encore osé questionner personne à ce sujet; d’ailleurs, l’aubergiste de Floyon, son hôte, était peu communicatif; rarement se voyaient-ils le soir quand elle rentrait, et rarement aussi le matin quand elle s’en allait, emportant avec elle un peu de pain pour se nourrir dans les champs. Si l’on considère en outre que la peur de laisser lire sur son visage l’objet de ses inquiétudes, le motif de son séjour, la faisait se cacher à l’approche de tout être humain, on concevra facilement l’ignorance où elle resta de la présence ou de l’absence de Gustave. </p>
+          <p> Le jour où ses seules observations lui montrèrent Gustave absent, elle se sentit hardie, forte; ses yeux éclatèrent d’espérance, son ame grandit de bonheur. Enfin, une porte assurée lui était ouverte pour aller à sa fille et la reprendre! mais ce jour-là aussi, par une fatalité déplorable, il se trouva qu’elle avait épuisé ses ressources pécuniaires. Le jour où elle eut tant de bonheur, elle n’avait plus de pain... </p>
+          <p> Tout entière à l’idée de reconquérir sa fille, son unique trésor, elle ne songeait à rien moins qu’à sa misère, lorsqu’une circonstance humiliante vint la lui rappeler. Elle s’était glissée timidement dans la cour du château, avec l’intention de demander à quelque domestique si son maître était là, quoiqu’elle fût certaine du contraire; mais cette question devait servir d’excuse à sa démarche. La première personne qu’elle vit fut le compagnon habituel des jeux de sa fille, cet homme que le soir de son arrivée elle prit pour Gustave. </p>
+          <p> —Le maître du château est-il ici? demanda-t-elle en tremblant. </p>
+          <p> —Non, ma brave femme; non, il est à Paris, mais c’est égal, quand le maître n’y est pas, le jardinier s’y trouve. </p>
+          <p> En disant cela, il rentra bien vite dans la maison, d’où il sortit avec un morceau de pain et quelques liards qu’il tendit à Louise. Elle ne se hâtait pas d’accepter. </p>
+          <p> —Eh bien, prenez donc! dit-il. </p>
+          <p> —Mais je ne suis pas une mendiante, répondit Louise, la tête penchée sur sa poitrine. </p>
+          <p> —Pas une mendiante! répéta le jardinier d’un ton de doute. Qu’est-ce que vous êtes donc? </p>
+          <p> —Je cherche... du travail, reprit-elle. Pouvez-vous m’employer à quelque ouvrage dans ce château? Alors, je vivrai de ce que je gagnerai et non d’aumônes... </p>
+          <p> Elle avait prononcé ces derniers mots avec un vif accent de tristesse. </p>
+          <p> —Prenez toujours, dit le jardinier, si l’on ne peut pas vous donner de travail, ce n’est pas une raison pour mourir de faim. Mangez en attendant mieux. </p>
+          <p> —Je n’ai pas faim, mais j’ai soif, dit Louise, qui cherchait un prétexte pour entrer dans le château. </p>
+          <p> —A la bonne heure, répondit le jardinier, suivez-moi, je vais vous donner à boire... </p>
+          <p> Louise, avant d’entrer, jeta un coup d’œil sur le jardin, où elle n’aperçut pas sa fille, qui tout à l’heure y jouait encore. </p>
+          <p> —Où peut-elle être? se demanda-elle avec inquiétude. </p>
+          <p> Le jardinier lui servit de la bière, du pain et du beurre. </p>
+          <p> —Tenez, lui dit-il, restaurez-vous, ma brave femme... Puisque vous ne mendiez pas, on verra à vous donner quelque chose à faire. Eh bien! vous ne buvez pas votre bière? Aimez-vous mieux du café? </p>
+          <p> —De l’eau, dit Louise, un peu d’eau seulement. </p>
+          <p> Elle ajouta: </p>
+          <p> —Est-ce que vous habitez seul cette grande maison? </p>
+          <p> —Seul? non pas; j’ai mon père, ma mère, ma femme et notre demoiselle. Ils viennent de partir tous quatre pour la ducasse d’Étrœung. Mais mangez donc, buvez donc; qu’est-ce que vous faites? </p>
+          <p> —Elle est partie! murmura Louise. </p>
+          <p> —C’est une innocente , pensa le jardinier, pour qui le mot innocent était le synonyme flamand d’ hébété , de fou tranquille . </p>
+          <p> Il reprit haut: </p>
+          <p> —Est-ce que vous n’allez pas à la ducasse d’Étrœung, vous? </p>
+          <p> —Je ne vous comprends pas, répondit Louise avec trouble. </p>
+          <p> — Innocente! se dit le jardinier en hochant la tête. </p>
+          <p> Sur quelques réponses de Louise aux questions nouvelles qu’il lui fit, le jardinier jugea que la pauvre femme joignait à une innocence complète la plus complète absence de mémoire. A force de lui répéter les mots ducasse et Étrœung, il crut pouvoir la redresser dans son bon sens. A la fin Louise comprit qu’Étrœung était le nom d’un village ou bourg voisin, et que ducasse signifiait apport , fête patronale . Une fois cette connaissance acquise, elle demanda combien de jours durait la fête. </p>
+          <p> —Trois jours, dit le jardinier, mais tout notre monde reviendra demain soir, j’espère. </p>
+          <p> Louise s’alarma de penser qu’il lui faudrait rester près de deux jours sans voir son enfant, et, tourmentée de cette crainte, elle pria son hôte de la mettre promptement sur le chemin d’Étrœung. Il y consentit, mais seulement après avoir exigé de Louise qu’elle prît un peu de nourriture. Cela fait, il lui indiqua le chemin à suivre, précisément du côté opposé à la porte par où elle était entrée dans le château. </p>
+          <p> Elle reconnut alors que, pendant qu’elle descendait le bois sur la gauche, sa fille et ses compagnons de plaisir tournaient le bois à droite, et fuyaient en carriole sur la grande route. </p>
+          <p> Arrivée en plaine, Louise s’imagina voir la carriole qui roulait tout au loin, et elle se mit à courir. </p>
+          <p> —Pauvre innocente ! répéta le jardinier. </p>
+          <p> Une file de lourdes charrettes et de petites voitures d’osier venait rapidement derrière elle, toutes chargées d’hommes, de femmes et d’enfans qui allaient à la ducasse. </p>
+          <p> Louise, à chaque voiture qui passe, tend les bras en suppliant... Elle veut dire: Emmenez-moi donc aussi! Mais ce muet langage n’est entendu de personne. Qui peut se douter, à voir Louise, la face pâle et les vêtemens usés, qu’elle se rend, comme eux tous, à une fête? Ils lui jettent quelques gâteaux, quelques gros sous, et puis la voiture les emporte au bruit des éclats de rire et des chansons. </p>
+          <p> Elle croyait être encore bien éloignée d’Étrœung, lorsque l’aiguille d’un clocher, le cri des instrumens de musique, le mouvement moins rapide des voitures, l’apparition de jeunes filles et de jeunes garçons qui dansaient dans une pâture, lui apportèrent l’espérance d’embrasser bientôt sa fille, à la faveur de la confusion et de la joie publique. </p>
+        </div>
+        <div title="CHAPITRE V." type="chapter">
+          <head> CHAPITRE V. </head>
+          <p> La plupart des villages de Flandre s’allongent des deux côtés d’un grand chemin qui va tout droit l’espace d’une demi-lieue, d’une lieue quelquefois. Chaque maison est plantée entre un petit jardin potager et une prairie; celle-ci derrière, celui-là devant, de façon que vous ne pouvez interroger les habitans du logis sans faire un long détour. C’est un retard continuel pour l’étranger qui, cherchant quelqu’un en ce pays, veut épier les commensaux de chaque maison, les uns après les autres. Cet inconvénient ne compense pas l’avantage de n’avoir à parcourir qu’une seule rue. </p>
+          <p> Etrœung, bourg plutôt que village, ne présentait pas à l’impatience de Louise le même obstacle. Mais en revanche, la multiplicité de ses rues, toutes fuyant on ne sait où, tantôt dans la vallée, tantôt sur la montagne; ici, cachées sous des haies, là, perdues sous le roc, opposait à ses recherches des empêchemens plus grands peut-être que n’aurait pu le faire la disposition de maisons situées entre jardin et pâture. </p>
+          <p> Encore, si elle connaissait quelque personne de ce bourg, ou du moins si elle habitait la Flandre depuis un temps plus long, elle saurait que, pendant la ducasse surtout, chaque maison est la sienne, qu’elle peut y entrer librement, s’y asseoir, y manger, y dormir, sans que personne lui dise: Va chercher gîte et nourriture ailleurs! Sa qualité d’étrangère lui ouvre toutes les portes, notamment aujourd’hui, fête patronale. Mais elle ne sait rien de tout cela, et c’est parmi les rues, les places publiques, qu’elle traîne sa misère et son amour. </p>
+          <p> Pas un recoin du bourg n’a échappé à son inquiétude maternelle. Elle a visité l’église, elle a long-temps attendu sur la pelouse où l’on danse, elle s’est arrêtée devant tous les marchands de jouets d’enfant, dans l’espoir que sa fille passera de ce côté.... elle n’a rien vu. </p>
+          <p> Un moment elle se frappe de l’idée que ce bourg pourrait n’être pas Etrœung. Elle n’ose interroger les passans, de peur d’exciter leur méfiance.... car elle continue de croire que se dire étrangère, ce serait presque dire son secret. Elle appréhende de prononcer le plus petit mot qui la trahisse, et cependant ne faut-il pas qu’elle sache enfin où est sa fille? </p>
+          <p> En ce moment un vieil homme cause sur la porte d’un cabaret. Louise a reconnu ce vieillard; c’est son guide de Floyon, le père du jardinier sans doute... Son enfant ne peut être loin; elle s’approche furtivement, regarde à travers les vitres du cabaret: les musiciens accordent leurs violons, les jeunes garçons vont prendre leurs danseuses; on se met en place. Louise pousse un cri... voilà sa fille! </p>
+          <p> Le bruit des violons a étouffé ce cri de la pauvre mère; mais il lui a semblé que son enfant avait jeté les yeux de son côté et que ses yeux avaient témoigné de la crainte... Elle se souvient alors d’avoir entendu dire à sa fille, dans les Champs-Élysées: Papa, cette femme me fait peur! </p>
+          <p> —Malheureuse que je suis, pensa Louise, je lui fais peur!... </p>
+          <p> Cette réflexion la reporta tout entière à la scène des Champs-Élysées, et elle trembla que son enfant ne vînt à retrouver en elle la femme que Gustave avait insultée du nom de folle, qu’il avait fait contenir et presque maltraiter par la main de ses valets... </p>
+          <p> Un frisson lui courut par tout le corps. </p>
+          <p> —Oh, s’écria-t-elle, ma fille ne voudra jamais venir avec moi, elle se débattra, elle me repoussera, elle m’appellera folle!... </p>
+          <p> L’infortunée pleurait en disant: elle m’appellera folle! </p>
+          <p> —Pourtant, pensa-t-elle, le voyage a dû bien me changer. Je dois être bien changée, surtout depuis mon séjour en Flandre... D’ailleurs, elle ne m’a vue que le soir, à Paris, dans l’ombre; elle ne peut m’avoir reconnue à travers ces vitres, et je serais près d’elle que sans doute elle ne me reconnaîtrait pas non plus... Dieu le veuille! </p>
+          <p> Elle courut tout proche de là, vers une boutique en plein vent, où elle se rappelait avoir vu tout-à-l’heure de petits miroirs encadrés dans leur bois rouge. Elle en prit un, comme pour s’assurer s’il était bon. En se voyant telle que le malheur et la fatigue l’avaient faite, en se voyant souillée de poussière, les yeux caves, les lèvres flétries, les joues ternes et creuses, elle rejeta le miroir avec épouvante, et elle se dit:—Non, non, elle ne me reconnaîtra pas.... mais hélas! m’aimera-t-elle?... je suis si laide! </p>
+          <p> La certitude de n’être pas reconnue la contentait moins que ne l’affligeait la perte de sa beauté:—Elle me repoussera, elle ne voudra pas m’embrasser, je lui ferai peur!.. s’écriait la pauvre mère. </p>
+          <p> Elle ne s’approcha qu’avec crainte du cabaret où n’avait pas encore cessé la danse. Après être demeurée long-temps derrière les vitres à contempler sa fille, sa fille, qui dansait et qui paraissait heureuse; après avoir hésité beaucoup, elle entra, parce que les violons s’étaient tu soudainement, que le tumulte était dans la salle, et que personne ne pouvait faire attention à elle. </p>
+          <p> Sa fille, qu’un petit garçon tenait par la main, vint reprendre place et s’asseoir entre deux femmes, une jeune et une vieille, celle-ci la mère, celle-là la femme du jardinier du château. </p>
+          <p> Toutes deux, chacune à leur tour, déposèrent un baiser sur le front de l’enfant, qui leur sourit avec joie. Louise, heureuse de voir caresser son enfant, malheureuse de ne pas le caresser, ouvrait les lèvres et les agitait, en les poussant vers sa fille... </p>
+          <p> Dans ce baiser factice, elle ne recueillit que de grosses larmes, qui lui coulèrent des yeux dans la bouche... </p>
+          <p> Le bal recommença. La joyeuse enfant se leva de nouveau pour danser. Louise courut au-devant d’elle pour toucher sa robe ou sa main en passant... mais elle ne le put, emportée par la foule. Les bancs s’étaient dégarnis de jeunes filles. La vieille et la jeune femme du château restaient à leur place, et tout le long d’elles était un grand espace vide. Louise se glissa de ce côté et s’assit à la gauche de la plus jeune gardienne de son enfant. </p>
+          <p> Les violons criaient depuis environ cinq minutes; la danse était animée et bruyante. </p>
+          <p> —Regardez donc la jolie petite fille, madame... dit Louise à sa voisine. </p>
+          <p> La voix de Louise était à demi étouffée par l’émotion. </p>
+          <p> —Laquelle? demanda vivement la femme du jardinier. </p>
+          <p> —Celle qui est si jolie, là-bas..... dit Louise, qui ne trouvait pas alors d’autre expression pour désigner son enfant. </p>
+          <p> —Ah! celle qui a des brodequins rouges? </p>
+          <p> —Oui, celle qui a une si jolie figure, madame. </p>
+          <p> —Eh bien! c’est ma fille, répondit la jeune femme. </p>
+          <p> —Votre fille!... répéta Louise dont tout le sang se glaça d’effroi. </p>
+          <p> —Sans doute, ma fille. </p>
+          <p> —Celle qui a des cheveux blonds bouclés, une robe lilas, une écharpe rose et un petit mouchoir brodé à la main? </p>
+          <p> —Justement; celle qui a la robe lilas, l’écharpe rose... la plus belle du bal enfin, c’est celle-là qui est ma fille. </p>
+          <p> Louise fit un haut-le-corps, un feu brûlant lui monta à la poitrine, ses joues pâles se colorèrent aux pommettes, ses yeux devinrent brillans et fixes; elle n’osait plus penser, il lui sembla que toute sa vie n’était qu’un rêve horrible. </p>
+          <p> —Sa fille! murmura-t-elle avec un son de voix sourd et plaintif. </p>
+          <p> —Eh bien! oui, qu’est-ce que vous trouvez donc d’étonnant à cela? demanda la jeune femme, en se tournant pour la première fois du côté de Louise; parce que c’est l’enfant de notre seigneur  [1]  , est-ce que vous vous imaginez que je ne peux pas bien l’appeler ma fille? le seigneur n’y voit pas de mal, au contraire. Tiens, quand on a gardé un enfant cinq ans, et qu’on l’a nourri..... </p>
+          <p> Il était temps pour Louise que cette explication vînt, car déjà sa tête s’égarait; mais aux dernières paroles de la nourrice de sa fille, son cœur se dilata, sa vue s’éclaircit, ses idées devinrent plus nettes. Elle regardait la jeune femme avec amour. </p>
+          <p> —C’est vous qui l’avez nourrie, madame?.. Ah! que vous êtes heureuse! </p>
+          <p> La femme du jardinier ne répondit rien: elle parlait bas à sa belle-mère, qui disait en penchant la tête et en regardant Louise de travers: </p>
+          <p> —Quand on vient dans un bal, on se costume mieux que ça, et on ne fait pas d’avanie au monde. </p>
+          <p> —Mais elle ne m’a pas dit de malhonnêtetés, ma mère, répondit la femme du jardinier. </p>
+          <p> —C’est égal, Léocadie, on ne se présente pas à une danse quand on n’a pas de souliers à mettre. Si on veut absolument danser, eh bien! on danse dans la rue ou dans la pâture. </p>
+          <p> Louise ne savait trop comment renouer la conversation avec la nourrice de sa fille, quoiqu’elle eût le plus vif désir d’ôter à cette femme tout sujet d’étonnement et de plainte, en lui expliquant, d’une manière à peu près naturelle, les diverses exclamations qui lui étaient échappées. </p>
+          <p> La nourrice, ou mieux, pour l’appeler par son nom de demoiselle , Léocadie venait de se ranger un peu du côté de sa belle-mère, qui continuait à murmurer contre Louise, tandis que celle-ci, se rapprochant timidement de sa voisine, lui dit bien bas: </p>
+          <p> —Madame, pardonnez-moi; ma pauvre tête est malade. J’ai un enfant, je craignais de l’avoir perdu... Je ne l’ai embrassé qu’une fois dans ma vie... je ne l’ai pas nourri... Et voilà pourquoi je vous disais tout à l’heure que vous êtes bien heureuse, vous qui avez nourri votre... cette jolie petite fille!... Je suis mère, madame, et je n’ai pas mon enfant... Pardonnez-moi. </p>
+          <p> —Qu’est-ce qu’elle te dit donc encore? demanda la vieille femme. </p>
+          <p> —Elle me dit qu’elle a perdu son enfant, répondit Léocadie avec bonté. Pauvre malheureuse! </p>
+          <p> —Quand on a perdu son enfant, répliqua la vieille avec humeur, on ne vient pas dans un bal, surtout si on n’a pas d’habits propres. Je n’ai jamais vu ça de ma vie. </p>
+          <p> Léocadie, qui avait été flattée des éloges donnés par Louise à sa fille , et qui, en outre, avait eu le malheur de perdre deux de ses enfans, à quelques mois de distance, se sentit touchée de pitié, et, malgré les coups de genou significatifs que lui donnait sa belle-mère, elle se tourna un peu vers Louise, à qui elle dit: </p>
+          <p> —Vous la trouvez donc bien jolie, ma fille? </p>
+          <p> —Oh! charmante, soupira Louise; je ne suis entrée ici que pour elle, pour la voir; elle me rappelle la mienne... mon enfant aurait son âge et sa beauté... </p>
+          <p> La contredanse finit. Danseurs et danseuses accouraient pour s’asseoir; Louise vit l’instant où il lui faudrait quitter son banc. Elle ne pouvait s’y résoudre, car sa fille venait droit à elle... </p>
+          <p> Elle se pencha à l’oreille de Léocadie. </p>
+          <p> —Voulez-vous me permettre de l’embrasser, madame?... </p>
+          <p> —Si ça vous fait plaisir, je ne demande pas mieux, répondit la nourrice. </p>
+          <p> Louise ouvrait les bras, mais son enfant, qui n’avait pas même fait attention à ce geste, reprit vivement sa place entre les deux femmes du château. </p>
+          <p> —Tiens, ma fille, dit Léocadie, voilà une pauvre femme qui te demande la permission de t’embrasser. Veux-tu? </p>
+          <p> Louise s’était levée, le corps tremblant, les bras étendus... L’enfant, soit vague souvenir des traits de Louise, soit dégoût des misérables vêtemens dont elle était à peine couverte, fit une petite mine maussade, et murmura: </p>
+          <p> —Non, maman; je ne veux pas embrasser cette pauvresse... Si elle a besoin de quelque chose, je vais lui donner un sou; mais l’embrasser... pourquoi faire? </p>
+          <p> —Otez-vous donc de là, la femme! dirent quelques jeunes garçons en poussant Louise. </p>
+          <p> —Faites-la sortir du bal! s’écria la vieille belle-mère de Léocadie; ce n’est pas ici sa place. </p>
+          <p> Louise, jetée de côté et d’autre par de lourds walseurs, se trouvait alors lancée près de la porte. Elle s’enfuyait pour cacher son désespoir à tous les regards, lorsque sa fille, entraînée par Léocadie, la rejoignit dans la rue. </p>
+          <p> —Eh bien! embrassez-moi donc, lui dit l’enfant en lui tendant sa joue. </p>
+          <p> La petite fille était rouge de honte. Louise jeta sur elle des yeux pleins de tristesse. </p>
+          <p> —Si vous m’embrassez, c’est parce qu’on vous l’ordonne?... Non, quand vous m’aimerez... </p>
+          <p> La nourrice la regardait avec compassion, sa fille avec étonnement. Elle eut peur d’en avoir trop dit, quoique l’altération de son visage en dit plus encore... et elle s’éloigna bien vite. </p>
+          <p> —Mon Dieu! mon Dieu! s’écriait Louise en s’enfonçant dans les rues les plus désertes du bourg, elle me méconnaît, elle ne m’aime pas, et c’est à une autre qu’elle donne le nom de mère! </p>
+          <p> Peu de temps après, elle se repentit de n’avoir pas embrassé sa fille; elle s’en étonna surtout, ne comprenant pas qui lui avait donné cet horrible courage. Elle s’accusa de folie, et, dans la crainte que sa fille ne quittât promptement le bal et qu’il lui fût difficile de la retrouver, elle se dépêcha de revenir à la salle de danse. Ce ne fut pas sans peine qu’elle put reconnaître, parmi tous les cabarets du bourg, celui où elle avait laissé son enfant. Elle regarda du dehors à travers les vitres, puis elle se glissa près de la porte, puis elle entra dans le bal... Sa fille n’y était plus. </p>
+          <p> Léocadie et sa belle-mère l’avaient emmenée chez monsieur le mayeur , où ils dînaient tous. Si Louise avait su cela, il lui eût été facile de s’introduire dans la maison du maire, d’y voir sa fille à la faveur de l’hospitalité des jours de ducasse; mais, faute de savoir précisément où était son enfant, elle dépensa en d’inutiles recherches un temps qu’elle eût employé si bien au profit de son bonheur. </p>
+          <p> Mais il était possible que les habitans du château de Baroy se rendissent à la prairie, où elle avait vu des danses, à son arrivée dans le bourg. Cette espérance la fit se diriger de ce côté. Il était déjà tard. </p>
+          <p> Louise ne vit personne sur la pelouse, si vivante, si bruyante tantôt. Elle s’assit au bord du chemin en se disant: </p>
+          <p> —Du moins, lorsqu’elle s’en ira, je la verrai passer. </p>
+          <p> La soirée était calme, chaude; la nuit fut douce. Louise resta là toute la nuit. </p>
+          <p> Réveillée de bonne heure par la faim, elle trouva sur sa robe une dizaine de sous dont elle était redevable à la pitié de quelques passans. Elle remercia Dieu de ce bien, qu’elle prit sans honte cette fois, car elle n’avait pas vu la main qui lui en avait fait aumône. Elle se traîna vers le bourg, mais sans quitter la rue qui aboutit à la grande route. </p>
+          <p> Déjà plusieurs portes étaient ouvertes. Quelques marchands étendaient leurs boutiques en plein air; de petits garçons à moitié vêtus se montraient aux fenêtres. Louise cherchait un boulanger. En promenant ses yeux de toutes parts, un objet la frappa, à cause de la circonstance que je vais dire. </p>
+          <p> Sa fille, dans le bal, avait perdu une de ses boucles d’oreilles, et elle s’en était désolée un moment, pendant que Louise était encore là; cet accident, au reste, avait eu lieu avant que Louise ne parût à la danse. </p>
+          <p> Parmi les objets de peu de valeur, épars sur la boutique portative d’un marchand de verroterie, la pauvre mère aperçut cette boucle seule, dépareillée, et elle crut la reconnaître pour être le pendant de celle dont sa fille avait si fort déploré la perte. </p>
+          <p> Elle s’approcha du marchand. </p>
+          <p> —Combien vendez-vous cette boucle? </p>
+          <p> Le marchand prit un air fin:—Ah! ce que je la vends? ça dépend de ce qu’elle vaut. Si c’est de l’or, quatre francs; si c’est du chrysocale, dix sous. Ainsi, ma brave femme, avez-vous quatre francs? je vous la donne. </p>
+          <p> —Mais, répliqua Louise en rougissant (car elle faisait presque sciemment un mensonge), cette boucle n’est pas en or... </p>
+          <p> —Je ne m’y connais pas trop, à vous dire vrai. Un petit garçon me la vendit hier au soir.... Il l’avait trouvée, et ma foi!... Allons, je vous la vends dix sous. </p>
+          <p> Louise sollicitait une diminution de prix dans l’espoir qu’il lui resterait quelque chose pour acheter du pain; mais le marchand s’en tint invariablement à la somme fixée. Elle abandonna le peu d’argent qu’elle possédait. Puis, s’excitant à pleurer de joie pour faire taire les douleurs de la faim, couvrant de baisers cette petite boucle qui avait touché les joues de sa fille, riche de ce seul trésor, elle remonta la rue avec la pensée d’aller s’asseoir de nouveau sur la route, par où devait s’en retourner son enfant. </p>
+          <p> Mais son courage était plus grand que ses forces; elle sentit la tête qui lui tournait, ses jambes qui fuyaient sous elle, et, de peur de tomber, elle s’appuya rudement contre une porte qui s’ouvrit... </p>
+          <p> —Entrez! lui dit une voix, entrez et mangez, la femme: il y en a ici pour tout le monde. </p>
+          <p> Dans les villages de cette partie de la Flandre, durant les ducasses, une table, chargée de mets, reste dressée trois jours de suite. Des jambons, de lourdes pâtisseries, des viandes froides s’offrent sans relâche à l’appétit des convives dont l’estomac se repose à peine la nuit. </p>
+          <p> On déjeunait. Louise, à qui la vue d’une table bien servie avait rendu des forces, n’osait cependant prendre place à côté de tous ces hommes, de toutes ces femmes, dont pas une seule figure ne lui était connue. </p>
+          <p> —Asseyez-vous et mangez, répéta le maître de la maison. </p>
+          <p> Après quoi on cessa de s’occuper d’elle. Surprise de cette hospitalité, qui, pour une Parisienne, tenait presque du roman, Louise hésitait encore, quand ses yeux se portèrent sur le rebord d’un buffet, où on avait abandonné quelques débris de pain et de jambon. Elle se glissa de ce côté, comme une coupable, et tournant le dos à la table, elle usa timidement de la liberté qu’on lui laissait de se nourrir. </p>
+          <p> Sa provision à peu près faite, elle salua les convives, qui ne la regardèrent pas, et voulut adresser des remerciemens au maître de la maison, qui lui dit sans l’écouter: </p>
+          <p> —A votre service, tant qu’il vous plaira! c’est encore aujourd’hui et demain fête! </p>
+          <p> Louise regagna promptement le lieu où elle avait passé la nuit, car elle n’oubliait pas que sa fille et les autres habitans du château de Baroy devaient partir ce jour-là même. Toutefois, comme il était encore matin, elle pensa que leur départ n’était pas si proche qu’ils ne pussent venir faire une promenade sur le pré. Elle quitta donc la route pour pénétrer dans la pâture, où commençaient à paraître quelques musiciens et quelques jeunes filles. </p>
+          <p> Une demi-heure à peine écoulée, Louise entendit derrière elle le bruit d’une voiture. Elle détourna la tête; quatre personnes étaient dans une petite carriole découverte. Entre ces quatre personnes, elle distingua sa fille. La voiture allait à peine au trot du cheval, mais, à cause de l’avance qu’ils avaient sur Louise, il était à craindre que celle-ci ne pût rejoindre que très-difficilement les voyageurs. </p>
+          <p> Sans réflexion aucune, sans songer ni à ce que penseraient d’elle les habitans de Baroy, ni aux explications embarrassantes qu’il lui faudrait donner sur un emportement si extraordinaire, Louise, ne voyant qu’une chose, la voiture qui fuyait, qu’une personne, sa fille qui partait sans elle, se mit à courir et à crier tant qu’elle eut d’haleine. La petite carriole n’en allait que plus vite; car l’enfant était effrayé, et la vieille belle-mère, conductrice de l’équipage, fouettait le cheval de toute la vigueur de son bras. </p>
+          <p> Dans sa douleur, Louise se ressouvint, par miracle, de la petite boucle d’oreille, et, comme s’il eût été possible à sa fille ou à Léocadie de voir luire de loin ce petit bijou d’or, elle le leur tendait en redoublant ses cris. </p>
+          <p> A la fin, la voiture s’arrêta. Léocadie l’avait exigé, en apparence pour son beau-père qu’ils amenaient malade, mais en réalité pour Louise qui lui faisait compassion. </p>
+          <p> —Sa boucle d’oreille, s’écriait Louise, je vous rapporte sa boucle d’oreille! </p>
+          <p> L’effroi de la petite fille se changea en un vif plaisir à la vue de sa chère boucle tant pleurée. La vieille belle-mère murmura tout bas que Louise avait volé ce bijou; Léocadie répondit doucement que d’ordinaire les voleurs ne prennent pas pour rendre; Louise en balbutiant conta comment cet objet avait passé dans ses mains; la vieille belle-mère hocha la tête; Léocadie parut autant surprise qu’attendrie; l’enfant remercia beaucoup la pauvresse ; le vieux beau-père, fort souffrant, ne disait mot. Louise côtoyait péniblement la voiture, qui allait au pas. </p>
+          <p> Montez donc dans notre carriole, dit Léocadie, vous ne pouvez plus marcher. </p>
+          <p> —Monter! murmura la vieille mère, et où veux-tu donc qu’elle se place? nous sommes déjà si à l’étroit que j’en étouffe. </p>
+          <p> —Je mettrai ma fille sur mes genoux, répondit la bonne nourrice. </p>
+          <p> —Oh! non, non, madame, je vous en prie, je la mettrai sur les miens... je ne veux pas que vous vous fatiguiez pour moi,.. et puis, ajouta Louise avec une voix tremblante de bonheur, c’est une grâce que je vous demande.. Venez, ma chère petite, venez sur mes genoux... </p>
+          <p> Louise avait pris place dans la voiture, et sa fille hésitait encore entre elle et sa nourrice. Celle-ci dit tout bas à l’enfant: </p>
+          <p> —Mets-toi sur ses genoux... fais-lui ce plaisir-là: elle t’a rapporté ta boucle d’oreille. </p>
+          <p> Le cheval repartit au trot sous les coups de fouet redoublés de la vieille belle-mère, et Louise, dont toutes les peines s’effaçaient en ce moment, pressait, serrait dans ses bras sa fille assise sur elle. Les épaules, les cheveux, les vêtemens de sa fille, elle baisait tout avec une ardeur que ne pouvait modérer la crainte de se trahir. Les soubresauts de la carriole lui offraient à toute minute un prétexte pour étreindre son enfant, pour appliquer ses lèvres sur son cou, sur sa chevelure, sur sa robe... et elle pleurait doucement. </p>
+          <p> Un instant, elle passa la main sous l’écharpe de sa fille, glissa les doigts vers sa poitrine, les arrêta sur son jeune cœur, et le sentant battre avec force, elle crut que ce cœur battait pour elle, elle crut que son enfant devinait que la pauvresse qui la tenait dans ses bras c’était sa mère..... </p>
+          <p> Louise, à aucune époque de sa vie, n’avait ressenti une joie plus grande. Léocadie la regardait de côté, de temps en temps, de manière à ne pas gêner son bonheur, et elle se disait, la bonne nourrice: </p>
+          <p> —Pauvre femme! apparemment que son enfant ressemblait bien à notre demoiselle! </p>
+          <p> Il arriva, dans un moment où Louise murmurait timidement quelques mots de tendresse à sa fille, distraite par les cahots de la voiture, il arriva que Louise se troubla tout à coup, frappée qu’elle fut par une réflexion pénible. </p>
+          <p> —Madame, dit-elle à Léocadie, quel est le nom de..... quel est son nom? </p>
+          <p> —Julie. </p>
+          <p> —Julie!..... Ah! se dit Louise, ce n’est pas mon nom qu’il lui aurait donné! </p>
+          <p> —Julie, répéta Louise en glissant ce nom à l’oreille de sa fille, Julie... </p>
+          <p> L’enfant se retourna..... </p>
+          <p> Louise la regarda avec ivresse..... </p>
+          <p> —Julie..... où est votre mère?..... </p>
+          <p> La petite fille tendit les bras à sa nourrice. </p>
+          <p> —N’en avez-vous pas eu une autre? dit Louise, dont la tête s’égarait..... dites, Julie, où est votre mère?..... </p>
+          <p> —Hélas! répondit la nourrice, ma bonne petite fille n’a jamais connu d’autre mère que moi..... Sa mère est morte en la mettant au monde. </p>
+          <p> —Morte! s’écria Louise!.... ils lui ont dit que sa mère est morte! </p>
+          <p> —Mais qu’est-ce qu’elle a donc à crier cette femme? s’écria à son tour la vieille belle-mère; voilà le cheval qui s’arrête de frayeur! </p>
+          <p> Le cheval s’arrêta par la raison que la voiture entrait dans la cour du château. </p>
+          <p> —Les malheureux! pensa Louise, ils m’ont dit à moi: Ta fille est morte; et à ma fille: Tu n’as plus de mère! </p>
+        </div>
+        <div title="CHAPITRE VI." type="chapter">
+          <head> CHAPITRE VI. </head>
+          <p> Célestin, le jardinier du château, était accouru très-inquiet de voir arriver tout son monde; il ne les attendait pas avant la fin du jour. Léocadie augmenta l’inquiétude de son mari en lui montrant leur vieux père malade et si faible, qu’ils furent obligés de l’aider à descendre de carriole. </p>
+          <p> —Notre père voulait revenir seul, dit-elle; mais je n’ai pas voulu, et moi revenant avec lui, il a bien fallu partir tous. Il n’y a que ma fille qui n’en a pas été trop contente. Tiens, regarde quelle grosse moue elle fait encore! </p>
+          <p> Célestin regarda l’enfant, qui paraissait fort mal à l’aise sur les genoux de Louise, qui l’entourait étroitement de ses bras, et la retenait serrée contre elle, quoique les autres voyageurs eussent quitté la voiture. </p>
+          <p> —Lâchez-la donc! criait la vieille belle-mère. </p>
+          <p> —Lâchez-moi! répéta Julie en pleurant et en se débattant. </p>
+          <p> Célestin reconnut Louise. </p>
+          <p> —Eh! mais, dit-il c’est l’ innocente ! Vous l’avez donc ramenée d’Étrœung? </p>
+          <p> —Une innocente ! dit la vieille belle-mère. </p>
+          <p> —Une innocente ! redirent Léocadie et l’enfant. </p>
+          <p> Dès ce jour-là Louise fut traitée avec une sorte de respect par les habitans du château  [2]  . La vieille belle-mère elle-même ne lui parlait plus qu’avec bonté. Léocadie lui montrait une pitié affectueuse et tendre. Célestin pensait que sa présence à Baroy devait porter bonheur à tous. Julie la considérait avec une crainte superstitieuse. Chacun lui témoignait de la compassion. On la laissait librement agir dans l’intérieur du château. </p>
+          <p> Louise, sans savoir au juste le sens du mot innocent , devina, à la conduite que tinrent ses hôtes envers elle, qu’ils la regardaient presque comme une insensée; elle en fut contente, parce que cela facilitait l’exécution de ses desseins; mais, d’un autre côté, elle en était attristée, parce que sa fille aurait plus de pitié que d’amour pour elle. </p>
+          <p> La maladie du vieillard ne fit qu’augmenter encore l’intérêt que Louise avait inspiré à ses nouveaux amis. Elle se dévoua entièrement à soigner le vieux malade: sa fille occupait une petite chambre à côté de celle du bon homme. Les habitans du château, qui ne soupçonnaient pas que Louise fût mère, ne pouvaient assez admirer le dévouement de cette pauvre femme, qui, après avoir passé tout le jour dans la chambre du malade, s’obstinait encore à y passer la nuit: ils ne savaient pas que la nuit, Louise allait embrasser sa fille... </p>
+          <p> Deux motifs s’étaient opposés à ce que Louise effectuât tout de suite les projets d’enlèvement qu’elle avait eus d’abord: le premier, c’était l’absence de Gustave, qui avait dit, en partant, que sans doute il ne reviendrait pas au château avant six mois; le second, c’était sa propre misère, à elle, malheureuse mère, qui vivait de la pitié d’autrui, et qui, une fois hors du château, manquerait de pain pour elle et son enfant, mais surtout pour son enfant. Elle la voyait bien vêtue, bien logée, ayant tout en abondance, et elle ne se sentait pas la force de l’arracher aux aisances de la vie, de lui faire échanger ce bien-être pour les aumônes des passans. D’ailleurs, elle voulait peu à peu se faire aimer de Julie, peu à peu lui faire comprendre qu’elle est sa mère; elle voulait, en outre, ne pas l’emmener avant d’avoir amassé un petit trésor avec quoi elle pût la nourrir quelques mois. Pour les mois, pour les années qui devaient suivre, elle s’en fiait à son amour et à la Providence. Le temps de liberté que lui laisse l’absence de Gustave, Louise l’emploiera à travailler la nuit, à mendier le jour. Ce projet elle lui donnera suite dès que le vieillard sera mieux portant. </p>
+          <p> L’indisposition du bon homme traîna quinze jours. Louise, redevenant libre de son temps, n’était cependant pas sans craindre l’arrivée subite de Gustave au château, quoiqu’on lui eût dit et répété que le seigneur ne reviendrait pas chercher Julie avant l’hiver; elle redoutait quelque malheur; elle avait peine à se défendre d’un pressentiment funeste. Son esprit ne commença à retrouver un peu de calme que quand Célestin l’eut assurée que Gustave les prévenait toujours de son départ de Paris, soit au moyen d’une lettre, soit par un domestique qui le précédait au château, afin de faire tout disposer pour le recevoir. </p>
+          <p> Lorsqu’à ces détails favorables pour son repos, se joignit la certitude qu’aucun habitant de Baroy ou des environs ne correspondait avec Gustave, et que par conséquent rien ne pouvait lui donner l’éveil sur l’ innocente qui habitait le château, Louise résolut de mettre à exécution ses petits projets de fortune. Elle pria Léocadie de lui fournir du travail. </p>
+          <p> —Et qu’avez-vous besoin de travailler? lui demanda Léocadie. Vous êtes faible, infirme; restez tranquille. On vous nourrit, vous êtes logée; que voulez-vous de mieux? A quoi bon vous fatiguer? et au surplus, que savez-vous faire? </p>
+          <p> —Je sais coudre, répondit Louise; donnez-moi le linge de la maison à raccommoder; et pour ma peine, je vous demande... </p>
+          <p> —Quoi? d’être nourrie? vous l’êtes; logée? vous l’êtes; vêtue? je vous ai déjà dit de choisir dans toutes mes robes. </p>
+          <p> —Je voudrais de l’argent, répondit Louise. </p>
+          <p> —De l’argent! s’écria la vieille belle-mère; et Jésus mon Dieu! qu’est-ce que vous ferez de votre argent? </p>
+          <p> —Ce qu’elle voudra, ma mère, ce qu’elle voudra; il faut contenter cette pauvre innocente . </p>
+          <p> Ce mot produisit sur la vieille flamande un effet presque magique. </p>
+          <p> —C’est vrai, dit-elle, je n’y pensais plus; il ne faut pas la contrarier, cette innocente ; mais au moins, si on lui donne de l’argent, est-il juste qu’elle le gagne par son travail. </p>
+          <p> —Soyez sûre que je le gagnerai, dit Louise. </p>
+          <p> La nuit suivante, elle dormit quelques heures sur une chaise, près du lit de son enfant, et les heures passées sans sommeil, elle les utilisa à travailler pour ses hôtes. Le jour, elle quitta le château et s’en alla mendier quelques sous à travers la campagne. </p>
+          <p> Toutes les nuits et tous les jours elle continua ce fatigant métier. Le château était le centre de ses excursions. A diverses heures de la journée, elle venait y embrasser sa fille, ou y prendre un peu de nourriture; car aux passans, elle ne demandait pas du pain, mais un sou. </p>
+          <p> Les habitans du château la laissaient faire, bien que ses nouvelles habitudes de mendicité leur fussent pénibles, à eux chez qui elle logeait. </p>
+          <p> Nous avons vu que Léocadie lui avait offert de suppléer à ses vêtemens en lambeaux par quelques hardes un peu plus convenables; cette proposition, Louise l’accueillit avec joie, puis après elle ne l’accepta point sans réserve; elle craignit que d’être trop bien mise ne détournât d’elle les regards du riche; elle eut peur de faire diminuer les aumônes, et malgré toute l’envie qu’elle aurait eu de se vêtir avec propreté, avec élégance même, elle rejeta les offres de Léocadie, quant aux robes, qui, pour la plupart étaient de soie; elle lui demanda seulement quelques autres objets de toilette, mais vieux, mais usés. Les plus méchans lui servaient à solliciter la pitié des gens de la campagne; les moins mauvais elle les gardait pour briller au château. </p>
+          <p> Aux yeux d’autres personnes que les habitans de Baroy, il eût été remarquable que Louise, près de sa fille, arrangeait ses haillons avec une sorte de coquetterie; tantôt, c’était un schall troué dont elle cachait soigneusement les déchirures; un bonnet dont elle venait de relever elle-même les tuyaux, et dont elle laissait flotter les rubans avec grâce; tantôt, elle accommodait artistement sa coiffure ou bien elle arrondissait l’extrémité brillante de ses ongles. </p>
+          <p> Un jour, passant à Avesnes, elle découvrit sous une fenêtre le contenant, à peu près vide, d’une liqueur odorante; elle serra la fiole précieusement, et lorsqu’elle fut près d’entrer au château, elle répandit la liqueur sur ses mains, elle en arrosa sa tête, et, ainsi parfumée, elle courut embrasser sa fille. Si au lieu de cette liqueur, la fiole eût contenu du carmin, Louise en aurait coloré à l’instant même ses joues, ses joues que son enfant trouvait laides parce qu’elles étaient pâles et flétries; Louise se serait mis du rouge , car sur toutes choses elle voulait plaire à sa fille..... La pauvre mère eut donné de grand cœur la moitié de sa vie, pour que son enfant lui dît:—Tu es belle! </p>
+          <p> Malgré tout le soin qu’elle apportait à grossir son petit trésor, sans cesse augmenté par les aumônes, Louise, de temps à autre, en étournait quelques sous pour faire des cadeaux à Julie. Elle lui achetait de ces riens qui causent tant de plaisir aux enfans. C’étaient là de grandes joies pour toutes deux. Lorsque sa quête avait été abondante, Louise arrivait au château fière, heureuse du bonheur qu’elle préparait à sa fille. L’enfant sautait d’aise de voir tous ces futiles présens dont la pauvre femme la comblait une ou deux fois par semaine. Alors elle l’embrassait, et Louise se flattait tout bas d’être aimée. Il est certain que Julie commençait à montrer quelque attachement pour la pauvresse . Elle causait, elle se promenait volontiers avec elle, volontiers même elle la laissait lui baiser les lèvres. </p>
+          <p> Léocadie, toujours affectueuse pour Louise, toujours disposée à ne rien faire qui pût la chagriner, lui facilitait les occasions d’être seule avec l’enfant, parce que l’ innocente ne paraissait vraiment joyeuse que dans ces momens-là. Louise, à qui on donnait la liberté de s’en aller seule avec Julie, jusque dans le petit bois, là où elle cachait son argent au pied d’un arbre, Louise avait donc eu déjà toute possibilité d’emporter sa fille, après lui avoir dit: Je suis ta mère! Mais les raisons qui l’avaient détournée de ce dessein existaient encore en partie: son petit trésor n’était pas suffisant pour les nourrir même pendant un court voyage; Gustave ne devait pas arriver avant quelques mois, et Julie n’était pas assez déshabituée du luxe pour entrer, sans peine, dans la nouvelle existence de leur misère. </p>
+          <p> Chaque fois qu’on achetait à son enfant quelques vêtemens un peu riches, Louise, avec un gros soupir, disait à Léocadie que parer Julie de toutes ces belles choses, c’était lui donner le goût de la coquetterie, c’était la rendre vaine. Elle ajoutait tristement: </p>
+          <p> —Pourquoi l’accoutumer à la richesse? on ne sait pas ce qui peut arriver. </p>
+          <p> Léocadie souriait des observations de l’ innocente . </p>
+          <p> Par une singulière fatalité, la petite fille s’obstinait à faire résonner les touches d’un mauvais piano que Gustave avait fait placer dans la salle basse du château. Le bruit qu’elle tirait de cet instrument lui plaisait sans doute: elle passait des heures entières à promener ses doigts sur le clavier. Louise, à qui la vue de ce piano rendait présente l’histoire de tous ses malheurs, suppliait en vain sa fille de s’occuper plus sérieusement. Elle l’engageait à coudre, elle l’entretenait de Dieu, elle essayait d’attacher sa jeune ame à la lecture de quelques livres de morale. Mais l’enfant détournait la tête avec distraction, et c’était de musique qu’elle parlait. Louise, un jour, emportée par la violence de ses souvenirs, effrayée pour l’avenir de sa fille, brisa les touches du piano. Julie pleura beaucoup: il fallut plusieurs semaines avant qu’elle pardonnât à Louise cette mauvaise action. Quant aux habitans de Baroy, ils disaient: </p>
+        </div>
+        <div title="CHAPITRE VII." type="chapter">
+          <head> CHAPITRE VII. </head>
+          <p> On touchait à la fin de septembre. Tout à coup, le bruit se répandit au château que le seigneur se disposait à venir. L’époque de son arrivée fut fixée par Célestin lui-même du dimanche prochain au dimanche qui devait suivre. Pourquoi le dimanche? sur quelle certitude était fondé le retour si inattendu de Gustave? Personne n’en savait rien; mais on disait: Bien sûr, il arrivera l’autre dimanche. </p>
+          <p> C’était le mercredi. Louise calcule avec effroi qu’il lui reste à peine douze jours, elle qui comptait encore sur un mois ou deux de sécurité. Cette nouvelle vraie ou fausse lui fait prendre la résolution de ne plus apporter à sa fuite que le retard rigoureusement nécessaire pour y faire consentir sa fille, en lui révélant peu à peu qu’elle est sa mère. </p>
+          <p> Dans l’intervalle des demi-confidences qu’elle se promet de faire à son enfant, elle a dessein de chercher parmi les bourgs ou villages dont elle n’est pas connue des secours nouveaux et plus abondans sans doute que ceux obtenus jusqu’alors. Elle récapitule ses quêtes à Plouy, à Floyon, au Rétiau, dans tous les lieux environnans, et elle voit qu’elle possède quarante et quelques francs, y compris le paiement de son travail à Baroy. Cette somme lui semble bien misérable pour s’en aller jusqu’à Bordeaux, où est la famille de son père. Ma fille est trop faible et trop jeune, se dit-elle, pour faire la route à pied; il nous faudra prendre des voitures: nous n’arriverons jamais. Mendier ma fille à la main, c’est à quoi je ne pourrais pas me résoudre. Je veux bien mendier pour elle, mais non avec elle..... et puis si, par malheur, les passans des grandes routes n’avaient pitié ni d’elle ni de moi! </p>
+          <p> Persuadée qu’en tout cas elle trouverait plus de commisération dans les petits villages de la Flandre que sur les chemins qui aboutissent aux grandes villes, Louise se décide à compléter dans les villages un peu éloignés de ses quêtes habituelles la somme dont elle croit avoir besoin pour se rendre à Bordeaux. Une fois là, dans la famille de son père, au milieu de ses amies d’enfance, elle espère d’être sauvée. En disant que je mendie pour nourrir ma fille, pense Louise, ils ne me refuseront pas leurs aumônes, et j’obtiendrai peut-être assez d’argent pour aider à notre voyage. </p>
+          <p> Avant de quitter le château jusqu’au soir, Louise voulut jeter dans l’ame de Julie les premières pensées d’un départ dont l’exécution devait assurément rencontrer de vifs obstacles. Elle n’était pas femme à se dissimuler les difficultés d’une pareille entreprise, mais, ne les supposant pas insurmontables, elle se flattait de les aplanir. </p>
+          <p> Seule, dans le jardin, avec sa fille, elle l’attira doucement sur ses genoux, et elle lui dit: </p>
+          <p> —Julie, est-ce que tu te plais beaucoup dans ce vilain château? </p>
+          <p> —Non, ma bonne Louise, non.... Je n’ai personne avec qui jouer, je m’amuse mieux à Paris; papa m’emmène au spectacle. Connais-tu le spectacle, toi? </p>
+          <p> —Je l’ai connu, Julie, quand j’étais riche... </p>
+          <p> —Tiens! tu as été riche?..... Ah bien, c’est drôle, ça!... Si tu l’as été, pourquoi donc ne l’es-tu plus? </p>
+          <p> —Des malheurs, des malheurs affreux..... qui m’ont troublé la raison..... </p>
+          <p> —Allons, ne pleure pas, ma bonne Louise, je t’en prie bien... tu me fais de la peine. </p>
+          <p> Julie, avec ses petites mains, essuyait les larmes de sa mère, qui se laissait pleurer, heureuse de sentir passer sur ses joues les doigts de son enfant.... Elle les baisait en passant. </p>
+          <p> —Dis-moi, Julie, penses-tu quelquefois à celle dont je t’ai parlé si souvent?... </p>
+          <p> —Je ne me rappelle plus... </p>
+          <p> —Ta mère?... </p>
+          <p> —Laquelle? maman Léocadie? </p>
+          <p> —Non, ta véritable mère, celle qui t’a donné naissance? </p>
+          <p> —Puisqu’elle est morte! </p>
+          <p> —Mais si elle ne l’était pas? </p>
+          <p> —Comment veux-tu donc qu’elle ne le soit pas, puisqu’elle l’est? </p>
+          <p> —Mais, je suppose, si tout d’un coup tu apprenais qu’elle existe? qu’est-ce que tu lui dirais? </p>
+          <p> —Je ne peux rien lui dire: je ne la connais pas. </p>
+          <p> —Mais si tu la connaissais..... Julie?... </p>
+          <p> —Je ne l’ai jamais vue, et puis, d’ailleurs, je te dis qu’elle est morte. </p>
+          <p> —Ton père te l’a dit? </p>
+          <p> —Oui, ma bonne Louise. </p>
+          <p> —Et... jamais il ne te parlait d’elle que pour te dire..... qu’elle était morte? </p>
+          <p> —Non, jamais... </p>
+          <p> —L’aimerais-tu bien ta mère, si elle vivait?... </p>
+          <p> —Oui, si elle était bonne... </p>
+          <p> —Si elle te caressait comme je te caresse?... </p>
+          <p> —Oui. </p>
+          <p> —Si elle t’aimait comme je t’aime?... </p>
+          <p> —Oui. </p>
+          <p> —Si elle te disait: Julie, il faut me suivre, ma fille, quitter pour moi le château; le ferais-tu? </p>
+          <p> —Oui, pourvu qu’elle me remmène dans notre maison de Paris..... Mais, qu’est-ce que tu as donc encore? tu pleures toujours. </p>
+          <p> —C’est que j’ai eu une fille comme toi..... </p>
+          <p> —Je sais bien; et c’est ça qui t’a rendue innocente ? </p>
+          <p> —Oui, Julie. </p>
+          <p> —Est-ce qu’elle est morte, ta fille? </p>
+          <p> —Oh! non, elle n’est pas morte, s’écria Louise en serrant son enfant avec amour... Non, elle n’est pas morte, Julie... Mais quand je lui ai dit de quitter son père pour me suivre... elle n’a pas voulu. </p>
+          <p> Louise regardait sa fille avec un trouble extrême; elle attendait sa réponse comme un arrêt de mort. </p>
+          <p> —Elle n’a pas voulu s’en aller avec toi? reprit l’enfant... Ah! </p>
+          <p> —Cela t’étonne, n’est-il pas vrai? Tu aurais tout quitté pour suivre ta mère, toi? </p>
+          <p> —Oui, tout le monde, excepté mon papa. </p>
+          <p> —Ton papa, Julie, pense donc qu’il te laisse ici toute seule, qu’il t’y a laissée cinq ans, qu’il t’oublie, qu’il ne prend pas soin de toi; au lieu que ta mère... </p>
+          <p> Louise s’arrêta effrayée. Son secret était près de lui échapper: elle garda un long silence... mais son cœur était plein de bonheur. Elle pensa que sa chère enfant, préparée doucement à ce qu’elle voulait lui apprendre, le jour d’une entière confidence venu, n’hésiterait pas de croire qu’elle fût sa mère; et qu’alors, au moyen d’un conte adroitement ménagé, sous prétexte qu’elles allaient rejoindre Gustave, il serait possible de lui faire quitter le château. Toutes les combinaisons qui devaient amener ce résultat n’étaient pas encore bien nettement arrêtées dans l’esprit de Louise, mais enfin elle espérait assez en la force de son amour, en l’aide de Dieu; elle connaissait assez le bon naturel de sa fille, pour être maintenant à peu près certaine de la réussite. </p>
+          <p> Elle s’éloigna donc avec la presque assurance de voir bientôt finir tous ses malheurs. </p>
+          <p> Elle marchait depuis une demi-journée, tendant la main à toutes les portes, et assez satisfaite du produit de ses quêtes. Déjà elle songeait à reprendre le chemin du château d’où elle était éloignée d’environ quatre lieues. Un sentier étroit serpentait devant elle, sur la lisière d’une forêt. Elle suivait ce sentier, haletante de lassitude et de chaleur; un homme l’aborda, c’était un garde-champêtre. </p>
+          <p> —Où allez-vous? </p>
+          <p> —Je cherche mon pain, répondit Louise avec une sorte de crainte. </p>
+          <p> —Est-ce que vous êtes de ce pays-ci? </p>
+          <p> —Non, monsieur. </p>
+          <p> —Vous faites la contrebande, n’est-ce pas? </p>
+          <p> —La contrebande! répéta Louise toute troublée. </p>
+          <p> —Vous sentez bien que ça m’est égal. Je ne suis pas douanier. Je vous demande ça pour savoir. </p>
+          <p> —Non, monsieur, je vous assure que je cherche mon pain. </p>
+          <p> —Oui, oui, une vagabonde..... avez-vous des papiers? </p>
+          <p> —Est-ce qu’on a besoin de papiers pour vivre d’aumônes?..... </p>
+          <p> Louise était tremblante. Le garde-champêtre la saisit par le bras. </p>
+          <p> —Je vous arrête, dit-il, suivez-moi chez M. le maire. Vous m’avez la mine d’une voleuse. </p>
+          <p> Louise se jeta aux pieds du garde. </p>
+          <p> —Par pitié, lui dit-elle, monsieur, ne me menez pas en prison, ma fille m’attend..... monsieur, ma fille..... </p>
+          <p> —Allons, avancez, lui dit brutalement le garde, vous n’êtes pas de ce pays-ci, vous n’avez pas de papiers, je vous emmène, et d’ailleurs, si vous étiez une brave femme, vous ne trembleriez pas comme vous faites. </p>
+          <p> —Je vous dis, monsieur, s’écriait Louise poussée rudement par le garde, je vous dis que je suis une mendiante, que je cherche mon pain pour nourrir ma fille!.... </p>
+          <p> —Si c’était vrai, votre fille serait avec vous! </p>
+          <p> —C’est un enfant, monsieur, elle ne peut pas marcher..... </p>
+          <p> Le garde parut frappé de cette observation, il cessa de chasser Louise devant lui. </p>
+          <p> —Ah! elle est trop petite pour marcher? c’est possible, eh bien! nous allons voir; où l’avez-vous laissée votre fille? </p>
+          <p> Louise balbutia, rougit, pencha la tête en pleurant, elle n’osait dire: </p>
+          <p> —Ma fille est au château de Baroy. </p>
+          <p> —Vous voyez bien que vous êtes une menteuse, reprit le garde. </p>
+          <p> Et malgré toutes les prières, tous les efforts de Louise, il l’entraîna vers un petit village voisin. </p>
+          <p> —Vous vous expliquerez devant monsieur le maire, lui dit-il. </p>
+          <p> M. le maire n’était pas revenu des champs. Le garde, qui voulait déposer sa capture en lieu de sûreté jusqu’au retour du chef municipal, la conduisit près de l’église, à laquelle était attenante une petite chambre, chapelle autrefois, maintenant prison ou grenier, selon qu’on y mettait des vagabonds ou du fourrage. Louise, en voyant l’asile honteux qu’on lui destinait, mais surtout en pensant à sa fille qu’elle ne verrait ni ce soir-là, ni peut-être le lendemain, lutta de toute son énergie avec le garde, lorsqu’il voulut la pousser dans cette espèce de prison. Mais convaincu, par la résistance de Louise, que réellement il avait affaire à quelque voleuse, cet homme, robuste d’ailleurs, se débarrassa aisément d’elle et l’enferma sous clef. </p>
+          <p> Les cris de la malheureuse mère se faisaient entendre d’un bout du village à l’autre. Sa prison avait une petite fenêtre, protégée par deux barreaux de fer, le tout donnant sur une ruelle. Suspendue à ces barreaux, Louise appelait du secours, implorait la pitié publique, mais en vain; personne ne venait. Vers le soir, elle redoubla ses cris, et bientôt une foule d’habitans de tout sexe accourut pour savoir quelle était cette femme et quel pouvait être son crime. </p>
+          <p> Le maire arriva, suivi du garde-champêtre qui portait du pain et un peu d’eau à la prisonnière. </p>
+          <p> M. le maire commença l’interrogatoire. Louise pressée de questions sur son nom, sur sa famille, sur son pays, finit par dire: </p>
+          <p> —Je me nomme Louise Drouart, je n’ai pour toute famille qu’un enfant et j’habite le château de Baroy. </p>
+          <p> —Et à quel titre, demanda le maire, habitez-vous le château de Baroy? Vous avez dit au garde que vous êtes mendiante. </p>
+          <p> —C’est vrai, répondit Louise. Les jardiniers de Baroy me logent la nuit, et je mendie le jour. </p>
+          <p> —Et votre fille, où est-elle? habite-t-elle le château comme vous? </p>
+          <p> —Non, monsieur...... ma fille est à.... Floyon. </p>
+          <p> —Chez qui? </p>
+          <p> —Chez un de ses parens. </p>
+          <p> —Le nom de ce parent? </p>
+          <p> —...Drouart. </p>
+          <p> —Je prendrai des informations là-dessus. </p>
+          <p> —M. le maire, fit observer le garde, vous savez qu’elle m’a dit à moi qu’elle n’est pas de ce pays-ci, et voilà maintenant qu’elle est de Floyon! </p>
+          <p> —J’enverrai à Floyon et au château de Baroy, répondit le maire; et si elle nous a fait des mensonges, nous l’expédierons pour Avesnes dimanche, jour où viennent les gendarmes. Elle tâchera de s’entendre avec les tribunaux. </p>
+          <p> Le maire et le garde-champêtre sortaient; Louise les poursuivit de ses pleurs et de ses prières. </p>
+          <p> —Laissez-moi m’en aller! s’écriait-elle; je ne vous ai pas menti. Donnez-moi quelqu’un pour me conduire jusqu’au château de Baroy, vous verrez que je ne suis pas une voleuse! </p>
+          <p> —A propos, dit le garde, M. le maire, est-ce que nous ne la fouillons pas? </p>
+          <p> —Je le veux bien, répliqua Louise, fouillez-moi; mais du moins, si vous reconnaissez que je ne suis pas une malhonnête femme, si vous ne trouvez rien sur moi que les misérables sous que j’ai quêtés sur ma route, rendez-moi la liberté, rendez-moi la vie; laissez-moi aller embrasser mon enfant! </p>
+          <p> Ce fut le garde-champêtre qui fit les recherches. Dans une des poches de Louise, il trouva le menu produit de sa quête du jour; dans l’autre, quelques débris de pain. </p>
+          <p> —Je crois bien, dit-il, que si elle a volé quelque chose, elle ne l’a pas mis dans sa poche. </p>
+          <p> En disant cela, il porta vivement la main sur le haut de la robe de Louise. </p>
+          <p> Celle-ci recula indignée: Monsieur!... s’écria-t-elle... </p>
+          <p> —Qu’est-ce que vous faites donc? demanda le maire au garde. </p>
+          <p> —Je sais ce que je fais, reprit-il en introduisant les doigts avec force sous le corset de Louise. </p>
+          <p> Louise se débattait, demandait grâce... Le garde triomphant tira du sein de Louise un petit mouchoir brodé en dentelles: à un des coins il portait pour marque les lettres J. C. </p>
+          <p> La pauvre femme, qui se voyait ravir ce trésor, ce petit mouchoir que sa fille tenait à la main, pendant la danse, le jour de la ducasse d’Étrœung, ne se sentait pas le courage de le réclamer comme étant à son enfant. Elle le lui avait dérobé, le lundi matin, en route, dans la voiture, et elle avait appliqué sur ses lèvres, serré sur son cœur, ce précieux tissu encore tout mouillé de la sueur qui coulait du visage de sa chère Julie. Depuis lors elle l’avait gardé comme une relique. Maintenant qu’on le lui reprenait, pouvait-elle dire: Je ne l’ai pas volé, il est à moi, car il est à ma fille! Quelle apparence, d’ailleurs, qu’un mouchoir brodé appartînt à la fille d’une misérable mendiante? On ne le croirait pas, et si on le croyait, n’était-ce pas publier un secret dont la révélation inopportune pouvait ruiner toutes ses espérances, tout son bonheur! </p>
+          <p> Seulement elle se traînait aux pieds du mayeur et de son garde, en leur criant à mains jointes: </p>
+          <p> —Je ne suis pas coupable, messieurs, je suis une pauvre mère; rendez-moi la liberté! </p>
+          <p> Mais quelles que fussent ses supplications, Louise, vagabonde, mendiante et soupçonnée de vol, devait être remise, le dimanche suivant, entre les mains des gendarmes d’Avesnes. </p>
+        </div>
+        <div title="CHAPITRE VIII." type="chapter">
+          <head> CHAPITRE VIII. </head>
+          <p> L’absence prolongée de Louise a laissé fort inquiets les habitans de Baroy. Voilà deux jours que l’ innocente n’est rentrée au château, et tout le monde, depuis Julie jusqu’au vieux père de Célestin, s’étonne et s’alarme de ne pas la voir paraître. On la fait chercher dans les environs: personne ne peut dire ce qu’elle est devenue. Quelques moissonneurs racontent seulement qu’elle est passée dans la journée du mercredi, tout à côté d’eux; mais nul ne sait si elle a passé la frontière ou si elle est restée en France. Louise est connue à deux ou trois lieues à la ronde, et cependant, quelque villageois qu’on interroge, aux alentours, chacun déclare ne l’avoir pas rencontrée. </p>
+          <p> Deux motifs expliquent l’inquiétude et les recherches auxquelles se livrent Célestin et sa famille: leur amitié pour Louise; l’extraordinaire de sa disparition. Du moment où Louise a trouvé asile et protection au château, elle est constamment rentrée avant la nuit. Nous avons même vu que, dans ses excursions quotidiennes, elle revenait, une et deux fois par jour, se reposer à Baroy. </p>
+          <p> Le jeudi soir, second jour de l’absence de Louise, un monsieur, qui paraît pressé, frappe rudement à la principale porte du château: c’est M. le maire d’Étrœung. Célestin court à la hâte, et Julie aussi, et aussi Léocadie, tous espérant que M. le maire, leur ami, vient leur donner des nouvelles de l’innocente ; mais M. le maire ignore l’accident qui les afflige; il n’a pas entendu parler de Louise, et s’il leur rend visite, c’est parce qu’il s’en va ce jour-là même à Paris, et qu’il ne veut pas se mettre en route avant de s’informer de leur santé, de la santé surtout de mademoiselle Julie, avant de savoir, en un mot, s’ils n’ont pas quelques lettres, quelque commission à lui donner pour M. Gustave Charrière. </p>
+          <p> Cette grande nouvelle leur fait un moment oublier Louise. M. le maire se rend à Paris! M. le maire va voir le seigneur ! C’est un événement pour eux tous. Célestin est confondu d’admiration: devant lui est un homme qui, dans vingt-quatre heures, se promènera dans la grande ville qu’habite le propriétaire de Baroy, ce riche possesseur d’un château en province, d’un hôtel et d’une voiture à Paris! Célestin peut à peine croire ce qu’il entend. Enfin, comme tout cela n’est point un rêve, et que M. le maire s’en va bien tout droit à Paris, il lui recommande de présenter ses hommages à son seigneur et de rapporter une robe pour Léocadie. La bonne nourrice, elle, se contente de dire au maire d’Étrœung: </p>
+          <p> —Vous prierez notre seigneur de me laisser le plus long-temps possible ma chère petite fille; vous lui direz qu’elle se porte bien, qu’elle est heureuse avec nous, et que, s’il vient au château à la fin de l’autre semaine, comme on l’assure, il trouvera que j’ai eu bien soin de notre Julie. </p>
+          <p> —Et moi, bien soin du jardin et de la maison, et des plantations, et des terres, et de tout, dit Célestin; je me flatte que notre seigneur sera content. </p>
+          <p> —Et vous, mademoiselle, dit le maire à Julie, ne me chargez-vous d’aucune commission pour votre papa? </p>
+          <p> —Si fait, monsieur: vous lui direz que je l’attends pour me remmener à Paris, et vous lui direz aussi que maintenant je sais écrire. </p>
+          <p> Elle appuya sur ces derniers mots avec un petit air de triomphe. </p>
+          <p> —Vous savez écrire, mademoiselle; mais c’est charmant cela! </p>
+          <p> —C’est l’innocente qui lui a montré l’écriture, reprit Célestin. La pauvre femme s’est donné un mal avec cet enfant!.. Mais, Léocadie, ajouta-t-il en regardant sa femme avec tristesse, comprends-tu que cette malheureuse Louise ne revienne pas? Il lui sera arrivé une mauvaise aventure. </p>
+          <p> —Je ne sais pourquoi j’ai idée que nous la reverrons ce soir, répliqua Léocadie; elle s’est peut-être perdue en route, mais elle aura fini par retrouver son chemin. </p>
+          <p> —Dieu t’entende! dit Célestin. S’il lui était survenu quelque malheur, je ne m’en consolerais pas. </p>
+          <p> —Oui, oui, s’écria le maire, votre innocente reviendra ce soir ou demain, rassurez-vous; et en attendant souhaitez-moi un bon voyage, car il faut que je parte. </p>
+          <p> Il était contre tout usage que le maire d’Étrœung quittât ses amis sans avoir mangé et bu très-amplement avec eux. On s’attabla donc; mais, comme il faut que tout finisse, même les repas d’adieu, le maire se leva, pour prendre congé de ses hôtes. Cependant Julie n’était pas là; ils s’en aperçurent pour la première fois, bien qu’elle les eût quittés depuis une longue demi-heure. Célestin se mit à sa recherche, car M. le maire ne voulait pas, disait-il, s’en aller avant d’avoir présenté ses respects à mademoiselle Charrière. On trouva Julie griffonnant au milieu d’un tas de lettres commencées, inachevées, et recommencées pour rester inachevées encore. </p>
+          <p> Toutefois elle en terminait une dont elle était satisfaite, à ce qu’il parut. Elle la porta toute joyeuse à M. le maire, qui se permit d’y jeter un coup d’œil. Cette lettre contenait en quelques mots: </p>
+          <p> «Je t’attends pour que tu me remmènes au spectacle. Ma bonne Louise est perdue; si tu la vois à Paris, dis-lui de revenir avec toi, nous partirons tous ensemble. Adieu, je t’embrasse.» </p>
+          <p> L’écriture de Julie était presque indéchiffrable, ce qui n’empêcha pas l’officier municipal de lui donner les plus grands éloges. La petite fille était radieuse. Célestin dit: </p>
+          <p> —C’est pourtant cette innocente qui lui a montré à tenir une plume! Quel malheur qu’elle ne soit plus au château; bien sûr que le seigneur l’aurait richement récompensée! </p>
+          <p> Le maire, attiré à Paris par un procès considérable que soutenait sa commune contre l’état, était en humeur de raconter longuement les tenans et les aboutissans de la chose en litige, lorsqu’à la fin, s’apercevant que ni lui ni ses auditeurs ne comprenaient un mot à son affaire, et s’apercevant aussi que les heures marchaient vite, il renouvela ses adieux, serra dans son portefeuille la lettre de mademoiselle Julie, embrassa tout le monde et partit. </p>
+          <p> Vers la fin du quatrième jour passé depuis que Louise était absente de Baroy, Célestin et sa femme, qui n’espéraient plus en recevoir de nouvelles, assis sur un banc de la cour, causaient de l’ innocente et déploraient sa mort, car ils ne supposaient pas qu’elle pût exister. Julie, debout près d’eux, les écoutait avec tristesse. Le départ de Louise avait laissé un grand vide dans ses amusemens, dans ses travaux même de tous les jours. L’idée que l’ innocente était morte, et que par conséquent elle ne la verrait plus, lui donnait de l’impatience et du chagrin. Louise s’occupait d’elle avec tant de bonté, elle l’embrassait avec tant d’amour, elle était si attentive à lui plaire en toutes choses! Ce n’est pas que souvent Louise ne se fût montrée sévère à sa fille; mais ses remontrances étaient faites si à propos, adoucies par une si profonde tendresse, que Julie, tout en se fâchant contre l’ innocente , ne pouvait s’empêcher un moment après de l’appeler encore sa bonne Louise . </p>
+          <p> Tous trois, Célestin, sa femme et Julie, pensaient donc à l’ innocente , dans la soirée du samedi, tous trois la regrettant plus ou moins fort, suivant son cœur et la nature de ses sympathies. </p>
+          <p> Un jeune paysan, vêtu d’un sarrau de toile bleue, collet et jabot festonnés, entra précipitamment à Baroy. </p>
+          <p> Aux premières paroles qu’il dit, Célestin s’écria: </p>
+          <p> —Louise! Elle est en prison!.... C’est elle qui vous envoie! Ah, mon Dieu! Parlez, qu’est-ce qu’il faut faire?..... </p>
+          <p> Léocadie et Julie ne montraient pas moins de curiosité et d’inquiétude. </p>
+          <p> Le jeune paysan les surprit et les affligea beaucoup en leur annonçant que leur amie était accusée de vol. </p>
+          <p> Célestin n’en voulut rien croire. </p>
+          <p> —On vous a trompé, ou elle s’est faussement accusée elle-même, dit le brave homme. Nous la connaissons mieux que personne. Je réponds d’elle comme de moi. Partons tout de suite. Je m’en vais la réclamer, et je serai bien malheureux si on ne me la rend pas. </p>
+          <p> Célestin attela son cheval à la carriole. Léocadie n’osa faire observer à son mari qu’à cinq heures du soir, il était bien tard pour se mettre en route. Julie demandait à être du voyage, mais Léocadie s’y opposa, et Célestin, en compagnie du jeune paysan, lança son cheval au grand trot, malgré les remontrances craintives de sa femme et les profondes ornières d’un étroit chemin qui se prolongeait, de cahot en cahot, l’espace de quatre fortes lieues, jusqu’au but de leur course. </p>
+          <p> Cependant le jeune paysan racontait en détail l’histoire de l’arrestation de Louise. Lui-même, disait-il, était fils du garde-champêtre; les paysans du village, attendris par les lamentations de la prisonnière, irrités contre son père, l’avaient en quelque sorte forcé, lui fils du garde, à venir à Baroy, afin d’y prendre des informations sur Louise et de la faire relâcher au cas où elle ne serait pas coupable. </p>
+          <p> Tout extraordinaire, tout invraisemblable que ce fait peut paraître, il n’avait rien que de très-réel. Les habitans du village détestaient le garde, par qui souvent ils étaient saisis et mis à l’amende, pour dégâts commis dans la forêt. En outre, les clameurs de Louise les avaient émus, et ils s’emportaient chaque jour en reproches contre le premier auteur de l’arrestation de cette femme, soit qu’ils crussent à l’innocence de la prisonnière, ou soit qu’ils ne vissent en cette aventure qu’un prétexte pour tourmenter et accabler leur ennemi. A la fin, le garde, qui du reste était bien aise de mettre sa conscience en repos, avait résolu d’envoyer son fils à Baroy. </p>
+          <p> Il est à croire qu’en toute autre saison, les travaux de la campagne occupant moins de bras, il se fût détaché du village quelque alerte et bon paysan, qui, de lui-même, sur les seuls cris de la prisonnière, fût venu réclamer pour Louise l’aide et le témoignage des gens du château; mais cette fois, les soins de la moisson furent cause qu’aucune personne étrangère à la famille du garde ne voulut dépenser bénévolement toute une journée à courir chercher au loin des protecteurs pour une inconnue, peut-être même pour une voleuse. Les villageois se contentaient donc de menacer, d’injurier le malencontreux garde champêtre. Nous voyons maintenant le résultat de ces injures et de ces menaces. </p>
+          <p> Mais laissons Célestin et son compagnon presser les pas pénibles du cheval qui traîne la petite carriole, et les devançant d’une heure, recherchons ce que fait Louise. </p>
+          <p> Elle ignore que le fils du garde est allé parler d’elle à ses bons amis de Baroy; elle a beau demander protection et secours, elle n’attend plus ni l’un ni l’autre. Seule, sur un lit de paille, un morceau de pain noir à ses côtés, privée de sommeil, loin de sa fille, accusée de vol, elle pense avec terreur que le lendemain c’est dimanche, que les gendarmes viendront, qu’ils l’emmèneront à la ville, qu’avant d’être entendue des juges, qu’avant d’obtenir justice, on la gardera prisonnière, un mois, six semaines peut-être; que dans cet intervalle, Gustave peut arriver, découvrir qui elle est, reprendre sa fille, s’enfuir, la laisser seule mourir dans les cachots..... La douleur, la privation de sommeil, l’effroi lui enflamment le cerveau, elle crie à travers la porte de sa prison qu’elle veut faire des révélations importantes et qu’on se hâte d’en prévenir M. le maire. </p>
+          <p> Rarement, le soir surtout, Louise manquait-elle de curieux (des enfans et des femmes), qui épiaient ses cris au dehors. Elle n’eut pas plus tôt fait entendre le nom du maire, que, avides de connaître ce qu’elle pouvait avoir à lui dire, deux ou trois petits garçons coururent au plus vite chez l’officier municipal. </p>
+          <p> Celui-ci arriva fort étonné et fort satisfait du rôle important que ses fonctions de mayeur l’appelaient à jouer dans cette affaire. Il jeta sur Louise un regard terrible. Après quoi, l’examinant de près à la lueur de sa lanterne, il la vit si chétive et si malade, que la pitié lui fit oublier sa qualit�� de magistrat, et il redevint ce que la nature l’avait fait, un simple et honnête cultivateur flamand. </p>
+          <p> —Eh bien! dit-il à Louise, d’une voix encourageante, vous m’avez demandé, me voilà. Parlez sans crainte: je vous écoute. Êtes-vous une voleuse? </p>
+          <p> Louise se tenait immobile, effrayée des paroles qu’elle allait dire. Le digne maire lui répéta le plus doucement qu’il put: </p>
+          <p> —Parlez, vous n’avez rien à craindre. Où avez-vous volé ce mouchoir? A qui appartient-il? </p>
+          <p> —A ma fille, monsieur, à ma fille! s’écria-t-elle. Je ne suis pas coupable. Faites-moi sortir d’ici. Oh! monsieur, si vous êtes père, si vous avez des enfans, ayez pitié de moi, je vais vous instruire de tout, monsieur, mais promettez-moi de n’en parler à personne, et de me renvoyer à Baroy avant que les gendarmes ne viennent. </p>
+          <p> Le maire promit tout ce que Louise voulut. Alors elle commença d’une voix basse, étouffée de sanglots, le récit cent fois interrompu de ses malheurs. Le maire stupéfait écoutait bouche béante cette histoire, à laquelle cependant il n’ajouta que peu de foi. </p>
+          <p> —Vous assurez, dit-il, que la fille de M. Charrière est à vous. Je veux bien vous croire; mais pour cela faire, il est juste que le seigneur de Baroy lui-même confirme votre déposition. Je lui écrirai donc demain pour savoir si vous ne mentez pas. </p>
+          <p> Louise, emportée par la douleur, reprocha au maire de manquer à sa parole; elle lui rappela la promesse faite de ne révéler son secret à personne; elle lui dit qu’écrire à Gustave, c’était la perdre sans ressource, et qu’il valait autant pour elle mourir tout de suite dans sa prison. Le maire prétexta les devoirs de sa charge, la nécessité de découvrir si Louise disait vrai, les reproches qu’il encourrait, en rendant libre, sans preuve d’innocence, une vagabonde soupçonnée de vol. Puis, voyant Louise se frapper le sein, et l’entendant pousser des cris de désespoir, il gagna précipitamment la porte dans la crainte d’être lui-même victime de cette furieuse (ce fut le nom qu’il lui donna). Je la remettrai demain matin aux gendarmes d’Avesnes, pensa-t-il; je communiquerai sa déposition à M. le procureur du roi, et on reconnaîtra, j’en suis sûr, qu’elle m’a fait un mensonge pour m’attendrir et s’évader. </p>
+          <p> Le maire franchissait la porte, lorsqu’il se sentit violemment saisir au corps: il se retourna: c’était Louise, non furieuse, mais suppliante, mais à genoux, mais pleurant, qui conjurait le maire de lui permettre de retourner à Baroy, près de sa fille. </p>
+          <p> Aux pleurs, aux supplications de Louise, des cris répondirent non loin de là: on entendit accourir plusieurs hommes. L’officier municipal prêtait encore l’oreille à ce bruit inaccoutumé, et Louise, repoussée par le maire, avait à peine quitté son humble posture, que déjà Célestin et le fils du garde avaient paru. En apercevant le jardinier du château, Louise leva les mains au ciel et dit: Je suis sauvée! </p>
+          <p> Il fallut d’abord expliquer au maire comment le fils du garde, à l’insu et pourtant à l’excitation de tout le village, était parti pour le château de Baroy. Le maire s’étonnait, et Louise, tout entière à Célestin, embrassait ce dernier avec amour, et elle lui disait: </p>
+          <p> —Mon ami, mon bon ami, arrachez-moi de cette prison! Vous voyez comme je suis pâle! Ils m’ont bien fait souffrir... Emmenez-moi tout de suite avec vous!..... Mais, ma fille, comment se porte ma fille?... </p>
+          <p> —Ah! ah! dit le maire, est-ce que vraiment la fille de votre seigneur , mademoiselle Charrière, est la fille de cette femme? </p>
+          <p> —Non pas, répondit le jardinier. </p>
+          <p> —Mais, continua le maire, tout à l’heure elle m’a conté..... </p>
+          <p> —Je suis perdue! Il va tout lui dire, murmura Louise avec terreur. </p>
+          <p> —Elle m’a conté, reprit le maire, que votre seigneur devait l’épouser, il y a six ans, à Paris; qu’elle est devenue enceinte, qu’elle est accouchée, qu’on a fait disparaître son enfant, celui-là même qui est à présent au château... </p>
+          <p> —Ayez pitié de moi, mon Dieu! s’écria Louise. Ils vont me reprendre ma fille! </p>
+          <p> —Qu’on a fait passer sa fille pour morte.... </p>
+          <p> —Ayez pitié de moi, mon Dieu! répéta Louise... Il me tue, moi et mon enfant! </p>
+          <p> —..... Que cette fille, elle l’a retrouvée un soir dans une promenade publique... </p>
+          <p> Louise, dans le coin le plus sombre de sa prison, sanglotait, prononçait de lentes paroles, inintelligibles à tous, mais empreintes d’une tristesse funèbre.... </p>
+          <p> Le maire poursuivait avec calme le récit de l’histoire imparfaite qu’il avait recueillie de la bouche de Louise, quand un énorme éclat de rire vint lui couper brusquement la parole. Il leva sa lanterne jusqu’à hauteur de visage, et aperçut, éclatant encore sur la face de Célestin le plus grand rire qui se puisse voir et entendre. Depuis quelques minutes, l’honnête jardinier se tenait à quatre pour ne pas partir d’un accès de joie immodéré, en présence de l’officier municipal; mais à la fin, le rire qui l’étouffait n’avait pu être contenu par son respect pour M. le mayeur . </p>
+          <p> —Qu’avez-vous donc? demanda le maire avec un léger accent d’humeur; ce que je dis n’a rien de plaisant, je crois. </p>
+          <p> —J’ai, répondit Célestin, d’un air un peu plus sérieux, j’ai que je trouve drôle l’histoire que vous m’avez faite. Où l’avez-vous prise? </p>
+          <p> —C’est Louise Drouart elle-même, l’ancienne maîtresse de votre seigneur ... </p>
+          <p> —Qui ça, l’ innocente ? </p>
+          <p> —De quelle innocente parlez-vous? </p>
+          <p> —Eh bien! de la folle, quoi donc, de Louise, celle-là que vous tenez en prison! Elle vous a conté qu’elle a été la maîtresse du seigneur , et que notre demoiselle est sa fille!... et vous avez cru cela, vous, un maire! </p>
+          <p> —Mais, tout à l’heure elle-même ne vous a-t-elle pas demandé des nouvelles de sa fille? </p>
+          <p> —C’est un nom qu’elle lui donne par amitié, la pauvre femme! Comment n’avez-vous pas vu tout de suite que c’est une innocente ?... Venez ici, Louise. </p>
+          <p> Puis, s’adressant au maire: </p>
+          <p> —Vous allez voir qu’elle est innocente . </p>
+          <p> Louise, qui les écoutait, se précipita aux genoux du maire: </p>
+          <p> —Ne me faites pas de mal, monsieur, je suis une malheureuse folle! Célestin le sait: j’ai perdu la raison. </p>
+          <p> —Vous entendez bien qu’elle en convient elle-même, dit Célestin. Quand je vous assure qu’elle n’a pas sa tête. </p>
+          <p> —Oui, monsieur, oui, je suis folle, continua Louise; il y a bien long-temps déjà... Une fille que j’ai perdue... Oubliez tout ce que je vous ai dit: ma raison m’a abandonnée... Ayez compassion de moi et de mon enfant... Je suis une pauvre mère... Oui, monsieur, je vous le certifie, Célestin vous le dira, tout le monde le sait: je suis folle! Je vous ai menti... monsieur, je suis folle! </p>
+          <p> — Innocente! innocente! répéta le jardinier en la regardant avec douleur. </p>
+          <p> —Mais, demanda le maire, ce mouchoir brodé qu’on a trouvé sur elle?... </p>
+          <p> —Rendez-le moi, il est à ma fille! s’écria Louise, oubliant que ce mot pouvait la trahir une seconde fois. </p>
+          <p> Puis, se reprenant: </p>
+          <p> —Excusez-moi, monsieur, je n’ai pas de fille, je n’ai jamais connu M. Charrière, il n’a pas dû m’épouser.... C’est ma pauvre tête qui est malade... N’est-ce pas, Célestin, que je suis folle? C’est bien aisé à voir... Comment voulez-vous que je ne sois pas folle, puisque j’ai perdu mon enfant? </p>
+          <p> Mais toute disculpation nouvelle devenait inutile. M. le maire partageait déjà l’opinion de Célestin en ce qui touchait la folie apparente de Louise, et l’honnête jardinier avait complétement dissipé les doutes de l’officier municipal, quant au vol. Cette innocente , lui avait-il dit, a pris ce chiffon parce qu’il est à notre Julie, qu’elle aime beaucoup; mais elle le lui aurait rendu, car, depuis plusieurs mois qu’elle habite le château, elle n’a rien volé: tout au contraire, il n’y a pas de jour où elle n’apporte de petits cadeaux à notre demoiselle. Et puis, encore un coup, vous voyez bien que c’est une innocente . </p>
+          <p> Réclamée par Célestin et disculpée par sa prétendue démence, Louise fut mise à l’instant même en liberté. </p>
+          <p> Malgré la nuit, qui était fort avancée, Louise voulut partir tout de suite pour le château. Célestin s’y opposa: sa carriole avait versé une fois en venant, et d’ailleurs, le cheval, lui et l’ innocente avaient besoin de repos. Ils passèrent la nuit chez M. le maire lui-même, qui leur fit grande fête, et le lendemain, dimanche, sur les six heures du matin, ils reprirent la route du château de Baroy. </p>
+        </div>
+        <div title="CHAPITRE IX." type="chapter">
+          <head> CHAPITRE IX. </head>
+          <p> Tout le long du chemin, Célestin rencontra des campagnards endimanchés, qui s’en allaient les uns à la ville, les autres à la ducasse de quelque bourg ou hameau. Soit qu’il fût connu de plusieurs d’entre ces villageois, soit que l’hospitalité flamande lui commandât de faire monter dans sa carriole les piétons qui le saluaient humblement d’en bas, il ne fit pas même un quart de lieue seul avec Louise. Au reste, quelque envie qu’eût Louise d’être débarrassée de ces importuns compagnons de voyage, sur quoi pouvait-elle encore questionner Célestin? ne lui avait-il pas dit deux et trois fois déjà: Pendant votre absence, il n’est rien arrivé de fâcheux: nous nous sommes tous bien portés, et nous n’avons éprouvé d’autre peine que celle de ne vous pas voir. </p>
+          <p> Eh bien! c’est à ma fille, pensa Louise que je demanderai ce qu’elle a fait, si elle a été inquiète de moi, si elle m’a pleurée, si elle était malheureuse loin de sa mère! </p>
+          <p> Dix heures sonnaient, et la carriole entrait dans la cour du château. Après les premières effusions, après que Louise eut jeté de longs baisers tout autour d’elle, à Léocadie, à Célestin, aux deux vieillards, à sa fille, à sa fille surtout, qu’elle étouffait de caresses, on parla de fêter à table le retour de l’ innocente . Mais l’impatiente mère, qui était dévorée du désir d’être seule avec son enfant, supplia ses hôtes de lui abandonner Julie pendant quelques minutes. Ils y consentirent tous, même Julie, heureuse qu’elle était de retrouver sa bonne Louise. </p>
+          <p> Le jardin n’était séparé du château que par une cour un peu élevée, mais pas assez haute cependant pour que du jardin on ne pût observer ce qui se passait au château. Il est inutile de dire que du château dans le jardin l’observation était plus facile encore. </p>
+          <p> Louise, sans autre but que de fouiller dans le cœur de sa fille et d’y chercher ce qu’il contient d’amour pour elle, Louise a pris Julie sur ses genoux, et, à cette même place où elle lui parla de sa mère, quatre jours auparavant, elle épie sur les traits de l’enfant la tendresse plus forte ou plus faible qui doit suivre une longue absence. Absence funeste en toute chose, elle le craint du moins, car déjà ces quatre jours de prison n’ont-ils pas reculé l’instant où elle espérait de s’enfuir avec sa fille? Bientôt il lui faudra songer à quitter Baroy, et pourtant voilà quatre grands jours qu’elle n’a pu ajouter la plus faible somme à son petit trésor...... Que serait-ce donc si, déjà moins riche d’aumônes, elle se retrouvait encore appauvrie de l’amour de son enfant! </p>
+          <p> Elle fixe ses yeux humides sur les yeux rians de Julie: </p>
+          <p> —Chère petite, tu m’aimes donc! lui dit-elle, tu es contente de me revoir... tu as pensé à moi souvent? </p>
+          <p> —Tous les jours, ma bonne Louise, je m’ennuyais beaucoup. </p>
+          <p> —Qu’as-tu fait tout ce temps-là? </p>
+          <p> —Rien; je te dis que je m’ennuyais. </p>
+          <p> —As-tu prié Dieu pour moi? </p>
+          <p> —Oui, ma bonne Louise. </p>
+          <p> —Et puis encore? </p>
+          <p> —J’ai travaillé hier matin sur le dernier modèle d’écriture que tu m’as donné; je disais: C’est ma bonne Louise qui m’a appris à écrire, et je pleurais en pensant que tu étais perdue... </p>
+          <p> —Tu pleurais, pauvre enfant? </p>
+          <p> —Oui; comme je ne savais pas où tu étais allée, ni quand tu reviendrais, j’ai écrit à mon papa Gustave pour qu’il te.... </p>
+          <p> Louise fit un mouvement si brusque qu’elle faillit laisser tomber sa fille, qui, tout émue de la secousse, regarda l’ innocente avec une sorte de crainte. </p>
+          <p> Louise se leva, la terreur sur son visage: </p>
+          <p> —Tu as écrit à ton père? </p>
+          <p> —Mais oui... répondit Julie, tremblante de l’agitation où elle la voyait; je lui ai écrit pour lui dire... </p>
+          <p> —Que j’étais au château?... </p>
+          <p> —Au contraire, que tu n’y étais plus, et que s’il te rencontrait à Paris... </p>
+          <p> Louise ne la laissa pas achever; elle était hors d’elle. </p>
+          <p> —Et tu m’as nommée, malheureuse enfant? </p>
+          <p> —Mais, oui, je t’ai nommée... ma bonne Louise. </p>
+          <p> —Y a-t-il long-temps? </p>
+          <p> —Trois jours. </p>
+          <p> —Trois jours!.... Il est en route pour venir; il est à une lieue d’ici, peut-être... Oh! ma fille, ma fille, c’est toi qui m’as perdue!... On va t’arracher de mes bras, chère enfant..... Mon Dieu! mon Dieu!... </p>
+          <p> Julie, à qui les gestes et les cris de l’ innocente faisaient peur, voulut s’éloigner; mais Louise, l’attirant avec force vers elle, se baissa, prit la tête de son enfant dans ses mains, et approchant sa figure de la figure de sa fille, qu’elle baignait de larmes: </p>
+          <p> —Regarde-moi, Julie, regarde-moi. Sais-tu qui je suis? </p>
+          <p> Julie hésitait à répondre. </p>
+          <p> —Ma fille, dis-moi qui je suis! </p>
+          <p> —Tu es ma bonne Louise...., répondit l’enfant, qui se contenait pour ne pas crier, car elle appréhendait que ses cris n’irritassent encore la folie de la pauvresse. </p>
+          <p> —Je suis ta mère! ta mère!...... s’écria Louise en couvrant sa fille de baisers et de pleurs. Tu es à moi! à moi seule, entends-tu? Ton père t’a volée à mon amour. Tu m’appartiens; je t’ai achetée par six ans de malheurs, par quatre mois de mendicité. J’ai été ta servante, j’ai tendu la main pour te nourrir... j’ai dit que j’étais folle... Ton père m’a fait passer pour morte.... On m’a dit aussi que tu étais morte, toi, ma fille.... Mortes, chère enfant, mortes toutes deux pour nous arracher l’une à l’autre.... Mais maintenant je te tiens, personne ne pourra t’enlever à moi; tu es ma fille, mon enfant, tout ce que j’aime au monde... Julie, mais, ne me fuis pas, je suis ta mère!... </p>
+          <p> L’enfant était parvenue à s’échapper des bras de Louise, et elle remontait le jardin en pleurant et en courant. Louise s’élança après elle. </p>
+          <p> Dans ce moment, deux hommes à cheval s’arrêtèrent à la porte du château. Célestin se dépêcha d’aller au-devant d’eux. Le premier qui entra c’était le propriétaire de Baroy, l’homme qui le suivait, un de ses domestiques. </p>
+          <p> Célestin, surpris de la brusque apparition de son seigneur , lui dit: </p>
+          <p> —Nous ne vous attendions que dans huit jours, monsieur. Est-ce que vous êtes venu à cheval? </p>
+          <p> —En poste. Nous avons pris des chevaux de selle à Landrecies. Mais comment se porte ma fille? </p>
+          <p> —Très-bien, monsieur, très-bien; toujours gaie, contente. Elle sera bien heureuse de vous voir! </p>
+          <p> —Où est-elle? </p>
+          <p> —Dans le jardin, je vais l’appeler; à propos, avez-vous vu le maire d’Étrœung? </p>
+          <p> —Oui, oui, je l’ai vu... mais faites venir ma fille... Elle est seule dans le jardin?... </p>
+          <p> —Non, monsieur, je crois qu’elle est avec l’ innocente ..... </p>
+          <p> Célestin n’avait pas achevé, que son maître traversait rapidement la cour du château. Le jardinier et le domestique le suivent. </p>
+          <p> En cet instant, Louise parle d’amour à sa fille, qu’elle essaie de calmer par ses paroles, de consoler par ses baisers. Mais l’enfant détourne la tête avec inquiétude... </p>
+          <p> Julie vient de reconnaître son père. Elle tend les bras de ce côté et elle appelle. </p>
+          <p> Louise jette les yeux vers le château... Trois hommes empressés descendent les marches du jardin. </p>
+          <p> Sa vue se trouble, l’égarement est dans ses idées, elle enlève, elle saisit sa fille à bras-le-corps, sa fille qui appelle au secours. </p>
+          <p> —Papa, l’ innocente , la folle! </p>
+          <p> —Ah! c’est lui, s’écrie Louise, il vient à nous, il va te reprendre, mon enfant... C’est lui! </p>
+          <p> Sa fille pressée contre sa poitrine, elle se précipite, elle cherche une issue... </p>
+          <p> Julie continue de crier, d’appeler son père à son aide. </p>
+          <p> —Tais-toi, Julie, ne pleure pas, dit Louise épouvantée, n’appelle pas, ma fille..... Je suis ta mère..... ta mère!!! </p>
+          <p> Mais l’enfant, dans son effroi, opposait une vive résistance, les bras tendus vers Gustave... </p>
+          <p> Louise, échevelée, rapide, la tête perdue, luttant d’efforts contre sa fille qui se débat, qui la frappe au visage, s’élance hors du jardin, franchit le pont du ruisseau, monte les prairies et fuit en plaine avec sa proie..... </p>
+          <p> Derrière elle on entend: </p>
+          <p> —Arrêtez! arrêtez! </p>
+          <p> Julie ne cesse de crier: </p>
+          <p> —Au secours! la folle! la folle! à moi! </p>
+          <p> Louise épuisée de forces, mais non de courage, accablée sous le faix qu’elle emporte, trébuche, tombe... son enfant roule à côté d’elle.... </p>
+          <p> Gustave, Célestin et le domestique sont près de l’atteindre. </p>
+          <p> Elle se relève, ressaisit son enfant, qui s’accroche aux pierres, aux brins d’herbe, la reprend dans ses bras, court quelques instans, après quoi elle retombe... mais cette fois elle n’a pas laissé échapper sa fille. </p>
+          <p> Elles sont tombées l’une et l’autre la face contre terre. Louise, qui croit pouvoir fuir encore, s’est retournée sur le dos, avec son enfant toujours entre ses bras..... </p>
+          <p> Gustave est devant elles; il se jette avec emportement sur Louise pour lui disputer leur fille..... </p>
+          <p> Mais Louise, Louise à la vue de Gustave furieux, a rassemblé toute son énergie, elle enlace sa fille comme dans un lien de fer. </p>
+          <p> —Elle est à moi, s’écrie-t-elle, tu ne l’auras pas! </p>
+          <p> Le domestique frappe et blesse Louise aux mains, tandis que Célestin s’efforce de dégager Julie, qu’il tire à lui par les jambes..... </p>
+          <p> —Assez! assez! dit Gustave, ne leur faites pas de mal..... </p>
+          <p> L’enfant, que Louise tenait par le milieu du corps, glisse sous les bras de sa mère éperdue..... Alors elle se raidit, elle se cramponne à la tête de sa fille, et le cou de Julie se trouve comprimé sous les deux poignets de Louise. La malheureuse presse, serre, étreint son enfant avec délire... </p>
+          <p> —Tu ne l’auras pas! répète-t-elle, elle est à moi, Gustave!... Oh! messieurs, dit-elle aux domestiques, laissez-moi ma fille, elle est à moi, ne me la prenez pas! </p>
+          <p> Léocadie accourait en ce moment. Louise l’aperçut et lui cria: </p>
+          <p> —Léocadie! au secours! défendez-moi!... Bonne Léocadie, empêchez-les de me prendre ma fille! </p>
+          <p> Julie, que tirent à eux trois hommes, dont un est son père, et que retient une seule femme, Julie, immobile entre les bras qui l’enchaînent, poussa un sourd gémissement de douleur, et Louise, brisée de convulsions, perdit connaissance. </p>
+          <p> Elle ignorait cependant qu’au milieu de cette lutte horrible, Julie fût morte étouffée par elle, par elle, pauvre mère, qui eût donné sa vie mille fois pour respirer le souffle, pour sentir battre le cœur de son enfant... </p>
+          <p> Quinze jours après, Louise aussi était morte, et Gustave Charrière avait quitté la France. </p>
+          <p> Il n’y a pas encore trois mois, un de nos amis l’a rencontré à New-York. </p>
+          <p> . . . . . . . . . </p>
+          <p> Il ne paraissait pas heureux. </p>
+          <lb/>
+          <p> FIN. </p>
+        </div>
+      </div>
+      <head/>
+    </body>
+    <back/>
+    <back/>
+  </text>
+</TEI>

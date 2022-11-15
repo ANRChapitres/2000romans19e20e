@@ -1,0 +1,1371 @@
+<?xml version='1.0' encoding='UTF8'?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Le brasseur roi. Tome 4</title>
+        <author from="1788" key="" name="Arlincourt, Charles-Victor Prévost d'" sex="male" to="1856"/>
+        <edition n="5"/>
+        <editor name="Ambroise Dupont" where="Paris"/>
+      </titleStmt>
+      <publicationStmt>
+        <date type="created" when="1834"/>
+        <date type="issued" when="1834"/>
+      </publicationStmt>
+      <editionStmt>
+        <profileDesc tag="non-canon" type="genre">
+          <textClass>
+            <keywords>
+              <term>roman historique</term>
+            </keywords>
+          </textClass>
+        </profileDesc>
+      </editionStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docAuthor/>
+        <docTitle>
+          <titlePart main=""/>
+          <titlePart sub=""/>
+        </docTitle>
+      </titlePage>
+    </front>
+    <body>
+      <div title="AVANT-PROPOS DE L'ÉDITEUR." type="preface">
+        <head>AVANT-PROPOS DE L’ÉDITEUR.</head>
+        <p>LE 27 décembre 1835, l’auteur du Brasseur Roi ayant voulu répondre lui-même aux amères critiques du Journal des Débats, adressa à diverses feuilles quotidiennes une lettre qui fit, à cette époque, une vive sensation dans le public. Elle fut reproduite à l’envi par toutes les gazettes de France et de l’étranger. Tirée à trente mille exemplaires, elle se répandit de toutes parts, et son succès fut prodigieux.</p>
+        <p>Comme elle repousse victorieusement les attaques dirigées contre le Brasseur Roi, nous avons pensé avec raison qu’il était convenable qu’elle fût imprimée en tête de cette nouvelle édition, et la voici :</p>
+        <div> </div>
+        <p>Ce 27 décembre 1833.</p>
+        <p>MONSIEUR,</p>
+        <p>» Je viens de lire dans le Journal des Débats un article contre le Brasseur-Roi ; il est écrit avec aigreur et passion. Je ne chercherai cependant point à défendre mon livre sous le rapport du talent ; le droit de la critique appartient à tout le monde, et ma production est certainement loin d’être sans reproche ; mais l’aristarque M.G....., non content de dénigrer l’œuvre littéraire, attaque l’écrivain politique.</p>
+        <p>Ceci me force à lui répondre1.</p>
+        <p>« Le Brasseur-Roi est un pamphlet, dit le rédacteur des Débats. Il y a un grand inconnu dans la partie politique de ce livre, et cet inconnu, tout le monde le nomme. »</p>
+        <p>» Eh quoi ! c’est le journal du roi-citoyen qui ose tenir cet imprudent langage ! Il ne sera donc plus possible, en littérature, de peindre un félon, un avare, un fourbe, un lâche, un assassin, un monstre, sans courir la chance d’être aussitôt traité de pamphlétaire par la feuille de l’ordre de choses ! Quoi ! lorsqu’on aura présenté le portrait d’un spoliateur, chargé de trahisons et de forfaitures, on sera censé avoir voulu reproduire l’image exacte d’un inconnu que tout le monde nomme ! Oh ! s’il en est ainsi, brisons nos plumes ; car, il n’est aucune langue où l’on puisse écrire sans employer, de temps à autre, ces perfides substantifs, ces fatales épithètes qui font tourner la tête de M. G...... du côté des Tuileries ; si je n’eusse peint dans mon ouvrage que des bienfaits et des vertus, ses yeux se seraient sans doute portés ailleurs. Ah. M. G.... ! si, quelque part, selon vos propres expressions, il y a pétulance d’insulte contre votre grand inconnu, il me semble que c’est dans votre article.</p>
+        <p>J’ai faussé l’histoire, dit-on ; les catastrophes de Gand ont été moins horribles. » » Un savant rédacteur de la Gazette de France a prouvé au contraire que j’avais été d’une grande vérité dans mes peintures flamandes du XIVe siècle. Est-ce que M. G...., persuadé qu’il n’y a eu de glorieuses révolutions qu’en 1830, se serait imaginé par hasard qu’à toute époque la France seule a eu le privilège des usurpations et le monopole des d��sastres ?</p>
+        <p>» Voici deux anachronismes que me reproche l’aristarque :</p>
+        <p>« 1o Pétrarque, né en 1405, était trop jeune pour avoir pu se rendre à Gand l’année où M. d’Arlincourt l’y fuit venir. »</p>
+        <p>» Je l’y fais venir en l’an 1345 environ, ainsi que l’attestent les chroniques ; Pétrarque avait alors 40 ans.</p>
+        <p>» Un canon à main, espèce de fusil, n’a pu être employé à Gand à cette époque. »</p>
+        <p>» Eh ! pourquoi non ! les Vénitiens firent usage d’armes à feu dès 1300. Barthélemi de Drach, trésorier des guerres, mentionne dans ses comptes de 1338 , des dépenses pour armes à feu. M. G...., élevant de l’artillerie contre moi, a mal dressé ses batteries.</p>
+        <p>» Au reste, le succès du Brasseur-Roi, je le sais, est ce qui lui a valu les diatribes du Moniteur de la doctrine ; j’ai donc tort, en quelque façon, de me plaindre. Des injures n’ont jamais été des raisons, elles sont quelquefois des triomphes.</p>
+        <p>» Passons à un reproche plus grave. On n’a pas craint d’affirmer que, cherchant à diviser la France en deux camps, celui de la noblesse et celui de la roture, je sacrifiais le peuple à l’aristocratie. Où donc a-t-on vu pareille chose ? Ce n’est, certes, pas dans mes livres. Une telle pensée n’aurait pu sortir de ma plume, car elle n’est jamais outrée dans mon cœur. La cause du peuple est, parmi nous, la cause nationale ; aussi l’aristocratie française a toujours défondu avec énergie les franchises publiques, car elle a constamment marché en tête de la civilisation européenne. Elle fut jadis aux temps de la chevalerie l’appui sauveur des opprimés et l’effroi de la félonie ; elle est encore, en nos jours de discordes, la voix qui rappelle à l’honneur, l’étendard qui conduit à la liberté, l’étoile qui montre le port. L’aristocratie et le peuple doivent plus que jamais se soutenir et ne faire qu’un. Loin de moi la pensée antipatriotique de semer entre eux la division : ils se doivent amour et confiance, car mêmes intérêts les unissent.</p>
+        <p>» Non, je n’ai point écrit contre le peuple ; c’eût été dégrader ma plume ; j’ai fait valoir, au contraire, en toute occasion, ses prérogatives sacrées. Je n’ai attaqué avec indignation que cette lie révolutionnaire, des cités, se battant à tort et à travers au profit des misérables ambitieux qui exploitent sa brutale intrépidité ; je n’ai jeté quelques expressions de mépris que contre ce rebut des royaumes, vulgairement nommé populace, qui, n’importe sous quel drapeau, hurle le désordre et le crime. Cette masse d’individus, d’où sort-elle ? qui peut la définir ? personne. Ce n’est ni le commerçant, ni le soldat, ni le laboureur, ni l’artiste, ni l’ouvrier, tous gens de talent, de conscience et de cœur : ce n’est donc nullement la nation, ce n’est pas même la nature humaine ; c’est un je ne sais quoi sans nom, qui n’est ni le pays, ni le peuple.</p>
+        <p>» Le critique des Débats a insinué de plus que j’avais la prétention de mettre en parallèle l’antiquité de mes armoiries avec celle de l’Inconnu que tout le monde nomme. Où donc a-t-il pu trouver dans le Brasseur-Roi cette espèce de défi héraldique ? Quel regard d’aigle a M. G..... ! Ce n’est pas assez de reconnaître l’ inconnu, il aperçoit aussi l’ invisible. En tous cas, quelque humble que soit mon écusson, je ne l’ai du moins jamais renié ; il n’a ni sang ni pavés dans son origine ; il date de plus loin que 1830 ; et je puis le montrer sans honte, car je ne l’ai ni changé ni gratté.</p>
+        <p>« Je n’aurais jamais abordé cette dernière question ; mais puisqu’on m’y a poussé et que nous en voilà venus à disserter sur le blason, j’ajouterai, à ce sujet, que, d’après les lois anciennes, tout chef suzerain, fût-il du plus illustre lignage, était condamné, lorsqu’il s’était rendu coupable de félonie envers son roi, à descendre à l’instant même au-dessous du plus obscur chevalier2. Le bourreau avait le pas sur lui.</p>
+        <p>» Le vicomte D’ARLINCOURT. »</p>
+      </div>
+      <div title="LE BRASSEUR ROI." type="part">
+        <head>LE BRASSEUR ROI.</head>
+        <div title="Chapitre XVII" type="chapter">
+          <head>XVII</head>
+          <p>WENEMARE a rempli avec succès sa mission auprès du comte de Hainault. Il est reparti pour la Flandre. La renommée aux cent voix lui a porté d’inquiétantes nouvelles. Les différentes assemblées convoquées par le Reward dans une partie de ses provinces, ont accueilli ses propositions avec transport. Les députés de Lille, de Gand, de Dourberg, de Neuport, de Cassel et autres pays, ont proclamé souverain le Prince-Noir. C’est l’Angleterre qui triomphe3,</p>
+          <p>Le Brasseur Roi parcourt le royaume ; et seul, sans suite, sans escorte, il poursuit sa grande entreprise. Urbin, à peu de distance d’Ypres, s’est arrêté dans une hôtellerie écartée où l’on attendait secrètement Artevelle la nuit même. Wenemare veut lui parler.</p>
+          <p>Un seul homme accompagne Jacque : c’est Everard de Falkemont, un ami d’enfance d’Urbin.</p>
+          <p>Les deux voyageurs descendent, inconnus, d’un modeste whirlecote (4, à la taverne de Steden. Le neveu de Gérard Denys tire à part Falkemont, s’en fait reconnaître et l’embrasse. Il supplie son ancien compagnon de jeunesse de l’introduire auprès du Reward. Il lui jure sur l’honneur que ses intentions sont droites et loyales. Falkemont se rend à son voeu ; et Je Brasseur Roi, seul dans sa chambre, voit tout à coup Urbin devant lui.</p>
+          <p>Le chef révolutionaire était vêtu d’un justaucorps de drap couleur d’ardoises. Une ceinture de cuir suspendait à son côté une longue rapière et une forte dague. Ses bottes étaient armées d’éperons. Un capuchon doublé d’hermine tombait sur ses épaules ; et son bonnet, enfoncé sur ses sourcils, cachait ses cheveux grisonnans. Sa barbe était épaisse et longue5.</p>
+          <p>A l’approche de Wenemare, son premier mouvement a été de porter sa main sur sa dague. Les paroles du meurtrier d’Oudenbourg retentissent à sa mémoire, « Tu me verras un jour face à face, et tu seras à ta dernière heure. » Il s’est levé avec effroi ; mais le front d’Urbin ne présentant rien de menaçant, il s’est rassuré peu à peu ; et, s’environnant de cette perfidie caressante et fardée qu’on nomme aux salons politesse :</p>
+          <p>– Vous ici ! dit-il, pourquoi faire ?</p>
+          <p>» – Pour te parler.</p>
+          <p>» – De quoi ?</p>
+          <p>» – De la Flandre.</p>
+          <p>» – Assieds-toi : je t’écouterai. »</p>
+          <p>Urbin prend place auprès d’Artevelle. Une longue pause, un de ces froids silences qui précèdent les grandes décisions humaines, tient leurs facultés en suspens. Jacque, l’œil obliquement baissé, cherchait sans doute quelque faux-fuyant pour se dérober le plus promptement possible à sa pénible position. Wenemare, pâle et vivement ému, regardait l’idole de ses premières années avec un trouble inexprimable. La vieille habitude de soumission qui jadis courbait son front à sa vue, n’était point encore assez détruite en lui pour laisser pleine liberté à son intelligence. Il est des ascendans magiques. Urbin se retraçait Néolie ; il songeait à Louis de Male ; et, pour vaincre le sortilège, il appelait à lui le remords.</p>
+          <p>« – Reward ! dit-il enfin d’un ton grave, nulle haine, aucune vengeance, ne m’ont poussé à ta rencontre. Il ne sera question entre nous ni de Néolie ni de Bertrade. Je suis, moi misérable individu, trop peu de chose ici-bas pour faire entrer en rien mes sentimens personnels dans les hauts intérêts publics dont j’ai à t’entretenir. Aimes-tu ton pays, Artevelle ?</p>
+          <p>» – En chef prêt à mourir pour lui, répond froidement le despote.</p>
+          <p>» – En ce cas, rends-lui le bonheur ; rends-lui ses princes légitimes ; et, quelles que soient tes erreurs passées tu peux encore, aux yeux de l’Europe, t’élever au rang des grands hommes.</p>
+          <p>» – Urbin ! réplique le Reward, il y a entre tes idées et celles des patriotes flamands une révolution et des siècles. Crois-tu qu’on manie la multitude comme on se joue d’une arme d’enfant ? ce n’est pas moi qui l’essaierai.</p>
+          <p>« – Tu l’as déja fait pour le mal ; ne l’oserais-tu donc pour le bien ! Que parles-tu de patriotes ? Entends-tu par-là ces hommes d’insurrection qui ne veulent que sang et ruines ? Ne trouves-tu dignes de ce nom que ceux qui méritèrent la corde6 ? Prends-y garde, Jacque Artevelle ! ces hommes, loin d’être une principale part de la nation, ne sont qu’un vil rebut du royaume. Les soulever, ce fut audace ; s’appuyer sur eux, c’est démence. Ils te briseront comme ils t’ont créé. Compterais-tu sur leurs sermens ? Hélas ! pour n’être pas un parjure, il faudrait une conscience. Quant aux masses qui t’ont couronné : un roi, camarade des traîtres, peut-il leur demander sérieusement une promesse loyale et sainte ? il faut avoir foi à l’autorité devant laquelle on jure : qu’est-ce qui croit à la royauté usurpée ? Personne : ni grands, ni petits, pas même ceux qui l’ont improvisée. Reward ! ce moment est solennel. Quelque chose me crie que si tu repousses mes vœux et fermes l’oreille à ma prière, ta fin, dont je pressens l’approche, épouvantera la Flandre et l’Europe. Le feu que tu as allumé te brûlera. Je le vois d’ici déchiré par ce peuple féroce dont tu aiguisas les dents, et qui, ayant appris de toi quelle était sa force, voudra la déployer sur toi même. Oh ! quand je te demande grâce et pitié pour la nation que tu gouvernes, c’est ton salut aussi que j’implore. 1</p>
+          <p>Le regard et les paroles acérées de Wenemare étaient lancés si droit au tyran, qu’il a porté involontairement la main à sa poitrine, comme pour parer un coup de poignard.</p>
+          <p>« – La nécessité, balbutie Jacque, m’a seule placé sous la pourpre. Je me suis sacrifié à la Flandre en prenant les rênes de l’État. J’aurai fait du bien, Wenemare. Mon règne marquera dans l’histoire. Ce n’est pas le peuple qui me remit la puissance souveraine ; ce sont les députés des provinces</p>
+          <p>» – Ils étaient nommés par la fraude, et ne représentaient que le mensonge, interrompt vivement Urbin. Le député, tel que l’a fait l’usurpation, et tel qu’il s’est vendu au despotisme, délibère sans méditer, et se décide sans comprendre ; il part en ressort mécanique, et vote en automate exercé ; c’est une fabrique législative qui, faisant des institutions à la course, et essayant en vain de placer de l’ordre dans du gâchis, et du solennel dans de l’ignoble, se brise en voulant se serrer, puis renverse en croyant construire. Jacque, dis-le-moi franchement, qu’as-tu gagné aux horreurs qui t’ont fait monarque ? Oh ! tu as perdu à ramper devant la populace, et à gémir sous la couronne, plus de force et de génie qu’il ne t’en aurait fallu, par la route du devoir, pour monter à l’immortalité. Avoue-le : tu as trouvé au fond de tes grandeurs plus d’angoisses que de jouissances. Que d’heures affreuses t’ont accablé ! que de terreurs t’ont assailli ! Tu as souffert..... beaucoup !.... et pourquoi ? Pour porter le nom de Reward, pour avoir un sceptre et des gardes, pour dormir sous le royal velours !… Que dis-je ! dormir ! As-tu pu reposer en paix sur ta couche usurpée ? Le remords, aux griffes de fer, ne t’a-t-il pas tenu douloureusement éveillé dans les palais ravis au vrai maître ? N’as-tu pas vu parfois, du milieu des ténèbres, resplendir de loin l’étoile vengeresse qui doit un jour sauver le royaume ? Il est une justice divine, et son épée est flamboyante. Reward ! le droit revient... Range-toi ! »</p>
+          <p>Le chef a changé de visage. On eût dit qu’aux paroles brûlantes d’Urbin, il avait fait froid dans son cœur.</p>
+          <p>« – Tu as beau, continue Wenemare, te faire peuple avec la multitude, boutiquier avec le commerçant, militaire avec le soldat, et gentilhomme avec les nobles ; toutes ces classes te repoussent : les unes par l’insouciance et le mépris, les autres par l’indignation et la haine. J’eus autrefois, à ton école, autre opinion, autre langage ; ta révolution et ton règne ont dessillé mes yeux à jamais. Je me suis guéri, à ton triomphe, de mes fièvres démocratiques. Où sont les libertés promises ? Tu n’en as distribué que des semblans, qui se sont immédiatement fondus dans le despotisme et la servitude. Je t’ai connu heureux naguère ; on t’estimait, on te fêtait : ton visage était serein ; ton existence était brillante. Que tu es changé aujourd’hui ! Ta figure est jaune et sillonnée ; ton corps est usé, alourdi. Quand tout afflue au pouvoir du maître, que vient-il au bonheur de l’homme ? Tu donnes en vain à tes appuis, en échange d’un peu d’affection et de reconnaissance, une pari des trésors que tu dilapides, et des honneurs qui te dégradent : leur intérêt est le seul mobile qui les guide ; ce n’est qu’eux, en toi, qu’ils soutiennent. Les lâches, au jour de ta chute, t’écraseront la tête du pied pour courir plus vite, l’encensoir à la main, au devant de ton successeur. Quant aux monarques tes voisins, la peur d’une révolution universelle leur a fait légitimer, en apparence et pour un moment, une révolution particulière ; mais ce moment aura son terme. Tu marches entouré de volcans. Arrête ! il y a du sang sur ta route. Un pas encore..... et tu es perdu.</p>
+          <p>Le Brasseur Roi se lève effrayé. Urbin se jette à ses genoux.</p>
+          <p>« – Un mot plus !... un mot !... le dernier. Me voici à tes pieds, Reward. Écoute, laisse-toi attendrir : ne vends pas ton pays à l’Angleterre ; rends le diadème à nos princes, et je te pardonne tout, mes malheurs, mes crimes, tes fautes, mes remords, Néolie, Bertrade, tout. J’ai juré ta mort, tu le sais : eh bien ! loin d’armer mon poignard, je te défendrai, s’il le faut. J’irai, pieds nus, jusques à Rome, m’y faire relever de mon vœu. J’irai seul, s’il en est besoin, achever ma vie pénitente dans quelque solitude déserte. Rien ne me coûtera sur la terre, ni souffrances, ni châtimens, ni humiliations, ni tortures, pourvu qu’en revanche, à l’écart, je sachemonn pays heureux, et toi, grand parmi les plus grands. Génie que saluait ma jeunesse ! allons ! un effort magnanime ! et, aux acclamations de l’Europe, la Flandre reconnaissante se prosternera devant toi comme je le fais en ce moment. Ne peux-tu sourire à ce tableau ? N’as-tu pas une âme, Artevelle ?</p>
+          <p>» – Laisse-moi, de grâce ! dit Jacque : laisse-moi ! j’y réfléchirai. Déjà peut-être il n’est plus temps. Ma promesse au roi d’Angleterre....</p>
+          <p>» – Peut se rétracter, elle est nulle ; qui l’a ratifiée ? aucun pouvoir. Le pays t’aura fait la loi. Le pays veut l’ordre et la paix, c’est dire le roi légitime.</p>
+          <p>» – Assez ! interrompt le Reward. Lève-toi, je repars pour Gand.</p>
+          <p>» – Y changeras-tu de plans et de voeux !</p>
+          <p>« – Je m’y rappellerai tes paroles.</p>
+          <p>» – Adieu ! j’ai rempli un devoir. Mais si tu trompes mon attente, malheur à toi, Jacque Artevelle ! mou serment me rejettera de nouveau sur ton passage... et le fer vengeur à la main. Alors, quand tu me reverras, quand je te dirai : me voici ! ton arrêt sera prononcé, tout sera fini pour toi dans ce monde ; tu seras à l’heure suprême. Oh ! ne me fais pas crier : me voici ! »</p>
+          <p>Et Urbin sorti de la salle, a repris la route de Bruges.</p>
+        </div>
+        <div title="Chapitre XVIII" type="chapter">
+          <div> </div>
+          <head>XVIII</head>
+          <p>LE messager du comte de Male a retrouvé Gérard Denys à Bruges, où les députés du choix d’Artevelle appelaient un prince anglais au trône. Le pays flamand, dégradé par le pas sage de l’usurpation, se laissait alors passer d’un maître à un autre avec un lâche hébêtement. Les meneurs de la destruction l’avaient tellement déçu et joué depuis son prétendu affranchissement, ils avaient si bien broyé grain à grain les deux pierres angulaires de l’édifice social, la royauté et la religion, que le peuple à demi éteint, semblait végéter, enchaîné, hors la loi des nations et de l’église.</p>
+          <p>Gérard Denys a conduit son neveu au milieu des assemblées secrètes, où se préparait avec art le rétablissement de l’autorité légitime. Nobles, magistrats, commerçans, tout repoussait d’un commun accord la domination étrangère.</p>
+          <p>Peu de jours s’étaient écoulés depuis l’arrivée d’Urbin à Bruges. Un courrier du gouvernement y apporte des nouvelles d’Ypres. Cette ville, par l’organe de ses députés, présidés par Jacque lui-même, a suivi l’exemple de Lille, et décerné la couronne au Prince-Noir7. Le Reward, fier de son triomphe, s’est dirigé vers Oudenarde.</p>
+          <p>C’en est fait : plus d’illusions ; le fourbe a trompé Wenemare. L’usurpation poursuivra jusqu’au bout sa carrière de forfaitures. Elle se figurera que les attentats se rendent respectables quand ils peuvent se faire immenses ; et, frappée d’aliénation, elle ne verra de chemin praticable pour elle que la route du précipice.</p>
+          <p>« – Il faut que je te parle à cœur ouvert, dit un matin Denys à Urbin. Le fils de Flandre, séduit par les charmes d’une orpheline qu’Hamstède a recueillie chez lui, semble ne plus exister que pour elle. L’amour qui l’aveugle l’endort. Il faut le séparer d’Elberge. As-tu vu cette jeune fille ?</p>
+          <p>» – Oui, à Réthelsée.</p>
+          <p>» – Qui est-elle ?</p>
+          <p>» – Je ne m’en suis pas informé.</p>
+          <p>» — On la dit parente d’Hamstède.</p>
+          <p>» – Je ne lui ai connu qu’une nièce.</p>
+          <p>» – Ah oui ! Néolie : qui est morte. Son oncle, et je le tiens de lui-même, en a acquis la certitude. Mais cette séduisante Elberge…</p>
+          <p>» – Louis va revoir Marguerite, interrompt Urbin d’un air sombre. La belle princesse de Brabant reprendra ses droits sur son cœur.</p>
+          <p>» – Est-elle aussi belle qu’Elberge ?</p>
+          <p>» – Oh ! je ne veux pas les comparer.</p>
+          <p>» – Mais tu les connais toutes deux.</p>
+          <p>» – Qui jamais connut une femme !</p>
+          <p>» – Marguerite, poursuit Gérard, est arrivée sur les frontières de Flandre à la tête de quelques troupes. Dès que j’en ai eu connaissance, j’ai communiqué par écrit à Bertrade mes craintes sur les séductions de la jeune fille de Réthelsée ; et j’ai engagé la noble veuve à hâter par tous les moyens possibles la réunion de la princesse de Brabant et du fils de Flandre. N’ai-je pas bien fait, Wenemare ? »</p>
+          <p>L’amant de Néolie s’est troublé.</p>
+          <p>» – Vous fûtes témoin, reprend-il, des feux naissans du comte de Male. Elberge aime-t-elle le prince ?</p>
+          <p>» – Belle question ! répond Gérard. Quelle femme ne l’aimerait !</p>
+          <p>» – Si Elberge eut d’autres amans !.... Si un premier amour !....</p>
+          <p>» – Je l’ignore. Sa vie m’est totalement inconnue ; mais ce que je puis affirmer, c’est que si elle a eu un premier amour, elle en a maintenant un second, et qu’elle est tout entière au dernier. Quant à nous, tâchons d’y mettre ordre. »</p>
+          <p>Urbin a soupiré et s’est tu.</p>
+          <div> </div>
+          <p>Tout est prêt pour le soulèvement de Bruges. Cœur-d’Acier, l’un des capitaines de compagnies franches les plus dévoués à Gérard Denys, est parti en hâte pour Gand. Urbin doit aller l’y rejoindre.</p>
+          <p>Mais la présence dé Louis de Male est indispensable à Bruges pour y lever, tout à coup avec éclat et succès le véritable étendard de l’affranchissement national. Wenemare est député vers lui pour lui. porter les prières instantes de ses zélés partisans. Il faut que l’héritier des Nevers apparaisse à la tête des siens. Il est jeune, vaillant et beau : sa personne vaudra une armée.</p>
+          <p>Urbin, muni d’importantes dépêches, franchit comme un trait les distances. Le temps presse, il vole, il arrive.</p>
+          <p>Nul ne l’attendait à Réthelsée. Le fidèle messager, redoutant quelque nouvel artifice d’Hamstède, s’est introduit presque furtivement, et sans se faire annoncer, jusque dans l’appartement du comte. Louis de Male y était seul.</p>
+          <p>« – Prince ! lui dit Urbin ; la Providence m’a aidé à remplir la mission que vous m’aviez confiée. La fortune nous est propice. Le Brabant et le Hainault embrassent votre cause : la nation, revenue de sa funeste erreur, se tourne vers ses princes légitimes qu’elle rappelle à son secours. L’heure de la justice a sonné. Vos braves et loyaux défen seurs n’attendent plus à Bruges que vous ; voici leurs dépêches : lisez. »</p>
+          <p>Le comte de Male a coupé le ruban de soie qui servait d’enveloppe à l’importante missive, et auquel était suspendu un grand sceau de cire jaune. Il a lu attentivement l’écrit qui lui était adressé. A peine a-t-il regardé Wenemare. Son accueil est peu amical.</p>
+          <p>« – Je partirai demain : s’écrie-t-il. Et mettant la main sur son glaive :</p>
+          <p>» – Que mes amis comptent sur moi ! Je marcherai moi-même à leur tête.</p>
+          <p>» – Marguerite de Brabant, reprend le soldat fidèle, ne s’est pas contentée d’envoyer un secours de troupes à son auguste fiancé ; elle vient en personne à son aide ; et, sublime dans son courage, dévouée aux comtes de Flandre ;, elle est non-seulement aujourd’hui la plus belle des princesses, mais la plus admirable dea femmes.</p>
+          <p>» – Marguerite !... en personne !... à mon aide !.... interrompt en pâlissant le fils de Flandre : c’est imprudemment s’exposer. Pourquoi ne l’avoir pas détournée de cette entreprise périlleuse ! Tu aurais dû t’y opposer</p>
+          <p>» – En avais-je le droit, mon prince ! Lorsque Marguerite cédait à l’impulsion de son noble cœur, était-ce à un soldat obscur à essayer d’éteindre un enthousiasme sublime ? Vous me l’eussiez ordonné que mon dévouement pour vous m’eût peut-être défendu d’obéir. J’admirais et je me suis tu. »</p>
+          <p>Un geste d’impatience a trahi le mécontentement intérieur du comte de Mate ; il s’est mordu les lèvres de dépit ; puis il reprend d’un air ironique :</p>
+          <p>« – Et la comtesse de Hainault, veut-elle aussi guider son armée ? La verrons-nous combattre en personne ?</p>
+          <p>» – La comtesse est épouse et mère. Vous ne lui êtes qu’un allié, tandis que Marguerite.....</p>
+          <p>» – Il suffit. »</p>
+          <div> </div>
+          <p>Ces deux mots prononcés d’un ton ferme et rude n’ont point étonné Wenemare : il a lu dans le cœur du prince.</p>
+          <p>« – Et que devient Jacque Artevelle ? dit Louis après une pause.</p>
+          <p>» – J’ai voulu le voir, et je l’ai vu, répond le messager sans détour. Si j’avais pu le déterminer à rendre volontairement le sceptre à son maître, j’aurais arrêté toute effusion de sang, et cette idée m’avait souri. J’ai fait un appel à son âme : j’ai eu tort, car j’ai échou��. Artevelle, habituellement si verbeux, n’a pas daigné cette fois confier ses pensées à ses lèvres. Cuirassé contre les supplications de la justice et de l’honneur, il n’a laissé échapper de ses yeux et de sa bouche que de l’applicable à toute chose, de l’inaccentué, du vague, rien de senti ni d’ébranlé, rien d’un cœur allant à un cœur. Il m’a repoussé, moi qui lui tendais une main de salut !... Que sa destinée s’accomplisse !</p>
+          <p>» – Le misérable ! dit Louis. Insolent devant le pays ! devant l’étranger à plat ventre ! Urbin, un bouclier, et des armes ; il faut qu’on nous voie en présence, et que la Flandre nous compare !</p>
+          <p>» – Demain vous partirez : à quelle heure ? »</p>
+          <p>L’héritier des rois s’est levé. Son agitation s’est accrue. Sa langue, embarrassée, frémissante, semblait craindre de laisser échapper d’imprudens aveux. Il prend la main de Wenemare.</p>
+          <p>« – Dois-tu me suivre ?</p>
+          <p>" – Non, mon prince.</p>
+          <p>» – Pourquoi ?</p>
+          <p>» – La capitale m’appelle. Le grand coup, le coup mortel et décisif, doit frapper l’usurpateur sur le théâtre même de ses triomphes. C’est à Gand que la vengeance céleste s’appesantira sur le crime, et je suis l’instrument qu’elle a choisi pour l’exécution de ses arrêts. Oui, je le suis, c’est écrit là-haut. Il y a eu serment solennel, serment ratifié cette fois. J’ai déjà vu de loin, dans ma pensée, Artevelle déchiré par la populace, Artevelle effaré, sanglant.... Je voyais des chairs en lambeaux, des mains jointes, des os brisés ; et pendant l’horrible spectacle, une voix implacable, une voix de meurtre et de malédiction, me criait : Urbin ! tu seras là !</p>
+          <p>» – Mais, répond Louis alarmé, ta vie –</p>
+          <p>» – Ah ! que m’importe ma vie ! Elle a eu la pitié, et je lui en sais gré, de m’inspirer pour elle aversion et dégoût. Il est des destinées, marquées à part, pour aller vite et finir jeunes. Quand vous serez au trône, mon prince, ma tâche sera accomplie.</p>
+          <p>» – Pas de sombres pressentimens ! réplique le comte attendri. Tu m’es cher, Urbin, tu le sais. Quand on a pu dire : j’ai un ami ! qu’il doit être affreux ce mot : je l’ai eu !... Écoute : je m’étais promis de te cacher ici mes secrètes intentions, de t’accueillir avec froideur ; mais ton puissant aspect me désarme ; ta voix touchante me domine. Oh ! si je perdais mon frère d’armes, s’il venait à mourir pour moi, que je n’aie pas du moins à me reprocher envers lui un instant de dissimulation ! J’aime Elberge, je te l’ai dit. Eh bien ! ce soir même.... en secret.... Wenemare, ici, je l’épouse. »</p>
+          <p>Urbin recule épouvanté. •</p>
+          <p>« – Terre et ciel ! que viens-je d’entendre !... Elberge !.... Vous l’épouseriez ?</p>
+          <p>» – Rien ne saurait y mettre obstacle, répond Louis d’une voix ferme. C’est chose promise et conclue. L’autel est préparé pour l’hymen. »</p>
+          <p>Wenemare pousse un cri lamentatable, un cri semblable à celui du condamné des siècles modernes, qu’un bourreau marque du fer rouge. Il veut marcher, la force lui manque ; il veut parler, sa bouche se serre. Son attitude avait l’immobilité du désespoir et la solennité de l’horreur.</p>
+          <p>« – Il nous faut, continue le prince, plusieurs témoins à la chapelle. Tu seras le mien,</p>
+          <p>» – Le vôtre ! jamais. Ce mariage !... il est impossible. »</p>
+          <p>Le comte de Male regardait Urbin avec une anxiété croissante.</p>
+          <p>« – Ami cruel ! s’est il écrié ; tu me traîneras donc toujours de mystères en mystères, de terreurs en terreurs, de supplices en supplices ! C’est, un poignard vivant qu’un tel frère ! Forcené ! tue-moi encore ; et cette fois ne me manque plus : mets de l’humanité dans ta rage ! »</p>
+          <p>Wenemare, debout, hors de lui, a serré convulsivement sa tête comme pour y retenir sa raison. Le bruit de sa respiration entrecoupée portait à son oreille un son étrange et de noirs présages. Son âme abattue cherche en vain à se raidir contre l’épreuve.</p>
+          <p>» – Exécrable destinée ! reprend-il. Je pourrais d’un mot déchirer le voile, justifier ma conduite, et il faut que je me taise ! Mon prince, votre œil m’examine : vous me trou« vez horrible, insensé : mes traits, n’est-ce pas ? vous effraient ! Hélas ! c’est que le ciel n’a pas mesuré mon courage à ma souffrance, c’est que j’approche de ma fin. Amour, ami tié, vaillance, gloire, tout cela sera bientôt effacé de ma vie orageuse de vingt-cinq ans, et jeté au vent comme la feuille sèche des hivers. Tant mieux ! Juge suprême, merci ! Je n’ai plus en moi de quoi me débattre avec violence, soit pour vivre, soit pour mourir. Je ne tenterais aucun effort, ni pour souffrir un jour de moins, ni pour m’éteindre une heure plus tard. Vous m’avez aimé, dites-vous ! oh ! s’il est vrai, ayez foi à mes dernières paroles : on ne ment pas un pied dans la tombe.</p>
+          <p>« – Parle ! dit le prince accablé. Quand jete vois... quand tues là... je ne sais plus où en est mon cœur avec l’amour et l’amitié. Tu désordonnes tout mon être. »</p>
+          <p>Urbin a redressé sa poitrine ; un vague espoir l’a ranimé.</p>
+          <p>« – Je vais..., c’est mon devoir, fils de Flandre !... enfoncer la mort dans votre âme. Elberge !... elle est belle sans doute... Je conçois qu’on ait pu l’aimer... Vous n’avez qu’à étendre la main pour dire : Elle est à moi. Eh bien ! prince ! je le déclare, Elberge ne peut être à vous.</p>
+          <p>» – TU MENS ! crie le comte en fureur. Sors d’ici !</p>
+          <p>» – Un instant encore ! »</p>
+          <p>Urbin a joint ses mains suppliantes.</p>
+          <p>« – Nous allons bientôt, reprend-il, être séparés pour toujours. Les mots que vous venez de m’adresser sont des mots d’insulte et de sang ; je les accepte, le front bas, comme dégradation solennelle. J’ai mérité l’humiliation et l’opprobre, il faut que mes crimes s’expient. Cherchez encore dans vos pensées quelque flétrissure nouvelle à me jeter en guise d’adieu : je m’interdirai le murmure, je subirai tout en silence. »</p>
+          <p>Ses dents étaient contractées ; ses lèvres blanches tremblaient comme s’agitent des herbes mortes au souflle de la bise. Le fils des rois lui tend la main.</p>
+          <p>« – J’ai eu tort. Pardon, Weneinare ! »</p>
+          <p>Et il a détourné la tête.</p>
+          <p>« – Louis ! dit Urbin attendri ; laissez-moi .. par pitié pour vous... laissez-moi vous parler d’Elberge !</p>
+          <p>» – Non, répond le comte de Male, à moins que tu n’aies quelque secret à me révéler qui puisse anéantir ma flamme. L’orpheline de Réthelsée serait-elle indigne de moi ? Connaîtrais-tu sa vie passée ?... Franchise et vérité, ou va-t’en ! »</p>
+          <p>Wenemare se frappe le front.</p>
+          <p>« – Adieu, mon prince ! adieu pour jamais ! »</p>
+          <p>Il s’éloignait ; Louis s’y oppose.</p>
+          <p>« – Pourquoi ce mot : jamais ? L’avenir...</p>
+          <p>» – Mon avenir ! interrompt Urbin ; c’était vous, vous seul ici-bas ; je n’ai nulle ambition à l’âme, et nulle femme dans le cœur ; votre gloire, votre bonheur, voilà les uniques pensées qui m’attachaient à l’existence : vous les faites fuir devant moi ; laissez-moi fuir aussi devant elles.</p>
+          <p>» – Reste ! je le veux et l’ordonne ! Le trépas est peut-être à Gand.</p>
+          <p>» – Urbin n’y courra que plus vite. »</p>
+          <p>La porte s’ouvre… Qui se présente ? l’orpheline de Réthelsée. Son costume gracieux est celui des jeunes vierges qu’attend le prêtre au pied des autels pour la cérémonie nuptiale. Des dentelles, des fleurs, des pierreries... Elberge était éblouissante.</p>
+          <p>Elle s’avance d’un pas timide. Sur son front à demi baissé se confondaient l’innocence et la coquetterie, l’inquiétude et la confiance, la pudeur et la volupté. C’était un merveilleux assemblage de séductions indéfinies : cela étourdissait la raison. On eût dit, en regardant cette beauté fatale, qu’elle tirait à la fois son charme des ombres magiques de la terre, et des clartés pures du ciel.</p>
+          <p>« – Regarde-la ! murmure Louis.</p>
+          <p>» – Je la vois, répond Wenemare</p>
+          <p>» – Qu’oseras-tu encore me dire ?</p>
+          <p>» – Les mêmes paroles : Point d’hymen !</p>
+          <p>» – Elberge ! entendez-vous cet homme ? Qu’a-t-il dans sa pensée contre nous ? Pourquoi vous poursuit-il de sa haine ? »</p>
+          <p>L’orpheline a souri avec effort. Quelque chose de douloureux et d’amer s’empreint dans sa réponse évasive.</p>
+          <p>« – Je ne suis point née sous la pourpre : il me croit indigne de vous. »</p>
+          <p>Louis s’est tourné vers Urbin.</p>
+          <p>« – Est-ce là ta pensée ?</p>
+          <p>» – Non, mon prince. »</p>
+          <p>Le soldat s’approche d’Elberge.</p>
+          <p>« – Madame, il est le fils de nos rois, lui dit-il d’un ton solennel. Vous, l’épouser !... est-ce possible ? Songez que Dieu là-haut nous regarde. N’est-il ici que moi de coupable ? »</p>
+          <p>L’orpheline se croit perdue. Le désordre est dans ses esprits. Elle s’élance vers le prince ; et, se pressant contre son sein, elle s’entoure de ses bras.</p>
+          <p>« – Sauvez-moi, j’ai peur ! » s’écrie-t-elle.</p>
+          <p>Et ses membres étaient tremblans ; son œil était fixe et hagard.</p>
+          <p>« – Mon Elberge ! ma douce amie ! répond le passionné jeune homme ; ne crains rien, je suis là, je t’aime. Que me font les divagations de cet insensé ! que peut sa haine contre toi ! Tu seras dès ce soir mon épouse, malgré le monde entier, malgré lui. Entends-tu, Urbin ? mon épouse ! elle est déjà parée pour la fête.OElberge ! que tu es belle ! et ce roc, hérissé de dards, ose se dresser entre nous ! Loin d’ici ce cœur de sépulcre ! Il a les amours en horreur ! vengeons la jeunesse et l’amour, en lui offrant le spectacle des délices du sentiment ! Que nos transports soient son martyre ! Je suis ton amant, ton époux. Dis-moi : Louis ! je t’aime : il écoute. Dis-le cent fois ; et moi, devant lui... je répondrai : Elberge ! je t’aime. »</p>
+          <div> </div>
+          <p>La nièce d’Hamstède, presque défaillante entre les bras du beau prince de Flandre, ne repousse point ses caresses. Elle obéit machinalement au protecteur qu’elle a imploré ; et, sans bien comprendre ses paroles, elle balbutie tout bas : Je t ’aime.</p>
+          <p>Urbin, témoin muet de la scène, était brûlé comme en enfer. Ce qu’il éprouvait en ce moment, c’était une de ces fièvres du sang où l’on entend des mots qui n’ont jamais été d’aucune langue, et où l’on voit ce qui n’est ni ne sera. Rien ne se reflétait cependant sur sa figure, ni douleur, ni dédain, ni rage : C’était calme.... C’était affreux.</p>
+          <div> </div>
+          <p>Bien que l’amour, en sa fougue exclusive, pousse l’indifférence jusqu’à la férocité pour tout ce qui s’agite hors de sa sphère . néanmoins le comte de Male s’est senti saisi de pitié pour l’état horrible de Wenemare, inexplicable à sa raison. Il suspend avec effroi les brûlantes démonstrations de la tendresse devant le froid silence du désespoir. Il n’ose continuer la torture.</p>
+          <div> </div>
+          <p>« – Urbin ! dit-il d’un ton bref et saccadé, tu souffres ; moi aussi : finissons. Plus de tromperies entre nous : tu as beau affecter la tranquillité, et moi feindre le bonheur, nous sommes tous deux au supplice. Ne reste plus ici, pars pour Gand ; mais garde-toi d’exposer tes jours : mon frère d’armes m’est nécessaire. Pars, j’y consens ; mais promets-moi.... »</p>
+          <p>Le fougueux soldat l’interrompt. Les derniers mots du prince, le ré veillant de sa torpeur, se sont croi sés avec sa pensée comme deux fers rivaux en présence.</p>
+          <div> </div>
+          <p>« – Promettre encore ! répète-t-il avec violence ; non, non, plus de folles promesses. Vous venez de toucher l’infernale plaie sous laquelle se tord et se débat ma funeste existence. Promettre ! ah ! c’est pour avoir fait des promesses que j’ai tout perdu dans ce monde : repos et vertu, âme et corps. Jadis, c’est pour avoir fait des promesses que mon poignard vous a frappé ; aujourd’hui, c’est pour avoir fait des promesses que je vous laisse épouser cette femme ; demain, c’est pour avoir fait des promesses que, à Grand, j’aurai un meurtre à commettre : Promettre encore ! Oh non ! c’est assez : à moins pourtant que je ne jure....</p>
+          <p>» – Ne jure plus ! je te le défends, interrompt Louis terrifié ; il n’y a que mort dans tes promesses. Non, mon frère, non, mon ami, plus de sermens ! je t’en conjure. »</p>
+          <div> </div>
+          <p>Un bruit extraordinaire et confus retentit soudain au dehors ; le hennissement des chevaux s’y mêle au cliquetis des armes. Un des serviteurs de Hamstède accourt vers Louis à la hâte.</p>
+          <p>« – Monseigneur ! la princesse de Brabant !</p>
+          <p>» – Marguerite ! s’écrie le comte.</p>
+          <p>» – Marguerite ! a répété douloureusement Elberge ; elle et Urbin ! je suis perdue ! »</p>
+          <p>Le fils de Flandre se levant avec précipitation, s’est dirigé vers la fenêtre. Sa perplexité va croissant Il a entendu le cri lamentable de sa bien-aimée ; il revient droit à Wenemare.</p>
+          <p>« – Ceci est un coup préparé, lui dit-il d’un accent lugubre : me prenez-vous pour votre dupe ? Marguerite a été instruite par vous de ma tendresse pour Elberge : vous vous êtes entendu avec elle ; le mot et l’heure étaient donnés. Oui, je suis joué, je le vois. Mais pense-t-on que, malgré moi, l’on puisse essayer impunément de me plier sous un joug quelconque ! Et de quel droit prétendriez-vous fouler mes sentimens à vos pieds, comme on le fait de choses immondes ! Me veut-on mettre à la lisière ! L’enfant prouvera qu’il est homme. Marguerite aura plus d’une fois à se repentir de son inconvenante démarche. Un guerrier à la conquête d’une femme : cela se conçoit, c’est dans l’ordre ; mais une femme en quête d’un époux ! c’est honteux, c’est hors de coutume. Qu’elle entre ! appelez-la, je l’attends. Plus on veut ta ruine, Elberge ! et plus on accroit mon amour. Je la hais, cette Marguerite. Le moment sera décisif : que tout s’y explique et s’y juge ! »</p>
+          <div> </div>
+          <p>Elberge se lève égarée.</p>
+          <div> </div>
+          <p>« – Je veux sortir d’ici ! s’écrie-t-elle, point d’explications, point de juges. Par pitié ! laissez-moi sortir ! »</p>
+          <p>Mais Wenemare a saisi sa main. Sa voix est âpre et laconiqne.</p>
+          <p>« – Non ; vous resterez, répondit-il. »</p>
+          <p>Et il l’a retenue avec force.</p>
+          <p>– Pourquoi ?... dans quel but ? .. que veut-on ?... reprend l’orpheline égarée. Marguerite vient, laissez-moi. Je veux fuir... ma tête se perd. Oh ! ce serait une scène horrible ! Grâce ! grâce ! ouvrez-moi la porte ! »</p>
+          <p>Elle était tombée à genoux. Elle étend ses bras supplians. Louis s’élance et la relève.</p>
+          <p>« – Toi à mes pieds !... toi l’œil. en pleurs ! Non, le front haut, le maintien fier. L’abaissement te convient-il ! S’il y a quelqu’un ici qui doive s’épouvanter d’avance dbs paroles qui vont retentir, ce n’est pas toi : monte à ta place. Reçois Marguerite en femme de roi ! Tu es la princesse de Flandre. »</p>
+          <p>Le tumulte augmente au dehors. Wenemare a fait quelques pas vers une des salles v oisines : Louis le retient à son tour.</p>
+          <p>« – Ni vous non plus ! a-t-il repris ; ne bougez pas ! »</p>
+          <p>Urbin obéit.</p>
+          <p>Le prince est resté quelques instans plongé dans une méditation pleine d’anxiété ; puis, secouant sa blonde chevelure avec un air franc et décidé, il interroge ainsi Wenemare :</p>
+          <p>« – Que vient faire ici Marguerite ?</p>
+          <p>» – Vous secourir et vous défendre.</p>
+          <p>» – Pas autre chose ?</p>
+          <p>» – Je l’ignore.</p>
+          <p>» – Lui aurais – tu parlé d’Elberge ?</p>
+          <p>» – Ce n’était pas là ma mission.</p>
+          <p>» – Aurais-tu trompé ma confiance ? As-tu vraiment juré la perte de celle que j’aime ? N’es-tu qu’un perfide et qu’un traître ? »</p>
+          <div> </div>
+          <p>Le farouche soldat s’est tu.</p>
+          <div> </div>
+          <p>» – Parle ! au nom du ciel ! continue le fils de Flandre avec une émotion profonde. Hâte-toi ; ne me laisse pas dans cette incertitude odieuse ! elle pourrait être funeste à tous, à Marguerite, à toi, au royaume. Hélas ! mon aveugle amitié pour toi ne demande encore qu’à être abusée. Réponds -moi quelque chose, Urbin ! fût-ce une imposture ! réponds !</p>
+          <p>» – Je vous l’affirme sur l’honneur, dit Wenemare avec une froide dignité : je n’ai pas prononcé une seule fois le nom d’Elberge devant la princesse de Brabant. Si votre amour lui est connu, ce n’est pas par moi... La voici. »</p>
+          <div> </div>
+          <p>Marguerite, entourée de chevaliers et de gardes, est à la porte de la salle. Son maintien est majestueux. Elle a congédié d’un geste sa valeureuse escorte ; et Bertrade seule est demeurée auprès d’elle.</p>
+          <div> </div>
+          <p>Le comte de Male avait oublié, dans les tribulations de l’exil, sa noble et belle fiancée : il reste interdit à sa vue. L’éclat imposant qui l’entourait l’a frappé d’admiration. La charmante tête de Marguerite, gracieusement penchée comme celle de la déité chasseresse des temps antiques, semblait lasse de la puissance, et désireuse de la solitude. Son œil était brillant et triste. Ses pieds délicats, ses mains effilées, la souplesse de ses membres, le goût de sa parure, son abandon et sa pâleur, tout portait en elle cette empreinte de beauté élégante et supérieure qui n’appartient généralement qu’aux hautes classes de la société. Elberge a regardé Marguerite, et les deux femmes ont pâli.</p>
+          <p>« – Puissante dame ! dit le prince, comment vous exprimer ma reconnaissance !... Quoi ! vous-même ! hors du sol natal, exposer pour moi votre vie ! Tant de bontés me rendent confus : je ne les avais pas méritées.</p>
+          <div> </div>
+          <p>» – Votre cause est celle des rois, a balbutié Marguerite. Les liens unissant nos familles... »</p>
+          <div> </div>
+          <p>Elle n’a pu continuer. Ses regards attachés sur Elberge avaient percé plus d’un mystère. Les vêtemens de la nièce d’Hamstède étaient ceux d’une mariée. Louis, troublé, se trahissait. La princesse, le cœur glacé, s’appuie en tremblant sur Bertrade.</p>
+          <p>Tromper n’est plus chose possible. Le fils de Flandre a pensé qu’en pareille circonstance, il était plus digne de lui de s’expliquer avec rudesse que de feindre avec perfidie. Il fait asseoir sa fiancée. Il lui adresse ces paroles :</p>
+          <div> </div>
+          <p>» – Vous avez une âme magnanime : je serais un monstre à mes propres yeux si je ne vous éclairais à l’instant sur moi, sur Elberge et sur vous. Me pardonnerez-vous, Marguérite ? je vous ai oubliée, trahie ; je n’étais pas digne de votre amour. Une autre... ici même, ce soir .. uue autre sera mon épouse ! »</p>
+          <p>A cet aveu sincère, mais brusque, la princesse a paru près de défaillir. Sa nature faible et languissante n’avait aucune défense à opposer contre le coup inattendu. L’humiliation était complète. Ses pensées se heurtent et se mêlent dans son esprit. Une lueur rougeâtre a passé sur sa vue. Des sons aigus tintent à son oreille. Elle est sans parole et sans larmes.</p>
+          <p>Louis s’est jeté à ses pieds.</p>
+          <p>« – Marguerite ! s’écrie-t-il, première compagne de ma jeunesse ! com ment ai-je pu ne pas vous conserver ma foi !… Je vous regarde et ne me comprends pas. Vous, si ravissante, si pure ! et j’ai porté ailleurs mon amour !... J’étais fou, je suis sans excuse ; mais, malheureux ! que vous dirai-je ! Elle est bien belle aussi, mon Elberge ; et puis, vous étiez loin de moi.. Je n’ai que dix-huit ans, Marguerite. Ah ! du moins vous serez ma sœur ! ma vie entière vous sera consacrée. Acceptez le frère, l’ami. Hélas ! je sens au fond de mon cœur un regret que je ne puis approfondir sans courir le risque d’un double remords. Compassion pour moi, Marguerite ! »</p>
+          <div> </div>
+          <p>La veuve d’Éverghem s’approche ; et, relevant le comte de Male :</p>
+          <p>– Je suis Bertrade, lui dit-elle »</p>
+          <p>Ces simples mots, en ce moment, ont comme étendu autour d’elle un cercle de respect et de crainte. Urbin, à l’écart, droit et pâle, semble un roc taillé en statue.</p>
+          <p>La veuve a repris d’un ton grave :</p>
+          <p>« – Votre future épouse ! où est-elle ?</p>
+          <p>» – La voici ! dit le fils des rois.</p>
+          <p>» – Vous appelez cette femme Elberge ? »</p>
+          <p>La nièce d’Hamstède, à cette question, s’est sentie saisie de vertiges, comme l’aéronaute dont le ballon s’est crevé dans les airs, et pour qui les champs de l’espace ne sont plus que des gouffres tourbillonans, où la mort est avant le fond. Un cri sourd part de sa poitrine. Elle se lève à moitié folle ; et, tendant les bras au hasard :</p>
+          <p>« – Laissez-moi sortir ! s’écrie-t-elle. 9</p>
+          <p>Bertrade a fermé le passage.</p>
+          <p>« – Comte de Male, reprend-elle, cette femme eut un autre nom.</p>
+          <p>» – Lequel ?</p>
+          <p>» – Néolie.</p>
+          <p>» – Néolie ! Quoi ! l’amante de Wenemare !...</p>
+          <p>» – Elle a encore été autre chose : la proie de Philippe Artevelle.</p>
+          <p>» – O horreur ! monstruosité !... Urbin ! Urbin ! dit-elle vrai ? »</p>
+          <p>Point de réponse, pas un geste.</p>
+          <p>« – Grand Dieu 1 s’écrie le prince accablé, je me souviens de la forêt... d’Urbin se roulant à mes pieds... je le vois, je l’entends encore... La concubine d’Artevelle ! et j’allais en faire ma femme ! Quoi ! Urbin !... elle ! si coupable !...</p>
+          <p>» – Regardez-la, dit Wenemare.</p>
+          <p>» – Oh ! je la vois, répond Louis. »</p>
+          <p>Et tous deux, en prononçant ces mots, se rappelaient l’accent que l’instant d’auparavant ils avaient pris, là même, chacun, en se les adressant l’un à l’autre. C’était, pour la malheureuse orpheline, comme un double écho de la foudre.</p>
+          <p>« – Et moi, neuf et crédule auprès d’elle, se disait le prince attéré, j’épuisais mon âme à l’aimer ! »</p>
+          <p>Urbin demeurait immobile.</p>
+          <p>Néolie, retombée presque mourante sur un siége, confirmait, par l’expression de sa figure, les r��vélations de Bertrade. Marguerite, oubliant ses propres souffrances, et poussée par un mouvement involontaire de commisération, a voulu lui porter secours.</p>
+          <p>« – Non, non, lui dit la nièce d’Hamstède : je n’ai nul besoin d’assistance. J’accepterais sa pitié, à lui ; mais la vôtre ! je la repousse. »</p>
+          <p>Elle a retrouvé quelques forces ; et, se dirigeant vers Bertrade, elle a pris sa main dans les siennes.</p>
+          <p>» – Vous avez bien fait, reprend-elle. J’ai souffert qu’il m’offrit son cœur, j’ai mérité l’affreux châtiment. Moi ! sa femme !... un bonheur si grand !… cela ne pouvait advenir. Je l’ai trompé, ce noble prince. Oui 5 mais je m’abusais moi-même. Lui, persuadé que j’étais sans tache, il ne m’adressait aucune question sur ma vie ; et moi ! n’osant me flétrir de ma propre bouche, il me semblait que son amour naïf et pur me ramenait à l’innocence. Et puis je me rappelais la chapelle où, quand je révélai mes malheurs, on m’écrasa sur le pavé. Risquer l’épreuve de nouveau, était-ce une chose possible ?OBertrade ! quel jour de honte ! il ne me reste qu’à mourir. Le monde et ses lois me réprouvent ; mais vous, sainte fille du ciel ! n’abandonnez pas la coupable ! Si j’ai encore des heures à vivre, priez, priez pour moi ici bas ! Que Dieu et Louis me pardonnent ! »</p>
+          <p>Son attitude était suppliante.</p>
+          <p>Un bras l’a tout à coup saisie. Une voix farouche, celle d’Urbin, porte ces mots à son oreille :</p>
+          <p>« – Que Dieu et Louis te pardonnent ! Ils le pourront peut-être : ainsi soit. Mais moi !... Oublies-tu que j’existe ?</p>
+          <p>» – Vous oublier ! répond Néolie. Oh ! non ! je sens encore ma dépouille inanimée rouler sous le pied de Wenemare… qui lui criait : Morte ! tant mieux ! »</p>
+          <p>Urbin se redresse égaré. Son rire a l’apparence d’un râle. Il a fait un bond en arrière ; puis, à travers un grincement de dents, il jette ces dernières paroles :</p>
+          <p>« — ADIEU TOUS ! »</p>
+          <p>Et il s’est enfui.</p>
+          <p>« – Marguerite ! dit le comte de Male d’une voix lente et sépulcrale, on m’attend à Bruges.</p>
+          <p>» – Partons.</p>
+          <p>» – Quoi ! répond Louis, interrogeant son auguste fiancée, vous pourriez oublier mes erreurs ? Vous daigneriez m’absoudre et me suivre ? oh ! dites-moi !...</p>
+          <p>» – Ailleurs, pas ici, répond-elle. N’avez-vous pas aimé Elberge ! Point de barbarie : elle est là. »</p>
+          <p>L’orpheline, suffoquée par les larmes, était sur le sein de Bertrade, qui, lui ayant ouvert ses bras, cherchait à ranimer soir courage. Le fils des rois détourne les yeux. Il sortait : Néolie l’arrête.</p>
+          <p>Elle est à genoux devant lui.</p>
+          <p>« – Un seul mot ! dit l’infortunée. Philippe Artevelle m’avait conduite à l’église, et je me croyais son épouse ; mais un faux prêtre était à l’autel. Je suis une femme flétrie, je ne fus point une prostituée. Oh ! ce n’est point pour me relever à vos yeux, Louis, ni pour réveiller une passion éteinte, que je vous adresse ce langage : non, vous voudriez, si cela était possible, me rendre votre cœur, que j’aurais maintenant horreur d’être aimée. Je ne suis plus qu’un rebut de la terre, et je veux m’envelopper de mes flétrissures pour m’isoler à jamais des hommes. Mais la pauvre créature, tombée en un instant du sommet des félicités au dernier degré des misères, ne mérite-t-elle pas un geste de pitié, un regard de consolation !... Elle est là, délaissée, en pleurs, le front courbé sur la poussière, et pour ajouter à ses tortures, dans ses vêtemens d’amour et d’hymen. Un mot ! Ne fût-ce qu’un soupir !… mais rien... rien... c’est pis que la mort. »</p>
+          <p>Sa tête se penche... elle tombe. Le ciel a suspendu ses douleurs.</p>
+        </div>
+        <div title="Chapitre XIX" type="chapter">
+          <head>XIX</head>
+          <p>L’EXCÈS de la souffrance, comme celui de la joie, est chose trop violente pour être durable. Le cœur de l’homme, assez fort pour aller aux extrêmes, mais trop faible pour y rester, ne peut supporter qu’une certaine mesure de jouissance et de désespoir. Néolie, plus calme en reprenant ses sens, a vu Bertrade à ses côtés.</p>
+          <p>« – Et le prince ? murmure-t-elle.</p>
+          <p>» – Il est parti.</p>
+          <p>» – Et Marguerite ?</p>
+          <p>» – Ils ont pris la route de Bruges.</p>
+          <p>» – Les suivrez-vous ?</p>
+          <p>» – J’attends votre oncle. Je ne pouvais vous laisser seule.</p>
+          <p>» – Les cruels !.... Ne parlons plus d’eux. Vous, vous m’avez plainte, Bertrade !</p>
+          <p>» – Je vous plaine encore, pauvre fille !</p>
+          <p>» – C’est vous pourtant qui m’avez perdue !... c’est vous !... Des reproches ! pardon ! Vous êtes émue, cachez-le-moi : je ne voudrais plus répandre de larmes. Après m’avoir fait tant de mal, Bertrade ! vous me faites du bien. Mais eux !.... où était donc leur cœur ? Ils m’ont vu pleurer d’un œil sec. J’étais, je crois, à terre, mourante ; son pied m’a-t-il aussi repoussée ?</p>
+          <p>» – Il vous a relevée dans ses bras.</p>
+          <p>» – Dans ses bras !</p>
+          <p>» – Ne parlons plus d’eux : vous l’avez dit vous-même.</p>
+          <p>» – C’est vrai. Qui donc l’a forcé de partir ?</p>
+          <p>» – Moi.</p>
+          <p>» – Vous !</p>
+          <p>» – C’était son devoir.</p>
+          <p>» – Toujours un devoir contre moi !... et vous toujours là pour ma perte ! Dieu ! je respecte cette femme ; elle a eu raison, je le sens : j’en conviens ; que veut-on de plus ! Faut-il encore que je la remercie ! »</p>
+          <p>Son sourire etait déformé ; son ironie n’avait rien d’âcre. Elle a poussé un gémissement plaintif ; puis, changeant brusquement de ton :</p>
+          <p>« – Où est mon oncle ? reprend-elle.</p>
+          <p>» – Il n’est pas de retour encore.</p>
+          <p>» – Ah oui ! continue l’orpheline, retombée dans ses souvenirs, et d’un son de voix déchirant ; il était parti ce matin pour les apprêts du mariage. Il va me rapporter des parures. Des parures ! je n’en veux qu’une : celle de la tombe, un suaire.</p>
+          <p>» – Lorsqu’il reviendra, dit Bertrade, je partirai sans qu’il me voie. Proscrite ici, je suis sans défense ; et votre oncle....</p>
+          <p>» – J’entends ses pas. »</p>
+          <p>Bertrade a quitté Néolie. Quelques guerriers l’attendaient à peu de distance de Réthelsée. Elle a rejoint le comte de Male.</p>
+          <div> </div>
+          <p>Hamstède est auprès de sa nièce. Il vient d’apprendre les événemens qui se sont succédé en son absence, et son irritation ne saurait se peindre. Il a vu crouler en un instant le palais de gloire et de puissance élevé par son intrigue et ses artifices. « Néolie princesse de Flandre : » Il s’était répété vingt fois avec orgueil ces paroles enivrantes ; et, c’en est fait à tout jamais ! Plus de couronne pour sa nièce.</p>
+          <p>Il marche à grands pas dans la salle. Oh ! comme il hait aujourd’hui ce Louis qu’il adorait hier !... Ses yeux brûlent, sa bouche écume.</p>
+          <p>» – Qu’il périsse ! murmure-t-il.</p>
+          <p>Et cette hideuse pensée, ce fruit de sa rage, loin de se dessécher dans son cerveau, s’y agrandit, s’y développe, et, dans un avenir rapproché, s’y montre comme un fait accompli.</p>
+          <p>« – Oui, qu’il périsse ! a-t-il répété ; et puissent les démons se charger de son âme, la seule chose en lui que la vengeance humaine ne puisse anéantir ! Sais-tu ce que je te dis, Néolie ? Songes-tu encore à ce traître ?</p>
+          <p>» – Moi ! dit lentement l’orpheline : je ne songe plus, je ne sais plus. De qui parliez-vous ?</p>
+          <p>» – Du comte de Male. Il faut qu’il meure.</p>
+          <p>» – Lui ! pourquoi ?</p>
+          <p>» – Tu l’as aimé ! continue Hamstède, sans remarquer l’égarement de sa nièce. Eh bien ! jette ton amour dans ma vengeance pour qu’elle soit plus complète. Je lis ton désespoir sur tes traits : qu’il y reste empreint devant moi comme un flambeau pour éclairer ma rage. Le fils de Flandre se croit au moment du triomphe ; qu’il tombe sous le fer de la haine ! Puis, gisant sur la poussière, quand il étendra les bras pour appeler au secours, qu’il entende le rire des furies lui répondre du fond des enfers, et qu’il s’éveille réprouvé ! M’entends-tu ?</p>
+          <p>» – J’écoutais, mon oncle. »</p>
+          <p>Et l’infortunée, séparant ses longs cheveux sur son front, redresse la tête et sourit. Tout bruissait autour d’elle, même ses propres paroles, comme un choc de vents et de vagues sur le bord d’une mer houleuse ; il n’y avait là ni mots, ni ac cens.</p>
+          <p>« – L’aimerais-tu toujours ? dit Hamstède.</p>
+          <p>» – Je ne sais, répond Néolie. Faites-lui la même question. Mais non... je me souviens... il est parti. C’est Marguerite qui l’emmène, Marguerite, princesse de Brabant ; l’avez-vous vue, mon oncle ? elle est belle : beaucoup plus que moi, n’est-ce pas ? il m’avait pourtant préférée. »</p>
+          <p>Son air était indéfinissable ; le timbre de sa voix était clairet sec. Hamstède cherchait vainement en elle une corde qu’il pût faire résonner ; pas un écho ne lui répondait. Caresses, fureur, raison, prières, tout échouait contre ce désespoir ras et glacé, sur lequel il n’y avait aucune prise, et qui, ne faisant nulle résistance, ne permettait aucun succès.</p>
+          <p>Une idée brûlante a tout à coup traversé son âme, comme un stylet perce une poitrine.</p>
+          <p>« – Je n’ai plus personne qui m’aime, dit-elle d’une voix sépulcrale : je n’étais plus Néolie, je ne suis plus Elberge : ai-je un nom quelconque aujourd’hui ? »</p>
+          <p>Son visage était impassible. Ses divagations continuent :</p>
+          <p>« – N’ai-je pas entendu une voix... qui disait ici tout à l’heure : la concubine d’Artevelle ? O mensonge ! horrible mensonge ! N’est-il pas vrai, mon oncle ?... Et Urbin ? Oh ! celui-là, c’est pire encore ; il m’a frappée du pied comme on écrase une vipère. Quels souvenirs de feux ! et j’y vis ! Il m’eût fallu cependant à moi, née avec une âme douce et tendre, une destinée de calme, de vertu, de silence et d’amour. Qu’ai-je eu au lieu de tout cela ? dégradation, tempêtes et crimes. Eh bien ! vous le voyez, on s’y fait ; je n’ai perdu ni forces, ni grâces ; j’ai conservé attraits et jeunesse. Regardez ! je suis encore belle. »</p>
+          <p>Et elle riait en elle-même ; et l’in supportable clarté de son regard fixe épouvantait le vieil Hamstède.</p>
+          <p>Il sent l’inutilité de ses efforts sur la raison troublée de sa nièce. Il ouvre une croisée, il suffoque. Une troupe de cavaliers franchissant les barrières de Réthelsée se dirigeait vers sa demeure ; il en a reconnu le chef. Un cri de surprise lui échappe.</p>
+          <p>« – Néolie !... Philippe Artevelle ! »</p>
+          <p>Ce nom a arraché l’orpheline aux fascinations fiévreuses qui, déployant dans son cerveau les plus bizarres fantasmagories, couraient devant son intelligence comme de funèbres nuées. Peu d’instans se sont écoulés : le fils du Reward est près d’elle.</p>
+          <p>Le vieillard les a laissés seuls ; mais il n’est pas loin, il écoute.</p>
+          <p>« – Néolie ! dit Philippe Artevelle, je suis bien coupable envers vous ; me justifier serait impossible. Je vous ai lâchement trompée, je suis indigne de pardon ; mais il est des crimes qui peuvent se réparer ; et le mien sera de ce nombre. »</p>
+          <div> </div>
+          <p>L’orpheline, enfoncée dans un vaste siége, et la tête cachée entre ses mains, a fait un geste de surprise. Le fils du Brasseur Roi continue :</p>
+          <div> </div>
+          <p>« – Je n’ai aimé que vous sur la terre La volonté paternelle a pu seule me pousser à la fatale déception dont je vous ai rendue victime. Vous m’avez fui avec horreur en découvrant la vérité : vous aviez raison, Néolie ! Mais aujourd’hui les temps sont changés. Le sceptre échappe aux mains de mon père ; les alliances souveraines qu’il avait ambitionnées pour moi sont des rêves évanouis, et la liberté m’est rendue. Me voici donc encore à vos pieds. Je ne vous offre point un diadème et des provinces, mais un dévouement véritable et une affection épurée. Vous porterez le nom d’Artevelle : il sera célèbre dans l’histoire. Filleul de la reine Philippine, j’ai un appui et des trésors en Angleterre8 ; vous n’aurez nul revera à craindre ; et peu de femmes sur la terre auront un plus haut rang que la mienne. »</p>
+          <p>Néolie n’a rien répondu ; mais cette fois elle a compris.</p>
+          <p>« – Objet de mes premières amours ! reprend-il avec passion : reviens à moi ! reviens au bonheur ! Oh ! je t’entourerai désormais de toutes les délices de la vie ! Je te rendrai divin le présent pour me faire absoudre du passé ! Pardonneras-tu, Néolie ? »</p>
+          <div> </div>
+          <p>La nièce d’Hamstède a passé sa main dans les anneaux de sa chevelure ; et, l’œil agrandi par la peur de son propre langage, elle lui répond en ces termes :</p>
+          <p>« – Voyez ma parure, Philippe ! J’allais me marier ce soir même, et avec le comte de Flandre. Je neveux plus abuser personne ; je dirai tout : j’aimais le prince. Oh ! je l’aimais avec passion ; son âme était si belle et si pure, son humeur si calme et si douce ! Il ne m’a, lui, ni trompée, ni avilie. Chez lui nul poignard, nul faux prêtre. On lui avait caché mes infortunes... On l’a tout à coup éclairé : il m’a connue... il s’est enfui.</p>
+          <p>Je suis restée seule, flétrie, à demi folle, presque morte. Que feriez-vous d’une pareille compagne ? Elle a votre père en horreur, elle a votre nom en mépris ; les fortunes honteuses l’indignent. Ne ramassez pas dans les humiliations où elle est tombée, une femme dont le cœur vous repousse. Elle n’a été qu’à vous, il est vrai, mais elle n’en est pas moins déchue, rejetée ; et, du fond de sa bas sesse, cette chose misérable qui s’est séparée de vous, frémirait de des cendre encore, en retournant au fils d’Artevelle. Que dites-vous de cela, Philippe ? »</p>
+          <div> </div>
+          <p>Il y avait dans son accent et ses paroles autant d’effroi que d’ironie, autant de calme que de démence. Philippe tombe à ses genoux.</p>
+          <div> </div>
+          <p>» – Infortunée ! s’écrie-t-il ; si ce n’était un élan de l’amour qui me ramenait à toi, ce serait une loi du devoir. C’est moi qui l’ai précipitée où tu es : je te prends telle que je te retrouve. Tu me redoutes, je le conçois ; mais tu m’aimeras, j’oserais l’affirmer ; je te rendrai la vie si heureuse ! Allons ! que tes bras s’ouvrent pour moi ! ils m’ont serré jadis sur ton cœur ! Néolie ! rends-moi mes beaux jours.</p>
+          <div> </div>
+          <p>» – Près de moi, répond gravement l’orpheline, il n’est plus de beaux jours possibles. Levez-vous, messire Artevelle ! placez vos joies, vos regrets et vos espérances, partout où vous voudrez, mais pas chez moi : elles y mourraient dépaysées. Des pleurs coulant à mes pieds, des bras supplians levés vers moi des paroles d’amour jetées à mes pensées de mort, tout ce deuil bruyant m’importune. »</p>
+          <div> </div>
+          <p>Philippe demeure attéré. Il lui semblait que la beauté de Néolie resplendissait d’une nouvelle lumière, bien qu’elle ne brillât plus pour lui.</p>
+          <div> </div>
+          <p>« – C’est moi, barbare que je suis ! reprend-il ; c’est moi qui l’ai plongée dans cet état de morne égarement et de sauvage apathie ! Elle, autrefois si douce et si tendre, la voilà farouche, implacable ! C’est mon ouvrage à moi, misérable ! Hélas ! j’ai tenu un moment le bonheur, et je l’ai laissé m’échapper ; j’en ai joui, et je l’ai perdu. »</p>
+          <div> </div>
+          <p>La nièce d’Hamstède se lève. Il se passait en elle une de ces luttes invisibles qui épuisent et qui tuent.</p>
+          <div> </div>
+          <p>« – Il faut que je m’en aille, dit-elle.</p>
+          <div> </div>
+          <p>» – Et où ? s’écrie le fils du Reward.,</p>
+          <p>» Où l’on ne me parlera plus d’amour. Pourquoi me regarder ainsi ? parce que vous voyez que je souffre ? Ah ! gardez-vous de prononcer le mot consolation ! ce serait du venin sur mes plaies. Il est une certaine compassion de soi-même, qui charme en partie la douleur aux premiers beaux jours du printemps : je ne l’ai pas, moi ; tout m’a manqué. Vous voyez que je parle avec réflexion. Je ne suis pas folle, je raisonne. Laissez-moi ! je veux être seule.</p>
+          <div> </div>
+          <p>» – Non, je ne vous quitterai pas ! interrompt Philippe avec énergie ; vous avez été mon épouse devant Dieu, puisque vous étiez à l’autel de bonne foi ; vous la serez aussi devant les hommes, car il faut que l’iniquité se répare. Venez ! je cesse de prier ; j’ai le droit d’ordonner, j’ordonne. »,</p>
+          <div> </div>
+          <p>Il a saisi le bras de l’orpheline. Elle pousse un cri de terreur ; et, fuyant au fond de la salle, elle se cramponne à un vieux meuble. Elle est accroupie et tremblante.</p>
+          <div> </div>
+          <p>« – Quelle obstination ! reprend-elle. Ne vous ai-je donc pas dit que je n’avais pour vous aucune tendresse, et que j’aimais le comte de Male ! Je suis d’ailleurs aux portes du tombeau ; on va me les ouvrir, j’en suis sûre : et ce sera pour tous un bonheur. Je n’ai cependant pour vous nulle haine., Philippe ; je vous pardonne même tout le mal que vous m’avez fait ; je prierai pour vous, qui plus est, soit en ce monde, soit là-haut. N’est-ce déjà pas beaucoup de ma part ? Que voulez-vous de plus ? ma personne ? Eh ! que feriez-vous d’un reste de jeunesse, d’un débris de beauté qui de jour en jour va s’éteindre ? Oh ! vous seriez bientôt fatigué de la créature lamentable que vous traîneriez dans la vie comme un poignant reproche attaché à vos destins. Ce n’est ni blâme ni menace, ce que je dis là : c’est charité, c’est prophétie ; les mourans, dit-on, voient de loin Le beau jour que celui où, pour répondre aux questions sur ma destinée, il ne faudra qu’un seul mot : Morte !</p>
+          <div> </div>
+          <p>» – Assez, répond le fils d’Arte – tevelle ; suivez-moi.</p>
+          <div> </div>
+          <p>» – A l’aide ! au secours ! »</p>
+          <div> </div>
+          <p>Et l’infortunée, repoussant Philippe, se débat contre lui avec le peu de forces qui lui restent.</p>
+          <div> </div>
+          <p>« – Louis !.... Urbin !.... quelqu’un !... au secours ! Oh ! maintenant je vais vous haïr. Quel destin ! mon Dieu !... Quoi personne !</p>
+          <div> </div>
+          <p>» – Haïssez-moi, je l’autorise, a répliqué Philippe avec une sorte de fureur. La haine est un stimulant qui peut ranimer, qui fait vivre : j’accepte de vous la haine, le mépris, l’horreur, tout, plutôt que cette torpeur glaciale qui change un corps vivant en sépulcre. Haïssez-moi, mais qu’on me suive !</p>
+          <div> </div>
+          <p>» – Lâchez-moi ! s’écrie Néolie. Vos mains sont des tenailles de fer. Vous déchirez mes membres, Philippe. Lâchez-moi ! je ne ferai plus de résistance. Faut-il que j’aille à de nouvelles tortures morales, à l’autel, à vous, aux démons, à tout ce qui a le droit de la force : je céderai, mais c’est atroce. Je vous suis, allons ! je suis prête ! »</p>
+          <div> </div>
+          <p>Hamstède, à ces mots, se présente. Il est violemment agité. Le commerçant ambitieux, s’adressant au fils du Reward, lui tend une main amicale.</p>
+          <div> </div>
+          <p>« – Philippe ! j’ai tout entendu. La noblesse des sentimens que vous venez de déployer rachète vos coupables erreurs. J’oublie un funeste passé. Néolie vous sera rendue. Je représente ici son père, et je la remets en vos mains. »</p>
+          <p>Puis, s’étant tourné vers sa nièce :</p>
+          <p>« – C’est votre époux, reprend le vieillard.</p>
+          <p>» – C’est mon bourreau, dit Néolie.</p>
+          <p>» – L’honneur vous prescrit de le suivre.</p>
+          <p>» – L’honneur ! répète l’orpheline ; que ce mot ici sonne mal !</p>
+          <p>» – Il vient de m’arriver d’importantes nouvelles, continue Hamstède, en tirant Philippe à l’écart. Votre père retourne à Gand ; mais d’affreux malheurs l’y attendent. La population de la grande cité, poussée par le génie des révoltes, est au moment de se soulever contre le souverain de son choix. Marchons à l’aide d’Artevelle ! Il faut que ce grand homme triomphe ; sa cause est la cause des peuples. La révolution flamande est le phare de salut, dont toutes les âmes patriotiques doivent attiser la flamme sacrée. Haine et mort à ces éternels ennemis du royaume qui voudraient aplatir de nouveau l’intelligence humaine sous la funeste paix, la liberté trompeuse et le perfide bonheur que donnent les pouvoirs légitimes ! Gloire éternelle à la souveraineté populaire, principe de destruction fécondante et de tempêtes créatrices ! A bas les rois ! vive Artevelle !</p>
+          <p>Les yeux du marchand de laines étincelaient de haine et de vengeance. Néolie, bien que se rappelant les dis cours si différens qu’il tenait la veille encore, le regardait avec une tran quille insouciance qui ressemblait à une inattention stupide.</p>
+          <p>« – Et Louis de Male ? dit-elle.</p>
+          <p>» – On le couronne à Bruges, le traître9. »</p>
+          <p>L ’orpheline a étendu la main d’une manière insignifiante et vague ; puis, d’une voix dépourvue d’accent, elle a répliqué :</p>
+          <p>« – Ah ! tant mieux !</p>
+          <p>» – Êtes-vous sûr de vos nouvelles ? demande Philippe au vieillard.</p>
+          <p>» – Un messager m’arrive de Gand.</p>
+          <p>» – Auriez-vous des lettres de Bruges ?</p>
+          <p>» – Un archer du Reward, qui vient de passer sous ces murs, m’a conté qu’à la vue du prince, le peuple brugeois soulevé....</p>
+          <p>» – Partons ! ta foudre est sur nos têtes, interrompit le fils d’Artevelle. 0 mon père ! mon pauvre père ! »</p>
+          <p>Et toutes les souffrances de son âme se résumaient dans l’expression troublée de sa physionomie.</p>
+          <p>« – Auriez-vous peur qu’il ne succombât, a repris Hamstède alarmé. Lui, l’élu de la nation et l’idole de la populace ! Lui, la révolution vivante et la liberté couronnée !...</p>
+          <p>» – Vous prononcez là son arrêt, s’écrie Philippe avec horreur : Qu’est-ce qu’une révolution par le peuple ? Des malheurs, du sang, de la honte, . Qu’est-ce que la liberté par les révoltes ? un rêve, le désordre, des crimes.</p>
+          <p>» – Jeune homme ! vous m’épouvantez.</p>
+          <p>» – Vieillard ! ne vous attachez point à la cause de mon père, si vous croyez à la constance de la fortune, et à l’attachement des peuples. Adorateur de tous les pouvoirs ! vous avez pris mauvaise route. Votre nièce ne sera pas reine. »</p>
+        </div>
+        <div title="Chapitre XX" type="chapter">
+          <head>XX</head>
+          <p>CINQ heures sonnaient à l’horloge de Saint-Jean10. La matinée commençait à peine et pourtant une multitude immense encombrait déjà les rues de la grande cité flamande. Le Reward allait arriver11.</p>
+          <div> </div>
+          <p>Était-ce une ovation joyeuse qui attendait le chef démagogue ? Étaient-ce les préparatifs d’une entrée triomphale qui avaient mis sur pied toute la populace de Gand ? Non. Les rassemblemens, formés ça et là, se rencontrant, se heurtant, et se roulant de côté et d’autre par colonnes menaçantes, ne présageaient rien moins qu’une fête. Les symptômes d’une révolution inévitable se manifestaient sur le visage des héros de la rébellion. Une hideuse cohue se ruait des quatre coins de la ville vers la grande porte du nord, comme une écume hors d’un pot bouillant. Des propos féroces, mêlés de plaisanteries obscènes, et entrecoupés de chants patriotiques, allaient grossissant dans les airs comme les mugissemens de la mer que va soulever la tempête. Les Gantois, décidés au meurtre, assurés de leur proie, et maîtres de leur vengeance, procédaient avec une sorte de lenteur satanique au soulèvement général. Les cannibales semblaient occupés à se poser commodément pour savourer à l’aise, plus tard, les joies du crime et de la mort12.</p>
+          <p>Les partisans du Brasseur Roi, mêlés dans la foule, écoutaient avec une perplexité croissante les sanglans appels de l’émeute. Le ciel était pur et serein. L’azur calme du firmament, comme une raillerie de la nature, contrastait d’une manière sinistre avec les mouvemens désordonnés et les regards sans merci des glorieux de la capitale. Ces hommes, armés présentement contre le pouvoir usurpateur, étaient les mêmes qui naguère avaient renversé l’autorité légitime. Ils avaient chassé la justice, ils allaient terrasser le crime. Mais ce n étaient point des braves revenant à la vertu ; ce n’étaient que des monstres changeant de bannière. Il n’y avait là ni foi, ni raison : horreurs et forfaits, voilà tout. Et néanmoins, alors comme auparavant, comme au passé et à l’avenir, on appelait ces brutales figures de la destruction : « Les Enfans de la Liberté. »</p>
+          <div> </div>
+          <p>Les passions étaient en présence. Mais déjà l’opinion, ne formant presque plus qu’une voix, prononçait la condamnation d’Artevelle. On eût dit un arrêt national : car, au Forum de la révolte, plus de cent mille bouches votaient,</p>
+          <div> </div>
+          <p>Quel dialogue étrange et heurté ! C’est celui de la multitude. Il y a leçon : prêtez l’oreille.</p>
+          <div> </div>
+          <p>« – Il tarde bien à venir, le traître !</p>
+          <p>» – Il nous a vendus à l’Anglais !</p>
+          <div> </div>
+          <p>» – On lui compte son argent peut-être.....</p>
+          <div> </div>
+          <p>» – Et ses poches qui sont si larges !… il faut des heures pour les remplir.</p>
+          <div> </div>
+          <p>» – Nous n’en mettrons pas tant à les vider.</p>
+          <div> </div>
+          <p>» – Il apporte des tonneaux pleins de cordes qu’on lui a expédiés de Londres. On les charge : ça prend du temps.</p>
+          <div> </div>
+          <p>» – Pourquoi donc faire ces cordes ?</p>
+          <p>» – Pour pendre bourgeois et vilains13.</p>
+          <div> </div>
+          <p>» – La danse des sorciers l’ am use14.</p>
+          <div> </div>
+          <p>» – Il ouvrira le bal.</p>
+          <div> </div>
+          <p>» – Qui ?</p>
+          <div> </div>
+          <p>» – Le tyran.</p>
+          <div> </div>
+          <p>» – Ho ! hé ! Ne poussez pas si fort : vous m’écrasez.</p>
+          <div> </div>
+          <p>» – Beau malheur ! la vieille !</p>
+          <div> </div>
+          <p>» – Canaille !</p>
+          <p>» – On dit qu’il entrera à cheval.</p>
+          <div> </div>
+          <p>» – Porté dessus ? ou tiré derrière ?</p>
+          <div> </div>
+          <p>» – Balayer les rues est urgent.</p>
+          <div> </div>
+          <p>– Aura-t-il diadème au front ?</p>
+          <div> </div>
+          <p>» – Oui, en guise de bonnet de nuit.</p>
+          <div> </div>
+          <p>» – Et nous crierons : Bonsoir, camarade !</p>
+          <div> </div>
+          <p>» – Il tient le sceptre encore... mais ça hoche.</p>
+          <div> </div>
+          <p>v – Il faut le lui clouer à la main.</p>
+          <div> </div>
+          <p>» – Paix donc, vous autres ! Quel tumulte ! Que fait-on là-bas ?</p>
+          <p>» – On s’étouffe.</p>
+          <div> </div>
+          <p>» – La rue est si étroite.</p>
+          <div> </div>
+          <p>» – Archer ! prenez donc garde ! On me tue.</p>
+          <div> </div>
+          <p>» – Ce serait bien dommage, la belle ! Un baiser pour ma peine !…</p>
+          <div> </div>
+          <p>» – Au secours 1</p>
+          <div> </div>
+          <p>» – Sais-tu ce qu’on dit, échevin ?..... qu’il a fait pacte avec le diable.</p>
+          <div> </div>
+          <p>» – Je n’y étais pas.</p>
+          <div> </div>
+          <p>» – Je m’en moque.</p>
+          <div> </div>
+          <p>» – C’est ce qui fait qu’il a pu occire impunément tous ses proches, et empiler leur or dans ses coffres.</p>
+          <div> </div>
+          <p>» – Ouais ! on devrait lui couler cet or tout fondu dans les entrailles ! Joli roi, que nous avions ramassé là au coin des rues !</p>
+          <div> </div>
+          <p>» – Pourquoi choisir aussi dans l’ordure !</p>
+          <div> </div>
+          <p>» – Est-ce qu’on sait jamais ce qu’on fait quand les meneurs viennent mettre le nez dans les justices populaires ! J’aimais nos princes.</p>
+          <div> </div>
+          <p>» – Moi aussi.</p>
+          <div> </div>
+          <p>« – Moi aussi.</p>
+          <div> </div>
+          <p>» – Et moi tout de même.</p>
+          <p>» – Mais vous les avez exilés !</p>
+          <div> </div>
+          <p>» – Nous ! pas du tout.</p>
+          <div> </div>
+          <p>» – Qui donc l’a fait ?</p>
+          <div> </div>
+          <p>» – Artevelle et un tas de lâches,</p>
+          <div> </div>
+          <p>» – Quant à moi, je puis l’affirmer, je ne voulais pas pour roi de cet homme.</p>
+          <div> </div>
+          <p>» – Ni moi.</p>
+          <div> </div>
+          <p>» – Ni moi non plus.</p>
+          <div> </div>
+          <p>» – Ni personne.</p>
+          <div> </div>
+          <p>» – Et qui l’a couronné ?</p>
+          <div> </div>
+          <p>» – Qui ? le diable.</p>
+          <p>» – Puisqu’on vous dit qu’il y a un pacte.</p>
+          <div> </div>
+          <p>» – On connaît leurs agens.</p>
+          <div> </div>
+          <p>» — Des gueux !</p>
+          <div> </div>
+          <p>» – Des infâmes !</p>
+          <div> </div>
+          <p>» – Des scélérats !</p>
+          <div> </div>
+          <p>» – Silence ! un peu de calme. Quelle heure ?…</p>
+          <div> </div>
+          <p>» – Six coups ont sonné.</p>
+          <div> </div>
+          <p>» – Gare ! gare !</p>
+          <div> </div>
+          <p>– Qui se sauve là ?</p>
+          <div> </div>
+          <p>» – Au voleur ! au voleur ! il m’a pris ma chaîne.</p>
+          <p>» – Tais-toi, bonhomme ! tu nous étourdis.</p>
+          <div> </div>
+          <p>» – Je vous dis qu’il m’a pris ma chaîne.</p>
+          <div> </div>
+          <p>» – Qu’est-ce que ça me fait !</p>
+          <div> </div>
+          <p>« – Chaîne en or.</p>
+          <div> </div>
+          <p>» – Vieillard ! on reste au logis à ton âge. Qu’as-tu besoin ici ?</p>
+          <div> </div>
+          <p>» – Le voilà ! le voilà !</p>
+          <div> </div>
+          <p>» – Qui ? Le Reward ?</p>
+          <div> </div>
+          <p>» – Non : le larron.</p>
+          <div> </div>
+          <p>» – C’est tout comme : espèce pareille.</p>
+          <div> </div>
+          <p>» – Aurons-nous des poignées de mains ? Cette fois il mettra des gants.</p>
+          <div> </div>
+          <p>» – plus de Gand pour lui15 !</p>
+          <div> </div>
+          <p>» – Le farceur !</p>
+          <div> </div>
+          <p>» – Pas de jongleries : des raisons.</p>
+          <div> </div>
+          <p>» – Jacque a voulu se faire héroïque : il a sacrifié la paix à la gloire.</p>
+          <div> </div>
+          <p>» – C’est tout le contraire, l’ami : il a sacrifié la gloire à la paix.</p>
+          <div> </div>
+          <p>» – Il a tué l’ordre pourdonner la liberté.</p>
+          <p>» – Dis plutôt qu’il a tué la liberté pour donner l’ordre.</p>
+          <div> </div>
+          <p>» – Ce n’est pas cela : il a tout mis à mort à la fois, gloire et paix, ordre et liberté.</p>
+          <div> </div>
+          <p>» – Admirable moyen d’accord !</p>
+          <div> </div>
+          <p>» – Une paix armée jusqu’aux dents !... une gloire traînée dans la boue !...</p>
+          <div> </div>
+          <p>» – Et un ordre qui est la confusion !</p>
+          <div> </div>
+          <p>» – Et une liberté qui est l’esclavage !</p>
+          <div> </div>
+          <p>» – A mort le traître !</p>
+          <div> </div>
+          <p>» – Au gibet le cancre !</p>
+          <p>» – Il n’est pourtant pas sans mérite.</p>
+          <div> </div>
+          <p>» – Non certes, il pend fort bien les vieillards.</p>
+          <div> </div>
+          <p>» – Il dépouille au mieux l’orphelin.</p>
+          <div> </div>
+          <p>» – Il sait incarcérer les veuves.</p>
+          <div> </div>
+          <p>» – Cette majesté à jaquette se fait donc traîner par des bœufs, pour être en route si long-temps ! C’est impoli de faire tant soupirer après elle ; nous sommes pressés.</p>
+          <div> </div>
+          <p>» – Oh ! très-pressés. Messieurs, l’air me manque... on m’étrangle.</p>
+          <div> </div>
+          <p>» – Tant pis pour toi, mon garçonnet ! il fallait te dépêcher de grandir, rien qu’un pied de plus.</p>
+          <div> </div>
+          <p>» – Faites place !</p>
+          <div> </div>
+          <p>» – Ah ! ah ! Cette petite est gentille. Tu pleures, mignonne !</p>
+          <div> </div>
+          <p>» – Je ne veux pas qu’on me touche. Finissez !</p>
+          <div> </div>
+          <p>» – Elle m’égratigne.</p>
+          <p>» – C’est un agneau qui a des griffes.</p>
+          <div> </div>
+          <p>» – Rangez-vous !</p>
+          <div> </div>
+          <p>» – La maison empêche.</p>
+          <div> </div>
+          <p>» – Rasons Gand !</p>
+          <div> </div>
+          <p>» – Quelle barbe à faire ’</p>
+          <p>» – Il y a d’abord une tête à couper.</p>
+          <div> </div>
+          <p>» – Mais quand commencera donc le divertissement promis ? c’est ennuyeux jusqu’à présent.</p>
+          <div> </div>
+          <p>» – Le vent est tout-à-fait à l’orage ; c’est presque du feu,</p>
+          <div> </div>
+          <p>» – Jacque aura chaud.</p>
+          <div> </div>
+          <p>» – Christ et Marie ! on m’assassine. Arbalêtrier ! tes coudes sont des pointes de fer.</p>
+          <div> </div>
+          <p>» – Je n’en ai pas de rechange. »</p>
+          <div> </div>
+          <p>Une nuée d’étudians traversaient en ce moment la grande rue du bourg, et se dirigeaient vers le Steen-dam16. Les chefs de la troupe agitaient une espèce de drapeau à couleurs bariolées, sur lequel étaient écrits ces mots : Liberté ! Ni trônes ! ni rois ! Des filles de porchiers, des fripières et des ribaudes les suivaient en battant des mains. Les juremens et les quolibets, les rires et les menaces se croisaient tumultueusement au milieu de la bagarre. La plupart des écoliers étaient à moitié ivres, et sortaient d’une orgie nocturne. Les uns, mendians déguenillés, hurlaient des cantiques d’église ; les autres, vagabonds à rapière, se prenaient des airs belliqueux. Ils avaient tous des piques et des dagues ; et leur file effrayante, semblable à des anneaux de serpent, tournoyant d’un quartier à un autre, offrait en vingt lieux à la fois les têtes innombrables d’une hydre. Ces benoits clercs, vomis des écoles, et brûlés de la fièvre révolutionnaire, n’avaient que des sourires de sang et des paroles de destruction. Hiboux, ils couraient aux ruines ; vautours, ils sentaient un cadavre.</p>
+          <div> </div>
+          <p>Leurs discours valaient ceux du peuple.</p>
+          <div> </div>
+          <p>« – Hé ! dis – donc, théologien ! Par l’âme de mon père ! s’il en avait une, on assure que la peste est à Gand.</p>
+          <div> </div>
+          <p>» – Mort Dieu ! Je le crois bien : tu y es.</p>
+          <div> </div>
+          <p>» – Pourquoi pas dire : nous y sommes.</p>
+          <div> </div>
+          <p>» – Soit. Et joignons à cela une belle et bonne excommunication du Saint-Père. On jurerait, foi de capuchon ! que notre grande cité appartient à l’antechrist.</p>
+          <div> </div>
+          <p>» – C’est possible : elle est au Reward.</p>
+          <p>» – Son avènement fera bruit • on va le festoyer ce matin.</p>
+          <div> </div>
+          <p>» – Messire Jacque y rira peu.</p>
+          <div> </div>
+          <p>» – Tu pues le vin du Rhin, camarade !</p>
+          <div> </div>
+          <p>» – Pas d’insolence ! ou des coups de hart. Je n’écume pas du moins à ta façon, comme un sanglier des Ardennes. Harpailleur ! éponge ta bave.</p>
+          <div> </div>
+          <p>» – Ho ! ho ! des cavaliers ! Où vont-ils ?</p>
+          <div> </div>
+          <p>» – M’est avis qu’ils montent des rosses.</p>
+          <div> </div>
+          <p>» – Tiens ! Celui-là, j’affierais que c’est Jean Michel, le frère de Gérard Denys. Un casque ! des brassards ! une cuirasse ! Le voyez-vous, ce gros et gras manant qui veut faire de la chevalerie comme Artevelle de la royauté ! A l’abattoir et non en lice !</p>
+          <div> </div>
+          <p>» – Tais-toi ! braillard ! C’est un des nôtres.</p>
+          <div> </div>
+          <p>» – Au diable les nôtres qui lui ressemblent !</p>
+          <div> </div>
+          <p>» – Il nous nargue avec ses hoquetons et ses gantelets. A bas les riches ! A bas les superbes !</p>
+          <div> </div>
+          <p>» – Si je le tenais, ce Crésus ! je lui ferais un trou dans la gorge à y fourrer dix chaperons à queue, quand bien même il s’agirait, en l’épargnant, de tirer tous mes ancêtres du Purgatoire.</p>
+          <div> </div>
+          <p>» – Est-ce que tu en as, des ancêtres ?</p>
+          <div> </div>
+          <p>» – Ça ne te regarde pas, toi ! bâtard !</p>
+          <div> </div>
+          <p>» – C’est vrai. Ne remuons pas le fumier.</p>
+          <div> </div>
+          <p>» – D’ailleurs, rappelons-nous nos principes : les distinctions sont une insulte à l’égalité. Il faut abolir, les ancêtres.</p>
+          <p>» – Moi, d’abord, j’abolis mon père. »</p>
+          <div> </div>
+          <p>Les fenêtres de la ville s’ouvraient de distance en distance. Des figures effarées y alongaient furtivement le cou. Quelques banderoles s’y déployaient, et l’on y remarquait ces devises. « Plus de faux monarque ! Un vrai roi Point de prince noir ! Plus d’étrangers ! » Quelques applaudissemens partaient çà et là de l’intérieur des maisons ; mais il y régnait néanmoins plus d’anxiété que d’enthousiasme. On tremblait que la révolution, qui s’était ouverte par des sophismes, ne vînt à se clore par des massacres. Il y avait dans les rues et dans les faubourgs, des pourvoyeurs de la tombe et des massacreurs d’habitude qui couraient aux renversemens, dans le seul but de jouer avec les meurtres, dussent-ils rouler avec les décombres. Que leur importait, au bout du compte, et monarchie et liberté ! ils ne voyaient dans la tempête que le désordre et le pillage. A eux le fait ; à d’autres les phrases.</p>
+          <div> </div>
+          <p>Des corporations de tisserands, de tailleurs et de forgerons, s’étaient réunies sur plusieurs points de la ville. Gérard Denys, arrivé la nuit même de Bruges où triomphait le comte de Male, avait organisé leurs phalanges ; ils marchaient, armés, en bon ordre. Plusieurs d’entre eux étaient à cheval. On y voyait briller quelques lances.</p>
+          <div> </div>
+          <p>« – Allons, forgerons ! battons le fer tandis qu’il est rouge : j’y veux gagner des éperons d’or.</p>
+          <div> </div>
+          <p>» – A nos dépens peut-être ? Pas vrai !</p>
+          <div> </div>
+          <p>» – Il ne pense qu’à la gloriole.</p>
+          <div> </div>
+          <p>» – Et vous autres ?</p>
+          <div> </div>
+          <p>« – Qu’à la vengeance. Artevelle n’a-t-il pas fait escofier un beau jour tous les tisserands, courtiers et foulons, qu’il appelait, peu auparavant, ses bons camarades17 ! Le brigand ! Notre tour arrive. C’est aujourd’hui qu’on règle ses comptes !</p>
+          <div> </div>
+          <p>» – Et qu’on additionne ses crimes. Que de chiffres !</p>
+          <div> </div>
+          <p>» – Nous ferons la soustraction : il sera rayé du livre des princes.</p>
+          <div> </div>
+          <p>» – Parle mieux : du livre des hommes.</p>
+          <div> </div>
+          <p>» – Etait-ce un homme, ce mécréant ?</p>
+          <p>» – Et nos députés ! qu’est-ce qu’ils sont..... Ceux de Grand n’ont-ils pas été déclarer, je ne sais où, que nous demandions à cors et à cris pour souverain le Prince-Noir !</p>
+          <div> </div>
+          <p>» – Ils ont bien osé proclamer jadis que Jacque était le roi de notre choix.</p>
+          <div> </div>
+          <p>» – C’est que ça ne leur coûte rien, et qu’au contraire ça leur rapporte gros. Ces farces là se payent fort cher.</p>
+          <div> </div>
+          <p>» — Fameux métier !</p>
+          <div> </div>
+          <p>» – Métier de Judas.</p>
+          <div> </div>
+          <p>» — Et qui fournit l’argent ?.... c’est le peuple.</p>
+          <p>» – Bruges a enfin commencé l’affranchissement du pays. Gand va revoir le fils de Flandre.</p>
+          <div> </div>
+          <p>» – Son père est déjà à Bruxelles. Des envoyés de nos grandes villes ont été se jeter à ses pieds18. Le roi d Angleterre, présumant sa cause perdue, lui a fait offrir son secours pour recouvrer sa couronne, moyennant qu il fît la guerre à la France, et qu’il lui jurât foi et hommage. Le noble prince a refusé19.</p>
+          <p>» – Quoi ! l’Anglais trahit Artevelle ?</p>
+          <div> </div>
+          <p>» – Ce pays-là trahit tout le monde, sans distinction, l’un après l’autre.</p>
+          <div> </div>
+          <p>» – Gérard Denys m’a rapporté qu’Édouard avait déjà offert sa fille à notre beau prince Louis. Le jeune homme a répondu : Non20.</p>
+          <div> </div>
+          <p>» – C’est brave.</p>
+          <div> </div>
+          <p>» – Il arrive ! il arrive !</p>
+          <div> </div>
+          <p>» – Qui ? le Brasseur ?</p>
+          <div> </div>
+          <p>» – Jacque Artevelle. Il a ses Anglais pour escorte, et un écu flanqué d’armoiries, avec friperie d’écarlate, surcot blasonné de velours...</p>
+          <div> </div>
+          <p>» – Tudieu ! va-t-il y avoir brouhaha !</p>
+          <div> </div>
+          <p>» – Est-elle ridicule cette royauté parvenue, se donnant de grandes manières pour faire oublier son origine de truande ! Fi ! la tricherie touche à son terme. Tueurs et pastoureaux21 ! en besogne !</p>
+          <div> </div>
+          <p>» – En avant !</p>
+          <div> </div>
+          <p>» – Aux armes ! Vengeance !</p>
+          <p>» – Vraie liberté ! roi légitime ! » Ces cris tumultueux ne parvenaient point encore jusqu’au Reward. Sa petite troupe approchait néanmoins avec inquiétude et méfiance. L’aurore se levait radieuse.</p>
+          <div> </div>
+          <p>Un cavalier pâle est haletant est sorti d’une des portes de la ville à la rencontre d’Artevelle. C’est un des partisans de l’usurpation. Son visage peint les alarmes.</p>
+          <div> </div>
+          <p>« – Rebroussez chemin ! ou vous êtes perdu. La capitale est soulevée.</p>
+          <div> </div>
+          <p>» – Moi fuir ! dit le chef démagogue.</p>
+          <p>» – La mort est en face de vous. Reculez !</p>
+          <div> </div>
+          <p>» – La mort est derrière. ».</p>
+          <div> </div>
+          <p>» – Serait-ce donc vrai ? La ville de Bruges ?....</p>
+          <div> </div>
+          <p>» – Est au pouvoir du comte de Male22.</p>
+          <div> </div>
+          <p>» – Et Ypres ?</p>
+          <div> </div>
+          <p>» – Est en pleine révolte.</p>
+          <div> </div>
+          <p>» – Oudenarde ?</p>
+          <div> </div>
+          <p>» – J’y suis trahi.</p>
+          <div> </div>
+          <p>» – Eh quoi ! la perfidie partout !</p>
+          <p>» – Entrons à Gand.</p>
+          <div> </div>
+          <p>» – Gardez-vous-en. On y traque vos amis dans les rues comme des bêtes fauves. Le peuple y rugit déchaîné.</p>
+          <div> </div>
+          <p>» – J’ai quelque empire sur ce peuple.</p>
+          <div> </div>
+          <p>» – En peut-on avoir sur des tigres !</p>
+          <div> </div>
+          <p>» J’ai des amis....</p>
+          <div> </div>
+          <p>» – Qui vous renient.</p>
+          <div> </div>
+          <p>» – Je parlerai.</p>
+          <div> </div>
+          <p>» – On ne vous écoutera pas.</p>
+          <div> </div>
+          <p>» – Mais Gand m’a fait roi !</p>
+          <div> </div>
+          <p>» – Gand vous tuera. »</p>
+          <p>Le Reward a courbé la tête. Il a réfléchi quelques instans sur sa position désastreuse. Aucune fuite n’est possible. Nulle retraite : point de refuge. L’insurrection, semblable à un vaste incendie, étend de toutes parts ses flammes. Il n’y a de chances de salut pour lui que dans un effort téméraire, une résolution désespérée. Il se flatte que sa présence, saluée jadis avec tant d’enthousiasme par la grande cité flamande, imposera encore à la populace. Il affecte la contiance ; et, relevant son front avec une fermeté factice, il poursuit sa route vers Gand.</p>
+          <div> </div>
+          <p>« – J’ai une étoile, disait Jacque. »</p>
+          <p>L’étoile venait de s’éteindre.</p>
+          <div> </div>
+          <p>Artevelle a franchi la porte du Nord ; il est sous les murs de la capitale. Les bandes furieuses des faubourgs, composées de truands forcenés, de prostituées dégoûtantes et d’enfans déguenillés, s’avançaient à sa rencontre en brandissant leurs piques, et en s’étourdissant eux-mêmes de leurs imprécations. Un cri d’atroce bonheur est parti de leurs rangs à sa vue, un cri tel que le poussent les démons, quand une ame abandonnée du Ciel est jetée à leurs lacs de feu. C’était pour le Reward un premier coup de cloche de mort, un premier tintement d’agonie. Le cœur faillit au Brasseur Roi.</p>
+          <div> </div>
+          <p>Avancera-t-il encore ?… il s’arrête. Face à face avec l’anathème populaire, il n’avait plus dans les veines une seule goutte de sang qui ne frissonnât. Mais il n’était plus temps de revenir sur la décision prise. Il fallait marcher droit au malheur. L’au dace était nécessité.</p>
+          <div> </div>
+          <p>« – Du courage, braves lanciers ! Serrez vos ceinturons ! haut les armes ! »</p>
+          <div> </div>
+          <p>Les soldats anglais ont répondu par des acclamations à l’ordre du chef démagogue. Ils n’étaient qu’au nombre de cent ; mais, par leur courage indomptable, ils valaient, eux seuls, une armée.</p>
+          <div> </div>
+          <p>Ils défilent à pas comptés. Quelques bourgeois, amis d’Artevelle, lui faisaient, de leurs croisées, des signes d’alarmes pour l’empêcher d’aller plus loin. D’autres individus, du haut de leurs balcons, le montraient du doigt avec dégoût. Les clameurs allaient grossissant. Le Reward, l’œil fixé sur les hordes loin taines, hérissées de poignards, à travers lesquelles il lui fallait s’ouvrir un passage, voyait clair dans la nuit d horreurs qui s’étendait autour de lui. Les huées arrivaient à son oreille ; le rire des furies s’y mêlait. Les spectateurs avides de meurtre, qui se ruaient avec transport à la suite, des hommes de sang, avaient des figures sépulcrales : on eût dit des cadavres convoqués de leur fosse pour une orgie des fils de l’abîme.</p>
+          <div> </div>
+          <p>» – Jacque ! dit une voix ironique partie d’une fenêtre voisine, qu’elle est sublime et glorieuse cette populace affranchie ! Voilà les héros de ta quasi-gloire, les piliers de ton quasi-trône ! Admiration et respect ! Découvre-toi donc, et salue. »</p>
+          <div> </div>
+          <p>Un. sourire de courtoisie amère a répondu à l’ironie vengeresse. Vis-à-vis Jacque est un pont. De l’autre côté de ce pont est une place publique, au milieu de laquelle est une gigantesque potence ; et sur cette place est réunie la délirante cohue qui, poussant des hurlemens sauvages, s’apprête à déchirer la victime.</p>
+          <div> </div>
+          <p>« – Place au Reward ! crient les archers. »</p>
+          <div> </div>
+          <p>L’intrépidité de ces braves a confondu la multitude.</p>
+          <div> </div>
+          <p>Cependant des milliers de bras levés montraient l’effroyable potence. Les vociférations redoublaient.</p>
+          <p>» – Mort aux Anglais !</p>
+          <div> </div>
+          <p>» – A bas le Reward !</p>
+          <div> </div>
+          <p>» – Point de libertés du tyran !</p>
+          <div> </div>
+          <p>» – Il nous a vendus et livrés !</p>
+          <div> </div>
+          <p>» – Qu’il nous rende l’or qu’il a pris.</p>
+          <div> </div>
+          <p>» – Pas de Prince-Noir !</p>
+          <div> </div>
+          <p>» – Plus de traîtres !</p>
+          <div> </div>
+          <p>» – Vivent à jamais les comtes de Flandre ! »</p>
+          <div> </div>
+          <p>Les traits d’Artevelle étaient renversés ; ses yeux se dilataient d’épouvante ; ses sourcils, violemment tirés par une souffrance inouïe, s’étaient horriblement écartés. Des instrumens de torture se dressaient sur la place pour mettre ses membres en lambeaux avant de les suspendre au gibet. Il voyait dix genres de mort à traverser avant d’en être à la dernière. Il entendait les éclats d’allégresse furieuse et de moquerie féroce qui partaient du volcan populaire en éruption. Il se sentait pris de vertiges.</p>
+          <div> </div>
+          <p>Le moment était décisif. La misérable idole de Gand avait franchi le terrible pont placé devant elle, et qui, semblable à celui de Satan, jeté sur le chaos, s’ouvrait d’un bout sur les enfers. Il n’y avait pas de résistance possible ; il fallait, sans opposition, laisser faire à la rage les préparations à l’homicide. Jacque, au milieu de la foule, hagard, terrifié, livide, étendait un bras, puis un autre, vaguement et à l’aventure, comme implorant un geste d’ami. Là pourtant naguère des milliers de mains avaient été par lui pressées ; aucune d’entre elles aujourd’hui n’eût voulu toucher la sienne autrement qu’avec des griffes ou des tenailles. Sa raison commençait à se perdre ; à force d’angoisses, il était sans souffrance. Il lui semblait qu’au sein du chaos il roulait vers la réprobation éternelle, de précipice en précipice, au bruit des anathèmes vengeurs, rien sous les pieds, rien sur la tête mais dans du feu, des cris et du sang,</p>
+          <div> </div>
+          <p>La multitude sans pitié, telle que la bête féroce qui se garde de tuer tout de suite sa proie, pour folâtrer avec les palpitations de son agonie ; la multitude heureuse et béante se fût alors battue pour qu’on respectât le Brasseur Roi. Il lui fallait une série d’émotions sanglantes, une progression de supplices variés, de longs spectacles dans le meurtre. Là, pour tout ce peuple assemblé, la mort ne devait pas être purement et simplement le dernier soupir d’un con damné ; elle devait être, pendant la journée entière, la fête et les jeux de la ville.</p>
+          <div> </div>
+          <p>« – Place au Reward ! Place au Reward ! »</p>
+          <div> </div>
+          <p>On répétait le cri des archers.</p>
+          <div> </div>
+          <p>Ces derniers, arme au bras et tête levée, formaient à l’entour d’Artevelle un rempart d’airain et de fer. Quelques pierres et quelques flèches avaient été dirigées contre eux à la descente du pont ; mais les chefs de la révolte s’étaient opposés à ces attaques ; et les valeureux Anglais, décidés à se battre jusqu’au trépas, coutinuaient à fendre la masse bruyante qui se refoulait sous leurs lances, comme plient les épis de blé devant le souffle des tempêtes.</p>
+          <div> </div>
+          <p>Le brillant hôtel du Reward s’élevait à l’extrémité de la place. Là déjà, dans les facéties, on entendait le meurtre approcher.</p>
+          <p>« – Oh ! comme il est pâle !</p>
+          <div> </div>
+          <p>» – Le lâche !</p>
+          <div> </div>
+          <p>» – Ses dents claqueut.</p>
+          <div> </div>
+          <p>» – Il a l’air fou.</p>
+          <div> </div>
+          <p>» – Il sera moins laid à la potence.</p>
+          <div> </div>
+          <p>» – Eh ! Reward ! fortifie la ville. Où sont tes maçons ?</p>
+          <p>« – Il est sourd.</p>
+          <div> </div>
+          <p>» – Bonjour, Brasseur ! un flacon de bière ?</p>
+          <div> </div>
+          <p>» – Je parie que Messire a soif : il a le gosier sec.</p>
+          <div> </div>
+          <p>» – Il brûle.</p>
+          <div> </div>
+          <p>» – Oh ! ce sera bien pis tout à l’heure.</p>
+          <div> </div>
+          <p>» – C’est Barrabas !…</p>
+          <div> </div>
+          <p>» – A la passion.</p>
+          <div> </div>
+          <p>– Du feu ! du vinaigre ! un gibet !..</p>
+          <div> </div>
+          <p>» – Et ce sera comme pour le Christ. »</p>
+          <p>Artevelle, par un mouvement presque involontaire, s’est dressé sur ses étriers. L’infortuné veut en finir : il a mis l’épée à la main.</p>
+          <div> </div>
+          <p>« – Ma maison est là ! s’écrie-t-il ; sonnez, cors et clairons !..... une charge ! »</p>
+          <div> </div>
+          <p>Les soldats de la Grande-Bretagne ont obéi. Ils couvrent du son des fanfares les rugissemens de la rébellion. Leurs destriers essaient le galop. De toutes les rues aboutissant à la place, débouchaient en ce moment les corporations armées et la population des écoles. Ces légions furibondes, se précipitant à un centre commun, et exaspérées de n’y être pas arrivées les premières, tourbillonnaient surelles-mêmes, et, comme une trombe impétueuse, renversaient tout sur leur passage. Du milieu, de cette épouvantable mêlée partaient de longs cris de détresse. Des femmes écrasées, des enfans étouffés, des vieillards foulés aux pieds, périssaient engloutis dans le gouffre révolutionnaire où bouillon naient tant de perversités humaines. Des chefs de métiers à cheval, flottant çà et là au-dessus des courans dévastateurs, comme les restes d’un vaisseau sombre, finissaient par s’abîmer et disparaître sous les vagues vivantes qui les emportaient. La Lys et l’Escaut chariaient des monceaux de cadavres jetés à l’eau du haut des ponts, et dont se dèchargeait la cité. C’était le beau idéal des libertés insurrectionnelles, les magnificences de la destruction.</p>
+          <div> </div>
+          <p>Les archers anglais, profitant de la confusion générale, ont traversé la place publique. Mais, à la porte du Reward, des nuées de flèches les assaillent ; des bâtons et des pierres les atteignent ; une forêt de piques les entoure. Des ouvriers armés de faux coupent les jarrets de leurs coursiers. Ils tombent ; les rangs s’éclaircissent.</p>
+          <div> </div>
+          <p>Artevelle est parvenu néanmoins à renverser tous les obstacles. Mais il n’est rentré sous les murs de son hôtel qu’avec un tiers de sa cohorte : soixante braves ont péri.</p>
+          <div> </div>
+          <p>Il n’a reçu aucune blessure. La grande porte de sa demeure s’est promptement refermée sur lui ; mais son salut n’est point assure ; sa maison ; entièrement cernée, n’a ni secrète issue, ni défense. Le fond de sa cour donne sur un canal ; et les deux côtés de cette même cour sont fermés par de hautes murailles, derrière lesquelles s’amasse une foule assiégeante. Aucune voie ouverte à la fuite.</p>
+          <p>Le Brasseur Roi, franchissant le vestibule de son hôtel, monte rapidement le grand escalier qui conduit à ses salles d’apparat ; et, par une des hautes croisées qui dominent une partie de la cité, il porte ses regards au-dehors. Tableau hideux ! spectacle atroce ! une espèce d’ordre a succédé à la désastreuse bagarre ; la férocité publique, un instant détournée de son cours par l’échauffourée des étudians et la bataille des archers, s’est reportée sur le Reward avec une intensité nouvelle. Des milliers d’assassins l’appellent.</p>
+          <div> </div>
+          <p>Un soleil de révolution, un brûlant soleil de juillet23 s’élevait aux champs de l’azur, sur un firmament sans nuage. Jacque, immobile et glacé, regardait attentivement l’ovation de mort que lui préparaient les bourreaux. La haute potence, dressée en face de son habitation, avait trois branches au bout desquelles pendaient des cordes à nœuds coulans attachées à des anneaux de fer ; un chevalet et une roue, destinés à repaître les spectateurs des convulsions d’un supplicié, étaient à côte du gibet. Non loin s’élevait un bûcher sur lequel étaient placées des chaudières, et qu’attisaient des forgerons à l’aide d’un énorme soufflet ; on y rougissait des tenailles.</p>
+          <div> </div>
+          <p>Les cannibales, réunis sur ce point, chantaient des hymnes patriotiques, et, se prenant parles mains, dansaient en rond autour du brasier. Ils avaient allumé des torches de poix qu’ils secouaient dans les airs ; et une fumée noire s’en élevant, ils continuaient, sous les vapeurs, leur ronde ardente de démons.</p>
+          <div> </div>
+          <p>Plusieurs archers anglais sont accourus vers leur chef.</p>
+          <div> </div>
+          <p>« – Reward ! on enfonce les portes. »</p>
+          <p>Les yeux d’Artevelle s’éteignaient dans leurs orbites ; le bourdonnement de son cerveau empêchait les paroles les plus distinctes d’arriver à son intelligence. Il avait la main sous ses habits ; et, avec une rage de brute, il se déchirait la poitrine avec ses ongles.</p>
+          <div> </div>
+          <p>« « – Que devenir !… tout est perdu !… criaient les serviteurs du logis. Entendez-vous les coups de hache ? »</p>
+          <div> </div>
+          <p>L’écroulement soudain d’une des murailles de la cour a fait trembler l’hôtel tout entier. Les acclamations de la rue ont salué la détonation triomphante ; les massacreurs sont à la brèche.</p>
+          <p>« – Reward ! nous défendrons l’escalier, s’écrient les archers indomptables ; vous ! tandis que nous combattrons, essayez de parler au peuple.</p>
+          <div> </div>
+          <p>» – Et où ? dit Artevelle.</p>
+          <div> </div>
+          <p>« – Au balcon. »</p>
+          <div> </div>
+          <p>Le Brasseur Roi s’y est traîné. Il entend à quelques pas de lui les hurlemens féroces des assaillans. Ses fi dèles gardes, rangés au haut de l’escalier, vont tous périr jusqu’au dernier. Il apparaît sur le balcon.</p>
+          <div> </div>
+          <p>Des applaudissemens ironiques éclatent à sa vue. Jacque a fait signe qu’il voulait parler ; ses genoux étaient chance laus ; ses mains convulsivement serrées, s’accrochaient au fer du balcon pour tâcher de s’y maintenir debout. Il saluait de droite et de gauche par une sorte d’instinct machinal, semblable aux bêtes fauves en cage que la peur dresse à ce manège. Sa gorge brûlante laissait à peine passage à quelques paroles inarticulées que couvraient des huées frénétiques. On voyait, du dehors, ses mains s’agiter, ses yeux reluire ; voilà tout. Un rire de hyène accueillait chacun de ses mouvemens. Le roi né de l’insurrection, déjà violet comme un cadavre, essuyait avec le calme de la stupidité les déchaînemens de la malédiction maternelle. La terreur qui brisait ses reins tordait violemment ses entrailles ; ses nerfs, tires et corrodés comme un parchemin roulé dans le feu, contractaient ses membres brûlans. Il y avait là enfer et damné.</p>
+          <div> </div>
+          <p>Mille exclamations se croisaient.</p>
+          <div> </div>
+          <p>« – Laissez-le parler !</p>
+          <div> </div>
+          <p>« – Non.</p>
+          <div> </div>
+          <p>« – Qu’on le tue !</p>
+          <div> </div>
+          <p>» – Pas encore.</p>
+          <div> </div>
+          <p>« – C’est trop tôt.</p>
+          <div> </div>
+          <p>« – Il faut l’écouter.</p>
+          <div> </div>
+          <p>« Silence !</p>
+          <p>« – Il est sans voix.</p>
+          <div> </div>
+          <p>« – Sa langue est usée.</p>
+          <div> </div>
+          <p>« – Il a tant menti, le bavard 1 »</p>
+          <div> </div>
+          <p>Un archer anglais, tombé vivant entre les mains de ses ennemis, vient d’être accroché à l’une des branches de la potence. Le malheureux, balancé à une assez grande élévation du sol, tournoyait au milieu des airs. Ce cri est parvenu au Reward :</p>
+          <div> </div>
+          <p>« – Majesté ! ton tour va venir. »</p>
+          <div> </div>
+          <p>Des gouttes d’eau glacée découlaient du front d’Artevelle ; il les essuye d’une main tremblante ; et, de son funeste balcon, réunissant ses dernières forces, il jette ces mots à la foule :</p>
+          <div> </div>
+          <p>« – J’ai voulu le bonheur de tous. Hélas !... Vous allez... dans monsang... noyer la liberté de la Flandre ! »</p>
+          <div> </div>
+          <p>Mille voix l’ont interrompu.</p>
+          <div> </div>
+          <p>« – Il ne dit plus : Mes chers camarades !</p>
+          <div> </div>
+          <p>« – Il ose encore parler de liberté, le tyran !</p>
+          <div> </div>
+          <p>« – Assez dejongleries, spoliateur !</p>
+          <div> </div>
+          <p>« – Révolté ! meurs par la révolte.</p>
+          <div> </div>
+          <p>&lt; – Tu trahissais, on t’a trahi.</p>
+          <div> </div>
+          <p>« – Tu nous vendais, on t’a vendu.</p>
+          <p>« – Tu flétrissais, on te dégrade.</p>
+          <div> </div>
+          <p>« – Tu dépouillais, on te dépouille.</p>
+          <div> </div>
+          <p>&lt; – Tu as pendu, on te pendra.</p>
+          <div> </div>
+          <p>&lt; – Gloire à la justice de Dieu !</p>
+          <div> </div>
+          <p>« – Dieu remet au peuple sa foudre.</p>
+          <div> </div>
+          <p>« – A genoux ! tes maîtres l’ordonnent.</p>
+          <div> </div>
+          <p>II</p>
+          <p>« – Oui, monstre à genoux !</p>
+          <div> </div>
+          <p>« – A genoux ! »</p>
+          <div> </div>
+          <p>Le misérable chef obéit. Ce n’était plus un être vivant, ce n’était qu’une machine animée ; il joint les mains, et se prosterne24.</p>
+          <p>« – A bas le bonnet ! Tête nue ! »</p>
+          <div> </div>
+          <p>Le Brasseur Roi découvre son front. Ses cheveux étaient hérissés ; la fixité de sa prunelle était terrifiante ; des larmes sillonnaient son visage, et le creusaient Comme une lave enflammée. Il étend ses bras supplians ; et, avec une espèce de râle entrecoupé de hoquets, il implore les assassins.</p>
+          <div> </div>
+          <p>« – Pitié ! pitié ! miséricorde !! »</p>
+          <div> </div>
+          <p>Un mouvement de compassion a saisi quelques âmes.</p>
+          <div> </div>
+          <p>« – Comme il pleure !</p>
+          <p>« – Chacun son tour.</p>
+          <div> </div>
+          <p>« – Plaindre la couardise ! fi !</p>
+          <div> </div>
+          <p>« – Avoir eu un tel roi ! quelle honte !</p>
+          <div> </div>
+          <p>« – Point de pitié pour la bassesse ! »</p>
+          <div> </div>
+          <p>La fureur populaire semblait néanmoins avoir perdu de son intensité. Une lueur d’espérance est venue briller vaguement aux yeux de Jacque. Il s’apprête à parler encore, quand tout à coup une main lourde et froide s’abat sur son épaule, comme la serre d’un vautour. A cette commotion imprévue, il tourne la tête, et regarde.</p>
+          <div> </div>
+          <p>Une figure noire et colossale était debout à ses côtés : elle a relevé sa visière.</p>
+          <div> </div>
+          <p>« – ME VOICI »</p>
+          <div> </div>
+          <p>C’était Wenemare.</p>
+          <div> </div>
+          <p>Ces terribles paroles que, à l’heure suprême, l’exterminateur avait promis de faire entendre à la victime, ont anéanti le Reward. Il s’est fait sur le balcon un affreux échange de regards entre la vengeance et la lâcheté. Urbin, le visage baissé vers celui du condamné, lui brûlait les yeux du feu qui jaillissait des siens. Jacque, ne pouvant en soutenir l’éclat, cherche à se couvrir la figure ; mais, de ses doigts de fer, Wenemare écarte ses mains ; et sa voix, au loin écoutée, brisant l’espace comme un tonnerre, a répété ces mots :</p>
+          <div> </div>
+          <p>« – ME Voici ! »</p>
+          <div> </div>
+          <p>Le front courbé dans la poussière, Artevelle tombé épuisé.</p>
+          <div> </div>
+          <p>« – Te rappelles-tu mes deux ser mens ? reprend le soldat d’Ouden bourg : J’ai tenu l’un, je remplis l’au tre. Le second sang lave le premier. »</p>
+          <p>Jacque exhale un dernier murmure.</p>
+          <div> </div>
+          <p>« – Grâce ! grâce ! »</p>
+          <div> </div>
+          <p>L’implacable Urbin se redresse.</p>
+          <div> </div>
+          <p>« – Quand Louis, frappé du poignard, roulait à tes pieds expirant : vil tyran ! lui as-tu fait grâce ?</p>
+          <div> </div>
+          <p>« – Tue-le ! tue-le ! clamait le peuple. »</p>
+          <div> </div>
+          <p>L’exécuteur des vengeances de la terre continue avec véhémence :</p>
+          <div> </div>
+          <p>« – Quand tu opprimais le royaume, quand tu dépouillais l’orphelin, quand tu em prisonnais la veuve, quand tu héritais par le meurtre, et quand tu gouvernais par le crime : usurpateur ! faisais-tu grâce ?</p>
+          <div> </div>
+          <p>« – Oh ! la mort ! s’écrie Artevelle. Assez de tortures ! la mort !... Ah !... »</p>
+          <div> </div>
+          <p>Et cette dernière exclamation est partie comme un déchirement final de la vie.</p>
+          <div> </div>
+          <p>Urbin a détourné la tête avec la sensation repoussante qu’inspire un reptile immonde qu’on est sur le point d’écraser. Il tient l’épée levée, il recule : le dégoût a vaincu la haine.</p>
+          <div> </div>
+          <p>Un nouveau tumulte, un mouvement extraordinaire est venu varier la scène. Philippe Artevelle, secondé par Hamstède, et suivi d’une nombreuse troupe d’ouvriers, entreprend de sauver son père. Il accourt. Il est jeune et brave. Son amour filial et son désespoir audacieux imposent à la populace. Il parle à voix haute, on l’écoute. Il affronte la mort, on l’admire. Un passage lui est ouvert ; Philippe traverse la place.</p>
+          <div> </div>
+          <p>Le Reward aperçoit son fils. Un nouveau rayon d’espérance : cette fois, c’était le dernier.</p>
+          <div> </div>
+          <p>La fureur de Wenemare, un instant suspendue, s’est réveillée, à l’aspect du séducteur de Néolie, avec une violence impossible à peindre. Il saisit de son gantelet de fer la majesté bourgeoise encore gisante à ses pieds ; il la soulève avec son poignet d’athlète au-dessus du balcon fatal ; et, la lançant au loin, il s’écrie :</p>
+          <p>» – A toi, Philippe ! c’est ton père. Citoyens ! voici votre roi ! »</p>
+          <div> </div>
+          <p>Un houra général de stupéfaction a accueilli cette hardiesse. Bientôt un élan d’enthousiasme y succède. Le colosse funèbre qui vient de jeter ainsi une sorte de monarque à la curée d’une meute humaine, comme on livre aux vents une paille, a frappé d’admiration les enfans de l’indépendance. Une vigueur si prodigieuse, jointe à une audace si rare, leur a paru surnaturelle. Ils ont contemplé Wenemare avec un respect superstitieux. Ce guerrier noir et gigantesque eur semble un envoyé du Très-Haut, un génie vengeur, presque un Dieu.</p>
+          <div> </div>
+          <p>La multitude, derechef, a changé d’avis et d’idées. Elle fond sur le fils du Reward :</p>
+          <div> </div>
+          <p>« – Mort à Jacque ! Mort à Philippe ! »</p>
+          <div> </div>
+          <p>Philippe a fui du champ de bataille.</p>
+          <div> </div>
+          <p>Le Brasseur Roi était tombé comme une masse inerte et morte à une assez grande distance du balcon. Les spectateurs, avides de son dernier soupir, affluaient à l’entour du corps. Gérard Denys se trouvait là. »</p>
+          <div> </div>
+          <p>« – Jacque ! s’écrie-t-il, lève-toi ! »</p>
+          <div> </div>
+          <p>Et il secouait la victime.</p>
+          <p>« – Marche donc ! le gibet attend.</p>
+          <div> </div>
+          <p>&lt; 0 mon Dieu ! crie le condamné.</p>
+          <div> </div>
+          <p>« – Il a dit : Mon Dieu ! l’hypocrite ! La foi lui serait-elle venue dans sa traversée du balcon ? Je l’aimais mieux athée. Allons, marche ! »</p>
+          <div> </div>
+          <p>Jacque avait la cuisse cassée.</p>
+          <div> </div>
+          <p>« – Tuez-moi, par pitié ! tuez-moi ! J’ai les membres rompus ; je meurs. »</p>
+          <div> </div>
+          <p>Et 10 Reward alongeait un bras.</p>
+          <div> </div>
+          <p>» – Une poignée de mains avec mon sabre ! » dit un malandrin goguenard.</p>
+          <div> </div>
+          <p>Et le bras d’Artevelle est coupé.</p>
+          <div> </div>
+          <p>« – Il ne peut marcher ! traînons-le.</p>
+          <p>« – En grand homme !</p>
+          <div> </div>
+          <p>« – En triomphateur !</p>
+          <div> </div>
+          <p>» – En chef civique !</p>
+          <div> </div>
+          <p>» – En roi citoyen ! »</p>
+          <div> </div>
+          <p>Le malheureux mutilé se débat encore avec une frénésie convulsive sous les mains forcenées qui, comme des harpons impitoyables, l’accrochaient pour le mettre en pièces. Des rires moqueurs étouffaient ses derniers gémissemens. Ses membres déchirés et . ses chairs encore palpitantes balayaient çà et là la fange. Ses cheveux, en filets de sang, roulaient, arrachés, sous les pieds. Le cœur battait encore, mais le sentiment et l’intelligence étaient partis. Tout à coup, par une compassion étrange et barbare, Gé rard Denys, au pied de la potence, a fouillé dans les entrailles du cadavre poury éteindre un reste de chaleur25. Les yeux du Brasseur Roi se rouvrent. Un frémissement sur les lèvres... un son vague... Tout est fini.</p>
+          <div> </div>
+          <p>Jacque avait le crâne brisé26.</p>
+        </div>
+        <div title="Chapitre XXI" type="chapter">
+          <head>XXI</head>
+          <div> </div>
+          <p>LE soleil dorait de ses derniers feux le clocher de la grande cathédrale de Gand. La tempête révolutionnaire commençait à se calmer ; la vengeance publique avait assouvi ses fureurs ; et l’usurpation était honteusement tombée de son trône de déceptions. Le Brasseur Roi n’existait plus.</p>
+          <div> </div>
+          <p>Les idées d’indépendance et les ph rases de liberté, à la façon des démagogues, avaient alors fini momentanément en Flandre leur rôle, leur temps et leur règne ; elles s’étaient usées dans le malheur et le crime. Ces fatales jongleries, armes terribles au temps des institutions barbares, n’étaient appelées à redevenir puis santes que dans les civilisations vieillies ; il faut à leur vie les extrê mes : l’âge. naissant ou l’âge tombé, trop de nuits ou trop de lumières, l’ignorance ou l’aveuglement.</p>
+          <div> </div>
+          <p>Au milieu de la grande rue du bourg s’élevait une maison élégante appartenant au fils du Reward. Là, dans une chambre écartée, une jeune femme reposait, à demi vêtue, sur un lit à riches tentures. Sa respiration était lourde et saccadée ; une haleine de feu sortait de sa poitrine ; il n’y avait plus dans tout son être une fibre que la douleur eût épargnée ; et pourtant ses charmes n’avaient rien perdu de leur éclat. Le vif incarnat de ses joues, provenant de la fièvre intérieure qui la dévorait, faisait ressortir la blancheur de sa peau ; ses yeux éblouis. sans donnaient à ses traits mélancoliques une expression inconcevable. Cet ensemble était effrayant, les détails étaient enchanteurs : on y voyait angoisse et sourire, résignation et désespoir, le combat de l’âme et du corps, calme et terreur, mort et beauté. Cette femme était Néolie.</p>
+          <div> </div>
+          <p>Une chambrière, nommée Marthe, était assise au pied de son lit ; elle faisait l’office de garde-malade : mais, à l’expression de ses regards continuellement tournés vers la fenêtre, il était faciles de s’apercevoir qu’elle prenait, un bien plus vif intérêt aux agitations du peuple soulevé, qu’aux souffrance de la femme mourante.</p>
+          <div> </div>
+          <p>Les clameurs du dehors ont retiré brusquement Néolie de l’engourdissement funèbre où elle était plongée : elle se redresse sur son séant. Ses paroles tombent une à une.</p>
+          <div> </div>
+          <p>« – Quel bruit !... qui m’appelle ?... Je brûle,</p>
+          <div> </div>
+          <p>» – Les misérables ! répond Marthe ; ils ont massacré le Reward.</p>
+          <div> </div>
+          <p>» – Ah ! ils l’ont massacré ! Pourquoi</p>
+          <div> </div>
+          <p>» – Parce que, disent-ils, son ambition, ayant pris le mors aux dents, avait culbuté la liberté. Voilà ce que c’est aussi que d’être la créature du peuple ! Ce que tout le monde s’est cru le droit de faire, tout le monde s’attribue le droit de le détuire. Pauvre monarchie boutiquière ! comme ils en ont fait gorge chaude ! comme ils s’en sont donné à cœur joie !... »</p>
+          <div> </div>
+          <p>L’orpheline a interrompu.</p>
+          <div> </div>
+          <p>« – Ah ! ils ont massacré le Re ward ! Et le comte Louis de Male ?</p>
+          <div> </div>
+          <p>» – Il arrive ce soir à Gand avec la princesse Marguerite de Brabant, sa fiancée.</p>
+          <p>» – Sa fiancée ! répéte Néolie à voix basse. Il en a eu une autre, il me semble. »</p>
+          <div> </div>
+          <p>Elle appuie sa main sur son front, et cherche un souvenir effacé. Sa raison lui revenait par intervalles : elle jette un cri lamentable.</p>
+          <div> </div>
+          <p>« – Ma mémoire !... je me rappelle... il s’était mis un instant à m’aimer de toutes les forces de son âme. Ce bonheur me tombait du ciel ; comment s’est-il évanoui ? Je l’ai oublié. Qui es-tu ?</p>
+          <div> </div>
+          <p>» – Je suis Marthe, la chambrière.</p>
+          <div> </div>
+          <p>» – Que fais-tu là ?</p>
+          <div> </div>
+          <p>» – Je veille sur vous.</p>
+          <p>» – Je n’ai besoin de rien, de personne. Parle-moi du prince Louis. Oh ! je l’aimais bien ! L’as-tu connu ?</p>
+          <div> </div>
+          <p>» Je ne connais ni lui ni son père ; j’aimais mieux Artevelle, moi. A vrai dire, je ne me suis jamais apitoyée sur la famille déchue ; aussi je rechigne à me réjouir du retour de ce fils de Flandre, qui va bien certainement faire déguerpir du pays tous ceux qui tenaient au Reward, à commencer par notre maître. Et s’il allait occire Philippe ! N’avez-vous plus souvenance que celui-là est votre mari.... ou quelque chose d’approchant, et que vos destins sont liés ? Que nous importent à nous le sire de Male et la dame sa future ! Quand ils auront fait couper la tête à nos amis, où irons-nous mucher les nôtres ? leur joie n’a pour moi rien d’égayant. Je sais que Marguerite est fort belle : mais qu’une autre danse à sa noce ; quant à moi !</p>
+          <div> </div>
+          <p>» – Marthe ! taisez-vous.</p>
+          <div> </div>
+          <p>» – Non. Je veux le crier à tue-tête : je hais Louis.</p>
+          <div> </div>
+          <p>» – Vous me tuez.</p>
+          <div> </div>
+          <p>» – Je ne vous comprends pas.</p>
+          <div> </div>
+          <p>» – Moi ! je l’aime.</p>
+          <div> </div>
+          <p>» – Qui ?</p>
+          <div> </div>
+          <p>» – Le comte Louis de Male.</p>
+          <p>» – Mais il détrône votre époux !</p>
+          <div> </div>
+          <p>» – Je n’ai pas d’époux.</p>
+          <div> </div>
+          <p>» – Le voici. »</p>
+          <div> </div>
+          <p>Philippe est entré dans la salle : le désespoir et la consternation sont peints sur sa figure hâve et sillonnée. Il tombe, épuisé, sur un siége.</p>
+          <div> </div>
+          <p>« – Omon père ! s’écrie-t-il d’une voix inarticulée, quelle mort affreuse !.... Et je n’ai pu ni le sauver ni mourir !.... Quels hurlemens sauvages ! et quels atroces silences ! Comme ils l’ont torturé, les barbares ! »</p>
+          <div> </div>
+          <p>Une longue pause,</p>
+          <p>Il se relève.</p>
+          <div> </div>
+          <p>« – Et Néolie ! Ma femme ! Où est-elle !</p>
+          <div> </div>
+          <p>» – Sur ce lit, monseigneur ! dit Marthe. »</p>
+          <div> </div>
+          <p>L’orpheline, repliée en deux sur elle-même, et raccornie dans la ruelle, n’avait ni vu ni entendu le fils du Reward. La pauvre aliénée continue :</p>
+          <div> </div>
+          <p>« – Louis de Male et Marguerite !... toujours ces deux noms réunis. Ma vie s’en va... Si jeune pourtant !... Et j’étais belle... un m’a aimée ! S’il disait au moins : pauvre femme ! Il ne le dira pas.</p>
+          <p>« – Néolie ! interrompt Philippe, nos jours sont en danger, il faut fuir. Les massacreurs sont à la porte.</p>
+          <div> </div>
+          <p>« – Qui les envoie ?</p>
+          <div> </div>
+          <p>« – Le comte de Male.</p>
+          <div> </div>
+          <p>« – Toujours ce nom ! et Marguerite ?</p>
+          <div> </div>
+          <p>« – Ce sont les assassins de mon père.</p>
+          <div> </div>
+          <p>« – Ont-ils à me parler ? qu’ils entrent !</p>
+          <div> </div>
+          <p>« – Ils viennent le poignard à la main : notre mort à tous est jurée.</p>
+          <div> </div>
+          <p>« – Ah ! un poignard et des sermens ! Urbin doit en être sans doute.</p>
+          <p>« – Il est leur chef, et prêt à frapper. »</p>
+          <div> </div>
+          <p>Néolie saute hors de son lit.</p>
+          <div> </div>
+          <p>« – Je vous défendrai ! » s’écrie-t-elle.</p>
+          <div> </div>
+          <p>Une arme de nouvelle invention, que Philippe Artevelle avait achetée au poids de l’or, et qu’il conservait précieusement, comme une des merveilles de l’époque, un canon à main était là27. L’orpheline s’en est emparée avec la force prodigieuse que donne une fièvre brûlante, et s’élance vers la croisée.</p>
+          <div> </div>
+          <p>Une foule immense obstruait en ce moment la rue du bourg. Elle se portait à la rencontre du fils de Flandre, et saluait de ses acclamations un soldat à cheval qui marchait à sa tête. Néolie a dirigé son arme au hasard contre le chef de la multitude. La détente lâchée fait feu ; une forte détonation a suivi ; une vapeur noire s’étend ; le guerrier que l’orpheline a visé pousse un cri lugubre et chancelle : il a reçu le coup de la mort.</p>
+          <p>Tout cela s’était fait avec une telle rapidité, que Philippe et Marthe n’avaient eu le temps ni de prévoir ni d’empêcher la catastrophe. Néolie, violemment frappée elle-même au visage par le contre-coup du tube meurtrier, était tombée à quelques pas de la fenêtre. L’arme a échappé de ses mains.</p>
+          <div> </div>
+          <p>Une épouvantable rumeur, partie du dehors, a suivi l’événement fatal. Des coups de hache retentissent sous les murailles de l’hôtel : le peuple en enfonce les portes. L’orpheline, défigurée, a soudain relevé son front. Son œil est terne, creux et mort.</p>
+          <p>« – Qui ai-je assassiné ? demande-t-elle.</p>
+          <div> </div>
+          <p>« – Urbin Wenemare. »</p>
+          <div> </div>
+          <p>Elle a ri</p>
+          <div> </div>
+          <p>« – Savez-vous qu’Urbin.... poursuit-elle, me dit un jour à Ridervode : « Si tu devenais infidèle, je jurerais de t’immoler ; et alors... alors tu mourrais. » Eh bien ! je lui fus infidèle : qu’arrive-t-il ?... C’est moi qui le tue. »</p>
+          <div> </div>
+          <p>Et ses rires ont redoublé.</p>
+          <div> </div>
+          <p>Son œil agrandi se referme ; son corps est retombé lourdement. Une convulsion a suivi...</p>
+          <p>Puis un soupir... un râle... puis, rien.</p>
+          <div> </div>
+          <p>De loin, Wenemare expirant avait reconnu la nièce d’Hamstède Il n ’a poussé qu’un cri :</p>
+          <div> </div>
+          <p>« – Néolie ! »</p>
+          <div> </div>
+          <p>On lui prodigue en vain mille secours ; son heure fatale a sonné. Il murmure quelques paroles : on les recueille avidement.</p>
+          <div> </div>
+          <p>« – Je veux voir le prince... Il arrive. Qu’on me porte où il est !... Partons. »</p>
+          <div> </div>
+          <p>Et son ordre est exécuté.</p>
+          <div> </div>
+          <p>Louis était aux portes de Gand. Des populations enthousiasmées accouraient à sa rencontre, ivres d’espérance et de joie ; il leur ramenait le bonheur.</p>
+          <div> </div>
+          <p>Marguerite est auprès du prince ; et Bertrade les accompagne. Un groupe de soldats, portant un guerrier blessé, arrête soudain le cortége.</p>
+          <div> </div>
+          <p>« – 0 ciel ! s’écrie le comte de Male, qu’aperçois-je ! Urbin Wenemare. »</p>
+          <div> </div>
+          <p>Le mourant entr’ouvre les yeux.</p>
+          <div> </div>
+          <p>« – Votre main !... votre main !... mon prince. »</p>
+          <div> </div>
+          <p>Louis le presse entre ses bras. De grosses larmes baignent ses joues.</p>
+          <div> </div>
+          <p>« – J’expie mon crime, dit Urbin. Ma mort est justice divine. L’assassin tombe assassiné. »</p>
+          <div> </div>
+          <p>Bertrade, au désespoir, s’avance.</p>
+          <div> </div>
+          <p>« – Qui l’a frappé ? demande-t-elle.</p>
+          <div> </div>
+          <p>« – Néolie, répond la victime.</p>
+          <div> </div>
+          <p>« – Néolie ! » répète le prince.</p>
+          <div> </div>
+          <p>Et l’horreur étouffe sa voix.</p>
+          <div> </div>
+          <p>« – Mes fatals sermens sont remplis, reprend le malheureux Wenemare. Mon prince ! je vous ai vengé. N’oubliez pas le pauvre Urbin !… Il vous a tant aimé.... Soyez roi ! Mais clémence et grâce !... Je meurs. »</p>
+          <p>Marguerite pousse un cri sourd.... Wenemare n’existait plus.</p>
+          <div> </div>
+          <p>Une scène de terreur et de confu sion se terminait, à peu près au même moment, chez l’héritier du Brasseur Roi. La porte de la demeure de Philippe a été renversée sur ses gonds. Des hommes de haine et de sang accourent venger Wenemare ; Gérard Denys est à leur tête,</p>
+          <div> </div>
+          <p>« – Où est-elle ? s’écrie le chef. Le meurtrier n’est point un homme. Quel est le monstre ?...</p>
+          <div> </div>
+          <p>« – C’est ma femme. »</p>
+          <p>Et Philippe, d’un front hardi, s’avance vers la horde sauvage.</p>
+          <div> </div>
+          <p>« – Où est-elle ? a repris Gérard.</p>
+          <div> </div>
+          <p>« – Là, couchée à terre, expirante. »</p>
+          <div> </div>
+          <p>Et Philippe, étendant la main, montrait le corps de Néolie.</p>
+          <div> </div>
+          <p>« – Livrez-la !</p>
+          <div> </div>
+          <p>« – Tuez-moi d’abord.</p>
+          <div> </div>
+          <p>« – Vous !</p>
+          <div> </div>
+          <p>« – Je suis le fils du Reward.</p>
+          <div> </div>
+          <p>« – Le fils du Reward ! crie la foule. Oui, il a raison, qu’on le tue !</p>
+          <div> </div>
+          <p>« – Arrêtez ! dit le capitaine. Commençons par saisir sa femme. Comment l’appelle-t-on ?</p>
+          <div> </div>
+          <p>« – Néolie.</p>
+          <div> </div>
+          <p>« – Néolie ! répète Gérard. Ah ! c’est sa maîtresse ! L’infime !... Livrez-nous-la !</p>
+          <div> </div>
+          <p>« – Jamais ! répond Philippe avec calme. »</p>
+          <div> </div>
+          <p>Le capitaine levait son glaive : la chambrière Marthe a retenu son bras.</p>
+          <div> </div>
+          <p>« – A quoi bon se battre ! dit-elle. Que demandez-vous ? Une femme ? Il n’y a plus ici qu’un cadavre. »</p>
+          <div> </div>
+          <p>Et, trainant l’orpheline par un de ses membres, elle jette un corps inanimé entre Gérard Denys et Philippe.</p>
+          <div> </div>
+          <p>« – Quoi ! Néolie !...</p>
+          <div> </div>
+          <p>« – Est morte : Messires !</p>
+          <div> </div>
+          <p>« – Misérables ! n’approchez pas ! s’est écrié le fils d’Artevelle. Je défendrai du moins sa dépouille.</p>
+          <div> </div>
+          <p>« – A mort Philippe !</p>
+          <div> </div>
+          <p>« – Paix vous autres ! dit Gérard d’une voix tonnante. Le trépas du Reward a dû suffire à la vengeance nationale. C’est assez de sang et de crimes. »</p>
+          <div> </div>
+          <p>Philippe, à genoux devant Néolie, venait d’imprimer un dernier baiser sur ses lèvres glacées, comme un adieu d’amour et de mort. La foule s’est prise de pitié.</p>
+          <div> </div>
+          <p>« – Armes bas devant la souffrance ! a repris le capitaine. La douleur rend un lieu sacré : respect à cette enceinte ! Sortons. »</p>
+          <div> </div>
+          <p>Un vieux marchand a pris la parole.</p>
+          <div> </div>
+          <p>« – Tu veux sauver Philippe ! Qu’il vive. Mais du moins chassons-le de Flandre, ou malheur nous en adviendra. Il est des races maudites que le ciel jette aux peuples dans sa colère, pour la perdition des royaumes : celle-ci est de ce nombre, Gérard ; un membre reste, gare à nous ! Ce Philippe, à qui l’on fait grâce, n’en fera point un jour au pays : il le mettra à feu et à sang ; il rouvrira encore sous nos pieds l’abîme des révolutions. Rappelez-vous ma prophétie.</p>
+          <div> </div>
+          <p>On vit l’oracle s’accomplir28.</p>
+          <div> </div>
+          <p>FIN.</p>
+        </div>
+      </div>
+      <div title="POST-FACE. DE L'ÉDITEUR." type="postface">
+        <head>POST-FACEDE L’ÉDITEUR.</head>
+        <p>LE dernier numéro du Biographe (mai 1854) contenant une notice historique sur l’auteur du Brasseur Roi, nous avons désiré la reproduire ici, persuadé qu’elle serait agréable à nos lecteurs.</p>
+        <div> </div>
+        <p>Notice sur le vicomte d’Arlincourt.</p>
+        <div> </div>
+        <p>Le vicomte d’ARLINCOURT (VICTOR) est né au château de Mérantais, près de Versailles, au mois de septembre 1789.</p>
+        <p>Sa famille est une des plus anciennes de la Picardie. Un de ses aïeux, ambassadeur de France auprès du duc de Bourgogne (Charles-le-Téméraire), fut fait marquis de Luchelles par Louis XI, en 1467.</p>
+        <p>Au commencement de la révolution, le père du vicomte d’Arlincourt (Louis-Adrien) avait réalisé une grande partie de sa fortune pour se mettre, ainsi que sa famille, à l’abri des orages politiques ; mais ses princes malheureux s’adressèrent à lui pour en obtenir des secours pécuniaires, et 4,000,000 fr. furent déposés à leurs pieds. Il envoya 1,500,000. francs à Mesdames, tantes de Louis XVI, pour assurer leur existence à Rome, où elles étaient dans le dénuement le plus complet. II fit passer 500,000 fr. aux deux princes exilés, Louis XVIII et Charles X, et enfin il remit 2,000,000 fr. à Louis XVI, quelques jours avant le fameux 10 août, pour l’aider a défendre son trône.</p>
+        <p>Tant de dévouement à la famille royale ne pouvait rester impuni ; il fallut, pour le rendre complet, que le sceau du sang y fût mis : la tête de Louis-Adrien et celle de son père tombèrent à la fois sar l’échafaud !... L’histoire lui doit une page.</p>
+        <p>Napoléon, monté sur le trône, recherchait les noms monarchiques. Il avait ouï parler de la vie et de la mort de Louis-Adrien d’Ar lincourt ; il s’attacha ses héritiers ; et le vicomte d’Arlincourt, à peine âgé de 20 ans, fut fait écuyer de S.A.I. madame Mère, puis auditeur au Conseil – d’État, puis in tendant d’armée en Espagne,</p>
+        <p>En 1811 , le vicomte d’Arlincourt nommé intendant à l’armée d’Espagne, se rendit à son poste en Aragon. Il assista au fameux siége de Tarragone dirigé par le maréchal Suchet ; et lui-même nous apprend, dans les notes d’un de ses ouvrages, que ce fut sur les champs de bataille qu’il écrirait sa Caroléïde.</p>
+        <p>Ici, nous devons rapporter un trait remarquable qui fut mentionné dans plusieurs journaux, voire même dans la Minerve en décembre 1818. On en doit en partie les détails à M. Benjamin-Constant.</p>
+        <p>Placé en Espagne, à la tête d’une haute administration, M. d’Arlincourt avait cher ché à réparer les maux de la guerre, et t, au milieu des scènes du carnage, à conserver les droits sacrés de la justice. Il eut occasion d’empêcher parfois le mal, et de faire souvent le bien. Cette conduite, toute méritoire qu’elle avait pu être, n’était pourtant pas une garantie contre la violence d’un peuple exaspéré dans ses sentimens de haine, et peu scrupuleux dans ses ven geances. M. d’Arlincourt avait donc une foule de périls à craindre au moment où les revers de l’armée commencèrent. Quelle fut sa surprise, lorsqu’à ce moment, une députation des principaux citoyens de la Catalogne lui demanda un entretien à Tar ragone ! Cette députation lui apportait une médaille d’or, monument de reconnais sance, et venait la lui présenter au nom de la nation espagnole.</p>
+        <p>Cette médaille portait d’un côté les armes de la province, et de l’autre ces mots : « La Catalogne reconnaissante à l’intendant « Victor d’Arlincourt. »</p>
+        <div> </div>
+        <p>A cette médaille était jointe une lettré des principaux membres de la grande Junte du royaume ; et cette lettre se terminait ainsi :</p>
+        <div> </div>
+        <p>« Heureusement nous conçûmes l’idée » de la touchante expression que renferme » cette monnaie, frappée pour transmettre Il dignement aux siècles les plus reculés » l’impression sublime que sur les âmes vé» ritablement espagnoles causent les vertus » françaises. »</p>
+        <div> </div>
+        <p>M. Benjamin-Constant fait à ce sujet les réflexions suivantes :</p>
+        <div> </div>
+        <p>« Tout ce qui prouve que nos soldats et » que nos administrateurs ont su se conci» lier l’affection et l’estime de la nation » même qui avait le plus à se plaindre de » l’ambition de leur chef est précieux pour » la France ; et c’est un trait bien honora» ble dans la vie d’un homme que d’avoir » mérité, au milieu de circonstances aussi » difficiles que celles où se trouvait M. d’Ar» lincourt, le témoignage non équivoque » que je viens de rappeler. »(Minerve française, t. p. 350. Benjamin-Constant.)</p>
+        <div> </div>
+        <p>Cet hommage d’un écrivain célèbre, qui était loin de partager les opinions po litiques de M. d’Arlincourt, fait à la fois honneur aux deux hommes.</p>
+        <div> </div>
+        <p>Louis XVIII, remonté sur le trône, ac cueillit avec distinction l’intendant de l’ar mée d’Espagne qu’avait décoré l’empereur ; il se rappelait les services de son père ; – « vous avez, lui dit-il, des titres sacrés que je n’oublierai jamais. »</p>
+        <p>Napoléon, parti de l’Ile d’Elbe, rentra en France. A cette époque, M. le vicomte d’Arlincourt, maître des requêtes au conseil d’état, ne se crut point délié de ses sermens au roi : il se retira en Picardie, et tandis que beaucoup tombaient aux pieds du nouveau pouvoir, lui, fidèle à la foi jurée, tout aux vieilles lois de l’honneur, il fuyait de la capitale.</p>
+        <p>Le règne des cent-jours passa vite : Louis XVIII reprit sa place ; et le vicomte d’Arlincourt, heureux d’avoir été à même de prouver la loyauté héréditaire de son nom, reparut devant le monarque. Cependant sous le ministère de Fouché, le vicomte d’Arlincourt fut rayé de la liste des maîtres de requête en service ordinaire.</p>
+        <p>M. d’Arlincourt indigné ne fit entendre aucun murmure. Maître des requêtes honoraire, il renonça à toute place, jura de ne plus rentrer aux affaires publiques et de ne jamais reparaître à la cour tant que règnerait Louis XVIII : puis, se consacrant tout entier à la littérature, il s’établit en Normandie, dans sa belle terre de Saint Paër.</p>
+        <div> </div>
+        <p>Napoléon, à l’apogée de sa puissance, avait marié le jeune écuyer de sa mère à la fille du sénateur comte Cholet, depuis fait par le roi pair de France. L’empereur avait signé le contrat de mariage, ainsi que trois rois de sa famille.</p>
+        <p>M. le vicomte d’Arlincourt ayant recouvré, à la restauration, la fortune de ses pères, et heureux dans sa vie domestique, débuta dans la carrière des lettres. La Caroléide parut. Ce poëme fit sensation.</p>
+        <p>Il fut suivi du Solitaire. Ce roman eut un immense succès de vogue.</p>
+        <p>M. le vicomte d’Arlincourt publia ensuite, et successivement, le Rénégat, Ipsi-boé, l’Etrangère, et Ismalie ou l’Amour et Amour et la mort.</p>
+        <div> </div>
+        <p>Ces diverses productions furent en même temps louées avec transport et déni grées avec fureur Plusieurs souverains étrangers décorèrent l’auteur de leurs or dres.</p>
+        <div> </div>
+        <p>M. d’Arlincourt montre aux étrangers qui viennent visiter sa belle habitation un des rayons de sa bibliothèque, où il a réuni tous ses ouvrages, traduits en dix langues diverses : Anglais, Allemand, Italien, Espognol, Hollandais, Russe, Polonais, Danois, Suédois, Portugais. Cela répond à bien des critiques. Il a des volumes en • tiers pleins de pièces de théâtres, tant françaises qu’étrangères, dont les sujets sont pris de ses œuvres, et qui se jouent avec succès.</p>
+        <div> </div>
+        <p>A l’avènement de Charles X au trône, l’auteur du Solitaire reparut à la cour. L’accueil le plus flatteur lui fut fait par le nouveau monarque et par tous les membres de sa famille. Madame la duchesse de Berry lui promit d’aller visiter le château de Saint-Paër en se rendant aux eaux de Dieppe ; et les journaux de l’époque ont parlé de la brillante fête que le vicomte d’Arlincourt y donna à l’auguste princesse. Cette journée, où tout semblait prestige et féerie, fut toute d’enthousiasme et de poésie.</p>
+        <p>Nous ne rapporterons au sujet de cette belle fête, qu’un mot plein de grâce et d’à-propos de S.A.R., les journaux l’ont souvent cité. Un d’eux l’a raconté en ces termes »« Marie Caroline, au milieu des » enchantemens du parc de Saint-Paër, » entendit une voix qui lui disait : – Ma» dame, nous sommes chez les fées. – Non, » repartit vivement la princesse, pas chez » les fées : chez un génie. »(Vicomte Walsh, gazette de Normandie.)</p>
+        <p>Depuis la révolution de juillet, M. le vicomte d’Arlincourt a publié trois ouvrages remarquables : les Rebelles sous Charles V, les Ecorcheurs et le Brasseur-Roi.</p>
+        <p>Les œuvres du vicomte d’Arlincourt sont empreintes de ce grandiose d’images et de pensées poétiques qui tiennent à une âme ardente et à une sensibilité des plus exquises. Fidèle à ses principes politiques, profondément affligé de l’infortune des vieux maîtres que sa famille a servis et défendus, on trouve dans ses derniers écrits une vive amertume et de sanglans reproches contre l’époque présente. Entouré de sincères amis, dans la plus délicieuse des retraites, il consacre au soulagement du pauvre les instans qu’il peut dérober au commerce des lettres. (Extrait du Biographe, journal mensuel, 2e année, no 5, mai 1834.)</p>
+        <p>Sous presse :</p>
+        <div> </div>
+        <p>UN NOUVEAU ROMAN</p>
+        <div> </div>
+        <p>de MM. AUGUSTE ARNOULD et N. FouRNIER, auteurs</p>
+        <p>de Struensée. 2 vol. in-8o.</p>
+        <div> </div>
+        <p>UNE MAITRESSE DE LOUIS XIII,</p>
+        <p>Par M.X.-B. SAINTINE, auteur du Mutilé.</p>
+        <p>2 vol. in-8o.</p>
+        <div> </div>
+        <p>LA CHEVALIÈRE D’ÉON,</p>
+        <div> </div>
+        <p>par M. Alph. FRANÇOIS. 2 vol. in-8o.</p>
+        <div> </div>
+        <p>CHARLES DE NAVARRE,</p>
+        <div> </div>
+        <p>ou LE CLERC DE CATALOGNE, par M. MORTONVAL.</p>
+        <p>2 vol. in-8o.</p>
+        <div> </div>
+        <p>LE BACHELIER DE PARIS,</p>
+        <div> </div>
+        <p>par MICHEL RAYMOND. 2 vol. in-8o.</p>
+        <div> </div>
+        <p>Félix Locquin, imprimeur.</p>
+      </div>
+      <div title="Notes" type="postface">
+        <head>Notes</head>
+        <div><ref target="chap001.xhtml#re1">1</ref> <p>Je ne me permettrai qu’une seule observation sous le point de vue littéraire ; elle donnera une idée de la bonne foi du juge. M. G........ fait quelques citations de mon livre ; et, pour les rendre ridicules, il les commence par une phrase prise dans un chapitre, et les termine par une phrase prise dans un autre. Exemple : « Il était du nombre de ces hommes à œil fascinateur qu’une femme n’oublie jamais quand cet œil s’est fixé sur elle, et sa taille athlétique se dessinait en noir sur les nuées grisâtres qui couraient d’un horizon à l’autre. » Or, la première partie de cette période est au chap. I du 1er livre, p. 9, in-8o, et la seconde au chap. VI, p. 142, in-8o. Toutes les citations de M.G.... sont du même genre.</p></div>
+        <div><ref target="chap001.xhtml#re2">2</ref> <p>La loi était d’une telle rigueur qu’elle allait jusqu à dire : Que nul ne prie pour lui sous peine d’être suspecté aussi de félonie !</p></div>
+        <div><ref target="chap002.xhtml#re3">3</ref> <p>Kronyke Van Vlaenderen, t. 1. – Meyeri, ad ann. 1345. – Oudeghersf. – Froissard. – Anquetil.</p></div>
+        <div><ref target="chap002.xhtml#re4">4</ref> <p>Petite voiture de l’époque, à deux chevaux. – Power, Kings secret, t. 2.</p></div>
+        <div><ref target="chap002.xhtml#re5">5</ref> <p>Power, Kings secret, t. 1.</p></div>
+        <div><ref target="chap002.xhtml#re6">6</ref> <p>Fréron disait, en 1793, à Toulon : « Il n’y a ici de patriotes que les galériens ! » Et Dubois Crancé fit la proposition de ne regarder comme patriotes que ceux qui avaient mérité d’être pendus.</p></div>
+        <div><ref target="chap003.xhtml#re7">7</ref> <p>Voyez tous les historiens.</p></div>
+        <div><ref target="chap004.xhtml#re8">8</ref> <p>La reine d’Angleterre avait tenu sur les fonts de baptême Philippe Artevelle, fils de Jacque. – Gand sous Philippe Artevelle, par Aug. Voisin, p. 31.</p></div>
+        <div><ref target="chap004.xhtml#re9">9</ref> <p>Van Praët, Histoire de Flandre, t. 2, p. 73.</p></div>
+        <div><ref target="chap005.xhtml#re10">10</ref> <p>Aujourd’hui Saint-Bavon.</p></div>
+        <div><ref target="chap005.xhtml#re11">11</ref> <p>Le 17 juillet 1345.</p></div>
+        <div><ref target="chap005.xhtml#re12">12</ref> <p>Tous les détails de l’horrible catastrophe qu’on va lire sont d’une exacte vérité. Ils ont été puisés dans les vieilles chroniques du temps, et dans les diverses histoires de l’époque. – Voyez Meyeri, Ad ann. 1345. – Kronyke Van Vlaend. – Oudegherst. – Denys Sauvage. – Jean Petit, Chroniques de Hollande. – Butkins, Guerres de Brabant. – Lemire. – Divâeus. – Froissard. – Nangii, continuat. – Histoire de la Flandre, Van Praët, t. 2. – Histoire de la Belgique, t. 3. – Mézerai. – Daniel. – Velly. – Anquetil. – Levêque, la France sous les Valois, t. 1 , p. 489 , etc.</p></div>
+        <div><ref target="chap005.xhtml#re13">13</ref> <p>Van Praët, Histoire de Flandre, t. 1, p. 95.</p></div>
+        <div><ref target="chap005.xhtml#re14">14</ref> <p>La danse des sorciers : on appelait ainsi la mort d’un pendu.</p></div>
+        <div><ref target="chap005.xhtml#re15">15</ref> <p>Charles-Quint a rendu célèbre-un jeu de mots à peu près semblable. Il disait, dans son admiration pour la vaste étendue de la capitale flamande : « Je mettrais Paris dans mon gant. »</p></div>
+        <div><ref target="chap005.xhtml#re16">16</ref> <p>Où est actuellement le pont Saint-Georges.</p></div>
+        <div><ref target="chap005.xhtml#re17">17</ref> <p>Van Praët, Histoire de Flandre, t. 2, p. 40.</p></div>
+        <div><ref target="chap005.xhtml#re18">18</ref> <p>Voyez les auteurs cités au commencement du chapitre.</p></div>
+        <div><ref target="chap005.xhtml#re19">19</ref> <p>Histoire de Flandre, t. 2, p. 57 , et les auteurs déjà cités.</p></div>
+        <div><ref target="chap005.xhtml#re20">20</ref> <p>Meyeri, Ad ann. 1346. – Kronyke Van Vlaend., t. 2. – Oudegherst. – Hist. Flandre, t. 2 , p. 64.</p></div>
+        <div><ref target="chap005.xhtml#re21">21</ref> <p>Horribles bandes de brigands ainsi nommées.</p></div>
+        <div><ref target="chap005.xhtml#re22">22</ref> <p>Histoire de Flandre, t. 2, p. 73.</p></div>
+        <div><ref target="chap005.xhtml#re23">23</ref> <p>17 juillet 1345.</p></div>
+        <div><ref target="chap005.xhtml#re24">24</ref> <p>Froissard. – Mézerai. – Daniel. – Levesque, Histoire de France sous les Valois, t. 1 , p. 490. – Anquetil, t. 2, p. 323, et les auteurs déjà cités.</p></div>
+        <div><ref target="chap005.xhtml#re25">25</ref> <p>Histoire générale de la Belgique, par Dewes, t. 5, p. 178.</p></div>
+        <div><ref target="chap005.xhtml#re26">26</ref> <p>Voyez sur la vérité historique de celte horrible scène tous les auteurs cités à la première note de ce chapitre.</p></div>
+        <div><ref target="chap006.xhtml#re27">27</ref> <p>Espèce de fusil. Phlippe Artevelle avait. la passion des armes à feu de nouvelle invention. Il fit faire le fameux canon nommé la mer veille de Gand, dont il a été donné la description dans une note du chapitre 13 , t. 3, p. 103.</p></div>
+        <div><ref target="chap006.xhtml#re28">28</ref> <p>Louis de Male épousa Marguerite de Brabant, et le bonheur revint à la Flandre. Mais trente ans après la mort de Jacque Artevelle, le peuple, soulevé de rechef, recommença ses crimes passés. Philippe, à la tête d’une nouvelle révolution, reparut pour bouleverser le royaume. La France prit les armes, et fondit sur le successeur du Reward Jacque. De grands combats eurent lieu. Philippe périt enfin à la bataille de Rosebecque, le 29 novembre 1382, et y fut pendu à un arbre. Cette bataille, dit M. de Barante. sauva toute la noblesse du sort cruel qui la menaçait ; on pourrait ajouter : sauva l’ordre social, car les principes de l’usurpation, destructeurs de toute propriété, et ne s’appuyant que sur le droit de la force, ramène les peuples à la barbarie. (Voyez sur Philippe Artevelle : Hist. des ducs de Bourgogne, Barante, t. I. – Van Praët, Histoire de Flandre, t. 2.</p></div>
+      </div>
+    </body>
+    <back/>
+  </text>
+</TEI>

@@ -1,0 +1,672 @@
+<?xml version='1.0' encoding='UTF8'?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> Un enfant, tome 1 </title>
+        <author from="1801" key="" name="Desprez, Ernest" sex="male" to="1859"/>
+        <edition n=""/>
+        <editor name="Librairie de Charles Gosselin" where="Paris"/>
+      </titleStmt>
+      <publicationStmt>
+        <date type="created" when="1832"/>
+        <date type="issued" when="1832"/>
+      </publicationStmt>
+      <editionStmt>
+        <profileDesc tag="non-canon" type="genre">
+          <textClass>
+            <keywords/>
+          </textClass>
+        </profileDesc>
+      </editionStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docAuthor/>
+        <docTitle>
+          <titlePart main="Un enfant, tome 1"/>
+          <titlePart sub=""/>
+        </docTitle>
+      </titlePage>
+    </front>
+    <body>
+      <head> UN ENFANT. </head>
+      <p> I. </p>
+      <p> Imprimé par Everat , rue du Cadran, nº 16. </p>
+      <head> UN ENFANT, </head>
+      <p> PAR  ERNEST DESPREZ.  Tome Premier  PARIS.  LIBRAIRIE DE CHARLES GOSSELIN,  RUE SAINT-GERMAIN-DES-PRÉS, Nº 9. MDCCC XXXIII. </p>
+      <div title="UN ENFANT. Première Partie" type="part">
+        <head> UN ENFANT. </head>
+        <p> Première Partie. </p>
+        <div title="CHAPITRE PREMIER." type="chapter">
+          <head> CHAPITRE PREMIER. </head>
+          <p>DANS une maison de la rue Bourbon-Villeneuve, au troisième étage, vivaient, il y aura bientôt huit ans, une mère et sa fille, toutes deux sans fortune, mais non tout-à-fait pauvres. Veuve d’un officier de l’ancienne armée, madame Drouart avait obtenu du gouvernement d’alors un bureau de papier timbré, à l’aide duquel il lui était possible de fournir aux premières nécessités de la vie. D’ailleurs, le temps qu’elle ne passait pas au guichet de son bureau, elle l’employait, quoique infirme et déjà vieille, à des ouvrages de femme que lui donnaient à faire quelques généreuses personnes, ses protectrices. Le prix de ces travaux d’aiguille, joint à six cents francs environ, revenu du bureau de timbre, suffisait, comme on le pense bien, aux modestes besoins de madame Drouart, heureuse mère, si elle n’eût pas tant aimé sa fille! </p>
+          <p> L’avenir de Louise l’inquiétait; mais le présent surtout lui paraissait triste. Louise était jeune, jolie, et la pauvre femme pleurait en voyant sa Louise, sa fille si belle, seule, inconnue, sans plaisirs, condamnée à demeurer là, rêveuse, ennuyée, devant un piano à qui elle faisait soupirer de plaintives romances. Hélas! pensait madame Drouart, si du moins j’étais riche, ma Louise aurait des amies de son âge pour rire et jouer avec elle; ma Louise aurait des dentelles au bas de ses robes; je conduirais mon enfant au bal, au spectacle; je lui ferais une vie douce; je la mènerais dans le monde; les jeunes gens l’admireraient; on lui donnerait des fêtes; je serais fière de sa beauté, et elle, ma Louise, elle serait heureuse de m’avoir pour mère! </p>
+          <p> Dans son excès de tendresse pour sa fille, madame Drouart allait jusqu’à se reprocher son peu de fortune; elle s’accusait de n’être pas dans l’aisance; elle se regardait comme la cause des privations que subissait Louise. </p>
+          <p> Nous, qui écrivons ces pages, nous nous souvenons d’avoir entendu dire à madame Drouart elle-même que, si Louise n’avait pas de fortune, c’était la faute de sa mère, qui, depuis le jour de son mariage, aurait dû, à force de travail et d’économies, préparer une dot honorable à sa fille. </p>
+          <p> Car c’était là, sur toutes choses, le sujet des reproches que s’adressait madame Drouart: je suis pauvre, je n’ai rien amassé, comment pourrai-je marier ma Louise? </p>
+          <p> Il faut dire pourtant que Louise, en aucune circonstance, n’avait montré à sa mère le moindre regret de n’être pas riche. Si, au fond du cœur, elle désirait de se livrer aux amusemens de son âge et de son sexe, si elle comprenait sa position de jeune fille sans fortune, du moins ne laissait-elle jamais éclater ses désirs, et cachait-elle avec soin les pensées de coquetterie ou de tristesse dont elle nourrissait son imagination de dix-huit ans. Mais, par un besoin fatal de douleurs, besoin qui n’est guère senti que par l’ame de certaines femmes, plus Louise disait à sa mère: Rien ne me manque, je suis heureuse! plus la pauvre mère se disait avec désespoir: Elle manque de tout, elle est malheureuse! </p>
+          <p> Peut-être aussi la vive affliction de madame Drouart prenait-elle encore sa source ailleurs que dans ce besoin de larmes, commun à quelques personnes d’une organisation toute nerveuse; peut-être son désespoir avait-il pour seconde cause l’instinct maternel: car sa fille n’était vraiment pas heureuse. </p>
+          <p> Restée veuve, avec Louise en bas âge, madame Drouart, dont toutes les affections s’étaient concentrées sur ce petit être, trouva assez de courage dans son cœur pour accomplir le plus grand sacrifice dont une mère soit capable: sa séparation d’avec sa fille. Un frère de son mari, persuadé que l’instruction est un bienfait pour tous, quels que soient le rang et la fortune de l’enfant que l’on instruit, décida la veuve du capitaine Drouart à lui confier la petite Louise. De son côté, la malheureuse veuve, dans son ignorance des choses de la vie, crut assurer le bien-être de son enfant en lui faisant donner une éducation brillante. Aussi cette croyance adoucit-elle, pour la mère de Louise, le chagrin d’une séparation. Elle livra sa fille à l’oncle généreux qui voulait bien se charger de la faire instruire; elle la vit partir sans trop de regrets. Il le faut bien, disait-elle, puisqu’il s’agit de son bonheur! </p>
+          <p> La femme du beau-frère de madame Drouart tenait un pensionnat de demoiselles à Bordeaux. Ce fut dans ce pensionnat que Louise vécut quelques années, gaie, contente, aimée, et songeant à peine à sa mère qui pourtant la pleurait sans cesse. Mais Louise ne comprenait rien à cette douleur. Quand elle avait quitté sa mère, Louise était si jeune! </p>
+          <p> Il ne s’écoulait guère une semaine sans que madame Drouart écrivît à sa fille: «Chère enfant, je meurs de ton absence. Tu dois être bien grandie, ma Louise. Sois sage, fais-toi bien aimer de tout le monde. Remercie bien ta tante et ton oncle des soins qu’ils prennent de toi. Dis-leur que je leur en serai éternellement reconnaissante. Mon enfant, si tu savais ce que je souffre, privée de tes caresses! M. Darvin, l’ancien ami de ton père, me fait espérer que tu me seras bientôt rendue. Dieu le veuille! Ton pauvre père (te le rappelles-tu, ma Louise? Comme il pleurait en t’embrassant la dernière fois sur son lit!...) ton père était capitaine et chevalier de la Légion-d’Honneur, ma fille. M. Darvin doit faire valoir ces titres-là pour toi. Il dit que le ministre aura pitié de nous. J’attends chaque jour ta nomination à la maison royale des demoiselles de la Légion-d Honneur. C’est à Saint-Denis que tu serais, tout près de moi. Nous nous verrions souvent. Louise, Louise, ma chère petite fille, prie le bon Dieu qu’il nous accorde le bonheur de n’être plus séparées. Prie aussi pour M. Darvin: c’est un excellent homme et qui aimait bien ton père. Adieu, mon enfant: espérons.» </p>
+          <p> Les démarches du général Darvin eurent tout le succès qu’en attendait madame Drouart. Louise avait droit, par son père, à l’instruction gratuite de la maison de Saint-Denis; elle était dans l'âge et les conditions nécessaires pour être admise. Sa nomination fut promptement obtenue. Madame Drouart écrivit cette bonne nouvelle à son beau-frère. On lui rendit sa fille. </p>
+          <p> Figurez-vous, s’il est possible, la joie de madame Drouart en revoyant sa Louise. Retenue à Paris par la nécessité de servir elle-même son bureau de timbre (faute d’une amie ou même d’une domestique pour la remplacer durant son absence), il lui avait fallu vivre plusieurs années dans la solitude, se contenter d’une correspondance avec son enfant qui savait à peine écrire; il lui avait fallu rêver le bonheur au loin, et maintenant elle le possédait là, dans ses bras, sur sa bouche, dans son cœur, partout: elle tenait sa fille! </p>
+          <p> Mais il semble que plus les joies humaines sont grandes, moins elles doivent avoir de durée. La pauvre mère ne comptait pas huit jours depuis l’arrivée de Louise, que déjà l’instant d’une séparation nouvelle était venu. On se trouvait alors en octobre. Les vacances venaient de finir. Louise entra presque tout de suite dans la maison royale de Saint-Denis. </p>
+          <p> Toutefois, il y avait pour madame Drouart une compensation à l’absence de sa fille, dans cette pensée que Louise n’était pas loin d’elle, et aussi dans la permission qui lui était donnée d’embrasser son enfant deux fois par semaine. Puis à ces dédommagemens, dont la meilleure mère eût été satisfaite, se joignirent bientôt les succès de Louise dans les arts d’agrément comme dans les connaissances utiles. La nouvelle pensionnaire se faisait remarquer entre toutes ses compagnes par la douceur de son caractère autant que par son aptitude au travail. Chaque fois que madame Drouart demandait à la surintendante de la maison: Êtes-vous contente de ma fille? la surintendante lui faisait cette réponse: Oh, madame, votre Louise est un ange! </p>
+          <p> Six ans s’écoulèrent ainsi, Louise en pension, et madame Drouart passant à écrire à sa fille les heures libres de la journée où elle n’allait pas la voir. Dans ses lettres, de même que dans sa conversation, madame Drouart ne cachait pas à Louise la misère de leur position. Loin de la flatter d’un heureux avenir, elle lui répétait sans cesse: «Nous sommes pauvres, ma fille, très-pauvres. Je travaille pour vivre. Travaille à ton tour, ma Louise, et de toutes tes forces, afin de te faire un sort honorable par tes talens. Ce n’est qu’en profitant de l’éducation qu’on te donne que tu peux être assurée de ne jamais manquer de rien.» </p>
+          <p> Louise travaillait, non pas pour se préparer un sort indépendant, car elle ne comprenait pas encore la nécessité d’être laborieuse pour l’avenir, mais elle s’appliquait à tout avec ardeur par le vif désir qu’elle avait de briller parmi les jeunes filles de son âge, d’être la préférée, d’être la plus aimée comme elle était déjà la plus belle. Ne croyez pas que ce fût de l’orgueil, ou quelque mauvais sentiment de jalousie. Elle voulait être louée, admirée, par-dessus toutes; elle voulait être la première, la plus savante, non pour humilier ses rivales, mais parce que madame la surintendante l’embrassait sans cesse, parce que tout le monde s’empressait de lui faire bon accueil, parce que ses compagnes elles-mêmes la complimentaient sur ses talens, et que cela la rendait heureuse. </p>
+          <p> Madame Drouart ne remarqua pas sans chagrin l’avidité de sa fille pour tout ce qui était louange. Faute de bien lire dans le cœur de Louise, elle mit sur le compte d’une dangereuse vanité ce besoin excessif d’éloges, qui n’était au fond que le besoin d’une ame expansive et tendre qui demande des caresses parce qu’elle veut rendre des caresses, à qui il faut beaucoup d’amour parce qu’elle veut beaucoup aimer. </p>
+          <p> D’où il arriva que madame Drouart, dans la crainte d’encourager chez sa fille ce qu’elle croyait être un vice d’amour-propre, lui refusait souvent les louanges qu’elle méritait le mieux. Lorsque, par exemple, Louise, le cœur épanoui, la joie dans les yeux, accourait, parée d’une robe neuve, se montrer à sa mère, se jeter à son cou, et lui dire: Maman, comment me trouves-tu? n’est-ce pas que je suis bien? Madame Drouart, qui la trouvait la plus adorable des filles, lui répondait avec indifférence: Mais tu n’es pas trop mal! </p>
+          <p> Et elle se retenait pour ne pas l’embrasser, car ses baisers eussent trahi la froideur de ses paroles. Pauvre mère, qui, pour craindre d’exciter l’orgueil de sa fille, risquait de perdre son amour! </p>
+          <p> Sans mettre en doute la tendresse de sa mère, Louise ne pouvait cependant pas s’empêcher de faire cette réflexion: Ils m’aimaient autrement que cela dans la maison de Saint-Denis! </p>
+          <p> Le jour n’était pas loin où elle se dirait: J’étais plus heureuse que cela dans la maison de Saint-Denis. </p>
+          <p> Louise, ses dix-huit ans venus, avait dit adieu pour toujours aux douces intimités du pensionnat, aux enivrans triomphes de la classe. D’une vie bruyante et fêtée, elle passa tout à coup à une vie de solitude et de tristesse. Plus de ces joies que lui donnaient un premier prix ; plus de murmures flatteurs à ses oreilles; rien qui la rendît contente d’elle-même et des autres; rien qui la rendît bien aise de vivre. </p>
+          <p> Son horizon, élargi dans les vastes cours du pensionnat, se trouvait resserré entre quatre murs d’une misérable chambre. A ses rêves si jeunes et si frais succédait une réalité désespérante. Que vais-je devenir? se demandait-elle. </p>
+          <p> Malgré les avertissemens de sa mère, Louise n’avait jamais pu se figurer qu’au sortir de Saint-Denis elle habiterait la pauvre chambre de la rue Bourbon-Villeneuve. Ses idées glissaient là-dessus sans qu’elle osât jamais les y retenir. Elle se faisait un monde à elle, et bien que souvent elle fût venue chez sa mère, bien qu’elle y eût passé quelques mois de vacances, elle voyait la demeure maternelle à travers un brouillard d’illusions; elle rejetait dans un avenir vague, lointain, presque impossible, la nécessité d’arrêter là son existence. Ce qu’elle espérait, elle n’aurait peut-être pas su le dire elle-même; mais, à coup sûr, elle n’avait jamais compté au nombre de ses espérances celle de succéder à un bureau de timbre. </p>
+          <p> Telle était pourtant l’unique ressource que madame Drouart offrait en perspective à sa fille. Après bien des calculs, bien des rêves de fortune pour son enfant, madame Drouart s’était enfin aperçue que, elle aussi, elle avait vécu d’illusions. Louise ne possédait guère que des arts d’agrément; Louise était passablement instruite à la danse, à la musique, au dessin; elle savait un peu de géographie, un peu d’histoire; Louise n’ignorait rien de ce qu’étudient toutes les jeunes filles bien élevées; avec cela elle était belle; mais elle ne pouvait vivre de ce qu’elle avait appris; sa beauté devait rester inconnue faute de fortune pour la produire dans le monde. Enfin Louise n’avait ni état, ni dot. </p>
+          <p> De toutes les pauvres familles bourgeoises, pas une ne veut descendre aussi bas que sa misère; et il leur arrive à toutes, pour leurs enfans, ce qui arriva à madame Drouart pour sa fille. Par amour-propre plutôt que par tout autre sentiment, on veut à tout prix donner de l’éducation à ses enfans; on leur crée des besoins, on les exhausse à leurs propres yeux; et lorsque, sortis des pensions, ils cherchent à prendre place dans la société, ils ne trouvent que des places à vendre: celles qui se donnent sont trop basses pour eux: ils les refusent; celles qui se vendent, ils ne peuvent les acheter. De là des malheurs sans nombre pour les uns, et pour les autres des regrets éternels, mais inutiles. </p>
+          <p> Les inconvéniens qui résultaient pour Louise d’une éducation au dessus de sa fortune furent comme devinés par elle bien avant que sa mère ne les eût sentis. Louise n’habitait pas son troisième étage de la rue Bourbon-Villeneuve depuis plus d’une semaine, que déjà elle comparait le passé avec le présent, et s’attristait sur son avenir. Ce fut à la seule tristesse de Louise que madame Drouart dut l’intelligence tardive de la situation fausse où elle avait jeté sa fille. Elle vit bien que Louise, avec l’éducation des demoiselles de Saint-Denis, se trouverait déplacée dans une condition obscure; qu’elle ne pourrait épouser un homme riche, puisqu’elle n’avait pas de fortune, et qu’elle ne voudrait pas épouser un homme sans fortune, puisqu’elle-même elle ne possédait rien. C’est alors que madame Drouart se dit avec désespoir: J’ai fait le malheur de ma fille! </p>
+          <p> C’était là une affreuse pensée pour une mère. </p>
+          <p> Tous les jours et toutes les nuits madame Drouart, qui se sentait vieillir et mourir, se hâtait de chercher en elle-même comment il serait possible du moins d’assurer l’existence de Louise n’ayant plus de mère. </p>
+          <p> Une nuit que madame Drouart était plus malade que de coutume, il lui vint une pensée de bonheur, une pensée qui lui montra sa fille à l’abri de toute misère, et elle s’étonna que cette pensée lui fût venue si tard; et dans sa joie de l’avoir trouvée, dans son empressement à la dire, elle se souleva avec ses mains et murmura d’une voix basse: </p>
+          <p> —Louise, dors-tu? </p>
+          <p> —Non, maman! </p>
+          <p> Elle ne dort pas! pensa madame Drouart; malheureuse enfant! </p>
+          <p> —Pourquoi ne dors-tu pas, ma fille? </p>
+          <p> —Et toi, maman? serais-tu malade? </p>
+          <p> —Pas du tout, ma Louise; je me porte bien, très-bien. Je ne me suis jamais mieux portée que cette nuit. J’ai une bonne nouvelle à t’annoncer, ma fille, une excellente nouvelle pour toi. </p>
+          <p> —Excellente! dit Louise d’un ton qui marquait le doute. </p>
+          <p> —Une bonne nouvelle, ma Louise, ajouta madame Drouart avec un son de voix mal assuré, car le peu de confiance que Louise paraissait avoir dans «l’excellente nouvelle» commençait à la faire douter elle-même que cette nouvelle fût bonne. </p>
+          <p> —Eh bien! maman? dit Louise... </p>
+          <p> Après un moment d’hésitation, madame Drouart reprit: Ce n’est pas précisément une nouvelle que j’ai à t’annoncer, ma fille, mais une idée qui m’est venue et que je veux te soumettre. Tu m’as entendue parler quelquefois de M. Darvin? </p>
+          <p> —Oui, maman. </p>
+          <p> —C’est par lui, tu le sais, que j’ai obtenu mon bureau de timbre, et c’est encore grâce à sa protection que j’ai pu te faire élever gratuitement à Saint-Denis. Je t’ai dit bien souvent que ce bon général nous porte un grand intérêt, à cause de ton père qu’il a connu à l’armée et dont il était l’ami? </p>
+          <p> —Je sais cela, maman. </p>
+          <p> —Eh bien! ma fille, j’ai pensé tout à l’heure qu’à mon âge et dans notre position.... </p>
+          <p> Louise attentive s’accouda sur son lit. </p>
+          <p> —J’ai donc pensé, ma fille, continua madame Drouart, qu’à mon âge, il n’y a plus de temps à perdre lorsqu’on veut faire un sort à ses enfans... </p>
+          <p> Louise, tout agitée, se leva sur son séant. </p>
+          <p> —Et voilà pourquoi, reprit madame Drouart, demain, sans plus tarder, je te conduirai moi-même chez le général Darvin.... </p>
+          <p> —Chez le général Darvin! s’écria Louise avec un vif accent de joie. </p>
+          <p> —Oui, Louise, chez le général Darvin, cet ami de ton père; je le supplierai de parler au ministre pour toi, afin qu’on t’accorde, tout de suite, ou du moins que l’on t’assure pour l’avenir.... </p>
+          <p> —Quoi donc, maman? </p>
+          <p> —Mon bureau de timbre, ma fille, et le ministre y consentira, j’en suis certaine. Cela te mettra pour toujours à l’abri du besoin, quand je ne serai plus.... </p>
+          <p> Louise était retombée sur son lit. </p>
+          <p> —Qu’est-ce que tu en penses, ma fille?... </p>
+          <p> —Mais, maman... dit Louise avec un soupir. </p>
+          <p> Madame Drouart comprit cette réponse. Bientôt tout rentra dans le silence. </p>
+          <p> De la nuit entière madame Drouart ne put fermer l'œil. Louise ne dormit pas non plus. </p>
+          <p> Le jour venu, madame Drouart et Louise se levèrent presque en même temps. </p>
+          <p> Toutes deux étaient pâles, tristes, et toutes deux souriaient pour se cacher leur tristesse; cependant il fallait bien revenir sur la conversation de la nuit. Madame Drouart eut le courage d’en parler la première. </p>
+          <p> —Pourquoi ne m’as-tu pas répondu, ma fille, quand je t’ai demandé ce que tu penses de mon projet? Ne l’approuves-tu pas? Ne serais-tu pas contente d’avoir un jour ce dépôt de timbre? C’est peu de chose, mais enfin, tu le vois, avec de l’économie on en peut vivre.... </p>
+          <p> Louise baissait la tête. </p>
+          <p> —Ma fille, continua madame Drouart, ne me cache rien; tu souffres, tu es malheureuse!... </p>
+          <p> —Non, maman, non, au contraire, je suis heureuse, bien heureuse, répondit Louise, avec un triste sourire. </p>
+          <p> —Tu es donc bien heureuse? dit madame Drouart. Répète-moi cela, ma fille, répète-le-moi que tu es heureuse... </p>
+          <p> —Je t’assure que je le suis, ma bonne mère, murmura Louise avec effort. C’est plutôt toi qui souffres, qui es malheureuse.... </p>
+          <p> —Oh! non, ma fille, non, je ne souffre pas, rien ne m’afflige.... Au contraire, comme toi je suis heureuse, bien heureuse, soupira madame Drouart, d’une voix étouffée. </p>
+          <p> Et toutes deux, malgré elles, n’en pouvant plus, les pauvres femmes, elles se jetèrent dans les bras l’une de l’autre et se prirent à pleurer. </p>
+        </div>
+        <div title="CHAPITRE II." type="chapter">
+          <head> CHAPITRE II. </head>
+          <p> Il est deux heures de l’après-midi. Trois jeunes gens, étendus plutôt qu’assis sur leurs chaises, se laissent nonchalamment aller aux caprices d’une joyeuse humeur. L’un parle duel et il rit; l’autre parle religion et il rit; l’autre parle mariage et il rit plus fort que ses deux convives. </p>
+          <p> Tous trois ils viennent d’achever, au café de Paris, le premier repas du jour, le déjeûner paresseux que nous commençons à peine à l’heure où avaient dîné nos pères. </p>
+          <p> Sur la table à moitié dégarnie, on voit quelques bouteilles vides, quelques débris de dessert, un porc-épic armé de cure-dents et trois verres où les perles du champagne brillent encore. </p>
+          <p> C’est l’instant favorable aux folles confidences. Alfred jure ses grands dieux qu’il tuera le mari de sa maîtresse; Eugène dit qu’à la place d’Alfred il pourrait, lui, sans crainte de se battre jamais, prendre à témoin de son duel les grands dieux comme les petits, car il ne croit ni aux uns ni aux autres. Gustave approuve d’un «très-bien!» l’athéïsme d’Eugène, puis, tout en félicitant Alfred sur le choix de ses amours, il se moque des maris, il insulte à la vertu des femmes, et déclare, d’un ton moitié railleur et moitié grave, qu’après de longues recherches, ce qu’il a trouvé de plus solide et de plus agréable sous le ciel, c’est le vin de champagne et le célibat. </p>
+          <p> A cette boutade, Eugène se lève en riant et dit: Garçon, le journal des célibataires! </p>
+          <p> —Nous ne le recevons pas, monsieur. </p>
+          <p> —Mais ce journal n’a jamais existé, dit Alfred. </p>
+          <p> —Tant pis, dit Gustave. Le siècle qui produit tant de journaux inutiles devrait au moins penser à faire celui-là. </p>
+          <p> —Pardieu! Voilà une excellente idée! s’écrie Eugène en redoublant ses éclats de rire. </p>
+          <p> —Pourquoi non? répond Gustave. Penses-tu que la classe estimable et nombreuse des célibataires ne vaille pas bien la peine qu’un journal s’occupe spécialement d’elle? </p>
+          <p> —Et pour quel motif? demande Eugène. </p>
+          <p> —Pour la faire persévérer dans le célibat. </p>
+          <p> —Sérieusement? </p>
+          <p> —Très-sérieusement. </p>
+          <p> —Je ne savais pas que tu fusses l’ennemi si déclaré du mariage. </p>
+          <p> —Moi! Si je croyais jamais prendre femme, je me brûlerais à l’instant la cervelle. </p>
+          <p> —Prends garde, elle n’est déjà que trop échauffée: je vais te faire servir un calmant: garçon, les Petites-Affiches ! </p>
+          <p> —Oui, oui, plaisante... Une femme! Mais savez-vous ce que c’est qu’une femme, vous autres? </p>
+          <p> —C’est notre femme, notre maîtresse, notre tante, notre cousine, notre mère ou notre sœur, dit Eugène. </p>
+          <p> —Et notre grand’mère, dit Alfred. </p>
+          <p> —C’est un être faible, s’écria Gustave en s’échauffant par degrés, un être menteur, déraisonnable, capricieux, cruel, à qui de toutes les passions la plus ridicule, l’amour, fait méconnaître sans cesse les devoirs sacrés de mère et d’épouse. </p>
+          <p> —Laisse-nous donc tranquilles, reprit Eugène, les femmes sont charmantes! </p>
+          <p> —Charmantes! continua Gustave, tu es fort honnête. Charmantes pour toi, pour nous qui en faisons notre jouet et nos maîtresses; mais sont-elles charmantes, ces femmes, pour les maris qu’elles trompent? </p>
+          <p> —Tiens, tant pis, pourquoi y a-t-il des maris? dit nonchalamment Alfred. </p>
+          <p> —Eh! voilà justement ce que je blâme, ajouta Gustave en riant. Alfred a raison: pourquoi y a-t-il des maris? </p>
+          <p> Puis prenant tout à coup un air sérieux: Et vous voulez que moi, à mon âge, à trente ans, avec l’expérience que j’ai, après la vie que j’ai menée, vous voulez que j’aille follement donner à une femme mon nom pour qu’elle le prostitue; mon amitié pour s’en rire dans les bras d’un autre; ma fortune pour qu’elle la dissipe en frivolités; mon bonheur pour qu’elle le tue à plaisir et qu’elle s’en fasse un mérite aux yeux de son amant?... Non, je te jure, plutôt mille fois mourir garçon! </p>
+          <p> —Ah ça, mon pauvre Gustave, dit Eugène, es-tu bien sûr de n’être pas fou? Tu as bonne grâce à prêcher la réforme, toi qui es même encore, à l’heure où tu parles, l’amant de madame Jauches et de la comtesse de Serzelles. </p>
+          <p> —C’est précisément à cause de cela, répondit Gustave, que je ne me soucie pas du mariage. Je me regarderais comme le plus grand sot de la terre, si, sachant ce que je sais, faisant ce que je fais, je m’exposais de gaieté de cœur à devenir un monsieur Jauches et un comte de Serzelles. </p>
+          <p> —Je comprends. Mais avec tes nouveaux principes d’économie conjugale, comment oses-tu avoir pour maîtresses deux femmes mariées? </p>
+          <p> —Je les quitte dès demain. </p>
+          <p> —Par vertu? </p>
+          <p> —Par ce que tu voudras... Je ne les aime plus. Et puis, ajouta-t-il en souriant, je songe décidément à mener un nouveau genre de vie. </p>
+          <p> —Tu te moques, j’espère? </p>
+          <p> —C’est très-sérieux. La société telle qu’elle est me soulève le cœur de dégoût. Je n’y vois qu’oppression ou entraves. J’ai presque envie de me faire disciple de Saint-Simon. C’est un grand homme, qui a des idées fort justes et fort belles. </p>
+          <p> Alfred en se renversant faillit à culbuter la table qu’il frappait du bout de ses deux pieds; Eugène devint grave à force de surprise. Disciple de Saint-Simon! dit-il, et cela sans doute parce que tu veux être sûr de la fidélité de ta femme ou de ta maîtresse? Le procédé est tout-à-fait ingénieux. </p>
+          <p> —Raille tant qu’il te plaira, reprit Gustave, mais dans l’espèce de société que rêve le marquis il y aura d’excellentes choses. Le mariage sera libre; c’est-à-dire que l’on s’épouse si l’on veut, que l’on se sépare quand on veut.... </p>
+          <p> —Et que l’on est heureux, si l’on peut, interrompit Eugène. </p>
+          <p> —Il en est de même partout, ce me semble, continua Gustave. D’ailleurs, je ne suis encore disciple du marquis qu’en théorie, et peut-être ne pousserai-je pas plus loin l’amour du saint-simonisme. Mais, quoi qu’il arrive, je sympathiserai toujours, du fond du cœur, avec toute doctrine ou religion nouvelle qui nous offrirait les avantages de l’union matrimoniale, sans nous en imposer les inconvéniens. </p>
+          <p> —Le diable m’emporte, si tu n’extravagues pas, dit Eugène. </p>
+          <p> —Écoutons-le d’abord, fit observer Alfred. </p>
+          <p> —Me voilà saint-simonien, je suppose, dit Gustave. Une femme me plaît, je la prends; cette femme me donne un enfant, je la quitte. </p>
+          <p> —Après? </p>
+          <p> —Après?... Cette femme devient ce qu’elle veut, cela ne me regarde pas; je l’ai quittée, elle n’est plus ma femme. Mais j’ai un enfant. </p>
+          <p> —Tu as un enfant? </p>
+          <p> —Sans doute, et je n’ai plus de femme, voilà l’admirable. Le marquis seul comprend la nature. Quel est le but du mariage, mais je dis le but unique? D’avoir une femme, à ce que tu crois? Pas du tout: d’avoir un enfant. Mon enfant est à moi, et ma femme à qui veut la prendre. J’ai rempli le vœu de la nature: conçois-tu maintenant? </p>
+          <p> —A merveille, dit Eugène; mais, pour bien parler des choses, il faudrait les connaître; et je vois que tu ne sais pas un mot de saint-simonisme. Avant-hier au soir je me trouvais chez la Dest *** avec le marquis; il nous expliqua nettement ses vues de réorganisation sociale: comme première base de l’édifice, il pose l’abolition de l’héritage. Plus d’héritage, plus de liens de famille. Tout enfant appartient à la société. Il n’a pas plus de droits à exercer sur ses père et mère, que ses père et mère n’en ont à exercer sur lui, car, dans les idées de Saint-Simon, peu importe de savoir sur quel arbre ce fruit est venu: il tombe, la société le ramasse; s’il est gâté, c’est elle qui l’assainit; s’il est vert, c’est à elle de le faire mûrir. Ton enfant ne te regarde pas. </p>
+          <p> —Alors, dit Gustave, je n’épouserai pas la doctrine du marquis de Saint-Simon, je la croyais plus raisonnable. Mais, mon Dieu, personne ne trouvera-t-il, dans notre siècle inventif, le secret d’être père sans être mari? acheter un enfant par le mariage, c’est le payer trop cher. Qui rencontrerait un moyen de l’obtenir autrement ferait une admirable découverte. </p>
+          <p> —Voilà pourtant 5,800 et des années que ton admirable découverte est faite, dit Eugène. De tout temps il a existé des maîtresses. </p>
+          <p> —Je sais bien... mais quand on ne croit pas à la fidélité d’une femme légitime, peut-on croire à la fidélité d’une maîtresse? </p>
+          <p> —On l’enferme. </p>
+          <p> —Rappelle-toi ce qu’a dit Beaumarchais. </p>
+          <p> —En ce cas, on prend une petite fille sage, vertueuse... </p>
+          <p> —Pour maîtresse? </p>
+          <p> —Oui, et on lui dit: Mademoiselle, vous allez rester seule dans cette chambre pendant neuf mois... </p>
+          <p> Un long et bruyant éclat de rire coupa court à la phrase d’Eugène. C’était Alfred qui, les Petites Affiches en main, riait à gorge déployée. </p>
+          <p> Qu’est-ce qui lui prend donc? dit Gustave. </p>
+          <p> —Que peut-il trouver de drôle dans des annonces? se demanda Eugène. Un instant, Alfred, s’écria-t-il, ces Petites Affiches sont à moi. Je me souviens de les avoir demandées tout à l’heure au garçon. </p>
+          <p> Voyons, fais-nous partager ta bonne humeur, reprit Gustave. </p>
+          <p> Alfred se rapprocha de ses deux amis, et leur montrant du doigt la page du journal: lisez: Avis aux jeunes personnes sans fortune . </p>
+          <p> Eugène lut à haute voix: </p>
+          <div>
+            <p> AVIS AUX JEUNES PERSONNES SANS  FORTUNE. </p>
+            <p> « Un honnête homme de 40 à 45 ans environ, célibataire et rentier, veut faire le bonheur d’une personne du sexe. Il faut que cette personne soit saine de corps et d’esprit, jeune, sage, bien constituée et d’une figure agréable. Si on obtient de sa société les résultats qu’on en espère, on la renverra dans sa famille au bout d’un an, plus ou moins, avec une pension viagère de 1,200 livres. S’adresser, poste restante, à M. D. R. » </p>
+          </div>
+          <p> —C’est en effet assez original, dit Eugène après avoir lu, il doit y avoir quelque chose là dessous. Que signifie: «au bout d’un an, plus ou moins?» comprends-tu cela, Gustave? </p>
+          <p> Gustave s’apprêtait à répondre, lorsqu’Alfred dit: je vais vous expliquer ce mystère. C’est fort amusant. M. Denis Rouvrard, est un ancien avoué, vieux garçon. Ma famille le connaît beaucoup. Sa fortune est immense; et son plus grand chagrin c’est d’être riche et sans enfans. Il ne peut se faire à l’idée de laisser cent mille livres de rente à des collatéraux. Cela le tue. </p>
+          <p> —Je le crois bien, dit Gustave. </p>
+          <p> Alfred reprit: comme notre ami Gustave, M. Rouvrard voudrait avoir les bénéfices du mariage sans en subir les inconvéniens; il voudrait être père sans être mari. Et voici l’expédient qu’il a imaginé. </p>
+          <p> —Ah! ah! dit Gustave. </p>
+          <p> —Il demande quotidiennement une maîtresse par la voie des Petites Affiches . </p>
+          <p> —Et il n’en trouve pas une? dit Eugène. </p>
+          <p> —Si, ma foi! il lui en arrive trente au moins par jour. Mais les unes sont trop vieilles, les autres trop mal bâties, les autres trop laides, les autres trop sentimentales. </p>
+          <p> —Trop sentimentales! et c’est un obstacle? </p>
+          <p> —Le plus grand de tous, car alors la proposition de M. Rouvrard ne convient pas à la demoiselle. </p>
+          <p> —J’y suis. </p>
+          <p> —Tu n’y es pas le moins du monde, mon pauvre Eugène. Tu ne te doutes pas, je gage, de ce dont il s’agit. Lorsque le papa Rouvrard s’adresse, par malheur, à une sentimentale, la demoiselle lui répond: Monsieur, si je deviens mère, je n’abandonnerai jamais mon enfant. Et elle pleure. </p>
+          <p> —Elle pleure! </p>
+          <p> —Oui, mon cher, elle pleure. C’est très-drôle?... </p>
+          <p> —Très-drôle. Mais je t’assure que je m’en doutais. </p>
+          <p> —Attends, tu ne te doutes pas de celle-ci. Un beau matin, c’était l’an dernier, je crois, une cuisinière sans place, jeune et fort gentille, ma parole d’honneur, se présente chez notre homme; il lui fait ses conditions: elle accepte. 1,200 liv. de rente, c’était superbe pour une cuisinière. Bien, monsieur, lui dit-elle, je serai votre maîtresse, je vous donnerai un enfant, et, après, tout sera fini: je vous laisse le poupon et je m’en vais vivre tranquille avec mes rentes. Il est bon de vous dire que c’était la première fois que M. Rouvrard rencontrait une créature aussi accommodante. Le voilà enchanté. Au bout de quelques mois la cuisinière se trouve enceinte. Grande joie du père Rouvrard, grande joie de la cuisinière qui va mettre la main sur ses rentes. Tout le monde est heureux. Mais voici bien une autre histoire! Une fois accouchée, la cuisinière veut voir son enfant; on le lui montre; elle veut l’embrasser; on le lui laisse embrasser; on veut le lui ôter; elle ne veut plus. Mais, s’écrie Rouvrard, nous avons fait un marché!—Mais, dit la cuisinière, je suis mère de cet enfant!—Tu n’auras pas mes belles rentes, dit Rouvrard.—Qu’est-ce que cela me fait, dit la mère, j’aurai mon bel enfant... </p>
+          <p> Et il garda ses rentes, et la cuisinière garda son enfant. N’est-ce pas que c’est original? </p>
+          <p> —C’est tout naturel, dit Eugène. </p>
+          <p> —Certainement que c’est tout naturel, dit Gustave, mais à la place de M. Rouvrard j’eusse agi d’une tout autre manière. </p>
+          <p> —Sans doute, répliqua Alfred, mais convenez que cette femme est une créature très-romanesque. Qui diable aurait cru cela d’une cuisinière? M. Rouvrard en a presque fait une maladie. Ce qui ne l’empêche pas de continuer à faire insérer dans les Petites Affiches : </p>
+        </div>
+        <div title="CHAPITRE III." type="chapter">
+          <head> CHAPITRE III. </head>
+          <p> Louise et sa mère commençaient à se mieux comprendre: elles avaient pleuré ensemble. Elles s’étaient assurées, la mère, que sa fille avait l’ame souffrante; la fille, que sa mère n’était pas sans chagrin; et toutes deux, après la scène de larmes où nous les avons laissées, elles avaient pris la résolution secrète de se fortifier l’une par l’autre, de s’aimer, s’il était possible, plus tendrement encore. </p>
+          <p> Louise, dont l’ame était vive et passionnée, s’attacha, de toutes ses forces, à remplir ses devoirs de fille; elle entoura madame Drouart des soins les plus attentifs; elle se reprocha de l’avoir affligée trop long-temps par l’aspect de sa tristesse; elle s’abandonna aux douceurs de l’aimer, et s’étonna que ses illusions l’eussent conduite si souvent à désirer autre chose que les baisers de sa mère. Elle trouva de grandes délices dans ces baisers et dans cet amour. Il lui semblait enfin que c’était là le bonheur. </p>
+          <p> Si, par intervalle, sa jeune imagination lui traçait un délicieux tableau de bals et de fêtes où l’entraînait par la main un beau jeune homme, pâle, avec de grands yeux noirs qui la regardaient languissamment et lui faisaient battre le cœur, bientôt, repoussant cette image, elle courait, presque tremblante, se réfugier dans les bras de madame Drouart qui la baisait ardemment, qui la serrait contre elle, comme si elle eût deviné quelles étaient alors les pensées de sa fille. </p>
+          <p> Cependant madame Drouart allait s’affaiblissant de jour en jour. Déjà elle ne pouvait plus quitter la chambre, et les affaires du dehors, dont elle seule avait eu le soin jusqu’à cette heure, c’était Louise qui en portait toute la fatigue. L’ancienne élève de la maison royale s’était bien senti d’abord quelque répugnance à laisser là son piano pour fournir aux apprivisionnemens du ménage, mais cette répugnance fut promptement vaincue par le désir où elle était de prouver son dévouement à sa mère. Plus les courses étaient longues, plus elles étaient, par leur nature même, en désaccord avec les habitudes de Louise, plus la jeune fille montrait d’empressement à les faire. En vain, dans ses momens de bonne santé, madame Drouart voulait-elle descendre les trois étages, soit qu’il fallut jeter une lettre à la petite poste, acheter quelques écheveaux de fil chez la mercière, ou seulement dire un mot au portier de la maison; Louise s’y opposait de tout son pouvoir, et, plus leste que sa mère, elle quittait précipitamment la chambre, disant: Cela te fatiguerait, ma bonne maman; reste, reste, je reviens à la minute! </p>
+          <p> Quelle que fût la distance à parcourir, quelque emplette qu’elle eût à faire, à peine si Louise donnait à sa mère le temps de remarquer son absence. Madame Drouart l’en grondait quelquefois. </p>
+          <p> —Tu te feras du mal, ma fille, lui disait-elle, vois donc comme tu es essoufflée! Il faut mettre le temps à tout, ma Louise. Que doit-on penser en te voyant courir comme une petite folle dans les rues? </p>
+          <p> —C’est que, maman, je n’aime pas à rester long-temps dans la rue, surtout quand je porte un panier. Avec ce panier au bras, répondait Louise en baissant les yeux, tout le monde me regarde... </p>
+          <p> —On te regardera bien davantage si tu cours, ma fille. </p>
+          <p> —Mais, je ne cours pas, maman; seulement je me dépêche de rentrer à la maison, j’ai hâte de revenir près de toi. Je suis si contente près de toi, ma bonne mère! </p>
+          <p> —Chère enfant, s’écriait madame Drouart avec transport, va, Dieu te récompensera de tout le bonheur que tu me donnes! </p>
+          <p> Ainsi, Louise étouffant dans les bras de sa mère les faibles soupirs que lui arrachait encore les blessures de l’amour-propre, trompant les besoins de son jeune cœur à force d’amour filial, Louise retrouva peu à peu l’insouciante gaieté de son enfance. Sous les caresses de sa mère, les vives couleurs de son teint reparurent. Si elle se ressouvenait de sa mauvaise fortune, si elle lui donnait une larme, c’était passagèrement et de loin en loin; car d’habitude tout lui plaisait, tout lui agréait; elle se montrait satisfaite de tout; elle avait sur tous ses traits l’expression de bien-être. </p>
+          <p> La pauvre malade en reprenait elle-même une apparence de santé. Enfin, se disait-elle, voici ma Louise qui s’habitue à sa position; elle oublie ses rêves de grandeur; elle est raisonnable, mon enfant; elle ne s’afflige plus d’un mal qui est sans remède. </p>
+          <p> —Oh ma fille! lui disait souvent madame Drouart, que tu es belle quand tu souris! </p>
+          <p> C’était à ce propos seulement que madame Drouart lui avait dit: «que tu es belle!» Et pour montrer qu’elle était belle, et aussi parce qu’elle était heureuse, la jeune fille souriait sans cesse à sa bonne mère qui l’embrassait en pleurant de joie. </p>
+          <p> Autour de ces deux femmes tout respirait à présent un air de fête. Madame Drouart ne demandait plus qu’une chose à Dieu: de ne pas mourir avant d’avoir donné un époux, un soutien à sa fille. </p>
+          <p> Pour Louise et pour sa mère il y eut un mois tout entier de contentement et de calme. </p>
+          <p> Le mois qui suivit ne fut pas tout-à-fait aussi heureux. Louise semblait préoccupée. Souvent ses courses se prolongeaient au-delà du temps qu’elle y employait par le passé. </p>
+          <p> Madame Drouart lui en fit l’observation. </p>
+          <p> Louise prit la chose au sérieux, et, tout émue, elle s’écria: Mon Dieu, maman, est-ce ma faute si je ne peux pas courir? Vous m’aviez reproché d’être trop active, et maintenant vous me reprochez d’être trop lente! Je ne sais comment faire pour vous contenter; et puis croyez-vous donc que ce soit un si grand plaisir que de rester au milieu des rues quand on n’y a pas besoin? Je fais de mon mieux, et vous querellez encore! Comment voulez-vous que je rentre tout de suite, si par exemple je trouve à notre porte des embarras de voitures ou du bois que l’on décharge, comme cela m’arrive tous les jours? </p>
+          <p> —Ma Louise, répondait la bonne mère, peux-tu t’imaginer que j’ai eu l’intention de te faire de la peine? Comment peux-tu voir même l’apparence d’un reproche dans ce qui n’est qu’une simple observation, ou, si tu l’aimes mieux, une petite bouderie de mère qui gronde en souriant... </p>
+          <p> Puis après, madame Drouart se disait tout bas: je suis bien injuste! la pauvre enfant, elle ne s’amuse pas assez dans cette triste chambre pour que je lui envie les innocentes distractions qu’elle peut prendre au dehors! </p>
+          <p> Madame Drouart avait même fini par ne plus remarquer les heures où sa fille rentrait et sortait. Loin de trouver mauvais que Louise allât et vînt à sa fantaisie (puisque c’était sur Louise seule que pesaient tous les menus détails du ménage), madame Drouart craignait bien plutôt que sa fille ne se lassât d’être, en quelque sorte, la servante de la maison. Mais il ne lui paraissait pas que Louise prît en dégoût les charges de son humble fortune; et l’heureuse mère en remerciait ardemment le ciel. </p>
+          <p> Un soir où Louise était descendue pour faire quelque emplette dans le voisinage, madame Drouart se sentit assez sérieusement indisposée. La présence de Louise lui devint nécessaire. Louise cependant ne remontait pas. Madame Drouart attendit impatiemment. Lorsque Louise reparut, sa mère ne put s’empêcher de lui dire: </p>
+          <p> —Tu es restée bien long-temps absente, ma fille? </p>
+          <p> —Pas plus long-temps qu’hier, maman, répondit Louise avec une sorte de trouble. </p>
+          <p> —Hier, je n’y avais pas fait attention. Où as-tu donc été hier? </p>
+          <p> —Nulle part, maman. </p>
+          <p> —Nulle part! et d’où viens-tu? </p>
+          <p> —Tu le sais bien, de chez la mercière. Ces demoiselles n’en finissent jamais à vous servir. Il y en a une surtout qui est d’une gaucherie et d’une lenteur... </p>
+          <p> Madame Drouart, satisfaite de cette réponse, et comme repentante d’avoir parlé un peu brusquement à sa fille, lui tendit la main avec bonté. </p>
+          <p> Louise hésita d’abord à prendre la main qui lui était tendue; puis elle s’en saisit en tremblant. Dans ce moment, une larme tomba des yeux de Louise sur la main de sa mère. </p>
+          <p> Madame Drouart la regarda au visage. Puis se levant avec inquiétude pour la considérer de plus près: </p>
+          <p> —Louise, ma fille, qu’as-tu donc? grand Dieu! tu pleures! </p>
+          <p> —Oh! ce n’est rien, maman, ce n’est rien du tout... </p>
+          <p> —Je t’ai fait du chagrin, ma fille, pardonne-moi. J’étais si inquiète de ne pas te voir rentrer... </p>
+          <p> —Ce n’est pas cela, maman, je t’assure. C’est que j’ai mal à la tête. </p>
+          <p> —Chère enfant! s’écria madame Drouart. Et elle la fit asseoir sur ses genoux, comme au temps où elle était toute petite; et avec la paume de ses mains elle lui frottait doucement les tempes. </p>
+          <p> Louise laissait aller sa tête sur le sein de sa mère, qui, souffrante elle-même, ne s’occupait qu’à demander à Louise: Souffres-tu encore, ma fille? </p>
+          <p> —Oui, ma mère, encore, disait Louise. </p>
+          <p> Et la pauvre mère continuait à frotter les tempes de sa fille... Mais ce n’était pas à la tête que Louise avait mal. </p>
+        </div>
+        <div title="CHAPITRE IV." type="chapter">
+          <head> CHAPITRE IV. </head>
+          <p> Depuis un mois, ainsi que nous l’avons fait entendre plus haut, un changement graduel s’était opéré dans les habitudes de Louise. Elle soupirait de temps à autre, et de temps à autre elle retombait aussi dans ses anciennes rêveries. Quand elle était dehors, elle ne montrait plus le même empressement à rentrer; quand elle était dans la chambre, elle imaginait toujours quelque nouveau prétexte pour en sortir. </p>
+          <p> Madame Drouart, qui croyait sa fille entièrement résignée à son sort, qui l’avait vue gaie et contente plusieurs semaines de suite, madame Drouart, rassurée et confiante, ne s’était pas encore aperçue que l’humeur de Louise eût cessé d’être tout-à-fait la même. Il est vrai de dire que ce n’était pas cette tristesse morne dont Louise avait paru accablée, dès sa sortie de la pension. C’était moins quelque chose de morne que d’agité; moins de la tristesse que de l’inquiétude. </p>
+          <p> Louise, suivant une expression vulgaire, ne tenait plus en place. Elle allait de son piano à son dessin; de son dessin à la fenêtre; de la fenêtre à ses livres; mais elle n’allait plus aussi souvent à sa mère. </p>
+          <p> Cette inquiétude, ce malaise du corps, avaient pour cause des tourmens d’esprit qui ne pouvaient tarder à se révéler d’eux-mêmes, lorsqu’une circonstance presque futile vint brusquement les trahir. </p>
+          <p> Louise, assise à son piano, jouait, en s’accompagnant de la voix, un des airs les plus doux de Romagnesi; Madame Drouart, au fond d’un petit cabinet voisin, tout près de la porte d’entrée, là où elle avait établi le guichet de son dépôt de timbre, madame Drouart prêtait une oreille attentive aux accords de sa fille. Elle marquait la mesure du pied et de la tête, souriant et pensant que jamais ses économies n’avaient été mieux employées que le jour où elle acheta ce piano, pour en faire un présent à Louise. Ce jour était celui-là même qui vit Louise sortir de la maison royale de Saint-Denis. Dans le tumulte des sensations que ce souvenir réveillait en elle, madame Drouart se laissait entraîner à de douces et vagues pensées; elle se berçait de bonheur au son cadencé de la musique. Le cœur de la pauvre mère n’en pouvait plus; sa tête nageait dans l’ivresse, et cependant, fidèle à l’impulsion qui lui avait été donnée, son pied continuait à battre la mesure. </p>
+          <p> Tout à coup le piano jette un son bruyant et discordant comme si une main sans expérience en avait frappé maladroitement les touches. </p>
+          <p> Cela rappelle madame Drouart à elle-même: </p>
+          <p> —Qu’as-tu donc, ma fille? comme tu joues faux! </p>
+          <p> Louise ne répond pas. Madame Drouart écoute. Au son mourant du piano vient de succéder un son plus aigu; c’est le bruit d’une fenêtre qui s’ouvre doucement et qui crie. </p>
+          <p> Saisie d’un pressentiment inexplicable, madame Drouart se lève à la hâte; elle tremble sur ses jambes; ses lèvres sont pâles. Quel malheur nouveau la menace? </p>
+          <p> Elle pousse brusquement la porte de son cabinet. Louise est à la fenêtre. De la tête et de la main, elle fait signe à quelqu’un du dehors; le bruit de la rue l’a empêchée d’entendre les pas de sa mère. </p>
+          <p> Louise referme la fenêtre bien vite, se retourne et voit madame Drouart, les yeux ardens, qui l’interroge et l’accuse par l’expression sévère de tous les traits de sa face. Louise immobile de stupeur, le regard baissé, les mains pendantes, attend. </p>
+          <p> Madame Drouart court à la fenêtre. Louise fait un mouvement d’effroi, car elle a pensé que les pas précipités de sa mère venaient à elle. Après avoir regardé long-temps la rue, et les voitures qui la traversent, madame Drouart quitte la fenêtre et dit: Je ne vois personne! </p>
+          <p> Louise s’est laissée tomber sur une chaise; elle porte son mouchoir à sa figure; son œil inquiet suit les mouvemens de madame Drouart qui semble un peu plus calme. </p>
+          <p> Il se fait un long silence. </p>
+          <p> Louise le rompt la première: Mon Dieu, maman, je ne t’ai jamais vue comme cela! Qu’est-ce que tu as donc contre moi? Parce que j’ai ouvert cette fenêtre.... </p>
+          <p> —Pourquoi l’avez-vous ouverte? </p>
+          <p> —Si tu me parles toujours avec colère, je ne pourrai pas te répondre, d’abord! tu me fais peur. </p>
+          <p> La vérité est que Louise ne faisait cette réponse que pour se donner le temps d’en chercher une raisonnable à la demande que lui adressait sa mère. </p>
+          <p> —Eh bien! voyons, je ne suis pas fâchée. Parlons tranquillement, ma fille, et dis-moi pour quel motif tu as ouvert cette fenêtre. </p>
+          <p> —J’avais trop chaud. </p>
+          <p> —En hiver? Par le froid qu’il fait? </p>
+          <p> —Certainement, le froid.... Tu sais bien que le froid me fait monter le sang à la tête. J’ai cru que j’allais étouffer. </p>
+          <p> —Tu faisais des signes à quelqu’un avec la main! </p>
+          <p> —Des signes à quelqu’un, moi! Peux-tu croire des choses pareilles! </p>
+          <p> —Tu avais cependant la main étendue.... </p>
+          <p> —Pour voir si la neige ne tombait pas. </p>
+          <p> —Tu agitais la tête.... </p>
+          <p> —Parce que je toussais, je suis enrhumée. </p>
+          <p> Et Louise, autant pour se donner une contenance que pour faire voir à sa mère comment la tête remue lorsqu’on tousse, se mit à tousser de tous ses efforts, mais pas assez naturellement pour en imposer à sa mère sur son prétendu rhume. </p>
+          <p> —C’est bien, ma fille, très-bien, dit madame Drouart. Et plus inquiète que jamais, elle se rapprocha de la fenêtre pour chercher de nouveau dans la rue. </p>
+          <p> Un jeune homme, enveloppé d’un manteau, se tenait debout et immobile vis-à-vis de leur maison; il avait l'œil fixé sur leurs croisées. Lorsque madame Drouart se montra, le jeune homme se mit à marcher; au bout de cinquante pas, juste au moment où madame Drouart allait le perdre de vue, il détourna la tête, après quoi il disparut. </p>
+          <p> Madame Drouart resta long-temps, sans mot dire, la figure collée sur les vitres. Bientôt il lui sembla que le jeune homme au manteau reparaissait à la même place où elle avait cessé de l’apercevoir. Il avançait la tête avec précaution, tout au loin, serré contre le mur, et sans doute peu satisfait de ne retrouver aux vitres que la figure de madame Drouart, il se retira; puis elle ne le revit plus. </p>
+          <p> Louise continuait à tousser. Maman, dit-elle, en essayant de briser sa voix, nous n’avons pas de sirop à la maison. Veux-tu que j’en aille chercher? Je souffre horriblement de la poitrine. </p>
+          <p> Madame Drouart ne répondit rien. </p>
+          <p> —Veux-tu, maman? </p>
+          <p> —Non, ma fille, non, vous ne sortirez pas. </p>
+          <p> —Mais, maman, je souffre, je t’assure... Permets-moi de sortir. Je vais rentrer tout de suite. </p>
+          <p> Louise, en disant cela, s’était levée pour prendre quelque menue monnaie dans la commode, et elle était près de sortir. </p>
+          <p> Madame Drouart se jeta au devant d’elle. Louise, Louise, s’écria-t-elle, d’une voix déchirante, est-ce que tu veux me faire mourir! </p>
+          <p> —Mais, maman.... </p>
+          <p> —Pas un mot de plus, ma fille, vous me tueriez!... Viens, viens, lui dit-elle, en l’attirant doucement par la main, je veux que tu aies pitié de moi, mon enfant, je veux que tu m’aimes encore.... viens, ma fille. </p>
+          <p> Louise, le front bas, la figure pourpre de honte, se laisse entraîner, non sans quelque résistance, car elle ne sait en quel endroit sa mère veut la conduire. </p>
+          <p> —Assieds-toi là, ma fille. </p>
+          <p> Elle s’assit à côté d’un petit meuble où madame Drouart avait l’habitude de serrer ses papiers. C’était une espèce de secrétaire à forme antique; madame Drouart en ouvrit la porte cintrée qui, s’élevant en criant, se replia sur elle-même et se perdit dans les rainures. </p>
+          <p> Ce meuble, Louise ne se rappelait pas qu’il eût été ouvert depuis son retour de la pension. C’était, dans sa mémoire, un événement confus et lointain. Son imagination la reporta aux jours de son jeune âge. Elle se vit, toute petite, contemplant le vieux secrétaire avec admiration, et sautant de plaisir devant tous ses tiroirs où elle se souvenait bien d’avoir aperçu de l’or. </p>
+          <p> Aujourd’hui les tiroirs du vieux secrétaire ne contenaient plus que des papiers. </p>
+          <p> Ce retour de Louise aux naïves impressions de son enfance lui fit jeter un doux regard sur sa mère, qui pleurait en fouillant un énorme paquet de lettres toutes jaunies et tout usées. Louise se sentit émue; elle allait se jeter au cou de sa mère. </p>
+          <p> —Ma fille, dit madame Drouart, en lui tendant un papier cacheté d’une cire noire, lisez cela. </p>
+          <p> Madame Drouart cependant tournait le dos à sa fille, et sanglotait. Louise avait pris le papier d’une main tremblante; ses yeux étaient comme couverts d’un nuage. </p>
+          <p> —Mais, maman, s’écria-t-elle avec crainte, quel est donc ce papier que tu me donnes à lire? </p>
+          <p> Au même instant elle lut sur l’enveloppe «pour Louise». </p>
+          <p> —Pour moi!... murmura Louise, je ne connais pourtant pas cette écriture! </p>
+          <p> —Décachetez, ma fille, vous verrez qui vous écrit. </p>
+          <p> —Mais c’est cacheté de noir, maman! </p>
+          <p> Louise, dont tous les membres étaient agités d’une sorte de terreur, décacheta lentement la lettre; et quand à la fin elle l’eut ouverte, elle pouvait à peine en distinguer les mots, car elle pleurait. </p>
+          <p> Madame Drouart prit un siége qu’elle plaça tout à côté de Louise. Là, toutes deux, long-temps silencieuses, elles échangèrent de douloureux regards, la fille ne pouvant lire, la mère ne pouvant parler, tant leur poitrine était gonflée de larmes. </p>
+          <p> —Lis haut, ma fille, dit madame Drouart d’une voix presque éteinte, lis haut; je veux entendre. </p>
+          <p> Louise commença: </p>
+          <p> «O ma Louise, toi si bonne et si douce, toi qui viens de me caresser avec tes petites mains, toi que j’embrasse, que j’aime, que je quitte et que je ne reverrai plus, ma Louise, mon enfant, ma fille chérie, ne fais jamais pleurer ton excellente mère. </p>
+          <p> »Louise, tu as eu un frère qui nous a rendus bien malheureux ta mère et moi  [1]  ; que sa vie comme sa mort te restent toujours inconnues, mais surtout, ma fille, puisses-tu ne pas connaître ces vices du cœur qui font les mauvais enfans! </p>
+          <p> »Du jour où tu cesseras d’aimer ta mère, souviens-toi bien, Louise, que tu commenceras à n’être plus vertueuse. </p>
+          <p> »Mais, ma fille, tu seras sage, tu seras bonne, n’est-ce pas? Tu ne feras rien contre l’honneur, tu te souviendras que tu es seule l’appui, la joie, la fortune de ma pauvre femme. </p>
+          <p> »Console-la de ma mort, Louise, car ma mort va la laisser bien triste et bien malheureuse. </p>
+          <p> »Il faut donc que je vous quitte toutes deux! Le ciel l’a voulu. Oh! qu’il ne vous sépare jamais! Qu’est-ce que vous deviendriez l’une sans l’autre!... </p>
+          <p> »O ma fille, serre-toi de toutes tes forces contre ta mère; c’est ta meilleure amie, ton plus sûr guide. Serre-la bien fort dans tes petits bras, ma Louise; ne la quitte jamais, sois là, près d’elle, toujours pendant sa vie, et quand elle mourra, sois près d’elle encore, ainsi que vous êtes là toutes deux près de moi. Si tu savais quelle consolation on trouve, en mourant, à voir des êtres qui vous regrettent et qui aiment! </p>
+          <p> »Mais dans cette consolation, mon Dieu, qu’il y a donc aussi de tristesse! Je vais vous laisser, et je ne saurai plus où vous êtes, ce que vous faites, quel bonheur ou quel malheur vous arrive! je ne serai plus là pour partager le bonheur ou le malheur avec vous! </p>
+          <p> »Louise, j’ai voulu t’écrire pour te donner des conseils, pour te faire entendre ma voix lorsque tu seras grande et que tu seras capable de comprendre les avis de ton père. </p>
+          <p> »Cette lettre, ta mère doit te la remettre sitôt qu’elle te jugera assez raisonnable pour écouter avec fruit les paroles d’un mourant. </p>
+          <p> »Tu ne m’as pas connu, Louise, tu ne te rappelleras ni mes traits, ni ma mort; tu sauras par cette lettre seule que j’ai existé et que je t’aimais. En la lisant, ne te diras-tu pas quelquefois: Mon père, avant de mourir, a voulu me léguer un souvenir durable de sa tendresse; après m’avoir donné des baisers et des conseils à moi, toute petite, qui l’embrassais et l’écoutais sans le comprendre, il a voulu encore me laisser des baisers et des conseils pour quand je serai plus grande: et il m’a écrit ses conseils et son amour. C’était là un bon père! </p>
+          <p> »Oh, oui, ma fille, un bon père, crois-le bien. Comme je t’aurais aimée, caressée, pauvre petite! Mais aussi, ma fille, comme je t’aurais dit: Sois sage, sois pieuse, sois charitable, sois aimante, méfie-toi de tes passions, ne fais rien que tu ne puisses avouer à ta mère; aie confiance en elle, dis-lui tout, tout, ma fille; et si tu sens au fond du cœur quelque pensée que tu veuilles lui cacher, sois sûre que cette pensée est mauvaise. </p>
+          <p> »Mon enfant; je t’en supplie, rends ta mère bien heureuse. </p>
+          <p> »Elle est bonne, faible; tu lui restes seule au monde, elle te gâtera sans doute à force de baisers; et toi, pour prix de ses caresses, ne lui donneras-tu pas des sujets de peine? </p>
+          <p> »Au soin que je prends d’avance, à mon inquiétude sur son bonheur, juge combien je l’aime et combien elle est digne d’être aimée! </p>
+          <p> »Aime-la comme je l’aime, ma fille; aime-la de toute ton ame. Fais-lui oublier ses chagrins, allége-lui le fardeau de la solitude et de la vieillesse, fais-lui trouver la vie douce. </p>
+          <p> »Pauvres femmes, que je laisse toutes deux, l’une à trois ans, l’autre à quarante, toutes deux faibles, sans appui, sans fortune!.... Mon Dieu, ayez pitié d’elle! </p>
+          <p> »Ma fille, quand tu seras en âge de penser, conserve précieusement cette lettre comme souvenir de moi et aussi comme guide dans la vie. Pour toi, tout est là: ne rien cacher à ta mère, lui dire tes plus secrètes pensées, avoir la confiance la plus entière en elle et l’aimer. </p>
+          <p> »Quel que soit ton âge, lorsque ta mère te remettra cet écrit, ne le quitte plus: c’est tout ce qui te reste de ton père: il y a mis sa voix, son cœur, son dernier soupir. </p>
+          <p> Adieu, ma Louise, adieu, ma femme, adieu! Toi, ma Louise, je te confie le bonheur de ta mère; toi, ma femme, parle souvent de moi à notre chère petite fille.... Adieu pour jamais tout ce que j’aime!» </p>
+          <p> Il n’avait pas été possible à Louise de lire cette lettre sans s’interrompre vingt fois. A chaque instant la parole lui manquait; ses yeux n’y voyaient plus; elle était près de s’évanouir. Ce n’était pas sa mère qui pouvait lui donner du courage. La malheureuse veuve, elle-même, n’avait pas la force de contenir sa douleur. Pendant cette lecture, qui dura une heure au moins, madame Drouart ne fit rien autre chose que pousser des sanglots et se baisser pour prendre à terre la lettre que Louise, dans son accablement, laissait presque toujours échapper de ses mains. </p>
+          <p> Lorsqu’à la fin leurs yeux brûlans devinrent secs; lorsque leur poitrine n’eut plus que des soupirs, la mère et la fille étonnées, honteuses que leur douleur se tarît, se regardèrent avidement comme pour chercher dans les marques de leurs souffrances passées un nouvel aliment à des larmes. Mais elles ne trouvèrent sur le visage de l’une et de l’autre que les traces mornes d’un profond abattement. La nature épuisée leur refusait des larmes. </p>
+          <p> —Eh bien! ma fille, soupira madame Drouart, après une longue pause, n’as-tu donc rien à dire à ta mère? </p>
+          <p> Louise, pour toute réponse, leva une main tremblante, et, portant à ses lèvres la lettre de son père, elle la baisa. </p>
+          <p> Madame Drouart comprit ce geste. </p>
+          <p> —Va, ma bonne fille, lui dit-elle, je ne te demande rien maintenant, je suis sûre de ton cœur. Si tu as un secret, de toi-même bientôt tu viendras le confier à ta mère. N’est-ce pas, ma Louise, que tu n’auras bientôt plus de secret pour ta mère?.. </p>
+          <p> —Mais, maman, répondit Louise, je n’ai pas de secret, je t’assure... </p>
+          <p> On sonna. Madame Drouart passa dans son cabinet pour ouvrir. C’était quelqu’un, un premier venu, qui venait demander une feuille de papier timbré à 7 sous. </p>
+          <p> En rentrant dans la chambre, madame Drouart ne crut pas nécessaire de reprendre la conversation où elle l’avait laissée. </p>
+          <p> Quant à Louise, elle regardait timidement sa mère toutes les fois que celle-ci ne la regardait pas. </p>
+          <p> La journée fut silencieuse et triste. </p>
+          <p> Louise manifesta l’intention de se mettre au lit de bonne heure. Madame Drouart avait hâte aussi de se coucher. A huit heures, toutes deux, après s’être embrassées, se souhaitèrent un bon sommeil, et pourtant ni l’une ni l’autre ne se couchaient pour dormir. </p>
+          <p> Louise pria Dieu pour son père; ensuite elle pria Dieu et son père de lui donner le courage de vaincre son amour. </p>
+          <p> Il était minuit que Louise soupirait encore: C’est fini, c’est fini, je ne reverrai plus Gustave! non, mon père, non ma mère, je ne le reverrai plus! </p>
+          <p> Cependant madame Drouart, dans le calme de la nuit, avait repassé en sa mémoire la conduite de sa fille, et, plus que jamais certaine de connaître la nature du sentiment qui troublait le cœur de Louise, elle avait cherché par quel moyen elle pourrait arrêter cet amour dès les premiers pas. </p>
+          <p> Le remède trouvé, la guérison lui parut prompte et facile; mais on eût dit que les efforts de madame Drouart dussent être suivis d’un succès plus prompt et plus facile encore qu’elle ne l’avait espéré, car le lendemain matin Louise se leva avec la ferme résolution d’oublier Gustave. </p>
+        </div>
+        <div title="CHAPITRE V." type="chapter">
+          <head> CHAPITRE V. </head>
+          <p> Le vieux père Lamarre est un de ces portiers comme on en voit tant à Paris; veillant sur toutes choses aux intérêts de son propriétaire et aux siens; se colletant au besoin avec les locataires qui déménagent par les fenêtres pour économiser l’argent d’un terme; attestant le ciel et la terre que les cheminées de la maison ne fument jamais, même lorsque le temps change; refusant de louer à une vieille dame sous prétexte qu’elle a un perroquet et une chatte, et s’empressant de louer à un garçon, qui a deux chiens, dans l’espoir que madame Lamarre fera leurs chambres; professant le plus grand dédain pour les locataires qui achètent leur bois à la falourde, parce qu’il n’a pas un copeau par falourde, et qu’il aurait une bûche par chaque voie prise au chantier; estimant beaucoup les locataires qui font leurs provisions en gros; estimant plus encore ceux qui prennent en détail, pourvu qu’il soit chargé des achats; méprisant fort les locataires pour lesquels il ne s’emploie qu’à tirer le cordon; s’inclinant avec respect devant ceux qui lui font faire des courses, quelle que soit d’ailleurs la nature honnête ou déshonnête de ces courses; rampant avec les riches; insolent avec les pauvres; disant du mal de tous; indiscret en toute occasion, mais notamment lorsqu’on le paie pour se taire, Lamarre résume en sa personne les qualités et les vices de la presque totalité des portiers de la capitale. </p>
+          <p> Les habitans du premier étage disent, en parlant du père Lamarre: Lamarre, ou bien portier. </p>
+          <p> Ceux du second étage lui disent: père Lamarre. </p>
+          <p> Ceux des troisième, quatrième, cinquième, sixième et dernier étages l’appellent: monsieur Lamarre. </p>
+          <p> De locataire à portier, les relations de familiarité ou de politesse, à Paris, sont toujours en rapport avec la hauteur des étages. </p>
+          <p> Il faisait jour à peine. Lamarre, occupé à balayer la cour, murmurait entre ses dents:—Tiens, v’là la mère qui va chercher son lait à présent! La demoiselle aura attrapé quelque courbature! Quelles femmes que tout ce monde-là? Ça vous a des robes de mérinos, ça vous a des bureaux, des places du gouvernement, et ça vous fait ses commissions soi-même! On a bien raison de dire: s’il n’y avait que des femmes dans une maison, les pauvres portiers n’y gagneraient pas l’eau qu’ils boivent! </p>
+          <p> Le vieux portier continuait tout bas ses réflexions chagrines, lorsque la personne qui les avait excitées par sa présence, rentra, tenant à la main une petite tasse pleine de lait. </p>
+          <p> Au lieu de monter l’escalier, la locataire se dirigea du côté de Lamarre, tout au fond de la cour. </p>
+          <p> Lamarre, qui la voyait venir, ne crut pas devoir interrompre ses occupations de balayeur. Il chassait même avec plus de violence qu’auparavant l’eau boueuse amassée dans la cour. Quelques éclaboussures sautèrent jusqu’à la robe de l’aventureuse locataire. Elle s’arrêta pour éviter d’être inondée. </p>
+          <p> —Bonjour, monsieur Lamarre. </p>
+          <p> Lamarre ne fit pas semblant d’entendre. </p>
+          <p> —Je voudrais vous dire un mot, monsieur Lamarre. </p>
+          <p> —Qu’est-ce qui m’appelle? demanda Lamarre en levant la tête. </p>
+          <p> —C’est moi, monsieur Lamarre. J’ai à vous parler, s’il vous plaît. </p>
+          <p> Lamarre planta le haut bout de son balai sous son aisselle droite; et, ainsi appuyé, il avança la tête et tira le pied gauche en arrière, comme pour faire une révérence, mais, à la vérité, pour donner un peu d’équilibre à la pose de son corps. </p>
+          <p> —Ah! c’est vous, madame! Je vous présente mes respects. Il y a bien long-temps qu’on ne vous a vue descendre? Du reste, la santé est bonne, à ce que je vois? </p>
+          <p> —Voulez-vous entrer dans votre loge avec moi, monsieur Lamarre? j’aurais à vous entretenir d’une affaire importante... </p>
+          <p> Lamarre ôta sa casquette, jeta son balai dans un coin, s’essuya les mains avec son mouchoir, et, marchant à côté de madame Drouart jusqu’à la porte de sa loge, il la pria poliment d’entrer la première. </p>
+          <p> La conversation dura peu. Mais les résultats en avaient été satisfaisans pour tous deux, car ils se quittèrent en apparence fort contens l’un de l’autre. </p>
+          <p> Lamarre, debout sur la porte de sa loge, criait à madame Drouart qui montait les marches de l’escalier: Prenez garde de glisser, madame, l’escalier est humide, il faut bien vous tenir à la rampe... Ah! mon Dieu, et votre tasse que vous avez oubliée dans ma loge!... </p>
+          <p> Madame Drouart voulut redescendre pour chercher son lait, mais le bonhomme le lui monta, la priant de lui permettre de le porter, crainte d’accident, jusqu’au troisième étage. Madame Drouart ne put se refuser à tant d’obligeance, et, près de rentrer, elle dit à M. Lamarre, en le remerciant: </p>
+          <p> —Vous n’oublierez pas, monsieur Lamarre, que je compte pour la semaine prochaine, sans faute, sur votre demoiselle. </p>
+          <p> —Mais si madame l’aime mieux, le mois de ma fille commencera dès aujourd’hui? </p>
+          <p> —Non, non, la semaine prochaine seulement. J’ai mes raisons pour cela. </p>
+          <p> Le vieux portier s’inclina sans répondre. </p>
+          <p> Il faut bien, se dit madame Drouart, en ouvrant sa porte, il faut bien que j’aie le temps de préparer Louise à ce changement dans nos habitudes, surtout il ne faut pas qu’elle se doute le moins du monde que, dans tout ceci, j’ai pour unique dessein de lui ôter tous les moyens de sortir. </p>
+          <p> Dès le jour où Louise quitta la maison royale, madame Drouart aurait bien voulu prendre une femme de ménage; mais ses économies de sept à huit ans avaient été employées à l’achat d’un piano pour sa fille; la présence de Louise allait nécessiter une augmentation de dépenses; et quand toutes deux pourraient à peine vivre, devait-elle songer à s’imposer de nouvelles charges? C’eût été une folie alors; mais aujourd’hui, bien que les difficultés soient les mêmes, la circonstance commande impérieusement de les vaincre. </p>
+          <p> Madame Drouart est trop faible pour faire les courses de la maison; elle a été obligée d’en laisser le soin à Louise qui ne peut plus, sans péril, continuer à prendre cette peine. Une femme de ménage leur devient donc indispensable. </p>
+          <p> Madame Drouart ne se dissimule pas quel lourd fardeau cela est. Eh bien! elle seule le supportera. Elle retranchera sur son nécessaire, sur son sommeil; elle travaillera la nuit; au lieu du vin qu’elle buvait à ses repas, maintenant elle boira de l’eau. </p>
+          <p> Que lui font à elle, pauvre mère, tous ces sacrifices? Mais du moins que Louise ne s’aperçoive pas plus de la gêne où va les mettre un surcroît de dépenses, que du but où tend l’introduction d’une servante dans leur ménage! </p>
+          <p> Louise, en voyant rentrer sa mère, s’affligea de ce qu’elle s’était donné la peine de descendre.—Il pouvait t’arriver quelque accident en chemin, lui dit-elle. Tu es souffrante, malade, pourquoi ne m’as-tu pas avertie? je serais descendue. </p>
+          <p> Madame Drouart lui répondit que, l’ayant vue occupée à relire la lettre de son père, elle n’avait pas voulu la déranger d’une occupation aussi douce. </p>
+          <p> Louise, à ce souvenir, sourit tendrement à sa mère: </p>
+          <p> —Je ne peux pas me plaindre de la peine que tu viens de prendre pour moi, dit-elle, car mon père m’ordonne de te rendre heureuse; et un de tes grands bonheurs, n’est-ce pas, c’est de te fatiguer pour ta fille! </p>
+          <p> Cette réponse offrait à madame Drouart une ouverture toute naturelle pour faire entrer doucement Louise dans ses projets. Elle crut l’occasion propice, et elle la saisit. </p>
+          <p> —Sais-tu bien, ma fille, que c’est une fatigue horrible que celle dont je t’accable tous les jours? ne faire que monter et descendre ces trois étages. </p>
+          <p> —Ils ne sont pas hauts, maman. </p>
+          <p> —Pour quelqu’un qui les monterait une fois dans la journée, sans doute, mais pour toi qui ne fais pas autre chose du matin au soir, nos trois petits étages finissent par être bien rudes, ma fille. </p>
+          <p> —Bah! maman, quand on n’est pas riche, et surtout quand on est jeune... </p>
+          <p> —Eh bien! oui, ma fille, quand on est jeune... je ne sais pas trop, moi, s’il convient beaucoup à une jeune demoiselle de ton âge d’aller et de venir sans cesse... La place de notre sexe est dans une chambre et non dans l’escalier ou dans la rue. </p>
+          <p> Louise leva un regard inquiet sur sa mère. </p>
+          <p> —Qu’est-ce que tu en penses? D’ailleurs, fatigue, inconvenance même à part, ne vaudrait-il pas mieux que tu restasses à me tenir compagnie, à toucher de ton piano, à lire, à travailler enfin, que de passer ton temps au milieu de tous les détails pénibles d’un ménage? </p>
+          <p> —Mais, maman, nous ne sommes pas assez riches pour prendre une domestique, tu me l’as dit vingt fois. </p>
+          <p> —Une domestique, non; mais une femme au mois, quelqu’un pour faire le gros ouvrage... ce serait toujours un peu de fatigue que l’on t’épargnerait. Voyons, qu’en dis-tu? </p>
+          <p> —Si cela te plaît, maman, je ne demande pas mieux. </p>
+          <p> —Eh bien! nous en reparlerons, ma fille; j’y réfléchirai. </p>
+          <p> Madame Drouart, en voyant Louise se prêter à ses vues, avait été sur le point de lui avouer que c’était une chose arrangée d’avance, que dans huit jours la fille du portier les servirait en qualité de femme de ménage ; mais elle fut retenue dans cette confidence à faire précisément par la raison que cette confidence n’était pas déjà faite. Elle craignit que sa fille, surprise qu’on lui eût demandé son avis sur une affaire conclue, ne vint à deviner la cause secrète de cette conduite; et ce que madame Drouart redoutait encore plus que de paraître avoir agi de ruse, c’était d’éveiller les défiances de sa fille sur les résultats que la prudence maternelle lui conseillait d’obtenir. </p>
+          <p> Afin que Louise ne soupçonnât pas que la nécessité de prendre une femme de ménage avait été motivée par la scène de la veille (la scène de la fenêtre), madame Drouart était résolue à laisser sa fille descendre et monter, aller et venir pendant encore une semaine, comme elle avait coutume de la laisser faire les semaines précédentes. </p>
+          <p> Elle pensait aussi que l’impression faite sur Louise par la lettre de son père était trop récente et trop vive pour que de long-temps le cœur de la jeune fille fût accessible à des sentimens coupables. En cela, madame Drouart comprenait bien le cœur de son enfant. Nulle autre pensée qu’une pensée chaste et pure n’occupait cette ame toute pleine d’amour filial. </p>
+          <p> Louise, sans le savoir, n’avait donc plus que huit jours à elle.—Madame Drouart, qui ne l’ignorait point, jugea, avec raison, qu’elle pouvait, sans risques, lui permettre d’employer, à de petites courses dans le voisinage, la dernière semaine de sa liberté. </p>
+          <p> Dans l’après-midi de ce même jour, Louise, les yeux baissés, le pas rapide, sortit de la rue Saint-Denis pour entrer dans la rue Bourbon-Villeneuve; elle tenait à la main quelques rubans achetés dans une boutique voisine. Cependant un jeune homme fait retentir ses éperons à ses côtés, et Louise ne lève pas la tête. </p>
+          <p> —Mademoiselle... </p>
+          <p> Louise marche plus vite et ne répond rien. </p>
+          <p> Il la saisit par la robe. </p>
+          <p> —Louise, je vous supplie, écoutez-moi... </p>
+          <p> —Non, monsieur, dit-elle, en redoublant le pas, et toujours sans lever la tête. </p>
+          <p> —Si vous ne voulez pas m’entendre, daignez au moins lire cette lettre... </p>
+          <p> Il lui glissa dans la main un billet amoureux, mais Louise ouvrit les doigts pour le laisser tomber. Les rubans qu’elle tenait dans cette main lui échappèrent en même temps. </p>
+          <p> Le jeune homme, avec un geste de dépit, déchiqueta rudement, du talon de sa botte, l’épître parfumée qu’avait déjà flétrie la boue. Puis, serrant sous son gilet les rubans qu’il s’était empressé de ramasser d’abord, il dit, d’un ton moitié colère et moitié plaintif: </p>
+          <p> —Je ne vous ressemble pas, moi, tout ce qui vient de vous m’est précieux; je garderai ces rubans toute ma vie. </p>
+          <p> —Gardez-les, si cela vous plaît, répondit Louise, en maîtrisant un léger mouvement de joie auquel succéda un gros soupir. </p>
+          <p> —Louise! Louise! depuis hier comme vous avez changé? Ah! je le vois bien, vous ne m’aimez plus. </p>
+          <p> Elle continuait son chemin sans dire mot. Lui la côtoyait si près, que son bras touchait le bras de la jeune fille. </p>
+          <p> —Vous ne m’aimez plus, n’est-ce pas? Mais je suis bien fou! Vous ne m’avez seulement pas aimé une minute, j’en suis sûr! et pourtant, Louise, je voulais vous ouvrir mon cœur; hier, vous le savez, je voulais tout vous dire, les obstacles qui s’opposent... les moyens à prendre pour les surmonter, mes projets de bonheur avec vous, vous, ma Louise! Vous m’aviez promis de descendre, de venir, de m’écouter... Je vous ai attendue vainement, et aujourd’hui, dans la crainte de ne pas vous rencontrer, je vous avais écrit... car j’ai tant de choses à vous dire, tant de choses! </p>
+          <p> —Monsieur Gustave, répondit Louise avec émotion, je vous prie de me laisser; nous approchons de la maison, tous les voisins me connaissent: vous me compromettriez. </p>
+          <p> —Mais, quand vous reverrai-je? </p>
+          <p> —Jamais, monsieur. J’ai déjà trop fait que de vous écouter pendant un an et demi sans en parler à ma mère. Je ne suis plus en pension maintenant; vos motifs ne peuvent plus être les mêmes... S’il est vrai que vos vues soient honorables, vous savez où nous demeurons; ma mère vous répondra. Quant à moi, je ne vous reverrai plus seule. </p>
+          <p> —Louise, comment pouvez-vous douter?.. Louise, je vous en conjure ne me quittez pas ainsi. Entendez-moi... Ah! vous allez me rendre bien malheureux! </p>
+          <p> Le cœur de la pauvre fille était gonflé de tristesse; la violence qu’elle s’était faite pour tenir à Gustave un langage presque sévère s’apaisait en ce moment par des larmes.... Elle s’enfuit. </p>
+          <p> Toutefois, arrivée près de la porte de leur demeure, sur le point d’en franchir le seuil, elle eut assez de courage pour ne pas tourner la tête du côté de Gustave; elle trouva quelque satisfaction dans cette victoire, et comme elle s’en félicitait tout bas, la figure du père Lamarre lui sourit: </p>
+          <p> —Eh bien, mamzelle Louise, vous allez donc avoir une bonne, la semaine prochaine? </p>
+          <p> —Mais peut-être bien, monsieur Lamarre; je crois que c’est l’intention de maman. </p>
+          <p> —Oh! l’intention, mamzelle, l’intention est une chose déjà faite. Vous ne savez donc pas?... </p>
+          <p> Et là-dessus le père Lamarre se mit à conter comment madame Drouart était venue le trouver dès le matin pour conclure cette affaire. </p>
+          <p> —Madame votre maman, ajouta-t-il, donne à ma fille huit francs par mois pour faire ses petites commissions et son ménage. Vous ne vous en plaindrez pas, vous, mamzelle Louise, car c’est bien de la peine que cela vous épargne. Mais on dirait que je vous apprends une nouvelle? Oh! c’est sans doute une surprise agréable qu’elle a voulu vous faire, votre chère maman, elle est si bonne! </p>
+          <p> Louise, très-étonnée que sa mère lui eût présenté comme un projet ce qui était une affaire terminée dès le matin, pressentit la cause et le but de tout ce mystère; elle devint triste, soucieuse, et quand sa mère lui demanda les rubans qu’elle était allée acheter, elle répondit avec une certaine impatience: Je vais vous les donner ces rubans! </p>
+          <p> Mais tout à coup se souvenant que Gustave ne les lui avait pas rendus, elle rougit, balbutia, et, pour cacher son trouble, elle se mit à son piano. </p>
+          <p> Ce meuble était posé dans une encoignure de l’appartement, sur la gauche, un peu plus bas que la fenêtre, de façon à ce que Louise, penchant légèrement la tête en arrière, pût aisément voir dans la rue. </p>
+          <p> Madame Drouart vint s’appuyer au dos de la chaise de sa fille, comme pour entendre les accords de plus près. </p>
+          <p> Il arriva que Gustave, les yeux levés sur les vitres, approchait alors de sa bouche les rubans ravis à Louise; il espérait à chaque instant qu’elle laisserait tomber un regard sur lui. Au lieu d’elle, c’est sa mère. Il s’éloigne. </p>
+          <p> Madame Drouart a parfaitement reconnu le jeune homme de la veille; elle a également la certitude que ces rubans de soie rose qu’il baisait tout-à-l’heure, en cherchant leurs fenêtres, sont les rubans mêmes qu’a dû acheter sa fille. Louise les avait-elle perdus, les lui avait-il pris, les lui avait-elle donnés? Tout inquiète qu’elle est, madame Drouart n’ose éclaircir ce fait; d’ailleurs à quoi servirait une explication? Ne sait-elle pas le fatal secret de Louise? et puis, bientôt, toute rencontre entre ces deux jeunes gens ne deviendra-t-elle pas impossible? </p>
+          <p> Cependant la position du piano contre le mur, à côté de la croisée, lui semble un empêchement à ses projets; mais où reporter ce meuble? La chambre est si étroite! et encore n’est-il pas à craindre que Louise ne devine pour quelle raison sa mère a voulu changer le piano de place? </p>
+          <p> Un expédient se présente à l’esprit de madame Drouart. C’est cela même, se dit-elle, nous le poserons vis-à-vis de la fenêtre. </p>
+          <p> Mais elle veut en cela, comme en tout, ne pas avoir l’air de se méfier de sa fille; elle lui en parlera demain ou après, et c’est demain ou après seulement que Louise, son piano déplacé, ne pourra plus être distraite par les scènes de la rue. </p>
+          <p> En attendant, et sous prétexte de parler à sa mère, qui continue de se tenir debout derrière elle, Louise détourne la tête de temps à autre, mais toujours sur la gauche, du côté de la fenêtre.... Madame Drouart fait semblant de ne pas remarquer ce manége; elle réfléchit et mûrit son plan d’attaque. Louise n’aperçoit rien dans la rue; elle pense qu’elle ne verra sans doute plus Gustave, elle s’afflige de lui avoir parlé rudement, et elle pousse des soupirs. Madame Drouart qui remarque son émotion, s’applaudit des obstacles qu’elle va susciter enfin à ce fol amour, amour qui peut-être se serait éteint de lui-même à la longue, et que les précautions prises pour l’étouffer doivent rendre plus ardent et plus vivace encore. </p>
+        </div>
+        <div title="CHAPITRE VI." type="chapter">
+          <head> CHAPITRE VI. </head>
+          <p> Le vieux Lamarre, seul dans sa loge, calcule sur ses doigts la somme d’argent que ses locataires pourront lui donner pour ses étrennes, car le jour de l’an est proche.—15 fr. le premier étage; 10 fr. le second; 5 fr. le troisième; 3 fr. le quatrième; rien le cinquième; rien le sixième... </p>
+          <p> Le vieux portier hoche la tête. A moins, pense-t-il, que j’aie plus de 5 fr. au troisième étage, je ne sais pas comment j’y trouverai mon compte: il faut un bonnet à ma femme, une robe à ma fille; il me faut à moi une redingote, et dans tout cela, je ne vois que 33 francs d’étrennes!... Diable! mais voyons, peut-être aussi que je me trompe? au troisième, nous avons deux locataires: madame Drouart, d’abord, et ensuite monsieur Barreau. Monsieur Barreau me donne tous les ans 30 sous, madame Drouart me donne tous les ans 30 sous, total, 3 francs; 3 francs font 3 francs, c’est juste; mais puisque ma fille est femme de ménage chez madame Drouart, et que voici bientôt quinze jours qu’elle fait leurs commissions et leur dîner et leur lit et tout, à raison de 8 francs par mois, sans être nourrie, il me semble que ça change les affaires. Madame Drouart, au lieu de 30 sous, ne peut me donner, pour mes étrennes, moins de 3 francs; et puis la gratification qu’elle fera à ma fille, et puis ce qu’elle doit à ma femme pour ses complaisances... A combien tout cela peut-il monter? Nous avons dit 33 francs: mettons-en 40; 40, bien. Une redingote me coûtera 30 francs, un bonnet brodé, 10 francs, une robe, 10 francs; 30, 10 et 10 font 50; 50, j’en ai 40; reste 10 francs qui me manquent; mais, je suppose, le premier me donne 20 francs; le second... </p>
+          <p> Et Lamarre recommençait ses calculs, en ajoutant quelques francs de plus par chaque étage, afin de trouver la somme dont il a besoin. La porte de sa loge s’ouvre, un jeune homme entre. Lamarre s’embrouille dans ses comptes et dit avec humeur au nouveau venu: 50 et 30... ce n’est pas ici, monsieur! </p>
+          <p> —Je le sais bien, mais c’est ici le nº 16. </p>
+          <p> —Pour le nº 16, c’est la vérité, monsieur. </p>
+          <p> —Eh bien! voilà 10 francs. Pourriez-vous me donner sur cette maison les renseignemens que je cherche? </p>
+          <p> Lamarre ôte sa casquette, s’incline profondément et dit, en fourrant les 10 francs dans sa poche: Monsieur ne pouvait mieux s’adresser qu’à moi pour avoir des détails sur la maison: il y a vingt ans que j’en suis le portier avec ma femme; monsieur aura tous les éclaircissemens qu’il désire. Est-ce pour acheter la maison, que monsieur demande des renseignemens? Je serais bien aise d’avoir monsieur pour propriétaire, bien sûr, mais, si j’ose le dire à monsieur, je ne crois pas que la maison soit à vendre; du reste, c’est une belle maison, fort bien tenue et presque toute neuve, comme monsieur peut se donner la peine de le voir, dans la cour. </p>
+          <p> En disant cela, Lamarre ouvrait la porte de sa loge, comme pour dire au jeune homme: venez avec moi dans la cour; vous vous assurerez par vous-même que les murs intérieurs de la maison ont été nouvellement blanchis. Mais ce n’était pas là l’affaire de Gustave. Il fit comprendre au portier que la maison le touchait moins que les locataires, et que parmi ces locataires une seule famille occupait sa pensée. </p>
+          <p> —Savez-vous si mademoiselle Louise demeure toujours ici? </p>
+          <p> —Certainement, monsieur, qu’elle y demeure, la chère demoiselle, et avec sa mère encore, la brave et digne femme; deux personnes bien estimables, monsieur! </p>
+          <p> —On m’avait dit qu’elles étaient déménagées... ou malades. </p>
+          <p> —Oh! pas plus déménagées que malades, monsieur; c’est-à-dire, malades, entendons-nous. C’est ma fille qui fait leur ménage, et elle m’a conté que ces dames n’ont pas de ces santés... comme vous et moi, par exemple. Cependant, puisque monsieur les connaît, s’il veut monter leur rendre visite, je crois que ça leur fera plaisir; elles voient si peu de monde! </p>
+          <p> —Ah, elles voient peu de monde? </p>
+          <p> —Quand je dis peu de monde, c’est une façon de parler, comme monsieur le pense bien; car à cause de leur bureau de timbre, elles ne manquent pas de gens qui viennent toute la journée sonner chez elles; mais ces gens-là ne sont pas des amis, des connaissances; ça vient parce que ça manque de papier timbré, et puis c’est tout. </p>
+          <p> —Comment donc! elles tiennent un bureau de timbre? </p>
+          <p> —Sans doute, monsieur, un bureau qui a beaucoup de débit, quoiqu’au troisième étage; il est vrai que les étages de la maison sont coulantes et pas plus hautes que des entresols. Oh! c’est que la maison ici est fort agréable, monsieur! </p>
+          <p> Gustave laissa le vieux portier vanter de nouveau les avantages de sa maison, et, sans vouloir lui donner le temps de prouver que ses étages étaient les plus coulantes de tous les étages, et ses locataires les plus commodément logés de tous les locataires, il lui glissa dans la main deux autres pièces de cent sous en lui recommandant le secret sur sa visite: Vous ne direz pas à ces dames que je me suis informé d’elles. </p>
+          <p> —N’ayez pas peur, monsieur, je m’appelle Lamarre, et je n’ai jamais fait de rapports sur personne. Je suis censé ne vous avoir jamais vu; je ne vous connais pas; votre très-humble serviteur. Monsieur repassera-t-il bientôt par ici? </p>
+          <p> —Je ne sais, mais silence sur tout! </p>
+          <p> —Monsieur peut être sûr de ma discrétion. </p>
+          <p> Gustave, sorti de la maison, fut tenté de revenir sur ses pas pour demander au vieux Lamarre laquelle de Louise ou de sa mère tenait le bureau de timbre, mais il lui sembla que ce devait être tantôt l’une et tantôt l’autre. Cette découverte lui rendait facile une entrevue prochaine avec Louise; il s’applaudit du succès de sa démarche et ne se repentit point de n’avoir pas remis au portier, comme il en avait eu le dessein, une lettre à l’adresse de Louise; lettre qui, peut-être, fût tombée entre les mains de la mère et qui eût éloigné, par là, les chances possibles de revoir la fille. Maintenant, pensa-t-il, qu’ai-je à craindre? le bavardage de ce portier. Que m’importe? il ne sait rien, et moi, dès aujourd’hui, si je veux, je puis remettre moi-même un billet doux à Louise. </p>
+          <p> Cependant le vieux portier ne parlait encore de cette aventure que pour se dire: 40 francs d’étrennes et 20 francs que j’ai reçus du jeune homme: total 60 francs. Avec ça on peut se donner une redingote de bon drap, plus, un vol-au-vent et du vin cacheté pour faire les Rois. </p>
+        </div>
+        <div title="CHAPITRE VII." type="chapter">
+          <head> CHAPITRE VII. </head>
+          <p> Depuis près de deux semaines, mademoiselle Agathe remplit les fonctions de femme de ménage chez madame Drouart; mais c’est depuis dix-huit jours environ que le piano de Louise n’occupe plus l’espace accoutumé entre l’encoignure de la muraille et la fenêtre. Madame Drouart l’a fait enlever de cette place, d’où sa fille, assise, pouvait aisément voir dans la rue. Sous prétexte que la lumière, tombant de côté, est chose fatigante pour les yeux, madame Drouart, non sans peine, non sans faire de grands efforts pour ne pas se trahir, est parvenue à vaincre les résistances de Louise. La lutte a été longue, pénible de part et d’autre; mais enfin la victoire est restée à la mère. A présent le piano posé en face de la fenêtre, et avançant de quatre pieds, vers le milieu de la chambre, ne permet pas à la jeune fille d’apercevoir autre chose que le troisième étage des maisons situées vis-à-vis d’elle. </p>
+          <p> La rue lui est complètement interdite. Agathe, la fille du portier et leur femme de ménage, la supplée dans tous les petits soins dont elle seule était chargée auparavant. Agathe monte et descend autant de fois qu’il le faut dans la journée sans que jamais Louise ait la joie d’entendre sa mère lui accorder même la permission d’accompagner mademoiselle Agathe au dehors. </p>
+          <p> Il ne se passe pas de jour où Louise ne se plaigne de la lassitude d’être constamment assise. Mais madame Drouart ne fait pas semblant de la comprendre. Il est vrai, lui dit-elle, que la promenade serait favorable à ta santé, ma fille, mais, où voudrais-tu aller l’hiver, par le temps qu’il fait? Prends patience, mon enfant, l’été prochain nous serons moins sédentaires et je te conduirai moi-même tous les matins sous les arbres des Tuileries. </p>
+          <p> —Mais, maman, si je sortais seulement une ou deux fois par semaine, avec mademoiselle Agathe, demande Louise en rougissant, quel mal y aurait-il à cela? </p>
+          <p> A cette question que sa fille hasarde quelquefois, madame Drouart fait éternellement la même réponse: Agathe n’est pas ici pour perdre son temps à se promener avec toi; elle a bien assez des fatigues que lui donne notre ménage. </p>
+          <p> Bientôt Louise cesse d’importuner sa mère pour sortir; elle sent que c’est un parti pris d’avance. Elle se dit malheureuse et accuse madame Drouart d’injustice. Une pâle tristesse remplace les couleurs animées de son teint; elle mange à peine, elle pleure souvent; lorsque sa mère veut l’embrasser, elle détourne la tête. </p>
+          <p> Madame Drouart, forte des devoirs que lui impose l’amour maternel, persuadée que les précautions dont elle use doivent tourner à l’avantage de sa fille, se raidit contre la douleur de Louise et laisse au temps le soin de la calmer. </p>
+          <p> Louise, à son tour, convaincue que sa mère la traite moins en fille qu’en esclave, aigrie par la solitude où on la condamne, tourmentée par les secrets de son cœur, n’ayant personne à qui les confier, ne trouvant autour d’elle que privations et sujets d’ennui, assurée en outre que sa mère est injuste, cruelle même à son égard, Louise désire plus que jamais de revoir Gustave. </p>
+          <p> Durant la semaine entière qui a précédé l’entrée de mademoiselle Agathe, Louise, à peu près libre de son temps, s’est rencontrée parfois au dehors avec Gustave; elle lui a constamment parlé avec froideur, quoiqu’elle sût bien que leurs entrevues allaient cesser. Mais, par la réserve de son maintien, elle espérait le contraindre à déclarer ses intentions, à les faire connaître à sa mère. Elle pensait que, jusqu’à l’entier aplanissement des obstacles secrets qui s’opposent encore à une demande formelle en mariage, il lui serait possible du moins d’apercevoir Gustave par la fenêtre; et voilà que maintenant elle ignore si Gustave n’a pas été découragé par sa froideur; voilà qu’elle ne peut plus même lui faire signe des yeux qu’elle l’aime et qu’elle l’attend! elle s’en désole. </p>
+          <p> Cependant madame Drouart commence à prendre de l’inquiétude: Louise l’a devinée. La pauvre mère s’en est aperçue à quelques demi-mots dits d’un ton brusque par sa fille. Une petite pierre, lancée contre les vitres, et venue on ne sait d’où, lui a suggéré des observations auxquelles Louise a répondu avec humeur: «Pourquoi ne fait-on pas boucher les fenêtres? on n’aurait plus rien à craindre!» </p>
+          <p> A l’occasion de cette petite scène, madame Drouart a changé son plan de conduite; elle veut chasser de l’esprit de sa fille toute pensée de méfiance; elle ne veut pas avoir paru douter que Louise pût se bien conduire, à moins d’être surveillée de près. Les conséquence de ce doute sur le cœur de sa fille l’effraient; elle donnera à Louise toute liberté d’agir ce jour-là. Alors, se dit-elle, la malheureuse enfant ne croira plus que je la force à rester près de moi, parce que je ne n’ai pas de confiance en elle. Si, après l’aventure de tout à l’heure, si, malgré cette pierre lancée aux vitres, je lui permets de sortir seule, si je l’envoie faire quelque course dans le voisinage, elle n’aura plus de motif pour soupçonner mes craintes; son pauvre cœur en prendra quelque repos. </p>
+          <p> D’ailleurs, continua madame Drouart pensive, n’est-il pas possible que cette pierre tombée du toit, ait été poussée jusqu’ici par le vent; et si c’est le vent qui nous l’a envoyée, qu’ai-je à redouter? Après tout, ce jeune homme ne doit-il pas être las de chercher Louise dans les rues, et cela depuis quinze jours, sans la rencontrer nulle part? Devine-t-il que Louise va descendre à l’instant même, et se tient-il à notre porte exprès pour la voir et lui parler? </p>
+          <p> Heureuse d’avoir trouvé dans ces réflexions un prétexte pour dissiper les ennuis de sa fille, madame Drouart se disposait à envoyer Louise en course, lorsque mademoiselle Agathe, qui elle-même venait de la rue, rentra, et dit qu’un jeune homme (dont elle oublia de dépeindre le physique et le costume) avait été surpris par elle, jetant de petites pierres aux vitres de la maison. Elle ajouta que ces mêmes petites pierres étaient enveloppées dans un billet. </p>
+          <p> Peut-être ce billet, ainsi lancé, s’adressait-il aux fenêtres voisines; peut-être encore n’y avait-il qu’une pierre et pas de billet; peut-être même (et ceci est fort croyable), le jeune homme, surpris dans cette occupation par mademoiselle Agathe, n’était-il pas Gustave. </p>
+          <p> Quoi qu’il en soit, Louise pense à Gustave, et elle rougit. Madame Drouart pense à son jeune homme au manteau, et elle va redoubler de surveillance. Mademoiselle Agathe, qui pense à ses amours, se met à rire. </p>
+          <p> Dans la soirée, mademoiselle Agathe apprit de son père qu’un jeune homme très-élégant était venu prendre des informations sur madame Drouart et sa fille; elle apprit encore que ce jeune homme avait donné quatre pièces de cent sous au père Lamarre, afin qu’il lui gardât le secret de sa visite. Le lendemain Louise était au courant de cette aventure, et madame Drouart n’en ignorait pas les plus minutieux détails: mademoiselle Agathe avait parlé. Madame Drouart voulut aussi que le vieux portier s’expliquât. Après force excuses, et très-peu d’hésitation, Lamarre convint de tout, excepté d’avoir reçu vingt francs. </p>
+          <p> Louise, certaine de n’avoir pas été oubliée par Gustave, ne put si bien dissimuler son émotion, sa joie, que madame Drouart n’en conçût des alarmes plus vives encore que par le passé; elle comprit que cet amour était trop profondément entré au cœur de sa fille pour céder à de petites ruses, et, en dépit de ses résolutions premières, elle se décida à l’attaquer en face. </p>
+          <p> —Ma fille, dit-elle à Louise, il faut bien que je t’interroge puisque tu t’obstines à ne pas prendre ta mère pour confidente... Tu as un secret, tu te caches de moi; à quoi bon? Penses-tu que je n’aie pas lu dans ton ame Louise, mon enfant, veux-tu me répondre avec franchise? </p>
+          <p> Louise toute troublée n’osait envisager sa mère. </p>
+          <p> —Regarde-moi, ma fille, et avoue-moi tout: je ne te gronderai pas. J’ai été jeune comme toi; comme à toi l’on m’a dit de ces choses qu’on dit à toutes les femmes de ton âge; je sais combien notre faible sexe est facile à tromper, combien il se laisse aisément aller aux flatteries... Toi, tu es si bonne, ma Louise, si naïve, si confiante, que tu ne peux pas soupçonner le mensonge... Un jeune homme nous voit, il nous fait mille promesses, mille sermens de fidélité et d’amour, et nous, nous, malheureuses femmes, nous sommes quelquefois assez crédules pour nous confier à ces promesses, à cet amour. Ma Louise, je t’en prie... </p>
+          <p> Et tenant dans ses deux mains les deux mains de sa fille, assise vis-à-vis d’elle, madame Drouart attirait doucement le corps de Louise qui tremblait. </p>
+          <p> —Ma fille, regarde-moi donc, je t’en conjure... écoute bien: ce ne sont pas des reproches que je veux te faire; tu t’es cachée de moi, je ne m’en souviendrai plus: mais dis-moi seulement, ma Louise, dis-moi son nom, dis-moi où tu l’as vu, dis-moi quel est cet homme, et s’il est vrai que tu l’aimes... </p>
+          <p> Louise éclata en sanglots. </p>
+          <p> —Tu l’aimes donc, ma pauvre fille? </p>
+          <p> —Oui, maman! </p>
+          <p> Et tandis que leurs deux fronts brûlans penchaient l’un sur l’autre, des larmes tombaient en abondance sur leurs mains étroitement unies. </p>
+          <p> —Son nom, ma fille? </p>
+          <p> Louise hésita long-temps. </p>
+          <p> —Gustave, dit-elle enfin. </p>
+          <p> —Gustave! Mais son nom de famille? </p>
+          <p> —Je ne le lui ai jamais demandé, maman; pourtant je crois que c’est le même nom que sa cousine: Charrière. </p>
+          <p> —Et où l’as-tu vu? d’où le connais-tu? </p>
+          <p> —Oh! maman, il y a bien long-temps pour la première fois! c’est à la maison royale... Constance, sa cousine, me remettait ses lettres. </p>
+          <p> —Des lettres! il t’écrivait? </p>
+          <p> —Je t’assure que je ne les lisais pas... beaucoup; je les déchirais presque tout de suite. </p>
+          <p> Il y avait dans l’attitude de madame Drouart plus de douleur que de colère, moins de colère encore que de surprise. </p>
+          <p> —Des lettres! reprit-elle, et depuis ta sortie de pension, depuis que tu es chez ta mère, est-ce qu’il a osé t’écrire? </p>
+          <p> Louise entraînée, sans savoir comment, à faire la confidence de son amour, aurait bien voulu revenir sur ses pas, mais elle s’était trop avancée pour ne pas poursuivre. </p>
+          <p> —Il m’a écrit, dit-elle d’une voix basse et honteuse, il m’a écrit, mais je n’ai pas voulu recevoir son billet. </p>
+          <p> —Bien sûr, ma fille? </p>
+          <p> —Oh! bien sûr, maman! </p>
+          <p> Le regard de Louise et le ton de ses paroles témoignèrent de sa sincérité. Alors madame Drouart exigea une confession tout entière; elle voulut entrer dans les plus petits détails de cette passion, la prendre à son origine pour ne la quitter que dans ses derniers résultats. </p>
+          <p> Louise déguisa bien des choses, et cependant madame Drouart fut à peu près instruite de ce qu’elle souhaitait de connaître le plus. Louise lui conta que l’année d’avant sa sortie de la maison royale avait vu le commencement de ses amours avec Gustave; que c’était à une distribution de prix, madame Drouart elle-même présente; que Gustave lui avait fait donner un billet par Constance, qui en riait beaucoup; que bien souvent, lorsque madame Drouart venait la demander au parloir, le dimanche, Gustave se trouvait là avec la mère de Constance; que le hasard seul lui avait fait rencontrer ce jeune homme dans la rue, un mois après être sortie de pension; enfin, qu’elle songeait si peu à faire un mystère de tout cela, que madame Drouart pouvait se souvenir de lui avoir entendu parler, à diverses fois, de son amie Constance et de Gustave son cousin, fils d’un agent de change ou d’un banquier. </p>
+          <p> Madame Drouart convint en effet d’avoir entendu citer ces deux noms par sa fille, mais sans y attacher la moindre importance. Puis elle ajouta: </p>
+          <p> —C’est le fils d’un agent de change, ou d’un banquier, dis-tu? Malheureuse enfant, et comment peux-tu croire qu’un jeune homme riche, comme doit l’être ce monsieur Gustave, songe sérieusement à t’épouser, toi sans fortune et presque sans famille? Va, ma Louise, lorsque ma tendresse s’alarme, sois persuadée que ce n’est pas sans raison. A ton âge, on se nourrit le cœur d’illusions: on ne sait pas combien de jeunes gens riches se plaisent à tourner la tête d’une faible fille pour occuper un temps dont ils ne savent que faire; combien d’autres peuvent aimer sincèrement qui cependant ne songent pas à prendre pour femmes les jeunes folles qu’ils aiment. </p>
+          <p> Louise s’agitait sur sa chaise. </p>
+          <p> Madame Drouart recueillit ses forces pour donner à sa voix, comme à sa figure, l’expression de dignité calme qu’elle jugeait propre à faire quelque effet sur sa fille. Elle lui traça un effrayant tableau des misères auxquelles l’amour expose leur sexe; elle présenta les hommes, surtout les jeunes gens des grandes villes, comme capables de fouler aux pieds tous les devoirs, toutes les vertus, pour satisfaire un caprice, pour prendre un plaisir d’une minute; elle les montra lâches, cruels, se vantant des malheurs d’une faible femme, ainsi qu’ils se vanteraient d’une bonne action; mettant toute leur joie, tout leur orgueil à perdre la jeune fille qui leur a donné son cœur. </p>
+          <p> Louise entendit ces paroles avec une visible impatience. Elle n’ignorait pas pour quelle raison sa mère lui tenait ce langage; et plus madame Drouart chargeait le tableau pour le lui rendre odieux, plus Louise se disait tristement: Elle me parle ainsi parce qu’elle ne veut pas que je l’aime! </p>
+          <p> Madame Drouart quitta les généralités pour s’attaquer de nouveau et spécialement à Gustave.—Quel est ce jeune homme? demanda-t-elle. Fils d’un banquier, qu’importe? S’il avait des vues honorables, à qui se serait-il adressé d’abord, à toi ou à ta mère?... Il est rare, bien rare, ma fille, qu’un honnête homme écrive secrètement à celle qu’il veut épouser. D’ailleurs, ces lettres, tu en es convenue, sa cousine te les remettait en riant. Elle savait donc, cette cousine, que, pour M. Gustave, une lettre d’amour était chose peu importante et que toi tu ne devais pas prendre au sérieux... Et puis, c’est le hasard, m’as-tu dit encore, qui a renouvelé votre connaissance; tu l’as rencontré au milieu de la rue un mois après ta sortie de la maison royale?... je le veux bien. Mais lorsque le hasard te l’a fait retrouver, pensait-il à toi, et venait-il chez ta mère? Non, sans doute. </p>
+          <p> —Il ne pouvait pas deviner où nous demeurons, d’autant mieux que Constance est partie pour la Suisse avec sa famille. Autrement il lui aurait demandé de mes nouvelles: il me l’a dit. Il a été assez contrarié du départ de Constance!... </p>
+          <p> —Soit, mon enfant; mais qu’est-ce que cela prouve? Sa conduite dit-elle qu’il ait des vues honnêtes? Avant même de savoir où tu avais connu ce Gustave, je me défiais de ses desseins: car, je te le répète, un galant homme qui recherche une demoiselle en mariage n’agit pas comme je l’ai vu faire. Depuis que je sais comment tu l’as connu, après tes aveux de tout ce qui s’est passé entre vous, je suis bien loin de changer d’opinion sur son compte. Encore une fois, s’il n’a que des projets honorables, à qui doit-il parler? à ta mère ou à toi? </p>
+          <p> —Tu me grondes! reprit Louise. Et c’est justement ce que je lui ai dit: Monsieur, allez trouver maman. </p>
+          <p> —Tu as bien fait, ma fille; mais est-il venu me parler? l’ai-je vu? Non, certes; il s’en donnerait de garde. </p>
+          <p> Louise ouvrait la bouche pour répondre que Gustave était venu, témoin les vingt francs donnés au portier; mais elle pensa vaguement que madame Drouart trouverait encore quelque chose à blâmer dans cette manière de prendre des informations sur leur compte, et elle se tut. Au fond du cœur elle était fâchée contre sa mère. </p>
+          <p> Ce fut bien pis lorsqu’elle entendit madame Drouart lui dire, jusqu’à deux fois, avec assurance: Ce jeune homme te trompe: il ne t’aime pas. </p>
+          <p> Louise, eût-elle douté elle-même de l’amour de Gustave, aurait difficilement supporté qu’un autre en doutât. Mais, certaine de posséder cet amour, elle pouvait encore moins souffrir qu’on lui voulût nier qu’elle fût aimée. </p>
+          <p> Son impatience, long-temps contenue, perçait dans son regard. Son geste devint sec, sa parole brève, et ses joues s’enflammèrent de dépit. </p>
+          <p> Elle se leva, s’en alla s’asseoir à l’autre bout de la chambre, prit une aiguille, une étoffe à broderie; puis, aux quelques mots que lui adressa madame Drouart, elle ne fit plus aucune réponse. </p>
+          <p> Madame Drouart, à son tour, se lève pour passer dans son cabinet; mais avant de sortir elle s’arrête devant sa fille, et là, mécontente de l’effet inattendu produit par ses paroles, ne voulant pas paraître avoir affirmé un fait faux ou même douteux, excitée par la mauvaise humeur de Louise, elle répète d’un ton de voix empreint de colère: Non, certainement, il ne t’aime pas! </p>
+          <p> Louise, quoique profondément blessée, continue à garder le silence. </p>
+          <p> —Mon Dieu, s’écria madame Drouart quand elle fut seule, que vais-je devenir?... quelle enfant! Peut-être m’y suis-je mal prise pour la guérir d’un fol amour; mais, mon Dieu, vous le savez, mes intentions étaient bonnes!... A qui maintenant irai-je demander des conseils? Je ne sais plus, moi, comment faire... </p>
+          <p> Après un moment de réflexion, elle se dit: C’est peine inutile: toute la conduite de ce jeune homme fait voir assez ce qu’il faut penser de lui. Mais, n’importe, je veux prouver à Louise que mes craintes ne m’abusaient pas; je veux prendre des informations sur la moralité de M. Gustave Charrière. Le général Darvin connaît peut-être cette famille. </p>
+        </div>
+        <div title="CHAPITRE VIII." type="chapter">
+          <head> CHAPITRE VIII. </head>
+          <p> C’était le matin du jour de l’an. Madame Drouart venait de sortir pour faire quelques visites obligées. Mademoiselle Agathe, à qui madame Drouart avait recommandé de ne pas quitter Louise, courait tous les étages de la maison. Louise, seule dans la chambre, s’ennuyait et pleurait. </p>
+          <p> On sonne. Louise ne se hâte pas d’ouvrir: elle craint de laisser voir qu’elle a pleuré. On sonne de nouveau. Pour donner à ses yeux le temps de se sécher, pour être aperçue le plus tard possible par la personne qui va paraître, Louise se met de côté pour ouvrir la porte; de façon qu’en tirant la porte à elle, tout son corps se trouve caché derrière. </p>
+          <p> Une voix d’homme demande timidement: </p>
+          <p> —N’est-ce pas ici qu’on vend du papier timbré? </p>
+          <p> A cette voix qu’elle a reconnue, Louise tremblante, effrayée, se serre tant qu’elle peut contre le mur; elle n’ose bouger; elle retient son haleine; elle espère qu’on ne la verra pas. </p>
+          <p> Mais, en avançant la tête, Gustave (car c’est lui), vient d’apercevoir Louise. Il entre sur la pointe du pied, puis dit précipitamment et à voix basse: Prenez cette lettre; et si vous m’aimez, répondez-moi! </p>
+          <p> Une lettre est tombée aux pieds de Louise, qui se baisse pour la rendre sans doute: mais Gustave a disparu; elle entend ses pas dans l’escalier. </p>
+          <p> Vite, elle referme la porte. Maintenant que va-t-elle faire? Lira-t-elle ce billet? Oh, oui; mais elle n’y répondra pas.... </p>
+          <p> Ce 1 er janvier. </p>
+          <p> Louise, qui donc aujourd’hui vous apporterait ses vœux de bonheur, si moi, moi qui vous aime plus que la vie, je ne vous apportais les miens? </p>
+          <p> Je ne sais comment je pourrai vous faire tenir ce billet: mais dussé-je passer tout le jour à votre porte, il faut que ma voix se fasse entendre de vous. Louise, je ne vous vois plus: je suis malheureux. D’où vient que vous ne sortez pas? Votre mère vous garde-t-elle comme une prisonnière, et mon amour serait-il cause des privations que vous endurez? Non, ce n’est pas vous qui vous condamneriez volontairement à la solitude, vous qui possédez tout ce qu’il faut pour paraître avec éclat dans le monde... surtout vous n’auriez pas l’affreux courage de vous cacher à mes yeux, lorsque vous savez que ne pas vous voir me tue. Il est impossible, Louise, que vous me haïssiez au point de vouloir ma mort. Quel mal vous ai-je fait? Est-ce donc un si grand crime que de vous trouver belle et de vous aimer? </p>
+          <p> Mais, non, vous ne repousserez pas ma tendresse; vous me pardonnerez une passion qu’aucune force humaine ne pourrait arracher de mon cœur. Moi seul, Louise, je ne me pardonnerai jamais cette passion, s’il est vrai, comme je le crains, que votre mère vous en punisse.OLouise, dites-moi que vous n’êtes pas malheureuse par ma faute; dites-moi que ce n’est pas Gustave qui cause vos larmes... Ah, que dis-je? ma tête s’égare; j’ignore ce que je vous écris; je ne sais en quel trouble me jette un amour qui fera le désespoir de ma vie! </p>
+          <p> Louise, répondez-moi un mot, un seul mot. Si je vous ai offensée par quelque parole imprudente, Louise, songez qu’en ce jour toutes les offenses se pardonnent... C’est le jour des réconciliations. Louise, ma Louise, une ligne de votre main charmante! Que je sache quel sort vous me réservez!... Hélas! je le jure, votre bonheur est le plus cher de mes vœux. Louise, si vous vouliez m’entendre?... </p>
+          <p> Adieu. Ne me haïssez pas. Demain, à midi juste, je viendrai frapper à votre porte sous prétexte d’acheter une feuille de papier timbré. J’y viendrai tous les jours à midi, jusqu’à ce que vous m’ayez dit: Je vous aime! ou que vous m’ayez fait chasser honteusement par votre portier. </p>
+          <p> Louise, lorsque je viendrai demain, à midi, chercher une réponse, est-ce vous qui m’ouvrirez ou sera-ce votre mère? </p>
+          <p> A propos de votre mère, je vous dirai demain ou après quels sont mes motifs pour lui cacher mon amour, un ou deux mois encore. Ces motifs, vous les approuverez, car ils n’ont rien qui ne puisse s’avouer, rien qui ne soit honorable. </p>
+          <p> Adieu, Louise. Si vous n’êtes pas la plus cruelle des femmes, si vous n’êtes pas sans pitié pour qui vous aime, vous me tiendrez prêt un petit mot de bonheur pour demain à midi. </p>
+          <p> Madame Drouart rentra sur les quatre heures, très-fatiguée. Elle dit à Louise que M. Darvin était à la campagne depuis la veille et qu’il ne serait de retour à Paris que le 6 du mois. </p>
+          <p> Louise parut surprise de cette nouvelle; elle ignorait que sa mère fût allée chez le général Darvin. Madame Drouart, qui ne se souvenait plus d’avoir fait à sa fille un mystère de cette visite, s’aperçut de son imprudence; elle en accepta les conséquences sans hésiter. </p>
+          <p> —Que vouliez-vous dire au général Darvin? demanda Louise inquiète. </p>
+          <p> —Il me semble, reprit madame Drouart, que, ne l’ayant pas trouvé chez lui lorsque nous nous y présentâmes à votre sortie de la maison royale, nous lui devons assez de reconnaissance, pour que moi, votre mère, je lui fasse une visite de jour de l’an... Mais il sera de retour à son hôtel le 6, ma fille, et je lui parlerai de vous, ajouta madame Drouart avec un ton de menace; je lui ferai savoir comment vous avez mis à profit l’éducation qu’on vous a donnée. </p>
+          <p> Louise confuse ne jugea pas utile de prolonger la conversation sur cette matière. </p>
+          <p> La vérité est qu’à propos du jour de l’an madame Drouart était allée demander aux personnes qui lui portaient quelque intérêt, des renseignemens sur la famille Charrière, et des conseils sur les moyens à prendre pour sauver sa fille et elle de tout malheur. </p>
+          <p> Après avoir épuisé toutes les ressources de l’amour maternel et de la prudence, elle n’avait plus d’espoir que dans les conseils de ses amis, ou, pour mieux dire, de ses protecteurs; mais les uns l’accueillirent d’un air si froid qu’elle n’osa leur parler intimement de Louise; les autres, qui ne connaissaient ni Gustave ni sa famille, lui ouvrirent des avis si impossibles à suivre, qu’elle en demeura plus embarrassée qu’auparavant. Le général Darvin, sur l’amitié, sur la sagesse de qui elle fondait le plus d’espérance, le général Darvin n’était pas à Paris. Ce contre-temps l’affligea beaucoup; cependant elle pensa qu’en s’établissant jusqu’au 6 la gardienne sévère de sa fille, rien de fâcheux ne pourrait survenir. </p>
+          <p> D’ailleurs elle avait été absente quatre heures durant, et Louise pendant ces quatre heures n’avait pas quitté la chambre. Le portier et mademoiselle Agathe, interrogés avec adresse, rassurèrent complétement madame Drouart là-dessus. Elle prit donc le parti d’attendre jusqu’au 6. </p>
+          <p> Le 2, à onze heures et trois quarts, Louise entra dans le cabinet de sa mère. </p>
+          <p> —Mon Dieu, comme il fait froid! dit-elle. </p>
+          <p> Madame Drouart se tenait les pieds sur une chaufferette. </p>
+          <p> —Mais ce cabinet est glacial, maman; je ne sais pas comment tu peux y rester? </p>
+          <p> —L’habitude, ma fille.... </p>
+          <p> —Oui, l’habitude d’être malade, n’est-ce pas? Mais tu as les mains toutes glacées! et puis les joues aussi.... </p>
+          <p> Louise embrassa sa mère. </p>
+          <p> —Viens donc te chauffer, reprit-elle; je t’ai allumé un grand feu de l’autre côté. </p>
+          <p> Madame Drouart résista d’abord, puis, vaincue par les baisers de sa fille, elle passa dans la chambre. </p>
+          <p> —Il faut bien faire tout ce que tu veux, dit l’heureuse mère en souriant. </p>
+          <p> Un moment après, on sonna légèrement à la porte d’entrée. </p>
+          <p> —Ne te dérange pas, ma bonne maman; tu es si bien près du feu! </p>
+          <p> Louise courut au cabinet; puis, quand elle revint: </p>
+          <p> —Qui était-ce, ma fille? demanda madame Drouart sans défiance. </p>
+          <p> —Quelqu’un qui se trompait, maman. </p>
+          <div>
+            <p> 2 janvier. </p>
+            <p> Louise, recevrai-je une réponse à ma lettre d’hier? J’en doute, hélas! Vous n’avez peut-être pas même lu ce que je vous ai écrit! et cette seconde lettre, Louise, aura-t-elle le même sort que la première? Méchante, si vous saviez comme je suis triste loin de vous! Ma Louise, un mot, de grâce: je ne puis vivre ainsi; ce sont trop de tourmens à la fois. Que faites-vous tout le jour? d’où vient que je ne vous aperçois plus nulle part, pas même à la fenêtre? Mais, Louise, qu’ai-je donc toujours à me plaindre? Ne vous ai-je pas vue hier? ne vous ai-je pas parlé? n’est-ce donc pas là du bonheur? Non, Louise: le bonheur, c’est de vous voir sans cesse, de vous parler sans cesse; de ne pas vous quitter; d’être avec vous au travail, aux repas, aux heures du sommeil, à toutes les heures, Louise!... Oh, dites-moi, Louise: n’est-ce que de l’amour ce que je ressens pour vous? De l’amour, je ne sais; c’est de la fièvre, du délire! J’erre toute la nuit et tout le jour sous vos fenêtres... A midi!... quand sonnera-t-elle donc, cette heure où je dois vous voir! Oh, Louise, les heures s’écoulent bien vite pour vous! Que vous importe? mais, moi, il me semble que chaque heure dure une éternité. A midi, Louise! Malheureux! si elle ne me recevait pas! si ce n’est pas elle qui vient m’ouvrir! Je vous en supplie, Louise, ne me causez pas ce chagrin, j’en mourrais sur place. </p>
+            <p> Adieu, adieu. Celui qui ne vit, ne respire que par vous et dans vous. </p>
+            <p> P. S. Notre sort est entre vos mains, Louise. L’obstacle à nos désirs, peut-être vous en doutiez-vous, c’était votre peu de fortune. Un moyen se présente qui lèvera toute difficulté. Ce moyen, je n’ose vous le faire savoir sans être sûr de votre cœur. Répondez-moi donc que vous m’aimez. Abandonnez-vous à moi.... Notre amour ne connaîtra plus d’empêchement... Il faut avouer pourtant que mon père a quelquefois de singulières idées.... </p>
+            <p> Louise, quand donc serai-je assez aimé de vous pour ne pas craindre de vous apprendre quelles conditions mon père met à notre bonheur? </p>
+          </div>
+          <p> Louise ne se dissimulait pas combien il est mal à une jeune fille de recevoir des lettres à l’insu de sa mère; mais elle se faisait une excuse de la nécessité. Voici son raisonnement: Si ce n’est pas moi qui prends les lettres de Gustave, elles tomberont entre les mains de mademoiselle Agathe ou de maman: je serai perdue. Pour éviter des reproches et peut-être pis, il faut donc que je reçoive moi-même tout ce qu’il lui plaira de m’écrire. </p>
+          <p> Sous prétexte du froid, elle avait décidé sa mère à rester constamment dans la chambre, près du feu; et pour n’éveiller aucun soupçon, Louise plusieurs fois dans le jour, à des heures différentes, s’empressait d’aller ouvrir la porte, lorsque quelqu’un y venait sonner. </p>
+          <p> Souvent aussi elle laissait mademoiselle Agathe ou sa mère s’acquitter de cette besogne, soit qu’elle les y invitât elle-même en souriant, soit que, par son peu d’empressement à quitter sa chaise, elle leur fit comprendre que cette charge devait être partagée entre elles trois. </p>
+          <p> Selon Louise, sa mère, en la voyant courir à la porte ou rester en place, indifféremment, à quelque heure de la journée que ce fût, ne pouvait s’apercevoir que c’était toujours elle qui allait ouvrir, à midi sonnant. </p>
+          <p> Cependant madame Drouart n’était pas tout-à-fait sans défiance. Louise, d’autre part, craignit d’avoir excité les soupçons de sa mère. </p>
+          <p> Dans la matinée du 3, vers les neuf heures, quelqu’un tourna le bouton de la porte. Louise se levait. </p>
+          <p> —Restez, ma fille, dit madame Drouart avec un geste de mauvaise humeur; je vais répondre moi-même. </p>
+          <p> Louise tremblait pour sa lettre de midi. Il est temps, pensa-t-elle, que Gustave cesse de m’écrire: nous serions surpris d’un jour à l’autre. Si j’ai le bonheur de le voir encore une fois, je l’avertirai.... Je lui dirai de ne plus m’apporter de lettres... J’aime mieux lui parler, lui donner un rendez-vous.... Maman sort le 6; eh bien, le 6 il s’expliquera; nous nous verrons le 6: car lui écrire, c’est ce que je ne ferai jamais; et pourtant il faut bien qu’il connaisse mes raisons et que moi je connaisse les siennes!... </p>
+          <p> A midi moins quelques minutes, Louise entendit un coup de sonnette, et elle se précipita vers la porte d’entrée. Gustave lui tendit une lettre dont elle ne se saisit pas tout de suite, tant elle était effrayée.—Le 6, toute la journée, attendez-moi au coin de la rue Saint-Denis, lui dit-elle à voix basse et à la hâte. Le 6, entendez-vous?... Ne m’écrivez plus! </p>
+          <p> Puis elle referma bien vite la porte sur Gustave, qui lui jeta son billet, en fuyant. </p>
+          <p> Louise se baissait pour ramasser la lettre de Gustave, quand une main plus empressée que la sienne s’en saisit. </p>
+          <p> Pas un mot ne fut échangé entre la fille et la mère. Madame Drouart rentra dans la chambre où sans doute elle lut le billet de Gustave. Louise n’osa de long-temps sortir du cabinet. </p>
+          <p> Enfin elle revint près de sa mère. Madame Drouart lui dit d’un ton ferme: Ma fille, avant quatre jours vous aurez quitté Paris. En attendant, je vous ordonne de ne rien faire qui me déplaise. Si mon autorité est impuissante; si vous avez méconnu tout, l’amour de votre mère, la voix de votre père lui-même, il est des lois en France, des lois que je n’invoquerai pas en vain, et qui protégeront ma vieillesse contre la honte d’une fille qui se déshonore. </p>
+          <p> En achevant ces mots, madame Drouart sortit de la chambre et s’enferma dans son cabinet. Là, seule avec ces tristes pensées, elle s’abandonna à toute sa douleur, demandant mille fois à Dieu de l’éclairer dans la conduite qu’elle devait tenir. Elle avait menacé Louise de l’autorité des lois, sachant bien qu’il n’est, en aucun pays du monde, des lois qui protégent les mères contre le déshonneur de leurs filles; et ces lois existassent-elles, qui donc lui donnerait la force d’appeler leur châtiment à son secours? Non. Le seul espoir qui lui reste est tout entier dans les conseils du général Darvin. Il l’aidera de son expérience, de son amitié. C’est le protecteur, l’appui de leur famille. Il sauvera la femme et la fille du capitaine Drouart!... </p>
+          <p> Dans cette pensée, où elle se console, la malheureuse veuve a puisé quelque courage. </p>
+          <p> Mais tandis que sa mère reprend un peu de tranquillité, Louise, abattue, se livre aux plus sinistres pressentimens. Elle a quelquefois entendu dire à ses amies de pension qu’il est, au haut de la rue Saint-Jacques, une maison tenue par les religieuses de Saint-Michel. C’est là que les pères et mères font enfermer les filles coupables. On leur coupe les cheveux, on les revêt d’une robe grossière; on les séquestre du monde. Là elles prient, pleurent et travaillent quatorze heures par jour. De grands murs sombres s’élèvent de toutes parts: c’est moins un pensionnat qu’une prison. Louise s’en épouvante.—Oh! se dit-elle, j’aurais été si heureuse avec Gustave! Il m’aime tant, lui! S’il ne m’aimait pas, que deviendrais-je? Mais je le verrai le 6: il me dira ce qu’il faut faire; c’est mon seul ami, maintenant! Pourvu que ma mère ne m’enferme pas avant que je ne l’aie vu! Mais encore trois jours! Mon Dieu! le 6 ne viendra-t-il jamais? </p>
+          <p> Enfin, le 6 arriva. Sur les quatre heures environ, madame Drouart, après avoir dit qu’elle serait de retour à six heures au plus tard, pour dîner, sortit, en recommandant très-expressément à mademoiselle Agathe de ne pas quitter sa fille. Mademoiselle Agathe répondit que madame pouvait être tranquille, que ses ordres seraient exécutés de point en point. </p>
+          <p> Cette réponse de la femme de ménage ôtait à Louise toute chance d’aller à son rendez-vous; elle en conçut un violent dépit. </p>
+          <p> Mais sitôt que mademoiselle Agathe fut seule avec Louise: Si mademoiselle ne veut rien dire à sa maman, dit-elle, je descendrai à la loge; nous avons aujourd’hui un grand dîner... </p>
+          <p> —Certainement, mademoiselle Agathe, répondit Louise contenant à peine sa joie, certainement, que vous pouvez descendre. </p>
+          <p> —Mais mademoiselle n’en dira rien à sa maman? </p>
+          <p> —Rien du tout, mademoiselle Agathe, je vous assure. </p>
+          <p> —C’est aujourd’hui les Rois , voyez-vous? et mon papa veut que nous les tirions en famille. </p>
+          <p> —Il n’y a rien de plus simple que cela, mademoiselle Agathe. </p>
+          <p> —Je vais vous dire: vous savez bien ce jeune homme qui est venu l’autre jour, et qui a donné vingt francs pour les informations que... </p>
+          <p> —Oui, oui, je me rappelle; eh bien? </p>
+          <p> —Eh bien! c’est avec le reste de ces vingt francs-là que nous nous régalons aujourd’hui; je n’en ai pas voulu parler à madame, parce que cela n’aurait peut-être pas fait plaisir à madame... au lieu qu’à mademoiselle, ça lui est bien égal que nous tirions les Rois avec l’argent de ce jeune monsieur... </p>
+          <p> —Mon Dieu! oui, mademoiselle Agathe. Allez, amusez-vous: la maison n’est pas si gaie! </p>
+          <p> —Mademoiselle a bien raison; madame est toujours d’une humeur... </p>
+          <p> —Enfin, que voulez-vous?... Descendez chez votre père, mademoiselle Agathe, restez-y tout le temps qu’il vous plaira; si l’on ne s’amuse pas à notre âge... Tenez, je vais sortir avec vous. Il y a si long-temps que je n’ai pris l’air!.. </p>
+          <p> —Mais vous n’irez pas loin, mademoiselle? </p>
+          <p> —Ici en face. </p>
+          <p> —Vous serez rentrée avant que votre maman ne revienne? </p>
+          <p> —Et vous aussi, mademoiselle Agathe? </p>
+          <p> —Oh! pour cela, certainement, mademoiselle; il ne me faut que le temps de mettre le couvert et de dîner. </p>
+          <p> —Et moi le temps d’aller jusqu’au bout de la rue et d’en revenir. </p>
+          <p> Mademoiselle Agathe descendit les marches de l’escalier quatre à quatre et en chantant. </p>
+          <p> Louise mit son beau bonnet de dentelle, se couvrit les épaules d’un petit schall de mérinos brun; après quoi elle regarda tout autour d’elle comme pour s’assurer si sa mère ne la voyait pas... </p>
+          <p> Tout à coup elle se surprit à manquer de courage; elle s’avança craintive jusqu’à la porte; puis elle revint; puis elle s’assit honteuse, effrayée, dans un coin de la chambre. </p>
+          <p> Tout le temps de sa conversation avec mademoiselle Agathe, Louise avait bien senti en elle quelque chose d’extraordinaire, d’irrésistible, qui la poussait au mal. Sa voix faiblissait à chaque phrase. Ce n’était pas là son ton, son humeur habituelle. Cependant elle croyait pouvoir, jusqu’à la fin, lutter contre sa conscience. Mais à cette heure, près du but, elle recule; elle tremble à l’idée de tromper sa mère, de lui désobéir; elle rougit de honte au souvenir des paroles qu’elle a dites à mademoiselle Agathe. La voilà donc devenue, en quelque sorte, la complice d’une servante! Elle ne peut comprendre comment cela est arrivé. Ce qu’elle comprend encore moins, c’est d’avoir médité, exécuté presque le dessein de voir Gustave, malgré la défense qui lui en a été faite. </p>
+          <p> Pourtant Gustave ne l’attend-il pas? Que dira-t-il s’il ne la voit pas venir? Ne pourra-t-il pas croire qu’elle l’oublie? Et demain, demain, à midi, il voudra lui parler; il lui apportera une lettre..; et si cette lettre tombe encore entre les mains de sa mère! </p>
+          <p> Cette dernière considération l’entraîne: elle se lève. </p>
+          <p> Mais en passant par le cabinet de madame Drouart, le premier objet qui frappe les regards de Louise, c’est le vieux fauteuil de sa mère... elle s’arrête; elle revoit, par la pensée, sa mère assise dans ce fauteuil; il lui semble qu’une voix bien connue va lui dire: </p>
+          <p> —«Où allez-vous, ma fille?» </p>
+          <p> Elle hésite; ses jambes se refusent à la conduire. On dirait qu’elle a peur, car elle revient précipitamment dans la chambre, et elle s’écrie, en ôtant bien vite son schall et son bonnet: </p>
+          <p> —Oh! non, non, je n’irai pas! </p>
+          <p> Louise tirait un des boutons de la commode où elle a coutume de serrer ses vêtemens, lorsqu’un léger bruit se fait entendre à la porte d’entrée. On sonne. </p>
+          <p> Combien alors Louise se félicite de n’être pas allée à son rendez-vous! C’est peut-être sa mère? Mais est-il possible qu’elle soit déjà de retour? Lui serait-il donc arrivé quelque accident en chemin? </p>
+          <p> Louise se hâte d’ouvrir. </p>
+          <p> C’est Gustave! Il est entré. </p>
+          <p> —Louise, vous êtes seule; j’ai vu sortir votre mère. Je vous attends depuis ce matin... j’ai mille choses... </p>
+          <p> —Sortez! sortez! M. Gustave, s’écrie Louise épouvantée. Si l’on vous trouvait ici... mon Dieu!.. Malheureuse!.. M. Gustave, au nom du ciel, si vous m’aimez... </p>
+          <p> —Louise, il faut que je vous parle absolument. Des affaires de la plus haute importance... </p>
+          <p> —Sortez! sortez! je vous en conjure! </p>
+          <p> —Vous m’aviez promis un rendez-vous... </p>
+          <p> —J’y vais, je vous suis... Mais sortez, par pitié pour moi... Si maman rentrait... Oh! mon Dieu!.. M. Gustave, je vais vous rejoindre... mais sortez! sortez! </p>
+          <p> —Vous allez venir? </p>
+          <p> —Tout de suite; mais ne me perdez pas en restant une seconde de plus ici... Vous me tuez, M. Gustave, vous me tuez! </p>
+          <p> —Je puis compter sur votre parole? Songez que je vous attends depuis ce matin... </p>
+          <p> —Oui, oui, j’y vais, j’y vais... Mais sortez donc, mon Dieu, sortez! </p>
+          <p> Gustave se décida enfin à quitter la place. Louise le suivit bientôt en s’encourageant tout bas par cette réflexion: puisqu’il le faut, j’aime encore mieux lui parler dans la rue que chez nous: je cours moins de risques. </p>
+        </div>
+        <div title="CHAPITRE IX." type="chapter">
+          <head> CHAPITRE IX. </head>
+          <p> Madame Drouart attendit long-temps le général Darvin. On ne savait au juste à quelle heure il rentrerait; toutefois ce ne pouvait être plus tard que sept heures; il en était cinq. Mais rester là deux heures encore n’était pas chose possible. Madame Drouart pensait à l’impatience, à l’inquiétude peut-être de sa fille. Elle préféra ne voir le général que le lendemain. </p>
+          <p> Arrivée dans sa rue, elle leva les yeux aux fenêtres de sa petite chambre, et elle n’y vit aucune lumière. </p>
+          <p> En mettant le pied dans la maison, elle entendit de grands éclats de joie sortir de la loge du portier. Elle pencha la tête, et aperçut mademoiselle Agathe dînant en famille. </p>
+          <p> —Je donnerai demain congé à cette fille, se dit-elle; ce n’est pas ainsi qu’on doit se conduire. </p>
+          <p> En montant l’escalier sombre, une sorte de crainte vague la prit. </p>
+          <p> Parvenue, à grand’peine, jusqu’à la porte de son troisième étage, elle tourna le bouton pour entrer. La porte résista: elle était fermée à clef. </p>
+          <p> Elle sonna; elle sonna deux fois; elle sonna long-temps et fort. Rien! </p>
+          <p> Elle prêtait l’oreille, personne ne bougeait dans la chambre. </p>
+          <p> Sa tête s’enflamma; elle se mit à crier. Aucune voix ne répondit à la sienne. </p>
+          <p> Après tout, se dit-elle, il est possible que Louise soit endormie. </p>
+          <p> Elle descendit l’escalier à tâtons, péniblement, toujours près de rouler d’étage en étage. </p>
+          <p> Elle arriva dans la cour, ouvrit la porte de la loge: tout le monde chantait, buvait, était ivre, sauf mademoiselle Agathe pourtant. </p>
+          <p> Sans oser dire un mot sur sa fille, madame Drouart demanda la clef de sa chambre. </p>
+          <p> Mademoiselle Agathe prit la clef qui pendait à un clou, se saisit d’une chandelle, et, précédant madame Drouart, elle monta. </p>
+          <p> Madame Drouart suivait chancelante de fatigue et d’émotion. </p>
+          <p> Les trois étages montés, la porte ouverte, mademoiselle Agathe remit la chandelle entre les mains de madame Drouart, à qui elle dit: Madame serait-elle assez bonne pour me permettre d’aller finir mon dîner? Nous n’avons pas encore tiré les Rois. </p>
+          <p> —Allez, lui dit madame Drouart. </p>
+          <p> En avançant de son cabinet dans la chambre, il lui sembla que tout était seul et vide. </p>
+          <p> Ses yeux cherchaient de tous côtés: elle n’aperçut rien. </p>
+          <p> La chandelle lui tomba des mains; elle se baissa pour la ramasser; elle regretta qu’elle ne se fût pas éteinte. </p>
+          <p> —Louise! dit-elle à voix base. </p>
+          <p> Louise! </p>
+          <p> Elle répéta: Louise! d’une voix si faible qu’on eût dit que sa voix même lui faisait peur à entendre. </p>
+          <p> Un tiroir était tout grand ouvert, elle y regarda: le schall de Louise et son bonnet de dentelle n’y étaient plus. </p>
+          <p> Elle déplia un mouchoir qui lui parut dur au toucher: de ce mouchoir s’échappèrent deux lettres: </p>
+          <p> Elles étaient signées Gustave . </p>
+          <p> Dans un des coins de ce tiroir, elle aperçut une troisième lettre: c’était la lettre de son mari à sa fille: Pour Louise . </p>
+          <p> Cette lettre, Louise ne devait jamais la quitter! </p>
+          <p> Elle l’avait laissée là avant de sortir. </p>
+          <p> Madame Drouart tomba les deux genoux par terre, et murmura: Louise, ma fille, mon mari, mon Dieu! </p>
+          <p> Le lendemain matin mademoiselle Agathe la trouva étendue raide au milieu de la chambre. </p>
+          <lb/>
+          <p> FIN DE LA PREMIÈRE PARTIE. </p>
+        </div>
+      </div>
+      <head/>
+    </body>
+    <back/>
+    <back/>
+  </text>
+</TEI>
