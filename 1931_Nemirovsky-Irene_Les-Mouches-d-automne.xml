@@ -1,0 +1,505 @@
+<?xml version='1.0' encoding='UTF8'?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> Les Mouches d'automne </title>
+        <author from="1903" key="" name="Némirovsky, Irène" sex="female" to="1942"/>
+        <edition n=""/>
+        <editor name="Grasset" where="Paris"/>
+      </titleStmt>
+      <publicationStmt>
+        <date type="created" when="1931"/>
+        <date type="issued" when="1931"/>
+      </publicationStmt>
+      <editionStmt>
+        <profileDesc tag="non-canon" type="genre">
+          <textClass>
+            <keywords/>
+          </textClass>
+        </profileDesc>
+      </editionStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docAuthor/>
+        <docTitle>
+          <titlePart main="Les Mouches d'automne"/>
+          <titlePart sub=""/>
+        </docTitle>
+      </titlePage>
+    </front>
+    <body>
+      <lb/>
+      <lb/>
+      <p> Irène Némirovsky </p>
+      <p> LES MOUCHES D’AUTOMNE </p>
+      <p> (1931) </p>
+      <div title="CHAPITRE PREMIER" type="chapter">
+        <p></p>
+        <p> CHAPITRE PREMIER </p>
+        <p> Elle hocha la tête, dit comme autrefois : </p>
+        <p> « Eh bien, adieu, Yourotchka… Prends bien soin de ta santé, mon chéri. » </p>
+        <p> Comme le temps passait… Enfant, quand il partait pour le Lycée de Moscou, en automne, il venait lui dire adieu ainsi, dans cette même chambre. Il y avait dix, douze ans de cela… </p>
+        <p> Elle regarda son uniforme d’officier avec une sorte d’étonnement, de triste orgueil. </p>
+        <p> « Ah, Yourotchka, mon petit, il me semble que c’était hier… » </p>
+        <p> Elle se tut, fit un geste las de la main. Il y avait cinquante et un ans qu’elle était dans la famille des Karine. Elle avait été la nourrice de Nicolas Alexandrovitch, le père de Youri, elle avait élevé ses frères et ses sœurs après lui, ses enfants… Elle se souvenait encore d’Alexandre Kirilovitch, tué à la guerre de Turquie en 1877, il y avait trente-neuf ans… Et maintenant, c’était le tour des petits, Cyrille, Youri, de partir, eux aussi, pour la guerre… </p>
+        <p> Elle soupira, traça sur le front de Youri le signe de la croix. </p>
+        <p> « Va, Dieu te protégera, mon chéri. </p>
+        <p> – Mais oui, ma vieille… » </p>
+        <p> Il sourit, avec une expression moqueuse et résignée. Il avait une figure de paysan, épaisse et fraîche. Il ne ressemblait pas aux autres Karine. Il prit entre les siennes les petites mains de la vieille femme, dures comme de l’écorce, presque noires, voulut les porter à ses lèvres. </p>
+        <p> Elle rougit, les retira précipitamment. </p>
+        <p> « Es-tu fou ? Ne dirait-on pas que je suis une belle jeune dame ? Va, maintenant, Yourotchka, descends… Ils dansent encore en bas. </p>
+        <p> – Adieu, Nianiouchka, Tatiana Ivanovna, dit-il de sa voix traînante, aux inflexions ironiques et un peu endormies, adieu, je te rapporterai de Berlin un châle de soie, si j’y entre, ce qui m’étonnerait, et, en attendant, je t’enverrai de Moscou une pièce d’étoffe pour la nouvelle année. » </p>
+        <p> Elle s’efforça de sourire, pinçant davantage sa bouche, demeurée fine, mais serrée et rentrée en dedans, comme aspirée par les vieilles mâchoires. C’était une femme de soixante-dix ans, d’aspect fragile, de petite taille, au visage vif et souriant ; son regard était perçant encore parfois, et à d’autres instants, las et tranquille. Elle secoua la tête. </p>
+        <p> « Tu promets beaucoup de choses, et ton frère est comme toi. Mais vous nous oublierez là-bas. Enfin, Dieu veuille seulement que ce soit bientôt fini, et que vous reveniez tous les deux. Est-ce que cette malédiction finira vite ? </p>
+        <p> – Certainement. Vite et mal. </p>
+        <p> – Il ne faut pas plaisanter comme cela, dit-elle vivement. Tout est dans les mains de Dieu. » </p>
+        <p> Elle le quitta, s’agenouilla devant la malle ouverte. </p>
+        <p> « Tu peux dire à Platocha et à Piotre de monter chercher les effets quand ils voudront. Tout est prêt. Les fourrures sont en bas et les plaids. Quand partez-vous ? Il est minuit. </p>
+        <p> – Si nous sommes au matin à Moscou, c’est suffisant. Le train part demain à onze heures. » </p>
+        <p> Elle soupira, hocha la tête de son geste familier. </p>
+        <p> « Ah, Seigneur Jésus, quel triste Noël… » </p>
+        <p> En bas, quelqu’un jouait au piano une valse rapide et légère ; on entendait les pas des danseurs sur les vieux parquets et le bruit des éperons. </p>
+        <p> Youri fit un signe de la main. </p>
+        <p> « Adieu, je descends, Nianiouchka. </p>
+        <p> – Va, mon cœur. » </p>
+        <p> Elle resta seule. Elle pliait les vêtements en marmottant : « Les bottes… Les pièces du vieux nécessaire… elles peuvent servir encore en campagne… Je n’ai rien oublié ? Les pelisses sont en bas… » </p>
+        <p> Ainsi, trente-neuf ans auparavant, quand Alexandre Kirilovitch était parti, elle avait emballé les uniformes, elle se rappelait bien, mon Dieu… La vieille femme de chambre, Agafia, était encore de ce monde… Elle-même était jeune, alors… Elle ferma les yeux, poussa un profond soupir, se releva lourdement. </p>
+        <p> « Je voudrais bien savoir où sont ces chiens, Platochka et Petka, grommela-t-elle. Dieu me pardonne. Ils sont tous ivres aujourd’hui. » Elle prit le châle tombé à terre, couvrit ses cheveux et sa bouche, descendit. L’appartement des enfants était bâti dans l’ancienne partie de la maison. C’était une belle demeure, de noble architecture, au grand fronton grec orné de colonnes ; le parc s’étendait jusqu’à la commune voisine, Soukharevo. Depuis cinquante et un ans, Tatiana Ivanovna ne l’avait jamais quittée. Elle seule connaissait tous ses placards, ses caves, et les sombres chambres abandonnées au rez-de-chaussée, qui avaient été des pièces d’apparat, autrefois, où des générations avaient passé… </p>
+        <p> Elle traversa rapidement le salon. Cyrille l’aperçut, appela en riant : </p>
+        <p> « Eh bien, Tatiana Ivanovna ? Ils s’en vont, tes chéris ? » </p>
+        <p> Elle fronça les sourcils et sourit en même temps. </p>
+        <p> « Va, va, ça ne te fera pas de mal à toi, de vivre un peu à la dure, Kirilouchka… » </p>
+        <p> Celui-là et sa sœur Loulou avaient la beauté, les yeux étincelants, l’air cruel et heureux des Karine d’autrefois. Loulou valsait aux bras de son petit cousin, Tchernichef, un lycéen de quinze ans. Elle-même avait eu seize ans la veille. Elle était ravissante, avec ses joues rouges, enflammées par la danse, et ses tresses noires, épaisses, roulées autour de sa petite tête, comme une sombre couronne. </p>
+        <p> « Le temps, le temps, songeait Tatiana Ivanovna : ah, mon Dieu, on ne remarque pas comment il s’en va, et un jour, on voit les petits enfants qui vous dépassent de la tête… Lulitchka, elle aussi, est une grande fille, à présent… Mon Dieu, et c’était hier que je disais à son père : « Ne pleure pas, Kolinka, tout passe, mon cœur. » C’est un vieil homme, maintenant… » </p>
+        <p> Il était debout devant elle avec Hélène Vassilievna. Il la vit, tressaillit, murmura : </p>
+        <p> « Déjà ? Tatianouchka ? Les chevaux sont là ? </p>
+        <p> – Oui, il est temps, Nicolas Alexandrovitch. Je vais faire mettre les valises dans le traîneau. » </p>
+        <p> Il baissa la tête, mordit légèrement ses longues lèvres pâles. </p>
+        <p> « Déjà, mon Dieu ? Eh bien… qu’est-ce que tu veux ? Va. Va… » </p>
+        <p> Il se tourna vers sa femme, sourit faiblement, dit de sa voix lasse et calme comme à l’ordinaire : </p>
+        <p> « Children will grow, and old people will fret… N’est-ce pas, Nelly ? Allons, ma chère, je crois qu’il est vraiment temps. » </p>
+        <p> Ils se regardèrent sans rien dire. Elle rejeta nerveusement l’écharpe de dentelle noire sur son cou long et flexible, la seule beauté qui demeurât intacte de sa jeunesse, avec les yeux verts, scintillants comme l’eau. </p>
+        <p> « Je vais avec toi, Tatiana. </p>
+        <p> – À quoi bon ? fit la veille femme en haussant les épaules, vous prendrez froid seulement. </p>
+        <p> – Ça ne fait rien », murmura-t-elle avec impatience. </p>
+        <p> Tatiana Ivanovna la suivit silencieusement. Elles traversèrent la petite galerie déserte. Autrefois, quand Hélène Vassilievna s’appelait la comtesse Eletzkaïa, quand elle venait rejoindre, les nuits d’été, Nicolas Karine, dans le pavillon au fond du parc, c’était par cette petite porte qu’ils pénétraient dans la maison endormie… c’était là qu’elle rencontrait parfois, au matin, la vieille Tatiana… elle la voyait encore s’effacer sur son passage et se signer. Cela semblait vieux et lointain, comme un rêve bizarre. Quand Eletzki était mort, elle avait épousé Karine… Au commencement l’hostilité de Tatiana Ivanovna l’avait irritée et peinée, souvent… Elle était jeune. Maintenant, c’était différent. Il lui arrivait de guetter, avec une sorte d’ironique et triste plaisir, les regards de la vieille femme, ses mouvements de recul et de pudeur, comme si elle était encore la pécheresse adultère courant au rendez-vous, sous les vieux tilleuls… Cela, au moins, restait de sa jeunesse. </p>
+        <p> Elle demanda à haute voix : </p>
+        <p> « Tu n’as rien oublié ? </p>
+        <p> – Mais non, Hélène Vassilievna. </p>
+        <p> – La neige est forte. Fais ajouter des couvertures au traîneau. </p>
+        <p> – Soyez tranquille. » </p>
+        <p> Elles poussèrent la porte de la terrasse qui s’ouvrit avec peine en grinçant dans la neige épaisse. La nuit glacée était chargée d’une odeur de sapins gelés, de fumée lointaine. Tatiana Ivanovna attacha son châle sous son menton et courut jusqu’au traîneau. Elle était droite et vive encore, comme au temps où elle cherchait dans le parc, au crépuscule, Cyrille et Youri, enfants. Hélène Vassilievna ferma un instant les yeux, revoyant ses deux fils aînés, leurs visages, leurs jeux… Cyrille, son préféré. Il était si beau, si… heureux… Elle tremblait pour lui davantage que pour Youri. Elle les aimait tous passionnément… Mais Cyrille… Ah, c’était un péché de songer à cela… « Mon Dieu, protégez-les, sauvez-les, accordez-nous de vieillir, entourés de tous nos enfants… Écoutez-moi, Seigneur ! Tout était dans les mains de Dieu », disait Tatiana Ivanovna. </p>
+        <p> Tatiana Ivanovna montait les marches de la terrasse secouant les flocons de neige accrochés aux mailles de son châle. </p>
+        <p> Elles revinrent au salon. Le piano s’était tu. Les jeunes gens parlaient entre eux, à mi-voix, debout au milieu de la pièce. </p>
+        <p> « Il est temps, mes enfants », dit Hélène Vassilievna. </p>
+        <p> Cyrille fit un signe de la main. </p>
+        <p> « C’est bien, Maman, tout de suite… Encore un verre, messieurs. » </p>
+        <p> Ils burent à la santé de l’empereur, de la famille impériale, des alliés, à la destruction de l’Allemagne. Après chaque toast, ils jetaient à terre les coupes, et les laquais ramassaient silencieusement les éclats. Les autres domestiques attendaient dans la galerie. </p>
+        <p> Quand les officiers passèrent devant eux, ils répétèrent tous ensemble, comme une morne leçon apprise par cœur : </p>
+        <p> « Eh bien… adieu, Cyrille Nicolaévitch… Adieu, Youri Nicolaévitch. » Un seul, le vieux cuisinier Antipe, toujours ivre et triste, inclina sa grosse tête grise sur l’épaule et ajouta machinalement d’une voix forte et enrouée : </p>
+        <p> « Dieu vous conserve en bonne santé. </p>
+        <p> – Les temps ont changé, grommela Tatiana Ivanovna. Le départ des Barines, autrefois… Les temps ont changé, et les hommes. » </p>
+        <p> Elle suivit Cyrille et Youri sur la terrasse. La neige tombait rapidement. Les laquais élevèrent leurs lanternes allumées, éclairant les statues au seuil de l’allée, deux Bellones étincelantes de glace et de givre, et le vieux parc gelé, immobile. Une dernière fois, Tatiana Ivanovna traça le signe de la croix au-dessus du traîneau et de la route ; les jeunes gens l’appelèrent, lui tendirent en riant leurs joues qui brûlaient, souffletées par le vent de la nuit. « Allons, adieu, porte-toi bien, ma vieille, nous reviendrons, n’aie pas peur… » Le cocher saisit les rênes, poussa une sorte de cri, de sifflement aigu et étrange, et les chevaux partirent. Un des laquais posa la lanterne à terre, bâilla. </p>
+        <p> « Vous restez là, grand’mère ? » </p>
+        <p> La vieille femme ne répondit pas. Ils s’en allèrent. Elle vit s’éteindre, une à une, les lumières de la terrasse et du vestibule. Dans la maison, Nicolas Alexandrovitch et ses hôtes étaient revenus s’asseoir autour de la table du souper. Nicolas Alexandrovitch prit machinalement une bouteille de champagne des mains du laquais. </p>
+        <p> « Pourquoi ne buvez-vous pas ? murmura-t-il avec effort, il faut boire. » </p>
+        <p> Il emplit les verres tendus, avec précaution ; ses doigts tremblaient légèrement. Un gros homme, aux moustaches peintes, le général Siédof, s’approcha de lui, lui souffla à l’oreille : </p>
+        <p> « Ne vous tourmentez pas, mon cher. J’ai parlé à Son Altesse. Il veillera sur eux, soyez tranquille. » </p>
+        <p> Nicolas Alexandrovitch haussa doucement les épaules. Lui aussi était allé à Saint-Pétersbourg… il avait obtenu des lettres et des audiences. Il avait parlé au Grand-Duc. Comme s’il pouvait empêcher les balles, la dysenterie… « Quand les enfants ont grandi, il n’y a plus qu’à se croiser les bras et laisser faire la vie… Mais on s’agite encore, on court, on s’imagine, ma parole… Je deviens vieux, songea-t-il brusquement, vieux et lâche. La guerre ?… Mon Dieu, aurai-je rêvé à vingt ans un sort plus beau ? » </p>
+        <p> Il dit à haute voix : </p>
+        <p> « Merci, Michel Mikaïlovitch… Que voulez-vous ? Ils feront comme les autres. Dieu nous donne seulement la victoire. » </p>
+        <p> Le vieux général répéta avec ferveur : « Dieu le veuille ! » Les autres, les jeunes, qui avaient été au front, se taisaient. L’un d’eux ouvrit machinalement le piano, frappa quelques notes. </p>
+        <p> « Dansez, mes enfants », dit Nicolas Alexandrovitch. </p>
+        <p> Il se rassit à la table de bridge, fit un signe à sa femme. </p>
+        <p> « Tu devrais aller te reposer, Nelly. Regarde comme tu es pâle. </p>
+        <p> – Toi aussi », dit-elle à mi-voix. </p>
+        <p> Ils se serrèrent silencieusement la main. Hélène Vassilievna sortit, et le vieux Karine prit les cartes et commença à jouer, tourmentant de temps en temps, d’un air abs--ent, la bobèche d’argent du chandelier. </p>
+      </div>
+      <div title="CHAPITRE II" type="chapter">
+        <p></p>
+        <p> CHAPITRE II </p>
+        <p> Quelque temps encore, Tatiana Ivanovna écouta le bruit de grelots qui s’éloignait. « Ils vont vite », songeait-elle. Elle demeurait debout au milieu de l’allée, serrant des deux mains son châle sur son visage. La neige, sèche et légère, entrait dans les yeux comme une poudre ; la lune s’était levée, et les traces du traîneau, profondément creusées dans le sol gelé, étincelaient d’un feu bleu. Le vent tourna, et, aussitôt, la neige commença à tomber avec force. Le faible tintement des clochettes avait cessé ; les sapins chargés de glace craquaient dans le silence avec le sourd gémissement d’un effort humain. </p>
+        <p> La vieille femme revint lentement vers la maison. Elle pensait à Cyrille, à Youri, avec une sorte d’étonnement pénible… La guerre. Elle s’imaginait vaguement un champ et des chevaux au galop, des obus qui éclataient comme des cosses mûres… comme sur une image entrevue… où cela ?… un livre de classe, sans doute, que les enfants avaient colorié… Quels enfants ?… Ceux-là, ou Nicolas Alexandrovitch et ses frères ?… Parfois, quand elle se sentait lasse, comme cette nuit, elle les confondait dans sa mémoire. Un long rêve confus… Est-ce qu’elle n’allait pas se réveiller, comme autrefois, aux cris de Kolinka, dans la vieille chambre ?… </p>
+        <p> Cinquante et un ans… En ce temps-là, elle avait, elle aussi, un mari, un enfant… Ils étaient morts, tous les deux… Il y avait si longtemps qu’elle se souvenait avec peine de leurs traits, parfois… Oui, tout passait, tout était dans les mains de Dieu. </p>
+        <p> Elle remonta auprès du petit André, le plus jeune enfant des Karine dont elle avait la garde. Il dormait encore à côté d’elle, dans cette grande pièce d’angle où Nicolas Alexandrovitch, et, après lui, ses frères, ses sœurs, avaient vécu. Ceux-là étaient tous morts ou partis loin. La chambre paraissait trop vaste, trop haute pour le peu de meubles qui demeuraient, le lit de Tatiana Ivanovna et la couchette d’André, aux rideaux blancs, à la petite icône ancienne suspendue entre les barreaux. Un coffre à jouets, un antique petit pupitre de bois, jadis blanc, que quarante années écoulées avaient poli et teint de gris tendre comme une laque… Quatre fenêtres nues, un vieux parquet rouge… Le jour, tout cela était baigné d’un flot de lumière et d’air. Quand la nuit venait et l’étrange silence, Tatiana Ivanovna disait : « Il est temps, à présent, que d’autres viennent… » </p>
+        <p> Elle alluma une bougie, qui éclaira vaguement le plafond peint d’anges aux grosses figures méchantes, coiffa la flamme d’un cornet de carton, s’approcha d’André. Il dormait profondément, sa tête dorée enfoncée dans l’oreiller ; elle toucha son front et ses petites mains ouvertes sur le drap, puis s’assit auprès de lui, à sa place accoutumée. La nuit, elle restait ainsi des heures entières, éveillée à demi, tricotant, engourdie par la chaleur du poêle, songeant au temps passé et à ce jour où Cyrille et Youri se marieraient, où de petits enfants nouveaux dormiraient là. André partirait bientôt. À six ans, les garçons descendaient vivre à l’étage au-dessous, avec les précepteurs et les gouvernantes. Mais jamais la vieille chambre n’était demeurée longtemps vide. Cyrille ?… ou Youri ?… ou Loulou, peut-être ?… Elle regarda la bougie qui se consumait en grésillant avec un bruit fort et monotone dans le silence, agita doucement la main, comme si elle mettait en branle un berceau. « J’en verrai quelques uns encore, si Dieu le veut », murmura-t-elle. </p>
+        <p> À la porte quelqu’un frappa. Elle se leva, à voix basse dit : </p>
+        <p> « C’est vous, Nicolas Alexandrovitch ?… </p>
+        <p> – Oui, Nianiouchka… </p>
+        <p> – Allez doucement, ne réveillez pas le petit… » </p>
+        <p> Il entra ; elle prit une chaise, la posa avec précaution près du poêle. </p>
+        <p> « Vous êtes fatigué ? Voulez-vous un peu de thé ? J’aurais vite fait de chauffer l’eau. » </p>
+        <p> Il l’arrêta. </p>
+        <p> « Non. Laisse. Je n’ai besoin de rien. » </p>
+        <p> Elle ramassa l’ouvrage tombé à terre, se rassit, agita rapidement les aiguilles brillantes. </p>
+        <p> « Il y avait longtemps que vous n’étiez venu nous voir. » </p>
+        <p> Il ne répondit pas, avança les mains vers le poêle ronflant. </p>
+        <p> « Vous avez froid, Nicolas Alexandrovitch ? » </p>
+        <p> Il ramena ses bras contre sa poitrine avec un frisson léger ; elle s’exclama comme autrefois : </p>
+        <p> « Vous avez encore pris du mal ? </p>
+        <p> – Mais non, ma vieille. » </p>
+        <p> Elle secoua la tête d’un air mécontent et se tut. Nicolas Alexandrovitch regarda le lit d’André. </p>
+        <p> « Il dort ? </p>
+        <p> – Oui. Vous voulez le voir ? » </p>
+        <p> Elle se leva et prit la lumière, s’approcha de Nicolas Alexandrovitch. Il ne bougeait pas… Elle se pencha, lui mit rapidement la main sur l’épaule. </p>
+        <p> « Nicolas Alexandrovitch… Kolinka… </p>
+        <p> – Laisse-moi », murmura-t-il. </p>
+        <p> Elle se détourna silencieusement. </p>
+        <p> Il valait mieux ne rien dire. Et devant qui pouvait-il laisser couler ses larmes librement, sinon devant elle ?… Hélène Vassilievna elle-même… Mais il valait mieux ne rien dire… Elle recula doucement dans l’ombre, dit à mi-voix : </p>
+        <p> « Attendez-moi, je vais préparer un peu de thé, ça nous réchauffera tous les deux… » </p>
+        <p> Quand elle revint il paraissait calmé ; il tournait machinalement la poignée du poêle, d’où le plâtre coulait avec un bruit léger de sable. </p>
+        <p> « Regarde, Tatiana, combien de fois t’ai-je dit de faire coller ces trous… Regarde, regarde, fit-il en montrant une blatte qui courait sur le plancher : elles sortent de là. Est-ce que tu crois que c’est sain pour une chambre d’enfants ? </p>
+        <p> – Vous savez bien que c’est signe de prospérité dans une maison, dit Tatiana Ivanovna en haussant les épaules : Dieu merci, il y en a toujours eu ici, et vous y avez été élevé et d’autres avant vous. » Elle lui mit dans les mains le verre de thé qu’elle avait apporté, remua la cuiller. </p>
+        <p> « Buvez pendant que c’est chaud. Y a-t-il assez de sucre ? » </p>
+        <p> Il ne répondit pas, avala une gorgée d’un air las et absent, et, brusquement, se leva. </p>
+        <p> « Allons, bonsoir, fais réparer le poêle, tu entends ? </p>
+        <p> – Si vous voulez. </p>
+        <p> – Éclaire-moi. » </p>
+        <p> Elle prit la bougie, alla avec lui jusqu’à la porte ; elle descendit la première les trois marches du seuil, dont les briques rouges, descellées, branlaient et penchaient d’un côté, comme entraînées par un poids vers la terre. </p>
+        <p> « Faites attention… Vous allez dormir, à présent ? </p>
+        <p> – Dormir… Je suis triste, Tatiana, mon âme est triste… </p>
+        <p> – Dieu les protégera, Nicolas Alexandrovitch. On meurt dans son lit, et Dieu protège le chrétien au milieu des balles… </p>
+        <p> – Je sais, je sais… </p>
+        <p> – Il faut avoir confiance en Dieu. </p>
+        <p> – Je sais, répéta-t-il. Mais ce n’est pas seulement cela… </p>
+        <p> – Et quoi donc, Barine ? </p>
+        <p> – Tout va mal, Tatiana, tu ne peux pas comprendre. » </p>
+        <p> Elle hocha la tête. </p>
+        <p> « Hier, mon petit-neveu, le fils de ma nièce de Soukharevo, a été pris, lui aussi, pour cette guerre maudite. Il n’y a pas d’autre homme que lui dans la famille, puisque l’aîné a été tué à la Pentecôte dernière. Il reste une femme et une petite fillette de l’âge de notre André… et comment cultiver le champ ?… Tout le monde a sa part de misère. </p>
+        <p> – Oui, c’est un triste temps… Et Dieu veuille… » </p>
+        <p> Il s’interrompit, dit brusquement : </p>
+        <p> « Allons, bonsoir, Tatiana. </p>
+        <p> – Bonsoir, Nicolas Alexandrovitch. » </p>
+        <p> Elle attendit qu’il eût traversé le salon et demeura immobile, écoutant crier le parquet sous ses pas. Elle ouvrit le petit vasistas découpé dans la vitre. Un vent glacé souffla avec violence, soulevant son châle, les mèches défaites de ses cheveux. La vieille femme sourit, ferma les yeux. Elle était née dans une campagne lointaine des Karine, au nord de la Russie, et il n’y avait jamais assez de glace, assez de vent pour elle. « Chez nous, nous cassions la glace avec nos pieds nus, au printemps, et je le ferais bien encore », disait-elle. </p>
+        <p> Elle ferma le carreau ; on n’entendit plus le sifflement du vent. Seuls demeuraient le faible bruit du plâtre coulant dans les vieux murs, avec son chuchotement de sablier, et le craquement sourd et profond des boiseries anciennes rongées par les rats… </p>
+        <p> Tatiana Ivanovna revint dans sa chambre, pria longtemps et se dévêtit. Il était tard. Elle souffla la bougie, soupira, dit plusieurs fois à voix haute, dans le silence : « Mon Dieu, mon Dieu… » et s’endormit. </p>
+      </div>
+      <div title="CHAPITRE III" type="chapter">
+        <p></p>
+        <p> CHAPITRE III </p>
+        <p> Quand Tatiana Ivanovna eut fermé les portes de la maison vide, elle monta au petit belvédère installé sur le toit. C’était une silencieuse nuit de mai, déjà chaude et douce. Soukharevo brûlait ; on voyait distinctement les flammes étinceler, et on entendait des cris lointains portés par le vent. </p>
+        <p> Les Karine s’étaient enfuis en janvier 1918, cinq mois auparavant, et depuis, tous les jours, Tatiana Ivanovna avait vu des villages flamber à l’horizon, éteints, puis rallumés, à mesure qu’ils passaient des Rouges aux Blancs et revenaient aux Rouges. Mais jamais l’incendie n’avait été si proche que ce soir ; le reflet des flammes éclairait si nettement le parc abandonné qu’on voyait jusqu’aux buissons de lilas de la grande allée, épanouis la veille. Les oiseaux, trompés par la lumière, volaient comme en plein jour… Les chiens criaient. Puis le vent tourna, emportant le bruit du feu et son odeur. Le vieux parc abandonné redevint calme et sombre, et le parfum des lilas emplit l’air. </p>
+        <p> Tatiana Ivanovna attendit quelque temps, puis soupira, descendit. En bas les tapis étaient enlevés et les tentures. Les fenêtres étaient clouées de planches et protégées par des barres de fer. L’argenterie était rangée au fond des malles, dans les caves ; elle avait fait enterrer la porcelaine précieuse dans la partie ancienne, abandonnée du verger. Certains des paysans l’avaient aidée : ils s’imaginaient que toutes ces richesses, plus tard, leur reviendraient… Les hommes, à présent, ne se souciaient du bien du prochain que pour s’en emparer… Ainsi, ils ne diraient rien aux commissaires de Moscou, et plus tard, on verrait… Sans eux, d’ailleurs, elle n’aurait rien pu faire… Elle était seule, les domestiques partis depuis longtemps. Le cuisinier Antipe, le dernier, était demeuré avec elle jusqu’au mois de mars, où il était mort. Il avait la clef de la cave, et il ne demandait pas autre chose. « Tu as tort de ne point prendre de vin, Tatiana, disait-il, ça console de toutes les misères. Regarde, nous sommes seuls abandonnés comme des chiens, et je crache sur tout, tout m’est égal tant que j’ai du vin… » Mais elle n’avait jamais aimé boire. Un soir, c’était pendant les dernières tempêtes de mars, ils étaient assis tous les deux dans la cuisine, il avait commencé à divaguer, à se souvenir du temps où il était soldat. « Ils ne sont pas si bêtes, les jeunes, avec leur révolution… Chacun son tour… Ils ont assez bu de notre sang, les sales cochons, les Barines maudits… » Elle ne répondait rien. À quoi bon ? Il avait menacé de brûler la maison, de vendre les bijoux et les icônes cachées… Il avait déliré quelque temps ainsi, et, tout à coup, il avait poussé une sorte de cri plaintif, appelé : « Alexandre Kirilovitch, pourquoi nous as-tu laissés, Barine ? » Un flot de vomissements, du sang noir et de l’alcool lui étaient sortis des lèvres ; il avait agonisé jusqu’au matin et il était mort. </p>
+        <p> Tatiana Ivanovna attacha les chaînes de fer aux portes du salon, et sortit sur la terrasse par la plus petite entrée dérobée de la galerie. Les statues étaient encore enganguées dans leurs caisses de planches ; on les avait enfermées, en septembre 1916, et oubliées là. Elle regarda la maison ; la délicate couleur jaune de la pierre était noircie par la fonte des neiges ; sous les feuilles d’acanthes, le stuc s’écaillait, montrant des marques blanchâtres comme des traces de balles. Des vitres de l’orangerie avaient été brisées par le vent. « Si Nicolas Alexandrovitch voyait cela… » </p>
+        <p> Elle fit quelques pas dans l’allée et s’arrêta en portant les mains à son cœur. Une forme d’homme était debout devant elle. Un instant elle regarda, sans la reconnaître, cette figure pâle, harassée, sous la casquette de soldat, puis dit d’une voix tremblante : </p>
+        <p> « C’est toi ? C’est toi, Yourotchka… </p>
+        <p> – Mais oui, fit-il avec une expression étrange, hésitante et froide, est-ce que tu veux me cacher cette nuit ? </p>
+        <p> – Sois tranquille », dit-elle comme autrefois. Ils entrèrent dans la maison, dans la cuisine déserte ; elle alluma une chandelle, éclaira le visage de Youri. </p>
+        <p> « Comme tu as changé, Seigneur !… Es-tu malade ? </p>
+        <p> – J’ai eu le typhus, dit-il d’une voix lente, enrouée et rauque, et j’ai été malade comme un chien, et tout près d’ici, à Temnaïa… Mais je craignais de te le faire savoir. Je suis sous une menace d’arrestation et passible de la peine de mort, acheva-t-il avec la même inflexion monotone et froide. Je voudrais boire… » </p>
+        <p> Elle mit devant lui de l’eau et s’agenouilla pour dénouer les chiffons sales et sanglants qui enveloppaient ses pieds nus. </p>
+        <p> « J’ai marché longtemps », dit-il. </p>
+        <p> Elle leva la tête, demanda : </p>
+        <p> « Pourquoi es-tu venu ? Les paysans sont insensés, ici. </p>
+        <p> – Ah, c’est partout la même chose. Quand je suis sorti de prison, les parents étaient partis pour Odessa. Où aller ? Les gens vont et viennent, les uns vers le nord, les autres vers le sud… » </p>
+        <p> Il haussa les épaules, dit avec indifférence : </p>
+        <p> « C’est la même chose partout… </p>
+        <p> – Tu as été en prison ? murmura-t-elle en joignant les mains. </p>
+        <p> – Six mois. </p>
+        <p> – Pourquoi ? </p>
+        <p> – Le diable seul le sait… » </p>
+        <p> Il se tut, demeura immobile, acheva avec effort : </p>
+        <p> « Je suis sorti de Moscou… Un jour, je suis monté dans un train-ambulance, et les infirmiers m’ont caché… J’avais encore de l’argent… J’ai voyagé avec eux dix jours… puis j’ai marché… Mais j’avais pris le typhus. Je suis tombé dans un champ, près de Temnaïa. Des gens m’ont ramassé. Je suis resté chez eux quelque temps puis comme les Rouges approchaient, ils ont eu peur et je suis parti. </p>
+        <p> – Où est Cyrille ? </p>
+        <p> – Il a été emprisonné avec moi. Mais il a pu se sauver, il a rejoint les parents à Odessa, on m’a fait passer une lettre quand j’étais encore en prison… Lorsque je suis sorti, il y avait trois semaines qu’ils étaient partis. Je n’ai jamais eu de chance, ma vieille Nianiouchka, dit-il en souriant de son air moqueur et résigné. Même en prison, Cyrille était dans la cellule d’une belle jeune femme, une actrice française, et moi avec un vieux juif. » </p>
+        <p> Il rit, et s’arrêta, comme étonné lui-même de l’accent sourd et brisé de sa voix. Il mit sa joue sur sa main, soupira : </p>
+        <p> « Je suis si heureux d’être à la maison, Nianiouchka », et, brusquement, il s’endormit. </p>
+        <p> Il dormit quelques heures, sans qu’elle bougeât, assise en face de lui, le regardant ; les larmes coulaient silencieusement sur sa vieille figure pâle. Un peu plus tard, elle le réveilla, le fit monter dans la chambre d’enfants, le coucha. Il avait un délire léger. Il parlait à voix haute, touchait tour à tour la place entre les barreaux du lit d’André, o�� l’icône avait été suspendue, et le calendrier sur le mur, encore orné d’un portrait en couleurs du tzar, comme au temps de son enfance. Il montrait du doigt le feuillet qui portait la date du 18 mai 1918, répétait : « Je ne comprends pas, je ne comprends pas… » </p>
+        <p> Puis il regarda en souriant le store qui se balançait doucement, le parc, les arbres éclairés par la lune, et cette place, auprès de la fenêtre, où le vieux parquet formait une légère dépression ; la faible lumière de la lune l’emplissait et remuait, oscillait comme une flaque de lait. Combien de fois, quand son frère dormait, il s’était levé, était resté là assis par terre, écoutant l’accordéon du cocher, les rires étouffés des servantes… Les lilas sentaient fort, comme cette nuit… Il tendait l’oreille, épiait involontairement le bruit gémissant de l’accordéon dans le silence. Mais seul un grondement bas et doux traversait l’air, par instants. Il se redressa, toucha l’épaule de Tatiana Ivanovna, assise auprès de lui, dans l’ombre. </p>
+        <p> « Qu’est-ce que c’est ? </p>
+        <p> – Je ne sais pas. On l’entend depuis hier. C’est le tonnerre, peut-être le tonnerre de mai. </p>
+        <p> – Ça ? dit-il. Il rit brusquement, la fixant de ses yeux dilatés que la fièvre pâlissait et brûlait d’une sorte de dure lumière : C’est le canon, ma vieille !… Je me disais bien… C’était trop beau… » </p>
+        <p> Il prononça des paroles confuses, mêlées de rires, puis di distinctement : </p>
+        <p> « Mourir tranquille dans ce lit, je suis las… » </p>
+        <p> Au matin la fièvre était tombée ; il voulut se lever, sortir dans le parc, respirer l’air du printemps, tiède et pur, comme autrefois… Cela seul n’avait pas changé… Le parc abandonné, plein d’herbes sauvages, avait un aspect misérable et triste. Il entra dans le petit pavillon, se coucha par terre, joua machinalement avec les éclats des vitres peintes, regardant la maison à travers les morceaux. Une nuit, en prison, alors qu’il attendait de jour en jour son exécution, il avait revu, en rêve, la maison, telle qu’elle lui apparaissait aujourd’hui, des fenêtres du petit pavillon, mais ouverte, les terrasses pleines de fleurs. Il avait perçu dans son sommeil jusqu’au piétinement des ramiers sur le toit. Il s’était réveillé en sursaut et avait pensé : « Demain c’est la mort, c’est certain. Avant de mourir, seulement, on peut se souvenir ainsi… » </p>
+        <p> La mort. Il ne la craignait pas. Mais s’en aller dans ce tumulte de révolution, oublié de tous, abandonné… Stupide, tout cela… Enfin, il n’était pas mort encore… qui sait ? Il échapperait peut-être. Cette maison… Il avait bien cru ne jamais la revoir, et elle était là, et ces morceaux de vitres peintes que le vent brisait toujours et avec lesquels il avait joué, enfant, et imaginé des coteaux d’Italie… sans doute à cause de leur couleur violacée de sang et de vin noir… Tatiana Ivanovna entrait et disait : « Ta mère t’appelle, mon cœur… » </p>
+        <p> Tatiana Ivanovna entra tenant à la main une assiette avec des pommes de terre et du pain. </p>
+        <p> « Comment t’arranges-tu pour manger ? demanda-t-il. </p>
+        <p> – À mon âge, on n’a pas besoin de grand’chose. J’ai toujours eu des pommes de terre, et, dans le village, parfois, on a du pain… Je n’ai jamais manqué de rien. » </p>
+        <p> Elle s’agenouilla à côté de lui, lui donnant à manger et à boire comme s’il eût été trop faible pour porter les aliments à ses lèvres. </p>
+        <p> « Youri… si tu partais maintenant ? » </p>
+        <p> Il fronça les sourcils, la regarda sans répondre. Elle lui dit : </p>
+        <p> « Tu pourrais marcher jusqu’à la maison de mon neveu, il ne te ferait point de mal : si tu as de l’argent il t’aiderait à trouver des chevaux et tu pourrais aller à Odessa. Est-ce loin ? </p>
+        <p> – Trois, quatre jours en chemin de fer, en temps ordinaire… Maintenant… Dieu sait… </p>
+        <p> – Que faire ? Dieu t’aiderait. Tu pourrais rejoindre les parents et leur donner ceci. Je n’ai jamais voulu le confier à personne, dit-elle en montrant l’ourlet de sa robe, ce sont les diamants du grand collier de ta mère. Avant de partir elle m’avait dit de les cacher. Ils n’ont rien pu emporter avec eux, ils sont partis la nuit où les Rouges ont pris Temnaïa, et ils craignaient d’être arrêtés… Comment vivent-ils à présent ? </p>
+        <p> – Mal, sans doute, dit-il en haussant les épaules avec lassitude : eh bien, nous verrons demain. Mais, quoi, tu te fais des illusions, c’est pareil partout, et ici, du moins, les paysans me connaissent, je ne leur ai jamais fait de mal… </p>
+        <p> – Qui peut savoir ce qu’ils ont dans l’âme, les chiens ? grommela-t-elle. </p>
+        <p> – Demain, demain, répéta-t-il en fermant les yeux, nous verrons, demain. Il fait si bon ici, mon Dieu… » </p>
+        <p> La journée passa ainsi. Vers le soir, il rentra. C’était un beau crépuscule limpide et tranquille comme celui de la veille. Il fit un détour, longea la pièce d’eau ; à l’automne les buissons qui la bordaient s’étaient effeuillés, et elle était recouverte encore d’une couche épaisse de feuilles mortes, demeurées sous la glace. Les fleurs de lilas tombaient en pluie légère ; on apercevait à peine l’eau noire, par endroits, qui luisait faiblement. </p>
+        <p> Il revint à la maison, remonta dans la chambre d’enfants. Tatiana Ivanovna avait mis le couvert devant la fenêtre ouverte ; il reconnut une des petites nappes de fine toile réservées spécialement aux enfants, quand ils mangeaient dans leur chambre, pendant leurs courtes maladies, et la fourchette, le couteau de vermeil ancien, la vieille petite timbale ternie. </p>
+        <p> « Mange, bois, mon cœur. J’ai pris pour toi une bouteille de vin à la cave, et tu aimais autrefois les pommes de terre cuites sous la cendre. </p>
+        <p> – Le goût m’en a passé depuis, dit-il en riant, merci quand même ma vieille. » </p>
+        <p> La nuit tombait. Il fit allumer une bougie, la mit sur un coin de la table. La flamme brûlait, droite et transparente dans la nuit tranquille. Quel silence… Il demanda : </p>
+        <p> « Nianiouchka ? Pourquoi n’as-tu pas suivi les parents ? </p>
+        <p> – Il fallait bien que quelqu’un reste pour garder la maison. </p>
+        <p> – Crois-tu ? fit-il avec une sorte d’ironie mélancolique, et pour qui mon Dieu ? » </p>
+        <p> Ils se turent. Il demanda encore : </p>
+        <p> « Tu ne voudrais pas aller les rejoindre ? </p>
+        <p> – J’irai s’ils me font appeler. Je trouverais mon chemin ; je n’ai jamais été empruntée, ni sotte, Dieu merci… Mais que deviendrait la maison ?… » </p>
+        <p> Elle s’interrompit brusquement, dit à voix basse : </p>
+        <p> « Écoute !… » </p>
+        <p> Quelqu’un frappait, en bas. Ils se levèrent tous deux précipitamment. </p>
+        <p> « Cache-toi, cache-toi pour l’amour de Dieu, Youri !… » </p>
+        <p> Youri s’approcha de la fenêtre, regarda avec précaution au dehors. La lune s’était levée. Il reconnut le garçon, debout au milieu de l’allée ; il s’était reculé de quelques pas et appelait : </p>
+        <p> « Youri Nicolaévitch ! C’est moi, Ignat !… » </p>
+        <p> C’était un jeune cocher qui avait été élevé dans la maison des Karine. Youri avait joué avec lui dans son enfance… C’était lui qui chantait, en s’accompagnant de l’accordéon, les nuits d’été, dans le parc… « Si celui-là me veut du mal, songea brusquement Youri, que tout aille au diable, et moi avec !… » Il se pencha à la fenêtre, cria : </p>
+        <p> « Monte, vieux… </p>
+        <p> – Je ne peux pas, la porte est barricadée. </p>
+        <p> – Descends ouvrir, Niania, il est seul. » </p>
+        <p> Elle chuchota : </p>
+        <p> « Qu’as-tu fait, malheureux ? » </p>
+        <p> Il fit un geste las de la main. </p>
+        <p> « Il arrivera ce qui doit arriver… D’ailleurs, il m’avait vu… Allons, va lui ouvrir, ma vieille… » </p>
+        <p> Elle demeurait debout, sans bouger, tremblante et silencieuse. Il marcha vers la porte. Elle l’arrêta, le sang brusquement revenu à ses joues. </p>
+        <p> « Que fais-tu ? Ce n’est pas à toi de descendre ouvrir au cocher. Attends-moi. » </p>
+        <p> Il haussa doucement les épaules et se rassit. Quand elle revint, suivie d’Ignat, il se leva, alla au-devant d’eux. </p>
+        <p> « Bonjour, je suis content de te voir. </p>
+        <p> – Moi aussi, Youri Nicolaévitch », dit le garçon en souriant. Il avait une bonne grosse figure rose et pleine. </p>
+        <p> « Tu as mangé à ta faim, toi ? </p>
+        <p> – Dieu m’a aidé, Barine. </p>
+        <p> – Tu joues encore de l’accordéon, comme autrefois ? </p>
+        <p> – Ça arrive… </p>
+        <p> – Je t’entendrai encore… Je reste ici quelque temps… » </p>
+        <p> Ignat ne répondit pas ; il souriait toujours, montrant ses larges dents brillantes. </p>
+        <p> « Veux-tu boire ? Donne un verre, Tatiana. » </p>
+        <p> La vieille femme obéit avec humeur. Le garçon but. </p>
+        <p> « À votre bonne santé, Youri Nicolaévitch. » </p>
+        <p> Ils se turent. Tatiana Ivanovna s’avança : </p>
+        <p> « C’est bon. Va-t-en maintenant. Le jeune Barine est fatigué. </p>
+        <p> – Il vous faudrait tout de même venir avec moi au village, Youri Nicolaévitch… </p>
+        <p> – Ah ! pourquoi ? murmura Youri avec un involontaire fléchissement de la voix, pourquoi, mon vieux ? </p>
+        <p> – Il faut. » </p>
+        <p> Tatiana Ivanovna parut bondir brusquement en avant, et sur le pâle visage paisible, Youri, tout à coup, vit passer une expression si sauvage, si étrange, qu’il frémit, dit avec une sorte de désespoir : </p>
+        <p> « Laisse. Tais-toi, je t’en supplie. Laisse, ça ne fait rien… » </p>
+        <p> Elle criait sans l’écouter, ses maigres mains tendues comme des griffes : </p>
+        <p> « Ah, diable maudit, fils de chien ! Tu crois que je ne vois pas tes pensées dans tes yeux ? Et qui es-tu pour donner des ordres à ton maître ? » </p>
+        <p> Il tourna vers elle une figure changée, aux yeux étincelants, puis parut se calmer, dit avec indifférence : </p>
+        <p> « Tais-toi, grand’mère… Il y a des gens dans le village qui veulent voir Youri Nicolaévitch, et voilà tout… </p>
+        <p> – Est-ce que tu sais ce qu’ils me veulent, au moins », demanda Youri. Il se sentait las, tout d’un coup, avec un seul sincère et profond souhait dans son cœur : se coucher et dormir longtemps. </p>
+        <p> « Vous parler pour le partage du vin. Nous avons reçu des ordres de Moscou. </p>
+        <p> – Ah ! c’est donc ça ? Mon vin t’a plu, je vois. Mais vous auriez pu attendre à demain, tu sais. » </p>
+        <p> Il marcha vers la porte, et Ignat derrière lui. Sur le seuil il s’arrêta. Une seconde Ignat parut hésiter, et tout à coup, du même mouvement dont il saisissait le fouet autrefois, il porta la main à la ceinture, sortit le mauser, tira deux coups. L’un atteignit Youri entre les épaules ; il poussa une sorte de cri étonné, gémit. Une seconde balle pénétra dans la nuque, le tuant net. </p>
+      </div>
+      <div title="CHAPITRE IV" type="chapter">
+        <p></p>
+        <p> CHAPITRE IV </p>
+        <p> Un mois après la mort de Youri, un cousin des Karine, un vieil homme à demi mort de faim et de fatigue, qui allait d’Odessa à Moscou à la recherche de sa femme, disparue pendant le bombardement d’avril, s’arrêta, une nuit, chez Tatiana Ivanovna. Il lui donna des nouvelles de Nicolas Alexandrovitch et des siens, et leur adresse. Ils étaient en bonne santé, mais vivaient misérablement. « Si tu pouvais trouver un homme sûr… » il hésita, « pour leur porter ce qu’ils avaient laissé… ? » </p>
+        <p> La vieille femme partit pour Odessa, emportant les bijoux, dans l’ourlet de sa jupe. Trois mois, elle marcha le long des routes, comme au temps de sa jeunesse, quand elle allait au pèlerinage de Kiev, montant parfois dans les trains d’affamés, qui commençaient à descendre vers le sud. Un soir de septembre, elle entra chez les Karine. Jamais ils ne devaient oublier l’instant où elle avait frappé à la porte, où ils l’avaient vue apparaître, avec son air hagard et tranquille, son paquet de hardes sur le dos, les diamants battant ses jambes lasses, ni sa pâle figure, d’où tout le sang semblait s’être retiré, ni sa voix quand elle leur avait annoncé la mort de Youri. </p>
+        <p> Ils habitaient une sombre chambre dans le quartier du port ; les sacs de pommes de terre étaient suspendus aux carreaux pour amortir le choc des balles. Hélène Vassilievna était couchée sur un vieux matelas jeté à terre, et Loulou et André jouaient aux cartes à la lumière d’un petit réchaud, où trois morceaux de charbon achevaient de se consumer. Il faisait froid déjà, et le vent passait par les fenêtres brisées. Cyrille dormait dans un coin, et Nicolas Alexandrovitch commençait là ce qui devait faire plus tard la principale occupation de sa vie entière, marcher d’un mur à un autre, les mains croisées derrière le dos, en songeant à ce qui ne reviendrait plus. </p>
+        <p> « Pourquoi l’ont-ils tué ? demanda Loulou, pourquoi, Seigneur, pourquoi ? » Les larmes coulaient sur son visage changé, vieilli. </p>
+        <p> « Ils craignaient qu’il ne revienne reprendre les terres. Mais ils disaient qu’il avait toujours été un bon Barine, et qu’il fallait lui épargner la misère d’un jugement et d’une exécution, et qu’il valait mieux le tuer ainsi… </p>
+        <p> – Les lâches, les chiens, cria Cyrille brusquement ; lui tirer une balle dans le dos ! Paysans maudits !… on vous a peu fouettés de notre temps !… » Il montra le poing à la vieille femme avec une sorte de haine : </p>
+        <p> « Tu entends ? Tu entends ? </p>
+        <p> – J’entends, dit-elle, mais à quoi bon regretter qu’il soit mort ainsi ou autrement ? Dieu l’a reçu sans les sacrements, je l’ai bien vu à sa figure tranquille. Que Dieu nous accorde à tous une fin aussi calme… Il n’a rien vu, il n’a pas souffert. </p>
+        <p> – Ah ! tu ne comprends pas. </p>
+        <p> – Tout est mieux ainsi », répéta-t-elle. </p>
+        <p> Ce fut la dernière fois qu’elle prononça le nom de Youri à haute voix ; elle semblait avoir refermé ses vieilles lèvres sur lui, pour toujours. Quand les autres parlaient de lui, elle ne répondait pas, demeurait muette et froide, regardant le vide avec une sorte de désespoir glacé. </p>
+        <p> L’hiver fut extrêmement dur. Ils manquaient de pain, de vêtements. Seuls, les bijoux apportés par Tatiana Ivanovna leur procuraient parfois un peu d’argent. La ville brûlait ; la neige tombait doucement, recouvrant les poutres calcinées des maisons détruites, les cadavres des hommes et ceux des chevaux dépecés. À d’autres moments, la ville changeait ; des provisions de viandes, de fruits, de caviar arrivaient… Dieu seul savait comment… La canonnade cessait, et la vie reprenait, précaire et enivrante. Enivrante… cela, seuls, Cyrille et Loulou le sentaient… Plus tard, la mémoire de certaines nuits, de promenades en barque, avec d’autres jeunes gens, le goût des baisers, du vent qui soufflait au petit jour sur les vagues démontées de la mer Noire, ne devaient jamais s’effacer en eux. </p>
+        <p> Le long hiver passa, encore un été et l’hiver suivant, où la famine devint telle que les petits enfants morts étaient portés en terre, en tas, dans de vieux sacs. Les Karine vécurent. Au mois de mai, avec le dernier bateau français qui quittait Odessa, ils purent s’embarquer, gagner Constantinople, puis Marseille. </p>
+        <p> Ils descendirent dans le port de Marseille le 28 mai 1920. À Constantinople, ils avaient vendu les bijoux qui leur restaient et ils possédaient quelque argent, cousu dans leurs ceintures par une vieille habitude… Ils étaient vêtus de haillons, ils avaient des figures étranges et effrayantes, misérables, dures. Les enfants, malgré tout, paraissaient gais ; ils riaient avec une espèce de sombre légèreté qui faisait sentir davantage aux vieux leur propre fatigue. </p>
+        <p> L’air limpide de mai était chargé d’une odeur de fleurs et de poivre ; la foule allait lentement, s’arrêtant aux vitrines, riant et parlant à voix haute ; les lumières, la musique dans les cafés, tout cela paraissait bizarre comme un rêve. </p>
+        <p> Tandis que Nicolas Alexandrovitch retenait les chambres à l’hôtel, les enfants et Tatiana Ivanovna demeurèrent un instant dehors. Loulou, son visage pâle tendu en avant, fermait les yeux, aspirait l’air parfumé du soir. Les grands globes électriques éclairaient la rue d’une lumière diffuse et bleue ; de fins arbres en bouquets agitaient leurs branches. Des matelots passèrent, regardèrent en riant la jolie fille immobile. L’un d’eux lui jeta doucement un brin de mimosa. Loulou se mit à rire. « Le beau, le charmant pays, dit-elle, quel rêve, Nianiouchka, regarde… » </p>
+        <p> Mais la vieille femme était assise sur un banc et paraissait somnoler, son mouchoir tiré sur sa tête blanche et les mains croisées sur ses genoux. Loulou vit que ses yeux étaient demeurés ouverts, et regardaient fixement devant elle. Elle lui toucha l’épaule, appela : </p>
+        <p> « Nianiouchka ? qu’est-ce que tu as ? » </p>
+        <p> Tatiana Ivanovna tressaillit brusquement, se leva. Au même instant Nicolas Alexandrovitch leur fit signe. </p>
+        <p> Ils entrèrent, traversèrent lentement le hall, sentant dans leurs dos les regards curieux. Les tapis épais dont ils avaient perdu l’habitude, semblaient coller à leurs semelles comme de la glu. Au restaurant l’orchestre jouait. Ils s’arrêtèrent, écoutèrent cette musique de jazz qu’ils entendaient pour la première fois, ils ressentaient une sorte de vague épouvante, de ravissement insensé. C’était un autre monde… </p>
+        <p> Ils entrèrent dans leurs chambres, demeurèrent longtemps aux fenêtres, regardant les autos passer dans la rue. Les enfants répétaient : </p>
+        <p> « Sortons, sortons, allons dans un café, dans un théâtre… » </p>
+        <p> Ils se baignèrent, brossèrent leurs habits, se précipitèrent vers la porte. Nicolas Alexandrovitch et sa femme les suivaient plus lentement, plus péniblement, mais dévorés, eux aussi, d’une soif de liberté et d’air. </p>
+        <p> Sur le seuil Nicolas Alexandrovitch se retourna. Loulou avait éteint l’électricité. Ils avaient oublié Tatiana Ivanovna assise devant la fenêtre. La lumière d’un bec de gaz placé devant le petit balcon éclairait sa tête baissée. Elle était immobile et semblait attendre. Nicolas Alexandrovitch demanda : « Tu viens avec nous, Nianiouchka ? » </p>
+        <p> Elle ne répondit rien. </p>
+        <p> « Tu n’as pas faim ? » </p>
+        <p> Elle secoua la tête, puis, tout à coup, se leva, tressant nerveusement les franges de son châle. </p>
+        <p> « Dois-je défaire les valises des enfants ? Quand repartons-nous ? </p>
+        <p> – Mais nous sommes arrivés, dit Nicolas Alexandrovitch. Pourquoi veux-tu repartir ? </p>
+        <p> – Je ne sais pas, murmura-t-elle avec une expression absente et lasse, je pensais… » </p>
+        <p> Elle soupira, écarta les bras, dit à voix basse : </p>
+        <p> « C’est bien. </p>
+        <p> – Veux-tu venir avec nous ? </p>
+        <p> – Non, merci, Hélène Vassilievna, prononça-t-elle avec effort ; non, vraiment… » </p>
+        <p> On entendait courir les enfants dans le couloir. Les vieilles gens se regardèrent silencieusement en soupirant, puis Hélène Vassilievna fit un geste las de la main, sortit, et derrière elle, Nicolas Alexandrovitch s’en alla, refermant doucement la porte. </p>
+      </div>
+      <div title="CHAPITRE V" type="chapter">
+        <p></p>
+        <p> CHAPITRE V </p>
+        <p> Les Karine arrivèrent à Paris au commencement de l’été, et louèrent un petit appartement meublé rue de l’Arc-de-Triomphe. En ce temps-là, Paris était envahi par le premier flot d’émigrés russes, qui tous s’entassaient dans Passy et aux environs de l’Étoile, tendant instinctivement vers le Bois proche. La chaleur, cette année-là, était suffocante. </p>
+        <p> L’appartement était petit, sombre, étouffant ; il sentait une odeur de poussière, de vieilles étoffes ; les plafonds bas semblaient peser sur les têtes ; des fenêtres on apercevait la cour, étroite et profonde, aux murs blanchis à la chaux, qui réverbéraient cruellement le soleil de juillet. Dès le matin on fermait les volets et les croisées, et dans ces quatre petites chambres obscures, les Karine vivaient jusqu’au soir, sans sortir, étonnés par les bruits de Paris, respirant avec malaise les relents des éviers, des cuisines qui montaient de la cour. Ils allaient, venaient, d’un mur à un autre, silencieusement, comme les mouches d’automne, quand la chaleur, la lumière et l’été ont passé, volent péniblement, lasses et irritées, aux vitres, traînant leurs ailes mortes. </p>
+        <p> Tatiana Ivanovna, assise tout le jour, dans une petite lingerie, au fond de l’appartement, raccommodait les effets. La bonne à tout faire, une fille normande, rouge et fraîche, lourde comme un percheron, entr’ouvrait parfois la porte, criait : « Vous ne vous ennuyez pas ? » s’imaginant être mieux comprise de l’étrangère en articulant fortement les paroles, comme lorsqu’on adresse aux sourds, et sa voix retentissante faisait trembler l’abat-jour de porcelaine de la lampe. </p>
+        <p> Tatiana Ivanovna secouait vaguement la tête, et la bonne recommençait à remuer ses casseroles. </p>
+        <p> André avait été envoyé en pension au bord de la mer, en Bretagne. Un peu plus tard, Cyrille partit. Il avait retrouvé sa compagne de cellule, l’actrice française, enfermée avec lui en prison, à Saint-Pétersbourg, en 1918. Elle était à présent richement entretenue. C’était une jolie fille généreuse, une blonde au beau corps lourd, folle de Cyrille… Cela simplifiait l’existence. Mais en rentrant chez lui, parfois, à l’aube, il lui arrivait de regarder la cour sous ses fenêtres, avec le désir d’être étendu sur ces pavés roses et d’en avoir fini, une fois pour toutes, avec l’amour, l’argent et leurs complications. </p>
+        <p> Puis, cela passait. Il achetait de beaux vêtements. Il buvait. À la fin de juin, il partit pour Deauville, avec sa maîtresse. </p>
+        <p> À Paris, quand la chaleur tombait, vers le soir, les Karine sortaient, allaient au Bois, au Pavillon Dauphine. Les parents restaient là, écoutant tristement le bruit des orchestres, se souvenant des Îles et des jardins de Moscou, tandis que Loulou, et d’autres jeunes filles, des jeunes gens, marchaient le long des allées obscures, récitant des vers, jouant le jeu amoureux. </p>
+        <p> Loulou avait vingt ans. Elle était moins belle qu’autrefois, maigre avec des mouvements brusques, comme ceux d’un garçon, une peau sombre, rude, brûlée par le vent de la longue traversée, une expression étrange, lasse et cruelle. Elle avait aimé sa vie ballottée, menacée, excitante. À présent, elle préférait à tout ces promenades au crépuscule de Paris, et les longues, silencieuses soirées dans les bistros, les petits zincs populeux, avec leur odeur de craie, d’alcool et le bruit des billards dans la pièce du fond… Vers minuit, ils rentraient chez l’un ou chez l’autre, et ils recommençaient à boire, à se caresser dans l’ombre. Les parents dormaient ; ils entendaient vaguement le gramophone jouer jusqu’au jour. Ils ne voyaient rien, ou ne voulaient rien voir. </p>
+        <p> Une nuit, Tatiana Ivanovna sortit de sa chambre pour retirer du linge qui séchait dans le cabinet de toilette ; la veille, elle l’avait oublié sur le chauffe-bains, et il fallait raccommoder une paire de bas pour Loulou. Elle travaillait souvent la nuit. Elle avait besoin de peu de sommeil, et, dès quatre, cinq heures, elle était debout, rôdant silencieusement dans les chambres ; elle n’entrait jamais au salon. </p>
+        <p> Cette nuit-là, elle avait entendu des pas et des voix dans le vestibule ; les enfants, depuis longtemps, étaient partis, sans doute… Elle vit de la lumière sous la porte du salon. « Ils ont oublié d’éteindre l’électricité, de nouveau », songea-t-elle. Elle ouvrit, et, alors seulement, elle entendit le gramophone, qui jouait, entouré d’un rempart de coussins ; la musique basse, haletante, semblait passer à travers une épaisseur d’eau. La chambre était à demi obscure. Seule une lampe, voilée d’un chiffon rouge, éclairait le divan, où Loulou, étendue, paraissait dormir, la robe défaite sur la poitrine, serrant dans ses bras un garçon, à la pâle figure délicate, renversée en arrière. La vieille femme s’avança. Ils dormaient réellement, leurs lèvres encore jointes, leurs visages collés l’un à l’autre. Une odeur d’alcool et une fumée épaisse emplissaient la chambre ; des verres, des bouteilles vides, des disques, des cendriers pleins, des coussins qui gardaient encore la forme des corps traînaient à terre. Loulou se réveilla, regarda fixement Tatiana Ivanovna, sourit ; ses yeux dilatés, noircis par le vin et la fièvre, avaient une expression d’indifférence railleuse et d’extrême fatigue. Elle murmura doucement : </p>
+        <p> « Qu’est-ce que tu veux ? » </p>
+        <p> Ses longs cheveux dénoués pendaient sur le tapis ; elle fit un mouvement pour relever la tête, gémit ; la main du garçon était crispée dans les mèches défaites. Elle les arracha brusquement, s’assit. </p>
+        <p> « Qu’est-ce qu’il y a ? » répéta-t-elle avec impatience. </p>
+        <p> Tatiana Ivanovna regardait le garçon. Elle le connaissait bien ; elle l’avait souvent vu chez les Karine, enfant ; il s’appelait le prince Georges Andronikof, elle se souvenait de ses longues boucles blondes, de ses cols de dentelle. « Jette-moi ça dehors, tout de suite, tu entends ? » dit-elle tout à coup, serrant les dents, sa vieille figure tremblante et blême. </p>
+        <p> Loulou haussa les épaules. </p>
+        <p> « Ça va, tais-toi… il part tout de suite… </p>
+        <p> – Lulitchka, murmura la vieille femme. </p>
+        <p> – Oui, oui, tais-toi, pour l’amour de Dieu… » </p>
+        <p> Elle arrêta le gramophone, alluma une cigarette, la jeta presque aussitôt, commanda brièvement : </p>
+        <p> « Aide-moi. » </p>
+        <p> Silencieusement, elles mirent de l’ordre dans la pièce, ramassèrent les bouts de cigarettes, les verres vides ; Loulou ouvrit les volets, aspira avidement la bouffée de fraîcheur qui montait des caves. </p>
+        <p> « Quelle chaleur, hein ? » </p>
+        <p> La vieille femme ne répondait rien, détournait les yeux avec une sorte de pudeur sauvage. </p>
+        <p> Loulou s’assit sur le rebord de la fenêtre, se mit à se balancer doucement en chantonnant. Elle semblait dégrisée, malade ; ses joues pâles apparaissaient par plaques livides, sous la poudre que les baisers avaient effacée ; les larges yeux cernés regardaient droit devant eux, profonds et vides. </p>
+        <p> « Qu’est-ce que tu as donc, Niania ? C’est toutes les nuits la même chose, dit-elle enfin, de sa voix calme, enrouée par le vin et la fumée. Et à Odessa, mon Dieu ?… Sur le bateau ?… Tu n’avais jamais rien remarqué ? </p>
+        <p> – Quelle honte, murmura la vieille femme avec une expression de dégoût et de souffrance. Quelle honte !… tes parents qui dorment à côté… </p>
+        <p> – Eh bien ? Ah çà, mais tu es folle, Niania ? Nous ne faisons rien de mal. On boit un peu, on s’embrasse, quel mal y a-t-il ? Tu crois que les parents ne faisaient pas la même chose quand ils étaient jeunes ? </p>
+        <p> – Non, ma fille. </p>
+        <p> – Ah, tu crois ça, toi ? </p>
+        <p> – Moi aussi, j’ai été jeune, Lulitchka. Il y a longtemps de cela, mais je me rappelle encore le jeune sang brûlant dans les veines. Crois-tu que cela s’oublie ? Et je me souviens de tes tantes, quand elles avaient vingt ans, comme toi. C’était à Karinovka, et le printemps… Ah, quel temps nous avions cette année-là… Tous les jours des promenades en forêt, et sur la pièce d’eau… Et le soir, des bals chez les voisins ou chez nous… Chacune avait son amoureux, et, bien des fois, ils partaient tous, au clair de la lune, en troïka… Ta grand’mère défunte disait : « De notre temps… » Mais quoi ? Elles savaient bien qu’il y avait des choses permises, et d’autres défendues… Le matin, parfois, elles venaient dans ma chambre me raconter ce que l’un avait dit, et l’autre… Un jour, ainsi, elles se sont fiancées, elles se sont mariées, et elles ont vécu, avec leur part de misères et leur part de bonheur, honnêtement, jusqu’au jour où Dieu les a reprises… Elles sont mortes jeunes, tu le sais, l’une en couches, et l’autre, cinq ans plus tard d’une mauvaise fièvre… Eh, oui, je me souviens… Nous avions les plus beaux chevaux de la région, et ils s’en allaient en cavalcade, parfois, ton papa qui était un jeune garçon alors, et ses amis, et tes tantes, avec d’autres jeunes filles, dans la forêt, avec les laquais qui portaient les torches devant eux… </p>
+        <p> – Oui, dit amèrement Loulou, en montrant le triste petit salon sombre et la vodka grossière, au fond du verre qu’elle tournait machinalement entre ses doigts ; évidemment, le décor a changé… </p>
+        <p> – Ce n’est pas seulement cela qui a changé », grommela la vieille femme. Elle regarda tristement Loulou. </p>
+        <p> « Ma fille, pardonne-moi… tu n’as pas besoin d’avoir honte, je t’ai vue naître… Tu n’as pas commis le péché, au moins ?… Tu es encore une jeune fille ? </p>
+        <p> – Mais oui, ma vieille », dit Loulou. Elle se rappelait une nuit de bombardement, à Odessa, où elle était restée dans la maison du baron Rosenkranz, l’ancien gouverneur de la ville ; il était en prison, et son fils, seul, habitait là. La canonnade avait éclaté si brusquement qu’elle n’avait pas eu le temps de rentrer chez elle, et elle avait passé la nuit dans le palais désert, avec Serge Rosenkranz. Qu’est-ce qu’il était devenu, celui-là ? Mort, sans doute… Le typhus, la famine, une balle perdue, la prison… il n’y avait que l’embarras du choix, vraiment… Quelle nuit… Les docks brûlaient… Ils voyaient, du lit où ils se caressaient, les nappes de pétrole enflammé couler sur le port… </p>
+        <p> Elle se souvenait de cette maison, de l’autre côté de la rue, avec sa façade écroulée et les rideaux de tulle qui se balançaient dans le vide… Cette nuit-là… la mort était si proche… </p>
+        <p> Elle répéta machinalement : </p>
+        <p> « Oui, Nianiouchka… » </p>
+        <p> Mais Tatiana Ivanovna la connaissait bien : elle secoua la tête, pinçant silencieusement ses vieilles lèvres. </p>
+        <p> Georges Andronikof gémit, se retourna lourdement, puis se réveilla à demi. </p>
+        <p> « Je suis complètement saoul », dit-il doucement. </p>
+        <p> Il alla en chancelant jusqu’au fauteuil, mit son visage dans les coussins et demeura inerte. </p>
+        <p> « Il travaille toute la journée dans un garage, maintenant, et il meurt de faim. S’il n’y avait pas le vin… et le reste, à quoi bon vivre ? </p>
+        <p> – Tu offenses Dieu, Loulou. » </p>
+        <p> Brusquement la jeune fille cacha sa figure dans ses mains, éclata en sanglots désespérés. </p>
+        <p> « Nianiouchka… Je voudrais être chez nous !… Chez nous, chez nous ! répéta-t-elle en tordant ses doigts d’un geste nerveux et étrange que la vieille femme ne lui connaissait pas. Pourquoi sommes-nous châtiés ainsi ? Nous n’avons rien fait de mal !… » </p>
+        <p> Tatiana Ivanovna caressa doucement les cheveux défaits, pénétrés d’une odeur tenace de fumée et de vin. </p>
+        <p> « C’est la sainte volonté de Dieu. </p>
+        <p> – Ah, tu m’ennuies, tu ne sais dire que cela !… » </p>
+        <p> Elle s’essuya les yeux, haussa les épaules avec violence. </p>
+        <p> « Allons, laisse-moi !… Va-t’en… Je suis énervée et lasse. Ne dis rien aux parents… À quoi bon ? Tu leur ferais de la peine inutilement, et tu n’empêcherais rien, crois-moi… Rien. Tu es trop vieille, tu ne peux pas comprendre. » </p>
+      </div>
+      <div title="CHAPITRE VI" type="chapter">
+        <p></p>
+        <p> CHAPITRE VI </p>
+        <p> Un dimanche du mois d’août, quand Cyrille revint, une messe fut commandée par les Karine, pour le repos de l’âme de Youri. Ils allèrent tous ensemble à pied jusqu’à la rue Daru. C’était une admirable journée ; le ciel bleu étincelait. Il y avait une foire en plein vent sur l’avenue des Ternes, une musique sauvage, de la poussière ; les passants regardaient curieusement Tatiana Ivanovna, son châle noir sur les cheveux et sa longue jupe. </p>
+        <p> Rue Daru, la messe était célébrée dans la crypte de l’église ; les cierges crépitaient doucement ; on entendait les gouttes de cire brûlante qui coulaient sur les dalles dans les intervalles des répons. « Pour le repos de l’âme du serviteur de Dieu, Youri… » Le prêtre, un vieil homme aux longues mains tremblantes, parlait bas, d’une voix douce et étouffée. Les Karine priaient silencieusement ; ils ne songeaient plus à Youri, il était tranquille, lui, mais eux avaient encore tant de chemin à faire, un sombre et long chemin. « Mon Dieu, protégez-moi… Mon Dieu, pardonnez-moi… » disaient-ils. Seule, Tatiana Ivanovna, agenouillée devant l’icône qui brillait faiblement dans l’ombre, touchait, de son front incliné, les dalles froides, et ne songeait qu’à Youri, ne priait que pour lui, pour son salut et son repos éternel. </p>
+        <p> La messe finie, ils rentrèrent, achetèrent de jeunes roses à une fille qui passait, échevelée et rieuse. Ils commençaient à aimer cette ville et ce peuple. On oubliait toutes les misères, dans les rues, dès que le soleil se montrait, et on se sentait le cœur léger sans savoir pourquoi… </p>
+        <p> La bonne, le dimanche, avait congé. Le repas froid était servi sur la table. Ils mangèrent à peine, puis Loulou mit ses roses devant une vieille photo de Youri, enfant. </p>
+        <p> « Quel regard étrange il avait, dit Loulou, je n’avais jamais remarqué… ; une sorte d’indifférence, de fatigue, regardez… </p>
+        <p> – J’ai toujours vu ce regard aux portraits des gens qui devaient mourir jeunes ou d’une manière tragique, murmura Cyrille avec malaise, comme s’ils savent tout d’avance et s’en fichent… Pauvre Youri, c’était le meilleur de nous tous… » </p>
+        <p> Ils contemplèrent silencieusement le petit portrait, pâli. </p>
+        <p> « Il est tranquille, il est délivré à jamais. » </p>
+        <p> Loulou arrangea ses fleurs avec soin, alluma deux bougies, les mit de chaque côté du cadre, et ils demeurèrent debout, immobiles, s’efforçant de penser à Youri, mais ils n’éprouvaient plus qu’une sorte de tristesse glacée, comme si de longues années avaient coulé depuis sa mort. Deux ans seulement… </p>
+        <p> Hélène Vassilievna essuya doucement la poussière qui recouvrait le verre, d’un geste machinal, comme des larmes sur un visage. De tous ses enfants, Youri était celui qu’elle avait le moins compris, le moins aimé… « Il est avec Dieu, songeait-elle, il plus heureux que les autres… » </p>
+        <p> On entendait le bruit de la fête dans la rue. </p>
+        <p> « Il fait chaud ici », dit Loulou. </p>
+        <p> Hélène Vassilievna tourna la tête. </p>
+        <p> – Eh bien, sortez, mes enfants, que voulez-vous ? Allez respirer l’air et regarder la fête ; quand j’avais votre âge je préférais les foires de Moscou, aux Rameaux, aux fêtes de la Cour. </p>
+        <p> – Moi aussi j’aime cela, dit Loulou. </p>
+        <p> – Eh bien, va », répéta la mère d’un ton las. </p>
+        <p> Loulou et Cyrille partirent. Nicolas Alexandrovitch, debout devant la fenêtre, regardait les murs blancs, sans les voir. Hélène Vassilievna soupira. Comme il avait changé… Il n’était pas rasé… Il portait un vieux veston, plein de tâches… Comme il avait été beau et charmant, autrefois… Et elle-même ? Elle se regarda à la dérobée, dans une glace, vit sa figure pâle, la bouffissure maladive de la chair, et le vieux peignoir de flanelle défait… Une vieille, vieille femme, mon Dieu !… </p>
+        <p> « Nianiouchka », dit-elle tout à coup. </p>
+        <p> Elle ne l’avait jamais appelée ainsi. Tatiana Ivanovna, qui errait silencieusement d’un meuble à un autre, rangeant et laissant tour à tour les objets, tourna vers elle un regard égaré, étrange. </p>
+        <p> « Barinia ? </p>
+        <p> – Nous avons vieilli, hein, ma pauvre ? Mais toi, tu ne changes pas. Ça fait du bien de te regarder… Non, vraiment, tu ne changes pas. </p>
+        <p> – On ne change plus à mon âge que dans le cercueil », dit Tatiana Ivanovna avec un mince sourire. </p>
+        <p> Hélène Vassilievna hésita, murmura en baissant la voix : </p>
+        <p> « Tu te souviens bien de chez nous ? » </p>
+        <p> La vieille femme rougit brusquement, éleva en l’air ses mains tremblantes. </p>
+        <p> « Si je me souviens, Hélène Vassilievna !… Dieu !… Je pourrais dire où chaque chose était placée !… Je pourrais entrer dans la maison et marcher les yeux fermés !… Je me souviens de chaque robe, que vous portiez, et des costumes des enfants, et des meubles, et du parc, mon Dieu !… </p>
+        <p> – Le salon des glaces, mon petit salon rose… </p>
+        <p> – Le canapé, où vous étiez assise les soirs d’hiver, quand on menait les enfants en bas. </p>
+        <p> – Et avant cela ? notre mariage ?… </p>
+        <p> – Je vois encore la robe que vous portiez, vos diamants dans les cheveux… La robe était de moire, avec les vieilles dentelles de la défunte Princesse… Ah, mon Dieu, Lulitchka n’aura pas de pareilles… ». </p>
+        <p> Elles se turent toutes les deux. Nicolas Alexandrovitch regardait fixement la cour sombre ; il revoyait dans sa mémoire sa femme, telle qu’elle lui était apparue, pour la première fois, au bal, quand elle était encore la comtesse Eletzkaïa, avec sa grande robe de satin blanc, et ses cheveux d’or… Comme il l’avait aimée… Mais ils finissaient leur vie ensemble… C’était déjà beau… Si seulement ces femmes pouvaient se taire… s’il n’y avait pas ces souvenirs au fond du cœur, l’existence serait supportable… Il prononça avec effort entre ses dents serrées, sans tourner la tête : </p>
+        <p> « À quoi bon ? À quoi bon ? C’est fini. Ça ne reviendra plus. Que d’autres espèrent, s’ils veulent… c’est fini, fini », répéta-t-il avec une sorte de colère. </p>
+        <p> Hélène Vassilievna lui prit la main, porta à ses lèvres les doigts pâles, comme autrefois. </p>
+        <p> « Cela remonte du fond de l’âme, parfois… Mais il n’y a rien à faire… C’est la volonté de Dieu… Kolia, mon ami… mon chéri… nous sommes ensemble, et le reste… » </p>
+        <p> Elle fit un geste vague de la main ; ils se regardèrent silencieusement, cherchant d’autres traits, d’autres sourires, au fond du passé, sur leurs vieux visages. </p>
+        <p> La chambre était sombre et chaude. Hélène Vassilievna demanda : </p>
+        <p> « Prenons un taxi, allons quelque part, ce soir, veux-tu ? Il y avait autrefois un petit restaurant, près de Ville-d’Avray, au bord du lac, où nous sommes allés, en 1908, te rappelles-tu ? </p>
+        <p> – Oui. </p>
+        <p> – Il existe peut-être encore ? </p>
+        <p> – Peut-être, dit-il en haussant les épaules : on s’imagine toujours que tout s’écroule avec nous, n’est-ce pas ? Allons voir. » </p>
+        <p> Ils se levèrent, allumèrent l’électricité. Tatiana Ivanovna était debout au milieu de la pièce marmottant des paroles incompréhensibles. </p>
+        <p> « Tu restes là, Nianiouchka ? » demanda machinalement Nicolas Alexandrovitch. </p>
+        <p> Elle parut se réveiller ; ses lèvres tremblantes remuèrent longtemps, comme formant les mots avec effort. </p>
+        <p> « Et où irais-je ? » dit-elle enfin. </p>
+        <p> Quand elle fut seule, elle alla s’asseoir devant le portrait de Youri. Son regard le fixait, mais d’autres images encore passaient dans son souvenir, plus anciennes, et oubliées de tous. Des visages morts, des robes vieilles d’un demi-siècle, des chambres abandonnées… Elle se rappelait le premier petit cri plaintif et aigre de Youri… « Comme s’il savait ce qui l’attendait, songeait-elle. Les autres n’ont pas crié ainsi… » </p>
+        <p> Puis elle s’assit devant la fenêtre et commença à raccommoder les bas. </p>
+      </div>
+      <div title="CHAPITRE VII" type="chapter">
+        <p></p>
+        <p> CHAPITRE VII </p>
+        <p> Les premiers mois de la vie des Karine, à Paris, furent calmes. À l’automne, seulement, quand le petit André revint de Bretagne, et qu’il fallut songer à s’établir, l’argent commença à manquer. Les derniers bijoux, depuis longtemps, étaient partis. Il restait un petit capital, qui pouvait durer deux, trois ans… Après ? Quelques Russes avaient ouvert des restaurants, des cabarets de nuit, de petits magasins. Les Karine, comme les autres, avec leurs derniers sous, achetèrent et meublèrent une boutique, au fond d’une cour, et là, ils commencèrent par vendre les quelques couverts anciens, qu’ils avaient pu emporter avec eux, les dentelles, les icônes. Tout d’abord, personne n’acheta rien. En octobre il fallut payer le terme. Puis, André dut être envoyé à Nice. L’air de Paris lui donnait des crises d’étouffement. Ils songèrent à déménager. On leur offrait, près de la Porte de Versailles, un appartement moins cher et plus clair, mais il n’avait que trois pièces et une cuisine étroite comme un placard. Où loger la vieille Tatiana ? Il ne pouvait être question de la faire monter au sixième, avec ses mauvaises jambes. En attendant, chaque fin de mois était plus difficile que la précédente. Les bonnes s’en allaient, les unes après les autres, ne pouvant s’accoutumer à ces étrangers qui dormaient le jour, et, la nuit, mangeaient, buvaient, laissaient traîner la vaisselle sale, sur les meubles du salon, jusqu’au lendemain. </p>
+        <p> Tatiana Ivanovna essaya de faire quelques petits travaux, des lavages, mais elle devenait faible, et ses vieilles mains n’avaient pas la force de soulever les lourds matelas français et les pièces de linge mouillé. </p>
+        <p> Les enfants, perpétuellement las et irrités à présent, la rudoyaient, la renvoyaient : « Laisse. Va-t’en. Tu embrouilles tout. Tu casses tout. » Elle s’en allait sans rien dire. D’ailleurs, elle ne paraissait même pas les entendre. Elle demeurait des heures entières, immobile, les mains croisées sur ses genoux, fixant silencieusement l’espace. Elle était voûtée, presque courbée en deux, la peau, blanche, morte, avec des veines bleues, gonflées, au coin des paupières. Souvent quand on l’appelait, elle ne répondait pas, se contentant de serrer davantage sa petite bouche creuse. Elle n’était pas sourde, pourtant. Chaque fois qu’un nom du pays, même prononcé à voix basse, à peine soupiré, échappait à l’un d’eux, elle tressaillait, disait tout à coup de sa voix faible et calme : </p>
+        <p> « Oui… le jour de Pâques, où le clocher de Temnaïa a brûlé, je me rappelle… », ou : </p>
+        <p> « Le pavillon… déjà, quand vous êtes partis, le vent avait fait éclater les vitres… je me demande ce que tout cela est devenu… » </p>
+        <p> Et elle se taisait de nouveau et regardait la fenêtre, les murs blancs et le ciel au-dessus des toits. </p>
+        <p> « Quand est-ce que l’hiver viendra enfin ? disait-elle. Ah, mon Dieu, qu’il y a longtemps que nous n’avons vu ni le froid ni la glace… L’automne est bien long, ici… À Karinovka, sans doute, tout est blanc déjà, et la rivière est gelée… Vous rappelez-vous, Nicolas Alexandrovitch, quand vous aviez trois, quatre ans, moi, j’étais jeune, alors, votre maman défunte disait : « Tatiana, on voit bien que tu es du Nord, ma fille… À la première neige, tu deviens insensée… » Vous rappelez-vous ? </p>
+        <p> – Non, murmurait Nicolas Alexandrovitch d’un air las. </p>
+        <p> – Moi, je me rappelle, et bientôt, grommelait-elle, il n’y aura plus que moi pour me rappeler… » </p>
+        <p> Les Karine ne répondaient pas. Chacun d’eux avait assez de ses propres souvenirs, de ses appréhensions et de ses tristesses. Un jour, Nicolas Alexandrovitch dit : </p>
+        <p> « Les hivers d’ici ne ressemblent pas aux nôtres. » </p>
+        <p> Elle tressaillit. </p>
+        <p> « Comment cela, Nicolas Alexandrovitch ? </p>
+        <p> – Tu verras bien assez tôt », murmura-t-il. </p>
+        <p> Elle le regarda fixement et se tut. L’expression étrange, méfiante et hagarde de ses yeux, le frappa pour la première fois. </p>
+        <p> « Qu’est-ce qu’il y a, ma vieille ? » demanda-t-il doucement. </p>
+        <p> Elle ne répondit rien. À quoi bon ? </p>
+        <p> Tous les jours, elle regardait le calendrier, qui marquait le commencement d’octobre, scrutait longuement le rebord des toits, mais la neige ne tombait pas encore. Elle ne voyait que des tuiles sombres, la pluie, les feuilles d’automne tremblantes et sèches. </p>
+        <p> Elle était seule à présent tout le jour. Nicolas Alexandrovitch battait la ville à la recherche d’objets anciens, de bijoux pour leur petit magasin ; ils réussirent à vendre un peu de vieilleries et à en acheter d’autres. </p>
+        <p> Autrefois, Nicolas Alexandrovitch avait possédé des collections de porcelaines précieuses et de plats ciselés. Maintenant, parfois, quand il rentrait, le long des Champs-Élysées, vers le soir, un paquet sous le bras, il lui arrivait d’oublier que ce n’était pas pour sa maison, pour lui-même qu’il avait travaillé. Il allait vite, respirant l’odeur de Paris, regardant dans le crépuscule, les lumières qui brillaient, presque heureux et le cœur plein d’une triste paix. </p>
+        <p> Loulou avait obtenu une place de mannequin dans une maison de couture. La vie, insensiblement, s’organisait. Ils rentraient tard, fatigués, rapportant de la rue, de leur travail, une sorte d’excitation qui se dépensait quelque temps encore en rires, en paroles, mais la sombre demeure et la vieille femme muette les glaçaient peu à peu. Ils dînaient à la hâte, se couchaient et dormaient, sans un rêve, assommés par la dure journée. </p>
+      </div>
+      <div title="CHAPITRE VIII" type="chapter">
+        <p></p>
+        <p> CHAPITRE VIII </p>
+        <p> Octobre passa, et les pluies de novembre commencèrent. On entendait du matin au soir les averses qui rebondissaient avec fracas sur les pavés de la cour. Dans les appartements l’air était chaud, lourd. Quand les calorifères s’éteignaient, à la nuit, l’humidité du dehors pénétrait à travers les rainures du plancher. Le vent aigre soufflait sous les tabliers de fer des cheminées éteintes. </p>
+        <p> Des heures entières, assise devant la fenêtre, dans l’appartement vide, Tatiana Ivanovna regardait tomber la pluie, et les lourdes gouttes couler sur les vitres comme un flot de larmes. D’une cuisine à une autre, par-dessus les petites caisses pareilles des garde-manger et la ficelle tendue entre deux clous, où séchaient les torchons, les servantes échangeaient des plaisanteries, des plaintes en cette langue rapide qu’elle ne comprenait pas. Vers quatre heures, les enfants rentraient de l’école. On entendait le bruit des pianos qui jouaient tous ensemble, et, sur chaque table, dans les salles à manger, des lampes semblables s’allumaient. On tirait les rideaux devant les fenêtres, et elle n’entendait plus que le son de la pluie et le grondement sourd des rues. </p>
+        <p> Comment pouvaient-ils vivre, tous ces gens enfermés dans ces maisons noires ? Quand viendrait la neige ? </p>
+        <p> Novembre passait, puis les premières semaines de décembre à peine plus froides. Les brouillards, les fumées, les dernières feuilles mortes, écrasées, emportées le long des ruisseaux… Puis Noël. Le 24 décembre, après un dîner léger, pris à la hâte, sur un coin de table, les Karine partirent réveillonner chez des amis. Tatiana Ivanovna les aida à s’habiller. Quand ils lui dirent adieu avant de sortir, elle eut un mouvement de joie en les voyant vêtus, comme autrefois, Nicolas Alexandrovitch en habit. Elle regarda en souriant Loulou, sa robe blanche, ses longues tresses roulées sur la nuque. </p>
+        <p> « Allons, Lulitchka, tu trouveras un fiancé, cette nuit, avec l’aide de Dieu. » </p>
+        <p> Loulou haussa silencieusement les épaules, se laissa embrasser sans rien dire, et ils partirent. André passait les vacances de Noël à Paris. Il portait la tunique, la petite culotte bleue, la casquette du lycée de Nice, dont il suivait les cours ; il semblait plus grand et plus fort ; il avait une manière rapide et vive de jeter les mots, l’accent, les gestes, l’argot d’un garçon né et élevé en France. Il sortait le soir pour la première fois, cette nuit-là, avec ses parents. Il riait, chantonnait. Tatiana Ivanovna se pencha à la fenêtre, le suivit du regard tandis qu’il marchait en avant, sautant par-dessus les flaques. La porte cochère retomba avec un choc sourd. Tatiana Ivanovna était seule, de nouveau. Elle soupira. Le vent, doux malgré la saison, et chargé de gouttelettes fines de pluie, lui soufflait au visage. Elle leva la tête, regarda machinalement le ciel. On apercevait à peine entre les toits un sombre espace, d’une singulière couleur rouge, comme embrasé par un feu intérieur. Dans la maison, des gramophones jouaient à des étages différents des musiques discordantes. </p>
+        <p> Tatiana Ivanovna murmura : « Chez nous… » et se tut. À quoi bon ? C’était fini depuis longtemps… Tout était fini, mort… </p>
+        <p> Elle ferma la fenêtre, revint dans l’appartement. Elle levait la tête, aspirait l’air avec une sorte d’effort, une expression inquiète et irritée. Ces plafonds bas l’étouffaient. Karinovka… La grande maison, ses fenêtres immenses, où l’air et la lumière pénétraient à flots, les terrasses, les salons, les galeries, où les soirs de fête cinquante musiciens se tenaient à l’aise. Elle se rappelait la nuit de Noël lorsque Cyrille et Youri étaient partis… Elle croyait entendre encore la valse qu’ils avaient jouée cette nuit-là… Quatre ans passés… Il lui semblait voir les colonnes étincelantes de glace, au clair de lune. « Si je n’étais pas si vieille, songea-t-elle, je ferais bien le voyage… Mais ce ne serait pas la même chose… Non, non, marmotta-t-elle vaguement, ce ne serait pas la même chose… » La neige… Quand elle la verrait tomber, ce serait fini… Elle oublierait tout. Elle se coucherait et fermerait les yeux pour toujours. Est-ce que je vivrai jusque-là ? murmura-t-elle. </p>
+        <p> Machinalement, elle prit les vêtements qui traînaient sur les chaises, les plia. Depuis quelque temps, il lui semblait voir partout une petite poussière fine, égale, qui tombait du plafond et recouvrait les objets. Cela avait commencé à l’automne, quand la nuit était venue plus tôt, et qu’on avait reculé l’heure d’allumer les lampes pour ne pas brûler trop d’électricité. Elle essuyait et secouait sans cesse les étoffes ; la poussière s’envolait, mais pour retomber aussitôt plus loin, comme une cendre légère. </p>
+        <p> Elle ramassa les effets, les brossa, en marmottant avec une expression d’hébétement et de souffrance : </p>
+        <p> « Qu’est-ce que c’est ? Qu’est-ce que c’est donc ? » </p>
+        <p> Brusquement elle s’arrêta, regarda autour d’elle. Par moments, elle ne comprenait plus pourquoi elle était là, rôdant dans ces étroites chambres. Elle porta les mains à sa poitrine, soupira. Il faisait chaud et lourd, et les calorifères, allumés encore par exception, cette nuit de fête, répandaient une odeur de peinture fraîche. Elle voulut les fermer, mais elle n’avait jamais pu comprendre la manière dont on les faisait manœuvrer. Elle tourna quelque temps en vain la poignée, la laissa. De nouveau, elle ouvrit la fenêtre. L’appartement, de l’autre côté de la cour, était éclairé et projetait dans la chambre un rectangle de vive lumière. </p>
+        <p> « Chez nous, songeait-elle, chez nous, maintenant… » </p>
+        <p> La forêt était gelée. Elle ferma les yeux, revit avec une précision extraordinaire la neige profonde, les feux du village qui scintillaient au loin, et la rivière à la lisière du parc, étincelante et dure comme du fer. </p>
+        <p> Elle demeurait immobile serrée contre la croisée, tirant du geste qui lui était familier, son châle sur les mèches défaites de ses cheveux. Il tombait une petite pluie rare et tiède ; les gouttes brillantes, chassées par de brusques bouffées de vent, lui mouillaient le visage. Elle frissonna, ramena plus étroitement contre elle les pans de son vieux fichu noir. Ses oreilles bourdonnaient, semblaient traversées parfois d’un bruit violent, comme celui du battant agité d’une cloche. Sa tête, tout le corps lui faisaient mal. </p>
+        <p> Elle quitta le salon, entra dans sa petite chambre, au fond du couloir, se coucha. </p>
+        <p> Avant de se mettre au lit, elle s’agenouilla, dit les prières. Elle se signait, touchait le parquet de son front incliné, comme tous les soirs. Mais les paroles s’embrouillaient, cette nuit, sur ses lèvres ; elle s’arrêtait, fixait avec une sorte de stupeur la petite flamme brillante, au pied de l’icône. </p>
+        <p> Elle se coucha, ferma les yeux. Elle ne parvenait pas à s’endormir, elle écoutait, malgré elle, les craquements des meubles, le bruit de la pendule dans la salle à manger, comme un soupir humain qui précédait le son de l’heure battant dans le silence, et, au-dessus, au-dessous d’elle, les gramophones, tous en marche, ce soir de réveillon. Des gens montaient l’escalier, le descendaient, traversaient la cour, sortaient. On entendait crier à chaque instant : « Cordon, s’il vous plaît ! » et le sourd écho de la porte cochère ouverte et refermée et des pas qui s’éloignaient dans la rue vide. Des taxis passaient rapidement. Une voix enrouée appelait le concierge dans la cour. </p>
+        <p> Tatiana Ivanovna retourna en soupirant sa tête pesante sur l’oreiller. Elle entendit sonner onze heures, puis minuit. Elle s’endormit plusieurs fois, se réveilla. Au moment où elle perdait conscience, chaque fois elle apercevait en rêve la maison, à Karinovka, mais l’image s’effaçait, elle se hâtait de refermer les yeux pour la ressaisir de nouveau. Toutes les fois un détail manquait. Tantôt, la délicate couleur jaune de la pierre était changée en une teinte rouge de sang séché, ou la maison était aveugle, murée, les fenêtres disparues. Cependant elle entendait le faible son des branches de sapins gelés, agités par le vent, avec leur bruit léger de verre. </p>
+        <p> Tout à coup, le rêve changea. Elle se vit arrêtée devant la maison vide, ouverte. C’était un jour d’automne, à l’heure où les domestiques venaient rallumer les poêles. Elle était en bas, debout, seule. Elle voyait dans son rêve la maison déserte, les chambres nues, telles qu’elle les avait laissées, avec les tapis roulés le long des murs. Elle montait, et toutes les portes battaient repoussées par le courant d’air, avec un bruit gémissant et étrange. Elle allait, se hâtait, comme si elle craignait d’arriver en retard. Elle voyait l’enfilade de pièces immenses, toutes ouvertes, vides, avec des morceaux de papier d’emballage et de vieux journaux qui traînaient à terre, et que le vent soulevait. </p>
+        <p> Enfin elle entra dans la chambre des enfants. Elle était vide comme les autres, jusqu’au petit lit d’André enlevé, et, dans son rêve, elle éprouva une espèce de stupeur : elle se souvenait de l’avoir rangé elle-même dans un coin de la pièce et roulé les matelas. Devant la fenêtre, assis à terre, Youri, pâle, amaigri, en uniforme de soldat comme le dernier jour, jouait avec de vieux osselets, ainsi qu’il le faisait quand il était enfant. Elle savait qu’il était mort, et, cependant, elle ressentit, en le voyant, une joie extraordinaire, telle que son vieux cœur épuisé commença à battre avec une violence presque douloureuse ; les coups sourds et profonds heurtaient les parois de sa poitrine. Elle eut encore le temps de se voir courir vers lui, traverser le parquet poudreux, qui criait, sous ses pas, comme autrefois, et au moment où elle allait le toucher, elle s’éveilla. </p>
+        <p> Il était tard. Le jour se levait. </p>
+      </div>
+      <div title="CHAPITRE IX" type="chapter">
+        <p></p>
+        <p> CHAPITRE IX </p>
+        <p> Elle s’éveilla en gémissant et resta immobile, étendue sur le dos, fixant avec stupeur les fenêtres claires. Un brouillard opaque et blanc emplissait la cour, et, à ses yeux fatigués, semblait de la neige, telle qu’elle tombe, pour la première fois, à l’automne, épaisse et aveuglante, répandant une sorte de morne lumière, de dur éclat blanc. </p>
+        <p> Elle joignit les mains, murmura : </p>
+        <p> « La première neige… » </p>
+        <p> Longtemps elle la regarda avec une expression de ravissement à la fois enfantin et un peu effrayant, insensé. L’appartement était silencieux. Sans doute, personne n’était rentré encore. Elle se leva, s’habilla. Elle ne quittait pas la fenêtre du regard, imaginant la neige qui tombait, la neige qui rayait l’air avec une rapidité fuyante, comme des plumes d’oiseau. Un moment il lui sembla entendre le bruit d’une porte refermée. Peut-être les Karine étaient-ils déjà revenus et dormaient ?… Mais elle ne pensait pas à eux. Elle croyait sentir s’écraser sur son visage les flocons de neige, avec leur goût de glace et de feu. Elle prit son manteau, attacha à la hâte son fichu sur sa tête, l’épingla autour du cou, chercha machinalement sur la table, de sa main étendue, comme une aveugle, le trousseau de clefs qu’elle emportait avec elle, à Karinovka, quand elle sortait. Elle ne trouva rien, tâtonna fébrilement, oubliant ce qu’elle voulait, rejeta avec impatience l’étui à lunettes, le tricot commencé, le portrait de Youri, enfant… </p>
+        <p> Il lui semblait qu’elle était attendue. Une fièvre étrange lui brûlait le sang. </p>
+        <p> Elle ouvrit une armoire, la laissa avec la porte qui battait et le tiroir ouvert. Un porte-manteau tomba. Elle hésita un instant, haussa les épaules, comme si elle n’avait pas de temps à perdre et brusquement sortit. Elle traversa l’appartement, descendit l’escalier de son petit pas rapide et silencieux. </p>
+        <p> Dehors, elle s’arrêta. Le brouillard glacé emplissait la cour d’une masse blanche, dense, qui s’élevait lentement de terre comme une fumée. Les fines gouttelettes lui piquaient le visage, comme la pointe des aiguilles de neige, quand elles tombent à moitié fondues et toutes mêlées encore de la pluie de septembre. </p>
+        <p> Derrière elle, deux hommes en habit sortirent et la regardèrent curieusement. Elle les suivit, se glissa dans l’entre-bâillement de la porte, qui retomba dans son dos, avec un gémissement sourd. </p>
+        <p> Elle était dans la rue, une rue noire et déserte ; un réverbère allumé brillait à travers la pluie. Le brouillard se dissipait. Il commençait à tomber une petite bruine aiguë et froide ; les pavés et les murs luisaient faiblement. Un homme passa, traînant des semelles mouillées qui rendaient l’eau ; un chien traversa la rue, avec une sorte de hâte, s’approcha de la vieille femme, la flaira, s’attacha à ses pas, avec un petit grondement gémissant et inquiet. Il la suivit quelque temps, puis la laissa. </p>
+        <p> Elle alla plus loin, vit une place, d’autres rues. Un taxi la frôla de si près que la boue lui gicla au visage. Elle ne paraissait rien voir. Elle marchait droit devant elle, en chancelant sur les pavés mouillés. Par moments, elle ressentait une fatigue telle que ses jambes semblaient plier sous le poids de son corps et s’enfoncer dans la terre. Elle levait la tête, regardait le jour qui venait du côté de la Seine, un pan de ciel blanc au bout de la rue. À ses yeux, cela se transformait en une plaine de neige comme celle de Soukharevo. Elle allait plus vite, éblouie par une sorte de pluie de feu qui hachait ses paupières. Dans ses oreilles sonnait un bruit de cloches. </p>
+        <p> Un instant, un éclair de raison lui revint ; elle vit distinctement le brouillard et la fumée qui se dissipaient, puis cela passa ; elle recommença à marcher, inquiète et lasse, courbée vers la terre. Enfin elle atteignit les quais. </p>
+        <p> La Seine était haute et couvrait les berges ; le soleil se levait, et l’horizon était blanc avec un éclat pur et lumineux. La vieille femme s’approcha du parapet, regarda fixement cette bande de ciel étincelant. Sous ses pieds, un petit escalier était creusé dans la pierre ; elle saisit la rampe, la serra fortement de sa main froide et tremblante, descendit. Sur les dernières marches l’eau coulait. Elle ne le voyait pas. « La rivière est gelée, songeait-elle, elle doit être gelée en cette saison… » </p>
+        <p> Il lui semblait qu’il fallait seulement la traverser et que, de l’autre côté, était Karinovka. Elle voyait scintiller les lumières des terrasses à travers la neige. </p>
+        <p> Mais quand elle fut arrivée en bas, l’odeur de l’eau la frappa enfin. Elle eut un brusque mouvement de stupeur et de colère, s’arrêta une seconde, puis descendit encore, malgré l’eau qui traversait ses chaussures et alourdissait sa jupe. Et, seulement quand elle fut entrée dans la Seine jusqu’à mi-corps, la raison lui revint complètement. Elle se sentit glacée, voulut crier, mais elle eut seulement le temps de tracer le signe de la croix et le bras levé retomba : elle était morte. </p>
+        <p> Le petit cadavre flotta un instant, comme un paquet de chiffons avant de disparaître, happé par la sombre Seine. </p>
+      </div>
+      <head/>
+    </body>
+    <back/>
+    <back/>
+  </text>
+</TEI>

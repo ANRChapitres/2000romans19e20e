@@ -1,0 +1,230 @@
+<?xml version='1.0' encoding='UTF8'?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> Le Cabochon d'émeraude </title>
+        <author from="1864" key="" name="Leblanc, Maurice" sex="male" to="1941"/>
+        <edition n=""/>
+        <editor name="Les Annales politiques et littéraires" where="Paris"/>
+      </titleStmt>
+      <publicationStmt>
+        <date type="created" when="1930"/>
+        <date type="issued" when="1930"/>
+      </publicationStmt>
+      <editionStmt>
+        <profileDesc tag="non-canon" type="genre">
+          <textClass>
+            <keywords>
+              <term>nouvelles</term>
+              <term>policier</term>
+            </keywords>
+          </textClass>
+        </profileDesc>
+      </editionStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docAuthor/>
+        <docTitle>
+          <titlePart main="Le Cabochon d'émeraude"/>
+          <titlePart sub=""/>
+        </docTitle>
+      </titlePage>
+    </front>
+    <body>
+      <div title="Le Cabochon d'émeraude" type="nouvelle">
+        <p> Le Cabochon d'émeraude </p>
+        <p> Maurice Leblanc </p>
+        <lb/>
+        <p> Le Cabochon d'émeraude </p>
+        <p> – Vraiment, ma chère Olga, vous parlez de lui comme si vous le connaissiez ! </p>
+        <p> La princesse Olga sourit au groupe de ses amies qui, ce soir-là, fumaient et devisaient autour d’elle, dans son salon, et elle leur dit : </p>
+        <p> – Mon Dieu, oui, je le connais. </p>
+        <p> – Vous connaissez Arsène Lupin ? </p>
+        <p> – Parfaitement ! </p>
+        <p> – Est-ce possible ? </p>
+        <p> – J’ai connu tout au moins, précisa-t-elle, quelqu’un qui s’amusait à jouer au détective pour le compte de l’Agence Barnett. Or, il est démontré, aujourd’hui, que Jim Barnett et tous les collaborateurs de son agence de renseignements n’étaient autres qu’Arsène Lupin. Par conséquent… </p>
+        <p> – Et il vous a volée ? </p>
+        <p> – Au contraire ! Il m’a rendu service. </p>
+        <p> – Mais c’est toute une aventure ! </p>
+        <p> – Nullement ! Ce fut une paisible conversation d’une demi-heure peut-être, sans coup de théâtre. Mais, durant ces trente minutes, j’ai eu l’impression que je me trouvais en face d’un personnage vraiment extraordinaire, ayant des façons d’agir à la fois très simples et déconcertantes. </p>
+        <p> On la pressa de questions. Elle n’y répondit pas tout de suite. C’était une femme qui parlait peu d’elle et dont la vie restait assez mystérieuse, même pour ses amies intimes. Avait-elle aimé depuis la mort de son mari ? Avait-elle cédé à la passion de quelques-uns de ces hommes qu’attiraient son ardente beauté, ses cheveux blonds et ses doux yeux bleus ? On le croyait, les méchantes langues la disaient même capable de fantaisies, où il y avait parfois plus de curiosité que d’amour. Mais, au fond, on ne savait rien. Aucun nom ne pouvait être cité. </p>
+        <p> Plus expansive, pourtant, ce jour-là, elle ne se fit pas trop prier et souleva un petit coin du voile. </p>
+        <p> – Après tout, dit-elle, pourquoi ne pas vous raconter cette entrevue ? Si je dois mêler à mon récit une autre personne, le rôle qu’y joua celle-ci n’a rien qui m’oblige au silence, j’en parlerai, d’ailleurs, très brièvement, puisque, après tout, c’est Arsène Lupin seul qui vous intéresse, n’est-ce pas ? Donc, à cette époque, et pour résumer l’aventure en une phrase dont vous comprendrez toute la signification, j’avais inspiré un amour violent et sincère – j’ai le droit d’employer ces mots – à un homme dont le nom de famille, tout au moins, vous est connu : Maxime Dervinol. </p>
+        <p> Les amies d’Olga sursautèrent. </p>
+        <p> – Maxime Dervinol ? Le fils du banquier ? </p>
+        <p> – Oui, dit-elle. </p>
+        <p> – Le fils du banquier faussaire, escroc, qui s’est pendu dans sa cellule de la Santé, le lendemain de son arrestation ? </p>
+        <p> – Oui, répéta la princesse Olga, très calmement. </p>
+        <p> Et, après avoir réfléchi un instant, elle reprit : </p>
+        <p> – Cliente du banquier Dervinol, j’étais une de ses principales victimes. Peu de temps après le suicide de son père, Maxime, que je connaissais, vint me voir. Riche par son propre travail, il se proposait de désintéresser tous les créanciers et me demandait seulement certains arrangements, qui l’obligèrent à revenir chez moi plusieurs fois. L’homme, je l’avoue, m’avait toujours été sympathique. Il me le fut davantage encore par l’extrême dignité de sa tenue. L’acte de probité qu’il accomplissait lui semblait évidemment tout naturel et, d’autre part, bien qu’il ne manifestât aucun embarras et que l’infamie de son père ne pût l’atteindre, on sentait en lui une souffrance infinie et une blessure secrète, que la moindre parole irritait. </p>
+        <p> « Je l’accueillis comme un ami, un ami qui ne tarda pas à devenir amoureux, sans que jamais il fît allusion à cet amour que je voyais grandir chaque jour. S’il n’y avait pas eu la déchéance de son père, il m’eût certainement demandée en mariage. Mais il n’osa pas plus qu’il n’osa se déclarer, ni m’interroger sur mes propres sentiments. Qu’aurais-je répondu, d’ailleurs ? Je les ignorais. </p>
+        <p> « Un matin, nous déjeunâmes au Bois. Après quoi, il me suivit ici, dans ce salon même. Il était soucieux. Je déposai mon sac à main sur le guéridon, ainsi que toutes mes bagues, et je me mis au piano, sur son désir, pour y jouer des airs russes qu’il affectionnait. Il écouta, debout derrière moi, avec une émotion que je devinais. Quand je me relevai, je vis qu’il était pâle et je pensai qu’il allait parler. Tout en l’observant, et troublée moi aussi, je le confesse, je repris mes bagues, les remis d’un geste distrait et, soudain, je m’interrompis et murmurai, beaucoup plus pour couper court à une situation gênante que pour exprimer mon étonnement à propos d’un fait banal : </p>
+        <p> « – Tiens, qu’est donc devenue mon émeraude ? </p>
+        <p> « Je m’aperçus qu’il tressaillait, et il s’écria : </p>
+        <p> « – Votre belle émeraude ? </p>
+        <p> « – Oui, ce cabochon que vous aimez tant, lui dis-je, tout simplement d’ailleurs, car, en vérité, aucune arrière-pensée ne se glissait en moi. </p>
+        <p> « – Mais vous l’aviez au doigt pendant le déjeuner. </p>
+        <p> « – Sans aucun doute ! Mais, comme je ne joue jamais du piano avec mes bagues, j’ai déposé celle-ci à cet endroit, auprès des autres. </p>
+        <p> « – Elle doit y être encore… </p>
+        <p> « – Elle n’y est pas. </p>
+        <p> « Je remarquai que sa pâleur augmentait et qu’il demeurait dans une attitude rigide, avec une expression si bouleversée que je plaisantai : </p>
+        <p> « – Eh bien ! après ? cela n’a aucune importance. Elle a dû tomber quelque part. </p>
+        <p> « – Mais on la verrait, dit-il. </p>
+        <p> « – Non. Peut-être a-t-elle roulé sous un meuble. </p>
+        <p> « J’allongeai le bras vers le bouton d’une sonnette électrique, mais il me saisit le poignet et, d’un ton saccadé : </p>
+        <p> « – Une seconde… Il faut attendre… Qu’allez-vous faire ? </p>
+        <p> « – Sonner la femme de chambre. </p>
+        <p> « – Pourquoi ? </p>
+        <p> « – Mais pour chercher la bague. </p>
+        <p> « – Non, non, je ne veux pas. À aucun prix ! </p>
+        <p> « Et, tout frémissant, le visage contracté, il me dit : </p>
+        <p> « – Personne n’entrera ici, et ni vous ni moi ne sortirons, avant que l’émeraude ait été retrouvée. </p>
+        <p> « – Pour la retrouver, il faut chercher ! Regardez donc derrière le piano ! </p>
+        <p> « – Non ! </p>
+        <p> « – Pourquoi ? </p>
+        <p> « – Je ne sais pas… Je ne sais pas… Mais tout cela est pénible ! </p>
+        <p> « – Il n’y a là rien de pénible, lui dis-je. Ma bague est tombée. Il s’agit de la ramasser. Cherchons ! </p>
+        <p> « – Je vous en prie…, dit-il. </p>
+        <p> « – Mais pour quelle raison ? Expliquez-vous ! </p>
+        <p> « – Eh bien ! dit-il, se décidant tout à coup, si je la retrouvais à cet endroit ou à un autre, vous pourriez croire que c’est moi qui, affectant de chercher, viens de l’y déposer. </p>
+        <p> « Je fus stupéfaite et prononçai à demi-voix : </p>
+        <p> « – Mais je ne vous soupçonne pas ! Maxime… </p>
+        <p> « – Actuellement, non… mais plus tard, vous sera-t-il possible d’échapper au doute ? </p>
+        <p> « Je compris toute sa pensée. Le fils du banquier Dervinol avait le droit d’être plus sensible et plus craintif qu’un autre. Si ma raison se révoltait contre l’offense d’une accusation, pourrais-je ne pas me souvenir qu’il se trouvait placé entre moi et le guéridon, tandis que j’étais au piano ? Et déjà même, en cette minute où nous nous regardions au fond des yeux, avec angoisse, est-ce que je ne m’étonnais pas de sa pâleur et de son désarroi ? Un autre eût ri à sa place. Pourquoi ne riait-il pas ? </p>
+        <p> « – Vous avez tort, Maxime, lui dis-je. Mais tout de même, il y a là de votre part un scrupule auquel je dois me soumettre. Donc, ne bougez pas ! </p>
+        <p> « Je me baissai et jetai un coup d’œil entre le piano et le mur, et sous le secrétaire. Puis, je me relevai : </p>
+        <p> « – Rien ! Je ne vois rien ! </p>
+        <p> « Il se tut. Son visage était décomposé. </p>
+        <p> « Alors, sous l’inspiration d’une idée, je repris : </p>
+        <p> « – Voulez-vous me laisser agir ? Il me semble que l’on pourrait… </p>
+        <p> « – Oh ! s’écria-t-il, faites tout ce qu’il est possible de faire pour découvrir la vérité. Mais c’est un acte grave, ajouta-t-il, un peu puérilement. Une imprudence pourrait tout perdre. N’agissez qu’en toute certitude ! </p>
+        <p> « Je le tranquillisai, et, après avoir compulsé l’annuaire du téléphone, je demandai la communication avec l’agence de renseignements Barnett. M. Jim Barnett me répondit lui-même. Sans lui donner la moindre explication, j’insistai pour qu’il vînt sans retard. Il me promit sa visite immédiate. </p>
+        <p> « Dès lors, ce fut l’attente, et, d’un côté et de l’autre, une agitation que nous ne pouvions réprimer. </p>
+        <p> « – C’est un de mes amis qui m’a recommandé ce Barnett, disais-je, avec un rire nerveux. Un type bizarre, sanglé dans une vieille redingote, coiffé d’une perruque, mais fort habile. Seulement, il faut se défier, paraît-il, car il se paie lui-même sur le client des services qu’il rend. </p>
+        <p> « J’essayais de plaisanter. Maxime demeurait immobile et sombre. Et, soudain, la sonnerie du vestibule retentit. Ma femme de chambre frappa presque aussitôt. Toute fébrile, j’ouvris moi-même la porte, en disant : </p>
+        <p> « – Entrez, monsieur Barnett… Vous êtes le bienvenu ! </p>
+        <p> « Je fus confondue de voir que l’homme qui entrait n’avait aucun rapport avec celui que j’attendais. Il était habillé avec une élégance discrète. Il était jeune, d’aspect sympathique, et très à son aise, comme quelqu’un qu’aucune situation ne saurait prendre au dépourvu. Il me regarda un peu plus longtemps qu’il n’eût fallu, d’une façon qui montrait que je ne lui déplaisais pas. Puis, l’examen terminé, il s’inclina et me dit : </p>
+        <p> « – M. Barnett, fort occupé, m’a proposé l’agréable mission de le remplacer, si, toutefois, ce changement ne vous importune pas. Me permettez-vous de me présenter ? Baron d’Enneris, explorateur, et, quand l’occasion s’en présente, détective amateur. Mon ami Barnett me reconnaît certaines qualités d’intuition et de clairvoyance, que je me divertis à cultiver. </p>
+        <p> « Cela fut dit avec bonne grâce et avec un sourire si engageant qu’il m’eût été impossible de refuser son assistance. Ce n’était pas un détective qui me proposait ses services, mais un homme du monde qui se mettait à ma disposition. Et cette impression fut si forte en moi qu’ayant allumé machinalement une cigarette, selon mon habitude, je commis l’acte incroyable de lui en offrir une, en disant : </p>
+        <p> « – Vous fumez, monsieur ? </p>
+        <p> « Ainsi, une minute après l’arrivée de cet inconnu, nous étions l’un en face de l’autre, la cigarette aux lèvres. La scène s’était transformée au point que ma fièvre tombait, et que tout semblait s’apaiser dans le salon. Dervinol seul gardait un air renfrogné. Je le présentai aussitôt : </p>
+        <p> « – M. Maxime Dervinol. </p>
+        <p> « Le baron d’Enneris salua, mais il n’y eut pas un détail dans son attitude qui pût faire croire que ce nom de Dervinol évoquât en lui le moindre souvenir. Cependant, après un certain temps, comme s’il n’eût pas voulu que la liaison de ses idées fût trop évidente, il me posa cette question : </p>
+        <p> « – J’imagine, madame, que quelque chose a disparu de chez vous ? </p>
+        <p> « Maxime se contint. Je répondis négligemment : </p>
+        <p> « – Oui… en effet… Mais cela n’a aucune importance. </p>
+        <p> « – Aucune, dit le baron d’Enneris en souriant, mais tout de même, c’est un petit problème à résoudre, et monsieur et vous avez dû y renoncer. Cette chose vient de disparaître ? </p>
+        <p> « – Oui. </p>
+        <p> « – Tant mieux ! Le problème sera plus facile. Qu’est-ce donc ? </p>
+        <p> « – Une bague… une émeraude que j’avais mise sur ce guéridon, avec mes autres bagues et ce sac à main qui s’y trouve. </p>
+        <p> « – Pourquoi avez-vous quitté vos bagues ? </p>
+        <p> « – Pour jouer du piano. </p>
+        <p> « – Et, pendant que vous jouiez, monsieur était près de vous ? </p>
+        <p> « – Debout, derrière moi. </p>
+        <p> « – Donc, entre vous et le guéridon ? </p>
+        <p> « – Oui. </p>
+        <p> « – Dès que vous avez constaté la disparition de l’émeraude, vous l’avez cherchée ? </p>
+        <p> « – Non. </p>
+        <p> « – M. Dervinol, non plus ? </p>
+        <p> « – Non plus. </p>
+        <p> « – Personne n’est entré ? </p>
+        <p> « – Personne. </p>
+        <p> « – C’est M. Dervinol qui s’est opposé aux recherches ? </p>
+        <p> « Maxime déclara, d’un ton agacé : </p>
+        <p> « – C’est moi. </p>
+        <p> « Le baron d’Enneris se mit à marcher de long en large. Il marchait à petits pas élastiques, ce qui donnait à son allure une souplesse infinie. S’arrêtant devant moi, il me dit : </p>
+        <p> « – Ayez l’obligeance de me montrer vos autres bagues. </p>
+        <p> « Je lui tendis les deux mains. Il les examina, et, aussitôt, il eut un léger rire. Il semblait s’amuser et poursuivre, plutôt qu’une enquête, un jeu qui le divertissait. </p>
+        <p> « – La bague disparue avait évidemment une grande valeur, n’est-ce pas ? </p>
+        <p> « – Oui. </p>
+        <p> « – Pouvez-vous préciser ? </p>
+        <p> « – Mon bijoutier l’estimait à quatre-vingt mille francs. </p>
+        <p> « – Quatre-vingt mille. Parfait ! </p>
+        <p> « Il était enchanté. Ayant retourné ma main gauche, il en observa la paume longtemps, comme s’il se fût appliqué à en déchiffrer les lignes. </p>
+        <p> « Maxime fronçait les sourcils. Il était visible que le personnage l’horripilait. Quant à moi, j’aurais voulu me dégager et interrompre un geste choquant. Mais la pression, si douce cependant, ne me permettait pas la moindre résistance, et cet homme eût embrassé ma main que je ne sais si j’aurais eu la force de le repousser, tellement je subissais l’influence de son autorité et de sa manière d’agir. </p>
+        <p> « Au fond, j’étais persuadée qu’il avait déjà résolu l’énigme, pour le moins au point de vue du fait lui-même. Il ne me posa plus une question directe. Mais je ne doutai pas que les deux ou trois anecdotes qu’il me raconta sur des aventures analogues à celle qui m’arrivait ne lui servissent à élucider notre affaire. Il jetait, de temps à autre, un coup d’œil rapide sur Maxime ou sur moi, épiant, me semblait-il, la réaction produite par son récit. </p>
+        <p> « Je protestais en moi-même. Vainement. Je sentais qu’il découvrait ainsi, peu à peu, sans nous interroger, l’état de nos relations, l’amour de Maxime et mes propres sentiments. J’avais beau me contracter, et Maxime aussi sans doute, il dépliait, pour ainsi dire, tous ces secrets qui s’entassent en chacun de nous, comme les feuillets d’une lettre. C’était exaspérant ! </p>
+        <p> « À la fin, Maxime s’emporta : </p>
+        <p> « – Je ne vois pas vraiment en quoi tout cela concerne… </p>
+        <p> « – En quoi cela concerne l’affaire qui nous réunit ? interrompit le baron d’Enneris. Mais nous y sommes en plein. L’énigme, en elle-même, ne signifie pas grand-chose. Mais la solution que je vous propose ne peut être la solution juste que si elle s’appuie sur vos états d’âme, au moment du petit incident qui s’est produit. </p>
+        <p> « – Mais enfin, monsieur, s’écria Maxime, qui avait peine à se contenir, vous n’avez pas fait une seule recherche ! Vous n’avez dérangé aucun meuble, rien observé, rien regardé même. Ce n’est pas par une conférence inutile que vous nous rendrez le bijou perdu. </p>
+        <p> « Le baron d’Enneris sourit doucement : </p>
+        <p> « – Vous êtes de ceux, monsieur, qui se laissent impressionner par le cérémonial coutumier des enquêtes et qui veulent tirer la vérité des faits matériels, alors que presque toujours, monsieur, elle se cache dans des régions tout à fait différentes. Le problème qui nous occupe aujourd’hui n’est pas d’ordre technique ou policier, mais d’ordre psychologique… uniquement. Mes preuves ne sont pas dans le succès d’investigations fastidieuses, mais dans la constatation irréfutable de ces phénomènes psychiques, tout à fait spéciaux, qui provoquent en nous, et principalement chez les natures impressionnables et impulsives, des actes qui échappent au contrôle de notre conscience. </p>
+        <p> « – C’est-à-dire, articula Maxime, d’une voix furieuse, que j’aurais commis l’un de ces actes ? </p>
+        <p> « – Non, monsieur, il ne s’agit pas de vous ! </p>
+        <p> « – De qui, alors ? </p>
+        <p> « – De madame ! </p>
+        <p> « – De moi ? m’écriai-je. </p>
+        <p> « – De vous, madame, qui êtes précisément, comme toutes les femmes, de ces natures impressionnables et impulsives auxquelles je fais allusion. Et c’est à votre propos que je me permets de rappeler que nous ne conservons pas toujours la maîtrise absolue et l’unité totale de notre personnalité. Elle se dédouble, non seulement aux grands moments tragiques où notre destin se joue, mais aux moments les plus simples et les plus insignifiants de l’existence quotidienne. Et tandis que nous continuons à vivre, à causer et à penser, notre inconscient prend la direction de nos instincts et nous fait agir dans l’ombre, à l’insu de nous-mêmes, et souvent d’une manière anormale, absurde et inintelligente. </p>
+        <p> « Bien qu’il s’exprimât gaiement et sans la moindre pédanterie, je commençais à m’impatienter et je lui dis : </p>
+        <p> « – Concluez, je vous prie, monsieur. </p>
+        <p> « Il répliqua : </p>
+        <p> « – Soit ! Mais excusez-moi, madame, si je suis obligé de le faire d’une façon qui vous semblera indiscrète et sans m’arrêter à de puériles considérations de politesse et de réserve mondaine. Donc, voici les faits. Il y a une heure, vous êtes arrivée ici en compagnie de M. Dervinol. Je ne dirai rien qui vous blesse si j’admets que M. Dervinol vous aime et je n’avancerai rien qui ne soit véridique si je suppose que vous aviez l’intuition qu’il allait se déclarer. Les femmes ne se trompent pas là-dessus, et c’est toujours pour elles un trouble profond. Par conséquent, au moment de vous mettre au piano, et lorsque vous avez retiré vos bagues – comprenez bien l’importance de mes paroles ! – vous étiez l’un et l’autre, vous plus encore que monsieur, vous étiez dans une de ces dispositions d’esprit, dont je parlais tout à l’heure, et vous n’aviez pas la notion exacte de ce que vous faisiez. </p>
+        <p> « – Mais si ! protestai-je, j’étais fort lucide. </p>
+        <p> « – En apparence, oui, et vis-à-vis de vous-même. Mais en réalité, on n’est jamais tout à fait lucide quand on subit une crise d’émotion, si légère soit-elle. Or, vous étiez ainsi, c’est-à-dire toute prête à l’erreur, au faux jugement et au geste involontaire. </p>
+        <p> « – Bref ?… </p>
+        <p> « – Bref, madame, vous deviez accomplir, et vous avez accompli, sans le vouloir, et même sans le savoir, un acte de défiance absolument contraire à votre tempérament et plus contraire encore à la logique même de la situation. Car, en vérité, quel que soit le nom porté par M. Dervinol, il était inconcevable de le croire d’avance, a priori , capable de dérober votre émeraude. </p>
+        <p> « Je fus indignée et m’exclamai vivement : </p>
+        <p> « – Moi ! j’ai cru cela ? J’ai cru une pareille infamie ? </p>
+        <p> « – Certes non, riposta le baron d’Enneris, mais votre inconscient a manœuvré comme si vous le croyiez et, furtivement, en dehors de votre regard et de votre pensée, il a fait un choix entre celles de vos bagues qui n’ont point de valeur, dont les pierres sont fausses, comme beaucoup de bijoux que l’on porte couramment, et votre émeraude, qui, elle, n’est pas fausse, et qui vaut quatre-vingt mille francs. Et, ce choix fait, sans que vous le sachiez, les bagues déposées, bien en évidence, sur le guéridon, vous avez mis, toujours sans le savoir, la précieuse et magnifique émeraude, à l’abri de toute tentative. </p>
+        <p> « L’accusation me jeta hors de moi. </p>
+        <p> « – Mais c’est inadmissible ! m’écriai-je avec force. Je m’en serais aperçue. </p>
+        <p> « – La preuve, c’est que vous ne vous en êtes pas aperçue ! </p>
+        <p> « – Mais alors, elle serait sur moi, cette émeraude ! </p>
+        <p> « – Pas du tout, elle est restée où vous l’avez placée. </p>
+        <p> « – C’est-à-dire ? </p>
+        <p> « – Sur ce guéridon. </p>
+        <p> « – Elle n’y est pas. Vous voyez bien qu’elle n’y est pas ! </p>
+        <p> « – Elle y est. </p>
+        <p> « – Comment ? puisqu’il n’y a que mon sac ! </p>
+        <p> « – Eh bien ! c’est qu’elle est dans votre sac, madame. </p>
+        <p> « Je haussai les épaules. </p>
+        <p> « – Dans mon sac ! Qu’est-ce que vous chantez là ? </p>
+        <p> « Il insista. </p>
+        <p> « – Je regrette, madame, d’avoir l’air d’un prestidigitateur ou d’un charlatan. Mais vous m’avez convoqué pour découvrir une bague perdue : je dois donc vous dire où elle est. </p>
+        <p> « – Elle ne peut pas être là ! </p>
+        <p> « – Elle ne peut pas être ailleurs ! </p>
+        <p> « J’éprouvais un sentiment bizarre. J’aurais voulu, sans aucun doute, qu’elle y fût, mais j’aurais été heureuse aussi qu’elle n’y fût pas et que cet homme fût humilié par l’échec de ses visions et de sa prédiction. </p>
+        <p> « Il me fit un signe auquel j’obéis malgré moi. Je pris le sac, l’ouvris et cherchai fiévreusement parmi les menus objets qui l’encombraient. L’émeraude s’y trouvait. </p>
+        <p> « Je demeurai stupide. Je n’en croyais pas mes yeux et je me demandais si c’était bien ma véritable émeraude que je tenais entre les mains. Mais oui, c’était elle. Aucune erreur possible. Alors… alors… que s’était-il donc passé en moi pour que j’eusse pu agir d’une manière aussi insolite, et, pour Maxime Dervinol, aussi injurieuse ? </p>
+        <p> « Devant mon air confondu, le baron d’Enneris ne cacha pas sa joie, et je dois même dire qu’il eût gagné à l’exprimer avec plus de retenue. À partir de cet instant, son attitude si correcte d’homme du monde fit place à l’exubérance d’un professionnel qui a réussi un beau coup. </p>
+        <p> « – Et voilà, dit-il. Voilà ce que c’est que les petites plaisanteries auxquelles se livre notre instinct, quand on ne le surveille pas. C’est un mauvais petit diable qui accomplit les pires farces. Et il opère dans des régions si obscures, que vous n’avez pas eu l’idée d’interroger ce sac. Vous eussiez cherché partout et vous auriez accusé le monde entier, y compris M. Dervinol, plutôt que de suspecter cet objet intangible et innocent auquel vous veniez de confier un trésor ! N’est-ce pas démontant, madame, et un peu comique peut-être ? Quel jour projeté sur les profondeurs invisibles de notre nature ! Nous sommes fiers de nos sentiments et de notre dignité et nous cédons aux ordres mystérieux des puissances inférieures. Nous avons tel ami, pour qui nous sommes pleins d’estime, et nous l’outrageons sans le moindre souci. En vérité, c’est à n’y rien comprendre ! </p>
+        <p> « Avec quel enjouement ironique il lançait sa petite tirade ! J’éprouvais l’impression que le baron d’Enneris avait disparu, et que c’était bien un collaborateur de l’Agence Barnett qui opérait, avec son visage réel, ses habitudes personnelles, sans masque et sans gestes d’emprunt. </p>
+        <p> « Maxime s’avança, les poings serrés. L’autre eut un mouvement de buste, qui le redressa encore et le fit paraître plus grand qu’il n’était. </p>
+        <p> « Puis, s’approchant soudain de moi, il me baisa la main, ce qu’il n’avait pas fait en tant que baron d’Enneris, et me regarda, droit dans les yeux. Enfin, il saisit son chapeau, salua d’un mouvement large et quelque peu théâtral, comme il eût salué avec un feutre à plume, et s’éloigna, fort satisfait de lui-même, tout en répétant : </p>
+        <p> « – Jolie petite affaire… J’adore traiter ces petites affaires-là… C’est ma spécialité. À votre entière disposition, madame. » </p>
+        <p> La princesse Olga avait terminé son récit. Elle alluma nonchalamment une cigarette et sourit à ses amies, qui se récrièrent aussitôt : </p>
+        <p> – Et après ? </p>
+        <p> – Après ? </p>
+        <p> – Oui, l’histoire de la bague est finie. Mais la vôtre ?… </p>
+        <p> – La mienne est finie également. </p>
+        <p> – Voyons, ne nous faites pas languir ! Allez jusqu’au bout, Olga, puisque vous êtes en veine de confidences. </p>
+        <p> – Mon Dieu, que vous êtes curieuses ! Enfin ! Que voulez-vous savoir ? </p>
+        <p> – Comment ! Mais, d’abord, ce qu’il est advenu de Maxime Dervinol et de sa passion. </p>
+        <p> – Ma foi, pas grand-chose. Au fond, n’est-ce pas ? J’avais douté de lui en cachant, intentionnellement ou non, cette émeraude. Aigri, déjà, et inquiet, il en souffrit beaucoup et ne me le pardonna pas. Et puis, il commit une maladresse, qui lui fit du tort dans mon esprit. Irrité contre le baron d’Enneris, il lui envoya un chèque de dix mille francs, en l’adressant à l’Agence Barnett. Le chèque me fut renvoyé dans une enveloppe, épinglée à une admirable corbeille de fleurs, avec quelques lignes, respectueuses à mon égard, et signées… </p>
+        <p> – Baron d’Enneris ? </p>
+        <p> – Non. </p>
+        <p> – Jim Barnett ? </p>
+        <p> – Non. </p>
+        <p> – Alors ? </p>
+        <p> – Arsène Lupin ! </p>
+        <p> Elle se tut de nouveau. Une de ses amies observa : </p>
+        <p> – N’importe qui pouvait signer de la sorte. </p>
+        <p> – Évidemment ! </p>
+        <p> – Vous n’avez pas cherché à savoir ?… </p>
+        <p> La princesse Olga ne répondit pas et son amie reprit : </p>
+        <p> – Je m’explique fort bien, Olga, que Maxime Dervinol ne vous ait plus intéressée. D’un bout à l’autre de l’aventure, il fut dominé par cet énigmatique personnage qui sut, avec tant d’adresse, concentrer votre attention sur lui et piquer votre curiosité. Soyez franche, Olga, sa conduite vous donna quelque envie de le revoir. </p>
+        <p> La princesse Olga ne répondit pas davantage. L’amie, qui avait son franc-parler avec elle et la taquinait parfois, continua : </p>
+        <p> – Somme toute, Olga vous avez gardé votre bague et Dervinol son argent. Rien ne vous a été dérobé, contrairement aux principes de Barnett, qui se payait toujours lui-même, vous l’avez dit, des services qu’il rendait. Car, enfin, il eût pu tout aussi bien escamoter l’émeraude, en fouillant lui-même dans le sac, et, s’il ne l’a pas fait, c’est qu’il espérait peut-être quelque chose de beaucoup mieux qu’une bague. Tenez, cela me rappelle ce qu’on m’a raconté, à savoir qu’une fois, n’ayant rien récolté, il enleva la femme de son débiteur et fit une croisière avec elle. Quelle jolie façon de se récompenser, Olga, et qui correspond bien à la silhouette et au caractère de l’homme que vous nous avez montré ! Qu’en pensez-vous, Olga ? </p>
+        <p> Olga ne se départit pas de son silence. Étendue dans un fauteuil, les épaules nues, son beau corps allongé, elle regardait s’élever la fumée de sa cigarette. À sa main resplendissait le magnifique cabochon d’émeraude. </p>
+      </div>
+      <head/>
+    </body>
+    <back/>
+    <back/>
+  </text>
+</TEI>

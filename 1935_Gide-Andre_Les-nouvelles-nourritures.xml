@@ -1,0 +1,528 @@
+<?xml version='1.0' encoding='UTF8'?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> Les nouvelles nourritures </title>
+        <author from="1869" key="" name="Gide, André" sex="male" to="1951"/>
+        <edition n=""/>
+        <editor name="" where=""/>
+      </titleStmt>
+      <publicationStmt>
+        <date type="created" when="1935"/>
+        <date type="issued" when="1935"/>
+      </publicationStmt>
+      <editionStmt>
+        <profileDesc tag="canon" type="genre">
+          <textClass>
+            <keywords/>
+          </textClass>
+        </profileDesc>
+      </editionStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docAuthor/>
+        <docTitle>
+          <titlePart main="Les nouvelles nourritures"/>
+          <titlePart sub=""/>
+        </docTitle>
+      </titlePage>
+    </front>
+    <body>
+      <p> André Gide </p>
+      <p> LES NOUVELLES NOURRITURES </p>
+      <p> (1935) </p>
+      <div title="LIVRE PREMIER" type="book">
+        <p> LIVRE PREMIER </p>
+        <div title="I" type="chapter">
+          <p> I </p>
+          <p> Toi qui viendras lorsque je n’entendrai plus les bruits de la terre et que mes lèvres ne boiront plus sa rosée – toi qui, plus tard, peut-être me liras – c’est pour toi que j’écris ces pages ; car tu ne t’étonnes peut-être pas assez de vivre ; tu n’admires pas comme il faudrait ce miracle étourdissant qu’est ta vie. Il me semble parfois que c’est avec ma soif que tu vas boire, et que ce qui te penche sur cet autre être que tu caresses, c’est déjà mon propre désir. </p>
+          <p> (J’admire combien le désir, dès qu’il se fait amoureux, s’imprécise. Mon amour enveloppait si diffusément et si tout à la fois, tout son corps, que, Jupiter, je me serais mué en nuée, sans même m’en apercevoir.) </p>
+          <p> La brise vagabonde </p>
+          <p> A caressé les fleurs. </p>
+          <p> Je t’écoute de tout mon cœur, </p>
+          <p> Chant du premier matin du monde. </p>
+          <p> Ivresse matinale, </p>
+          <p> Rayons naissants, pétales </p>
+          <p> Tout poissés de liqueur… </p>
+          <p> Cède sans trop attendre </p>
+          <p> Au conseil le plus tendre </p>
+          <p> Et laisse l’avenir </p>
+          <p> Doucement t’envahir. </p>
+          <p> Voici que se fait si furtive </p>
+          <p> La tiède caresse du jour </p>
+          <p> Que l’âme la plus craintive </p>
+          <p> S’abandonnerait à l’amour. </p>
+          <p> * </p>
+          <p> Que l’homme est né pour le bonheur, </p>
+          <p> Certes toute la nature l’enseigne. </p>
+          <p> Une éparse joie baigne la terre, et que la terre exsude à l’appel du soleil – comme elle fait cette atmosphère émue où l’élément déjà prend vie et, soumis encore, échappe à la rigueur première… On voit des complexités ravissantes naître de l’enchevêtrement des lois : saisons ; agitation des marées ; distraction, puis retour en ruissellement, des vapeurs ; tranquille alternance des jours ; retours périodiques des vents ; tout ce qui s’anime déjà, un rythme harmonieux le balance. Tout se prépare à l’organisation de la joie et que voici bientôt qui prend vie, qui palpite inconsidérément dans la feuille, qui prend nom, se divise et devient parfum dans la fleur, saveur dans le fruit, conscience et voix dans l’oiseau. De sorte que le retour, l’information, puis la disparition de la vie imitent le détour de l’eau qui s’évapore dans le rayon, puis se rassemble à nouveau dans l’ondée. </p>
+          <p> Chaque animal n’est qu’un paquet de joie. </p>
+          <p> Tout aime d’être et tout être se réjouit. C’est de la joie que tu appelles fruit quand elle se fait succulence ; et, quand elle se fait chant, oiseau. </p>
+          <p> Que l’homme est né pour le bonheur, certes toute la nature l’enseigne. C’est l’effort vers la volupté qui fait germer la plante, emplit de miel la ruche, et le cœur humain de bont��. </p>
+          <p> * </p>
+          <p> Le ramier qui exulte parmi les branches, – Les rameaux qui se balancent dans le vent, – Le vent qui penche les barques blanches, – Sur la mer luisant à travers les branches, – Les flots dont la crête blanchit, – Et le rire, et l’azur et la clarté de tout ceci, – Ma sœur, c’est mon cœur qui se raconte, – Qui raconte au tien son bonheur. </p>
+          <p> * </p>
+          <p> Je ne sais trop qui peut m’avoir mis sur la terre. On m’a dit que c’est Dieu ; et si ce n’était pas lui, qui serait-ce ? </p>
+          <p> Il est vrai que j’éprouve à exister joie si vive, que parfois je doute si déjà je n’avais envie d’être, alors même que je n’étais pas. </p>
+          <p> Mais nous réserverons pour l’hiver la discussion théologique, car il y a de quoi se faire beaucoup de mauvais sang là-dessus. </p>
+          <p> Table rase. J’ai tout balayé. C’en est fait ! Je me dresse nu sur la terre vierge, devant le ciel à repeupler. </p>
+          <p> Bah ! Je te, reconnais, Phoibos ! Au-dessus du gazon givré tu répands ta chevelure opulente. Viens avec l’arc libérateur. À travers ma paupière fermée, ton trait d’or pénètre, atteint l’ombre ; il triomphe, et le monstre intérieur est vaincu. Apporte à ma chair la couleur et l’ardeur, à ma lèvre la soif, et l’éblouissement à mon cœur. De toutes les échelles de soie que tu lances du zénith à la terre, je saisirai la plus charmante. Je ne tiens plus au sol ; je me balance à l’extrémité d’un rayon. </p>
+          <p> Ô toi que j’aime, enfant ! je te veux entraîner dans ma fuite. D’une main prompte saisis le rayon ; voici l’astre ! Déleste-toi. Ne laisse plus le poids du plus léger passé t’asservir. </p>
+          <p> * </p>
+          <p> Ne plus attendre ! Ne plus attendre ! Ô route encombrée ! je passe outre. C’est mon tour. Le rayon m’a fait signe ; mon désir m’est le plus sûr des guides et je suis amoureux de tout, ce matin. </p>
+          <p> Mille fils lumineux se croisent et se viennent nouer sur mon cœur. De mille aperceptions fragiles, je tisse un vêtement miraculeux. Le dieu rit au travers, et je souris au dieu. Qui donc disait que le grand Pan est mort ? À travers la buée de mon haleine, je l’ai vu. Vers lui se tend ma lèvre. N’est-ce pas lui que j’entendais murmurer, ce matin : Qu’attends-tu ? </p>
+          <p> J’écarte, de l’esprit et de la main, tous les voiles, jusqu’à n’avoir plus devant moi rien que de brillant et de nu. </p>
+          <p> * </p>
+          <p> Printemps plein d’indolence, </p>
+          <p> J’implore ta clémence. </p>
+          <p> À toi plein de langueur </p>
+          <p> J’abandonne mon cœur. </p>
+          <p> Ma pensée indécise </p>
+          <p> Flotte au gré de la brise. </p>
+          <p> Un ruissellement tendre </p>
+          <p> Me pénètre de miel. </p>
+          <p> Ah ! ne voir, ah ! n’entendre </p>
+          <p> Qu’à travers le sommeil. </p>
+          <p> À travers ma paupière </p>
+          <p> J’accueille ta lumière, </p>
+          <p> Soleil qui me caresse ; </p>
+          <p> Pardonne à ma paresse… </p>
+          <p> Bois mon cœur sans défense, </p>
+          <p> Soleil plein d’indulgence. </p>
+          <p> * </p>
+          <p> Adam neuf, c’est moi qui baptise aujourd’hui. Cette rivière, c’est ma soif ; cette ombre bocagère, c’est mon sommeil ; cet enfant nu, c’est mon désir. Par le chant de l’oiseau, mon amour prend voix. Mon cœur bourdonne dans cette ruche d’abeilles. Déplaçable horizon, sois ma limite ; sous l’oblique rayon, tu t’écartes encore, tu t’imprécises, tu bleuis. </p>
+          <p> * </p>
+          <p> De l’amour et de la pensée, c’est ici le confluent subtil. </p>
+          <p> La page blanche luit devant moi. </p>
+          <p> Et de même que le Dieu se fait homme, ainsi vient se soumettre aux lois du rythme mon idée. </p>
+          <p> Image de mon parfait bonheur, j’étale ici, peintre recréateur, la couleur la plus tremblante et la plus vive. </p>
+          <p> Je ne saisirai plus les mots que par les ailes. Est-ce toi, ramier de ma joie ? Ah ! vers le ciel, ne t’envole pas encore. Ici, pose ; repose-toi. </p>
+          <p> Je suis couché contre la terre. Près de moi, la branche, chargée de fruits éclatants, ploie jusqu’à l’herbe ; elle touche l’herbe ; elle frôle et caresse le plus tendre épi du gazon. Le poids d’un roucoulement la balance. </p>
+          <p> * </p>
+          <p> J’écris pour qu’un adolescent, plus tard, pareil à celui que j’étais à seize ans, mais plus libre, plus accompli, trouve ici réponse à son interrogation palpitante. Mais quelle sera sa question ? </p>
+          <p> Je n’ai pas grand contact avec l’époque et les jeux de mes contemporains ne m’ont jamais beaucoup diverti. Je me penche par-delà le présent. Je passe outre. Je pressens un temps où l’on ne comprendra plus qu’à peine ce qui nous paraît vital aujourd’hui. </p>
+          <p> Je rêve à de nouvelles harmonies. Un art des mots, plus subtil et plus franc ; sans rhétorique ; et qui ne cherche à rien prouver. </p>
+          <p> Ah ! qui délivrera mon esprit des lourdes chaînes de la logique ? Ma plus sincère émotion, dès que je l’exprime, est faussée. </p>
+          <p> * </p>
+          <p> La vie peut être plus belle que ne la consentent les hommes. La sagesse n’est pas dans la raison, mais dans l’amour. Ah ! j’ai vécu trop prudemment jusqu’à ce jour. Il faut être sans lois pour écouter la loi nouvelle. Ô délivrance ! Ô liberté ! Jusqu’où mon désir peut s’étendre, là j’irai. Ô toi que j’aime, viens avec moi ; je te porterai jusque-là ; que tu puisses plus loin encore. </p>
+          <p> RENCONTRES </p>
+          <p>NOUS nous amusions le long du jour, d’accomplir les divers actes de notre vie comme une danse, à la manière des gymnastes parfaits dont le propos serait de ne rien faire que d’harmonieux et de rythmé. Sur un rythme étudié, Marc allait chercher de l’eau à la pompe, pompait et remontait le seau. Nous connaissions tous les mouvements qu’il fallait pour quérir un flacon dans la cave, le déboucher, le boire ; nous les avions décomposés. Nous trinquions en cadence. Nous inventâmes aussi des pas pour se tirer d’affaire dans les circonstances difficiles de la vie ; d’autres pour accuser les troubles intimes ; d’autres pour les dissimuler. Il y avait le passepied des condoléances, et celui des congratulations. Il y avait le rigodon du fol espoir et le menuet dit : des légitimes aspirations. Il y avait, comme dans les ballets célèbres, le pas de la bisbille, le pas de la brouille et celui de la réconciliation. Nous excellions dans les mouvements d’ensemble ; mais le pas du parfait copain se dansait seul. Le plus amusant que nous avions inventé était celui de la descente vers le bain, ensemble, le long de la grande prairie : c’était un mouvement très rapide, car on voulait arriver en sueur ; il se faisait par bonds et la pente du pré favorisait nos enjambées énormes, une main tendue en avant comme font ceux qui courent après le tramway, et soutenant de l’autre le flottant peignoir qui nous couvrait ; on arrivait à l’eau tout essoufflé et nous plongions aussitôt avec de grands rires, en récitant du Mallarmé. </p>
+          <p> Mais tout cela, direz-vous, pour être lyrique manquait un peu de laisser-aller… Ah ! j’oubliais : nous avions aussi l’entrechat subit de la spontanéité. </p>
+          <p> * </p>
+          <p> Du jour où je parvins à me persuader que je n’avais pas besoin d’être heureux, commença d’habiter en moi le bonheur ; oui, du jour où je me persuadai que je n’avais besoin de rien pour être heureux. Il semblait, après avoir donné le coup de pioche à l’égoïsme, que j’avais fait jaillir aussitôt de mon cœur une telle abondance de joie que j��en pusse abreuver tous les autres. Je compris que le meilleur enseignement est d’exemple. J’assumai mon bonheur comme une vocation. </p>
+          <p> Eh quoi ! pensais-je alors, si ton âme avec ton corps doit se dissoudre, réalise au plus tôt ta joie. Si peut-être elle est immortelle, n’auras-tu pas l’éternité pour t’occuper à ce qui ne saurait intéresser tes sens ? Ce beau pays que tu traverses, vas-tu le dédaigner, te refuser à ses blandices, à cause qu’elles te seront bientôt enlevées ? Plus rapide est la traversée, plus avide soit ton regard ; plus précipitée est ta fuite, plus subite soit ton étreinte ! Pourquoi donc, amant d’un instant, embrasserais-je moins amoureusement ce que je sais que je ne pourrai pas retenir ? Âme inconstante, hâte-toi ! Sache que la fleur la plus belle est aussi la plus tôt fanée. Sur son parfum penche-toi vite. L’immortelle n’a pas d’odeur. </p>
+          <p> Âme naturellement joyeuse, ne redoute plus rien de ce qui pourrait ternir la limpidité de ton chant. </p>
+          <p> Mais j’ai compris à présent que, permanent à tout ce qui passe, Dieu n’habite pas l’objet, mais l’amour ; et je sais à présent goûter la quiète éternité dans l’instant. </p>
+          <p> * </p>
+          <p> Cet état de joie, si tu ne sais t’y maintenir, ne cherche pas trop à l’atteindre. </p>
+          <p> Éblouissement tendre </p>
+          <p> Accueille mon réveil ! </p>
+          <p> Je suis loin de prétendre </p>
+          <p> À l’immatériel ; </p>
+          <p> Mais t’aime, azur sans tache. </p>
+          <p> Léger comme Ariel </p>
+          <p> Je meurs si je m’attache </p>
+          <p> À quelque coin du ciel. </p>
+          <p> Il n’est rien, que je sache, </p>
+          <p> De plus substantiel. </p>
+          <p> T’écouter c’est t’entendre. </p>
+          <p> Pour goûter à ce miel </p>
+          <p> Je ne veux plus attendre. </p>
+          <p> Semblable, ce matin, à celui qui, de sa plume qu’il sait d’un peu trop d’encre chargée, par crainte d’une tache trace une guirlande de mots. </p>
+        </div>
+        <div title="II" type="chapter">
+          <p> II </p>
+          <p> C’est la reconnaissance de mon cœur qui me fait inventer Dieu chaque jour. Dès l’éveil je m’étonne d’être et m’émerveille incessamment. Pourquoi la levée d’une douleur apporte-t-elle moins de joie que la fin d’une joie ne cause de peine ? C’est que dans le chagrin tu songes au bonheur dont il te prive, tandis qu’au sein du bonheur, il ne t’arrive point de songer aux douleurs qui te sont épargnées ; c’est qu’il t’est naturel d’être heureux. </p>
+          <p> Une somme de bonheur est due, à chaque créature, selon que ses sens et son cœur en supportent. Si peu que l’on m’en prive, je suis volé. Je ne sais point si je réclamais la vie, avant d’être ; mais à présent que je vis, tout m’est dû. Mais la reconnaissance est si douce et il m’est si nécessairement doux d’aimer, que la moindre caresse de l’air éveille un merci dans mon cœur. Le besoin de reconnaissance m’enseigne à faire de tout ce qui vient à moi du bonheur. </p>
+          <p> * </p>
+          <p> La peur de trébucher cramponne notre esprit à la rampe de la logique. Il y a la logique et il y a ce qui échappe à la logique. (L’illogisme m’irrite, mais l’excès de logique m’exténue.) Il y a ceux qui raisonnent et il y a ceux qui laissent les autres avoir raison. (Mon cœur, si ma raison lui donne tort de battre, c’est à lui que je donne raison.) Il y a ceux qui se passent de vivre et ceux qui se passent d’avoir raison. C’est au défaut de la logique que je prends conscience de moi. Ô ma plus chère et ma plus riante pensée ! qu’ai-je affaire de chercher plus longtemps à légitimer ta naissance ? N’ai-je pas lu ce matin dans Plutarque, au seuil des Vies de Romulus et de Thésée, que ces deux grands fondateurs de cités, pour être nés « secrètement et d’une union clandestine » ont passé pour des fils de dieux ?… </p>
+          <p> * </p>
+          <p> Me voici tout contraint par mon passé. Pas un geste, aujourd’hui, que ce que j’étais hier ne détermine. Mais celui que je suis en cet instant, subit, fugace, irremplaçable, échappe… </p>
+          <p> Ah ! pouvoir échapper à moi-même ! Je bondirais par-dessus la contrainte où le respect de moi m’a soumis. Ma narine est ouverte aux vents. Ah ! lever l’ancre, et pour la plus téméraire aventure… Et que cela ne tirât pas à conséquence pour demain. </p>
+          <p> Mon esprit s’achoppe à ce mot : conséquence. La conséquence de nos actes ; la conséquence avec soi-même. N’attendrai-je plus de moi qu’une suite ? Conséquence ; compromission ; cheminement tracé par avance. Je veux ne plus marcher, mais bondir ; d’un coup de jarret repousser, renier mon passé ; n’avoir plus à tenir de promesses : j’en ai trop fait ! Avenir, que je t’aimerais, infidèle ! </p>
+          <p> Quel vent de mer ou de montagne emportera ton essor, ma pensée ? Oiseau bleu, frémissant et battant de l’aile, tu restes sur cette extrême roche escarpée ; aussi loin que peut te porter le présent, tu t’avances, et de tout ton regard déjà tu t’élances, tu t’évades dans l’avenir. </p>
+          <p> Ô inquiétudes nouvelles ! Questions pas encore posées !… Mon tourment d’hier m’a lassé ; j’en ai surépuisé l’amertume ; je n’y crois plus ; et je me penche sur le gouffre avenir sans vertige. Vents de l’abîme, emportez-moi ! </p>
+        </div>
+        <div title="III" type="chapter">
+          <p> III </p>
+          <p> C’est dans l’abnégation que chaque affirmation s’achève. Tout ce que tu résignes en toi prendra vie. Tout ce qui cherche à s’affirmer se nie ; tout ce qui se renonce s’affirme. La possession parfaite ne se prouve que par le don. Tout ce que tu ne sais pas donner te possède. Sans sacrifice il n’est pas de résurrection. Rien ne s’épanouit que par offrande. Ce que tu prétends protéger en toi s’atrophie. </p>
+          <p> À quoi reconnais-tu que le fruit est mûr ? – À ceci, qu’il quitte la branche. Tout mûrit pour le don et se parachève en offrande. </p>
+          <p> Ô fruit plein de saveur, qu’enveloppe la volupté, je sais qu’il te faut faire abandon de toi pour germer. Qu’elle meure donc ! qu’elle meure, cette douceur autour de toi. Cette abondante chair exquise et sucrée, qu’elle meure ! car elle appartient à la terre. Qu’elle meure afin que tu vives. Je sais que « si le fruit ne meurt, il reste seul ». </p>
+          <p> Seigneur ah ! donnez-moi de n’attendre pas la mort pour mourir. </p>
+          <p> C’est en se renonçant que toute vertu se parachève. C’est à la germination que prétend l’extrême succulence du fruit. </p>
+          <p> La vraie éloquence résigne l’éloquence ; l’individu ne s’affirme jamais plus que lorsqu’il s’oublie. Qui songe à soi s’empêche. Je n’admire jamais tant la beauté que lorsqu’elle ne sait plus qu’elle est belle. La ligne la plus émouvante est aussi la plus résignée. C’est en renonçant à sa divinité que le Christ vraiment devient Dieu. Et, réciproquement, en se renonçant dans le Christ Dieu se crée. </p>
+          <p> RENCONTRES </p>
+          <p> à Jean-Paul Allégret. </p>
+          <p> 1 </p>
+          <p>CE jour-là, nous promenant au hasard dans la ville et suivant notre fantaisie, nous avons rencontré rue de Seine – t’en souvient-il – un pauvre nègre que nous avons longuement contemplé. C’était à la hauteur de la devanture de la librairie Fischbacher. Je dis cela parce que pour être plus lyrique, on finit quelquefois par ne plus être précis du tout. Et par prétexte pour nous arrêter, nous feignions de regarder la devanture ; mais c’était lui, le nègre, que nous regardions. Pauvre, il l’était assurément, et cela paraissait d’autant plus qu’il tâchait de le moins paraître ; car c’était un nègre très soucieux de sa dignité. Il était coiffé d’un chapeau haut de forme, vêtu d’une correcte redingote ; mais le chapeau était pareil à ceux des cirques et la redingote était affreusement élimée ; il avait du linge assurément, mais qui peut-être ne paraissait blanc que sur un nègre ; sa misère se voyait surtout à ses souliers crevés. Il marchait à tout petits pas comme quelqu’un qui n’a plus de but et qui bientôt ne pourra plus avancer ; et tous les quatre pas s’arrêtait, soulevait son tuyau de poêle, et s’éventait avec, bien qu’il fît froid, puis sortait un sordide foulard de sa poche et s’épongeait le front avec, puis le rentrait ; il avait un grand front découvert sous une tignasse argentée ; son regard était vague comme de ceux qui n’attendent plus rien de la vie, et il paraissait ne pas voir les passants qu’il croisait ; mais, quand ceux-ci s’arrêtaient à le regarder, vite il se recouvrait, par dignité, et recommençait de marcher. Certainement il venait de faire une visite à quelqu’un de qui il attendait ce qui venait de lui être refusé. Il avait l’air de ceux qui n’ont plus d’espérance. Il avait l’air de quelqu’un qui meurt de faim, mais qui se laissera mourir plutôt que de condescendre à de nouveau redemander. </p>
+          <p> Assurément, il voulait montrer et se prouver à lui-même que pour consentir à l’humiliation il ne suffit pas d’être nègre. Ah ! j’aurais voulu le suivre et savoir où il allait ; mais il n’allait nulle part. Ah ! j’aurais voulu l’aborder, mais je ne savais pas comment faire pour ne pas froisser sa susceptibilité. Et puis je ne savais pas jusqu’à quel point, toi qui m’accompagnais alors, tout ce qui est de la vie et tout ce qui est vivant t’intéresse. </p>
+          <p> … Ah ! tout de même j’aurais dû l’aborder. </p>
+          <p> 2 </p>
+          <p> Et c’est ce même jour, un peu plus tard, que, revenant par le métro, nous vîmes ce petit homme si sympathique qui trimbalait un bocal avec des poissons. Le bocal était habillé d’étoffe avec une ouverture sur le côté qui permît de voir, et le tout enveloppé de papier. On ne comprenait pas d’abord ce que c’était, mais il abritait cela si soigneusement que je lui dis en riant : </p>
+          <p> – C’est une bombe ? </p>
+          <p> Alors, il m’attira près de la lumière et mystérieusement : </p>
+          <p> – C’est des poissons. </p>
+          <p> Et tout de suite, car il était de naturel affable et sentait que nous ne demandions qu’à causer : </p>
+          <p> « Je les couvre pour ne pas attirer l’attention ; mais si vous aimez les jolies choses (et vous êtes artiste assurément) je m’en vais vous les montrer. » </p>
+          <p> Et tout en découvrant le bocal soigneusement, avec des gestes de mère qui change les langes d’un poupon, il continuait : </p>
+          <p> – C’est mon commerce ; je suis éleveur de poissons. Tenez ! ces petits-là, ça vaut dix francs la pièce. C’est tout petit ; mais vous n’avez pas idée de ce que c’est rare. Et c’est joli ! Regardez seulement quand ça vous accroche un rayon. Là ! C’est vert, c’est bleu, c’est rose ; ça n’a pas de couleur à soi, ça les prend toutes. </p>
+          <p> Il n’y avait dans l’eau du bocal qu’une douzaine d’agiles aiguilles, qui tour à tour, en passant devant l’échancrure de l’étoffe se diapraient. </p>
+          <p> – Et c’est vous qui les élevez ? </p>
+          <p> – J’en élève bien d’autres ! Mais les autres je ne les promène pas. C’est trop délicat. Songez donc ! J’en ai qui me coûtent à moi des cinquante, des soixante francs pièce. On vient les voir chez moi et je ne les sors que vendus. La semaine dernière un riche amateur m’en a acheté un de cent vingt. C’était un cyprin de la Chine : il avait trois queues comme un pacha… Si on a du mal à les élever ? Pour sûr ! C’est difficile pour la nourriture et ça prend tout le temps des maladies de foie. Une fois par semaine il faut les mettre dans l’eau de Vichy. Ça revient cher. Sans quoi, non : ça peuple comme des lapins. Vous êtes amateur, monsieur ? Vous devriez venir me voir. </p>
+          <p> À présent j’ai perdu son adresse. Ah ! je regrette de ne pas y être allé. </p>
+          <p> 3 </p>
+          <p> – Il faut partir de ce point, me dit-il, que les plus importantes inventions restent encore à découvrir. Elles seront la mise en lumière, simplement, d’une constatation des plus simples, car tous les secrets de la nature gisent à découvert et frappent nos regards chaque jour sans que nous y fassions attention. Les peuples auront pitié de nous plus tard lorsqu’ils auront tiré parti de la lumière et de la chaleur du soleil, pitié de nous qui extrayons si péniblement notre éclairage et notre combustible des entrailles du sol et qui gaspillons le charbon sans souci des générations à venir. Quand donc l’homme, industrieusement économe, apprendra-t-il à capter, à canaliser sur tous les points ardents du globe la chaleur intempestive ou superflue ? On y viendra ! On y viendra, continuait-il sentencieusement. On y viendra quand le globe commencera de se refroidir, car c’est alors aussi que l’on commencera à manquer de charbon. </p>
+          <p> – Mais, lui dis-je, pour le détourner de la morne méditation où je voyais qu’il allait retomber, vous parlez avec trop de sagacité pour n’être pas vous-même un inventeur ? </p>
+          <p> – Les plus grands, reprit-il aussitôt, ne sont pas, monsieur, les plus connus. Qu’est-ce qu’un Pasteur, je vous en prie, qu’un Lavoisier, qu’un Pouchkine auprès de l’inventeur de la roue, de l’aiguille, de la toupie et celui qui le premier remarqua que le cerceau que l’enfant fait rouler devant lui, se tient droit ! Savoir voir, tout est là. Mais nous vivons sans regarder. Ainsi tenez : quelle admirable invention que la poche ! Eh bien ! y avez-vous songé ? Et pourtant tout le monde s’en sert. Il suffit d’observer, vous dis-je. Ah ! tenez ! méfiez-vous de celui qui vient d’entrer, fit-il en changeant de ton brusquement et en me tirant de côté par la manche. C’est un vieux daim qui n’a jamais rien découvert, mais qui voudrait piller les autres. Pas un mot devant lui, je vous prie (c’était mon ami C…, médecin en chef de l’hospice). Voyez comme il interroge ce pauvre abbé ; car bien que sous un costume civil, ce gentleman là-bas, c’est un prêtre. Un grand inventeur, lui aussi. C’est fâcheux que nous ne puissions pas nous entendre, je crois que nous aurions pu faire ensemble de grandes choses ; quand je lui parle, c’est comme s’il me répondait en chinois. D’ailleurs, depuis quelque temps il me fuit. Vous irez le trouver tout à l’heure, quand le vieux daim l’aura quitté. Vous verrez : il sait des choses curieuses ; et s’il ne manquait pas de suite dans les idées… Tenez, le voici seul à présent. Allez-y. </p>
+          <p> – Pas avant que vous ne m’ayez dit ce que vous avez inventé. </p>
+          <p> – Vous voulez le savoir ? </p>
+          <p> Il se pencha vers moi d’abord, puis rejeta brusquement le torse en arrière et à voix basse, sur un ton d’étrange gravité : </p>
+          <p> – Je suis l’inventeur du bouton. </p>
+          <p> Mon ami C… s’étant écarté, je me dirigeai vers le banc où « le gentleman » restait assis, les coudes sur les genoux et le front entre les mains. </p>
+          <p> – Ne vous ai-je pas déjà rencontré quelque part ? lui dis-je en manière d’introduction. </p>
+          <p> – Il me semble aussi, fit-il après m’avoir dévisagé. Mais, rappelez-moi donc : n’est-ce pas vous qui causiez tout à l’heure avec ce pauvre ambassadeur ? Oui, là, qui se promène tout seul à présent et qui va nous tourner le dos… Comment va-t-il ? Nous étions bons amis dans le temps ; mais c’est un caractère jaloux. Il ne peut plus me souffrir depuis qu’il a compris qu’il ne peut pas se passer de moi. </p>
+          <p> – Comment expliquez-vous cela ? hasardai-je. </p>
+          <p> – Vous allez comprendre tout de suite, cher monsieur. Il a inventé le bouton, il a dû vous le dire. Mais c’est moi l’inventeur de la boutonnière. </p>
+          <p> – Alors, vous êtes brouillés ? </p>
+          <p> – Nécessairement. </p>
+        </div>
+        <div title="IV" type="chapter">
+          <p> IV </p>
+          <p> Je ne trouve pas précisément de défenses et de prohibitions dans la lettre de l’Évangile. Mais il s’agit de contempler Dieu du regard le plus clair possible et j’éprouve que chaque objet de cette terre, que je convoite, se fait opaque, par cela même que je le convoite, et que le monde entier perd aussitôt sa transparence, ou que mon regard perd sa clarté, de sorte que Dieu cesse d’être sensible à mon âme, et qu’abandonnant le Créateur pour la créature mon âme cesse de vivre dans l’éternité et perd possession du royaume de Dieu. </p>
+          <p> * </p>
+          <p> Je reviens à vous, Seigneur Christ, comme à Dieu dont vous êtes la forme vivante, je suis las de mentir à mon cœur. C’est vous que je retrouve partout, alors que je croyais vous fuir, ami divin de mon enfance. Je crois bien qu’il n’y a plus que vous dont mon cœur exigeant se contente. Le démon seul en moi nie que votre enseignement soit parfait, et que je puisse renoncer à tout, fors à vous, puisque, dans le renoncement à tout, je vous retrouve. </p>
+          <p> Seuil de la vraie jeunesse, </p>
+          <p> Porche du paradis, </p>
+          <p> De nouvelle allégresse </p>
+          <p> Mon âme est étourdie… </p>
+          <p> Seigneur ! augmente mon ivresse. </p>
+          <p> Aplanissez l’espace </p>
+          <p> Qui sépare de Vous </p>
+          <p> Mon âme en sa disgrâce </p>
+          <p> Qui se souvient de Vous… </p>
+          <p> Seigneur ! aggravez mon extase. </p>
+          <p> Sable aride où s’imprime </p>
+          <p> La trace du pied nu, </p>
+          <p> Mon poème ingénu </p>
+          <p> N’élude pas la rime. </p>
+          <p> Ivre d’insouciance </p>
+          <p> Et d’oubli du passé, </p>
+          <p> Sur des flots cadencés </p>
+          <p> Mon âme se balance. </p>
+          <p> Quand rit l’arbuste riche </p>
+          <p> De ses premières fleurs, </p>
+          <p> Dans le vieux chêne en pleurs </p>
+          <p> Un peuple d’oiseaux niche. </p>
+          <p> Agitez les feuillages, </p>
+          <p> Rires, rythmes divins ! </p>
+          <p> J’ai goûté d’un breuvage </p>
+          <p> Plus puissant que le vin. </p>
+          <p> Ô trop claire lumière </p>
+          <p> Transperce mes paupières ! </p>
+          <p> Ta vérité, Seigneur, </p>
+          <p> M’a blessé jusqu’au cœur. </p>
+          <p> RENCONTRES </p>
+          <p> C’ ÉTAIT à Florence, un jour de fête. Quelle fête ? Je ne sais plus. De ma fenêtre, qui donnait sur un quai de l’Arno, entre le Ponte San Trinità et le Ponte Vecchio, je contemplais la foule, attendant le désir d’y plonger, vers le soir, quand elle deviendrait plus fervente. Et, tandis que je regardais en amont, une rumeur, des gens qui courent et, sur le Ponte Vecchio, à cet endroit précisément où le décor des maisons qui ourlent le haut du pont cède et, tout au milieu du pont, laisse un espace à découvert, je vis la foule s’empresser, se pencher sur le parapet, et des bras s’allonger et des mains tendues désigner, dans l’eau limoneuse du fleuve, un petit objet qui flottait, disparaissait dans un remous, reparaissait, et que le courant emportait. Je descendis. Les passants que j’interrogeai me dirent qu’une petite fille était tombée à l’eau ; sa jupe ballonnée l’avait maintenue quelque temps à la surface ; à présent elle avait disparu. Des barques se décrochèrent du rivage, jusqu’au soir des hommes armés de gaffes, fouillèrent l’eau du fleuve ; en vain. </p>
+          <p> Eh quoi ! Dans cette foule épaisse, personne n’avait su remarquer cette enfant ; la retenir ?… Je gagnai le Ponte Vecchio À l’endroit même où venait de se précipiter la fillette, un garçon d’une quinzaine d’années répondait aux questions des passants. Il racontait qu’il avait vu cette petite fille enjamber tout à coup la balustrade ; il s’était élancé, avait pu lui saisir le bras et, quelque temps, l’avait maintenue au-dessus du vide ; la foule derrière lui passait sans se douter de rien ; il voulait appeler à l’aide, n’ayant pas la force à lui seul de ramener l’enfant sur le pont ; mais elle lui avait dit alors : « Non, laisse-moi aller », et cela d’une voix si plaintive qu’à la fin il avait lâché prise. Il sanglotait en racontant cela. </p>
+          <p> (Lui-même était un de ces pauvres enfants qui, peut-être, seraient moins malheureux, sans famille. Il était vêtu de haillons. Et j’imaginais que, dans l’instant qu’il tenait par le bras cette fillette et la disputait à la mort, il avait pu, sentant et partageant son désespoir, s’éprendre d’un amour désespéré comme elle et qui leur ouvrait le ciel à tous deux. C’est par pitié qu’il avait lâché prise. « Prego… lasciatemi. ») </p>
+          <p> On lui demanda s’il la connaissait ; mais non, il la voyait pour la première fois ; personne ne savait qui c’était et toutes les enquêtes que l’on fit les jours suivants furent vaines. On retrouva le corps. C’était celui d’une enfant de quatorze ans ; très maigre et couverte de vêtements très misérables. Que n’eussé-je donné pour en savoir davantage ! et si son père avait une maîtresse, ou sa mère un amant, et ce qui tout à coup devant elle avait cédé, sur quoi elle s’appuyait pour vivre… </p>
+          <p> – Mais pourquoi ce récit, me demanda Nathanaël, dans un livre que tu consacres à la joie ? </p>
+          <p> – Ce récit, j’aurais voulu le faire en termes plus simples encore. En vérité, le bonheur qui prend élan sur la misère, je n’en veux pas. Une richesse qui prive un autre, je n’en veux pas. Si mon vêtement dénude autrui, j’irai nu. Ah ! tu tiens table ouverte, Seigneur Christ ! et ce qui fait la beauté de ce festin de ton royaume, c’est que tous y sont conviés. </p>
+          <p> * </p>
+          <p> Il y a sur terre de telles immensités de misère, de détresse, de gêne et d’horreur, que l’homme heureux n’y peut songer sans prendre honte de son bonheur. Et pourtant ne peut rien pour le bonheur d’autrui celui qui ne sait être heureux lui-même. Je sens en moi l’impérieuse obligation d’être heureux. Mais tout bonheur me paraît haïssable qui ne s’obtient qu’aux dépens d’autrui et par des possessions dont on le prive. Un pas de plus et nous abordons la tragique question sociale. Tous les arguments de ma raison ne me retiendront pas sur la pente du communisme  {1}  . Et ce qui me paraît une erreur, c’est d’exiger de celui qui possède la distribution de ses biens ; mais quelle chimère que d’attendre, de celui qui possède, un renoncement volontaire à des biens – auxquels son âme reste attachée. Pour moi j’ai pris en aversion toute possession exclusive ; c’est de don qu’est fait mon bonheur, et la mort ne me retirera des mains pas grand’chose. Ce dont elle me privera le plus c’est des biens épars, naturels, échappant à la prise et communs à tous ; d’eux surtout je me suis soûlé. Quant au reste, je préfère le repas d’auberge à la table la mieux servie, le jardin public au plus beau parc enclos de murs, le livre que je ne crains pas d’emmener en promenade à l’édition la plus rare, et, si je devais être seul à pouvoir contempler une œuvre d’art, plus elle serait belle et plus l’emporterait sur la joie ma tristesse. </p>
+          <p> Mon bonheur est d’augmenter celui des autres. J’ai besoin du bonheur de tous pour être heureux. </p>
+          <p> * </p>
+          <p> J’admirais, je n’ai pas fini d’admirer, dans l’Évangile un effort surhumain vers la joie. Le premier mot qui nous est rapporté du Christ, c’est « Heureux… » Son premier miracle, la métamorphose de l’eau en vin. (Le vrai chrétien est celui que suffit à enivrer l’eau pure. C’est en lui-même que se répète le miracle de Cana.) Il a fallu l’abominable interprétation des hommes, pour établir sur l’Évangile un culte, une sanctification de la tristesse et de la peine. Parce que le Christ a dit : « Venez à moi, vous tous qui êtes travaillés et chargés, et je vous soulagerai » , on a cru qu’il fallait se travailler et se charger pour aller à lui ; et le soulagement qu’il apportait, on en a fait des « indulgences » . </p>
+          <p> * </p>
+          <p> Il m’a depuis longtemps paru que la joie était plus rare, plus difficile et plus belle que la tristesse. Et quand j’eus fait cette découverte, la plus importante sans doute qui se puisse faire durant cette vie, la joie devint pour moi non seulement (ce qu’elle était) un besoin naturel – mais bien encore une obligation morale. Il me parut que le meilleur et plus sûr moyen de répandre autour de soi le bonheur était d’en donner soi-même l’image, et je résolus d’être heureux. </p>
+          <p> J’avais écrit : « Celui qui est heureux et qui pense, celui-là sera dit vraiment fort » ; – car que m’importe un bonheur édifié sur l’ignorance ? La première parole du Christ est pour embrasser la tristesse même dans la joie : Heureux ceux qui pleurent. Et comprend bien mal cette parole, celui qui n’y voit qu’un encouragement à pleurer ! </p>
+        </div>
+      </div>
+      <div title="LIVRE DEUXIÈME" type="book">
+        <p> LIVRE DEUXIÈME </p>
+        <lb/>
+        <p>JE pense, donc je suis – </p>
+        <p> C’est à ce donc que je m’achoppe. </p>
+        <p> Je pense et Je suis ; il y aurait plus de vérité dans : </p>
+        <p> Je sens, donc je suis – ou même : Je crois, donc je suis – car cela revient à dire : </p>
+        <p> Je pense que je suis. </p>
+        <p> Je crois que je suis. </p>
+        <p> Je sens que je suis. </p>
+        <p> Or de ces trois propositions, la dernière m’apparaît la plus vraie, la seule vraie ; car enfin, je pense que je suis n’implique peut-être pas que je sois. Non plus le : je crois que je suis. Il y a autant de hardiesse à passer de l’un à l’autre qu’à faire du « Je crois que Dieu est », une preuve de l’existence de Dieu. Tandis que : « Je sens que je suis… » – Ici je suis juge et partie. Comment ici me tromperais-je ? </p>
+        <p> Je pense donc que je suis – Je pense que je suis donc je suis. – Car je ne puis penser qu’à quelque chose – </p>
+        <p> Ex. : Je pense que Dieu est </p>
+        <p> ou </p>
+        <p> Je pense que les angles d’un triangle sont égaux à deux droits, donc je suis. – Alors c’est le Je qui est impossible à établir ;… donc cela est – je reste dans le neutre. </p>
+        <p> Je pense : donc je suis. </p>
+        <p> Tout aussi bien : je souffre, je respire, je sens : donc je suis. Car si l’on ne peut penser sans être, l’on peut bien être sans penser. </p>
+        <p> Mais tant que je ne fais que sentir, je suis sans penser que je suis. Par cet acte pensant je prends conscience de mon être ; mais du même coup, je cesse d’être simplement : je suis pensant. </p>
+        <p> Je pense donc je suis équivaut à : je pense que je suis et ce donc qui semble le fléau de la balance ne pèse rien. Il n’y a dans chacun des deux plateaux que ce que j’y ai mis, c’est-à-dire la même chose. X = X. J’ai beau retourner les termes, il n’en sort rien, qu’au bout de quelque temps, un grand mal de tête et le désir d’aller me promener. </p>
+        <p> * </p>
+        <p> Certains des « problèmes » qui nous agitent sont, non point certes insignifiants, mais parfaitement insolubles – et suspendre notre décision à leur solution est folie. Donc passons outre. </p>
+        <p> – Mais avant d’agir, j’ai besoin de savoir pourquoi je suis sur cette terre, si Dieu existe et s’il nous voit, car dès lors il m’est indispensable qu’il m’aperçoive ; j’ai besoin d’abord de savoir si… </p>
+        <p> – Cherchez, cherchez. Cependant vous n’agirez point. Déposons vite ce bagage encombrant à la consigne ; et, comme Édouard, égarons aussitôt le reçu. </p>
+        <p> * </p>
+        <p> Il est bien plus difficile qu’on ne croit de ne pas croire à Dieu. Il faudrait n’avoir jamais vraiment regardé la nature. La moindre agitation de la matière… Pourquoi se soulèverait-elle ? Et vers quoi ? Mais cette information ne m’écarte pas moins de votre credo que de l’athéisme. Que la matière soit pénétrable et ductile et dispose à l’esprit ; que l’esprit ait partie liée avec la matière jusqu’à se confondre avec elle –, je veux bien appeler religieux mon étonnement devant cela. Sur cette terre tout m’étonne. Appelons adoration ma stupeur, j’y consens. La belle avance ! Non seulement je ne puis voir votre Dieu dans tout cela ; mais au contraire, je vois, je découvre partout qu’il ne saurait y être, qu’il n’y est pas. </p>
+        <p> Je suis prêt à appeler Divin tout ce à quoi Dieu lui-même ne pourrait rien changer. </p>
+        <p> Cette formule, qui s’inspire (pour les derniers mots tout au moins) d’une phrase de Gœthe  {2}  , a ceci d’excellent qu’elle n’implique point tant la croyance en un Dieu, que l’impossibilité d’admettre un Dieu qui s’opposerait aux lois naturelles (c’est-à-dire, somme toute, à lui-même) un Dieu qui ne se confondrait pas avec elles. </p>
+        <p> – Je ne vois pas en quoi ceci se distingue du Spinozisme. </p>
+        <p> – Je ne tiens pas à l’en distinguer. Déjà je citais Gœthe qui reconnaissait volontiers ce qu’il devait à Spinoza. Chacun ainsi doit toujours un peu de soi-même à quelque autre. Certains esprits, auxquels je me rattache et m’apparente, j’ai la joie de les pouvoir vénérer autant que vous vénérez les « pères » mêmes de votre Église. Mais, tandis que votre tradition se reporte à une révélation divine et s’interdit par là même toute liberté de pensée, cette autre tradition tout humaine, non seulement laisse à ma pensée sa vertu, mais l’encourage, et m’engage à n’accepter rien pour vrai que je ne l’aie vérifié moi-même tout d’abord ou ne le puisse vérifier – ce qui du reste n’implique nul orgueil, ce qui même peut comporter une humilité de pensée très patiente, et prudente et même craintive, mais répugne à cette fausse modestie de croire l’homme incapable d’atteindre à rien de vrai par lui-même et sinon par l’intervention miraculeuse d’une divine révélation. </p>
+        <p> RENCONTRES </p>
+        <p>ON a beaucoup parlé de moi ces derniers temps, m’a dit Dieu. Il me revient ici des tas d’échos. Même c’en est un peu gênant. Oui, je sais, je suis à la mode. Mais tout ce que l’on dit de moi, le plus souvent ne me plaît guère ; et même il arrive que je ne le comprenne pas du tout. Mais, tenez ! vous qui êtes de la partie (car vous vous piquez, n’est-ce pas de littérature ?) vous devriez bien me dire de qui est cette petite phrase, laquelle, parmi tant d’insanités, m’a plu : « On ne devrait parler de Dieu que naturellement »… ? </p>
+        <p> – La petite phrase est de moi, dis-je en rougissant. </p>
+        <p> – C’est bien. Alors, écoute-moi, dit Dieu, qui, depuis ce moment me tutoie. Certains voudraient toujours que j’intervienne et dérange pour eux l’ordre établi. Ce serait compliquer trop les choses, et tricher, que de ne point rester fidèle à mes lois. Que ceux-là donc apprennent un peu mieux à s’y soumettre ; qu’ils comprennent que c’est ainsi qu’ils en pourront le mieux tirer parti. L’homme peut beaucoup plus qu’il ne croit. </p>
+        <p> – L’homme est dans le pétrin, dis-je. </p>
+        <p> – Qu’il en sorte, reprit alors Dieu ; c’est pour lui marquer mon estime que je le laisse se débrouiller. </p>
+        <p> Puis encore : </p>
+        <p> – Entre nous soit dit, cela ne m’a pas donné si grand mal. C’est venu tout naturellement. Tout est né, comme malgré moi, des quelques données premières. De sorte que le moindre bourgeon, en se développant, m’explique mieux à moi-même que toutes les ratiocinations des théologues. Diffus dans ma création, tout à la fois, je m’y dissimule et m’y perds, et je m’y retrouve sans cesse, au point que je me confonds avec elle et doute si, sans elle, j’existerais vraiment ; je m’y prouve à moi-même mes propres possibilités. Mais, plutôt encore, c’est dans le cerveau de l’homme que tout l’épars prend nombre ; car sons, couleurs, parfums, n’existent que dans leur relation avec l’homme ; et l’aurore la plus suave, le chant du vent le plus mélodieux, et les reflets du ciel sur les eaux, et les frémissements des ondes, ne sont que vains propos en l’air, tant que non recueillis par l’homme et aussi longtemps que les sens de l’homme n’en ont point fait de l’harmonie. C’est sur ce sensible miroir que ma création tout entière infléchie se colore et s’émeut… </p>
+        <p> – Je dois t’avouer, me dit-il encore, que je suis grandement déçu par les hommes. Ceux-ci qui se disent le plus mes enfants, sous prétexte de m’adorer mieux, tournent le dos à tout ce que j’ai préparé pour eux sur la terre. Oui, ceux précisément qui me nomment leur père, comment peuvent-ils supposer que je puisse me plaire à les voir, par amour pour moi, maigrir, souffrir et se priver ?… Cela me fait une belle jambe ! </p>
+        <p> J’ai caché mes plus beaux secrets, comme vous faites, pour vos enfants, sous les buissons, les œufs de Pâques. J’aime surtout ceux-là qui se donnent un peu de peine à chercher. </p>
+        <p> * </p>
+        <p> Lorsque je considère et pèse ce mot Dieu que j’emploie, je suis forcé de constater qu’il est à peu près vide de substance ; et c’est bien là ce qui me permet d’en user si commodément. C’est un vase informe, à parois indéfiniment extensibles, qui contient ce qu’il plaît à chacun d’y mettre, mais qui ne contient que ce que chacun de nous y a mis. Si j’y verse la toute-puissance, comment n’aurais-je pas pour ce récipient de la crainte ; et de l’amour si je l’emplis d’attention pour moi-même et, pour chacun de nous, de bonté ? Si je lui prête la foudre, si j’attache à son côté l’éclair-glaive, ce n’est plus devant l’orage que je tremble et m’effraie, c’est devant Dieu. </p>
+        <p> Prudence, conscience, bonté, il ne m’est point possible d’imaginer rien de tout cela, n’était l’homme. Que l’homme, détachant tout cela de soi, imagine tout cela, très vaguement, à l’état pur, c’est-à-dire abstraitement, en façonne Dieu, il le peut ; il peut même imaginer que Dieu commence, que l’être absolu précède, et que la réalité soit motivée par lui, pour le motiver à son tour ; enfin que le Créateur a besoin de la créature ; car s’il ne créait rien il ne serait plus créateur du tout. De sorte que l’un et l’autre demeurent en relation et dépendance si parfaites que l’on peut dire que l’un ne serait pas sans l’autre, le créateur sans la chose créée, et que l’homme ne saurait avoir plus grand besoin de Dieu, que Dieu de l’homme, et que l’on peut plus aisément imaginer rien du tout, que l’un sans l’autre. </p>
+        <p> Dieu me tient ; je le tiens ; nous sommes. Mais en pensant ceci, je ne fais qu’un avec la création entière ; je me fonds et m’absorbe dans la prolixe humanité. </p>
+        <p> RENCONTRES </p>
+        <p>LE Bon Dieu, passe encore, me dit cette charmante enfant. Ah ! tenez, je vous l’abandonne ; car je sens qu’avec vous, il est bien inutile de discuter. Et puis Dieu, lui, s’y retrouve toujours et, comme on dit, retrouvera toujours les siens. Vous êtes de ceux-ci, que vous le vouliez ou non. Le curé me le redisait encore hier : Dieu vous sauvera malgré vous. Car vous êtes bon. Mais alors comment pouvez-vous dire que vous n’aimez pas le Bon Dieu ? Si seulement vous n’étiez pas si têtu, vous auriez vite fait de reconnaître que votre propre bonté fait partie de la sienne et que tout ce que vous avez en vous de bon vient de lui… Mais c’est de la Sainte Vierge que je suis venue vous parler. Ah ! par exemple, ici je ne vous tiens pas quitte ! Et je voudrais bien savoir comment vous, poète, vous pourriez faire pour ne pas l’aimer ? Au fond, vous l’aimez sans le savoir ; ou, plutôt : sans consentir à vous l’avouer, à cause de votre orgueil. Non, tout de même, ce qu’il faut que vous soyez cabochard !… Pourquoi ne pas consentir à reconnaître, tout simplement, que la brume d’argent qui flotte au matin sur les prairies encore ensommeillées, c’est sa robe ? Ses pieds purs, vainqueurs du serpent, ce calme soudain qui s’impose aux flots agités ? Ce rayon que vous admirez, qui tombe en tremblant des étoiles, fait, dans l’ombre des nuits, scintiller l’eau de la source et se reflète en votre cœur, c’est son regard ; et le bruissement mélodieux du feuillage qu’un doux vent agite et qui pénètre votre cœur, c’est sa voix. Elle-même, seule une âme sans autre désir que de pureté peut la voir ; et c’est pour pouvoir se mirer dans le cœur des hommes qu’elle protège en eux la pureté. Je ne l’ai jamais aperçue ; non, pas encore ; mais je sais bien que c’est elle, et mon amour pour elle, qui écartent de moi tout ce qui pourrait me souiller… Allons ! voyons, soyez gentil : consentez à la reconnaître, et à l’aimer, car c’est tout un. Vous me feriez tant de plaisir !… Et même, elle est si généreuse, la Sainte Vierge, qu’elle admet que, moi, ce soit le petit Jésus que je préfère. Ah ! celui-là !… Mais, tout en l’aimant, jamais je n’oublie qu’il est son fils. Du reste on ne peut aimer l’un sans l’autre ; et à la fois le Saint-Esprit. Non, tenez, plus j’y pense, moins je comprends votre résistance. Et, si j’osais dire toute ma pensée… : là-dedans, je vous trouve un peu sot. </p>
+        <p> – Alors, parlons d’autre chose, lui dis-je. </p>
+        <p> * </p>
+        <p> Je reconnais que je me suis longtemps servi du mot Dieu comme d’une sorte de dépotoir où verser mes concepts les plus imprécis. Cela finit par former quelque chose de fort peu semblable au bon Dieu à barbe blanche de Francis Jammes, mais de guère plus existant. Et, comme il advient que les vieillards perdent successivement cheveux et dents, vue, mémoire et enfin la vie, mon Dieu perdit en vieillissant (ce n’est pas lui qui vieillissait, c’est moi) tous les attributs dont je l’avais revêtu naguère ; à commencer (ou à finir) par l’existence, ou, si l’on veut, par la réalité. Cessé-je de le penser, il cessait d’être. Seule mon adoration le créait. Elle pouvait se passer de lui ; Lui ne pouvait se passer d’elle. Ce devenait un jeu de glaces, où je cessai de m’amuser quand j’eus compris que j’en faisais seul tous les frais. Et quelque temps encore ce reliquat divin tenta de se réfugier, sans plus d’attributs personnels, dans l’esthétique, l’harmonie du nombre, le conatus vivendi de la nature… À présent je ne vois même plus trop l’intérêt d’en parler. </p>
+        <p> Mais, tout de même, ce que j’appelais Dieu, jadis, ce confus amas de notions, de sentiments, d’appels, et de réponses à ces appels qui, je le sais aujourd’hui, n’existaient que par et qu’en moi, tout ceci me paraît aujourd’hui, quand j’y songe, beaucoup plus digne d’intérêt que le reste du monde, et que moi-même et que toute l’humanité. </p>
+        <p> * </p>
+        <p> Quelle absurde conception du monde et de la vie parvient à causer les trois quarts de notre misère, et par attachement au passé se refuse à comprendre que la joie de demain n’est possible que si celle d’aujourd’hui cède la place, que chaque vague ne doit la beauté de sa courbe qu’au retrait de celle qui la précède, que chaque fleur se doit de faner pour son fruit, que celui-ci, s’il ne tombe et meurt, ne saurait assurer des floraisons nouvelles, de sorte que le printemps même prend appui sur le seuil de l’hiver. </p>
+        <p> * </p>
+        <p> Les considérations ci-dessus m’engagent, m’ont toujours engagé, à écouter plus volontiers les enseignements de l’histoire naturelle, que ceux de l’histoire humaine. Je tiens ces derniers pour de bien moindre profit. Ils restent toujours aléatoires. </p>
+        <p> Le développement de l’herbe la plus modeste obéit à de constantes lois, lesquelles échappent à la logique humaine, ou du moins ne s’y réduisent point. L’expérience, ici, peut être recommencée et si l’erreur y est possible, une observation plus rigoureuse et plus sagacement contrariée permet enfin toujours plus d’approche d’une vérité permanente, d’un Dieu qui, comprenant ma raison, la surpasse, que ma raison ne peut nier. </p>
+        <p> D’un Dieu sans charité. Mais le Vôtre n’en a pas davantage, que celle que vous Lui prêtez. Rien qui ne soit inhumain, fors l’homme même. Il faut en prendre son parti ; et c’est de là qu’il faut partir. Il faut partir. </p>
+        <p> * </p>
+        <p> Je crois plus facilement aux dieux grecs qu’au Bon Dieu. Mais ce polythéisme, je suis bien forcé de le reconnaître tout poétique. Il équivaut à un athéisme foncier. C’est pour son athéisme que l’on condamnait Spinoza. Pourtant il s’inclinait devant le Christ avec plus d’amour, de respect, de piété même, que ne font bien souvent les catholiques, et je parle des plus soumis ; mais un Christ sans divinité. </p>
+        <p> * </p>
+        <p> L’hypothèse chrétienne… inadmissible. </p>
+        <p> Qu’elle ne peut pourtant se laisser ébranler par les constatations matérialistes. </p>
+        <p> Devons-nous trouver Dieu en faute, pour avoir surpris et dénoncé un de ses trucs ? </p>
+        <p> Dépouillerons-nous Dieu de sa foudre pour avoir compris la formation de l’éclair ? </p>
+        <p> – Trop d’étoiles, trop de mondes, pense X…, qui croit que peut-être il croirait s’il ne découvrait dans le ciel que juste ce qu’il faudrait d’astres autour de la terre pour la suspendre, motiver sa gravitation, la chauffer, l’éclairer et donner à rêver aux poètes. Mais il sait qu’il ne peut considérer notre globe comme le centre de l’Univers ; partant, la rédemption non plus – dit-il. Et le Christ ne m’est plus de rien, s’il n’est plus central, s’il n’est tout. </p>
+        <p> Et pourtant c’est l’un ou l’autre – mais je n’ai jamais pu décider lequel m’est le plus impossible à concevoir : Un espace infini peuplé d’une infinité de mondes. Un monde limité à tant d’astres et pas un de plus, où, passé l’espace où ils gravitent, on trouve quoi ? Une borne où mon esprit se cogne. Un vide où il ne puisse plus voler. Une présence-obstacle ; ou une absence prohibitive – une absence à la fois de sujet et d’objet – une absence progressive, ou qui commence où ? une absence qui serait une lente diminution de présence ; ou une subitement complète suppression ? </p>
+        <p> Non. Rien de tout cela. Mais, de même, l’on s’étonnait jadis : comment et où pouvait finir la terre ? Jusqu’à ce jour où l’on comprit enfin sa rondeur et que le point de départ de sa parfaite circonférence se rejoignait à l’arrivée. </p>
+        <p> * </p>
+        <p> Je me passai fort bien de certitude dès lors que j’acquis celle-ci, que l’esprit de l’homme ne peut en avoir. Ceci reconnu que reste-t-il à faire ? S’en créer ou en accepter de factices et s��efforcer de ne les point tenir pour mensongères ?… ou apprendre à s’en passer. C’est à quoi je travaillai de tout mon cœur. Je n’admettais point que ce sevrage dût mener l’homme au désespoir. </p>
+      </div>
+      <div title="LIVRE TROISIÈME" type="book">
+        <p> LIVRE TROISIÈME </p>
+        <div title="I" type="chapter">
+          <p> I </p>
+          <p> C’est vers la volupté que s’efforce toute la nature. Elle fait croître le brin d’herbe, se développer le bourgeon et le bouton s’épanouir. C’est elle qui dispose aux baisers des rayons la corolle, invite aux noces tout ce qui vit, l’obtuse larve à la nymphose et de la prison chrysalide fait s’échapper le papillon. Guidé par elle, tout aspire au plus grand bien-être, à plus de conscience, au progrès… C’est pourquoi j’ai trouvé plus d’instruction dans la volupté que dans les livres ; pourquoi j’ai trouvé dans les livres plus d’obscurcissement que de clarté. </p>
+          <p> Il n’y eut là délibération ni méthode. C’est inconsidérément que je plongeai dans cet océan de délices, tout surpris d’y nager, de ne m’y sentir pas engloutir. C’est dans la volupté que prend conscience de soi tout notre être. </p>
+          <p> Tout cela se passa de résolution ; c’est tout naturellement que je m’abandonnai. J’avais bien entendu dire que la nature humaine est mauvaise, mais je souhaitais l’éprouver. Au demeurant je me sentais moins curieux de moi que d’autrui, ou plutôt : le désir charnel travaillait sourdement vers une confusion charmante, et me précipitait hors de moi. </p>
+          <p> La recherche d’une morale ne me paraissait pas très habile, ni même possible, aussi longtemps que je ne savais point qui j’étais. Cessant de me chercher, c’était pour me retrouver dans l’amour. </p>
+          <p> Il fallait, pour un temps, accepter le rejet de toute morale et ne résister plus aux désirs. Eux seuls étaient capables de m’instruire. J’y cédai. </p>
+          <p> RENCONTRES </p>
+          <p>OH ! me disait ce pauvre infirme… ne fût-ce qu’une fois ! Pouvoir une fois enlacer de mes bras « qui que ce soit pour qui je brûle », ainsi que dit Virgile… Il me semble qu’après avoir connu cette joie, je me résignerais plus facilement à n’en plus jamais goûter d’autres ; que je me résignerais plus facilement à mourir. </p>
+          <p> – Cette joie, malheureux ! lui dis-je, pour l’avoir une fois goûtée, tu ne la souhaiterais que bien davantage. Si poète que tu puisses être, l’imagination, en ces sortes de choses, tourmente moins que ne le fait le souvenir. </p>
+          <p> – Penses-tu me consoler ainsi ? reprit-il. </p>
+          <p> * </p>
+          <p> Et pourtant, que de fois, sur le point de cueillir une joie, m’en suis-je soudain détourné comme aurait pu le faire un ascète. </p>
+          <p> Il n’y avait point là renoncement, mais une expectation si parfaite de ce que cette félicité pouvait être, une anticipation si accomplie, que la réalisation ne pourrait plus en rien m’instruire, qu’il n’y avait déjà plus qu’à passer outre, sachant bien que la préparation d’un plaisir ne l’assure qu’en le déflorant et que le ravissement le plus exquis saisit l’être entier par surprise. Mais du moins avais-je su bannir de moi toutes réticences, pudeurs, réserves de la décence, hésitations timorées, qui font la volupté craintive et prédisposent l’âme aux remords après le retombement de la chair. J’étais tout habité par le printemps intérieur dont ne me paraissaient que des échos les reflets, toutes les éclosions, et les floraisons que je rencontrais sur ma route. J’ardais si fort qu’il me semblait pouvoir communiquer à tout autrui ma ferveur comme on donne le feu de sa cigarette, et celle-ci n’en est qu’attisée, je secouais de moi toute cendre. Dans mes regards riait un amour épars, éperdu. Je pensais : la bonté n’est qu’une irradiation du bonheur ; et mon cœur se donnait à tous par le simple effet d’être heureux. </p>
+          <p> Puis, plus tard… Non, ce ne fut ni diminution de désirs, ni satiété, que je sentis venir avec l’âge ; mais, souvent, escomptant sur mes lèvres avides l’épuisement trop prompt du plaisir, la possession me paraissait de moindre prix que la poursuite et j’en venais de plus en plus à préférer à l’étanchement la soif même, à la volupté sa promesse, à la satisfaction l’élargissement sans fin de l’amour. </p>
+          <p> RENCONTRES </p>
+          <p> J’ ALLAI le voir, dans ce village du Valais où il achevait censément sa convalescence, où, en réalité, il se préparait à mourir. La maladie l’avait à ce point changé que je le reconnus à peine. </p>
+          <p> – Eh bien, non ; cela ne va plus ; plus du tout, me dit-il. Chaque organe se prend, à présent, l’un après l’autre : le foie, les reins, la rate… Quant à mon genou !… Par curiosité, regarde-le. </p>
+          <p> Et, relevant à demi ses couvertures, ramenant sa maigre jambe en avant, il découvrit une sorte de boule énorme à l’endroit de l’articulation. Comme il transpirait beaucoup, sa chemise était collée au corps et laissait paraître sa maigreur. Je tâchai de sourire, pour dissimuler ma tristesse. </p>
+          <p> – De toute manière tu savais que tu en avais pour longtemps avant de te remettre, lui dis-je. Mais tu es bien, ici, n’est-ce pas ? L’air est bon. La nourriture… ? </p>
+          <p> – Excellente. Et ce qui me sauve, c’est que je digère encore bien. Depuis quelques jours, j’ai même repris du poids. J’ai moins de fièvre. Oh ! somme toute, je vais sensiblement mieux. </p>
+          <p> Un semblant de sourire tira ses traits et je compris qu’il n’avait peut-être pas perdu tout espoir. </p>
+          <p> – Du reste voici le printemps, ajoutai-je vite, en détournant mon visage vers la fenêtre, car des larmes, que je voulais lui cacher, emplissaient mes yeux. Tu vas pouvoir t’installer dans le jardin. </p>
+          <p> – J’y descends déjà pour quelques instants chaque jour, après le repas de midi. Car ce n’est que le dîner que je fais monter dans ma chambre. Le déjeuner, je me force à le prendre dans la salle commune et jusqu’à présent je n’y ai manqué que trois jours. C’est un peu pénible ensuite de remonter les deux étages ; mais je prends mon temps : pas plus de quatre marches à la fois, puis un arrêt pour reprendre souffle. En tout, il faut bien compter vingt minutes. Mais cela me fait prendre un peu d’exercice ; et je suis si content, ensuite, de retrouver mon lit ! Puis cela laisse le temps de faire la chambre. Mais surtout, j’ai peur de me laisser aller… Tu regardes mes livres ?… Oui, ce sont tes Nourritures terrestres. Ce petit livre ne me quitte pas. Tu ne peux pas savoir la consolation et l’encouragement que j’y trouve. </p>
+          <p> Ceci me toucha plus qu’aucun compliment qu’on eût jamais pu me faire ; car je craignais, je l’avoue, que mon livre ne pût trouver crédit qu’auprès des forts. </p>
+          <p> – Oui, reprit-il, même dans mon état, quand je suis dans le jardin près de fleurir, je voudrais, comme Faust, dire à la minute qui passe : « Tu es si belle !… Arrête-toi. » Tout me paraît alors harmonieux, suave… Ce qui me gêne, c’est de faire moi-même comme une fausse note dans ce concert, comme une tache dans ce tableau… J’aurais tant voulu être beau ! » </p>
+          <p> Il demeura quelque temps sans plus rien dire, les regards tournés vers le bleu du ciel qu’on pouvait voir par la fenêtre grande ouverte. Puis, à voix plus basse et, semblait-il, craintivement : </p>
+          <p> – Je voudrais bien que tu donnes de mes nouvelles à mes parents. Moi j’en suis à ne plus oser leur écrire ; ni surtout leur dire la vérité. À chaque lettre qu’elle reçoit de moi, ma mère me répond aussitôt que, si je suis malade, c’est pour mon bien ; que c’est pour mon salut que Dieu me gratifie de ces souffrances ; que je devrais m’en instruire pour m’amender et que, seulement ensuite, je mériterai de guérir. Alors je lui dis invariablement que je vais mieux, pour éviter ces considérations… qui m’emplissent le cœur de blasphème. Écris-lui, toi. </p>
+          <p> – Ce matin même ce sera fait, lui dis-je en prenant sa main moite. </p>
+          <p> – Oh ! ne serre pas trop fort ; tu me fais mal. </p>
+          <p> Il souriait. </p>
+        </div>
+        <div title="II" type="chapter">
+          <p> II </p>
+          <p> Notre littérature, et singulièrement la romantique, a louangé, cultivé, propagé la tristesse ; et non point cette tristesse active et résolue qui précipite l’homme aux actions les plus glorieuses ; mais une sorte d’état flasque de l’âme, qu’on appelait mélancolie, qui pâlissait avantageusement le front du poète et chargeait de nostalgie son regard. Il entrait là-dedans de la mode et de la complaisance. La joie paraissait vulgaire, signe d’une trop bonne et bête santé ; et le rire faisait grimacer le visage. La tristesse se réservait le privilège de la spiritualité, et, partant, de la profondeur. </p>
+          <p> Pour moi qui toujours préférai Bach et Mozart à Beethoven, je tiens pour impie le vers de Musset tant prôné : </p>
+          <p> « Les plus désespérés sont les chants les plus beaux » , et n’admets pas que l’homme sous les coups de l’adversité se laisse abattre. </p>
+          <p> Oui, je sais qu’il entre là-dedans plus de résolution que d’abandon au naturel. Je sais que Prométhée souffre, enchaîné sur le Caucase, et que le Christ meurt crucifié, l’un et l’autre pour avoir aimé les hommes. Je sais que, seul parmi les demi-dieux, Hercule garde sur son front le souci d’avoir triomphé des monstres, des hydres, de toutes ces forces affreuses qui maintenaient l’humanité courbée. Je sais qu’il est bien des dragons à vaincre, encore et peut-être toujours… Mais il y a, dans le renoncement à la joie, de la faillite et comme une sorte d’abdication, de lâcheté. </p>
+          <p> Que l’homme, jusqu’aujourd’hui, n’ait pu s’élever au bien-être, celui même qui permet le bonheur, qu’aux dépens des autres, qu’en s’installant sur eux, voilà ce que nous ne devons plus admettre. Je n’admets pas davantage que le grand nombre doive renoncer sur cette terre à ce bonheur qui naît naturellement de l’harmonie. </p>
+          <p> * </p>
+          <p> Mais ce que les hommes ont fait de la terre promise – de la terre accordée… il y a de quoi faire rougir les dieux. L’enfant qui brise un jouet n’est pas plus bête, ni l’animal qui saccage le pâtis où il doit trouver nourriture, trouble la source où il va boire, ou l’oiseau qui souille son nid. Ô triste abord des villes ! laideur, désharmonie, puanteur… Avec un peu d’entente et d’amour, je songe aux jardins que vous pouviez être, ceintures des cités, protection de tout ce que la végétation proposait de plus luxuriant et de plus tendre – réprimé le moindre attentat de quelqu’un à la joie de tous. </p>
+          <p> Je songe à ce que vous pourriez être, loisirs ! Ô jeux spirituels dans la bénédiction de la joie ! Et le travail, le travail même, racheté, réchappé d’une malédiction impie. </p>
+          <p> * </p>
+          <p> Quel évolutionniste irait supposer quelque rapport que ce soit entre chenille et papillon – si l’on ne savait que c’est précisément le même être. La filiation paraît impossible ; et il y a identité. Il me semble que, naturaliste, j’aurais dirigé vers cette énigme toutes les forces, toutes les interrogations de mon esprit. </p>
+          <p> S’il n’avait été donné qu’à très peu de gens d’assister à ces métamorphoses, si celles-ci étaient plus rares, peut-être nous surprendraient-elles davantage. Mais on cesse de s’étonner devant un miracle constant. </p>
+          <p> Et ce n’est pas seulement la forme qui change ; les mœurs, les appétits… </p>
+          <p> Connais-toi toi-même. Maxime aussi pernicieuse que laide. Quiconque s’observe arrête son développement. La chenille qui chercherait à « bien se connaître » ne deviendrait jamais papillon. </p>
+          <p> * </p>
+          <p> Je sens bien, à travers ma diversité, une constance ; ce que je sens divers c’est toujours moi. Mais précisément parce que je sais et sens qu’elle existe, cette constance, pourquoi chercher à l’obtenir ? Je me suis, tout le long de ma vie, refusé de chercher à me connaître ; c’est-à-dire : refusé de me chercher. Il m’a paru que cette recherche, ou plus exactement sa réussite, entraînait quelque limitation et appauvrissement de l’être, ou que seules arrivaient à se trouver et se comprendre quelques personnalités assez pauvres et limitées ; ou plutôt encore : que cette connaissance que l’on prenait de soi limitait l’être, son développement ; car tel qu’on s’était trouvé l’on restait, soucieux de ressembler ensuite à soi-même et que mieux valait protéger sans cesse l’expectative, un perpétuel insaisissable devenir. L’inconséquence me déplaît moins que certaine conséquence résolue, que certaine volonté de demeurer fidèle à soi-même et que la crainte de se couper. Je crois du reste que cette inconséquence n’est qu’apparente et qu’elle répond à quelque continuité plus cachée. Je crois aussi qu’ici, comme partout, les phrases nous trompent, car le langage nous impose plus de logique qu’il n’en est souvent dans la vie ; et que le plus précieux de nous-même est ce qui reste informulé. </p>
+        </div>
+        <div title="III" type="chapter">
+          <p> III </p>
+          <p> J’ai parfois, j’ai souvent, par malignité, dit d’autrui plus de mal que je ne pensais et, par lâcheté, dit plus de bien que je ne pensais de beaucoup d’œuvres, livres ou tableaux, par crainte d’indisposer contre moi leurs auteurs. J’ai parfois souri à des gens que je ne trouvais pas du tout drôles et feint de trouver spirituels des propos niais. J’ai feint de m’amuser, parfois, alors que je m’embêtais à mort et que je n’avais pas la force de m’en aller parce que l’on me disait : reste encore… J’ai trop souvent permis à ma raison d’arrêter l’élan de mon cœur. Et, par contre, alors que mon cœur se taisait, j’ai trop souvent parlé quand même. J’ai parfois, pour être approuvé, fait des sottises. Et, par contre, je n’ai pas toujours osé faire ce que je pensais devoir faire mais savais ne devoir être pas approuvé. </p>
+          <p> * </p>
+          <p> Le regret « temporis acti » est la plus vaine occupation du vieillard. Je me le dis ; pourtant j’y cède. Vous m’y encouragez, estimant ce regret de nature à ramener insensiblement l’âme à Dieu. Mais vous vous méprenez sur la nature de mes regrets, de mes remords. C’est le regret du « non acti » qui me tourmente, de tout ce que durant ma jeunesse j’aurais pu faire, j’aurais dû faire, et qu’empêcha votre morale ; cette morale à laquelle je ne crois plus ; à laquelle je croyais bon de me soumettre alors qu’elle était pour moi le  {3}  plus gênante, de sorte que je donnais à l’orgueil cette satisfaction que je refusais à ma chair. Car c’est à l’âge où l’âme et le corps sont les plus dispos à l’amour, les plus dignes d’aimer, d’être aimés, où l’étreinte est la plus puissante, la curiosité la plus vive et la plus instructive, la volupté du plus grand prix, c’est à cet âge que l’âme et le corps trouvent également le plus de force pour résister aux sollicitations de l’amour. </p>
+          <p> Ce que vous appeliez, que j’appelais avec vous : tentations, ce sont elles que je regrette ; et, si je me repens aujourd’hui, ce n’est pas d’avoir cédé à quelques-unes, c’est d’avoir résisté à tant d’autres, après lesquelles j’ai couru, plus tard, lorsqu’elles étaient déjà moins charmantes et de moindre profit pour ma pensée. </p>
+          <p> Je me repens d’avoir assombri ma jeunesse, d’avoir préféré l’imaginaire au réel, de m’être détourné de la vie. </p>
+          <p> * </p>
+          <p> Oh ! tout ce que nous n’avons point fait et que pourtant nous aurions pu faire… penseront-ils, sur le point de quitter la vie. – Tout ce que nous aurions dû faire et que pourtant nous n’avons point fait ! par souci des considérants, par temporisation, par paresse, et pour s’être trop dit : « Bah ! nous aurons toujours le temps. » Pour n’avoir pas saisi le chaque jour irremplaçable, l’irretrouvable chaque instant. Pour avoir remis à plus tard la décision, l’effort, l’étreinte… </p>
+          <p> L’heure qui passe est bien passée </p>
+          <p> – Oh ! toi qui viendras, penseront-ils, sois plus habile : Saisis l’instant ! </p>
+          <p> * </p>
+          <p> Je m’installe dans ce point de l’espace que j’occupe, dans ce moment précis de la durée. Je n’admets point qu’il ne soit point crucial. J’étends mes bras de toute leur longueur. Je dis : voici le sud, le nord… Je suis effet ; je serai cause. Cause déterminante ! Une occasion qui ne se représentera jamais plus. Je suis ; mais je veux trouver raison d’être. Je veux savoir pour quoi je vis. </p>
+          <p> * </p>
+          <p> La peur du ridicule obtient de nous les pires lâchetés. Combien de jeunes velléités qui se croyaient pleines de vaillance et qu’a dégonflées tout à coup ce seul mot d’ « Utopie » appliqué à leurs convictions, et la crainte de passer pour chimériques aux yeux des gens sensés. Comme si tout grand progrès de l’humanité n’était pas dû à de l’utopie réalisée ! Comme si la réalité de demain ne devait pas être faite de l’utopie d’hier et d’aujourd’hui – si l’avenir consent à n’être point la seule répétition du passé, ce qui serait la considération la mieux capable de m’enlever toute joie de vivre. Oui, sans l’idée d’un progrès possible, la vie ne m’est plus d’aucun prix – et je fais miennes ces paroles que je prêtais à l’Alissa de ma Porte Étroite : </p>
+          <p> « Si bienheureux qu’il soit, je ne puis souhaiter un état sans progrès… et ferais fi d’une joie qui ne serait pas progressive. » </p>
+          <p> * </p>
+          <p> Il est bien peu de monstres qui méritent la peur que nous en avons. </p>
+          <p> Monstres enfantés par la peur – peur de la nuit et peur de la clarté ; peur de la mort et peur de la vie ; peur des autres et peur de soi ; peur du diable et peur de Dieu – vous ne nous en imposerez plus. Mais nous vivons encore sous le règne des croquemitaines. Qui donc a dit que la crainte de Dieu était le commencement de la Sagesse. Imprudente sagesse, la vraie, tu commences où finit la crainte, et tu nous enseignes la vie. </p>
+          <p> * </p>
+          <p> D’apporter partout où se peut la confiance, l’aisance et la joie, devint bientôt mon exigence et la réclamation de mon indispensable bonheur. Comme si du bonheur d’autrui seulement je dusse former le mien propre, n’en connaissant plus d’autre moi-même que celui que je pouvais goûter par sympathie, et par procuration pour ainsi dire. Et tout ceci me parut, par là même, haïssable, qui pouvait empêcher ce bonheur : les timidités, les découragements, les incompréhensions, les médisances, le complaisant portrait de détresses imaginaires, les vains assoiffements d’irréel, et les divisions des partis, des classes, des nations ou des races, et tout ce qui tend à faire de l’homme un ennemi de soi-même ou d’autrui, les semailles de discorde, les oppressions, les intimidations, les dénis. </p>
+          <p> * </p>
+          <p> L’écureuil n’admet pas le rampement de la couleuvre. Le lièvre fuit quand la tortue et le hérisson se replient. Tu retrouveras toute cette diversité chez les hommes. Cesse donc de blâmer ce qui diffère de toi. Une société d’hommes ne saurait être parfaite que si elle nécessite l’emploi de maintes formes d’activité, que si elle favorise l’éclosion de maintes formes de bonheur. </p>
+          <p> * </p>
+          <p> Me devinrent ennemis personnels : pervertisseurs, assombrisseurs, affaiblisseurs, rétrogrades, tardigrades et plaisantins. </p>
+          <p> J’en veux à tout ce qui diminue l’homme ; à tout ce qui tend à le rendre moins sage, moins confiant ou moins prompt. Car je n’accepte pas que la sagesse s’accompagne toujours de lenteur et de méfiance. C’est bien aussi pourquoi je crois qu’il y a souvent plus de sagesse dans l’enfant que dans le vieillard. </p>
+          <p> * </p>
+          <p> Leur sagesse ?… Ah ! leur sagesse, mieux vaut n’en pas faire grand cas. </p>
+          <p> Elle consiste à vivre le moins possible, se méfiant de tout, se garant. </p>
+          <p> Il y a toujours, dans leurs conseils, je ne sais quoi de rassis, de stagnant. </p>
+          <p> Ils sont comparables à certaines mères de familles qui abrutissent de recommandations leurs enfants : </p>
+          <p> – « Ne te balance pas si fort, la corde va craquer ; </p>
+          <p> Ne te mets pas sous cet arbre, il va tonner ; </p>
+          <p> Ne marche pas où c’est mouillé, tu vas glisser ; </p>
+          <p> Ne t’assieds pas sur l’herbe, tu vas te tacher ; </p>
+          <p> À ton âge, tu devrais être plus raisonnable ; </p>
+          <p> Combien de fois faudra-t-il te le répéter : </p>
+          <p> On ne met pas ses coudes sur la table. </p>
+          <p> Cet enfant est insupportable ! » </p>
+          <p> – Ah ! Madame, pas tant que vous. </p>
+          <p> * </p>
+          <p> À la fois surprenante et très attendue, je compare la joie à cette vaste jatte de lait frais que nous trouvâmes au gîte d’étape, un soir d’accablante chaleur, après avoir marché dans l’aridité tout le jour. Nous étions restés sans revoir de lait depuis des semaines, car la contrée que nous traversions alors, où sévissait la maladie du sommeil, ne pouvait convenir au bétail. Mais, sans nous en douter, rentrés depuis quelques heures dans une région préservée où l’élevage était possible ; et, si les herbes eussent été moins hautes, ou si notre chevauchée les eût dominées de plus haut, nous eussions pu, de-ci, de-là, distinguer des troupeaux dans la brousse. Et nous n’espérions ce soir-là, pour étancher notre soif, qu’une eau tiède et suspecte, que par prudence nous eussions fait bouillir d’abord, et dont le goût nauséabond reparaît à travers l’alcool ou le vin dont on la colore, contentement forcé des jours précédents. Mais ce soir-là, dans l’ombre de la case, avec quel ravissement nous découvrîmes cette jatte pleine d’un lait qu’on avait trait pour nous. Une fine couche de sable gris en avait terni la surface. Nos gobelets déchirèrent ce film fragile et le lait, au-dessous, semblait plus candide et plus frais, de toute la chaleur du jour. Malgré sa blancheur, c’est de l’ombre que l’on croyait boire, du repos et du réconfort… </p>
+        </div>
+      </div>
+      <div title="LIVRE QUATRIÈME" type="book">
+        <p> LIVRE QUATRIÈME </p>
+        <div title="I" type="chapter">
+          <p> I </p>
+          <p> Je ne me plais qu’à ce qui respire et peut vivre. C’est à organiser que mon esprit, en fin de compte, travaille ; à construire. Mais je ne peux édifier rien, que, d’abord, les matériaux dont je dois me servir, je ne les éprouve. Les notions reconnues, les principes, mon esprit ne les admet point qu’il ne les ait reconnus lui-même ; je sais du reste que les mots les plus sonores sont aussi les plus creux. Je me méfie des déclamateurs, des bien-pensants, des bons-apôtres, et commence par dégonfler leurs discours. Je veux savoir ce qui se cache d’outrecuidance dans ta vertu, d’intérêt dans ton patriotisme, d’appétit charnel et d’égoïsme dans ton amour. Non, mon ciel n’est pas assombri si je ne reconnais plus les lanternes pour des étoiles ; ma volonté pas affaiblie pour ne plus consentir à se laisser guider par des fantômes, pour n’aimer plus que la réalité. </p>
+          <p> * </p>
+          <p> Mais cette certitude : que l’homme n’a pas toujours été ce qu’il est, permet aussitôt cet espoir : il ne le sera pas toujours. </p>
+          <p> Moi aussi, parbleu, j’ai pu sourire, ou rire avec Flaubert, devant l’idole du Progrès ; mais c’est qu’on nous présentait le progrès comme une divinité dérisoire. Progrès du commerce et de l’industrie ; des beaux-arts surtout, quelle sottise ! Progrès de la connaissance, oui certes. Mais ce qui m’importe c’est le progrès de l’Homme même. </p>
+          <p> Que l’homme n’ait pas toujours été ce qu’il est ; qu’il se soit lentement obtenu, voici qui ne me paraît plus contestable, en dépit des mythologies. Notre regard, borné à un petit nombre de siècles, peut reconnaître dans le passé l’homme toujours pareil à lui-même, admirer qu’il n’ait point changé depuis le temps des pharaons ; mais plus s’il plonge dans les « gouffres de la préhistoire » . Et s’il n’a toujours été tel qu’il est, comment penser qu’il le demeurera toujours ? L’homme devient. </p>
+          <p> Mais, eux, ils imaginent et voudraient me faire croire l’humanité semblable à ce damné de Dante, que son éternelle immobilité désespère et qui s’écrie : « Si seulement je pouvais avancer d’un pas tous les mille ans, je me serais déjà mis en route. » </p>
+          <p> Cette idée de progrès s’est fait sa place dans mon esprit, s’apparentant à toutes autres ou se les soumettant. </p>
+          <p> (Illusion de l ’homme accompli, qu’a pu donner toute période classique en raison de l’équilibre momentanément obtenu.) Que l’état actuel de l’humanité doive nécessairement être surpassé, c’est une idée transportante et qu’accompagne aussitôt la haine de tout ce qui peut empêcher ce progrès (comparable à la haine du mal chez le chrétien). </p>
+          <p> * </p>
+          <p> Tout cela sera balayé. Ce qui mérite de l’être, et aussi ce qui mériterait de ne pas l’être. Car comment séparer ceci de cela ? Vous voulez chercher le salut de l’humanité dans le rattachement au passé, et ce n’est qu’en repoussant le passé, qu’en repoussant dans le passé ce qui a cessé de servir, que progresser devient possible. Mais vous ne voulez point croire au progrès. « Ce qui a été, c’est ce qui sera » , dites-vous. Je veux penser que ce qui a été, c’est ce qui ne saurait plus être. L’homme se dégagera peu à peu de ce qui le protégeait naguère ; de ce qui désormais l’asservit. </p>
+          <p> * </p>
+          <p> Ce n’est pas seulement le monde qu’il s’agit de changer ; mais l’homme. D’où surgira-t-il, cet homme neuf ? Non du dehors. Camarade, sache le découvrir en toi-même, et, comme du minerai l’on extrait un pur métal sans scories, exige-le de toi, cet homme attendu. Obtiens-le de toi. Ose devenir qui tu es. Ne te tiens pas quitte à bon compte. Il y a d’admirables possibilités dans chaque être. Persuade-toi de ta force et de ta jeunesse. Sache te redire sans cesse : « Il ne tient qu’à moi. » </p>
+          <p> * </p>
+          <p> On n’obtient rien de bon par le mélange. </p>
+          <p> Quand j’étais jeune, j’avais le cerveau plein de croisements, de mulets, de caméléopards. </p>
+          <p> Vertu de la sélection. </p>
+          <p> Vertu première : la patience. </p>
+          <p> Rien à voir avec la simple attente. Elle se confond plutôt avec l’obstination. </p>
+          <p> RENCONTRES </p>
+          <p> 1 </p>
+          <p> J’ AI connu dans le Bourbonnais une aimable vieille demoiselle </p>
+          <p> Qui conservait dans une armoire quantité de vieux médicaments ; </p>
+          <p> De sorte qu’il ne restait presque plus de place pour rien y mettre ; </p>
+          <p> Et, comme la demoiselle allait à présent tout à fait bien, </p>
+          <p> Je me permis de lui dire qu’il n’était peut-être pas bien utile </p>
+          <p> De garder ainsi ce qui ne lui servait décidément plus à rien. </p>
+          <p> Alors la vieille demoiselle est devenue très rouge, </p>
+          <p> Et j’ai cru qu’elle allait se mettre à pleurer. </p>
+          <p> Elle a sorti les fioles et les boîtes et les tubes l’un après l’autre </p>
+          <p> En disant : « Ceci m’a sauvée d’une colique et cela d’une esquinancie ! </p>
+          <p> Cet onguent m’a guérie d’un abcès à l’aine </p>
+          <p> Qui pourrait peut-être bien, sait-on jamais, recommencer ; </p>
+          <p> Et ces pilules me procuraient de l’aisance </p>
+          <p> Du temps que j’étais un peu constipée. </p>
+          <p> Quant à cet instrument, ce devait être un inhalateur </p>
+          <p> Mais qui, je le crains, est à peu près complètement détraqué… » </p>
+          <p> Enfin elle m’avoua que, dans le temps, tous ces médicaments lui avaient coûté très cher </p>
+          <p> Et je compris que c’était surtout cela qui la retenait de les balancer. </p>
+          <p> 2 </p>
+          <p> Puis le temps vient où il nous faut quitter tout cela. </p>
+          <p> Ce « tout cela », que sera-ce ? – Pour quelques êtres </p>
+          <p> Un tas de biens thésaurisés, des propriétés, des bibliothèques, </p>
+          <p> Des divans où trouver plaisir </p>
+          <p> À simplement déguster le loisir ; </p>
+          <p> Pour beaucoup d’autres, ce sera peine et labeur. </p>
+          <p> Quitter famille et amis, enfants qui grandissent ; </p>
+          <p> Travail commencé, œuvre à faire, </p>
+          <p> Rêve sur le point de devenir réalité ; </p>
+          <p> Des livres qu’on voulait encore lire ; </p>
+          <p> Des parfums qu’on n’avait jamais respirés ; </p>
+          <p> Des curiosités mal satisfaites ; </p>
+          <p> Des indigents qui comptaient sur votre appui ; </p>
+          <p> Une paix, une sérénité qu’on espérait atteindre… </p>
+          <p> Et puis soudain les jeux sont faits ; rien ne va plus. </p>
+          <p> Alors, un beau jour, on entend dire : </p>
+          <p> – Vous savez… Gontran ; je viens de le revoir. Il est fichu. </p>
+          <p> Depuis huit jours, il ne battait plus que d’une aile. </p>
+          <p> Il répétait : « Je sens, je sens que je m’en vais. » Pourtant on espérait encore. Mais c’en est fait. </p>
+          <p> – Qu’est-ce qu’il a ? </p>
+          <p> On croit que ça vient des endocrines, </p>
+          <p> Mais il avait le cœur en très mauvais état. </p>
+          <p> Une espèce d’empoisonnement par l’insuline, dit le docteur. </p>
+          <p> – C’est curieux, ce que vous me racontez là. </p>
+          <p> – On dit qu’il laisse une assez importante fortune, </p>
+          <p> Une collection de médailles et des tableaux. </p>
+          <p> Rapport au fisc, les collatéraux n’en toucheront pas un centime. </p>
+          <p> – Des médailles ! Je ne comprends pas comment on peut s’intéresser à ça. </p>
+          <p> * </p>
+          <p> Ne fais donc pas le malin. Tu as vu mourir ; ça n’avait rien de si comique. Tu t’efforces de plaisanter, pour cacher ta peur ; mais ta voix tremble et ton pseudo-poème est affreux. </p>
+          <p> – Il se peut… Oui, j’ai vu mourir… Il y a le plus souvent, m’a-t-il paru, précédant la mort et passé l’angoisse, une sorte d’émoussement de l’aiguillon. La mort met des gants fourrés pour nous prendre. Elle n’étrangle pas sans assoupir ; et ce dont elle nous sépare a perdu déjà sa netteté, sa présence et comme sa réalité. Un univers si décoloré que de le quitter ne fait plus grand’peine et qu’il n’y a plus matière à regrets. </p>
+          <p> Alors, je me dis que ça ne doit pas être si difficile de mourir, puisque, en fin de compte, tous y parviennent. Et ce ne serait peut-être, après tout, qu’une habitude à prendre, si seulement on ne mourait pas rien qu’une fois. </p>
+          <p> Mais la mort est atroce à qui n’a pas rempli sa vie. À celui-ci la religion n’a que trop beau jeu pour lui dire : – Ne t’en fais pas. C’est de l’autre côté que ça commence, et tu seras récompensé. </p>
+          <p> C’est dès « ici-bas » qu’il faut vivre. </p>
+          <p> Camarade, ne crois à rien ; n’accepte rien sans preuve. N’a jamais rien prouvé le sang des martyrs. Il n’est pas religion si folle qui n’ait eu les siens et qui n’ait suscité des convictions ardentes. C’est au nom de la foi que l’on meurt ; et c’est au nom de la foi que l’on tue. L’appétit de savoir naît du doute. Cesse de croire et instruis-toi L’on ne cherche jamais d’imposer qu’à défaut de preuves. Ne t’en laisse pas accroire. Ne te laisse pas imposer. </p>
+          <p> * </p>
+          <p> Traumatisme – endort la douleur… </p>
+          <p> Se souvenir de l’admirable récit de Montaigne, où il parle de son évanouissement à la suite de sa chute de cheval. Et Rousseau, racontant l’accident qui faillit lui coûter la vie : « Je ne sentis ni le coup, ni la chute, ni rien de ce qui s’ensuivit, jusqu’au moment où je revins à moi… La nuit s’avançait. J’aperçus le ciel, quelques étoiles, et un peu de verdure. Cette première sensation fut un moment délicieuse. Je ne me sentais encore que par là. Je naissais dans cet instant à la vie, et il me semblait que je remplissais de ma légère existence tous les objets que j’apercevais. Tout entier au moment présent, je ne me souvenais de rien… je ne sentais ni mal, ni crainte, ni inquiétude… » </p>
+          <p> Ce petit livre d’histoire naturelle, que j’égarai quand vint la guerre, que depuis j’ai cherché vainement, dont je ne sais plus ni le titre ni le nom de l’auteur (c’était un livre anglais de petit format, illustré, à livrée de toile grenat), dont je n’avais encore lu que l’introduction, une sorte d’invitation à l’étude des sciences dites naturelles. Il y était dit, dans cette introduction (et de ceci je me souviens fort bien), que la souffrance était, à rondement parler, une invention humaine, et que tout concourait, dans la nature, à l’éviter ; et qu’elle serait réduite à peu, n’était l’intervention de l’homme. Non point que chaque être vivant ne fût capable de souffrir ; mais que d’abord tout être malingre et mal venu était comme automatiquement supprimé. Puis des exemples fort éloquents étaient donnés : entre autres celui de la poule, échappée des serres du faucon, qui tout aussitôt se remet à picorer le grain, aussi insouciante que d’abord. Car, disait l’auteur, et je le pense avec lui : l’animal vit dans le présent, de sorte que le plus grand nombre de nos maux, imaginaires, habitant la représentation du passé (regrets, remords) ou l’appréhension de l’avenir, lui sont épargnés. L’auteur, poursuivant sa thèse hardie, mais à quoi se ralliait aussitôt ma pensée, soutenait que le lièvre ou le cerf poursuivi (non par l’homme, mais par un autre animal) trouve joie dans sa course et ses bonds et ses feintes. Enfin ceci, que nous savons vrai : c’est que le coup de patte du fauve, comme tout traumatisme violent, engourdit, de sorte que la proie, le plus souvent, succombe avant d’avoir éprouvé la douleur. Je vois du reste ce qui, dans cette thèse poussée trop loin, pourrait paraître paradoxal ; mais je la crois, dans son ensemble, parfaitement juste et que le bonheur d’être, dans toute la nature jusqu’à l’homme, l’emporte de beaucoup sur la peine. Mais que ceci s’arrête à lui. Et par sa faute. </p>
+          <p> Il pouvait, moins fou, s’épargner les maux causés par la guerre et, moins féroce pour autrui, ceux causés par la misère, de beaucoup les plus nombreux. Il n’y a pas là d’utopie ; mais la simple constatation que la plupart de nos maux n’ont rien de fatal, de nécessaire, et ne sont dus qu’à nous. Pour ce qui est de ceux que nous ne pouvons encore éviter, si nous avons les maladies, nous avons aussi les remèdes. Rien ne m’empêchera de croire que l’humanité pourrait être plus vigoureuse, plus saine, partant plus joyeuse ; et que nous sommes responsables d’à peu près tous les maux dont nous souffrons. </p>
+        </div>
+        <div title="II" type="chapter">
+          <p> II </p>
+          <p> Si donc j’appelle Dieu la nature, c’est pour plus de simplicité, et parce que cela irrite les théologiens. Car tu remarqueras que ceux-ci ferment les yeux sur la nature, ou, lorsqu’il advient qu’ils la contemplent, ils ne savent pas l’observer. </p>
+          <p> Plutôt que de chercher à te laisser instruire par les hommes, cherche ton enseignement près de Dieu. L’homme est contrefait ; son histoire est celle même de ses faux-fuyants, de ses feintes. J’écrivais naguère : « Une voiture de maraîcher charrie plus de vérités que les plus belles périodes de Cicéron. » Il y a l’histoire des hommes et celle qu’on appelle si justement la naturelle. Dans l ’Histoire Naturelle, sache écouter la voix de Dieu. Et ne te contente pas de l’écouter vaguement ; pose à Dieu des questions précises et force-le à te répondre précisément. Ne te contente pas de contempler ; observe. </p>
+          <p> Alors tu remarqueras que tout ce qui est jeune est tendre ; et de combien de gaines ne s’enveloppe pas tout bourgeon ! Mais tout ce qui d’abord protégeait le tendre germe le gêne aussitôt que la germination s’accomplit ; et aucune croissance n’est possible qu’en faisant éclater ces gaines, ce qui l’emmaillotait d’abord. </p>
+          <p> L’humanité chérit ses langes ; mais elle ne pourra grandir qu’elle ne sache s’en délivrer. L’enfant sevré n’est pas ingrat s’il repousse le sein de sa mère. Ce n’est plus du lait qu’il lui faut. Tu ne consentiras plus, camarade, à chercher aliment dans ce lait de la tradition, distillé, filtré par les hommes. Tes dents sont là pour mordre et mâcher, et c’est dans la réalité que tu dois trouver nourriture. Dresse-toi nu, vaillant ; fais craquer les gaines ; écarte de toi les tuteurs ; pour croître droit tu n’as plus besoin que de l’élan de ta sève et que de l’appel du soleil. </p>
+          <p> Tu remarqueras que toute plante propulse au loin ses graines ; ou bien que celles-ci, tout enveloppées de saveur, invitant l’appétit de l’oiseau, sont emportées par lui où sinon elles ne pourraient atteindre ; ou douées d’hélices, d’aigrettes, s’abandonnent aux vents voyageurs. Car, à nourrir trop longtemps la même sorte de plantes, le sol s’appauvrit, s’empoisonne, et la nouvelle génération ne saurait trouver aliment au même lieu que la première. Ne cherche pas à remanger ce qu’ont digéré tes ancêtres. Vois s’envoler les grains ailés du platane ou du sycomore, comme s’ils comprenaient que l’ombre paternelle ne leur promet qu’étiolement et qu’atrophie. </p>
+          <p> Et tu remarqueras de même que tout l’élan de la sève gonfle de préférence les bourgeons de la fine extrémité des branches et les plus éloignés du tronc. Sache comprendre et t’éloigner le plus possible du passé. </p>
+          <p> Sache comprendre la fable grecque : elle nous enseigne qu’Achille était invulnérable, sauf en cet endroit de son corps qu’attendrissait le souvenir du contact des doigts maternels. </p>
+          <p> * </p>
+          <p> Tu n’auras pas raison de moi, tristesse ! J’écoute un chant suave à travers les lamentations, les sanglots. Un chant dont j’invente à mon gré les paroles, qui raffermit mon cœur lorsque je le sens près de céder. Un chant que j’emplis de ton nom, camarade, et d’un appel à ceux qui d’un cœur vaillant répondront : </p>
+          <p> Redressez-vous donc, fronts courbés ! Regards inclinés vers les tombes, relevez-vous ! Levez-vous non vers le ciel creux, mais vers l’horizon de la terre. Vers où te porteront tes pas, camarade, régénéré, vaillant, prêt à quitter ces lieux tout empuantis par les morts, laisse t’emporter en avant ton espoir. Ne permets pas qu’aucun amour du passé te retienne. Vers l’avenir élance-toi. La poésie, cesse de la transférer dans le rêve ; sache la voir dans la réalité. Et si elle n’y est pas encore, mets-l’y. </p>
+          <p> * </p>
+          <p> Les soifs non étanchées, les appétits insatisfaits, les frissons, les attentes vaines, les fatigues, les insomnies… que tout cela te soit épargné, ah ! combien je le voudrais, camarade ! Incliner vers tes mains, tes livres, les branches de tous les arbres à fruits. Faire crouler les murs, abattre devant toi les barrières sur lesquelles l’accaparement jaloux vient écrire : « Défense d’entrer. Propriété privée. » Obtenir enfin que te revienne l’intégrale récompense de ton labeur. Relever ton front et permettre enfin que ton cœur s’emplisse non plus de haine et d’envie, mais d’amour. Oui, permettre enfin que t’atteignent toutes les caresses de l’air, les rayons du soleil et toutes les invitations au bonheur. </p>
+          <p> * </p>
+          <p> Éperdument penché à l’avant du navire, je regarde venir à moi les flots sans nombre, les îles, les aventures du pays inconnu dont déjà… </p>
+          <p> – Non, me dit-il ; ton image est trompeuse. Tu vois ces flots ; tu vois ces îles ; nous ne pouvons voir l’avenir. Seul, le présent. Je vois ce que l’instant apporte ; songe à ce qu’il m’enlève et que je ne verrai jamais plus. Qui se tient à l’avant du navire ne voit devant lui, métaphoriquement, qu’un vide immense… </p>
+          <p> – Qu’emplit la possibilité. Ce qui a été m’importe moins que ce qui est ; ce qui est, moins que ce qui peut être et qui sera. Je confonds possible et futur, je crois que tout le possible s’efforce vers l’être ; que tout ce qui peut être sera, si l’homme y aide. </p>
+          <p> – Et tu te défends d’être mystique ! Tu sais pourtant bien que, de toutes ces possibilités, une seule, pour parvenir à l ’être, doit refouler dans le néant toutes les autres, et que ce qui aurait pu être ne nous invite qu’aux regrets. </p>
+          <p> – Je sais surtout que l’on n’avance qu’en repoussant derrière soi le passé. L’on raconte que la femme de Loth, pour avoir voulu regarder en arrière, fut changée en statue de sel, c’est-à-dire : de larmes figées. Tourné vers l’avenir, Loth couche alors avec ses filles. Ainsi soit-il. </p>
+          <p> * </p>
+          <p> Ô toi pour qui j’écris – que j’appelais autrefois d’un nom qui me paraît aujourd’hui trop plaintif : Nathanaël, que j’appelle aujourd’hui : camarade – n’admets plus rien de plaintif en ton cœur. </p>
+          <p> Sache obtenir de toi ce qui rende la plainte inutile. N’implore plus d’autrui ce que, toi, tu peux obtenir. </p>
+          <p> J’ai vécu ; maintenant c’est ton tour. C’est en toi désormais que se prolongera ma jeunesse. Je te passe pouvoir. Si je te sens me succéder, j’accepterai mieux de mourir. Je reporte sur toi mon espoir. </p>
+          <p> De te sentir vaillant me permet de quitter sans regrets la vie. Prends ma joie. Fais ton bonheur d’augmenter celui de tous. Travaille et lutte et n’accepte de mal rien de ce que tu pourrais changer. Sache te répéter sans cesse : il ne tient qu’à moi. On ne prend point son parti sans lâcheté de tout le mal qui dépend des hommes. Cesse de croire, si tu l’as jamais cru, que la sagesse est dans la résignation ; ou cesse de prétendre à la sagesse. </p>
+          <p> Camarade, n’accepte pas la vie telle que te la proposent les hommes. Ne cesse point de te persuader qu’elle pourrait être plus belle, la vie ; la tienne et celle des autres hommes ; non point une autre, future, qui nous consolerait de celle-ci et qui nous aiderait à accepter sa misère. N’accepte pas. Du jour où tu commenceras à comprendre que le responsable de presque tous les maux de la vie, ce n’est pas Dieu, ce sont les hommes, tu ne prendras plus ton parti de ces maux. </p>
+          <p> Ne sacrifie pas aux idoles. </p>
+          <p> FIN </p>
+        </div>
+      </div>
+      <head/>
+    </body>
+    <back/>
+    <back/>
+  </text>
+</TEI>
