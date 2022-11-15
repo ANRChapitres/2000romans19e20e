@@ -1,0 +1,1216 @@
+<?xml version='1.0' encoding='UTF8'?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> Jane </title>
+        <author from="1802" key="" name="Dumas (père), Alexandre" sex="male" to="1870"/>
+        <edition n=""/>
+        <editor name="" where=""/>
+      </titleStmt>
+      <publicationStmt>
+        <date type="created" when="1859"/>
+        <date type="issued" when="1859"/>
+      </publicationStmt>
+      <editionStmt>
+        <profileDesc tag="canon" type="genre">
+          <textClass>
+            <keywords>
+              <term>roman d'aventures</term>
+              <term>roman historique</term>
+            </keywords>
+          </textClass>
+        </profileDesc>
+      </editionStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docAuthor/>
+        <docTitle>
+          <titlePart main="Jane"/>
+          <titlePart sub=""/>
+        </docTitle>
+      </titlePage>
+    </front>
+    <body>
+      <div title="Avant-propos" type="chapter">
+        <p> Alexandre Dumas </p>
+        <p> Jane </p>
+        <lb/>
+        <p> Avant-propos </p>
+        <p>LORSQU’ON VOYAGE DANS UN pays et que l’on veut faire connaître ce pays, il faut que tout ce qu’on écrit sur lui, soit écrit au point de vue de sa nationalité.  Je me suis donc attaché, pendant mon séjour en Russie, à recueillir des légendes, contemporaines autant que possible, attendu que c’était la Russie au XIX e siècle que j’avais l’intention de peindre. </p>
+        <p> En voici une empruntée à l’année 1812. Elle est puisée aux souvenirs d’un homme de beaucoup de talent, Bestuchef-Marlinsky, condamné à mort en 1826, puis envoyé aux mines, par grâce spéciale de l’empereur Nicolas. </p>
+        <p> Les personnes qui liront mon Voyage au Caucase y trouveront, sur cet auteur éminent, les détails les plus curieux et les plus pittoresques. </p>
+        <p> Alex. Dumas. </p>
+        <p></p>
+      </div>
+      <div title="Chapitre 1 La tempête" type="chapter">
+        <p> Chapitre 1 </p>
+        <lb/>
+        <p> La tempête </p>
+        <p> AUMOMENT OÙ LES troupes de Napoléon s’approchaient de Moscou, la flotte russe, réunie à celle de la Grande-Bretagne, bloquait, sous le commandement de l’amiral anglais, la flotte française enfermée à Flessingue. </p>
+        <p> Pendant la plus mauvaise saison de l’année, sur une mer ouverte à tous les vents, jetant leurs ancres dans d’incommensurables profondeurs, les flottes combinées avaient à soutenir le double combat des tempêtes et de l’ennemi. Elles avaient derrière elles l’Océan aux vagues grondantes, devant elles les batteries qui crachaient la flamme et le fer. </p>
+        <p> Au mois d’octobre, les tempêtes sont terribles et successives. Qui les essuya en mer, sous la toile, comme on dit en termes de marine, peut seul se faire une idée de ce qu’est un pareil temps pour une flotte obligée de jeter l’ancre. Le vaisseau reste alors immobile, mais tremblant de tous ses membres, comme un géant enchaîné, et, quelle que soit la fureur des flots, il ne peut fuir devant eux. </p>
+        <p> L’ouragan qui s’éleva dans la nuit du 16 au 17 octobre 1812 détruisit plusieurs bâtiments tant sur les plages de Hollande que sur celles d’Angleterre. Pendant toute cette nuit, au milieu des ténèbres et de la tempête, on entendait de temps en temps ce formidable coup de canon qui crie à la création : « Nous sommes perdus ! » dernier râle de la vie qui a son écho dans la tombe. </p>
+        <p> Aux premiers rayons du jour, sombre et presque aussi menaçant que la nuit qui venait de s’écouler si lentement, on vit l’effroyable position de la flotte. La ligne était rompue ; les câbles et les mâts étaient brisés ; quelques bâtiments, arrachés à leurs ancres, allaient à la dérive. Les vagues les soulevaient comme des montagnes prêtes à les engloutir. Aux yeux même des marins, la position était désastreuse. </p>
+        <p> Le vaisseau russe le Vladimir était brisé en plusieurs endroits et faisait eau. Il était le dernier de la ligne à gauche et touchait presque aux rochers qui se prolongent près d’une demi-lieue dans la mer, dans une direction parallèle à la côte. Les matelots, travaillant, avec l’ardeur d’hommes qui sentent que leur vie dépend de la vigueur de leurs bras, les uns aux pompes, les autres à la manœuvre du bâtiment, prouvaient à des yeux exercés que toute cette fatigue resterait inutile ; et la perte de ceux qui montaient le bâtiment était inévitable, lorsque, par un bonheur inespéré, avec le jour le vent baissa et la mer se calma. Un éclair d’espérance passa dans le cœur des marins : cette espérance se changea bientôt en certitude de salut. On distribua un verre d’eau-de-vie aux matelots, et un peu d’ordre commença de renaître à bord. On put permettre à la moitié des hommes de se reposer : il était quatre heures de l’après-midi. </p>
+        <p> Le lieutenant, qui était autorisé à partager le repos de ces hommes, monta alors sur le pont, et, s’adressant au capitaine, qui s’y promenait de long en large : </p>
+        <p> — Commandant, dit-il en levant sa casquette, j’ai remis tout en bon ordre : le vent souffle nord-nord-ouest ; nous sommes à l’ancre sur soixante-huit brasses de fond avec soixante et onze brasses de câble. </p>
+        <p> — Et la cale, la cale, Nicolas Alexiovitch ? demanda le commandant. </p>
+        <p> — Tout va bien de ce côté ; nous sommes maîtres de l’eau. Avez-vous quelques ordres à me donner ? </p>
+        <p> — Aucun, puisque vous avez pourvu à tout, Nicolas ; seulement, recevez l’expression de ma reconnaissance, et faites tous mes compliments à l’équipage pour son travail de cette nuit. Sans ce travail plus qu’humain, nous serions, à l’heure qu’il est, accrochés comme une guenille à quelque rocher où nous pêcherions des étoiles de mer. </p>
+        <p> Le lieutenant était un vieux marin hâlé par le soleil de tous les climats, portant la casquette sur l’oreille, et ayant laissé, par distraction sans doute, prendre à son épaule droite une prééminence marquée sur la gauche. Un manteau encore tout trempé de pluie tombait de ses épaules, sans qu’il songeât à s’en débarrasser ; il tenait à la main son porte-voix. </p>
+        <p> Il sourit aux paroles du commandant. </p>
+        <p> — Bon, dit-il, cela ne vaut pas la peine d’en parler. C’est lorsque nous étions sur le Vladimir dans l’Adriatique que nous en avons vu, et d’autres que celles-là ! Par bonheur encore, continua Alexiovitch, qu’il n’y a pas de typhon dans la Manche, quoique ce soit une chose curieuse que de les voir se former et disparaître. </p>
+        <p> — Oui, ma foi, cela doit être fort curieux, Nicolas-Alexiovitch, répondit Élim Melosor, beau jeune homme de vingt-quatre à vingt-cinq ans, portant l’aiguillette d’or à son épaule. – Et, en effet, il était aide de camp de l’amiral russe ; mais, pendant la guerre, il avait pris du service sur un vaisseau. – Je suis sûr que nos typhons de la Baltique sont plus dangereux pour les verres de punch que pour les vaisseaux. </p>
+        <p> — Certainement, mon cher, dit le vieux marin : l’eau a été faite pour les poissons et les écrevisses, le lait pour les enfants et les poitrinaires, le vin pour les jeunes gens et les jolies femmes, le madère pour les hommes et les soldats. Mais le rhum et l’eau-de-vie, c’est la boisson naturelle des héros. </p>
+        <p> — En ce cas, répondit le jeune aide de camp avec un sourire, l’immortalité n’est pas faite pour moi. Il m’est impossible de regarder en face une bouteille de rhum : j’ai en horreur cette abominable boisson. </p>
+        <p> — Eh bien, moi, mon cher Élim, c’est tout le contraire ; mon cœur bat, à sa vue, un branle-bas de tous les diables. Oh ! quand tu seras depuis trente ans sur le parquet du vieux Neptune ; quand tu auras vu autant de grains que j’ai vu de centaines de tempêtes, tu reconnaîtras qu’un bon verre de grog vaut mieux que tous les manteaux du monde, fussent-ils de renard bleu ou de zibeline ; au second verre, tu sentiras un génie entrer dans ta tête ; au troisième, un oiseau chanter dans ton cœur : alors tu te pencheras par-dessus la muraille et tu regarderas passer les vagues aussi tranquillement que si c’étaient des troupeaux de moutons. Les mâts crieront et craqueront au-dessus de ta tête, et tu te soucieras de leurs craquements et de leurs cris comme de cela. </p>
+        <p> Et le vieux marin fit claquer ses doigts. </p>
+        <p> — Et, malgré tout cela, la nuit passée, Nicolas-Alexiovitch, s’il n’eût pas fait si sombre, peut-être eussions-nous pu, à certains moments, voir passer la pâleur sur tes joues. </p>
+        <p> — Que le diable ait mon âme s’il y a un mot de vrai dans ce que tu dis là, Élim Melosor ! La tempête, c’est ma vie, à moi. Que Dieu nous donne souvent de pareilles nuits ; le service ne sera pas négligé comme dans les temps de calme. Lorsque le vent souffle, alors les pieds et les mains sont occupés, et je suis fier, car il me semble que je prends le commandement de toute la nature. </p>
+        <p> — Merci pour votre tempête, lieutenant ! dit le jeune officier ; j’ai été mouillé jusqu’aux os, je me suis couché sans souper, ayant une faim de chien de mer, et, pour compléter ma chance, j’ai roulé deux fois à bas de mon lit ! </p>
+        <p> — Tiens, tu es un vrai bambin, mon cher Élim, dit le vieux marin. Ah çà ! mais tu voudrais donc que ton bâtiment voguât dans l’eau de rose ; que le vent n’eût été créé que pour chatouiller tes voiles, et que les lieutenants dansassent seulement avec les dames ? </p>
+        <p> — Plaisantez tant que vous voudrez, Alexiovitch : je vous déclare que je ne refuserais pas, dans ce moment surtout, de me réchauffer près d’une jolie lady à Plymouth, ou de dormir voluptueusement, après un bon dîner, à l’Opéra de Paris. Cela me paraîtrait plus agréable que d’entendre siffler le vent et d’être près de boire, à chaque instant, mon dernier coup à la même tasse que les requins et les baleines. </p>
+        <p> — Pour moi, je tiens qu’il y a toujours plus de danger sur terre que sur mer ; sur terre, tu risques éternellement de perdre ta bourse ou ton cœur. Par exemple, lorsque tu me conduisis dans la maison de Stephen, tu te le rappelles, n’est-ce pas ? je ne savais comment me gouverner au milieu des canapés et des fauteuils qui encombraient le salon ; j’eusse mieux aimé gouverner par une nuit sans étoiles au milieu de la passe de Devil’s-Gripp. Ah ! cette maudite miss Fanny : elle me regardait si fièrement, que j’étais tout prêt à lever l’ancre et à filer quinze lieues à l’heure pour m’éloigner d’elle. Mais tu ne m’écoutes pas, monsieur le distrait ! </p>
+        <p> En effet, depuis que son vieux camarade avait touché l’article femmes, Élim, à demi couché sur un canon, avait tourné et arrêté ses yeux sur la côte de Hollande. Cette rive lointaine lui paraissait un paradis. </p>
+        <p> Là, il y avait de braves gens, des hommes d’esprit, de belles jeunes filles ; là étaient des cœurs prêts à aimer et dignes d’être aimés. </p>
+        <p> Dangereuse pensée pour un homme de vingt-cinq ans, surtout lorsqu’il est enfermé dans ce monastère flottant qu’on appelle un vaisseau ! Aussi, Élim, malade de cette sublime maladie qu’on appelle la jeunesse, était-il devenu doublement pensif, à la vue de la terre et aux paroles de son compagnon. Il regardait la Hollande avec une tendresse, qu’on eût dit qu’il y avait là quelque trésor enfoui. L’impossibilité de quitter son bâtiment lui donnait, au reste, un désir plus vif d’aller à terre, et il soupira si profondément, qu’en historien véridique, nous croyons devoir ici consigner ce soupir et y arrêter l’attention du lecteur. </p>
+        <p> Le jour commençait à baisser ; le vent augmentait au fur et à mesure que baissait le jour, et il se changeait peu à peu en tourmente ; mais, comme tout était prévu, on attendit la nuit avec une certaine tranquillité. </p>
+        <p> En ce moment, on vit paraître à l’horizon un navire qui arrivait sur la flotte toutes voiles dehors ; poussé par la tempête renaissante, il semblait vouloir marcher plus vite qu’elle ; on reconnut bientôt que c’était un navire de guerre anglais. Son drapeau rouge flamboyait comme un éclair au milieu des nuages. Tous les yeux se tournèrent de son côté. </p>
+        <p> — Ah ! voyons un peu comme notre gentleman va jeter l’ancre par ce joli temps, dit Élim. </p>
+        <p> — Ah çà ! mais il est fou, dit un jeune lieutenant ; il force de voiles en entrant dans la ligne ! Regarde donc : ses mâts plient comme des roseaux. Ne te semble-t-il pas les entendre craquer d’ici ? Ou son capitaine en a d’autres dans sa poche, ou il a des démons au lieu de matelots. </p>
+        <p> On vit monter le drapeau de signal au vaisseau amiral ; mais, comme s’il n’y faisait aucune attention, ou comme s’il était entraîné par une force irrésistible, le navire ne parut pas s’en préoccuper. </p>
+        <p> — Eh bien, il ne répond pas ? s’écrièrent plusieurs voix avec étonnement. </p>
+        <p> — Mais il va tout droit sur le rocher, dit Élim. </p>
+        <p> Trois drapeaux s’élevèrent à la fois sur le vaisseau amiral. </p>
+        <p> — Numéro 143 ! cria un matelot. </p>
+        <p> Le lieutenant ouvrit le livre des signaux. </p>
+        <p> — « Le vaisseau qui arrive du large, dit-il, doit se former en ligne et jeter l’ancre à gauche. » </p>
+        <p> — A-t-il répondu ? demanda le lieutenant. </p>
+        <p> — Il n’a seulement pas l’air de se douter qu’on lui parle, dit le matelot. </p>
+        <p> L’incertitude, la crainte et l’étonnement se peignirent sur tous les visages. </p>
+        <p> Le même signal se répéta, accompagné d’un coup de canon en manière de réprimande. </p>
+        <p> Le bâtiment n’y fit aucune attention et continua de marcher droit sur l’écueil. </p>
+        <p> En vain l’amiral redoublait ses signaux : il ne paraissait pas les voir, ne s’arrêtait pas, ne diminuait pas même sa marche. </p>
+        <p> Tout le monde regardait avec terreur le navire insensé : il était évident qu’il allait droit à sa perte. </p>
+        <p> — Il ne comprend pas nos signaux ! s’écria le lieutenant. Il ne vient pas de l’Angleterre, il vient de l’Océan. En tout cas, il devrait voir le rocher, qui est indiqué sur toutes les cartes. </p>
+        <p> — Il n’a qu’une seconde pour virer de bord, dit Élim, ou il est perdu. </p>
+        <p> Le moment était suprême. </p>
+        <p> Le jeune homme sauta sur le bastingage, se tenant par une main seulement, et, de l’autre, faisant signe avec sa casquette en criant : </p>
+        <p> — La barre à bâbord ! la barre à bâbord donc ! comme si, malgré la distance, le bâtiment pouvait l’entendre. </p>
+        <p> Le bâtiment était déjà assez proche pour que l’on vît ses hommes, qui s’agitaient sur le pont. On essayait d’amener la misaine ; mais, au moment où l’équipage était occupé à cette manœuvre, on entendit un craquement terrible. C’était le mât qui se brisait. </p>
+        <p> — Il n’a pas de gouvernail, s’écria le lieutenant, il est perdu ! </p>
+        <p> Et, tout vieux marin qu’il était, il détourna les yeux. </p>
+        <p> Il avait raison : le bâtiment, condamné à mort, semblait avoir hâte d’arriver à sa perte. Poussé par le vent, entraîné par les courants, quoiqu’on eût successivement amené toutes les voiles, il ne marchait plus, il volait. </p>
+        <p> On voyait le désespoir de l’équipage ; il n’y avait plus de commandement, plus d’ordre, plus de discipline. Les matelots couraient çà et là, tendant les mains vers les autres bâtiments, et demandant instinctivement un secours qu’il était impossible de leur porter. </p>
+        <p> Leur dernière heure sonna. </p>
+        <p> Avec la rapidité de l’éclair, avec la force et le bruit de la foudre, le bâtiment alla heurter le roc. </p>
+        <p> À l’instant même, on le vit, au milieu de l’écume, se briser en morceaux. Les voiles se dispersèrent ; une d’elles s’envola comme un aigle dans les nuages. Une vague énorme souleva tous ces débris et les jeta une fois encore sur le rocher. </p>
+        <p> — Tout est fini ! s’écria Élim en se rejetant sur le pont. </p>
+        <p> Et, en effet, à la place où, un instant auparavant, s’élevait encore le vaisseau, les vagues seules bondissaient, se heurtant les unes contre les autres et s’écroulant en écume. </p>
+        <p> — Un signal, cria le matelot, numéro 107. </p>
+        <p> — « Porter secours aux naufragés ! » </p>
+        <p> — Un noble ordre ! dit le lieutenant Nicolas-Alexiovitch, mais malheureusement plus facile à donner qu’à exécuter. </p>
+        <p> En ce moment, trois hommes – tout ce qui restait de l’équipage – apparurent au milieu des vagues écumantes. </p>
+        <p> Ils étaient tous trois cramponnés à la même planche. </p>
+        <p> Élim saisit le bras du vieux marin. </p>
+        <p> — Les voyez-vous ? s’écria-t-il, les voyez-vous ? </p>
+        <p> — Pardieu ! si je les vois, dit celui-ci ; mais que veux-tu que j’y fasse ? </p>
+        <p> — Vous croyez donc qu’il est impossible de les secourir ? demanda Élim. </p>
+        <p> — Je le crois, répondit Nicolas-Alexiovitch. </p>
+        <p> — Et moi, je crois qu’il serait honteux à un Russe de regarder comme impossible les ordres donnés par un Anglais. – Capitaine, continua-t-il en s’avançant vers l’officier commandant le Vladimir,permettez-moi de mettre une chaloupe à la mer. </p>
+        <p> — Je ne puis vous empêcher de remplir un devoir, Élim, dit tristement le capitaine ; mais vous vous perdrez, et vous ne sauverez pas ces malheureux. </p>
+        <p> — Capitaine, je n’ai ni mère ni femme pour s’attrister de ma mort, et mon père est un soldat qui sera heureux d’apprendre que son fils est mort en faisant son devoir. </p>
+        <p> — Vous n’aurez jamais le temps de descendre le grand canot, et les barques ne tiendront pas la mer. </p>
+        <p> — J’irai, fût-ce dans une cuvette. Je trouve qu’il est plus facile de mourir soi-même que de voir mourir les autres. </p>
+        <p> — Holà hé ! la Mouette à la mer ! cria-t-il, et cinq hommes de bonne volonté ! </p>
+        <p> Il s’en présenta trente. Élim en choisit cinq, sauta dans la chaloupe à laquelle sa course rapide et sa fine allure avaient fait donner le nom d’un oiseau. L’un des cinq matelots se plaça au gouvernail, les autres saisirent les rames, Élim se plaça à l’avant. </p>
+        <p> — Bon voyage ! crièrent les camarades. </p>
+        <p> Les amarres qui retenaient la chaloupe furent larguées, et la frêle embarcation, disparaissant au milieu de l’écume, sembla s’être engloutie dans les vagues. </p>
+        <p></p>
+      </div>
+      <div title="Chapitre 2 Le naufrage" type="chapter">
+        <p> Chapitre 2 </p>
+        <lb/>
+        <p> Le naufrage </p>
+        <p>LE BATEAU REPARUT À vingt pas du navire dont il venait de se détacher, comme une feuille se détache de l’arbre, emportée par le vent.  Il y avait trois pouces d’eau dans la barque. Deux hommes continuèrent de nager ; Élim et les deux autres vidèrent l’eau avec leurs chapeaux. </p>
+        <p> Puis les quatre rameurs se remirent ardemment à l’ouvrage. </p>
+        <p> Pendant ce temps, Élim ajustait le mât et hissait la petite voile. </p>
+        <p> Lorsqu’il eut achevé cette besogne et qu’il eut regardé autour de lui, la flotte était déjà bien loin. </p>
+        <p> Il se retourna du côté des naufragés. </p>
+        <p> La planche à laquelle s’étaient cramponnés les trois malheureux s’enfonçait à chaque instant dans l’eau. À peine avaient-ils le temps de respirer en revenant à la surface de la mer ; ils disparaissaient presque aussitôt. </p>
+        <p> — Lieutenant, dit le matelot du gouvernail, il me semble qu’ils ne sont que deux. </p>
+        <p> Élim fit le signe de la croix, selon l’habitude des Russes lorsqu’ils assistent au départ d’une âme vers le ciel. </p>
+        <p> — N’importe, dit-il ; raison de plus. Courage, mes amis, courage ! </p>
+        <p> La barque rasait la mer de temps en temps et se couchait sur les vagues de telle façon que la pointe de la voile trempait dans l’eau. </p>
+        <p> Les rameurs continuaient de nager ; mais, le plus souvent, les avirons ne battaient que l’air. </p>
+        <p> — Lieutenant, dit l’homme du gouvernail d’une voix sourde et en essuyant son front avec sa manche, il n’y en a plus qu’un. . . </p>
+        <p> — Tâchons au moins de sauver celui qui reste, dit le lieutenant en faisant un second signe de croix. </p>
+        <p> Puis, se dressant à l’avant et agitant son mouchoir : </p>
+        <p> — Courage ! cria-t-il en anglais au dernier matelot ; courage ! tiens ferme ! nous arrivons. </p>
+        <p> Mais il n’acheva pas même de prononcer ce dernier mot. La planche, qui s’était enfoncée tandis qu’il jetait cet encouragement au dernier naufragé, venait de reparaître seule et nue. </p>
+        <p> — Ah ! s’écria le lieutenant désespéré et enfonçant ses mains dans ses cheveux, le malheureux n’a pas eu la force de nous attendre ! Deux coups de rame encore, et nous y étions. </p>
+        <p> Au même moment, le cadavre reparut au haut d’une vague et sembla se dresser à moitié hors de l’eau. </p>
+        <p> Le lieutenant étendit la main comme pour le saisir ; mais il était hors de sa portée : il s’écroula avec la vague et disparut pour toujours. </p>
+        <p> — As-tu vu, Yorsko, comme il avait les yeux ouverts ? dit tout bas un des rameurs à son camarade. </p>
+        <p> — Oui, répondit celui-ci, et les poings fermés. </p>
+        <p> — Le lieutenant a oublié de faire le signe de croix pour celui-ci, dit un troisième. </p>
+        <p> — Il est capable de venir le tirer par les pieds pour lui rappeler son oubli, dit en riant Yorsko. </p>
+        <p> — Plaisante avec les vivants tant que tu voudras, Yorsko, dit sévèrement le marin qui était au gouvernail, et qui, étant plus vieux que les autres, avait une certaine autorité sur eux, mais pas avec les morts ; ça porte malheur. </p>
+        <p> — Allons, enfants, dit le lieutenant d’une voix qui non seulement couvrait les chuchoteries des matelots, mais qui encore se fit entendre malgré le sifflement du vent et les clameurs des vagues, nous n’avons pu sauver la vie des autres, songeons à la nôtre. </p>
+        <p> Un coup d’œil suffit au jeune lieutenant pour lui faire comprendre qu’ayant le vent debout et la mer haute, il lui était impossible de retourner à la flotte. Sa seule chance était de courir devant le vent et de gagner la terre, d’y passer la nuit, et, si le lendemain le vent changeait, de mettre le cap sur le Vladimir. </p>
+        <p> En tentant d’aborder à gauche de la ville, il avait le vent grand large, ce qui donnait à la petite embarcation la rapidité d’une flèche ; seulement, la terre vers laquelle la tempête le poussait était une terre ennemie où, s’il était reconnu, l’attendait la mort, ou, tout au moins, la captivité. </p>
+        <p> Élim avait pris au gouvernail la place du vieux marin ; trois hommes vidaient l’eau que ne cessait d’embarquer le canot ; les deux autres se tenaient prêts à tout événement. La barque marchait tellement inclinée, que deux des hommes, un couteau à la main, n’attendaient que l’ordre du lieutenant pour couper le cordage qui maintenait la voile. </p>
+        <p> Cependant, en voyant la tranquillité d’Élim, les marins, s’ils n’eussent pas été assez expérimentés pour juger eux-mêmes de la situation, eussent pu se croire hors de tout danger. </p>
+        <p> La nuit tomba tout à fait ; mais, aux derniers rayons du jour, on avait pu voir, à une large raie d’écume qui s’étendait en avant de la plage, que la côte était défendue par une ligne de brisants. </p>
+        <p> Le vent poussait la petite embarcation droit sur cette ligne blanche qui apparaissait encore dans l’obscurité, et il aurait fallu que le canot qui rasait la mer eût les ailes de l’oiseau dont il portait le nom, pour franchir la terrible barrière contre laquelle on commençait à entendre les vagues se briser en rugissant. </p>
+        <p> — Tout à bas ! cria Élim en s’adressant aux deux matelots qui se tenaient prêts à la manœuvre. </p>
+        <p> Un des matelots lâcha l’écoute et laissa filer le cordage ; mais le vent était si violent, qu’il le lui arracha des mains ; et la voile, en liberté, se mit à fouetter l’air avec une telle violence, que la Mouette trembla dans toute sa membrure et que tout son avant, entraîné par le poids de la voile, plongea dans la mer. </p>
+        <p> Mais, comme un coursier plein d’ardeur égaré dans un gué trop profond, elle se redressa au-dessus de l’eau. </p>
+        <p> Seulement, encore un mouvement pareil et la barque était submergée. </p>
+        <p> Élim ne perdit pas de temps à ordonner la manœuvre ; il plongea la main au fond de l’embarcation, saisit une hache, et, au moment où le petit mât pliait comme un roseau, il le frappa de toute la force de son bras. </p>
+        <p> On entendit un craquement prolongé et le mât s’abattit sur l’avant. </p>
+        <p> — Tout à la mer ! cria Élim en reprenant sa place au gouvernail. </p>
+        <p> Les matelots, comprenant la nécessité de débarrasser l’embarcation de cette surcharge inutile, se jetèrent sur le mât aux trois quarts rompus, et, au bout de cinq minutes, le mât et la voile étaient à la mer. </p>
+        <p> Pendant ces cinq minutes, on s’était rapproché des brisants de telle façon qu’il n’y avait plus moyen de manœuvrer ni à droite ni à gauche ; par bonheur, le banc sur lequel la vague poussait nos aventureux marins était à fleur d’eau. </p>
+        <p> Élim eut l’espoir de le franchir. </p>
+        <p> — Tout à l’arrière ! cria-t-il quand il vit que le canot allait heurter le roc. </p>
+        <p> Les matelots exécutèrent l’ordre ; la moitié de l’embarcation sortit de l’eau comme un cachalot qui respire, et, au lieu que ce fût l’avant, ce fut l’arrière qui porta. </p>
+        <p> Le canot fut brisé en éclats ; mais les marins et leur jeune commandant, lancés en avant, se trouvèrent dans une eau relativement calme, la violence de la mer s’épuisant sur les rochers. </p>
+        <p> — Du courage, mes amis, et droit à la côte ! cria le jeune lieutenant. S’il y en a un de vous qui ne sache pas nager, ou qui se sente fatigué, qu’il s’appuie sur mon épaule. </p>
+        <p> Mais sa voix se perdit au milieu de la tempête. Les vagues, comme si elles eussent été furieuses de voir leur proie leur échapper, bondirent par-dessus les brisants et poursuivirent les nageurs. </p>
+        <p> Mais déjà ceux-ci étaient hors de l’atteinte des flots ; ils sentaient la terre sous leurs pieds. </p>
+        <p> Élim s’arrêta pour s’assurer qu’aucun de ses hommes n’était resté en arrière. Ses cinq matelots étaient autour de lui. </p>
+        <p> — Ma foi, dit le vieux marin, j’ai bien cru un instant que le signe de la croix oublié nous porterait malheur ; aussi, lieutenant, si j’ai un conseil à vous donner, c’est d’en faire deux au lieu d’un. </p>
+        <p> — Il y a eu un moment, dit Yorsko, où il m’a semblé que le maudit noyé me tirait par les jambes : aussi je lui ai allongé un coup de pied. </p>
+        <p> — Veux-tu savoir où il est, ton coup de pied ? répondit un des marins à Yorsko, en lui montrant son œil couleur de la nuit. – Le voilà. </p>
+        <p> — C’est donc toi qui m’avais pris par la jambe, malavisé ? lui demanda Yorsko. </p>
+        <p> — Écoute donc, quand on est au fond de la mer et qu’on vient de faire une cabriole comme celle que nous avons exécutée, on se rattrape où l’on peut. </p>
+        <p> Tout en plaisantant sur le péril qu’ils venaient de courir avec cet insouciant oubli du danger, qui est une des vertus des matelots de tous les pays, nos six naufragés, toujours conduits par le lieutenant, avaient atteint la digue. </p>
+        <p> La mer rugissait au-dessous d’eux ; mais l’écume seule pouvait désormais les atteindre. </p>
+        <p> — Nous voilà sortis de l’eau, c’est très bien, dit un des matelots ; mais nous allons geler ici. </p>
+        <p> — Attends que le soleil des Cosaques paraisse, dit Yorsko, et tu te sécheras à ses rayons  1  . </p>
+        <p> — Brrrou ! fit un autre, je fumerais bien une pipe. </p>
+        <p> — Quel malheur que tu n’aies pas eu plus tôt cette idée ! dit le matelot à l’œil poché ; tu aurais pu l’allumer aux trente-six chandelles que j’ai vues quand Yorsko m’a fait cadeau de son coup de pied sur ma lanterne. </p>
+        <p> Mais, tout en plaisantant, les pauvres diables grelottaient. Élim lui-même, malgré tout son courage et sa vaillante jeunesse, se sentait peu à peu envahi par le froid. </p>
+        <p> — Allons, allons, enfants, dit-il à deux matelots qui s’étaient couchés au milieu de la boue et paraissaient disposés à se laisser aller à l’engourdissement, levez-vous, et vivement ! Songez que ceux qui s’endormiront ici ce soir se réveilleront demain dans l’autre monde. </p>
+        <p> — Nous voilà, lieutenant ; après ? dirent les matelots en se secouant. </p>
+        <p> — Eh bien, après, mes amis, nous allons chercher un gîte où passer la nuit. Peut-être tomberons-nous chez de braves gens qui ne nous trahiront pas, et demain matin, nous prendrons un bateau de pêcheur, et en mer ! </p>
+        <p> Le vaillant jeune homme essaya de donner à ses marins un espoir qu’il n’avait pas lui-même. </p>
+        <p> — Seulement, ajouta-t-il, ne nous dispersons pas ; suivez-moi, et parlez tout bas : songez que vous parlez russe et que nous sommes en Hollande. </p>
+        <p> — Oh ! moi, je puis parler, dit Yorsko : je connais la langue du pays. </p>
+        <p> — Tu sais le hollandais, toi ? lui demanda Élim ; où diable l’as-tu appris ? </p>
+        <p> — Est-ce que je n’ai pas été marin d’eau douce avant d’être marin d’eau salée ? </p>
+        <p> — Eh bien ? </p>
+        <p> — Eh bien, à Kasan, j’ai appris le tatar. </p>
+        <p> — Et tu parleras tatar à ces Hollandais ? </p>
+        <p> — Bon ! Est-ce que tous les païens ne parlent pas la même langue, lieutenant ? </p>
+        <p> Quoique la situation ne fût pas gaie, le jeune lieutenant du Vladimir ne put s’empêcher de rire de la conviction avec laquelle Yorsko émettait cette opinion quelque peu erronée sur la langue universelle, parlée par tous ceux qui ne professent pas la religion grecque, dans le sein de laquelle lui, Yorsko, avait eu le bonheur de naître. </p>
+        <p> Pendant dix minutes, à peu près, les matelots, guidés par Élim, marchèrent dans un étroit sentier, à dix pas duquel, tant l’obscurité était profonde, il leur était impossible de rien voir. De temps en temps, le jeune homme s’arrêtait ; mais il ne pouvait entendre autre chose que le bruit du vent et le mugissement des flots. </p>
+        <p> Enfin, après avoir fait deux verstes, à peu près, nos voyageurs commencèrent à entendre un bruissement qui, au fur et à mesure qu’ils avançaient, prenait le dessus même sur le rugissement de la mer. Ils comprirent que c’était un torrent qui grondait ainsi, et, si sombre que fût la nuit, ils finirent par distinguer quelque chose de plus sombre encore qu’elle. </p>
+        <p> C’étaient les murailles d’un moulin. </p>
+        <p> — Halte ! dit Élim. </p>
+        <p> — Et pourquoi donc halte, mon lieutenant ? </p>
+        <p> — Parce que les Français peuvent être là. </p>
+        <p> — Mais, le diable y fût-il, sauf meilleur avis, je crois qu’il faudrait y entrer tout de même. </p>
+        <p> — C’est qu’il pourra bien y faire chaud, là-dedans, si les Français y sont, dit le matelot à l’œil poché. </p>
+        <p> — Chaud ? dit Yorsko. C’est justement ce que je cherche. J’avoue que je meurs de froid. </p>
+        <p> — Et moi, j’enrage de faim, dit un autre ; je suis capable de manger la roue du moulin. </p>
+        <p> — Votre avis, mes enfants ? dit Élim ; car vous comprenez bien qu’entre nous, dans la situation où nous sommes, il n’y a plus ni supérieur ni inférieur. Il n’y a plus que des frères. </p>
+        <p> Les matelots se consultèrent. </p>
+        <p> — Eh bien, mon lieutenant, dit Yorsko, l’avis général est que tout est préférable à mourir de faim ou de froid. </p>
+        <p> — Et si les Français sont là ?. . . objecta le jeune officier. </p>
+        <p> — Ah ! que voulez-vous, mon lieutenant ! Eh bien, quoi ! on s’expliquera. En tout cas, ils ne commenceront pas par nous manger, que diable ! la bouchée serait trop grosse. Le pis qui puisse nous arriver, c’est d’être faits prisonniers. </p>
+        <p> — Sans doute ; mais avoue qu’il vaudrait encore mieux bien souper, bien dormir et retourner demain au bâtiment. </p>
+        <p> Yorsko secoua la tête. </p>
+        <p> — Certainement que ce serait mieux encore, dit-il ; mais je crois que vous en demandez trop à la fois, lieutenant. </p>
+        <p> — Qui sait ! dit le jeune homme : ce moulin doit être à une certaine distance de la ville ; eh bien, de bonne volonté ou de force, il faudra que le meunier nous cache ; et, quand le jour sera venu, nous verrons. Armez-vous de tout ce qui vous tombera sous la main ; moi, j’ai mon poignard ; et entrons tout doucement. </p>
+        <p> La porte n’était fermée à l’intérieur que par une traverse en bois, et, à la première impulsion donnée à la porte, la traverse mal assujettie céda. </p>
+        <p> On était dans la cour : c’était déjà quelque chose. Élim chercha la porte de la maison et finit par la trouver. </p>
+        <p> Elle céda, comme celle de la cour. </p>
+        <p> La porte donnait dans un corridor noir ; mais une lumière filtrant par-dessous une porte indiquait une chambre éclairée. </p>
+        <p> Le jeune lieutenant alla droit à la porte et l’ouvrit hardiment. </p>
+        <p> Il était au seuil d’une cuisine chaudement et ardemment éclairée. </p>
+        <p> Le feu brûlait gaiement dans une large cheminée, et, devant ce feu, une oie embrochée tournait gravement. </p>
+        <p> Cette cuisine était d’une propreté véritablement hollandaise. Les casseroles reluisaient aux murailles garnies de faïence, comme autant de soleils, et, au centre de ce système lumineux, ronde comme la terre, une table était servie avec plats, assiettes et verres. </p>
+        <p> Deux chopes énormes dominaient la table et laissaient à leur orifice apparaître, comme une frange d’argent, une mousse fraîche indiquant que la bière qui les remplissait venait d’être versée à l’instant même. </p>
+        <p> C’était, on en conviendra, une joyeuse vue pour des gens trempés jusqu’aux os et mourant de faim et de froid. </p>
+        <p> Il y avait là de quoi se réchauffer et de quoi se rassasier. </p>
+        <p> Mais, au grand étonnement des six naufragés, il n’y avait absolument personne dans la cuisine ; seulement, près de la porte, était couché un chien. </p>
+        <p> Il n’aboyait ni ne bougeait. </p>
+        <p> — Ah çà ! mais c’est la terre promise où Dieu a permis que nous abordions, dit Yorsko. Les chiens, à ce qu’il paraît, ne sont pas même de service la nuit. </p>
+        <p> Une porte donnait dans la cuisine. </p>
+        <p> Élim ouvrit cette porte et resta stupéfait d’étonnement. Il se trouvait au seuil d’une chambre où une femme, bâillonnée et les mains liées, était couchée sur le lit. </p>
+        <p> Il se retourna vers les matelots, qui l’avaient suivi sur la pointe du pied. </p>
+        <p> — Que signifie cela ? demanda-t-il. </p>
+        <p> — Elle était probablement trop bavarde, répondit Yorsko. </p>
+        <p> — Bon ! Et voilà un homme, dit le marin à l’œil poché, en trébuchant sur un corps. </p>
+        <p> — Par ma foi, c’est le meunier, dit Yorsko en se baissant pour regarder ; un bel homme et qui se porte bien. </p>
+        <p> Le meunier poussa un gémissement, ne pouvant parler ; car il était bâillonné comme sa femme. </p>
+        <p> Pendant ce temps, Élim écoutait à une porte conduisant à une autre chambre. </p>
+        <p> — Silence ! dit-il en faisant un signe de la main à ses compagnons. </p>
+        <p> On entendait un bruit de voix confus, des pleurs, des menaces, des malédictions. </p>
+        <p> Élim saisit quelques mots moitié allemands, moitié français. </p>
+        <p> Sans doute, ces mots lui parurent nécessiter sa présence, car il tenta d’ouvrir la porte ; mais, comme elle était fermée, il la secoua rudement. </p>
+        <p> La porte tint bon. </p>
+        <p> — Ouvrez ! cria-t-il en français. </p>
+        <p> Puis, en allemand : </p>
+        <p> — Machensie auf, répéta-t-il. </p>
+        <p> — Pourquoi faire ? répondit une voix en français. </p>
+        <p> — Ouvrez et vous le saurez, cria Élim. </p>
+        <p> — Va te faire pendre ! répondit une voix, et laisse-nous faire notre affaire. </p>
+        <p> Et les cris redoublèrent. </p>
+        <p> — Vous nous permettez, mon lieutenant ? dit Yorsko, qui n’avait pas lâché ses deux pierres. </p>
+        <p> Élim démasqua la porte. Yorsko posa l’une de ses deux pierres à terre, souleva l’autre à deux mains au-dessus de sa tête, et, avec la force d’une catapulte, il l’envoya dans la porte, qui vola en éclats. </p>
+        <p> Un tableau inattendu s’offrit aux yeux du lieutenant et de ses hommes. </p>
+        <p> Cinq de ces maraudeurs qui n’appartiennent à aucun pays, mais qui suivent les armées comme les loups et les corbeaux, déguenillés, demi-ivres, avec des lambeaux d’uniforme, étaient occupés à dévaliser la chambre. </p>
+        <p> L’un d’eux tenait son sabre levé au-dessus de la tête d’un vieillard assis dans un fauteuil, tandis qu’un autre fouillait dans ses poches ; un troisième tenait au bout de son pistolet une jeune fille à genoux et implorant pour son père ; un quatrième finissait une bouteille de vin préparée pour le souper, tout en fourrant dans sa poche l’argenterie qu’il avait enlevée de la table ; un cinquième brisait, dans un coin de la chambre, le cadenas d’un coffre. </p>
+        <p> — À moi, mes amis ! cria Élim en se jetant sur celui de ces coquins qui menaçait la jeune fille. </p>
+        <p> — Ah ! voleur, s’écria Yorsko en envoyant son second pavé dans les côtes de l’homme qui tenait son sabre levé au-dessus du vieillard. </p>
+        <p> — Misérables ! crièrent les autres en s’élançant, le bâton levé, sur chacun des acteurs de cette scène. </p>
+        <p> — Nous sommes cernés ! s’écrièrent les maraudeurs sans même tenter de résistance ; sauve qui peut ! </p>
+        <p> Et, brisant une fenêtre, sans savoir sur quoi donnait cette fenêtre, ils s’élancèrent hors de la chambre. </p>
+        <p> La fenêtre donnait sur le torrent. </p>
+        <p> Les cris des deux ou trois premiers donnèrent aux autres une certaine hésitation ; mais, pressés par le poignard du lieutenant et par la baïonnette de celui qui essayait de briser le coffre, et que Yorsko avait ramassée, il leur fallut suivre le chemin indiqué par leurs compagnons. </p>
+        <p> Tout cela avait été l’affaire d’un moment. </p>
+        <p> Le vieux Hollandais, vêtu d’une robe de chambre et toujours étendu dans son fauteuil, avait vu ce qui s’était passé avec un profond étonnement. </p>
+        <p> Une demi-douzaine d’hommes à moitié nus, avec de longues barbes, appartenant Dieu savait à quelle race, lui donnaient à croire, avec une grande probabilité, qu’il avait seulement changé de voleurs. L’exclamation : « Dieu tout puissant ! » puis un ah ! ah !qui se changea en oh ! oh ! et qui finit par un eh ! eh ! prouvaient que son cerveau était momentanément ébranlé. </p>
+        <p> Mais sa fille était plus reconnaissante que lui, ou elle, du moins, manifesta sa reconnaissance d’une façon plus visible. Il ne lui avait pas été difficile de reconnaître dans les six hommes qui venaient d’entrer un chef quelconque et cinq subalternes. Le passage inattendu de la crainte à la joie l’avait tellement surprise ; cette joie était si grande, qu’elle avait failli se jeter au cou du jeune officier ; mais elle s’était contentée de le saisir par la main et de le remercier, les larmes aux yeux, pour l’assistance qu’il venait de leur donner. Élim saluait la jeune fille, la jeune fille faisait des révérences à Élim en riant et en pleurant tout à la fois. Le vieillard, toujours plongé jusqu’au cou dans son fauteuil, les regardait avec des yeux étonnés, tandis que Yorsko et ses camarades, rangés comme s’ils attendaient l’inspection, les regardait avec le rire silencieux des subordonnés de tous les pays devant leur supérieur. </p>
+        <p> Enfin, en remarquant la physionomie ouverte et noble du jeune homme, le vieillard respira plus librement. Il se souleva, appuyé d’une main sur le bras de son fauteuil, et, de l’autre, ôtant son bonnet de nuit : </p>
+        <p> — À qui dois-je exprimer ma reconnaissance ? demanda-t-il en français, ayant entendu le jeune officier russe se servir plus particulièrement de cette langue. </p>
+        <p> — À un homme jeté par la tempête sur vos côtes, répondit Élim, et qui vous demande, non pas l’hospitalité, mais un refuge. Je suis officier russe. </p>
+        <p> Et, à ces mots, enlevant son manteau, il parut en uniforme. </p>
+        <p> — Un officier russe ! s’écria le Hollandais en retombant sur son fauteuil, comme si cette nouvelle l’avait anéanti. MynGod ! </p>
+        <p> Un pareil début n’annonçait rien de bon à Élim ; il savait qu’il existait en Hollande un grand nombre de partisans du roi Louis, et il se pouvait bien que le maître de la maison fût un de ces partisans. </p>
+        <p> Élim reprit donc : </p>
+        <p> — Puis-je espérer, monsieur, trouver en vous un ami, ou, du moins, un ennemi ami ? Si vous ne voulez pas nous cacher pour quelque temps, au moins ne nous livrez pas aux Français. </p>
+        <p> — Permettez, permettez, jeune homme, reprit vivement le vieillard. – August van Naarvaersen ne fut jamais un traître, et tous les Hollandais, depuis le premier jusqu’au dernier, sont amis des Russes depuis votre Pierre le Grand, et surtout moi, attendu que le grand-père de ma femme a été, à Saardam, le maître charpentier de votre empereur. Chez moi, toi et tes compagnons, vous êtes donc hors de danger, pour quelques jours du moins. Voilà ma main, l’affaire est faite. Et maintenant, mon ami, comment t’appelles-tu, saperloot ? </p>
+        <p> — Élim Melosor, répondit le jeune homme, enchanté de la tournure que prenaient les choses. </p>
+        <p> — Eh bien, mon ami Élim Melosor, continua le vieillard, débarrasse-toi de ton uniforme ; après quoi, le verre à la main, nous verrons à arranger tout cela. </p>
+        <p> Le vieillard alors se décida à se lever définitivement de son fauteuil. Yorsko avait déjà délié la femme et l’homme qu’on avait trouvés dans la première chambre, et, sur l’ordre de son maître, la cuisinière reconnaissante – la cuisinière que Yorsko avait eu le bonheur de secourir –, la cuisinière reconnaissante avait emmené souper les cinq marins. </p>
+        <p> Quant à Élim, le vieillard s’en était chargé : il l’avait conduit dans un grand cabinet, lui avait donné une robe de chambre et du linge ; en un mot, il l’avait soigné comme il eût fait de son fils. </p>
+        <p> Après dix minutes employées à son changement de toilette, le jeune officier entra dans la salle à manger ; il était tout confus de se présenter en pantoufles et en robe de chambre à ramages aux yeux de la fille de son hôte. </p>
+        <p> Par bonheur, la situation l’excusait. </p>
+        <p> On servit le souper. </p>
+        <p> Élim commença de se sentir tout autre qu’il n’était une heure auparavant. Ses vingt-cinq ans, qui n’étaient pas restés au fond de l’eau avec sa casquette, une chambre chaude, un bon souper, du vin vieux, une belle jeune fille, un hôte souriant, non seulement lui rendirent sa gaieté accoutumée, mais le firent plus gai qu’il n’avait jamais été peut-être. Il but avec son hôte, rit avec la fille et mangea, en homme incertain de l’avenir, pour le jour et pour le lendemain. </p>
+        <p> Oh ! je sais bien que ce que je viens d’énoncer est en dehors des habitudes de tous les héros de roman, qui ne boivent ni ne mangent. </p>
+        <p> Que voulez-vous ! Sans doute, les auteurs du commencement de notre siècle avaient tous des gastrites ; mais nous sommes au milieu : tout a suivi la loi du progrès. Aujourd’hui, la littérature est réaliste comme la nature elle-même. Il n’y a plus que les colibris qui vivent du parfum des roses et des gouttes de rosée. </p>
+        <p> Le rossignol interrompt sa chanson et descend du ciel pour ramasser un ver sur la terre. </p>
+        <p> Élim, comme tous les Russes de distinction, parlait parfaitement le français. L’allemand était, en outre, presque sa langue maternelle, car il avait été élevé par sa mère, qui était Allemande. La conversation ne souffrait donc aucune difficulté ; August van Naarvaersen et sa fille parlaient justement ces mêmes langues. </p>
+        <p> Au dessert, le jeune lieutenant, qui ne s’était jamais senti si heureux, devint d’une gaieté folle ; il raconta des histoires qui réjouirent son hôte au-delà de toute expression. Le grave Hollandais n’avait jamais tant ri de sa vie. </p>
+        <p> — Ah ! cher Élim, s’écria-t-il en se renversant dans son fauteuil et en comprimant son gros ventre dans ses deux mains. Ah ! mon Dieu ! que tu es décidément un brave garçon ! Oh ! tu peux être tranquille, nous ne te laisserons point partir comme cela ; n’est-ce pas, Jane ? </p>
+        <p> La jeune fille rougit. Il était facile de voir que, si elle était chargée de retenir le jeune homme par le pan de son manteau, elle n’ouvrirait pas de sitôt la main. </p>
+        <p> — En vérité, dit le jeune homme, je ne sais comment vous exprimer ma reconnaissance. </p>
+        <p> — Bon ! tu as payé ton logement d’avance, dit le vieillard. Sais-tu de quelle perte tu m’as sauvé, saperloot ? Ce n’est pas une bagatelle. J’ai reçu des Français aujourd’hui, pour une fourniture de drap, vingt mille pièces d’or. Ces damnés maraudeurs allaient me les prendre lorsque tu es arrivé. Tu es tombé du ciel, mon cher Élim, et jamais nulle part tu n’arriveras plus à propos et pour être mieux reçu. </p>
+        <p> — Tombé du ciel ! tombé du ciel ! répéta Élim ; dites sorti de la mer, mon cher hôte ; mais, si j’ai eu la bonne chance d’effrayer ces drôles, je vais avoir la mauvaise de fuir à mon tour. Il faudra nous déguiser demain en sacs de farine, mynheer August van Naarvaersen. </p>
+        <p> — Ah çà ! est-ce que tu penserais par hasard qu’August van Naarvaersen, comme tu dis si bien, c’est-à-dire le premier fabricant de drap de toute la Hollande, habite un moulin ? Saperloot ! non, mon cher. Apprends une chose. J’étais en retard, et je suis resté ici pour y passer la nuit, après avoir envoyé ma voiture à la ville faire quelques achats. Demain matin, nous partirons pour la fabrique ; nous renfermerons les matelots dans une chambre à part, où ils ne baragouineront pas trop haut, et par la fenêtre de laquelle ils ne montreront pas leur barbe, mais dans laquelle ils seront bien nourris et bien abreuvés. Quant à toi, tu seras notre parent arrivé de Francfort-sur-le-Mein ; puis, à la première occasion, on te trouvera des hommes sûrs pour te reconduire chez toi. </p>
+        <p> Élim était ravi ; la pensée de passer plusieurs jours avec la charmante Jane le rendait, il ne savait pourquoi, l’homme le plus heureux de la terre. Plusieurs jours ! À vingt-cinq ans, c’est un siècle, comme une pièce d’or est la richesse de l’enfant. </p>
+        <p> Il se leva donc, plein d’espérances inconnues, souhaita la bonne nuit au vieux Hollandais et à sa fille, se coucha et s’endormit profondément. </p>
+        <p> Et, toute la nuit, l’oiseau d’or des rêves chanta dans son cœur sa plus douce chanson. </p>
+        <p></p>
+      </div>
+      <div title="Chapitre 3 Le voyage" type="chapter">
+        <p> Chapitre 3 </p>
+        <lb/>
+        <p> Le voyage </p>
+        <p>ELIMSE RÉVEILLA TARD et sauta à bas de son lit. De l’eau fraîche et du savon parfumé effacèrent les dernières traces de la tempête de la veille. Sa toilette fut courte ; il tenait de la nature ce qu’elle donne à ses privilégiés et ce qui simplifie toutes les toilettes : la beauté et la jeunesse. </p>
+        <p> À sa grande joie, au lieu de sa robe à ramages, il trouva un costume complet à sa taille, apporté dès le matin de la ville. Il s’habilla donc en simple bourgeois, ce qui était plus sûr pour le moment qu’un uniforme russe, si élégant qu’il fût, et entra dans la salle à manger, où bouillait déjà le samovar. </p>
+        <p> — Oiseau tardif, saperloot ! oiseau tardif ! dit le vieux Hollandais en tendant la main au lieutenant. Long sommeil, doux rêves, n’est-ce pas ? </p>
+        <p> Élim sourit. </p>
+        <p> En ce moment, Jane entra, et, levant timidement sur lui ses beaux yeux bleus : </p>
+        <p> — Bonjour, monsieur Élim, dit-elle. </p>
+        <p> Élim voulut répondre à ce souhait si simple, mais il rougit comme le ciel au matin. Sa langue s’embarrassa, et Jane lui parut si belle, qu’il ne put que la regarder avec une expression plus éloquente que toutes les paroles. </p>
+        <p> En effet, elle était charmante dans sa toilette du matin. </p>
+        <p> Un petit bonnet, ou plutôt un simple carré de dentelle posé sur sa tête et assujetti sous le menton par un ruban rose, laissait fuir de tous côtés une foule de cheveux blonds, lesquels encadraient un visage si frais, si velouté, que, près de lui, c’était le ruban qui pâlissait. Dans chacune de ses joues était creusée une de ces fossettes que les poètes du XVIII e siècle appelaient des nids d’amour. Enfin, sur sa poitrine, soulevée par l’émotion, Élim, en sa qualité de marin, crut reconnaître deux vagues qui, mécontentes de leur digue de mousseline, essayaient incessamment de la rompre. Au-dessous s’arrondissait une taille si flexible, qu’elle semblait, pour ne pas se briser, implorer le secours d’une main protectrice. Enfin, tout l’ensemble ravissant de cette fleur de seize ans était terminé par deux pieds qui semblaient avoir été faits sur le moule de la pantoufle de Cendrillon. </p>
+        <p> Élim en était encore à cet âge où l’homme ne cherche pas une liaison, mais est avide d’amour, et, obéissant aux entraînements de son cœur, n’éprouve qu’un besoin, celui de ne pas aimer inutilement. Plus tard, fatigué des caprices de l’amour, il cherche plutôt l’esprit que le sentiment, et un esprit brillant l’attire mieux qu’un cœur timide. </p>
+        <p> Élim n’avait pas encore atteint cette sublime sagesse. En donnant son cœur, il demandait en retour un autre cœur. Il aimait pour aimer et non pour raisonner l’amour. Son cœur vola au-devant de celui de la jeune fille, qui, la veille encore, était une petite fille jouant à la poupée et n’ayant encore fait aucune attention à ces automates qu’on appelle des Hollandais. Seize ans est un âge terrible pour une jeune fille. Une charmante figure, un caractère gai et franc, et surtout la résolution avec laquelle elle voulait sauver les malheureux qui étaient venus demander un asile au moulin, tout cela formait une de ces situations où les sentiments, en se heurtant, font jaillir les étincelles brûlantes auxquelles s’enflamme le cœur ; de sorte que, Jane ne cachant point sa sympathie pour Élim, si ignorant en amour que fût notre jeune lieutenant, il fallait bien qu’il s’aperçût que Jane était loin d’avoir de l’aversion pour lui. Dès le lendemain du jour où ils avaient fait connaissance, ils causaient déjà tout couramment, sinon avec la bouche, du moins, ce qui souvent est plus dangereux encore, avec les yeux. </p>
+        <p> Occupé de la contemplation de la jeune fille, ou plutôt absorbé dans cette contemplation, le jeune marin répondait distraitement aux questions et aux plaisanteries de maître August, qui, au reste, quand il prenait son café, fumait sa pipe ou lisait la Gazette du Commerce, s’absorbait tellement dans ces graves occupations, qu’il ne voyait ni n’entendait plus rien autour de lui. </p>
+        <p> Cependant, dans un de ces moments-là, le bruit d’une porte qui s’ouvrait en criant sur ses gonds attira l’attention de tout le monde. </p>
+        <p> Le personnage encore inconnu de nos lecteurs, et qui venait ainsi se mêler inopinément à la vie de nos héros, était grand de taille, maigre et serré dans un habit noir. Sa figure ressemblait à un cadran solaire, tant son nez sortait de son visage à angle droit et prolongé. Il avait l’habitude, par un léger plissement de front qui n’appartenait qu’à lui, de relever de telle façon ses sourcils et ses paupières, que l’on eût cru que ses sourcils voulaient s’envoler et ses paupières prendre la place de ses sourcils. Parfois on voyait qu’il faisait un effort pour sourire ; mais l’effort était impuissant. </p>
+        <p> C’était le caissier de van Naarvaersen. On pouvait deviner ce titre au grand livre qu’il tenait sous le bras. Au milieu de ce livre, était écrit sur un cœur de maroquin rouge : Grootbook (grand-livre). </p>
+        <p> — Ah ! sois le bienvenu ! s’écria maître August en l’apercevant, nous t’attendions. Donne-moi une prise, Quenzius. </p>
+        <p> Quenzius pouvait, aussi bien que Quenzius, s’appeler la tabatière du maître. Il ouvrait donc une gigantesque tabatière en harmonie avec le nez qu’elle avait l’honorable mission d’approvisionner et la présenta avec respect au maître de la maison. </p>
+        <p> — Eh bien, qu’y a-t-il de nouveau dans la ville ? demanda le père de Jane en respirant longuement et bruyamment sa prise de tabac. </p>
+        <p> La bouche de Quenzius, qui, au repos, était représentée par une ligne bleue qui se perdait dans la couleur de ses joues, s’ouvrit comme une fenêtre. </p>
+        <p> — Il n’y a rien, répondit-il. </p>
+        <p> — Que disent les orangistes ? Que font les napoléoniens ? </p>
+        <p> — Tout est aujourd’hui comme hier, répliqua l’homme au gros livre. </p>
+        <p> — Je te reconnais bien là, frère Quenzius ! discret comme un frère de la Trappe. Si j’étais roi, je te ferais mon secrétaire. – As-tu pris un reçu de van Seinten pour le drap que tu lui as livré ? </p>
+        <p> Cette question parut être fort agréable au caissier. Fièrement, il ouvrit son livre et montra au maître une page pleine de chiffres. Le visage de celui-ci rayonna. </p>
+        <p> — Bonne affaire ! beau profit ! dit-il entre ses dents ; décidément, ma fabrique ne ressemble pas aux jardins suspendus de Babylone, et mon crédit est plus solide que les pyramides d’Égypte. Eh bien, messieurs, maintenant, in God’s naam, au nom de Dieu, l’on peut partir. </p>
+        <p> Tout était préparé pour le départ : en un instant, une voiture attelée de quatre grands chevaux fit trembler la chaussée, et nos voyageurs se mirent en route pour la principale fabrique de maître August. </p>
+        <p> Le père et la fille se placèrent sur la banquette de derrière ; Quenzius et Élim sur celle de devant. </p>
+        <p> Le jeune officier était si joyeux de se trouver ainsi en face de la belle Hollandaise, que tous les objets que l’on rencontrait sur la route, si intéressants qu’ils fussent, ne pouvaient détourner les yeux d’Élim de leur contemplation. Notre jeune homme était si heureux de voyager ainsi, qu’il eût voulu ne jamais s’arrêter. Tout son univers était avec lui. On eût dit qu’il avait laissé le passé avec sa casquette au fond de la mer, et qu’il entrait dans un autre monde et dans un nouvel avenir. Il ne demandait qu’une chose à la destinée : c’était de creuser sur la route le plus grand nombre de trous possible, et cela vous devinez pourquoi, chers lecteurs, si jamais vous avez été en voiture avec une femme que vous aimiez. C’était pour que son genou touchât le genou de Jane. </p>
+        <p> Il serait curieux d’expérimenter quelle charge d’électricité peut contenir le genou d’une jeune fille. </p>
+        <p> C’est donc inutilement que le lecteur attendrait d’Élim la narration de son voyage et un croquis, même le plus léger, des villes, bourgs et paysages qu’il traversa. Mais, en échange, il savait par cœur la topographie de la jeune fille, et il eût pu nous parler savamment du moindre petit grain de beauté semé par la nature sur son visage et sur ses épaules. </p>
+        <p> Pendant ce temps, la voiture roulait rapidement, s’approchant de la fabrique. Élim avait oublié le monde entier. Les dissertations scientifiques du vieillard sur les digues frappaient à la porte de son oreille, mais n’y entraient pas. </p>
+        <p> De pareilles heures sont douces et reviennent rarement ! </p>
+        <p> Enfin, l’on arriva : les portes s’ouvrirent, Élim se réveilla : mais, quand la petite main de Jane serra la sienne en descendant de voiture, lorsqu’une douce voix articula ces mots : « Voici votre prison, Élim ! » il eût juré que la maison de van Naarvaersen, bâtie dans le lourd goût flamand, était la huitième merveille du monde. </p>
+        <p> Pour dire vrai, cette maison, construite sur la grande place, ressemblait beaucoup à un château de cartes. </p>
+        <p> Une élévation, tenant lieu de perron, régnait sur toute la longueur de la bâtisse, et un balcon suspendu en ombrageait le rez-de-chaussée. Quoique l’automne fût très avancé, la cour était propre ; les murs, bien lavés au savon, brillaient comme des glaces ; les portes et les fenêtres étaient garnies en bronze et en argent ; on voyait éclater partout un ordre merveilleux. </p>
+        <p> Jane, légère comme la plume qui flotte au vent, se jeta au cou de sa mère, bonne et franche Hollandaise dans toute la force du terme. </p>
+        <p> Si vous avez vu, à l’Ermitage de Saint-Pétersbourg, la poupée d’Amsterdam avec laquelle jouait Pierre le Grand dans sa jeunesse, vous avez vu la mère de Jane ; et cependant cette grosse bonne petite femme était la créature la plus caressante du monde. </p>
+        <p> Elle prit Élim par la main et le mena visiter les appartements. Chaque rareté devenait un supplice pour Élim. Le jeune homme écoutait sans rien entendre, regardait sans rien voir. Après avoir parcouru toutes les chambres, où était entassé un monde de richesses, on arriva à la chambre à coucher de parade. C’était un magnifique dessert après un splendide dîner. Madame van Naarvaersen montra fièrement à Élim les tapis brodés par elle, les dentelles séculaires, les couvertures de brocart, et elle jouit franchement de sa stupéfaction à la vue du lit de noce, vaste établissement qui semblait avoir été fait pour être habité non seulement par un mari et une femme, mais encore par toute leur postérité. Des piles de coussins, qui allaient toujours en diminuant, semblaient monter à l’immortalité en une double pyramide ; un baldaquin, en dentelles pareilles aux nuages qui accompagnent les gloires de l’Opéra, descendait du ciel jusqu’à terre, et une couverture de satin blanc s’étendait sur l’immense surface du lit, pareille, pour la couleur, à la surface d’une mer d’azur pendant les beaux jours de l’été. Le mortel qui oserait coucher dans ce lit des dieux courrait certainement risque d’être noyé dans les vagues de plumes et dans les flots de duvet. Ce fut sans doute pourquoi Élim se contenta de le regarder. </p>
+        <p> Initié à tous les mystères de la maison de van Naarvaersen, Élim se reposa, à table, de toutes ses fatigues, et, après avoir gaiement fini la soirée, il s’endormit, complètement satisfait de son sort. </p>
+        <p></p>
+      </div>
+      <div title="Chapitre 4 Le séjour" type="chapter">
+        <p> Chapitre 4 </p>
+        <lb/>
+        <p> Le séjour </p>
+        <p>LA VIE DES HABITANTS de Vlam-huis était des plus tranquilles, et nous oserons même dire, des plus monotones.  Le maître était presque toujours occupé de sa fabrique, et la maîtresse, quoiqu’elle prétendît avoir laissé là toutes les petites affaires de ménage, s’en occupait, au contraire, avec fanatisme. </p>
+        <p> C’était la seule passion que la bonne femme eût jamais eue. </p>
+        <p> L’homme, si on le juge par les apparences du moins, est créé pour la vie nomade ; la femme, au contraire, pour l’existence sédentaire. Elle est, par sa nature, appelée à embellir la vie intérieure. </p>
+        <p> Le feu de la cuisine est le soleil d’une bonne ménagère. </p>
+        <p> Vous n’eussiez pas un instant douté de cette vérité si vous aviez vu madame Naarvaersen tournant autour de son feu comme une planète et empruntant de lui sa lumière et son éclat. On eût dit qu’elle entendait la langue muette de la vaisselle cassée sur laquelle apparaissaient les traces d’un long service. Là, on pouvait voir, comme dans un autre hôtel des invalides, une théière sans nez, une tasse sans bras, une cafetière sans jambes ; mais, de tous les blessés, l’intelligente maîtresse de la maison continuait à tirer d’importants services. Quant à l’assaisonnement et à l’invention des mets, elle ne le cédait en rien au fameux Vatel, quoique je doute qu’elle eût porté aussi loin que lui le désespoir pour un retard de la marée. Ses cornichons, par exemple, fêtés à quarante lieues aux alentours, étaient quelque chose de merveilleux. En outre, elle avait découvert ou plutôt inventé un mets au poisson qui, jusque-là, n’existait dans aucun livre de cuisine, et dont elle ne voulait confier le secret à sa fille que le jour de son mariage. </p>
+        <p> Il en résultait que, comme la mère de Jane passait tout son temps à la cuisine ; que, comme le père ne rentrait à la maison que pour le dîner, Élim, assis près du métier à broder de Jane, avait tout le temps de la regarder et de causer avec elle. Cette contemplation et cette causerie n’étaient interrompues que par la lecture de quelques vers, ou quand Élim s’amusait à dessiner en l’absence de la jeune fille. Dans ces entractes, que l’on pourrait à plus juste raison nommer l’exposition du drame, Élim lui racontait, avec une chaleur capable d’en faire fondre les neiges, les hivers de la Russie, les plaisirs du traînage, et les belles nuits d’été si bien chantées par Pouchkine, et pendant lesquelles le soleil semble ne pas quitter l’horizon. </p>
+        <p> Et Jane s’écriait : </p>
+        <p> — Oh ! que je voudrais voir tout cela ! </p>
+        <p> — Pourquoi pas ? répondait en riant Élim. </p>
+        <p> Et il la regardait avec une expression qui complétait sa pensée. </p>
+        <p> Jane alors baissait les yeux avec un profond soupir et se remettait à travailler. </p>
+        <p> À quoi pensait-elle alors ? </p>
+        <p> Autrefois, j’aurais pu vous le dire ; mais j’ai oublié maintenant ce à quoi pensent les jeunes filles. </p>
+        <p> Élim, déjà gai de sa nature, et, dans cette occasion, surexcité par le plaisir de plaire, devenait charmant ; mais il avait à côté de lui un caractère encore plus gai et plus riant que le sien. </p>
+        <p> C’était celui de Jane. </p>
+        <p> Élevée dans une pension française, elle avait toutes les bonnes qualités d’une Française, auxquelles elle joignait la franchise de sa patrie ; ajoutez à cela une beauté réelle et s’épanouissant chaque jour de plus en plus, rehaussée de toutes les grâces de l’adolescence. </p>
+        <p> Tout cet ensemble rendait parfois Élim bien pensif : il est vrai que cette rêverie lui était souvent plus douce que la joie elle-même ; mais, quant à Jane, elle était toujours joyeuse. L’amour ne lui était encore qu’un joyau : elle n’en connaissait ni le bonheur ni les tourments. Souvent cette égalité d’humeur faisait enrager Élim ; mais sa colère tombait vite sous les railleries de Jane, et les jeux jeunes gens se remettaient bientôt à rire comme deux enfants. </p>
+        <p> Ainsi se passa une semaine de temps pluvieux. </p>
+        <p> Enfin, le ciel s’éclaircit, et Jane proposa une promenade au jardin, véritable jardin hollandais. Les chemins étaient sablés de sable fin et brillant ; tous les monticules étaient soignés comme des gâteaux d’amandes ; les arbres étaient taillés en charmille ; les buissons, en vase de fleurs, en colonne ou en éventail. La création semblait avoir passé sous le rabot du menuisier. </p>
+        <p> Rien n’avait gardé sa forme naturelle. Il y avait un pont sur lequel n’auraient pu se croiser deux poules, des fleurs en acier, des Chinois en bois, se cachant du soleil d’été sous des parasols au mois d’octobre ; un chasseur ajustant un canard qui, depuis vingt ans, n’avait pas eu l’idée de s’envoler du lac. </p>
+        <p> En voyant une cigogne sur une tour, Élim demanda si elle n’était pas de marbre. </p>
+        <p> — Ah ! monsieur Élim, dit Jane en riant, nous ne sommes pas tout à fait païens, et quoique, chez nous comme chez les Égyptiens, cet oiseau soit l’objet d’une espèce de culte, nous ne lui construisons pas encore un temple et ne l’adorons pas comme une idole. </p>
+        <p> — C’est dommage ; car maître Quenzius me paraît créé et mis au monde pour être prêtre de ce dieu lare, dont il a à la fois le nez et la bouche. </p>
+        <p> — Et que dites-vous de notre jardin ? </p>
+        <p> — Il est fort curieux ! c’est un musée de raretés. Quel malheur que je ne puisse pas le voir en fleur et en verdure ! </p>
+        <p> — Vous pouvez vous en consoler. Sous le ciseau du jardinier, il est exactement le même, été comme hiver. Seulement, peut-être est-il encore plus triste l’été. Quant aux fleurs, je vous montrerai leur royaume, où elles fleurissent comme vos belles du Nord. </p>
+        <p> Jane ouvrit la porte de la serre. Une petite tourelle, à travers laquelle ils passèrent, était occupée par des oiseaux ; derrière un rideau de fils de fer, sautillaient et volaient une grande quantité d’oiseaux rares. Quelques-uns venaient se poser sur les doigts de Jane et manger du sucre dans sa bouche. </p>
+        <p> Élim sourit à cette idylle. </p>
+        <p> — C’est charmant, dit-il ; mais, au bout du compte, vos hôtes sont des captifs. </p>
+        <p> — Qu’importe, si je fais mes hôtes gais et heureux ? Si je donnais la liberté aux pauvres animaux, qui presque tous viennent des pays chauds, ils périraient infailliblement. </p>
+        <p> — Vous êtes si bonne, chère Jane, que, même à un faucon, vous feriez oublier sa liberté. </p>
+        <p> — Un faucon ! merci ; ce n’est pas la coutume aujourd’hui que les dames portent sur leur poing un oiseau de proie. Non, j’ai peur des faucons, et pour moi et pour mes oiseaux. </p>
+        <p> — Vous vous trompez, Jane ; un faucon bien apprivoisé est un charmant oiseau. Chez vous, il vivrait de bonbons et de caresses. </p>
+        <p> — Oui, pour s’envoler un beau jour. </p>
+        <p> — Non, pour rester sous votre toit, comme un pigeon. </p>
+        <p> — Vous me faites là un joli conte, Élim. Pensez-vous que je croie qu’un faucon porte des griffes comme simple ornement ? Mais laissons les oiseaux pour les fleurs. Les fleurs, c’est la société favorite de mon père. </p>
+        <p> — La culture des fleurs est une amusante occupation pour les vieillards, comme souvenir des plaisirs passés. C’est une leçon utile pour les jeunes gens. </p>
+        <p> — Oui, monsieur le philosophe ; et, moi aussi, je les aimerais si elles duraient plus longtemps. Il faut avoir mille cœurs, ou un seul bien froid, pour les voir mourir. </p>
+        <p> — Les fleurs sont plus heureuses que nous, Jane ; nous mourons comme elles, et elles ne souffrent pas comme nous. </p>
+        <p> — Oui ; mais, en revanche, elles ne connaissent pas nos plaisirs ! et je n’envie pas le sort des fleurs, je vous l’avoue. . . Vous êtes botaniste, Élim ! </p>
+        <p> — Oh ! je suis amateur seulement, Jane, simple amateur. Les noms de bulbata, barbata, grandifolia, grandiflora, sont pour moi comme un alphabet arabe. </p>
+        <p> — Et vous ne rougissez pas d’avouer votre ignorance, étant dans le temple des fleurs du plus célèbre botaniste de la Hollande ? </p>
+        <p> — Non seulement j’avoue cette ignorance, mais je ne m’en repens pas. Je suis comme le rossignol des poètes persans : j’adore la rose, la seule rose blanche. </p>
+        <p> — Ce n’est pas assez, Élim, et, si vous voulez conquérir une place durable dans l’estime de mon père, il faut que vous sachiez lui parler des tiges, des feuilles, des pétales et des pistils de toutes les fleurs rares. </p>
+        <p> — Votre conseil est une loi, Jane. Je suis prêt non seulement à me suspendre aux fleurs comme une abeille, mais à pousser moi-même hors de terre comme une fleur, si vous voulez m’arroser de l’eau parfumée de votre science. C’est de Flore seulement que je puis apprendre les routes de son royaume et les noms de ses sujettes et de ses sujets. Commençons nos leçons à partir d’aujourd’hui. </p>
+        <p> — Volontiers. Voyez cette fleur ; cette fleur, par exemple, elle s’appelle aster. </p>
+        <p> — Cela signifie étoile, dit Élim. Je connais, moi, deux étoiles. Le ciel n’en a pas de plus claire et de plus brillante, et c’est par elles seulement que je voudrais guider mon vaisseau sur l’Océan. </p>
+        <p> — Ah ! laissez, je vous prie, votre Océan, qui me fait si grand peur depuis que vous avez failli vous noyer, et descendons du ciel, où nous ne sommes pas dignes d’avoir notre demeure. </p>
+        <p> — C’est la chose du monde la plus facile quand le ciel descend sur la terre. </p>
+        <p> — Oh ! que votre poésie est donc embrouillée, Élim ! N’est-ce pas cela qu’en français on appelle du pathos ? Tenez, voici une parente de votre bien-aimée rose : c’est la rose moussue. </p>
+        <p> — Ne trouvez-vous pas qu’elle a l’air d’une frileuse dans sa pelisse ? </p>
+        <p> — Voilà le feu chinois. </p>
+        <p> — Qui brûle seulement lorsqu’il est dans vos mains. </p>
+        <p> — Voici une fleur qui crie, à ce qu’assurent les Indiens, lorsqu’on l’arrache de sa tige. </p>
+        <p> — Et probablement elle crie : « Ne me touchez pas ! » </p>
+        <p> — Aucune n’a jamais pu me crier cela, car à aucune je n’ai fait de mal. Maintenant, gare au sommeil ! voici toute la famille des pavots. </p>
+        <p> — Je ne crains pas qu’ils m’endorment ; je suis trop près du contrepoison, et je dis cela par expérience, car, lorsque vous me dites : « Bonne nuit, Élim ! » j’ai remarqué que je ne dormais pas de toute la nuit. </p>
+        <p> — Pauvre Élim ! Maintenant, je comprends pourquoi il vous arrive de rêver pendant le jour. Mais où étions-nous arrêtés ? À cette tulipe ? Mais non, voilà votre distraction qui me gagne, monsieur mon élève. Passons à ce cactus qui fleurit une fois par an, et encore la nuit. Le pauvre éphémère vit deux heures ; après quoi, ses feuilles tombent. </p>
+        <p> — Deux heures ! mais, au moins, il fleurit ; pendant deux heures, il plaît aux beaux yeux qui le regardent. Au prix de plusieurs années de ma vie, je voudrais fleurir et être aimé pendant deux heures. </p>
+        <p> Et Élim regarda Jane avec passion. Jane vit ce regard et baissa les yeux. </p>
+        <p> — Il fait horriblement chaud ici ! dit-elle en rejetant sur ses épaules le châle qui montait jusqu’à son cou. </p>
+        <p> Et elle ouvrit la porte de la serre. </p>
+        <p> — Voyons, dit-elle, répétons cette première leçon, et voyons quelle place aura gagnée mon élève ; en pénitence dans un coin ou la permission de jouer dans la cour. Ainsi, par exemple, monsieur Élim, faites-moi la grâce de me dire quelle est cette fleur, demanda-t-elle en cueillant une tubéreuse. </p>
+        <p> — Je ne sais pas, répondit Élim en regardant toujours la jeune fille. </p>
+        <p> — Mais que savez-vous donc, Seigneur mon Dieu ? s’écria-t-elle. </p>
+        <p> — Aimer, et aimer avec passion ! lui dit le jeune homme en lui saisissant les deux mains. </p>
+        <p> — Et que veut dire cela, aimer ? demanda Jane avec une naïveté qui n’avait rien d’affecté. Supposez la question faite par une femme de trente ans, cher lecteur, ce sera une finesse au lieu d’une naïveté. </p>
+        <p> J’ai lu dans les livres, et j’ai entendu tant de dissertations sur l’amour, que je suis prêt à dire comme Jane : « Qu’est-ce qu’aimer ? » </p>
+        <p> Les uns disent qu’aimer, c’est désirer ; un autre, qu’aimer, c’est oublier complètement le côté matériel de l’amour. Les uns disent qu’il n’y a pas d’amour sans argent ; les autres, que les riches ne sauraient jamais aimer. Et vous avez beau, philosophes, réalistes, spiritualistes, épicuriens, platoniciens et même amoureux, raisonner sur l’amour, plus vous entasserez raisonnements sur raisonnements, plus la question sera embrouillée. </p>
+        <p> Ne vous étonnez donc pas, cher lecteur, du trouble où cette simple question jeta notre amoureux. Il ne trouva pas un mot à répondre et baissa les yeux sur la fleur que Jane tenait à la main ; et, sans songer à ce qu’il répondait : </p>
+        <p> — C’est une campanule, dit-il. </p>
+        <p> Jane éclata de rire. </p>
+        <p> — Ah ! dit-elle, vous êtes un cruel élève, et je ne crois pas que, dans votre mémoire plus que dans la neige de Pétersbourg, dont vous me parliez l’autre jour, on puisse semer des fleurs. </p>
+        <p> — Je vous l’avoue, Jane, je ne comprends les fleurs qu’en couronne. Un oiseau de paradis nous paraît beau, nous n’avons pas besoin pour cela de connaître son vrai nom : nous savons qu’il vient du ciel, voilà tout. Supposez que, ni vous ni moi, ne connaissions le nom de la rose, en sentirions-nous moins son parfum pour cela ? </p>
+        <p> — Oui ; mais mieux vaut, il me semble, sentir l’odeur et, en même temps, connaître le nom de la fleur que l’on respire. Les campanules n’ont pas ces grandes feuilles. . . Mais regardez donc ! </p>
+        <p> Élim regarda en effet, et, pour mieux voir, il leva la main de Jane vers ses yeux, et, en même temps, baissa les yeux vers la main de Jane. </p>
+        <p> Il en résulta que son visage se trouva à peu près à la même hauteur que celui de la jeune fille, et que, comme la porte entrouverte de la serre établissait un courant d’air, les cheveux de la jeune fille, soulevés par le vent, effleurèrent le visage d’Élim. </p>
+        <p> Le jeune homme releva les yeux : il vit à quelques lignes de lui les yeux bleus, les joues roses, la bouche fraîche de Jane ; il sentit son haleine parfumée. </p>
+        <p> Vous savez la quantité d’électricité que contiennent les cheveux d’une femme. Élim n’eut pas la force de résister ; il entoura de son bras la taille de la jeune fille, et, avec un élan passionné, avec un cri d’amour, il appuya ses lèvres sur les lèvres de Jane, étouffant son étonnement dans un baiser. </p>
+        <p> Jane se dégagea des bras du jeune homme. </p>
+        <p> — Oh ! cria-t-elle à Élim, je n’aurais jamais cru une pareille chose de vous. </p>
+        <p> Et, toute pleurante, elle s’enfuit de la serre. </p>
+        <p> Le jeune homme, anéanti, resta à la même place, immobile, les bras ouverts. Une bombe éclatant dans sa poche l’eût moins effrayé que cette sévérité inattendue, qui cependant avait quelque chose d’incompréhensible par son côté enfantin. </p>
+        <p></p>
+      </div>
+      <div title="Chapitre 5 Ce que c’est qu’aimer" type="chapter">
+        <p> Chapitre 5 </p>
+        <lb/>
+        <p> Ce que c’est qu’aimer </p>
+        <p>ELIMSE FROTTA LES yeux, se croyant sous l’empire d’un rêve. Pourquoi Jane se fâchait-elle ? D’où lui venait cette grande colère ?  — Elle ne me paraissait cependant pas si indifférente pour moi, se disait-il ; il me semblait qu’elle écoutait assez bien et répondait à mes yeux dans le langage qu’ils lui parlaient. Le baiser que je lui ai donné était inattendu, c’est vrai ; mais ses lèvres n’ont pas fui les miennes. Il n’est vraiment pas possible que je me sois trompé à ce point. </p>
+        <p> Tout ému de crainte, Élim entra dans la salle à manger ; mais il chercha vainement les regards de Jane. </p>
+        <p> Jane boudait sérieusement, et, quand le coupable lui adressa la parole, elle se contenta de lui répondre par oui et par non. </p>
+        <p> Mais Élim s’obstinait. Plus Jane lui témoignait de froideur, plus le jeune homme tenait à recevoir son pardon. </p>
+        <p> Enfin, il pensa qu’il fallait se modeler sur elle, et se retira dans sa chambre, bien décidé à ne reparaître ni pour le thé, ni pour le souper. </p>
+        <p> — En vérité, cela ne ressemble à rien ! se disait-il à lui-même en marchant à grands pas. Si jeune et en même temps si capricieuse ! Que dis-je ! capricieuse ? Pis que cela, méchante ! Comme c’est heureux que je ne sois pas plus amoureux d’elle. </p>
+        <p> À ces mots, il soupira. </p>
+        <p> — C’est vrai qu’elle est belle ; quant à cela, il n’y a rien à dire : elle est faite comme Vénus, pure comme le jour ! mais quel caractère ! un vrai serpent. . . Oui, oui, mademoiselle Jane, tout est fini entre nous, je vous en réponds, et vous pouvez maintenant, si cela vous amuse, faire la coquette avec Quenzius. </p>
+        <p> La porte de la chambre d’Élim s’ouvrit et le domestique parut. </p>
+        <p> — Monsieur veut-il prendre le thé ? demanda-t-il. </p>
+        <p> — Hein ? fit Élim, qui n’avait ni entendu ni compris. </p>
+        <p> — Je demande si monsieur veut venir prendre le thé, répéta le domestique. </p>
+        <p> — Tout de suite, à l’instant même, j’y vais, répondit le jeune homme. – Eh bien, oui, dit-il quand le domestique fut sorti, j’y vais, mais pour ne pas plus faire attention à elle que si elle n’y était pas. </p>
+        <p> En effet, Élim entra au salon d’un air gai, et, au lieu d’aller s’asseoir, comme à l’ordinaire, auprès de Jane, il s’assit près de maître August et se mit à bavarder et à rire avec lui. </p>
+        <p> Mais Jane, qui, auparavant, prenait toujours part à tout ce que disait ou faisait Élim, Jane ne paraissait pas même s’apercevoir qu’il fût là. </p>
+        <p> Bien plus : elle semblait avoir oublié toutes les habitudes d’Élim. Il détestait le thé trop sucré, et elle lui mettait trois morceaux de sucre dans son thé. Elle lui proposait de la crème, et il était de notoriété publique qu’Élim prenait son thé au citron. </p>
+        <p> Le jeune homme était furieux. Jane lui semblait un monstre ; il est vrai que c’était le plus joli monstre du monde. Élim était capable de deux choses, tant son exaspération était grande : c’était de se brouiller avec elle pour la vie tout entière, ou de la prendre dans ses bras et de la serrer sur son cœur devant son père et sa mère. </p>
+        <p> Je me suis souvent demandé quel était le plus doux pour les amants, ou leur première caresse, ou leur première brouille ; mais c’est à rendre fou quand les deux choses viennent ensemble. </p>
+        <p> Élim rentra dans sa chambre, étouffant de rage. S’il avait su par cœur le monologue de Figaro, il l’eût dit d’un bout à l’autre ; mais, ne le sachant pas, il se contenta de s’écrier : </p>
+        <p> — Oh ! les femmes ! les femmes ! </p>
+        <p> Élim, de peur d’être entraîné à rentrer au salon, se déshabilla et se coucha, en se mordant les poings. </p>
+        <p> À minuit, il se tournait et se retournait encore dans son lit, sans avoir trouvé autre chose à dire que son éternelle exclamation : </p>
+        <p> — Oh ! les femmes ! les femmes ! </p>
+        <p> Vers deux heures du matin, il finit par s’endormir. </p>
+        <p> Que lui arriva-t-il pendant son sommeil ? De quel abominable cauchemar fut-il obsédé ? Je n’en sais rien ; mais le fait est qu’il se réveilla sur le tapis. </p>
+        <p> Il s’habilla, se trempa dans l’eau de la tête aux pieds ; puis, ne se sentant pas encore suffisamment rafraîchi, il descendit au jardin, afin d’y rassembler ses idées pour un nouvel entretien. </p>
+        <p> Sans savoir pourquoi, il s’approcha des portes de la serre. Il y rencontra le jardinier, un arrosoir à la main et la pipe à la bouche. </p>
+        <p> — Il n’y a là personne ? demanda Élim, voulant dire n’importe quoi au Hollandais. </p>
+        <p> — Comment ! personne, monsieur ? dit-il. Mais il y a plus de mille fleurs et cent oiseaux. </p>
+        <p> — Spirituelle plaisanterie ! dit Élim en entrant dans la serre et en tirant la porte derrière lui. </p>
+        <p> — Zoo ! zoo ! murmura le Hollandais en secouant la tête. </p>
+        <p> Et il s’éloigna en souriant. </p>
+        <p> Élim, entré dans la serre, s’approcha involontairement du massif de tubéreuses près duquel il avait été si heureux et si malheureux la veille. Son âme nageait dans le parfum des fleurs comme la péri indienne. Cette atmosphère embaumée sembla s’emparer de lui ; elle pénétrait par tous ses pores, elle lui inspirait une mélancolie irrésistible. </p>
+        <p> — Oh ! mon Dieu ! murmura-t-il, comme c’est étrange ! Je n’ai jamais été si heureux et si malheureux à la fois. </p>
+        <p> Et il s’assit sur un banc tout entouré de rosiers, et, sentant de plus en plus la suave tristesse l’enivrer, il n’essaya plus de résister et laissa tomber sa tête dans ses deux mains. </p>
+        <p> Alors son cœur, gros de soupirs, se dégonfla ; ces larmes si douces, qu’on les retient le plus longtemps qu’on peut dans sa poitrine, montèrent de sa gorge à ses yeux. Il les sentit couler entre ses doigts, et, n’ayant plus ni la force ni la volonté de se retenir, il murmura de sa voix la plus douce, comme s’il parlait pour lui-même : </p>
+        <p> — Jane ! ma bien-aimée Jane ! </p>
+        <p> En ce moment, il lui sembla entendre un faible bruit à ses côtés, comme serait le bruit causé par le vol d’un oiseau. </p>
+        <p> Il releva son visage tout baigné de larmes et poussa un cri. </p>
+        <p> Jane était devant lui. </p>
+        <p> Il ouvrit les bras en répétant : </p>
+        <p> — Jane ! ma bien-aimée Jane ! </p>
+        <p> La jeune fille tomba sur son cœur. </p>
+        <p> — Oh ! dit-il presque aussitôt, tant l’homme est impuissant au bonheur, Jane, Jane, que tu m’as fait de mal ! </p>
+        <p> Ce fut Jane alors qui lui présenta en souriant ses lèvres roses et innocentes. Élim, comme s’il eût craint qu’elle ne lui échappât de nouveau, lui prit la tête par derrière avec ses deux mains, et, cette fois encore, les bouches des deux jeunes gens se touchèrent. </p>
+        <p> Jane repoussa doucement Élim. </p>
+        <p> — Pourquoi me repousses-tu, Jane ! lui demanda le jeune homme. </p>
+        <p> — Je n’en sais rien, répondit l’enfant ; ce n’est pas moi que te repousse, Élim ; ce n’est pas mon cœur, ce sont mes mains. – Vilaines mains ! prends-les, elles ne te repousseront plus. </p>
+        <p> Élim les prit et les couvrit de baisers. </p>
+        <p> Tous deux parlaient ensemble, tous deux se regardaient ; leurs bouches riaient sans qu’ils sussent ce qui les faisait rire. Ils se tutoyaient : quel était celui qui avait commencé à tutoyer l’autre ? </p>
+        <p> Ils eussent été bien embarrassés de le dire. </p>
+        <p> — Qu’avais-tu donc hier, méchante ? demanda Élim. </p>
+        <p> — Je n’en sais rien. Je me suis sauvée sans savoir pourquoi je me sauvais. Il me semblait que tu m’avais brûlé les lèvres avec un fer rouge. </p>
+        <p> — Mais après ? mais le soir ? demanda le jeune homme. </p>
+        <p> — J’ai voulu te tourmenter, dit Jane en jouant avec ses cheveux ; mais, pour te dire vrai, c’est moi que j’ai tourmentée : je n’ai pu dormir et je t’ai appelé toute la nuit. </p>
+        <p> — Hier, tu as demandé ce que c’était que d’aimer, Jane. </p>
+        <p> — Est-ce cela, aimer ? En ce cas, cela fait bien du mal. . . mais encore plus de bien. </p>
+        <p> — Capricieuse enfant ! s’écria Élim. </p>
+        <p> — Oh ! ne te fâche pas, Élim. Tu me fais peur quand tu es en colère, si grand-peur, que, lorsque je t’ai vu venir, je me suis cachée derrière ce banc. Justement tu es venu t’y asseoir. Alors j’ai regardé à travers les branches, j’ai vu que tu avais la tête entre tes mains ; j’ai voulu profiter de cela pour me sauver sur la pointe du pied ; mais, tout à coup, il m’a semblé que tu pleurais : alors je n’ai pu faire un pas de plus. Tu sais la fable de Daphné changée en laurier ; je me suis tâtée pour voir s’il ne me poussait pas des branches. C’est en ce moment-là que tu as dit : « Jane ! ma bien-aimée Jane ! » J’ai senti mon cœur se fondre. Tu as relevé la tête, ton visage était plein de larmes. J’ai cru que j’allais étouffer, et, si tu ne m’avais pas ouvert tes bras pour me recevoir, je serais tombée à terre, évanouie, morte... Ah ! pourquoi donc est-ce que je t’aime tant ? </p>
+        <p> — C’est que tu aimes pour la première fois, Jane. </p>
+        <p> La jeune fille posa la main sur son cœur. </p>
+        <p> — Et pour la dernière, dit-elle ; et toi ? </p>
+        <p> — Oh ! moi, s’écria Élim, ce n’est pas assez pour moi de t’aimer dans ce monde, je veux encore t’aimer dans l’autre. </p>
+        <p> Jane ne demandait plus ce que voulait dire le mot aimer. </p>
+        <p> Le jardinier entra ; il venait arroser les fleurs. </p>
+        <p> Nos jeunes gens se séparèrent en disant, chacun de son côté : </p>
+        <p> — Toujours ! toujours ! </p>
+        <p> Puis ils sortirent, l’un par une porte, l’autre par l’autre, et rentrèrent dans leurs chambres pour savourer en paix leur bonheur. </p>
+        <p></p>
+      </div>
+      <div title="Chapitre 6 Le donneur de nouvelles" type="chapter">
+        <p> Chapitre 6 </p>
+        <lb/>
+        <p> Le donneur de nouvelles </p>
+        <p>CHAQUE JOUR, DÈS LE matin, Élim quittait sa chambre et venait visiter la serre.  De son côté, Jane ne manquait pas d’y venir ; si elle avait eu besoin d’un prétexte, elle eût pu en donner deux : </p>
+        <p> Arroser les fleurs ; </p>
+        <p> Donner à manger à ses oiseaux. </p>
+        <p> Mais il y avait quelqu’un qui lui était devenu bien autrement cher que toutes les fleurs de la terre et tous les oiseaux de l’air ! </p>
+        <p> Ils couraient l’un à l’autre, s’embrassaient, puis causaient et s’embrassaient encore. </p>
+        <p> Lequel donnerait le plus de baisers à l’autre, c’était le problème d’arithmétique qu’ils semblaient s’être promis de résoudre, et, pour la première fois, un problème d’arithmétique fut une chose amusante. </p>
+        <p> Perdu dans la serre de Jane comme dans un autre jardin d’Armide, notre lieutenant oublia la mer, oublia la flotte, oublia ses amis, oublia les ennemis. Tout chaud patriote qu’il était, il ne songeait pas que les Français étaient au cœur de sa patrie, ou, s’il y pensait, il se disait : </p>
+        <p> — Non, la Russie ne tombera pas. Napoléon glissera dans notre sang. En tout cas, une telle guerre ne peut durer. </p>
+        <p> Puis il s’adressait cette question, qui portait avec elle sa réponse : </p>
+        <p> — D’ailleurs, qu’y puis-je faire ? </p>
+        <p> L’amour, lui aussi, est un despote et un faiseur de conquêtes ; il étouffe et enchaîne tous les autres sentiments. Demain avait cessé d’exister pour Élim ; il vivait au jour le jour et se sentait si heureux de vivre ainsi, qu’il ne craignait qu’une chose : c’est qu’il se fît un changement quelconque dans sa vie. </p>
+        <p> Il ne vivait pas avec son âme, il l’avait donnée. </p>
+        <p> Quant à Jane, elle aussi connaissait la douceur amère de l’amour. Elle étouffait, elle restait les yeux fermés ; sa bouche entrouverte murmurait tout bas : </p>
+        <p> — Élim ! Élim ! Élim ! </p>
+        <p> Un jour, il lui arriva, au milieu de ses fleurs, de broder toute une touffe d’E ; sur son cahier de dessin, elle profila une tête de jeune homme. </p>
+        <p> — Qu’est-ce que cette tête ? demanda sa mère, qui regardait par-dessus son épaule. </p>
+        <p> Jane tressaillit ; elle ne savait pas sa mère si près d’elle. </p>
+        <p> — Celle de Jules César, dit-elle. </p>
+        <p> La bonne Hollandaise ne savait pas ce qu’était Jules César ; mais elle n’en demanda pas davantage. </p>
+        <p> Aux heures où Jane avait l’habitude d’aider sa mère dans les soins du ménage, il lui prenait tout à coup envie de danser ; aux heures où elle devait étudier son piano, elle avait envie de prier. Tantôt elle oubliait les clefs sur un banc dans le jardin, et on les cherchait deux heures avant de les retrouver ; tantôt elle mettait du poivre au lieu de sucre dans la pâtisserie, et, comme c’était Jane qui avait fait cette pâtisserie, Élim soutenait qu’elle était excellente. Un jour – accident plus affreux que celui d’une planète qui menace d’écraser la terre –, elle laissa une chaise au milieu de la chambre, ce qui dérangea toute l’harmonie du salon. Enfin, maître August s’aperçut que sa fille perdait la tête, une fois qu’elle lui servit son café sans sucre ; et il pensa sérieusement à la faire traiter de sa folie, un jour qu’elle avait cueilli une tulipe, seul exemplaire qu’il y eût dans toute la Hollande. </p>
+        <p> — Saperloot ! s’écria-t-il en ouvrant ses yeux comme des portes cochères, décidément cela veut dire quelque chose. </p>
+        <p> Mais il resta les yeux ouverts, et ses yeux ne virent absolument rien. </p>
+        <p> Il y avait déjà trois semaines qu’Élim était à la fabrique, et il ne songeait pas le moins du monde à partir. De son côté, le vieillard, enchanté de sa présence, avait oublié qu’il n’était pas de la famille. Quant à l’excellente maîtresse de maison, elle s’était habituée à Élim comme à un vieux meuble de la maison qui lui eût été donné en mariage, et, pourvu qu’elle le trouvât rangé à sa place, c’est-à-dire près de Jane, elle n’y faisait pas plus attention qu’à une armoire ou un buffet. </p>
+        <p> Joignez à cela que l’hiver rendait impossible la navigation du Zuyderzée ; tout semblait donc être d’accord avec les désirs de notre marin. </p>
+        <p> Le matin du 1 er novembre, Élim, comme d’habitude, se rendit dans la serre. </p>
+        <p> Il y trouva Jane qui pleurait. </p>
+        <p> Il l’interrogea ; mais elle, sans répondre à ses questions, continua de pleurer. </p>
+        <p> — Ah ! dit-elle enfin, mon bonheur est fini, Élim ; tu me quittes ! </p>
+        <p> — Quelle folle pensée, chère Jane ! Moi te quitter quand je t’aime plus que jamais ! </p>
+        <p> — Ah ! si tu m’aimais moins, je trouverais un soulagement dans ma colère. Je t’appellerais traître, ingrat, et cela me consolerait. Oh ! je suis bien plus malheureuse de te perdre innocent que si je te perdais coupable. </p>
+        <p> — Ne t’afflige pas d’un chagrin à venir ; certainement, nous devons nous séparer un jour ; mais quand ? </p>
+        <p> — Pourquoi t’ai-je aimé, Élim ? s’écria la jeune fille en se jetant tout en larmes dans ses bras. </p>
+        <p> — Mais je ne te comprends pas, chère Jane. Au nom du ciel, explique-toi. </p>
+        <p> — Écoute, voici ce qui arrive : mon père a loué des pêcheurs pour te ramener sur ton vaisseau, et tu pars demain dans la nuit. </p>
+        <p> Élim, comme foudroyé par la terrible nouvelle, resta immobile et pâle devant la jeune fille. Enfin, il se souvint qu’il était homme et que, par conséquent, c’était à lui qu’appartenait le rôle consolateur. </p>
+        <p> — Tais-toi, tais-toi, Élim ! s’écria la jeune fille ; je ne veux pas être consolée, moi. Avec toi, dans la plus petite barque, il me semble que je n’aurais pas peur sur la mer la plus furieuse ; mais, en songeant que tu es seul avec des étrangers au milieu de la tempête, je meurs, rien que d’y penser. Sans compter que tu vas t’en aller en Angleterre et, de là, en Russie, et qu’une fois en Russie, tu ne penseras plus à la pauvre Jane. Que dis-je ! tu n’y penseras plus ? Tu y penseras, mais pour te moquer de sa folie et de son amour. </p>
+        <p> Sa voix se perdit dans les sanglots. </p>
+        <p> Élim, de son côté, ne put retenir ses larmes ; mais enfin, tout en pleurant lui-même, il parvint à la tranquilliser un peu. </p>
+        <p> — Écoute, lui disait-il, je demanderai un entretien à ton père. Je lui dirai que je t’aime, que tu m’aimes, que nous ne pouvons pas vivre séparés, que nous mourrons loin l’un de l’autre. Quand il sera bien convaincu que nous lui disons la vérité, il consentira. Et puis la guerre n’est pas éternelle comme notre amour. Un jour peut tout changer. Tiens, regarde : tout à l’heure le temps était sombre à croire que nous allions entrer dans la vie éternelle ; vois le beau rayon de soleil. C’est Dieu qui nous l’envoie comme présage pour nous consoler. </p>
+        <p> Jane sourit tristement. Le rayon de soleil fit briller à ses paupières deux larmes pareilles à deux diamants liquides qu’Élim recueillit pieusement avec ses lèvres, et tous deux, levant les yeux au ciel, redirent ensemble : </p>
+        <p> — Dieu est bon ! </p>
+        <p> En ce moment, sonna la cloche du déjeuner. </p>
+        <p> Les jeunes gens entrèrent, comme d’habitude, chacun par une porte opposée. </p>
+        <p> Maître van Naarvaersen, en mettant ses mains dans ses poches, raconta à Élim où il en était de ses affaires, ce qu’il avait acheté, ce qu’il avait vendu, et quelle avait été la balance du mois d’octobre. Quenzius, contemplant un tableau qui représentait un repas, jouait avec son nez, comme avec une trompette, une fanfare que l’on pouvait appeler le boute-selle du déjeuner ; Jane regardait tristement le lieutenant. Enfin, madame van Naarvaersen venait d’entrer dans la salle à manger, les joues encore colorées du feu de ses réchauds, lorsque Quenzius, qui regardait par la fenêtre, s’écria : </p>
+        <p> — Ah ! bon ! voilà ce bavard de Montane qui vient chez nous. </p>
+        <p> — Grand Dieu ! le capitaine Montane ! s’écria avec terreur la maîtresse de la maison. Que dites-vous, Quenzius ? </p>
+        <p> — C’est une punition de Dieu ! s’écria maître August avec désespoir ! </p>
+        <p> — C’est un désastre ! répéta madame van Naarvaersen. </p>
+        <p> — Il est pire pour moi que le tambour, et Dieu sait que le bruit du tambour est celui que je déteste le plus, dit maître August. </p>
+        <p> — Il est pire pour moi que les mouches, dit la femme. </p>
+        <p> — Il va me casser toutes mes tulipes avec ses bottes. </p>
+        <p> — Il va me faire déchirer tous mes tapis avec ses éperons. </p>
+        <p> Mais que faire ? Habitant à la campagne, il n’y avait pas moyen de refuser les visites. </p>
+        <p> L’ennemi était déjà sur le perron. </p>
+        <p> Enfin, celui qui avait été précédé par ce chœur de malédictions entra en se dandinant et chantant : </p>
+        <p> Les Français ont pour la danse </p>
+        <p> Un irrésistible attrait ; </p>
+        <p> Et de tout mettre en cadence, </p>
+        <p> Ils ont, dit-on, le secret. </p>
+        <p> Je le crois, </p>
+        <p> Quand je vois </p>
+        <p> Ces grands conquérants du monde </p>
+        <p> Faire danser à la ronde </p>
+        <p> Et les peuples et les rois. </p>
+        <p> Les portes s’ouvrirent et le capitaine douanier garde-côte Montane Lassade, natif des environs de Bordeaux et transplanté des landes de Mont-de-Marsan dans les marais de la Hollande, entra. </p>
+        <p> C’était un homme de trente-cinq à trente-six ans, avec des yeux de lapin, un nez de coucou et une assurance qui sentait d’une lieue son golfe de Gascogne. </p>
+        <p> Il avait un uniforme bleu avec une simple épaulette, et s’appuyait sur une mince épée qui ressemblait à une sonde à laquelle il eût fait faire un fourreau. </p>
+        <p> — Ma foi, dit-il en saluant la société, on a raison de dire, maître Narvarsan – le capitaine avait francisé le nom du bon Hollandais –, on a raison de dire que le chemin du paradis est difficile. Votre Vlamis – il avait francisé le nom de la campagne Vlam-huis comme celui du maître – votre Vlamis est un vrai paradis. Paradis de Mahomet, je m’entends, ajouta-t-il en regardant la jeune fille, attendu que mademoiselle vaut, à elle seule, toutes les houris ensemble. </p>
+        <p> Enchanté du compliment, il secoua son chapeau mouillé et arrosa tout le monde. </p>
+        <p> — Vous êtes si aimable, dit Jane en essuyant avec son mouchoir l’eau dont elle était couverte, qu’il n’y a pas moyen de vous recevoir sèchement, vous et vos galanteries. </p>
+        <p> — Vous êtes divine, mademoiselle Jane ! répartit le Gascon ; mais aussi devinez ce que je vous ai apporté. Un joli dessin de col festonné, avec des colombes perchées sur des cœurs. C’est ravissant. Et à vous, maman Narvarsan, une recette pour conserver leur couleur aux confitures de roses. </p>
+        <p> — Vous auriez bien fait de m’apporter une recette pour préserver les tapis de l’humidité, dit madame van Naarvaersen en regardant avec effroi l’eau qui continuait de couler du chapeau du douanier comme d’une fontaine. </p>
+        <p> — Le capitaine est l’ami des dames, ou les dames sont bien ingrates, dit maître August en posant sa main sur l’épaule du nouveau venu ; il a toujours pour elles dans sa poche un cadeau et dans sa tête un compliment. </p>
+        <p> — Par sainte Barbe ! dit le capitaine en faisant dans sa cravate un mouvement de cou accompagné d’un tic nerveux de la bouche qui lui était habituel, mon cœur est toujours prêt à tomber aux pieds des belles comme mon épée à rencontrer le fer de l’ennemi. </p>
+        <p> — Lequel aura le plus de besogne, de votre cœur ou de votre épée, capitaine ? dit en riant maître August. Nous avons bien des belles à Amsterdam et à Rotterdam, mais aussi bien des barils à sonder à la barrière. </p>
+        <p> — Je suis écrasé par les affaires, répondit le douanier ne paraissant pas comprendre la plaisanterie de maître August et accompagnant sa réponse de son tic habituel ; vos compatriotes, au lieu d’être reconnaissants à notre empereur, qui, lorsque la chose lui était si facile, n’a pas poussé la Hollande dans la mer, tiennent des conciliabules dans tous les cabarets pour correspondre avec ces damnés de Russes et ces maudits Anglais, qui machinent une descente sur le rivage. On vient de découvrir un complot qui ne tendait pas à moins qu’à leur livrer la forteresse, le port. Bagatelle ! Par bonheur, cher maître August, avec mon flair habituel, j’ai découvert le pot aux roses et j’ai sauvé la ville, tout simplement. Vous voyez devant vous un homme auquel on devrait élever des arcs de triomphe, maître August. Les traîtres ont été pris, et où ? Devinez un peu. Comme les quarante voleurs d’Ali Baba, dans des tonneaux de vin. </p>
+        <p> — Eh bien, je vote pour qu’on vous élève, en face de la porte principale de la ville, une statue dont le piédestal sera un tonneau immense. . . Mais ne voulez-vous pas déjeuner avec nous, capitaine Montane ? Il faut boire le café comme on bat le fer, le plus chaud possible. </p>
+        <p> — Volontiers, volontiers, maître Narvarsan, dit le capitaine avec son mouvement de cou ordinaire. </p>
+        <p> Et il offrit galamment son bras à la maîtresse du logis, tandis qu’Élim, selon son habitude, offrait le sien à Jane. Maître August et Quenzius fermaient la marche. </p>
+        <p> Le capitaine prit place à table. </p>
+        <p> — Et quelle nouvelle, demanda maître August, outre celles du grand complot que vous avez bien voulu nous annoncer ? </p>
+        <p> — La nouvelle, c’est que notre petit caporal, soit dit sans vous déplaire, nous envoie toutes les semaines les clefs de quelque capitale. Nous avons reçu celles de Moscou, et nous attendons en ce moment celles de Saint-Pétersbourg. Les dames russes ont déjà commandé trente mille paires de souliers pour le bal que l’on donnera au palais de l’Ermitage. Quel magnifique pays que cette Moscovie ! Si vous saviez ! </p>
+        <p> — Y avez-vous jamais été, monsieur ? demanda Élim. </p>
+        <p> — Non ; mais j’ai un frère qui a voulu y aller. Imaginez-vous que la grêle ordinaire, ce que nous appelons le grésil, y tombe du ciel de la grosseur d’un œuf de poule ; ce qui est une providence, attendu que ces grêlons se gardent et servent à rafraîchir le vin l’été. Ce qu’il y a de plus curieux, c’est que l’on y emploie, pour aller dans les montagnes. . . Vous savez que la Russie est un pays de montagnes ? </p>
+        <p> — Non, dit Élim, je ne le savais pas. </p>
+        <p> — Eh bien, je vous l’apprends, monsieur. Je disais qu’on employait, pour aller dans les montagnes, de petits chevaux que l’on appelle lochaks, ce qui veut probablement dire les chats, attendu qu’ils ne sont pas plus grands que des chiens. </p>
+        <p> — Je n’ai peur que d’une chose, dit Élim, c’est que vos compatriotes ne trouvent pas de quoi manger dans un pays déjà pauvre et qui, à ce que l’on m’a dit du moins, avait été dévasté à l’avance. </p>
+        <p> — Bagatelle ! répondit le capitaine. Qu’est-ce que c’est que les gelées de la Russie pour nos grenadiers, qui, en traversant le Saint-Bernard, y ont mangé de la glace à belles dents ? Il est vrai que c’était pour descendre en Italie, cette belle Italie qui n’a pour rivale que l’Espagne, avec ses bois d’orangers, ses forêts de lauriers-roses et ses berceaux de roses de Chine. Ah ! maître Narvarsan,c’est là qu’il vous faudrait une maison de campagne, entre Grenade et Séville, à l’ombre du Guadalquivir et sur les bords de la sierra Morena ! </p>
+        <p> — À la manière dont vous parlez des bois et des forêts de l’Espagne, dit Élim en riant, on voit bien que vous y avez été, en Espagne. </p>
+        <p> — Non, monsieur ; mais j’avais un oncle qui en prenait du tabac. </p>
+        <p> Élim secoua la tête. </p>
+        <p> — La difficulté n’est pas d’entrer en Russie, dit-il, c’est d’en sortir. </p>
+        <p> — Comment cela ? </p>
+        <p> — Il y a deux terribles sentinelles qui veillent, aux portes de la Moscovie : la faim et le froid. </p>
+        <p> Le douanier éclata de rire. </p>
+        <p> — Oh ! quant à cela, dit-il, il ne faut pas vous en inquiéter, et vous êtes trop bon. Nos troupes sont suivies par d’immenses troupeaux de mérinos. </p>
+        <p> — Est-ce que l’empereur voudrait fonder des fabriques de drap en Russie ? demanda maître August. </p>
+        <p> — Non, répondit le capitaine, et nous avons assez, Dieu merci ! de celles de la Hollande. Non : les moutons, nos soldats les mangent, et, au fur et à mesure qu’un mouton est mangé, on fait une pelisse de sa peau ! et, d’ailleurs, maintenant que nous sommes à Moscou. . . </p>
+        <p> — À Moscou ! s’écria Élim en sautant de sa chaise. </p>
+        <p> — Sans doute, à Moscou. N’avez-vous pas entendu que j’ai annoncé tout à l’heure que nous avions reçu les clefs de la ville ? </p>
+        <p> — J’ai cru que vous plaisantiez, monsieur ; mais certaines plaisanteries doivent avoir une fin. </p>
+        <p> — Bagatelle ! – c’était le mot favori du capitaine – Mais vous sortez donc de dessous terre, monsieur ? Vous en êtes à apprendre cette nouvelle, quand tous les muets de Pékin en parlent déjà. </p>
+        <p> Van Naarvaersen n’avait pas voulu affliger Élim par la nouvelle de la prise de Moscou ; mais, lorsque le jeune homme fixa sur lui un œil interrogateur, force lui fut d’avouer la vérité. </p>
+        <p> — Oui, dit-il en allemand, Moscou est pris, c’est vrai ; mais les Russes sont forts et l’hiver s’avance. Du calme, Élim ! du calme ! </p>
+        <p> Demander du calme à Élim au moment où il venait d’apprendre une pareille nouvelle, c’était lui demander l’impossible. </p>
+        <p> Montane continua. </p>
+        <p> — Oui, monsieur ; et, avant d’arriver à Moscou, nous avons battu une petite armée de cinq cent mille hommes commandés par Souvarov, Korsakof, Koutousof. J’estropie peut-être ces diables de noms. La Russie avait rassemblé tout ce qu’elle avait pu de soldats. Elle avait formé un corps de sapeurs, composé de vieillards dont le plus jeune avait quatre-vingt-dix ans et dont les barbes tombaient jusqu’aux genoux. Avec ces barbes-là, les cuirasses devenaient inutiles, les balles s’y aplatissaient comme sur des plaques de tir. À midi, tout était fini, et, à deux heures, Napoléon était à Moscou, porté entre les bras des boyards, selon l’habitude russe. À la porte de Kalouga, on lui présenta un pain de la hauteur du Canigou, et, sur un plat d’argent, une petite baleine, de vingt-cinq pieds de long, qui avait été pêchée dans la mer Blanche. </p>
+        <p> — Et la mer Blanche, savez-vous où elle est ? demanda Élim. </p>
+        <p> — Elle est entre la mer Noire et la mer Rouge, monsieur. </p>
+        <p> — Elle est à quinze cents verstes de Moscou. </p>
+        <p> — C’est-à-dire qu’elle était là, peut-être, du temps de Pierre le Grand, c’est possible. Mais, pour l’avantage de Moscou, l’empereur, qui compte y passer l’hiver et donner de grandes fêtes, l’a rapprochée à une petite portée de canon. Le soir, on a donné un bal au son de toutes les cloches de Moscou : il y en a douze mille ; cette musique produisait le plus grand effet. Toutes les fenêtres, la nuit, ont été illuminées. Les habitants étaient tellement ravis, que, dans leur enthousiasme, ils ont mis le feu à cinq cents maisons et que les trois quarts de la ville ont été brûlés. </p>
+        <p> — S’ils ont fait cela, dit Élim, c’est pour que tous les Français périssent dans l’incendie. </p>
+        <p> Comme il achevait ces paroles, le domestique entra avec les gazettes anglaises. </p>
+        <p> Elles annonçaient la retraite des Français. </p>
+        <p> Van Naarvaersen lut le premier la nouvelle, et, passant le journal à Élim : </p>
+        <p> — Moscou est en ruine, mais la Russie est sauvée, lui dit-il en allemand. Les Français ont quitté la ville. </p>
+        <p> Élim lut et passa la gazette au douanier. </p>
+        <p> — Est-ce que je sais l’anglais ? dit celui-ci. </p>
+        <p> — Eh bien, monsieur, dit Élim, je ne veux pas vous annoncer une mauvaise nouvelle ; faites-vous traduire ces dix lignes-là par quelqu’un qui sache l’anglais. </p>
+        <p> Et, se levant de table, de peur qu’une nouvelle forfanterie du Gascon ne le fît sortir de la mesure qui lui était imposée, il se retira dans sa chambre. </p>
+        <p> À peine Élim fut-il sorti, que, d’un air mystérieux, le capitaine Montane pria maître August de lui accorder un entretien secret pour une affaire de la plus haute importance. </p>
+        <p> Maître August fit un signe à sa femme et à sa fille, qui sortirent avec Quenzius et le laissèrent seul avec le capitaine. </p>
+        <p></p>
+      </div>
+      <div title="Chapitre 7 La demande en mariage" type="chapter">
+        <p> Chapitre 7 </p>
+        <lb/>
+        <p> La demande en mariage </p>
+        <p>QU’AVAIT DONC DE SI important à dire en particulier à maître August le capitaine Montane ?  L’histoire reste muette sur ce point, et, jusqu’à nouvel ordre, nous sommes forcés de nous borner à des conjectures. </p>
+        <p> Seulement, au bout d’un quart d’heure, les portes de la salle à manger, hermétiquement fermées jusque-là, s’ouvrirent violemment, et le capitaine, pourpre de colère, sortit tirant ses moustaches, tandis que maître August van Naarvaersen lui disait le plus doucement qu’il pouvait et en multipliant les révérences : </p>
+        <p> — Le nez, mon cher monsieur Montane, le nez, c’est un grand empêchement. Saperloot ! une aune, c’est bien ; deux aunes, cela va encore ; mais deux aunes et demie, c’est trop. </p>
+        <p> Le capitaine traversa le salon sans regarder ni madame August, qui jouait au piquet avec Quenzius, ni Jane, qui causait avec Élim, et, par conséquent, sans leur dire une parole. </p>
+        <p> Seulement, lorsqu’il fut arrivé au perron, on l’entendit qui murmurait : </p>
+        <p> — Ah ! monsieur Narvarsan... ah ! Narvarsan, vous me payerez cela ! </p>
+        <p> Un instant après, on entendit le bruit de deux chevaux, et l’on vit le douanier qui s’éloignait au galop. </p>
+        <p> Ne comprenant rien à cette sortie, Jane et Élim se levèrent et allèrent trouver maître August dans son cabinet. </p>
+        <p> Maître August, contre son habitude, paraissait fort agité ; il marchait en long et en large dans la chambre, et très vite. Il était facile de s’apercevoir qu’il était sous le poids d’une émotion extraordinaire. </p>
+        <p> Mais, en voyant sa gentille Jane, sa figure s’éclaircit. </p>
+        <p> Il la prit par la main et l’embrassa. </p>
+        <p> — Bonne fille, lui dit-il, n’est-ce pas que tu ne veux pas abandonner ton père ? </p>
+        <p> — Pourquoi donc me demandez-vous cela ? dit timidement Jane. </p>
+        <p> — Hélas ! c’est ainsi, ma chère ! Un triste souvenir m’est passé par l’esprit. Je me souviens qu’au printemps j’ai vu les jeunes hirondelles, à peine couvertes de plumes, qui s’étaient échappées du nid. Elles furent prises par des écoliers. . . Les filles ressemblent aux hirondelles, ma pauvre Jane. </p>
+        <p> — Je ne sais ce que vous voulez dire, mon père ; mais je n’ai jamais voulu vous quitter. Je ne voudrais pas non plus vous quitter. . . </p>
+        <p> Jane hésita ; puis, reprenant courage : </p>
+        <p> — Promettez-moi, ajouta-t-elle, de m’accorder ce que je vais vous demander. </p>
+        <p> — Bien, bien, ma chère, je comprends : tu désires avoir quelque bijou, une bague, un collier. . . Parle, tu sais bien que je ne te refuse rien. </p>
+        <p> — Oh ! mon père, j’ai déjà tant de bijoux, que, de ce côté-là, je n’ai rien à désirer. Mais vous ne vous fâcherez pas, mon père ? </p>
+        <p> — Je me fâcherai si tu ne me dis pas à l’instant ce que tu désires. Est-ce un maître de danse ? Je te donne M. Saint-Léger, élève de Vestris, qui danserait la gavotte sur le goulot d’une bouteille. </p>
+        <p> — Vous badinez toujours, mon père ; mais, moi, je vais vous parler sérieusement. </p>
+        <p> — Sérieusement, toi ? Ah ! par exemple, je suis curieux de savoir ce que tu peux avoir de sérieux en tête. </p>
+        <p> — Mais dans le cœur, mon père. . . </p>
+        <p> Maître August regarda Jane. </p>
+        <p> — Oui, nous. . . moi. . . Élim. . ., balbutia celle-ci. </p>
+        <p> — Ah ! oui, ce cher Élim ! pauvre ami ! Sais-tu, continua-t-il en s’adressant au jeune homme, que nous devons nous séparer bientôt ? </p>
+        <p> — Et voilà justement pourquoi je viens vous relancer dans votre cabinet, mon respectable maître. Oui, nous devons nous séparer pour toujours, ou pour bien peu de temps. Je ne vous ferai pas une longue harangue ; ni mon caractère ni le vôtre ne sont amis des détours. J’aime votre fille, Jane m’aime, votre consentement nous fera heureux. Dites-moi oui, je vous quitte ; et, après la guerre, je reviens, en vous disant : « Cher père, donnez-moi Jane. » </p>
+        <p> — Jane ! te donner Jane ! Jane se marier ! s’écria maître August en faisant trois pas en arrière. Saperloot ! c’est court et clair, Élim. . . Ah çà ! mais c’est une rage, une épidémie aujourd’hui. Tout le monde veut se marier et épouser Jane. À peine ai-je chassé Montane, qu’en voilà un autre qui se présente, en me chantant la même chanson. </p>
+        <p> — J’espère, cher monsieur van Naarvaersen, dit Élim en riant, que vous ne me mettez pas tout à fait sur le même rang que le capitaine Montane. </p>
+        <p> — Saperloot ! Dieu m’en garde, mon cher enfant ! </p>
+        <p> — Mon respectable ami, jamais je n’eusse osé vous demander la main de Jane, si je n’avais pas un certain droit sur elle. . . son amour d’abord, et mon désir de la rendre heureuse. </p>
+        <p> — Cher père, c’est que j’aime beaucoup Élim, moi, dit Jane à son tour, en se jetant au cou du vieillard. </p>
+        <p> — Allons, pas de sottises, petite fille, interrompit maître August. Sais-tu seulement de quel côté tu as le cœur ? Les enfants, en jouant à la poupée, disent bien souvent : « J’aime », sans savoir ce qu’ils disent. Je m’étonne seulement comment tu as osé dire un mot à un étranger sans en parler ni à ton père ni à ta mère. Songe donc que tu n’as pas encore seize ans ! Quant à toi, Élim, je ne te blâme pas, et tu as doublement raison d’aimer une jolie et riche héritière. </p>
+        <p> Élim fit un mouvement qui indiquait qu’il venait d’éprouver à peu près la même douleur que lui eût faite une blessure. </p>
+        <p> — Van Naarvaersen, dit-il, vous pouvez me refuser une part de votre bienveillance ; mais vous n’avez pas le droit de me refuser une part de votre estime. J’ai, en Russie, une assez belle fortune et une assez bonne réputation, et je n’ai jamais rien dit ni fait qui puisse vous autoriser à croire que je suis un spéculateur. Je n’ai aucun besoin de votre fortune, je suis assez riche pour deux. Donnez-moi Jane telle qu’elle est maintenant ; je ne demande rien avec Jane, que son amour et votre consentement. </p>
+        <p> — Bien dit et noblement pensé, jeune homme ! je ne te connais que depuis trois semaines ; je ne t’offense pas par un doute, je crois à tes paroles ; mais souviens-toi qu’il est très hasardeux d’offrir sa main quand la tête court un si grand danger. Montane soupçonne quelque chose. C’est ta faute, tu n’as point su te contenir. Il ne tardera pas à me dénoncer à son gouvernement, qui me déteste. Moi-même, je songe à quitter la Hollande. Que ce soit notre sympathie ou non, nous sommes en guerre avec les Russes, et Dieu sait quand cette guerre sera finie, et finît-elle bientôt, Dieu sait encore, Dieu sait quand tu pourrais revenir. Et puis, enfin, pense combien il en coûte à un père et à une mère de se séparer de leur enfant. </p>
+        <p> — Je viendrai vous voir une fois chaque année, je vous en donne ma parole. Il y a plus : je suis seul, je suis libre, je puis demeurer avec vous si vous le désirez. </p>
+        <p> — Non, mon cher Élim, dit le vieillard en secouant la tête. La femme doit tout quitter pour suivre son époux, la Bible le dit : mais la Bible ne dit pas qu’un mari oubliera son pays pour sa femme. Je t’avouerai que tu me plais beaucoup, Élim, et si tu étais Hollandais, je t’appellerais à l’instant même mon fils, n’eusses-tu pas un seul ducat dans ta bourse. Mais laisser partir ma fille si loin de moi, elle si jeune, toi si léger !. . . Qui sait ! peut-être avant six mois ne songerez-vous plus l’un à l’autre. </p>
+        <p> — Ne nous fussions-nous pas vu dans ce monde, maître August, en rencontrant Jane dans l’autre, j’eusse dit : « Voilà la femme de mon cœur. . . » </p>
+        <p> — Mon père, en tout cas, je déclare une chose, ajouta Jane : c’est que je n’aurai pas d’autre époux qu’Élim. </p>
+        <p> — Tout cela est fort grave, ma jeune amie ; vous parlez avec chaleur, et la chaleur est une maladie qui passe vite. Je veux bien croire que votre amour est éternel et que ni le temps ni les dangers n’auront prise sur lui. Nous allons nous séparer, nous. Élim, écoute-moi ; si tu reviens avec les mêmes pensées et si tu retrouves Jane dans les mêmes sentiments, que Dieu vous bénisse alors ! Je ne serai jamais un obstacle au bonheur de mes enfants. Pendant ce temps-là, notre connaissance sera plus profonde ; Jane grandira, et, en grandissant, deviendra plus raisonnable. </p>
+        <p> — Pouvons-nous compter sur votre parole, mon père, et échanger nos anneaux ? </p>
+        <p> — Quant à ma parole, tu peux bâtir un château dessus ; mais, quant à l’échange des anneaux, je le trouve on ne peut plus inutile. Tu es militaire, tu es marin, tu peux être tué, tu peux périr dans une tempête, et alors Jane sera veuve sans avoir été épouse. </p>
+        <p> — Mon digne ami, dit Élim, ce n’est ni un usage ni un engagement que j’invoque, c’est une consolation de cœur. Donnez-moi le droit de me compter comme étant de votre famille, donnez-moi le droit d’appeler Jane ma fiancée, donnez-moi le droit de vous nommer mon père. </p>
+        <p> Élim mit un genou en terre devant le vieillard. </p>
+        <p> — Mon père, dit Jane, ayez pitié de nous ; donnez le bonheur à vos enfants ! </p>
+        <p> — Ah çà ! s’écria le vieillard en essuyant ses larmes, avez-vous bientôt fini, saperloot ! Levez-vous consolés, embrassez-vous vous-mêmes ; mais n’insistez pas davantage, si vous ne voulez pas que je vous refuse tout à fait. Je dois être raisonnable pour vous, puisque vous, vous ne l’êtes pas. Demain vous vous séparez ; mais vous vous séparerez en vous disant que l’avenir dépend de vous. Maintenant, laissez-moi tranquille et donnez-moi le temps de rassembler mes idées. </p>
+        <p> Élim croyait s’apercevoir que ce consentement ressemblait fort à un refus. Mais que pouvait-il faire ? Il baisa la main du vieillard. Jane l’embrassa, moitié caressante, moitié boudeuse, et tous deux s’éloignèrent tristement. </p>
+        <p> Pendant ce temps, notre capitaine de douaniers retournait vers la ville en maudissant tout ce qu’il voyait autour de lui. Étant médiocrement cavalier, il dansait terriblement sur sa selle, mouvement qui n’ajoutait pas peu à sa mauvaise humeur. Son compagnon, soldat de marine, Bordelais comme lui, le suivait sur un cheval maigre en fumant une courte pipe, et, à chaque saut du capitaine, il disait : « Maudits chevaux ! » avec la même régularité que Pandore disait : « Brigadier, vous avez raison. » </p>
+        <p> — Les chevaux et les hommes, Cabaret – c’était le nom du soldat de marine, nom qui lui avait été évidemment donné à cause de son assiduité à visiter les établissements consacrés au dieu du vin –, les chevaux et les hommes, l’eau et la terre, l’air et le ciel, tout est mauvais dans ce pays de brouillards. Douze cents bombes ! s’il ne fallait qu’un signe de mon doigt pour faire crever leurs digues, ils seraient bientôt submergés. </p>
+        <p> — Cap de Diou ! répondit Cabaret, je suis d’accord, mon capitaine. </p>
+        <p> Et, comme le capitaine avait fait un saut de dix pouces sur sa selle : </p>
+        <p> — Maudits chevaux ! dit Cabaret, qui n’était guère meilleur cavalier que celui qu’il accompagnait. </p>
+        <p> — Vois-tu, c’est mon avis et mon avis de cœur, entends-tu. Qu’est-ce que les hommes d’ici ? De grossiers marchands. Les femmes ? Des cuisinières. Et les demoiselles ? Des pots à lait. Pas d’éducation, pas de savoir-vivre. Pour elles, un morceau de fromage de Limbourg est préférable à l’amour d’un gentilhomme. </p>
+        <p> — D’accord, cent fois d’accord, mon capitaine. – Maudits chevaux ! </p>
+        <p> — Aussi je me marierais plutôt avec la veuve du diable que d’épouser cette petite fille. L’imbécile de Hollandais, il donne dedans : il a cru que je lui demandais sérieusement sa fille ! Il n’a pas vu que je me moquais de lui avec ma proposition. </p>
+        <p> — Le fait est, capitaine, que, pendant que j’étais à la porte, je me creusais la tête en disant : « Cap de Diou ! à qui en a donc le capitaine, d’épouser une pareille tulipe ! » </p>
+        <p> — Et comment crois-tu qu’il a reçu ma proposition, le vieux coquin ? dit le capitaine. </p>
+        <p> — Il s’est jeté à votre cou, j’espère bien, capitaine, les bras ouverts et la poche ouverte. </p>
+        <p> — Ah ! ah ! ah ! dit le capitaine en riant du plus mauvais rire, compte là-dessus ; il m’a refusé ! </p>
+        <p> — Refusé ! cap de Diou ! Vous badinez avec moi, capitaine. </p>
+        <p> — Non, en vérité de Dieu, c’est comme je te le dis, Cabaret. Il se croit un grand seigneur, parce qu’il marche sur des tapis de velours et qu’il a sur sa table des candélabres de bronze. La belle chose ! Mais, quand il pourrait couvrir de son drap toute l’Europe et paver de son or tout le Zuiderzée, je n’en voudrais pas de sa bégueule de fille. Aussi bien, ajouta-t-il en fronçant son sourcil et en mordant sa moustache, eût-il tout ce que je disais, on peut le ruiner. </p>
+        <p> — Mille fois d’accord, capitaine ; si on peut, il faut ; mais ce n’est pas facile de mordre sur ces damnés orangistes. </p>
+        <p> — Premièrement, Cabaret, il lit les gazettes anglaises. Secondement, il est juif. Troisièmement, il est. . . il est. . . </p>
+        <p> Le capitaine chercha inutilement ce qu’était en troisième lieu maître August. </p>
+        <p> Ce qui n’empêcha point Cabaret de répondre : </p>
+        <p> — D’accord. </p>
+        <p> Et d’ajouter : </p>
+        <p> — Sans compter qu’il a chez lui des hommes. . . hum ! </p>
+        <p> — Des hommes ? répéta Montane. </p>
+        <p> — Oui, qui me sont suspects, dit Cabaret. </p>
+        <p> — Quels hommes ? demanda Montane, dont les yeux brillèrent à l’espérance qu’il allait apprendre quelque chose qui pourrait compromettre le fabricant de drap. Voyons, de qui parles-tu ? </p>
+        <p> — D’accord, mon capitaine. Eh bien donc, il y a trois semaines, à peu près, j’allais en patrouille avec quelques camarades. – Maudits chevaux ! </p>
+        <p> — Je sais ce que tu appelles aller en patrouille ; l’empereur n’aime pas les pillards. </p>
+        <p> — Bon ! chacun prend ce qu’il peut ; l’un prend une ville, l’autre pille un coffre. </p>
+        <p> — Et c’est toi qui pilles le coffre, n’est-ce pas, maroufle ? Prends garde ! celui qui prend les villes y trouve une couronne, tandis que celui qui pille les coffres ne rencontre parfois qu’une corde. Mais ceci, c’est ton affaire et non la mienne. De quels hommes parles-tu, Cabaret ? </p>
+        <p> — Donc, étant en patrouille, j’ai vu que six hommes sont entrés dans le moulin de ce fabricant, et quels hommes ! de véritables bandits. Cap de Diou ! je n’aurais pas voulu les rencontrer sur mon chemin. – Maudits chevaux ! </p>
+        <p> — Et comment as-tu vu cela ? </p>
+        <p> — En regardant par la fenêtre. Que voulez-vous, capitaine ! je suis curieux, c’est mon défaut. </p>
+        <p> — As-tu vu cela en rêve ou en réalité ? </p>
+        <p> — En réalité ; armés jusqu’aux dents, capitaine, et des barbes ! des barbes que nos sapeurs de la vieille garde ne sont que des blancs-becs près d’eux, et la langue qu’ils parlaient donc ! les oreilles m’en tintent encore. </p>
+        <p> — C’étaient probablement des coureurs anglais. </p>
+        <p> — Les Anglais ne portent pas de barbe, capitaine. </p>
+        <p> — C’est vrai. </p>
+        <p> — Tout à coup, leur chef m’a aperçu, et, sans dire gare, il a fait feu sur moi avec un pistolet long comme une canardière et large comme une espingole. </p>
+        <p> — Et qu’as-tu fait, Cabaret ? </p>
+        <p> — Cap de Diou ! je me suis sauvé, capitaine. </p>
+        <p> — Et puis après ? </p>
+        <p> — Après ? Voici : écoutez bien ce qui me reste à vous dire, car c’est le plus intéressant. </p>
+        <p> — J’écoute. </p>
+        <p> — Aujourd’hui, pendant que vous étiez à déjeuner dans la salle à manger, moi, je déjeunais à la cuisine près du feu, attendu que, dans ce maudit climat, on rôtit sans se réchauffer. Voilà que le neveu de maître August entre pour allumer son cigare. Je lève la tête et je reconnais. . . Devinez qui, capitaine ? </p>
+        <p> — Le neveu de maître August. </p>
+        <p> — Ah bien, oui. Le chef de mes bandits ! </p>
+        <p> — Cabaret ! </p>
+        <p> — Que le diable me serre la gorge avec sa queue si ce n’est pas vrai, capitaine. </p>
+        <p> — Ah ! mon cher Cabaret, si tu étais sûr de ce que tu dis là ! </p>
+        <p> — Mais c’est vrai comme la vérité elle-même. Quant aux cinq autres, je me suis informé. . . </p>
+        <p> Cabaret baissa la voix. </p>
+        <p> — Ils sont enfermés dans la fabrique. Le vieillard dit que ce sont des mécaniciens. Cap de Diou ! des mécaniciens de fausse monnaie ! C’est pour cela que le vieux coquin est si riche. </p>
+        <p> — Décidément, je suis un homme de génie, Cabaret ! </p>
+        <p> — D’accord, capitaine ; mais en quoi ? </p>
+        <p> — En ce que j’ai vu tout de suite que ce jeune homme était un ennemi de la France. Tu es sûr de ce que tu dis, Cabaret ? </p>
+        <p> — Moralement, capitaine. </p>
+        <p> — Moralement ou immoralement, cela m’est égal, pourvu que tu en sois sûr. </p>
+        <p> — J’en suis sûr. </p>
+        <p> — Eh bien, dès demain, je dénonce le vieux coquin à la police. Ah ! un crime de haute trahison ! ce n’est pas une bagatelle, maître August Narvarsan, ce n’est pas une bagatelle. </p>
+        <p> Et, comme on entrait dans la ville, le capitaine Montane fit signe à Cabaret de se taire, invitation à laquelle le fils de la Garonne obéit, en se contentant de rompre le silence pour dire de temps en temps : </p>
+        <p> — Maudits chevaux ! </p>
+        <p></p>
+      </div>
+      <div title="Chapitre 8 La trahison" type="chapter">
+        <p> Chapitre 8 </p>
+        <lb/>
+        <p> La trahison </p>
+        <p>LE LENDEMAIN, LE COLONEL van Waan, commandant de Flessingue, donna l’ordre d’arrêter maître August van Naarvaersen, et douze soldats et un officier furent désignés pour accomplir cette mission. </p>
+        <p> Le hasard – cette sage-femme de tout bien et de tout mal – poussa comme par miracle le capitaine Montane sur le chemin du long et maigre Quenzius, qui allait cheminant le long du canal. </p>
+        <p> Un homme en habit de marin le suivait avec une ligne sous le bras. </p>
+        <p> Montane s’arrêta. </p>
+        <p> Le nez d’un douanier, surtout lorsqu’il a atteint le développement du nez de Montane, est l’instrument le plus fin et le plus sensitif qui existe au monde. </p>
+        <p> Au temps où la civilisation était dans son enfance, on se servait de la baguette de coudrier pour découvrir des trésors ; de nos jours, ce mystérieux bâton est remplacé par le nez des douaniers. Ils sentent leur proie mieux que le corbeau ne sent les cadavres ; et la contrebande, fût-elle au fond de l’estomac de Pantagruel ou de Gargantua, ne saurait leur échapper. </p>
+        <p> — Il y a quelque chose là-dessous, dit le capitaine. Humpf ! humpf ! Quenzius hors de la maison et loin de ses livres !. . . </p>
+        <p> Et il aspira l’air plus bruyamment encore que la première fois. </p>
+        <p> — Ce pêcheur qui l’accompagne est un gaillard bien habile. Voilà deux ou trois fois que je lui vois prendre des poissons gros comme le bras. Pour un pêcheur, ça n’est pas naturel. Il a un paquet dans son mouchoir ; que diable peut-il y avoir dans son paquet ? </p>
+        <p> Et le capitaine Montane, pressant le pas, tira Quenzius par son manteau. </p>
+        <p> Quenzius avait d’abord fait semblant de ne pas voir Montane : il fit semblant de ne pas le sentir. </p>
+        <p> Mais Montane tira si fort, que Quenzius fut bien forcé de se retourner. </p>
+        <p> — Ah ! c’est vous, monsieur Montane ? dit-il en souriant. Enchanté de vous voir ! </p>
+        <p> — Moi aussi, monsieur Quenzius. </p>
+        <p> Quenzius voulut continuer son chemin ; mais ce n’était pas l’affaire de Montane. </p>
+        <p> — Où allez-vous donc comme cela ? demanda-t-il. </p>
+        <p> — Droit devant nous, comme vous voyez, répondit celui-ci. </p>
+        <p> — Alors vous n’êtes pas bien pressé. </p>
+        <p> — Très pressé, au contraire. </p>
+        <p> — Oh ! vous ne me refuserez pas néanmoins de manger un morceau avec moi. </p>
+        <p> — J’ai déjeuné, monsieur Montane. </p>
+        <p> — Alors, de boire un verre de porter ; nous avons justement, à vingt pas d’ici, une taverne où l’on vend d’excellent porter. </p>
+        <p> Chacun a son défaut : le défaut de Quenzius était d’aimer le porter. </p>
+        <p> — D’excellent porter ? répéta-t-il. </p>
+        <p> — J’ai dit excellent, et je ne m’en dédis pas ; un douanier regarde plutôt deux fois qu’une entre ses doigts tout ce qui doit passer entre ses dents. </p>
+        <p> Quenzius avait déjà fait un temps d’arrêt, quand la commission que lui avait donnée maître August lui revint à la pensée. </p>
+        <p> — Non, je vous remercie, capitaine ; je suis tellement pressé, que je n’ai pas un moment à perdre, même dans votre agréable compagnie. </p>
+        <p> — Laissez donc, monsieur le secrétaire ! plume sèche n’écrit pas. Vous êtes pressé, dites-vous ! pour donner de l’agilité au pied, il faut donner de la pesanteur au ventre. </p>
+        <p> — J’avoue la vérité de ces deux proverbes, capitaine ; mais il n’en est pas moins vrai que je ne saurais vous accompagner. </p>
+        <p> — C’est grand dommage, mon cher Quenzius ; je voulais vous parler affaires. Je vais aujourd’hui à Vlam-huis. </p>
+        <p> — Vous irez inutilement, capitaine ; mon maître sera aujourd’hui toute la journée au moulin. Aujourd’hui, c’est le commencement du mois. </p>
+        <p> — Au moulin ? Aïe ! pensa Montane, le tonneau d’or roule de lui-même dans notre cave, il me semble. Maintenant, monsieur le caissier, vous pouvez aller où vous voudrez ; sans faire même la dépense d’une bouteille de bière, j’ai su de vous ce que je voulais savoir. </p>
+        <p> Et, lâchant le manteau de Quenzius, il le laissa libre de continuer son chemin. </p>
+        <p> Puis, appelant son digne acolyte : </p>
+        <p> — Cabaret, dit-il, suis ce drôle. – Il lui montrait Quenzius. – Fais signe, en même temps, à quatre ou cinq soldats de te suivre à leur tour. S’il tente, lui ou son compagnon, de mettre un bateau à la mer, arrête-moi ces drôles-là et conduis-les chez moi. Si tu rencontres d’autres soldats, envoie-les du côté du moulin pour prêter, en cas de besoin, main-forte à leurs camarades. </p>
+        <p> — Cela sera fait, capitaine, répondit Cabaret ; seulement, cela flaire le profit. </p>
+        <p> — Qui te dit qu’il n’y en aura pas, du profit ? </p>
+        <p> — Ah ! pour les chefs, il y en a toujours, du profit, et ce n’est pas celui-là qui m’inquiète. </p>
+        <p> — Sois tranquille, il y en aura pour tout le monde, répondit le capitaine en se frottant les mains. </p>
+        <p> Le soir, van Naarvaersen avec Élim et sa fille arrivèrent au moulin ; les matelots les y attendaient déjà depuis deux jours, et, lorsqu’il fit sombre, tout était prêt pour partir. </p>
+        <p> Van Naarvaersen tira sa montre : elle sonna cinq heures. </p>
+        <p> Élim se leva avec un profond soupir ; Jane, tout en pleurs, se jeta au cou de son père. </p>
+        <p> — Adieu, Élim, dit-elle, adieu pour toujours ; car vois-tu, j’ai un pressentiment que nous ne nous retrouverons jamais. </p>
+        <p> Élim baisa la main de la jeune fille. </p>
+        <p> — Chère Jane, dit-il en mouillant cette chère main de ses larmes, que Dieu m’écrase de sa colère si je tarde à revenir ici d’une façon ou de l’autre. </p>
+        <p> — Saperloot ! dit maître August en embrassant Élim, où vas-tu chercher de pareilles phrases ? Console-toi donc, capricieuse, puisque le nouveau printemps apportera de nouvelles fleurs. Enfin, continua-t-il en montant à cheval, c’est curieux, voyez cela. Hier, j’aurais juré que Jane ne saurait pas distinguer un coq d’une poule, et aujourd’hui. . . Saperloot ! </p>
+        <p> Comme c’était à lui-même que parlait maître August, il suffisait qu’il se comprît. </p>
+        <p> Il y avait deux chemins pour aller à la mer : l’un tout droit, c’était celui qu’avaient pris les naufragés ; l’autre faisant un coude et tournant par Helmond. </p>
+        <p> Nos voyageurs prirent ce dernier. </p>
+        <p> Élim marchait tout pensif : maître August, voyant que l’amoureux ne parlait pas, causait avec le guide, qui portait une lanterne. </p>
+        <p> Les cinq marins suivaient et parlaient à demi-voix. </p>
+        <p> — Que diable dirons-nous à nos camarades, quand nous reviendrons sur le vaisseau ? dit l’un d’eux. </p>
+        <p> — Que nous venons du royaume des grenouilles, attendu que les hommes vivent ici comme les grenouilles chez nous. </p>
+        <p> — Allons, dit un troisième, c’est mal de casser le verre quand on a bu. De quoi as-tu manqué ici ? Est-ce d’eau-de-vie ou de jambon ? Non, Dieu merci ! une bouchée n’était pas avalée, que tu mordais dans une autre ; le premier verre n’était pas bu, que le second était déjà versé. </p>
+        <p> — C’est vrai, répondit le premier, et ce serait péché que d’être mécontent. Nous étions servis à cœur que veux-tu : le pain était blanc comme du sucre, le fromage gros comme des pierres de taille ; et, tous les matins le café ! </p>
+        <p> — Ah ! quant à moi, reprit le second, je ne m’exténuerai pas à les remercier ! j’ai eu beau leur demander du pain noir, ils me répondaient toujours : Nix Gout. – Quant au café, ils le passaient dans un bas, nous donnant ce qui était clair et gardant le marc pour eux, les gourmands ! Pour le fromage, parlons-en, il n’y avait que des trous ! </p>
+        <p> — Chacun a son habitude, dit le sentencieux Yorsko, et l’on ne va pas avec ses règles dans les couvents des autres. Quant à moi, si j’ai bien faim un jour, je penserai aux maîtres dîners que je mangeais chez l’honnête homme qui marche devant vous, et je réponds que je serai rassasié de souvenir. </p>
+        <p> — C’est cela, les paresseux ont toujours le carnaval en tête, reprit le second. Il est bon d’être en visite ; mais, au bout du compte, on est toujours mieux chez soi. </p>
+        <p> — N’importe ! que Dieu nous permette de revoir nos camarades, dirent les marins en doublant le pas. </p>
+        <p> Le ciel sembla d’abord exaucer ce vœu. Ils arrivèrent sans accident à l’endroit désigné pour l’embarquement. La mer était noire mais calme ; le rivage semblait solitaire. </p>
+        <p> — Godzy met ons ! dit le guide en frappant dans sa main, il devait nous attendre là. </p>
+        <p> — Saperloot ! fit maître August. </p>
+        <p> — Es-tu sûr de l’endroit ? demanda Élim. </p>
+        <p> — Comme de mon Pater, dit le guide. </p>
+        <p> On fit quelques pas le long du rivage ; mais on ne trouva ni pêcheur ni bateau. </p>
+        <p> Maître August perdit toute patience : une parole manquée était pour lui pire que le vol, pire qu’un crime. </p>
+        <p> — Saperloot ! s’écria-t-il, je les rosserai tous. Prendre l’argent et ne pas être exact ! Je les chaufferai si bien, que mes ducats fondront dans leurs poches. Maudits ivrognes ! Je parie qu’ils sont au cabaret. </p>
+        <p> Mais toutes ces exclamations n’avançaient point l’affaire, et la situation d’Élim et de ses matelots devenait de plus en plus critique. </p>
+        <p> Maître August envoya le guide sur le cheval d’Élim pour explorer le rivage à gauche, tandis que lui-même allait à la cabane du pêcheur. </p>
+        <p> Pendant ce temps, Élim, resté seul avec ses hommes, leur proposa de se mettre en quête de leur côté. Il partit, suivant la plage dans la direction opposée à celle du guide, espérant rencontrer le bateau qui devait les prendre, ou en trouver un autre à louer. </p>
+        <p> En approchant de l’endroit où pour la première fois il avait été jeté par la tempête, il remarqua quelque chose de blanc. </p>
+        <p> Il posa la main sur l’épaule de Yorsko, qui le suivait, et, étendant l’autre dans la direction de l’objet qui attirait ses regards : </p>
+        <p> — Vois, lui dit-il. </p>
+        <p> — Si je n’étais pas sûr que notre bateau est brisé, mon lieutenant, je vous dirais : Il est sorti de la mer comme un veau marin et il dort sur le rivage ; mais, dans tous les cas, si ce n’est pas lui, c’en est un autre. </p>
+        <p> — Doucement et silence, enfants ! dit Élim : il me semble que j’y vois des hommes couchés. </p>
+        <p> — Non seulement ils sont couchés, mais ils dorment, dit un des matelots ! je les entends qui ronflent. </p>
+        <p> — Et pas de sentinelles, dit Élim joyeux. </p>
+        <p> — Pas de sentinelles, répondirent les marins. </p>
+        <p> — Alors, dit Élim en baissant encore la voix, entourons-les et faisons-les prisonniers ; ne tuons que si nous ne pouvons pas faire autrement. </p>
+        <p> Les marins se séparèrent, enveloppèrent la petite barque, et se jetèrent sur les dormeurs. Ceux-ci furent garrottés et bâillonnés avant d’être réveillés. </p>
+        <p> On retira le bâillon de celui qui semblait le chef. </p>
+        <p> — Qui êtes-vous ? lui demanda Élim en allemand. </p>
+        <p> — Nous sommes des douaniers hollandais, répondit le prisonnier. </p>
+        <p> — Quel est votre capitaine ? </p>
+        <p> — M. Montane. </p>
+        <p> — Vieille connaissance, et que faites-vous là ? </p>
+        <p> — Je ne sais pas. Quatre d’entre nous ont fait une pointe dans le pays, par l’ordre du capitaine, et nous sommes restés à garder le bateau. </p>
+        <p> — Merci de l’avoir gardé pour nous, dit Élim. </p>
+        <p> — Lieutenant, dit Yorsko, la barque est parée et n’attend plus que vous. </p>
+        <p> — Portez cet homme et les armes au fond du bâtiment, dit Élim. Les autres peuvent rester où ils sont ; quand le capitaine Montane viendra, probablement serons-nous déjà loin. Tout est prêt, dis-tu, Yorsko ? </p>
+        <p> — Tout, lieutenant. </p>
+        <p> — Alors, la prière, et ramons. </p>
+        <p> La prière était finie, les rames étaient levées, lorsqu’il sembla à Élim qu’un faible cri d’appel traversait l’espace et venait jusqu’à lui. </p>
+        <p> — Stoï ! dit-il à Yorsko en lui posant la main sur l’épaule. </p>
+        <p></p>
+      </div>
+      <div title="Chapitre 9 La fuite" type="chapter">
+        <p> Chapitre 9 </p>
+        <lb/>
+        <p> La fuite </p>
+        <p>PENDANT QUE LE GUIDE errait au bord de la mer, que maître August cherchait la maison du pêcheur, et qu’Élim s’emparait si heureusement de la barque, disons un mot de ce qui se passait au moulin, où nous avons vu arriver les naufragés au commencement de cette histoire. </p>
+        <p> Jane y était restée avec toute sa douleur. </p>
+        <p> La pauvre enfant aimait pour la première fois comme pour la première fois on aime. Ce cœur jeune et pur avait reçu sa nouvelle forme de la puissante main de l’amour, et, pour la lui faire perdre, il eût fallu le briser comme on brise un verre. </p>
+        <p> En entrant dans la seconde chambre, celle-là même où son père avait failli être assassiné par les bandits, elle était tombée sur une chaise et y était restée immobile et muette, comme la statue de l’Abattement, ne révélant son existence que par des larmes qui coulaient de ses yeux. </p>
+        <p> Tout à coup, Quenzius entra, haletant, effaré, plus pâle qu’un mort. </p>
+        <p> — Où est votre père, mademoiselle Jane ? cria-t-il, où est votre père ? </p>
+        <p> — Là où je voudrais être, répondit Jane sans faire attention à la voix émue de Quenzius, sans remarquer l’effroi qui se peignait sur son visage. </p>
+        <p> — Au nom du grand-livre, s’écria celui-ci, dites-moi par quel chemin est parti votre père ? </p>
+        <p> — Je ne sais. </p>
+        <p> — Il faut que je le sache, moi ! il est en danger. </p>
+        <p> — En danger, mon père ? s’écria Jane, que les paroles de Quenzius venaient enfin de frapper au cœur. Que dis-tu, Quenzius ? mon père ! Pourquoi ? </p>
+        <p> — Ah ! mademoiselle ! mademoiselle ! imaginez-vous que le bourgmestre van Kempenaar van Driel. . . </p>
+        <p> — Eh ! qu’ai-je à faire de ton bourgmestre, Quenzius ? N’entends-tu pas que je te demande comment mon père est en danger ? </p>
+        <p> — Montane nous a tous dénoncés au bourgmestre, mademoiselle. </p>
+        <p> — Tous ! qui, tous ? </p>
+        <p> — Eh bien, vous, votre père, les Russes, M. Élim. Il a dit que votre père était un traître qui avait des relations avec les ennemis, et qui avait promis aux Russes et aux Anglais de leur livrer la forteresse. </p>
+        <p> — Après ? </p>
+        <p> — Après ? Le bourgmestre a ordonné de prendre votre père, de le mettre en prison et de le juger. </p>
+        <p> — Mettre en prison mon père ! le juger ! le fusiller peut-être ! Oh ! notre malheur et bien complet ! </p>
+        <p> — Hélas ! dit Quenzius, en levant ses bras et son nez au ciel. </p>
+        <p> — Eh bien, que faites-vous là, monsieur ? s’écria Jane. Mais courez donc, mais volez donc à la recherche de mon père ! Prévenez-le, pour qu’il parte, pour qu’il se réfugie à l’étranger. Qu’il parte. . . A-t-il de l’argent ? Prenez ces diamants, ces perles. </p>
+        <p> — J’ai pris chez le banquer tout ce qu’il faut ; seulement, je n’ai pas eu le temps de l’écrire sur le grand-livre au débit de maître August ; mais, s’il m’arrive malheur, vous l’écrirez, vous, mademoiselle. . . Dix mille ducats neufs. </p>
+        <p> — Mais allez donc, malheureux ! cria Jane en poussant Quenzius. Que mon père parte, entendez-vous ! qu’il parte, et qu’il ne s’inquiète pas de ma mère ni de moi. On ne fera rien à deux femmes. </p>
+        <p> — Dieu le veuille, mademoiselle ! dit Quenzius en grimpant sur le cheval de cabriolet et en disparaissant dans l’obscurité comme le fantôme d’un géant. </p>
+        <p> Jane resta écrasée. Son amour pour son père lui avait fait momentanément oublier même Élim. </p>
+        <p> Elle resta seule avec le meunier et sa femme, ou plutôt seule avec sa douleur. </p>
+        <p> Une heure après, on frappait à la porte. </p>
+        <p> — Ouvrez ! cria une voix rude, ouvrez, au nom de l’empereur ! </p>
+        <p> Rien ne répondit. </p>
+        <p> — Cap de Diou ! dit la même voix, on sait que vous êtes là. Ouvrez donc, ou nous nous conduirons vis-à-vis de vous comme envers des révoltés, et nous mettrons le feu à la maison. </p>
+        <p> — MynGod ! s’écria le meunier, c’est la voix de ce même brigand qui a déjà voulu nous assassiner, Peter. </p>
+        <p> — Je t’entends, vieille sorcière ! s’écria Cabaret ; ouvre, ou nous brisons les portes. </p>
+        <p> — Ah ! mademoiselle, que faire ? dit la meunière à Jane, qui, entendant ce bruit, paraissait sur le seuil de la cuisine. Nous sommes perdus avec tout ce que nous avons. </p>
+        <p> — Ce que nous avons, dit le meunier, bon ! le maître nous le rendra toujours au centuple ; mais nous, mais mademoiselle. . . </p>
+        <p> — Oh ! je mourrais plutôt que de tomber entre les mains de ce bandit ! s’écria Jane. Peter, défends la porte aussi longtemps que tu pourras. Moi, je me sauve, et je tâche de rejoindre les nôtres. </p>
+        <p> — Mademoiselle, mademoiselle, prenez garde aux canaux ! </p>
+        <p> — Est-ce que je n’ai pas été élevée ici ? est-ce que je ne connais pas le moindre ruisseau ? </p>
+        <p> Et, saisissant son coffre à bijoux, Jane sauta par une fenêtre basse qui communiquait avec le jardin, lequel communiquait lui-même avec la mer. </p>
+        <p> Elle était déjà sur la plage lorsque les portes tombèrent sous les coups des bandits. </p>
+        <p> Sans s’arrêter, sans savoir où elle allait, Jane courut le long du rivage. La crainte lui donnait des forces, l’espoir de rejoindre Élim attachait des ailes à ses pieds. </p>
+        <p> Seulement, tout en courant, elle criait : </p>
+        <p> — Mon père ! Élim ! </p>
+        <p> Enfin, il lui sembla qu’elle apercevait quelque chose au bord de la mer, comme un bateau et des hommes qui s’y mouvaient. Mais sa voix s’éteignait dans sa poitrine haletante. Il lui semblait qu’elle était poursuivie, et cependant elle n’était plus qu’à quelques enjambées du bord ; malheureusement, le bateau s’éloignait. </p>
+        <p> Un pas de plus lui était impossible ; l’haleine lui manquait. Elle rassembla toutes ses forces pour crier une dernière fois : </p>
+        <p> — Mon père ! Élim ! </p>
+        <p> Et elle tomba évanouie sur la plage. </p>
+        <p> Ceux qui la poursuivaient n’étaient plus qu’à cent pas d’elle. </p>
+        <p></p>
+      </div>
+      <div title="Chapitre 10 Le doigt de Dieu" type="chapter">
+        <p> Chapitre 10 </p>
+        <lb/>
+        <p> Le doigt de Dieu </p>
+        <p> C ’ÉTAIT CE DERNIER CRI qu’avait entendu Élim.  — Sciez, enfants ! dit-il, sciez !  Les rames frappèrent le flot à l’inverse et le bateau se rengagea sur le sable. </p>
+        <p> — Arrêtez ! criait une voix qui allait se rapprochant, arrêtez, ou nous faisons feu ! </p>
+        <p> — À moi, mes amis, dit Élim. Un seul pour garder le bateau ; à moi tous les autres. </p>
+        <p> Et il sauta à terre, un pistolet à chaque main. </p>
+        <p> À vingt pas, il trouva Jane immobile et étendue comme un cadavre. </p>
+        <p> Il la prit dans ses bras et l’emporta vers le bateau. </p>
+        <p> Mais Jane était poursuivie de près. Élim se retourna. À deux pas de lui était Cabaret, devançant ses compagnons. </p>
+        <p> — Arrête, toi-même, ou tu es mort ! s’écria Élim. </p>
+        <p> Le bandit s’arrêta ; seulement ce fut pour porter la carabine à son épaule. </p>
+        <p> Mais, avant que la joue eût appuyé sur la crosse, Élim faisait feu, un éclair brillait dans l’obscurité, et Cabaret, frappé au cœur par la balle du lieutenant, roulait sur le sable. </p>
+        <p> Élim sauta dans le bateau. </p>
+        <p> — Et maintenant, ramez, enfants ! ramez comme pour entrer en paradis ! il s’agit non seulement de notre vie, mais encore de la sienne. </p>
+        <p> — La jeune maîtresse ! s’écria Yorsko. Bien joué, lieutenant ! </p>
+        <p> — Feu ! cria une voix du rivage, en indiquant la barque, qui s’éloignait rapide comme un oiseau de mer attardé. </p>
+        <p> Les balles se perdirent dans les ténèbres ; une d’elles seulement, en frappant la mer, fit jaillir l’eau jusqu’au visage de Jane. </p>
+        <p> — Merci pour l’honneur que vous nous faites, messieurs ! cria Yorsko. </p>
+        <p> L’eau que la balle avait fait jaillir, en retombant sur le visage de Jane, fit rouvrir les yeux de la jeune fille. </p>
+        <p> Elle était dans les bras de son amant. </p>
+        <p> — Élim ! cher Élim ! cria-t-elle. </p>
+        <p> Et leurs lèvres se rencontrèrent. Le baiser fut long et tendre ; les pauvres enfants s’étaient crus séparés pour toujours, et voilà que le doigt de Dieu les réunissait. </p>
+        <p> Tout à coup, Élim sentit qu’on lui touchait l’épaule. C’était Yorsko. </p>
+        <p> — Eh bien ? demanda Élim. </p>
+        <p> — Comment ! vous ne voyez pas ?. . . </p>
+        <p> — Quoi ? </p>
+        <p> — Qu’on ne voit plus rien, lieutenant. </p>
+        <p> En effet, un brouillard épais venait de se répandre à la surface de la mer. </p>
+        <p> — Pas un coup de rame de plus ! j’entends les brisants. </p>
+        <p> Les matelots s’arrêtèrent. Élim posa Jane sur le banc, et se souleva pour écouter. </p>
+        <p> — Les brisants sont à droite, dit-il. </p>
+        <p> — Et, à gauche, lieutenant, dit Yorsko, entendez-vous ? </p>
+        <p> En effet, des deux côtés on entendait ce bruit sourd que font les vagues en se heurtant sur les rochers. </p>
+        <p> Élim regarda Jane avec terreur. </p>
+        <p> — Nous nous sommes égarés, lieutenant ? demanda un des matelots. </p>
+        <p> — Non, dit Élim ; au contraire, je sais trop bien ou nous sommes. </p>
+        <p> — Il y a sans doute une passe, dit Yorsko. </p>
+        <p> — C’est possible, fit Élim ; mais qui nous l’indiquera ? </p>
+        <p> — Ce douanier qui est couché là au fond, dit Yorsko. Il me semble que, depuis qu’il se promène sur la côte, il doit la connaître. </p>
+        <p> — Tu as, par ma foi, raison, Yorsko. Débâillonnez-le, mais sans lui délier ni les mains ni les pieds. </p>
+        <p> Puis, se tournant vers la jeune fille : </p>
+        <p> — N’aie pas peur, ma Jane, lui dit-il. </p>
+        <p> — De quoi veux-tu que j’ai peur, Élim ? Ne suis-je pas sûre de mourir avec toi ? </p>
+        <p> On débâillonnait le douanier. </p>
+        <p> — Les brisants ! les brisants ! s’écria-t-il dès qu’il eut recouvré la parole. </p>
+        <p> — Bon ! il en a peur, dit Élim. – Eh bien, oui, les brisants ! </p>
+        <p> — Mais il y a une passe, reprit le douanier, dont la terreur augmentait au fur et à mesure que le bruit devenait plus sensible. </p>
+        <p> — Es-tu capable de la trouver, la passe ? dit Élim. Je te promets non seulement la liberté, mais encore cent ducats de récompense. </p>
+        <p> — Les yeux bandés, je la trouverais bien, lieutenant. </p>
+        <p> — Déliez-lui les mains et cédez-lui le gouvernail. </p>
+        <p> On délia les mains du douanier ; il s’assit au gouvernail. </p>
+        <p> Élim s’assit près de lui et arma son second pistolet. </p>
+        <p> — Au premier mouvement que tu fais pour nous ramener à la côte, lui dit-il, tu es mort. </p>
+        <p> — Bien, bien, dit le douanier visiblement effrayé du bruit des vagues contre les rochers et en appuyant le gouvernail à tribord, nagez, nagez ferme ! </p>
+        <p> Élim répéta le commandement en russe. </p>
+        <p> Les matelots se courbèrent sur leurs rames. La petite barque vola à la surface de la mer. </p>
+        <p> — Pas trop près de la côte ! cria Élim. </p>
+        <p> — Mais voyez donc à bâbord, lui dit le douanier. </p>
+        <p> En effet, une longue ligne d’écume brillait au milieu de l’obscurité ; et, comme le brouillard était épais, il était évident que la barque côtoyait les brisants à vingt pas à peine. </p>
+        <p> — Il sera impossible de tenir la pleine mer dans une barque par un vent pareil, lieutenant Élim, dit un matelot. </p>
+        <p> — Aimes-tu mieux retourner à terre et tomber dans les mains des Français ? répliqua Élim. </p>
+        <p> Puis, se tournant vers le pilote : </p>
+        <p> — Courage ! lui dit-il. </p>
+        <p> — Je joue ma peau en même temps que la vôtre, répondit le douanier ; vous pouvez donc être tranquille, je ferai de mon mieux. </p>
+        <p> C’était la meilleure réponse qu’il pût donner. </p>
+        <p> Élim reprit Jane dans ses bras et l’enveloppa dans son manteau, sous prétexte de la garantir du froid, mais, en réalité pour lui cacher le danger. </p>
+        <p> Moins résigné qu’elle, il se disait que ce serait un sort cruel que celui qui les eût réunis un instant pour les séparer à jamais. </p>
+        <p> Mais il avait gardé l’usage de la vue et ne quittait pas cette ligne d’écume dont le bruit incessant remplissait ses oreilles de terreur. </p>
+        <p> Enfin, il lui sembla qu’il y avait une interruption dans cette ligne et que, sur une largeur de trois ou quatre encablures, la mer avait son mouvement naturel. </p>
+        <p> — La passe, dit-il au douanier. </p>
+        <p> — Sacrebleu ! je la vois bien, répondit celui-ci. </p>
+        <p> Et il appuya la barre à bâbord. </p>
+        <p> La petite embarcation obéit au gouvernail comme un cheval bien dressé à la bride, et en un instant elle eut dépassé la ligne des rochers et se trouva en pleine mer. </p>
+        <p> Mais le danger était pire, peut-être ; la brise était forte, et, comme l’avait dit Yorsko, il était impossible de tenir la mer dans une pareille embarcation. </p>
+        <p> En même temps, le brouillard devenait plus épais. </p>
+        <p> — J’ai fait tout ce qui dépendait de moi, dit le douanier découragé ; maintenant, tuez-moi si vous voulez, mais je ne puis faire davantage. </p>
+        <p> — C’est vrai, dit Élim presque aussi découragé que lui. </p>
+        <p> Et, serrant Jane sur son cœur, il laissa retomber avec un soupir sa tête sur la tête de l’enfant. </p>
+        <p> Il était évident pour lui que, dans ce frêle canot, ils ne feraient pas un quart de lieue en mer sans être submergés. </p>
+        <p> Tout à coup, Élim releva la tête ; il venait d’entendre le bruit lointain d’une cloche. </p>
+        <p> Nulle part comme en mer et pendant la nuit, un son de cloche ne se fait entendre. On dirait un oiseau aux ailes de bronze qui rase les flots. </p>
+        <p> — Une, deux, trois, compta Élim. </p>
+        <p> Et le dernier coup laissa après lui une longue vibration. </p>
+        <p> — Ce bruit-là ne vient pas de la terre, lieutenant ! la terre est trop loin, dit Yorsko. </p>
+        <p> Une idée illumina l’esprit d’Élim ; il se tourna vers le pilote ; le regard du Hollandais brillait de joie, fixé dans la direction du bruit. </p>
+        <p> — Je comprends, lui dit Élim ; nous sommes dans le voisinage de ton sloop, c’est lui qui vient de piquer l’heure. </p>
+        <p> — Probablement, dit le Hollandais. </p>
+        <p> — Combien d’hommes ? demanda Élim. </p>
+        <p> — Assez pour vous pendre aux vergues, tous tant que vous êtes, en guise de lanternes. </p>
+        <p> — Dans tous les cas, tu ne jouiras pas de ce spectacle, mon ami, dit Élim, attendu que tu seras mort auparavant. </p>
+        <p> Alors, fronçant le sourcil et lui appuyant le pistolet sur la tempe : </p>
+        <p> — Combien d’hommes ? répéta-t-il. </p>
+        <p> — Douze, répondit laconiquement le douanier, en voyant que le jeune lieutenant ne plaisantait pas. </p>
+        <p> — Très bien, dit Élim. </p>
+        <p> Puis, se tournant vers les matelots : </p>
+        <p> — Mes amis, dit-il, le bon Dieu nous envoie un bâtiment qui tiendra la mer, lui. Il ne s’agit plus que de le prendre. </p>
+        <p> — En ce cas, lieutenant, c’est fait, répondit Yorsko. </p>
+        <p> — Douze hommes d’équipage. </p>
+        <p> — Ils ne sont pas avertis, nous le sommes. Le proverbe dit qu’un homme averti en vaut deux ! nous sommes donc douze contre douze. . . Il n’y a que la jeune maîtresse, ajouta Yorsko en faisant un signe de tête et en désignant Jane. </p>
+        <p> — Un de vous la gardera. </p>
+        <p> — Alors nous ne serons plus que cinq, c’est-à-dire que dix contre douze ; mais bah ! les douaniers – et des douaniers hollandais ! – fit Yorsko. </p>
+        <p> Tout cela se disait en russe, de sorte que Jane n’en pouvait rien entendre. </p>
+        <p> — Enfants, continua Élim s’adressant aux matelots, vous avez compris, n’est-ce pas ? vous jouez gros jeu ; mais, devant cette parole : – il faut ! – nul de vous ne reculera, je l’espère. D’ailleurs, je vous montrerai le chemin et vous me suivrez. </p>
+        <p> — À travers l’eau comme à travers le feu, en paradis comme en enfer ! répondirent les marins d’une seule voix. </p>
+        <p> — Merci, enfants ! avec vous je prendrais la lune. Examinez les fusils, et, dès que nous aurons accosté le sloop, sautez dessus et tuez tout ce qui résistera. </p>
+        <p> Puis, se retournant vers le douanier pilote : </p>
+        <p> — Et toi, lui dit-il, tu sais nos convictions. </p>
+        <p> — Nagez ! dit le pilote. </p>
+        <p> Et il donna au gouvernail la direction nécessaire. </p>
+        <p> Au bout de quelques minutes, on aperçut le bâtiment, qui se balançait tranquillement sur les vagues. </p>
+        <p> À bord, se promenait une seule sentinelle. </p>
+        <p> Élim vit, au mouvement qu’elle fit, qu’on était découvert. </p>
+        <p> — Attention ! dit-il en appuyant de nouveau son pistolet contre la tempe du pilote. </p>
+        <p> — Qui vive ? cria la sentinelle. </p>
+        <p> — Réponds, dit Élim. </p>
+        <p> — Le diable à quatre ! cria le douanier. </p>
+        <p> — Bon diable ! murmura la sentinelle, bon diable ! </p>
+        <p> Et, se retournant sans soupçon aucun, elle appela l’officier. </p>
+        <p> — Est-ce que je vais te quitter, Élim ? dit la jeune fille effrayée. Oh ! je ne veux pas, ne fût-ce que pour un instant. </p>
+        <p> — Eh bien, cramponne-toi à mon cou ! nous y sommes. </p>
+        <p> En effet, la barque avait accosté le sloop. Élim enveloppa Jane d’une main, de l’autre se cramponna à un cordage, et sauta le premier sur le pont du sloop. </p>
+        <p> Les cinq marins russes suivirent leur lieutenant. </p>
+        <p> La sentinelle voulait crier ; elle ouvrit la bouche et elle la referma dans l’eau. </p>
+        <p> Les Russes étaient maîtres du pont. </p>
+        <p> Élim prit sa bourse et la jeta au douanier resté dans le canot. </p>
+        <p> — Tiens, lui dit-il, un Russe n’a que sa parole. Voici d’abord ton argent ; ta liberté, tu l’as, et, quant à ta vie, cela te regarde, l’ami ; tu as bien trouvé ton chemin pour venir, tu le trouveras bien pour t’en aller. </p>
+        <p> Puis, s’adressant à ses hommes, sans s’inquiéter du douanier, qui, une rame à chaque main, s’éloignait déjà du bâtiment : </p>
+        <p> — Amis, dit-il, fermez solidement l’écoutille des matelots, je me charge de celle des officiers. </p>
+        <p> — Où vas-tu ? demanda Jane. </p>
+        <p> — Faire, selon toute probabilité, une visite au capitaine Montane, dit Élim ; mais, comme il est garçon, les femmes ne peuvent pas se présenter chez lui. Assieds-toi donc là et attends-moi. </p>
+        <p> Rassurée par le ton de plaisanterie qu’affectait son amant, Jane fit ce qu’il désirait. </p>
+        <p> Élim l’enveloppa de son manteau ; il ne voulait pas, l’égoïste fiancé, perdre une feuille de rose des joues de la jeune fille. </p>
+        <p> Puis il descendit doucement par l’escalier des officiers, et, guidé par une voix, se dirigea vers la porte de la cabine. Élim s’assura que la clef était en dehors, et, baissant la tête, il appliqua son œil au trou de la serrure. </p>
+        <p> Il ne s’était pas trompé : le capitaine, assis à table avec deux de ses lieutenants, buvait à plein verre le champagne. </p>
+        <p> — Ah ! capitaine, disait un lieutenant, c’est affaire à vous, parole d’honneur ! </p>
+        <p> — À la santé de mademoiselle Jane ! dit l’autre. </p>
+        <p> — À la santé de Jane, répéta le capitaine en appuyant sur le nom de baptême dépouillé de son escorte. Merci, messieurs. </p>
+        <p> Et les trois douaniers vidèrent leurs verres. </p>
+        <p> — Va chercher tes camarades, dit Élim à Yorsko. </p>
+        <p> — Je comprends, dit celui-ci. </p>
+        <p> Et il s’éloigna sur la pointe du pied. </p>
+        <p> Élim continua de regarder et d’écouter. </p>
+        <p> Le capitaine déboucha une troisième bouteille. </p>
+        <p> — Et le bien-aimé, demanda un des lieutenants, qu’en faites-vous, capitaine ? </p>
+        <p> — Ah ! lui, c’est autre chose, dit Montane avec son mauvais sourire ; lui, on me l’amène ici bien lié et bien garrotté ; après quoi, pour qu’il ne nous vienne pas ennuyer de ses doléances amoureuses, nous l’expédions en France. </p>
+        <p> — Nous sommes là, mon lieutenant, dit Yorsko. </p>
+        <p> — Bien, répondit Élim ; silence ! et agissez selon que vous me verrez agir. </p>
+        <p> — Eh bien, capitaine, dit un des lieutenants, soyons généreux. </p>
+        <p> — Je ne demande pas mieux, dit le capitaine. </p>
+        <p> Et, se renversant sur sa chaise avec un air plein de fatuité : </p>
+        <p> — Dites, lieutenant, dites. </p>
+        <p> — À la santé du pauvre amoureux ! C’est bien le moins que vous lui deviez, capitaine. </p>
+        <p> — Ah ! cap de Diou, comme dit Cabaret, c’est une bonne idée ! s’écria Montane. À la santé du pauvre amoureux, comme vous avez dit ; et je n’ai qu’un regret : c’est qu’il ne soit pas là pour nous faire raison. </p>
+        <p> — Que votre désir soit comblé, capitaine, dit Élim en ouvrant la porte. Il y est. </p>
+        <p> Les trois douaniers regardèrent, stupéfaits, le nouveau venu, qui sortait on ne sait d’où. </p>
+        <p> Élim s’avança jusqu’à la table, remplit un verre, et le levant au-dessus de sa tête : </p>
+        <p> — À la santé du pauvre amoureux ! répéta-t-il. </p>
+        <p> Puis, se retournant vers les marins : </p>
+        <p> — Criez hourra, vous autres, leur dit-il en russe. </p>
+        <p> Les marins crièrent hourra d’une seule voix. </p>
+        <p> Élim vida son verre. </p>
+        <p> — Eh bien, messieurs, dit-il, vous ne buvez pas ? </p>
+        <p> Le capitaine Montane, qui avait reconnu Élim, tremblait tellement, que son verre se vidait tout seul. </p>
+        <p> Les deux autres officiers, ne pouvant comprendre ce qui se passait, posèrent leurs verres sur la table et portèrent la main à leur épée. </p>
+        <p> — Pas de résistance, messieurs, dit Élim ; nous sommes maîtres de votre bâtiment, et, si vous en doutez, en voici la preuve : entrez, mes braves ! </p>
+        <p> Les cinq matelots entrèrent, le fusil à la main. </p>
+        <p> — Capitaine, dit Élim s’adressant à Montane, voilà un de ces tours comme nous en joue parfois la destinée : au lieu que ce soit vous qui me teniez, c’est moi qui vous tiens ; au lieu que ce soit moi qui aille me promener en France, c’est vous qui irez faire un tour en Russie ; mais vous n’êtes pas malheureux, vous y arriverez pour le traînage. Vos armes, messieurs. </p>
+        <p> Il n’y avait pas de résistance à faire ; les trois officiers rendirent leurs épées. </p>
+        <p> — Yorsko, continua Élim, conduis ces messieurs dans la cabine du lieutenant, nous avons besoin de celle-ci pour une dame. </p>
+        <p></p>
+      </div>
+      <div title="Chapitre 11 Le mariage forcé" type="chapter">
+        <p> Chapitre 11 </p>
+        <lb/>
+        <p> Le mariage forcé </p>
+        <p>ON SAIT POUR QUELLE dame était la cabine.  À peine Jane y fut-elle installée, qu’Élim, s’emparant du commandement du sloop, ordonna de lever l’ancre.  — Si nous coupions le câble tout simplement ? dit Yorsko. </p>
+        <p> — Tu as raison, ce sera plus tôt fait. </p>
+        <p> Yorsko prit une hache, coupa le câble, et le navire dériva. </p>
+        <p> Mais, presque aussitôt, au commandement d’Élim, les voiles se déploient, le vent qui soufflait de terre les arrondit, et le petit bâtiment, quoique d’une construction assez lourde, fend sans difficulté la mer. </p>
+        <p> Au point du jour, Élim aperçut la ligne des vaisseaux formant le blocus. </p>
+        <p> Un petit cutter de service qui, chaque nuit, servait de mouche à la flotte, vint à lui. </p>
+        <p> Le jeune officier qui commandait le cutter vit, à la coupe du bâtiment et à sa voilure, qu’il était hollandais. Il fit feu sur lui de son unique canon. </p>
+        <p> Et, l’alarme donnée, il se hâta de regagner la flotte. </p>
+        <p> En un instant, toutes les batteries de la flotte furent éclairées par des lanternes. </p>
+        <p> Élim prit un porte-voix et cria : </p>
+        <p> — Ne tirez pas, je suis Russe, et j’amène un bâtiment hollandais ! </p>
+        <p> Mais sa voix se perdit dans l’espace. </p>
+        <p> Une lumière brilla au sabord du bâtiment le plus proche, et un boulet, ricochant à bâbord, fit voler l’eau jusque sur le pont. </p>
+        <p> — Mais que diable font-ils donc, Yorsko ? demanda Élim. </p>
+        <p> — Vous le voyez bien, lieutenant, ils tirent sur nous. </p>
+        <p> — Mais ils vont nous couler ! </p>
+        <p> — Dans dix minutes, ce sera fait, lieutenant, si. . . </p>
+        <p> Un second boulet coupa la parole à Yorsko, en même temps que la grande vergue. </p>
+        <p> — Si quoi ?. . . demanda Élim. </p>
+        <p> — Si vous ne changez pas de pavillon, lieutenant. </p>
+        <p> Élim leva la tête ; le pavillon hollandais flottait fièrement à la corne du sloop. </p>
+        <p> — Vous voyez bien, lieutenant, dit Yorsko, qu’ils croient que nous venons les prendre à l’abordage. </p>
+        <p> — Fou que je suis ! fit Élim. </p>
+        <p> Puis, se tournant vers ses hommes : </p>
+        <p> — Amenez le pavillon hollandais, et hissez ce mouchoir, dit-il. </p>
+        <p> Le pavillon hollandais fut amené et le mouchoir d’Élim prit sa place. </p>
+        <p> Avant que l’échange pût être opéré, un troisième boulet était venu s’enfoncer dans l’avent du sloop. </p>
+        <p> Mais, à la vue du mouchoir blanc, qui indiquait un bâtiment parlementaire, tout feu cessa. </p>
+        <p> Élim promena son regard sur la flotte et reconnut son bâtiment. </p>
+        <p> — Gouverne sur le Vladimir, Yorsko, dit-il ; tu dois être comme moi, pressé de rentrer à la maison. </p>
+        <p> Yorsko gouverna sur le Vladimir. </p>
+        <p> Il commençait à faire assez jour pour que l’on distinguât ce qui se passait sur la flotte. </p>
+        <p> Tous les équipages, éveillés par les quatre coups de canon qui venaient d’être tirés, étaient sur les ponts et dans les haubans. </p>
+        <p> On n’était pas moins curieux à bord du Vladimir, vers lequel semblait de préférence se diriger le sloop, que sur les autres bâtiments. </p>
+        <p> — Bon ! dit Élim, voilà Nicolas-Alexiovitch qui nous regarde avec sa lunette. </p>
+        <p> Puis, reprenant le porte-voix, il cria : </p>
+        <p> — Eh ! bonjour, Nicolas-Alexiovitch. </p>
+        <p> — Le diable m’emporte si ce n’est pas ce fou d’Élim ! dit le lieutenant. </p>
+        <p> — Élim, Élim, Élim ! crièrent vingt voix d’officiers. </p>
+        <p> — Le lieutenant Melosor ! dit l’équipage d’une seule voix. Hourra pour le lieutenant Melosor ! </p>
+        <p> — Accostez ! cria Élim aux matelots. </p>
+        <p> Ceux-ci, armés de gaffes à l’aide desquelles ils amortirent le choc, accrochèrent le sloop à la frégate. </p>
+        <p> — En vérité, mon cher Élim, dit Nicolas-Alexiovitch en tendant la main au jeune lieutenant, il faut que tu sois sorcier : tu tombes à l’eau, et tu ne te noies pas ; tu passes dans le feu, et tu ne te brûles pas. Nous t’avons cru archiperdu. Te voilà sain et sauf, sois le bien arrivé. </p>
+        <p> — Et je ne suis pas arrivé seul, dit Élim en tendant la main à Jane, que Yorsko soulevait entre ses bras. </p>
+        <p> — Ah ! ah ! dit maître Nicolas en apercevant la jeune fille. Cela ne m’étonne pas que nous t’ayons pris pour un brûlot. Il ne fallait que ces deux yeux-là pour faire sauter la flotte. </p>
+        <p> — Mon cher Nicolas, dit à son tour Élim, fais-moi le plaisir de donner le bras à madame jusqu’à ce que je me sois expliqué avec le capitaine. </p>
+        <p> Nicolas-Alexiovitch s’inclina devant Jane et lui présenta le bras. </p>
+        <p> Élim trouva le capitaine mettant le pied sur le premier degré de l’escalier qui conduisait de la cabine au pont. </p>
+        <p> Le capitaine jeta un cri de joie en reconnaissant Élim ; il aimait le jeune homme comme il eût aimé son enfant. </p>
+        <p> — C’est bien ! c’est bien ! dit-il lorsque Élim eut terminé son récit. Nous veillerons à ce qu’on te paie un bon prix le sloop que tu as amené. Mais dites-moi, monsieur le lieutenant, ajouta le capitaine d’un ton sévère, quelle est la dame qui vous accompagne ? </p>
+        <p> Le capitaine avait vu par sa fenêtre le transbordement de Jane. </p>
+        <p> Élim rougit et balbutia ; il connaissait l’expresse défense existant sur la flotte russe de recevoir des femmes à bord d’un bâtiment. </p>
+        <p> Alors il raconta ce que nous savons. Le capitaine écouta froidement le récit du jeune homme. </p>
+        <p> — Tout ce que vous me dites là, Élim-Paulovitch, est vrai, je n’en doute pas, répondit le capitaine ; mais votre dévouement pour vos camarades près de périr, votre retour avec un bâtiment ennemi, ont attiré sur vous les yeux de toute la flotte. Vous devez conserver votre nom pur de tout soupçon, Élim ; or, chacun aura droit de penser que vous avez inventé tout ce roman, pour coudre une liaison avec une personne indigne de vous. </p>
+        <p> — Capitaine !. . . s’écria le jeune homme en rougissant ; car la flamme de la colère lui montait au visage. </p>
+        <p> — Ne nous fâchons pas, Élim ; écoutez-moi, au contraire, tranquillement : plus vous vous fâcherez, et surtout vis-à-vis de moi, plus vous serez dans votre tort. Vous savez, n’est-ce pas ? que nos lois maritimes défendent d’avoir des femmes à bord en temps de guerre. Quel rapport voulez-vous que je fasse à l’amiral ? Sa première question sera : « Est-ce sa femme ou sa sœur ? » </p>
+        <p> Élim baissa la tête et garda le silence. </p>
+        <p> Le capitaine continua d’une voix plus douce : </p>
+        <p> — Supposons même, mon cher Élim, que cette affaire ne vous fasse aucun tort dans l’esprit des marins ; ne devez-vous pas penser à la réputation de cette pauvre enfant, qui aura d’autant plus à perdre sous ce rapport, qu’elle sera plus innocente ? Vous êtes maintenant son seul protecteur, Élim, et l’honneur d’une jeune fille est chose sainte. </p>
+        <p> — Que faire, capitaine ? dit tristement Élim. Dirigez-moi, conseillez-moi. </p>
+        <p> — Que je vous dirige, que je vous conseille, Élim ? </p>
+        <p> — Oh ! oui, oui, capitaine, je vous en supplie. </p>
+        <p> — Vous voulez que je vous parle comme si vous étiez mon fils ? </p>
+        <p> — Je vous le demande en grâce. </p>
+        <p> — Aimes-tu cette enfant, Élim ? demanda le capitaine. </p>
+        <p> — Je suis prêt à donner ma vie pour elle. </p>
+        <p> — T’aime-t-elle ? </p>
+        <p> — De toute son âme ! </p>
+        <p> — Feras-tu son bonheur ? </p>
+        <p> — Oh ! pour cela, capitaine, j’en réponds. </p>
+        <p> — As-tu le consentement de ses parents ? </p>
+        <p> — Elle est ma fiancée. </p>
+        <p> — Eh bien, mais alors, mon cher, épouse-la ! </p>
+        <p> — Si vite, capitaine ? demanda le jeune homme presque étouffé par la joie. </p>
+        <p> — À l’instant même ; je vous cède ma cabine, et je suis votre père-ami  1  . </p>
+        <p> — Oh ! mon bien bon, mon bien cher ami ! s’écria Élim en se jetant dans les bras du digne officier. </p>
+        <p> — Allons, dit le capitaine, voilà qui est arrangé. Va prévenir madame la mariée maintenant ! c’est bien le moins qu’elle sache la chose cinq minutes d’avance. </p>
+        <p> Élim remonta sur le pont, et, moitié riant, moitié pleurant, il arracha la jeune fille du bras de Nicolas-Alexiovitch et la serra sur son cœur. </p>
+        <p> — Mais qu’y a-t-il donc, Élim ? qu’y a-t-il donc ? demanda Jane. </p>
+        <p> — Il y a, ma chère Jane,. . . répondit Élim. Mon Dieu ! je ne puis croire à mon bonheur. </p>
+        <p> — Parle. </p>
+        <p> — Il y a que le capitaine exige que nous nous mariions sur-le-champ. </p>
+        <p> — Sur-le-champ ? répéta la jeune fille tout étourdie. </p>
+        <p> — Tu ne peux pas t’y refuser, Jane, c’est la loi. </p>
+        <p> — Mais je ne m’y refuse pas, dit la jeune fille en rougissant et en baissant les yeux. </p>
+        <p> — Oh ! tiens, tu es un ange ! </p>
+        <p> — Le prêtre attend les fiancés dans la cabine du capitaine, dit Yorsko, et je vous préviens, mon lieutenant, qu’il est pressé. </p>
+        <p> — Allons, répondit la jeune fille d’une voix presque inintelligible, tandis que son bras, frissonnant à celui d’Élim, parlait plus intelligiblement que sa voix. </p>
+        <p> Nicolas-Alexiovitch servit de père à la fiancée, et le capitaine au promis. </p>
+        <p> Tout l’équipage eut le droit de descendre dans l’entrepont et assista à une cérémonie qui, ayant lieu rarement à bord d’une frégate, y excitait la curiosité générale. </p>
+        <p> La bénédiction nuptiale donnée, on entendit aussitôt retentir les bouchons qui s’échappaient bruyamment des goulets des bouteilles de vin de Champagne. </p>
+        <p> C’était le canon qui célébrait le mariage. </p>
+        <p> Jane, toute rougissante, remercia les assistants et donna ses joues roses à baiser aux officiers du Vladimir. </p>
+        <p> — Et maintenant, dit le capitaine, vous devez être fatigués. Bonne nuit, mes enfants ! on vous éveillera pour dîner. </p>
+        <p> Et il sortit en fermant la porte. </p>
+        <p> Élim et Jane restèrent seuls. </p>
+        <p> Trois jours après le mariage d’Élim et de Jane, la flotte allait hiverner à Tchata. </p>
+        <p> La première personne que les jeunes époux rencontrèrent sur le quai fut maître August van Naarvaersen. </p>
+        <p> Élim et Jane se jetèrent dans ses bras en l’appelant tous deux mon père. </p>
+        <p> Le vieillard faillit mourir de joie ; il pleurait, il riait, caressait et grondait. </p>
+        <p> Mais il n’y avait pas à revenir sur les événements ; tout était fini, et pour le mieux. </p>
+        <p> On écrivit à la maîtresse, restée à la maison. </p>
+        <p> Une semaine après, Jane reçut une lettre de sa mère. </p>
+        <p> La bonne femme lui envoyait sa bénédiction ; mais elle ne pouvait s’empêcher d’exprimer à Jane le regret de ce qu’elle n’avait pu, pour le souper de noces, lui confectionner le fameux gâteau de pommes dont elle avait seule le secret. </p>
+        <p> Et ce qui, selon elle, était un malheur irréparable, c’était l’absence de ce fameux lit qui était dans la famille depuis cinq générations. </p>
+        <p> Jane riait et pleurait à son tour. </p>
+        <p> — Mon bon père, dit-elle, vous direz à ma mère. . . </p>
+        <p> — Que tu t’en es très bien passée, mon enfant, répondit le vieillard. </p>
+        <p> Jane regarda son mari et se jeta toute rougissante entre ses bras, tandis que celui-ci, par-dessus son épaule, serrait la main de maître August van Naarvaersen. </p>
+        <p> — Saperloot ! dit le vieillard, c’est trop bête de retenir ses larmes ; cela étouffe. </p>
+        <p> Et il se mit à pleurer franchement. </p>
+        <p> Par bonheur, c’était de joie. </p>
+        <p></p>
+        <p> 1.  Comme c’est surtout la nuit que les Cosaques vont en expédition, les Russes septentrionaux appellent la lune le soleil des Cosaques. </p>
+        <p> 1.  Nom qu’en Russie on donne au meilleur ami de la famille, qui sert de second père. </p>
+      </div>
+      <head/>
+    </body>
+    <back/>
+    <back/>
+  </text>
+</TEI>

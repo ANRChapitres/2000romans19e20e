@@ -1,0 +1,512 @@
+<?xml version='1.0' encoding='UTF8'?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> Madame Gil Blas, souvenirs et aventures d'une femme de notre temps </title>
+        <author from="1816" key="" name="Féval (père), Paul" sex="male" to="1887"/>
+        <edition n=""/>
+        <editor name="F. Schneider" where=""/>
+      </titleStmt>
+      <publicationStmt>
+        <date type="created" when="1856"/>
+        <date type="issued" when="1856"/>
+      </publicationStmt>
+      <editionStmt>
+        <profileDesc tag="non-canon" type="genre">
+          <textClass>
+            <keywords>
+              <term>cycles et séries</term>
+            </keywords>
+          </textClass>
+        </profileDesc>
+      </editionStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docAuthor/>
+        <docTitle>
+          <titlePart main="Madame Gil Blas, souvenirs et aventures d'une femme de notre temps,... par Paul Féval (1856)"/>
+          <titlePart sub=""/>
+        </docTitle>
+      </titlePage>
+    </front>
+    <body>
+      <div title="Livre VI." type="book">
+        <head> Livre VI. </head>
+        <div title="CHAPITRE Ier. Des opinions morales et thérapeutiques de la soeur Louise." type="chapter">
+          <head> CHAPITRE Ier. Des opinions morales et thérapeutiques de la soeur Louise. </head>
+          <p> Un matin, je vis le pâle soleil d’hiver qui glissait sur un paysage inconnu. J’étais couchée sur un lit de sangle dans une chambre proprette dont les deux croisées donnaient sur un vaste espace vide. </p>
+          <p> Au loin, derrière une rangée d’arbres dépouillés, s’élevaient de grands bâtimens que surmontait un dôme. </p>
+          <p> En me soulevant sur le coude, je pus voir qu’un canal me séparait des arbres et des constructions. </p>
+          <p> Mais c’était là un effort prématuré ; je retombai, brisée, et je m’endormis. </p>
+          <p> Deux voix me réveillèrent. On causait tout doucement auprès de mon lit. </p>
+          <p> Une main saisit mon poignet, et cela me fit ouvrir les yeux. </p>
+          <p> Je vis à mon chevet une vieille femme et un jeune homme portant l’habit noir et la cravate blanche. </p>
+          <p> Les convalescens sont comme les enfans, parce que la maladie refait à nos sens une sorte de virginité. </p>
+          <p> Ce que nous voyons au réveil d’une de ces grandes crises qui menacent l’existence nous frappe fortement. Notre esprit en conserve longtemps l’image minutieusement exacte et ressemblante. </p>
+          <p> Ma mémoire qui est excellente pourtant, a sans doute rejeté chemin faisant bien des détails ; mais tout ce que recueillit mon enfance, observations, sentimens, paysages, choses intérieures ou extérieures est resté chez moi toujours vivant. </p>
+          <p> De même, je pourrais faire de ce jeune homme cravaté de blanc et de cette vieille femme une description étudiée, comme les peintures flamandes, à la loupe. Je les vois tous deux. Le son de leur voix est dans mon oreille, et le parfum de linge propre qui m’entourait semble encore affecter mon odorat, </p>
+          <p> La vieille femme était petite, très mince, très alerte, très gaie. Sa figure, qui avait des tons d’ivoire sous ses bandeaux d’un gris bleuâtre, souriait avec une bonté pleine de finesse. Elle avait toutes ses dents qui étaient bien blanches ; elle les montrait en parlant. </p>
+          <p> Etait-ce un reste, une habitude de coquetterie survivant au voeu d’humilité ? </p>
+          <p> Certes, elle avait dû être charmante. Telle qu’elle était, je crois qu’il est impossible de rencontrer une plus jolie petite vieille. </p>
+          <p> Ainsi l’enfance doit-elle se représenter ces chères fées qui venaient apporter leurs dons autour du berceau doré des fils de rois. </p>
+          <p> Mais c’était bien mieux qu’une fée, cette petite vieille : c’était une sainte. </p>
+          <p> Son jeune compagnon avait une belle figure sérieuse et un peu souffrante. Il m’eût intimidée sans la présence de ma bonne vieille amie, car elle était déjà mon amie, avant même que j’eusse appris ce qu’elle avait fait pour moi. </p>
+          <p> Il parlait peu ; la petite bonne femme, au contraire, n’était rien moins que taciturne. </p>
+          <p> Quand elle s’adressait à lui, c’était avec une sorte de respect. </p>
+          <p> Du reste, si j’avais eu peur un instant de mon beau médecin à cause de son air grave et de son port véritablement majestueux, ce sentiment n’aurait point tenu contre la douceur exquise de son sourire. </p>
+          <p> Il faut que le lecteur me pardonne cette vivacité d’impressions : je ne devins pas éprise du docteur Méran. </p>
+          <p> Mais son sourire d’apôtre me fit songer souvent à la miséricorde de Dieu. </p>
+          <p> – Que vous avais-je dit ? murmura-t-il en me voyant ouvrir les yeux. </p>
+          <p> – Oui, oui, répondit Mme Louise, ou soeur Louise, car elle portait ces deux titres dans le quartier des Quinze-Vingts ; vous êtes un sorcier, bon docteur.… et je commence à croire à votre médecine.… tout à fait. </p>
+          <p> – Comment ! tout à fait, ma soeur ? </p>
+          <p> – Que voulez-vous. Je suis vieille…. les vieilles gens sont entêtés. J’ai cru en vous bien longtemps avant de croire à votre science. Ne vous moquez pas de moi. Je ne m’exprime peut-être pas bien, mais ma pensée est claire pour moi-même. J’ai vu tant de médecins que je suis devenue un peu incrédule. J’ai trop d’âge pour accepter tout d’un coup ce système nouveau. Cette grande découverte de Hahnemann, comme vous appelez votre lama. Je ne peux pas nier les résultats que j’ai vus ; mais je les attribue à je ne sais quelle puissance que Dieu a mise en vous personnellement. </p>
+          <p> – Cela est injuste, ma bonne soeur, répondit le jeune médecin, et cela n’est pas digne de vous. </p>
+          <p> Elle se prit à sourire et vint m’embrasser, comme aurait pu le faire maman marquise au temps où elle m’appelait sa fille. </p>
+          <p> – Puisque je vous accorde les résultats ! s’écria-t-elle ; est-ce vous qui avez empêché cette pauvre petite d’aller à l’hôpital ? </p>
+          <p> – C’est vous très certainement, chère soeur, répliqua M. Méran. Il y a dans les hôpitaux de Paris des colosses de science…. je regarde leur doctrine comme érronée, mais je ne me reconnais aucunement le droit de détourner un malade du chemin, qui conduit chez eux. </p>
+          <p> – Si pourtant ce chemin mène à un abîme ?.. </p>
+          <p> – Dieu me garde de Je dire, ma soeur. J’ai mon principe ; ils ont probablement leur foi.… entre eux et nous, le juge est à trouver. En attendant, le corps médical auquel nous avons les uns et les autres l’honneur d’appartenir a sa dignité qui défend. </p>
+          <p> – De crier gare à un malheureux qui se noie ? interrompit soeur Louise avec pétulance ; c’est très bien, mais moi qui n’appartiens à aucun corps, moi qui n’ai point de dignité, par conséquent je crie gare, et de tous mes poumons.… d’où il suit, cher docteur, que mes doutes valent mieux que votre foi, puisque votre foi précieuse vous laisse inerte, et que mes doutes ne m’empêchent pas du tout d’agir. Allez à vos malades ! </p>
+          <p> Le docteur Méran lui donna une bonne poignée de main et sortit. </p>
+          <p> La petite vieille prit sur la table de nuit un verre qui me sembla contenir de l’eau parfaitement claire, l’agita un instant et m’en fit boire une cuillerée. </p>
+          <p> – N’ayez pas peur, mon ange, me-dit-elle, vous ne serez pas marquée…. ; c’eût été dommage, car vous êtes jolie comme un coeur. </p>
+          <p> – On dit que la beauté est un triste présent du hasard, ajouta-t-elle ; d’abord, il n’y a point de hasard ; c’est un fort vilain nom que les ignorans donnent au bon Dieu. et le bon Dieu ne fait point de tristes présens. C’est notre propre folie qui trouve moyen d’empoisonner les dons les meilleurs et de les changer en afflictions. Mais vais-je vous faire un sermon ?. Voilà les vieilles femmes !…. Pensez-vous que Dieu les ait faites comme cela ? </p>
+          <p> Elle vit que je faisais effort pour répondre, et m’embrassa une seconde fois. </p>
+          <p> – La paix ! me dit-elle ; c’est moi seule qui bavarde aujourd’hui… vous ne parlerez que demain ! tel est l’arrêt de notre charlatan ! </p>
+          <p> Elle s’assit auprès de mon lit, et se mit à tricoter un gros bas d’enfant avec une prodigieuse agilité de mains. </p>
+          <p> – Je devine tout ce que vous voulez savoir, me dit-elle en fixant sur moi ses yeux noirs qui avaient gardé toute leur éloquence ; je vais vous répondre à tout, sans que vous ayez la fatigue de me faire des questions. Est-ce gentil ?… Ah ! voilà ! Je vous ai accaparée de ma propre autorité pour vous mettre entre les mains d’un charlatan qui se permet de sauver ses malades et de guérir par des moyens autres que ceux employés par la science académique pour tuer les gens. vous avez été prise assez singulièrement, ma chère petite : deux ou trois maladies à la fois, débutant par une double congestion cérébrale… petite vérole fort maligne dès le début, compliquée le second jour de fièvre thyphoïde. et de je ne sais plus quoi encore… je vous ai trouvée au milieu de la rue, à minuit ; je n’ai pas pu empêcher qu’on ne vous portât chez le pharmacien : c’est la règle… et nos bons faubouriens, qui se disent révolutionnaires, ne sont rien moins que novateurs. Leurs idées révolutionnaires sont déjà des vieilles de soixante ans, encroûtées, routinières, étroites… si vous saviez comme ils ont bon coeur, avec cela ! </p>
+          <p> Mais où en étais-je ?… Au pharmacien. Du pharmacien à l’hôpital, il n’y a qu’un saut. </p>
+          <p> Par bonté d’âme, nos faubouriens allaient vous porter là bas tout droit, lorsque j’ai dit : Menez-là chez moi. </p>
+          <p> – Soeur Louise ! voilà soeur Louise ! s’est-on écrié de toutes parts ; c’est dommage que son hôpital n’ait qu’un lit, car on n’en sort jamais que sur ses jambes. </p>
+          <p> Et voilà qu’on vous amène dans mon petit trou en m’accablant de bénédictions. </p>
+          <p> Ils m’en donnent toujours, ces braves âmes, cent fois plus que je n’en mérite. </p>
+          <p> Avez-vous remarqué, s’interrompit-elle, ce grand garçon qui sort d’ici ? C’est mon médecin, le médecin de mon petit hospice. Il ne gagne pas gros avec nous, mais ça ira tout droit eu paradis et mon hospice y sera pour quelque chose. </p>
+          <p> Voilà ce que c’est que ce grand garçon ; c’est le docteur Méran, un fou qui a déjà dépensé vingt bonnes mille livres de rentes qu’il avait, à soigner le tiers et le quart. </p>
+          <p> Savez-vous comment il me fait payer ses visites ? Je vais vous le dire : quand il me manque dix louis pour mes malades du dehors, il me les donne. </p>
+          <p> La petite bonne femme avait les larmes aux yeux. </p>
+          <p> Moi-même, je me sentais près de pleurer. </p>
+          <p> – Ta ta ta ta ! fit – elle en voyant que mes paupières battaient, voulez-vous garder vos yeux rouges le restant de votre vie ? Voilà bien de quoi pleurnicher ! Il fait cela parce que ça l’amuse… quoi ! comme il y en a d’autres qui ont quatre maîtresses ou qui se donnent des indigestions. Ça coûte aussi cher, mais chacun son goût… hein ? </p>
+          <p> Dans ce quartier-ci, on n’a qu’à regarder un petit peu autour de soi pour avoir bon coeur. Nous avions deux ou trois dandys bêtes dans le faubourg, des messieurs à chevaux et à filles d’opéra ; ils se sont sauvés parce qu’ils ont eu honte d’eux-mêmes. Le faubourg n’est bon qu’à la misère, au travail et à la charité. </p>
+          <p> J’ai idée qu’un jour, le travail y restera tout seul. La misère, en mourant, dira à la charité de s’envoler au ciel. </p>
+          <p> On la regrettera quand même on n’en aurait plus besoin sur la terre. </p>
+          <p> La bonne petite vieille cessa de tricoter et alla ouvrir une armoire où elle prit une épaisse tranche de pain bis sur laquelle elle étendit un peu de beurre. </p>
+          <p> – Je vas dîner, dit-elle en revenant près de moi ; ça vous fait-il envie ? Non ? Le docteur l’avait bien dit, le charlatan qu’il est… ce sera pour demain. Mais vous dînerez avec autre chose. Le pain bis et le beurre, c’est bon pour ceux qui se portent bien. Où en étions-nous ?. Vous voilà donc chez moi… vous dormiez : Méran venait vous voir le matin et le soir ; j’avais pris une petite du quartier pour vous veiller pendant que j’allais à mes autres malades. </p>
+          <p> Je ne peux pas vous dire que je n’ai pas eu peur ; ce serait mentir. </p>
+          <p> Je m’y connais, voyez-vous, à ces coquines de maladies. J’en ai tant vu. J’ai bien cru que vous alliez mourir. </p>
+          <p> Mais, ce charlatan de Méran, avec sa poudre de perlinpinpin qu’il met dans de l’eau claire, – avec ses globules, comme il dit, fait des choses étonnantes. </p>
+          <p> Je trouve, moi, que les autres médecins, les savans, ceux de l’Académie sont bien bons de le laisser guérir comme ça le monde. </p>
+          <p> C’est criant, ma parole d’honneur ! </p>
+          <p> Sans saignées, ni sangsues, ni purgation, ni sétons, ni moxas, ni sinapismes, ni vésicatoires ! </p>
+          <p> Où allons-nous !. Enfin, voilà ! Le docteur Méran me dit dès le soir du second jour qu’il aurait raison de toutes ces maladies-là. Et je le crus, parce que j’ai la mauvaise habitude de croire ceux qui ne m’ont jamais trompée. </p>
+          <p> Elle mangeait son pain et son beurre avec un appétit ! </p>
+          <p> Quand elle eut achevé son énorme tartine, elle but un grand verre d’eau. </p>
+          <p> Puis elle mit sur ses épaules une petite pèlerine de bure noire et me dit : </p>
+          <p> – Je vais voir mes autres.… dormez un somme, mon ange. Je reviendrai à six heures pour votre médicament. </p>
+          <p> Elle partit, leste comme une jeune fille. </p>
+          <p> Elle n’était pas au bas de l’escalier que je dormais déjà ! </p>
+        </div>
+        <div title="CHAPITRE II. Où le tricot de la soeur Louise passe en diverses mains." type="chapter">
+          <head> CHAPITRE II. Où le tricot de la soeur Louise passe en diverses mains. </head>
+          <p> Est-ce ma jeunesse qui combattit aussi victorieusement ce faisceau de maladies mortelles ? est-ce la vigueur de ma constitution ? Mon sang et mon âge ne nuisirent pas à ma guérison, je le crois ; mais, tant que je vivrai, je me souviendrai de cette bonne petite soeur Louise et de son charlatan de docteur Méran. </p>
+          <p> Ils-avaient l’habitude de causer philosophie ensemble, et s’entendaient comme chien et chat. </p>
+          <p> Mais le docteur respectait sa vieille amie autant que si elle eût été sa mère, et soeur Louise, littéralement, se serait jetée au feu pour son beau jeune docteur. </p>
+          <p> Il faisait un bien immense dans le quartier. On le persécutait un peu. </p>
+          <p> Les pharmaciens ameutaient même contre lui les pauvres qu’il guérissait. </p>
+          <p> Soeur Louise se mettait alors en grande colère, mais le docteur Méran lui disait : </p>
+          <p> – Bonne mère, il faut que toute vérité soit crucifiée au moins une fois. </p>
+          <p> Cette petite soeur Louise avait une étrange histoire. C’était la veuve d’un fournisseur des armées impériales. Son mari avait scandalisé l’Europe par sa fortune. Quand il mourut, il laissa trois parts de ses biens : deux à des fils qu’il avait d’un premier lit, une à sa veuve. </p>
+          <p> La veuve employa sa part intégralement à fonder deux hôpitaux considérables : l’un à Strasbourg, lieu de naissance de son mari ; l’autre à Nantes, sa ville natale. </p>
+          <p> Elle essaya successivement de vivre dans chacun d’eux, mais elle se brouilla avec les médecins et avec les religieuses. Les malades seuls l’aimaient. </p>
+          <p> Ce que voyant, elle vint, nue comme un ver, habiter Paris. </p>
+          <p> A l’époque où elle me recueillit, elle était depuis vingt ans dans le faubourg Saint-Antoine, où la confiance universelle la mettait à la tête de sommes assez importantes. </p>
+          <p> Sa maison était un hôpital où il y avait qu’un lit ; mais au dehors elle secourait de nombreux malades. </p>
+          <p> Quant au docteur Méran, il existe encore, Dieu merci ! C’est ce médecin qui n’est d’aucune académie, qui ne porte ni titre ni croix, et qui vieillit, importuné de sa renommée. </p>
+          <p> Si vous connaissez un médecin dont le mérite ait refait dix fois la fortune, dix fois épuisée par sa prodigue bienfaisance, ne cherchez plus, c’est lui, vous l’avez trouvé. </p>
+          <p> Le lendemain, il put m’interroger à sa première visite. Vers midi, j’avalai quelques cuillerées de bouillon ; la fièvre était passée. Je pus parler à soeur Louise et lui témoigner ma reconnaissance. </p>
+          <p> L’affection typhoïde avait en quelque sorte avorté sous l’influence du traitement. La petite-vérole seule suivait son cours, énergiquement combattue par les poudres de perlimpinpin du charlatan, pour employer les expressions de la petite vieille. </p>
+          <p> Je ne souffrais pas. Les démangeaisons étaient presque éteintes. </p>
+          <p> Je ressentais seulement une extrême faiblesse qui n’était pas sans bien-être. </p>
+          <p> Quand j’étais bien étendue sur le dos, les mains et les bras appuyés, il me semblait presque que j’aurais pu me lever et courir. </p>
+          <p> Mais aussitôt que je faisais un mouvement, soit de la tête, soit même des mains, j’éprouvais le sentiment de mon impuissance. </p>
+          <p> Il faisait chaud dans cette chambre. Je priai soeur Louise d’ouvrir un peu la fenêtre pour laisser entrer le soleil d’hiver qui caressait les rideaux. </p>
+          <p> – Pas de ça, Lisette ! me dit-elle ; notre docteur est bien le meilleur chrétien que je connaisse, mais une fois qu’il a donné ses ordres, si on les enfreint, il vous plante là raide comme balle !.… Il doit son temps, dit-il, à ceux qui ont bonne volonté de se guérir. Ceux-là obéissent. Quant aux imprudens et aux indociles, comme il ne peut pas les enchaîner à triple cadenas, il leur souhaite le bonsoir. </p>
+          <p> – Vous voudriez voir ce qu’il y a derrière la croisée ? reprit-elle ; c’est la place de la Bastille et l’éléphant. Dans deux jours, vous contemplerez l’éléphant, monument très intelligent qui sert d’hôtel à plusieurs milliers de rats. Un peu plus loin, le dôme des jésuites de la rue Saint-Antoine ; vous l’apercevez de votre lit. A gauche, l’Arsenal ; derrière, le boulevard Bourdon. A gauche encore, le grenier d’abondance, la Seine, le jardin des Plantes et tout le paysage du fau bourg Saint-Marceau. La vue est belle ; l’air est bon ; c’est mon charlatan qui m’a choisi mon petit appartement. Il s’y connaît. </p>
+          <p> Je la voyais avec regret mettre sa pèlerine de bure pour sortir. </p>
+          <p> – Ma chère petite, continua-t-elle, je n’ai guère qu’une douzaine de maisons à voir aujourd’hui ; je rentrerai de bonne heure, et je vous raconterai une petite histoire pour vous endormir. Demain, si notre charlatan le permet, vous me direz la vôtre. Je suis curieuse, c’est mon moindre défaut. Du reste, j’entends gratter à la porte ; vous ne passerez pas la journée toute seule : on sait déjà que vous pouvez recevoir. </p>
+          <p> Elle alla ouvrir. C’était une bonne grosse ouvrière du’ fau bourg qui apportait une demi-douzaine de petits bonnets d’enfans. Soeur Louise l’embrassa et lui dit : </p>
+          <p> – Donnez un tour à mon tricot, madame Morin, et recevez ceux qui viendront. </p>
+          <p> Il y avait au pied de mon lit un tronc que je n’avais pas aperçu. Elle l’ouvrit et prit de l’argent dans un gros sac de toile qui lui servait de porte-monnaie. </p>
+          <p> – Et ne lui dites pas trop de mal de nous, mère Morin ! fit-elle en riant et en se sauvant. </p>
+          <p> Mère Morin la reconduisit jusqu’à la porte. Avant de prendre le tricot, elle me regarda. </p>
+          <p> – Est-ce bien Dieu possible ! fit-elle ; voilà trois jours que c’était presque une morte ! </p>
+          <p> – J’ai donc été bien bas, ma bonne dame ? demandai-je. </p>
+          <p> Elle se mit à tricoter vigoureusement. </p>
+          <p> – Bien bas ! reprit-elle en me faisant un petit signe d’amitié ; quant à ce qui est de ça, on ne peut guère plus bas !… Mais ça ne fait rien. Est-ce qu’on meurt dans c’te maison du bon Dieu !.… C’est des saints, quoi ! de vrais saints du paradis ! </p>
+          <p> – Eh ! bonjour, mère Morin ! dit une voix cassée à la porte. </p>
+          <p> Elle se leva précipitamment et fit une respectueuse révérence. </p>
+          <p> C’était un prêtre de grand âge, voûté, courbé, tremblotant sur ses vieilles jambes, mais courant encore le guilledou de la charité. </p>
+          <p> – Ne vous arrêtez pas, dit-il en se dirigeant vers mon lit ; travaillez, travaillez ; c’est pour les pauvres. Notre anguille est donc déjà partie ?… Je me lève trop tard depuis quelque temps. Voilà bien huit jours que je ne me suis recommandé à ses prières. Ah ! mère Morin, que je voudrais accrocher ma pauvre âme pécheresse à ses ailes d’ange quand elle s’en ira dans le ciel ! </p>
+          <p> – Vous qui êtes le saint des saints, monsieur Bruant !… se récria la bonne femme. </p>
+          <p> Le vieux prêtre secoua sa tête blanche et vénérable. </p>
+          <p> – Devant ma petite soeur Louise, dit-il avec une humilité convaincue et profonde, il me semble que je n’ai rien fait eu ma vie ! </p>
+          <p> Il s’approcha de moi, et me prit les mains. </p>
+          <p> – Allons, allons, me dit-il, le docteur Méran n’en fait jamais d’autres. Voilà une résurrection. Je crois que je ne risque rien d’envoyer demain un pot de confitures. </p>
+          <p> La porte s’ouvrit de nouveau. C’était une jeune femme en toilette très simple, mais souverainement élégante. Elle se recula en voyant la place doublement occupée. </p>
+          <p> – Entrez, madame la marquise, dit l’abbé Bruant, dont les vieilles rides eurent un beau sourire ; nous vous y prenons !… Mais n’ayez pas trop de honte. Tenez, voici une brave femme qui a affaire chez elle. Prenez le tricot à votre tour, et voyons si vous allez aussi vite qu’elle ! </p>
+          <p> Mère Morin céda le tricot à Mme la marquise, qui lui serra la main en demandant affectueusement des nouvelles de son mari et de ses enfans. </p>
+          <p> Avant de se retirer, mère Morin mit une pièce de deux sous dans le tronc. </p>
+          <p> Je ne puis exprimer ce que je ressentais en face de ce spectacle si nouveau pour moi. J’avais vu de bonnes gens en ma vie, mais je n’avais aucune idée de cette promiscuité angélique que la passion charitable établit tout naturellemens, sans effort ni emphase, entre les différentes classes sociales. </p>
+          <p> J’avais peur de rêver. </p>
+          <p> Madame la marquise prit le tricot de la soeur Louise. Elle ne marchait pas aussi rondement que mère Morin, mais, pour une marquise, elle n’allait pas mal. </p>
+          <p> Je n’en aurait certes pas fait autant qu’elle. </p>
+          <p> Pendant qu’elle travaillait, le vieux curé la lutinait d’importance. Il lui demandait combien de contre-danses elle avait manquées au bal de l’ambassade sarde, quels progrès avait faits sa gastrite aux eaux de Wiesbaden cette saison, si elle avait fait moins que la petite baronne au sermon de charité du père Lacordaire, si elle avait enfin réussi à englober tous les juveigneurs de son cercle dans la société de saint François Régis, etc., etc. </p>
+          <p> Chaque monde a son genre d’esprit et de comique. Les vieux saints sont presque toujours un peu loustics. </p>
+          <p> Mme la marquise déposa un instant son tricot, et prit dans son sac une bourse de velours noir qu’elle tendit au vieillard. </p>
+          <p> – Ceci n’est pas pour me venger de vos méchancetés, monsieur l’abbé, dit-elle. </p>
+          <p> Le bonhomme lui baisa la main, ma foi, fort galamment. </p>
+          <p> – Voilà huit jours à peine que vous m’avez apporté votre tribut ! dit-il. </p>
+          <p> Elle répondit en souriant : </p>
+          <p> – C’est qu’on danse beaucoup cet hiver. </p>
+          <p> Et elle reprit son tricot. </p>
+          <p> Cette jeune femme me paraissait belle comme la reine des anges. </p>
+        </div>
+        <div title="CHAPITRE III. De la reconnaissance que me témoignent les neveux et nièces du père Fontanet." type="chapter">
+          <head> CHAPITRE III. De la reconnaissance que me témoignent les neveux et nièces du père Fontanet. </head>
+          <p> Il en vint d’autres ; il vint des jeunes filles du faubourg, des religieuses, que sais-je ! Et toutes me firent une caresse fraternelle, et toutes avancèrent d’autant le tricot de la soeur Louise. </p>
+          <p> Et toutes déposèrent leur offrande dans le tronc des pauvres malades. </p>
+          <p> Les unes deux sous, comme mère Morin, les autres une pièce d’argent, un louis d’or, madame la Marquise un billet de banque. </p>
+          <p> Elle pouvait danser, celle-là ! Les belles joies de ses matinées expiaient l’ennui mondain de ses soirs. </p>
+          <p> Vers cinq heures soeur Louise revint. </p>
+          <p> Elle était contente de sa journée. </p>
+          <p> Elle avait dépensé tout ce qu’elle avait emporté. </p>
+          <p> En mangeant sa lourde beurrée, elle me raconta l’histoire promise : une bonne histoire qui me fit sourire. </p>
+          <p> Soeur Louise n’entretenait guère de mélancolie. </p>
+          <p> Le lendemain, comme elle me l’avait annoncé, il fallut lui dire la mienne, avec la permission du charlatan qui voyait les progrès de ma guérison avec une joie d’enfant. </p>
+          <p> Je mangeai un blanc de volaille et des confitures du bon abbé Bruant, pendant que soeur Louise dévorait son éternelle beurrée. </p>
+          <p> Elle me dit, quand je lui eus conté succintement les principales aventures de ma vie : </p>
+          <p> – Vous êtes un digne enfant, ma chère Suzanne, mais il faut prendre garde à l’orgueil. L’orgueil a perdu jusqu’à des anges. </p>
+          <p> Je me souviens avec une sorte d’ivresse du moment où je pus enfin m’accouder sur le balcon par un rayon de soleil et respirer l’air libre du dehors. J’étais devenue pieuse dans cette maison où la piété, dépourvue d’austérités inutiles et de ces repoussantes apparences que les ours du catholicisme jettent comme autant de pavés à la religion qu’ils croient servir, où la piété, dis-je, était si simple, si naïve, si belle. </p>
+          <p> Je remerciai Dieu du fond du coeur. </p>
+          <p> Soeur Louise était derrière moi. </p>
+          <p> – Et maintenant, ma bonne petite, me dit-elle avec un peu de mélancolie dans la voix, qu’allons-nous faire ? </p>
+          <p> Je ne comprenais pas. Elle m’attira vers elle et me baisa au front. </p>
+          <p> – Notre vie serait trop heureuse et trop douce, murmura-t-elle, si nous pouvions nous entourer de ceux ou de celles que nous avons sauvés. Même en tenant compte des ingrats, ce serait le paradis sur la terre. </p>
+          <p> – Mais, ajouta-t-elle après un silence, le paradis est ailleurs. Nous nous séparons de ceux que nous aimions déjà pour courir aux inconnus qui souffrent. Il y a un proverbe populaire qui dit : coeur d’hôpital !. Le proverbe raille, mais il a tort ; ce sont les grands coeurs, ce sont les coeurs chrétiens qui marchent sans cesse en avant, travaillant toujours et ne jouissant jamais. </p>
+          <p> – Est-ce que vous allez me chasser ? demandai-je les larmes aux yeux. </p>
+          <p> Elle me pressa contre son sein avec une véritable tendresse. </p>
+          <p> – Coeur d’hôpital ! murmura-t-elle en tâchant de sourire. Ma maison n’a qu’un lit ; ce lit est aux malades en danger de mort. Vous voilà guérie, Suzanne. </p>
+          <p> Dès le lendemain, les ouvriers du faubourg apportèrent sur un brancard un pauvre jeune homme atteint de fluxion de poitrine double. </p>
+          <p> – Suzanne, me dit soeur Louise, revenez nous voir. Si vous êtes heureuse, apportez-nous vos offrandes, si vous êtes malheureuse, venez chercher près de nous des consolations et des secours. </p>
+          <p> Elle m’avait proposé de me placer ; je n’avais pas accepté. </p>
+          <p> Pourquoi ? – Pourquoi n’avais-je pas écrit dans le temps à maman marquise pour lui demander son témoignage ? </p>
+          <p> J’étais orgueilleuse sottement et follement. </p>
+          <p> – Je reviendrai vous voir, chère soeur, dis-je à ma bienfaitrice, si je suis heureuse. </p>
+          <p> Elle secoua la tête. </p>
+          <p> J’allai mettre deux louis dans le tronc. </p>
+          <p> Son visage prit une expression très sévère pendant qu’elle me disait : </p>
+          <p> – Je n’ai pas le droit de refuser ce qu’on donne aux pauvres. Que Dieu vous conduise, Suzanne ! </p>
+          <p> – Que Dieu vous récompense, chère soeur, répondis-je ; – pour vous oublier, il me faudra mourir !… </p>
+          <p> J’étais encore bien faible, quand je sortis de chez soeur Louise. Ce n’était pas sa faute assurément si je me trouvais sans asile, car elle m’avait fait des offres de toutes sortes. </p>
+          <p> Et toutes les offres de soeur Louise pouvaient être acceptées. </p>
+          <p> Mais je m’étais raidie. Une fois que j’aimais quelqu’un, je voulais l’égalité. Je ne crois pas que ce soit précisément un vice du coeur, car il ne m’est point arrivé d’être ingrate ; mais ce travers de mon esprit m’a éloignée souvent et longtemps des gens que je chérissais le mieux. </p>
+          <p> Je louai une petite chambre sur le boulevard Beaumarchais. Je n’étais pas très inquiète de mon avenir. Cette famille Poinsot, les neveux et les nièces du père Fontanet devaient être maintenant dans l’aisance. Je comptais sur eux : c’était un dû. </p>
+          <p> Pendant huit jours, j’achevai de me rétablir. J’allai voir plusieurs fois soeur Louise, qui me reçut toujours parfaitement, mais ne me renouvela point ses offres. Si elle l’avait fait, peut-être eussé-je accepté, car la réflexion était venue. </p>
+          <p> Ce n’est pas que j’eusse perdu espoir du côté des Poinsot, au contraire. Je m’étais rendue rue Moreau, et j’avais pris des renseignemens. Les Poinsot avaient quitté leur misérable baraque depuis plus de trois semaines. On disait dans le quartier qu’ils avaient fait un héritage, et qu’ils étaient établis dans Paris. </p>
+          <p> Je savais où les trouver. </p>
+          <p> L’établissement qu’ils avaient pris ne pouvait être que l’ancien bureau du père Fontanet. </p>
+          <p> Mais tout en restant convaincue qu’ils me tiendraient compte du salut que je leur avais apporté tout au fond de leur détresse, j’avais comme un remords à l’égard de soeur Louise. A la moindre avance, je me serais jetée dans ses bras. </p>
+          <p> Elle ne me fit point d’avance. </p>
+          <p> Lasse d’attendre une proposition qui ne devait plus venir, je m’habillai un matin du mieux que je pus et je pris l’omnibus du boulevard pour gagner la rue de Cléry. </p>
+          <p> J’étais alois parfaitement rétablie, sauf un peu de faiblesse, qui me restait. </p>
+          <p> Dans mon omnibus, je faisais le bilan de ma situation. Ce n’était pas sans crainte que je m’approchais du bureau de Fontanet. </p>
+          <p> Ma crainte n’avait pour objet ni le vieux-placeur ni les Poinsot : ils étaient mon espoir. </p>
+          <p> Mais je redoutais Félicité. </p>
+          <p> En descendant de voiture, avant d’entrer dans la sombre allée à l’ouverture de laquelle se trouvait la pancarte, je pris langue chez les boutiquiers d’alentour. </p>
+          <p> On me dit que le père Fontanet était mort depuis une semaine, et que ses neveux l’avaient remplacé. </p>
+          <p> Il ne fat point question de Félicité. Je n’osai interroger d’avantage. </p>
+          <p> Après avoir croisé un instant devant la porte, je me déterminai à entrer. Le coeur me battait. Arrivée au bout de la première cour, je fus sur le point de rebrousser chemin. </p>
+          <p> Mais je me fis honte à moi-même : ce n’était point ici pudeur exagérée ; c’était tout simplement poltronnerie. </p>
+          <p> La Fontanet me faisait peur. </p>
+          <p> Ce coup d’éperon me suffit. Je traversai la seconde allée d’un pas résolu et je me trouvai devant ces fenêtres grillées d’où s’échappait en plein midi la pâle lueur de la lampe. </p>
+          <p> J’entrai sans frapper. </p>
+          <p> Félicité n’était pas là. </p>
+          <p> Je reconnus au travers du grillage François Poinsot, le squelette vivant que j’avais trouvé accroupi sur la paille, et Juliette, la pestiférée, dont j’avais étanché la soif au péril de ma vie. </p>
+          <p> Ils n’étaient certes pas dans un très florissant état de santé. C’était un sang parisien lymphatique et pauvre, mais enfin je les trouvai bien changés à leur avantage. </p>
+          <p> Ils portaient le grand deuil. En dehors du grillage les deux enfans se poussaient en riant. </p>
+          <p> – Qu’est-ce qu’il y a pour votre service ? me demanda François, tandis que Juliette levait la lampe pour m’examiner. </p>
+          <p> Je m’attendais à un cri de surprise. </p>
+          <p> Juliette reposa froidement la lampe sur la table, et dit à François : </p>
+          <p> – C’est cette jeune fille. </p>
+          <p> Les enfans cessèrent de jouer et me regardèrent. </p>
+          <p> François, sans discontinuer d’écrire, me demanda pour la seconde fois : </p>
+          <p> – Qu’est-ce qu’il y a pour votre service ? </p>
+          <p> J’ignore ce que je balbutiai. </p>
+          <p> J’étais atterrée. </p>
+          <p> – Est-ce que c’est elle qui est venue dans la rue Moreau ? se disaient les enfans. </p>
+          <p> – Entends – tu comme elle parle ? prononça Juliette, tu devrais la faire arrêter. </p>
+          <p> – Me faire arrêter, m’écriai-je indignée, et pourquoi ? </p>
+          <p> – Point de bruit, la fille ! dit François, qui déposa enfin sa plume ; nous connaissons les pratiques de votre espèce, et il n’y a pas bien loin d’ici chez le commissaire !… </p>
+          <p> – Mais de quoi m’accusez-vous, grand Dieu ! </p>
+          <p> – Va-t-elle nous affronter ?. s’écria Juliette, qui fit mine de se lever. </p>
+          <p> – Tiens-toi en paix, toi ! ordonna le frère ; elle va passer la porte et aller se faire pendre ailleurs. </p>
+          <p> Je n’avais pu faire un mouvement, tant était grande la stupéfaction qui m’écrasait. </p>
+          <p> – Vous allez bien, pour votre âge, la fille, reprit François d’un ton goguenard ; vous nous avez soufflé un billet de cinq cents francs pour le moins, de l’aveu même de feu notre oncle. Je ne sais pas comment vous avez le coeur de vous représenter devant nous. </p>
+          <p> – Sur mon honneur ! m’écriai-je. </p>
+          <p> – Entends-tu ? m’interrompit Juliette en s’adressant à son frère ; son honneur !. </p>
+          <p> Et les enfans répétèrent de confiance en me tirant par ma robe et en me pillant comme des roquets : </p>
+          <p> – Son honneur à celle-là… son honneur ! </p>
+          <p> J’étais restée là trop longtemps. Je me redressai et je gagnai la porte. </p>
+          <p> – Voilà comme vous me récompensez, dis-je sur le seuil, pour vous avoir sauvé la vie. </p>
+          <p> Juliette éclata de rire, et François me dit : </p>
+          <p> – Allons ! dehors ! dehors, espèce !… et plus vite que ça ! </p>
+          <p> – Et plus vite que ça ! répétèrent les deux roquets ; espèce ! allons ! dehors ! dehors ! </p>
+          <p> Je rentrai chez moi tellement abattue et découragée que je fus obligée de me mettre au lit. </p>
+          <p> J’eusse mieux aimé la rage franche de la Fontanet que l’atroce hypocrisie de ces misérables. </p>
+          <p> J’avais subi bien des injures, et je n’étais pas à connaître la souffrance ; mais c’était la première fois que je me trouvais ainsi face à face avec l’ingratitude humaine. </p>
+          <p> Mon sens moral en fut attaqué. Je cessai d’aller chez la bonne soeur Louise, ne voyant pas qu’en agissant ainsi, je me rendais moi-même coupable d’ingratitude. </p>
+          <p> Je me disais, pour m’excuser auprès de moi-même. </p>
+          <p> – Elle ne me doit rien, celle-là, qu’irais-je lui demander ? </p>
+          <p> Me devait-elle donc quelque chose le jour où elle me recueillit, inconnue et mourante, dans la boutique d’un pharmacien ? </p>
+          <p> Le lendemain et les jours suivans, j’errai comme une âme en peine, au bord de l’eau ou dans les allées du Jardin-des-Plantes. </p>
+          <p> Puis je fus prise tout à coup d’une fièvre d’audace. On m’avait parlé des Petites-Affiches. </p>
+          <p> J’entrai dans un salon de lecture, et je demandai les Petites- Affiches. </p>
+          <p> Je copiai la liste des personnes qui avaient besoin de servantes. </p>
+          <p> Je voulais bien être servante. </p>
+          <p> Je me souviens que je retrouvais dans ce cahier des Petites-Affiches le nom de ce fameux spéculateur, M. Marc Bonnin de la Forest, boulevard Saint-Martin et rue Meslay, qui prenait tant de nègres à son service. </p>
+          <p> Celui chez qui j’avais envoyé ce pauvre Cupidon, au temps de mon éphémère splendeur. </p>
+          <p> M. Marc Bonnin de la Forest demandait toutes sortes d’employés, caissiers, teneurs de livres, chefs de correspondance, etc. ; il leur offrait à tous des appointemens très honorables, mais leur demandait â son tour des cautionnemens. </p>
+          <p> Je ne fis pas grande attention à cela, mais, plus tard, cette circonstance devait me revenir en mémoire. </p>
+          <p> Je me présentai dans cinq ou six des maisons indiquées. Je regarde cela, maintenant que j’y songe, comme une marque de courage. </p>
+          <p> Dès la première maison, en effet, on me renvoya tambour battant, après m’avoir demandé mes papiers et mes certificats. </p>
+          <p> J’ignore pourquoi les maîtres, par tous pays, sont si pointilleux à l’égard de ces deux garanties radicalement illusoires : les renseignemens et les certificats. </p>
+          <p> A Paris surtout, les maîtres sont journellement déçus par les certificats, trompés par les renseignemens. </p>
+          <p> Rien n’y fait. Cela ne les corrige point de leur amour pour les renseignemens et les certificats. </p>
+          <p> Ils y tiennent. </p>
+          <p> On dirait que c’est pour l’acquit d’une espèce particulière de conscience qu’ils ont, et pour pouvoir se dire, quand une fois on les a dévalisés : </p>
+          <p> – Il avait pourtant de bien bons certificats ! </p>
+          <p> Enfin, m’a-t-on objecté parfois, prendriez-vous à votre service un domestique qui n’aurait point de certificats ? </p>
+          <p> A cette question captieuse, j’ai malheureusement une réponse toute prête. </p>
+          <p> J’ai pris à mon service des domestiques qui n’avaient point de certificats. </p>
+          <p> Eh bien ! qu’est-il arrivé ? </p>
+          <p> Il est arrivé que j’ai été volée aussi effrontément que si ces mêmes domestiques avaient eu les meilleurs certificats du monde. </p>
+          <p> Si on crie au paradoxe, je poserai moi-même cette question : </p>
+          <p> Y a-t-il au monde un être pensant qui se puisse vanter de connaître un homme, une femme ou un hermaphrodite ayant eu des domestiques et n’ayant jamais été volé par eux ? </p>
+          <p> J’attends de pied ferme la réponse à cette simple interrogation. </p>
+          <p> Je ne philosophais pas en ce temps-là. Le chagrin avait coupé ma convalescence ; je souffrais beaucoup, et bien que la petite-vérole ne m’eut laissé aucune trace sur le visage, j’étais tellement changée, que mes anciens amis auraient eu peine à me reconnaître. </p>
+          <p> Quand je me regardais dans mon miroir, j’avais peur. </p>
+          <p> Je vivais avec une extrême économie, et cependant mes petites ressources s’en allaient de jour en jour. J’étais entrée dans ma chambre du boulevard Beaumarchais avec 115 francs, provenant du cadeau que m’avait fait le vieux placeur. Au bout d’une quinzaine de jours, la pile de mes pièces de cinq francs était tellement diminuée que l’angoisse me prit. </p>
+          <p> Seule dans ce Paris ! pensai-je, malade et sans ressources. </p>
+          <p> Il y avait bien une ressource : retourner chez cette excellente soeur Louise et implorer sa pitié : mais ceci me répugnait à tel point que j’eusse préféré entreprendre les métiers les plus durs. </p>
+          <p> Ma sotte fierté se faisait des fantômes : Je me figurais que soeur Louise, tout en me faisant un charitable accueil, aurait aux lèvres un sourire railleur. </p>
+          <p> Je l’entendais dire à son beau docteur Méran : </p>
+          <p> – Voici la brebis égarée qui revient au bercail. </p>
+          <p> Pauvre folle que j’étais. J’ai mieux connu depuis les gens qui se dévouent aux pauvres et aux souffrans. Ils ne peuvent pas avoir, comme tout le monde, la mémoire de l’affection. Ce n’est pas leur devoir. Il faut leur accorder le droit d’oublier ceux qu’ils ont sauvés. </p>
+          <p> Ils en ont sauvé trop. Leur coeur devient banal, comme leur charité est universelle. </p>
+          <p> Et voilà le sublime ! </p>
+          <p> Je dis ici une vérité que personne n’appréciera, sinon ceux qui ont approché ces belles âmes dont la vocation est de secourir. Leur commerce est parfois rebutant. Si l’on a compté sur leur tendresse, on est désappointé souvent. </p>
+          <p> Beaucoup les accusent d’inconstance et d’oubli. </p>
+          <p> Moi, je me demande s’il est quelque chose de plus beau que cet oubli et que cette inconstance. </p>
+          <p> Dieu fait bien ce qu’il fait. Dieu a créé pour appliquer le baume consolateur à toutes plaies saignantes, ces natures saintement exceptionnelles. Il faut qu’elles soient toujours prêtes. Regarder en arrière, c’est le temps perdu. Elles marchent en avant toujours. </p>
+          <p> Fi des souffrances guéries ! Qu’importe la blessure qui a sa cicatrice ? Vous êtes heureux ? Adieu ! </p>
+          <p> Mais si la souffrance revient, revenez ! Voici la tendresse de mon coeur incontinent ranimée. Reposez-vous entre mes bras ouverts. C’est la souffrance même que je chéris, parce que je suis ici-bas la main de Dieu secourable. </p>
+          <p> Aimer longtemps, constamment, c’est jouir. Le dévoûment suprême consiste à renoncer à cette jouissance, la plus pure et la plus haute des voluptés humaines. </p>
+          <p> Le soldat ne se charge point d’un bagage inutile au matin d’une bataille. C’est tous les jours bataille pour les soldats du ciel. </p>
+          <p> Ils n’ont pas le temps ; ils sont les employés de la miséricorde divine. S’ils s’attachaient, dans le sens vulgaire du mot, ils prévariqueraient. </p>
+          <p> Oh ! ne les jugez pas au point de vue du monde ! Votre critique ne les atteindrait pas. Votre enthousiasme novice les étonnerait ou les embarrasserait. </p>
+          <p> Ce sont des êtres en dehors de vous une caste, une espèce. Ils sont armés pour consoler et guérir comme le lion pour combattre. – Reprocherez-vous au lion de n’avoir point l’obéissance du cheval ou la fidélité du levrier ? </p>
+          <p> Ce sont des êtres libres et farouches dans leur liberté. N’essayez ni de les dompter, ni de les apprivoiser, vous les tueriez. </p>
+          <p> N’essayez point surtout de leur donner ces petits talens de la domesticité humaine, l’amitié, le dévoûment, la mémoire du coeur : vous feriez d’eux des créatures pareilles à vous-même. </p>
+          <p> Si bons que vous soyez, ce serait dommage. </p>
+          <p> Ils sont rares : il les faut ainsi. J’ai presque regret à ce que je viens d’écrire, tant ce que je viens d’écrire est au dessous de ce que je sens. </p>
+          <p> On croirait presque que j’ai voulu parler d’une secte stoïque. Mais je puis me corriger d’un mot : ils ne savent pas qu’ils n’ont plus de coeur pour aimer l’individu. Ils suivent aveuglément l’instinct de leur passion inspirée. Ils vont où Dieu les mène. </p>
+          <p> Ma belle-petite vieille, soeur Louise, avait dû en voir bien d’autres depuis moi. Elle ne se souvenait plus de moi. </p>
+          <p> Son âme était comme sa maison qui ne contenait qu’un lit. </p>
+          <p> Le lit et l’âme étaient au plus souffrant. </p>
+          <p> Je souffrais ; j’avais droit à son amour ; elle me l’eût rendu. </p>
+          <p> Mais je n’allais point le lui demander. Je me creusais la cervelle à trouver des moyens de sortir d’embarras. </p>
+          <p> Une fois, l’idée me vint de me déguiser en homme et de me faire ouvrier. </p>
+          <p> Quand je passais devant les théâtres, je voulais être actrice. J’arrêtai une fois un porteur de pain dans la rue Saint-Antoine pour lui demander la permission de soulever son panier : il était trop lourd. </p>
+          <p> Si j’avais su l’adresse de Ninette, mon ancienne compagne de voyage, j’aurais été la trouver. Il n’y a rien de paradoxal comme la vanité. J’aurais consenti plus volontiers à m’humilier devant Ninette que devant soeur Louise. </p>
+          <p> Mes pauvres pièces de cinq francs s’en allaient. </p>
+          <p> Il y avait près de six semaines que j’étais dans ma chambrette. – Je cherchais, mais toujours en vain. </p>
+          <p> Un matin, j’ouvris ma petite armoire : il n’y avait plus que deux pièces de cinq francs. </p>
+          <p> Je les regardai longtemps, puis je les pris toutes deux. </p>
+          <p> Je ne saurais dire pourquoi. </p>
+          <p> Je sortis. Au bout de quelques pas, la fatigue me saisit et j’allai m’asseoir sur un banc au boulevard Bourdon, en face de la maison de soeur Louise. </p>
+          <p> La fenêtre où je m’étais accoudée si souvent était fermée malgré le beau temps. </p>
+          <p> Non loin de moi, il y avait un vieil aveugle qui jouait de la serinette. Des enfans cruels s’amusaient à jeter de petits cailloux dans la tirelire qui était au-devant du pauvre aveugle. </p>
+          <p> Et le pauvre aveugle, croyant que c’étaient des pièces de monnaie, disait pour eux des Pater et des Ave. </p>
+          <p> Je regardai cela tristement, mais sans indignation : j’avais l’âme engourdie. </p>
+          <p> Tout à coup je vis une petite fille qui courait le long du canal, regardant derrière elle comme si elle eût craint d’être poursuivie. </p>
+          <p> Je la reconnus, non pas tant à son visage ou à ses haillons qu’à la harpe qu’elle portait et qui gênait grandement sa course. </p>
+          <p> C’était ma petite bohémienne de la place de la Bourse, à qui j’avais donné une fois cinq sous pendant qu’elle chantait devant le théâtre nautique. </p>
+          <p> Je ne sais si elle me reconnut, mais elle vint s’asseoir à l’autre bout de mon banc. </p>
+          <p> Je la regardais presque avec envie, me souvenant qu’il y avait ordinairement une vieille femme avec elle. Cette petite chanteuse des rues n’était pas seule. Il n’y avait que moi pour être complètement abandonnée. </p>
+          <p> – Je ne sais pas où je vous ai vue, me dit-elle en fixant sur moi ses yeux hardis ; vous avez l’air malade. </p>
+          <p> Puis sans attendre ma réponse : </p>
+          <p> – J’ai fait courir la Pêcheux ! elle me poursuit depuis la rue du Pont-aux-Choux. Elle veut me battre, parce que j’ai laissé tomber ma harpe qui s’est cassée, tenez ! </p>
+          <p> Elle me montra le couronnement de sa harpe qui était en effet fendu. Les cordes qu’elle pinça rendirent un son félé. </p>
+          <p> Je la regardais. Elle était jolie, malgré la malpropreté de son visage et le désordre de ses cheveux brouillés. </p>
+          <p> Sa taille trop maigre avait de la grâce et de la souplesse. </p>
+          <p> Ses grands yeux noirs croisaient les miens et souriaient. </p>
+          <p> – Si vous vouliez me donner de quoi faire raccommoder ma harpe, me dit-elle, la Pêcheux ne me battrait pas ? </p>
+          <p> – Comment vous nommez-vous, ma pauvre enfant ? demandai-je. </p>
+          <p> – Je suis bien aussi âgée que vous, me répondit-elle d’un ton piqué ! je m’appelle Suzanne. </p>
+          <p> Mon visage dût exprimer de l’étonnement, car elle dit en fronçant le sourcil : </p>
+          <p> – Qu’est-ce qu’il y a de drôle à ça ? </p>
+          <p> Il me semblait reconnaître dans son accent des traces du langage que j’avais entendu dans mon enfance. </p>
+          <p> L’idée de Gustave me vint et mit des larmes dans mes yeux. </p>
+          <p> – Bon ! s’écria la petite chanteuse, la voilà qui pleure maintenant !… Qu’est-ce que vous avez à pleurer ? </p>
+          <p> – Je n’ai rien, répliquai-je en essuyant mes yeux. – D’où êtes-vous, Suzanne ? </p>
+          <p> – De là-bas, du côté de Vire, en Normandie, me répondit-elle. </p>
+          <p> – Vraiment ! m’écriai-je ; et quel âge avez-vous ? </p>
+          <p> – Seize ou dix-sept ans. Je ne sais pas trop au juste… </p>
+          <p> Mon nom, mon pays, mon âge ! On ne se connaît pas bien soi-même. J’aurais voulu avoir une glace devant moi pour savoir si cette petite me ressemblait. </p>
+          <p> Elle regardait de temps en temps du côté de la Bastille. </p>
+          <p> – Est-ce que vous allez me donner de quoi faire raccommoder ma harpe ? me dit-elle tout-à-coup. </p>
+          <p> – Je suis presque aussi pauvre que vous, Suzanne, répondis-je ; combien cela coûterait-il le raccommodage de votre harpe ? </p>
+          <p> – Ah ! dam !… au moins cent sous. </p>
+          <p> – Et la Pêcheux vous battrait bien fort si votre harpe n’était pas raccommodée ? </p>
+          <p> – Elle m’assommerait, ma bonne petite demoiselle. </p>
+          <p> Ceci fut dit d’un ton suppliant. La mendiante perçait. </p>
+          <p> Cinq francs ! c’était la moitié de mon avoir. </p>
+          <p> Mais mon regard tomba sur la fenêtre fermée de soeur Louise. </p>
+          <p> – Celle-là, me dis-je, ne calcule jamais quand il s’agit de faire le bien. </p>
+          <p> Je pris cent sous dans ma poche et je les donnai à mon homonyme, la petite chanteuse. </p>
+          <p> Elle ne s’attendait pas du tout à cela. Elle resta un instant stupéfaite. </p>
+          <p> – Et vous dites que vous n’êtes pas riche ! murmura-t-elle. </p>
+          <p> – Je dis la vérité, Suzanne !… dans deux ou trois jours je manquerai de pain. </p>
+          <p> – Ah ! dit-elle, en jetant la pièce de cinq francs en l’air pour la rattrapper fort adroitement ; – dans deux ou trois jours on a le temps de se retourner ! </p>
+          <p> Elle mit la pièce dans la poche de son tablier. </p>
+          <p> – Merci, ma bonne demoiselle, me dit-elle en rechargeant sa harpe ; je prierai bien le bon Dieu pour vous. La Pêcheux m’aurait assommée, bien sûr. Ça vous portera bonheur ! </p>
+          <p> – Dieu le veuille, Suzanne, lui dis-je pendant qu’elle s’éloignait toute joyeuse. </p>
+          <p> Avant de tourner l’angle du boulevard Bourdon, elle m’envoya un signe de tête avec un baiser. </p>
+        </div>
+        <div title="CHAPITRE IV. Où je demande pardon au lecteur de toujours chercher Gustave sans jamais le trouver, et de la rencontre que je fis sur le boulevard Saint- Denis." type="chapter">
+          <head> CHAPITRE IV. Où je demande pardon au lecteur de toujours chercher Gustave sans jamais le trouver, et de la rencontre que je fis sur le boulevard Saint-Denis. </head>
+          <p> Gustave ! Je n’aimais plus à penser à Gustave. C’était mon tourment. </p>
+          <p> Je l’avais bien cherché depuis que j’étais à Paris ; pendant les premiers jours, il me semblait étrange de ne point le rencontrer. Maintenant, c’était l’excès contraire ; je désespérais de le revoir jamais. </p>
+          <p> Etait-il vivant seulement ? Dans quelques jours j’allais savoir cela, car je ne me donnais plus guère quelques jours à vivre. </p>
+          <p> J’arrivais du reste rapidement à un état complet de marasme. Je ne pensais plus qu’avec paresse et à mon corps défendant. </p>
+          <p> Je vécus huit jours avec mes cinq francs ! puis, je ne sortis plus de ma chambre. </p>
+          <p> Elle était payée pour une semaine encore. </p>
+          <p> J’avais le droit d’y mourir de faim. </p>
+          <p> Je fus tellement sur le point d’user de ce droit que j’ai le vertige quand mon souvenir se reporte aux deux jours qui suivirent. </p>
+          <p> Je passai ces deux jours sans voir une âme. </p>
+          <p> Dès le premier jour, je crus que j’allais m’éteindre, car la faim est un mal étrange que l’imagination peut hâter et décupler. </p>
+          <p> J’étais assise auprès de mon petit secrétaire ; j’avais écrit deux lettres, une à Gustave, une à maman marquise. </p>
+          <p> J’avais mis la lettre de Gustave dans celle de maman marquise ; je la priais de faire tous ces efforts pour le trouver, et de lui être secourable s’il avait besoin d’aide. </p>
+          <p> Quelques mots, tracés sur un bout de papier, donnaient mission aux gens qui, les premiers, entreraient dans ma chambre, de jeter cette lettre à la poste. </p>
+          <p> Elle était adressée au château du Meilhan. </p>
+          <p> Je dormis cette nuit profondément et jusqu’au matin. </p>
+          <p> En m’éveillant, je sentis comme une main de fer qui m’étreignait l’estomac. </p>
+          <p> J’étais tout habillée sur mon lit ; je n’eus pas la force de me lever. </p>
+          <p> Ce ne pouvait être l’inanition ; c’était la peur peut-être. </p>
+          <p> Vers midi, les premiers troubles physiques se firent sentir : j’eus des étourdissemens et de crampes d’estomac. </p>
+          <p> Ce rêve affreux qui vient aux affamés rangea autour de moi une table bien servie. </p>
+          <p> Je craignis de devenir folle avant de mourir. </p>
+          <p> Il faut me pardonner si je n’entre pas dans de bien longs détails-sur cette poignante journée. Personne mieux que moi ne pourrait décrire la mort par la faim. Je suis allée jusq’au délire et jusqu’à la perte de la connaissance, mais je manque de courage. </p>
+          <p> Le frisson qui parcourait alors tous mes membres me revient ; les mêmes éblouissemens passent devant mes yeux. J’ai au front des gouttes de sueur froide. </p>
+          <p> Oh ! j’eus peur, moi qui, dans ces pages, me suis vantée plus d’une fois d’être brave ! J’eus horriblement peur. </p>
+          <p> On ne sait pas comme on tient à la vie ! </p>
+          <p> Je pleurai, je criai, je me révoltai, je mordis mes draps, je priai Dieu et la Vierge, tour à tour-avec détresse ou emportement, de m’envoyer u morceau de pain. </p>
+          <p> Il me semblait qu’avec un morceau de pain, je serais sauvée. Je n’avais pas assez cherché, je n’avais rien fait, je me reprochais d’avoir été maladroite et lâche ; je me reprochais de n’avoir pas mendié au coin d’une rue, alors que j’avais encore la force de tendre la main. </p>
+          <p> Soeur Louise ! oh ! bonne soeur Louise ! vous ne m’auriez pas laissé mourir ainsi ! </p>
+          <p> J’arrive tout de suite au hasard -qui me sauva. </p>
+          <p> Je venais de reprendre connaissance, mais je n’avais plus la force de crier ni de bouger. </p>
+          <p> Il était environ huit heures du soir. </p>
+          <p> Sur le même carré que moi demeurait une pauvre ouvrière qui allait en journée dès le matin et ne rentrait qu’à la nuit. </p>
+          <p> Elle avait coutume de venir de temps en temps allumer sa lumière à la mienne. </p>
+          <p> Elle vint : j’eus du pain. </p>
+          <p> Pauvre chère Jeanne ! humble coeur, sanctifié par le travail ! Je me suis assise un jour au chevet de ton lit de souffrance et je ne l’ai quitté qu’après avoir fermé tes yeux. Sois béni, ange de la pauvreté compatissante ! </p>
+          <p> Combien parmi les heureux de la terre auront ta bonne place au ciel ? </p>
+          <p> Jeanne ne voulut point me laisser dans ma chambre. Elle m’emporta comme un enfant dans ses bras. Je couchai auprès d’elle dans son lit. </p>
+          <p> Pendant huit jours, elle fut ma mère. </p>
+          <p> Je convins avec Jeanne qu’elle m’apprendrait son état (elle était giletière) et que je me mettrais dans son atelier. </p>
+          <p> Mais avant de me cloîtrer tout à fait, je voulus remplir un devoir trop longtemps retardé. Mes deux jours de torture avaient porté fruit. Je sentais le besoin d’aller embrasser soeur Louise. </p>
+          <p> Je me rendis à sa maison le matin d’un dimanche. On me dit qu’elle était partie, avec le docteur Méran, pour les forges du Menot, où le typhus régnait avec violence. </p>
+          <p> J’allai entendre la messe aux Quinze-Vingts On retrouve ses idées de piété, quand on s’est vu si près de la mort. </p>
+          <p> Aux Quinze-Vingts, je revis ce bon vieux prêtre qui était venu me visiter lors de ma convalescence, mais je n’osai point lui parler. </p>
+          <p> Je sortis de l’église toute recomfortée. J’avais prié du fond du coeur. Au lieu de rentrer à la maison je suivis, sans trop y penser, la ligne du boulevard. J’avais comme le pressentiment d’une aventure, et chaque fois qu’il en était ainsi, c’était Gustave qui se présentait toujours à ma pensée. Mon coeur y mettait de l’obstination. </p>
+          <p> L’espoir, sans cesse trompé, ne mourait jamais tout à fait. </p>
+          <p> Mais l’aventure qui planait pour moi dans l’air ne devait point encore avoir trait à Gustave. </p>
+          <p> J’étais arrivée, marchant toujours devant moi, jusqu’au boulevard Saint-Denis. Je venais de jeter un regard de convoitise sur l’étalage du marchand de galette (j’avais un faible pour cette friandise populaire), mais le vide était dans ma poche, et pour déjeuner, il me fallait retourner chez ma bonne Jeanne. </p>
+          <p> Je fus interrompue tout à coup dans mes réflexions par un nègre en grande livrée jaune et bleue qui se tenait les côtes en regardant l’effigie de son collègue qui sert d’enseigne à un marchand de pendules de ce même boulevard Saint-Denis. </p>
+          <p> D’un coup d’oeil, je reconnus mon protégé Cupidon. </p>
+          <p> Il était comme en extase devant l’enseigne, et disait à la grande joie des passans : </p>
+          <p> – Li gros vente !… li gourmand !… li cadran où li boyaux !. </p>
+          <p> Et il riait à se tordre ! </p>
+          <p> Il se retourna, comme font ordinairement les noirs, pour chercher de l’approbation parmi ceux qui l’entouraient. </p>
+          <p> Il me vit, cessa de rire, et s’élança aussitôt vers moi. </p>
+          <p> – Ah ! ah !. s’écria-t-il en prenant ma main qu’il baisa devant tout le monde ; – Vous, bon Dieu !… Moi, chez li, messié, qui prené les nègres… Moi, plus faim ! </p>
+          <p> Et il me montrait avec orgueil son superbe costume jaune et bleu. </p>
+          <p> Tout-à-coup, il me regarda des pieds à la tête et le blanc de ses yeux s’agrandit. Toute l’expression de sa physionomie décéla soudain une étonnante intelligence. </p>
+          <p> – Vous avoir faim ! me dit-il ; vous pauvre… moi connè çà ! </p>
+          <p> Je voulus nier, parce que la foule qui m’entourait me faisait honte ; mais il m’entraîna jusqu’au marchand de galette et m’en fit couper une tranche. </p>
+          <p> Les badauds riaient. </p>
+          <p> On croyait que le nègre me faisait la cour. </p>
+          <p> Ou peut-être ne croyait-on rien du tout. Bien fit, celui qui pourrait dire pourquoi les badaude de Paris s’égaient ou ne s’égaient pas. </p>
+          <p> J’ai connu un statisticien qui affirmait que le badaud de Paris représente le terme le plus excessif de la stupidité humaine. </p>
+          <p> Moi, je parierais pour les cockneys de Londres. </p>
+          <p> Ce qui est sûr, c’est que le prix est entre eux deux. Les idiots des autres provenances ne pourraient disputer que l’accessit. </p>
+          <p> Cupidon me raconta, dans son langage bizarre, qu’il était allé au bureau de placement pour me remercier, mais qu’il ne m’y avait plus trouvée. </p>
+          <p> Il avait vu le convoi du vieux placeur ; il avait assisté à une scène violente à la suite de laquelle Félicité avait été expulsée du bureau par l’intervention de la police. </p>
+          <p> Il était maintenant, lui, Cupidon, chez M. Marc Bonnin de la Forest, et déclarait que cette maison pouvait passer pour un paradis terrestre. On y buvait, on y mangeait à discrétion, et, ce qui mieux est, on n’y faisait oeuvre de ses dix doigts. </p>
+          <p> Les nègres avaient pour mission spéciale de se promener le long du boulevard avec la livrée de la maison et un chapeau sur lequel était brodé en toutes lettres le nom de leur maître. </p>
+          <p> C’était tout au plus une demi-innovation, car il y a longtemps que cela se fait pour le collier des chiens. </p>
+          <p> Cupidon était déjà, du reste, fort engraissé, et sa mine faisait grand honneur à l’ordinaire de la maison Marc Bonnin de la Forest. Il y avait de la chair maintenant autour de ses grosses lèvres, et sa peau luisante ressemblait à la première qualité de nos cuirs gras pour voitures. </p>
+          <p> Comme il vit que la foule m’embarrassait et me gênait, il frappa résolument au no 13 du boulevard St-Denis, me fit entrer et jeta la porte sur le nez des badauds. </p>
+          <p> – Moi passer partout ! me dit-il fièrement. </p>
+          <p> Le concierge du no 13 mettait le nez à la fenêtre de sa loge. </p>
+          <p> Cupidon lui dit </p>
+          <p> – Moi, pas vouloir faire le tour, messié. </p>
+          <p> Le concierge se mit à rire et cria à sa femme : </p>
+          <p> – Tire le cordon de la rue Sainte-Appoline, Babet. c’est un de ces moricauds de M. Bonnin qui fait ses farces avec sa dame. </p>
+          <p> Babet, avant de tirer le cordon, voulut voir la dame du moricaud. </p>
+          <p> Je baissai mon voile. Le portier et sa femme se mirent à rire. </p>
+          <p> – Vous voir ! me dit Cupidon en me montrant toutes ses dents jusqu’à la dernière ; moi passer partout ! </p>
+          <p> Cependant, il faut bien avouer que je ne suivais pas mon ami Cupidon uniquement pour continuer avec lui cet entretien fantastique. </p>
+          <p> Il m’avait dit, sur le boulevard, en me présentant galamment sa tranche de galette : </p>
+          <p> – Vous, vouloir ? vous entrer chez maîtresse ? </p>
+          <p> Je désirais avoir à ce sujet quelques explications. </p>
+          <p> La rencontre du nègre me remettait en mémoire ce que j’avais lu peu de jours auparavant, dans les petites affiches, au sujet de la maison Marc Bonnin de la Forest. </p>
+          <p> Cette maison demandait partout des employés avec cautionnement, même des femmes, pour tenir dans Paris des comptoirs de vente de la boisson dite Constantine, faite expressément pour remplacer le vin. </p>
+          <p> – Je déclarai à Cupidon que j’étais hors d’état de fournir un cautionnement. </p>
+          <p> – Cautionnement ! répéta-t-il, pas savoir. Vous lire dans les livres ? maîtresse pas. Vous écrire vite, vite. maîtresse pas. Vous apprendre à maîtresse. </p>
+          <p> Je compris qu’il s’agissait d’être l’institutrice de quelqu’un. Mon coeur battit. Mon plus grand désir allait-il se réaliser ? </p>
+          <p> Mais ce pauvre Cupidon ne me paraissait point être une caution bien sérieuse pour répondre des talens d’une institutrice. </p>
+          <p> Cependant, je ne voulus point négliger cette chance, si faible qu’elle pût être. </p>
+          <p> – Il y a donc une jeune fille à la maison ? demandai-je. </p>
+          <p> – Moi pas dire jeune fille, répondit Cupidon. </p>
+          <p> – Mais, objectai-je, pour que je lui apprenne à lire et à écrire. </p>
+          <p> – Li vieille femme, m’interrompit-il, mais si li pas savoir !. </p>
+          <p> Il me regarda d’un air triomphant. </p>
+          <p> Je ne me contentai pas encore de cette explication ; il me donna les détails qui suivent. </p>
+          <p> La veille, il avait servi le déjeuner de M. et de Mme Bonnin de la Forest. M. Bonnin de la Forest avait déclaré à sa femme qu’il avait honte de sa complète ignorance, et il avait été convenu qu’on la mettrait à l’école. </p>
+          <p> Ces gens m’inspiraient beaucoup de curiosité. </p>
+          <p> J’insistai pour savoir à peu près l’âge de cette Mme Bonnin de la Forest, dont on voulait commnecer l’éducation. </p>
+          <p> – Li vieille ! me répéta Cupidon, li grosse bonne femme ! </p>
+          <p> Pais m’arrêtant court an milieu de la rue : </p>
+          <p> – Vous venir tout de suite. </p>
+          <p> J’hésitai. J’avais été si souvent repoussée. </p>
+          <p> – Mais. demandai-je, me recevra-t-on ? </p>
+          <p> – Moi passer partout ! repartit Cupidon, vous dasser avec moi ! </p>
+          <p> En somme, au pis-aller, ce n’était qu’un coup p’épée dans l’eau. Je n’étais pas à cela près. </p>
+          <p> Je jetai un coup d’oeil sur mon costume plus que modeste, je donnai un tour à ma petite robe, et je dis à Cupidon, devenu mon protecteur : </p>
+          <p> – Conduisez-moi. je vous suis. </p>
+          <p> Cupidon grandit aussitôt d’un demi-pied et se mit à marcher en avant à grands pas. </p>
+          <p> De temps en temps il se retournait pour me montrer la double rangée de ses dents blanches, et me dire : </p>
+          <p> – Vous n’pas peur… li n’mangera pas vous ! </p>
+          <p> Imprimé chez Edouard Krause à Berlin. </p>
+        </div>
+      </div>
+      <head/>
+    </body>
+    <back/>
+    <back/>
+  </text>
+</TEI>
