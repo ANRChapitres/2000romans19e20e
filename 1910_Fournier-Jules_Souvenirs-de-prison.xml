@@ -1,0 +1,617 @@
+<?xml version='1.0' encoding='UTF8'?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> Souvenirs de prison: la cellule numéro 14 </title>
+        <author from="1884" key="" name="Fournier, Jules" sex="male" to="1918"/>
+        <edition n=""/>
+        <editor name="unknown" where="Montréal"/>
+      </titleStmt>
+      <publicationStmt>
+        <date type="created" when="1910"/>
+        <date type="issued" when="1910"/>
+      </publicationStmt>
+      <editionStmt>
+        <profileDesc tag="non-canon" type="genre">
+          <textClass>
+            <keywords/>
+          </textClass>
+        </profileDesc>
+      </editionStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docAuthor/>
+        <docTitle>
+          <titlePart main="Souvenirs de prison"/>
+          <titlePart sub="La cellule n° 14"/>
+        </docTitle>
+      </titlePage>
+    </front>
+    <body>
+      <div title="" type="dedication">
+        <salute> POUR MES FILS ...quand j'en aurai, et qu'ils auront l'âge d'écrire dans les journaux. </salute>
+        <salute>
+          <p> Remerciements </p>
+          <p> L’AUTEUR SE FAIT UN devoir d’offrir ici ses remerciements :  1. À tous ceux qui auront dit du bien de son ouvrage ;  2. À M. Jérémie Décarie, qui a bien voulu lui en prendre cinq cents exemplaires pour les écoles de la Province ; </p>
+          <p> 3. À M. Gouin, qui en aura doublé le succès par ses tracasseries ; </p>
+          <p> 4. À M. le juge Routhier, qui ne manquera pas de consacrer à ces Souvenirs un article élogieux dans la Revue Canadienne ; </p>
+          <p> 5. Au gouverneur de la prison de Québec, M. Morin, qui s’en fera sûrement lire des passages par quelqu’un de ses gardes ; </p>
+          <p> 6. Au citoyen intelligent et généreux qui lui enverra son chèque pour cinq cents dollars ; </p>
+          <p> 7. À M. le juge Cimon. </p>
+        </salute>
+        <p></p>
+      </div>
+      <div title="Loyal avertissement" type="preface">
+        <p> Loyal avertissement </p>
+        <p> L’AUTEUR, DÈS CETTE PREMIÈRE ligne, tient à prévenir qu’il ne parlera maintenant que de lui jusqu’à la table des matières inclusivement (si toutefois il en met une).  Il aurait de beaucoup préféré, dans cette étude sur le régime pénitentiaire, mettre en scène un autre personnage, et par exemple le premier-ministre de la Province de Québec. Malheureusement, M. Gouin n’a pas encore été en prison. </p>
+        <p> Cela viendra tôt ou tard, il faut l’espérer. En attendant, comme ce n’est pas M. Gouin qui a porté la livrée, mangé le skelley ou couché en cellule, mais l’auteur lui-même, on voudra bien lui pardonner, à ce malheureux auteur, si c’est de lui qu’il parle, et non pas de l’autre. </p>
+        <p> Le journalisme mène à tout, proclamait un jour M. Prud’homme. Tour à tour reporter à la Presse , rédacteur au Canada , puis au Nationaliste …, l’auteur de ces lignes a pu vérifier tout à son goût l’exactitude de cette parole. Le journalisme l’a mené tour à tour à la cour du recorder et à l’archevêché, aux conférences littéraires et aux cérémonies religieuses, – dans les maisons hantées, les cabinets de ministres, les parlements de Québec et d’Ottawa, l’hôtel de ville de Montréal et autres mauvais lieux. </p>
+        <p> Le journalisme l’a même conduit un jour en prison pour son compte personnel. Charmant souvenir, dont il demande la permission d’entretenir un moment le lecteur. </p>
+        <p></p>
+      </div>
+      <div title=" 1 Le départ pour les Plaines" type="chapter">
+        <p> 1 </p>
+        <lb/>
+        <p> Le départ pour les Plaines </p>
+        <p> C’ÉTAIT LE 12 JUIN 1909, à Québec.  Le matin même avait comparu, devant M. François Langelier, juge en cette ville, le dénommé Jules Fournier, journaliste, « des cité et district de Montréal », accusé d’avoir publié contre ledit juge un article diffamatoire. Procès plutôt sommaire. À dix heures M. Langelier montait sur le banc ; à midi l’avocat du défendeur avait terminé sa plaidoirie ; à une heure le demandeur prononçait son jugement : trois mois de prison sans appel… </p>
+        <p> Une demi-heure plus tard, je partais pour la prison. On avait bien voulu me faire grâce du panier à salade : je n’ai jamais pu comprendre pourquoi. Le chef McCarthy s’était chargé de me conduire en simple fiacre, et sans aide aucune, à mon nouveau domicile. Ainsi se préparait-il, dès lors, au rôle difficile qui l’attendait dans l’affaire Crippen. </p>
+        <p> Dans le sous-bassement du palais de justice, où l’on m’avait temporairement mis sous clef, j’étais en train de rédiger pour mon journal une courte dépêche, que j’espérais pouvoir glisser, au dernier moment, dans la main d’un ami… Soudain, je vis s’avancer vers moi un homme à moustaches grisonnantes, coiffé d’un simple melon, vêtu comme vous ou moi, et d’aspect si peu féroce que, tout de suite, je ne le jugeai pas plus fait pour faire un policier que moi pour faire un pape. C’était M. McCarthy, le futur protecteur d’Ethel LeNêvé. </p>
+        <p> D’un geste digne de Rambouillet, il me pria de le suivre. </p>
+        <p> Une porte s’ouvrit. </p>
+        <p> — Monsieur… </p>
+        <p> Et, d’un second geste non moins poli, il m’invitait à monter dans sa voiture. Dame ! j’étais son hôte… </p>
+        <p> Et nous voilà roulant tous deux vers les plaines d’Abraham. Notre promenade, à travers les rues pittoresques et les avenues ombreuses, dura bien vingt bonnes minutes. Jamais encore je n’avais eu pareil plaisir à contempler les beautés de cette ville hospitalière. </p>
+        <p> Je ne manquai pas d’en informer mon cicerone. Il me répondit que je n’avais point tort, et m’offrit une cigarette. – Quel charmant homme ! J’en devais, hélas, trouver de moins obligeants quelques heures plus tard… </p>
+        <p> Nous étions alors, je l’ai dit, aux premiers jours de juin. L’été entrait dans toute sa force. Un soleil éblouissant, comme dans Leconte de Lisle, « tombait en nappes d’argent des hauteurs du ciel bleu ». </p>
+        <p> Je ne citai point Leconte de Lisle au chef McCarthy. Je me contentai de lui faire observer, – avec un autre poète, – « qu’il faisait beau temps pour la saison ». </p>
+        <p> À vrai dire, cette citation ne manquait point d’à-propos. Dieux, quelle belle journée ! – Figurez-vous une de ces divines après-midis du commencement de l’été, où la lumière est si puissante qu’elle enivre presque, et qui vous donnent envie malgré vous de tout planter là pour aller courir les bois et les grèves… Des fleurs dans tous les jardins, des oiseaux dans tous les arbres, et partout la riante verdure éclaboussée de soleil. </p>
+        <p> — Juin, juillet et août.. fis-je pensivement. Je n’irai pas cueillir la fraise au bois cette année. </p>
+        <p> — Non, me dit cet aimable homme, mais il doit y en avoir dans la cour de la prison : il me semble en avoir vu. </p>
+        <p> J’étais distrait. </p>
+        <p> — Quoi donc ? demandai-je. </p>
+        <p> — Des fraises. </p>
+        <p> — Ah !… </p>
+        <p> La conversation commençait à languir, lorsqu’enfin nous débouchâmes dans l’avenue de la Grande-Allée. </p>
+        <p> Encore quelques minutes de marche – le temps de griller une dernière cigarette, – et la prison nous apparaissait dans toute sa splendeur, à trois arpents devant nous. </p>
+        <p></p>
+      </div>
+      <div title=" 2 L’arrivée" type="chapter">
+        <p> 2 </p>
+        <lb/>
+        <p> L’arrivée </p>
+        <p> LA PRISON DE QUÉBEC, extérieurement, n’offre rien de remarquable. N’étaient les barreaux de fer qui s’entrecroisent aux fenêtres, on dirait tout aussi bien d’un hospice ou d’un couvent. J’ai vu, depuis, dans l’autre Tarascon, l’antique château du roi René, qui sert aujourd’hui de prison à la ville. C’est infiniment plus intéressant. </p>
+        <p> Mais on ne peut pas tout avoir, et il est permis aux Québecquois de se consoler : si leur prison n’est pas la plus belle du monde, ils ont au moins le plus beau des geôliers, après avoir eu le plus beau des shérifs. </p>
+        <p> Au reste, je n’étais pas encore descendu de voiture, que je ne pensais plus guère à contempler la façade du monument. L’intérieur me préoccupait bien davantage. </p>
+        <p> Ce fût le geôlier (en style cellulaire le gouverneur ) qui se chargea de m’y conduire. </p>
+        <p> M. Morin (tel est son nom) n’était pas précisément un inconnu pour moi. J’avais eu l’avantage de causer avec lui, quelque deux semaines plus tôt, au moment où je rendais visite à mon confrère Asselin, qui pour lors moisissait au fond des cachots… </p>
+        <p> Cette fois-là le gouverneur s’était montré pour moi d’une amabilité touchante. « Ah c’est vous, c’est vous, monsieur Jules Fournier ?… me répétait-il avec insistance. Que je suis heureux de vous voir ! Depuis le temps… » Et il n’achevait plus de me vouloir prodiguer ses embrassements. </p>
+        <p> Je me rappelais tout cela, et aussi comme il avait ri de bon cœur lorsqu’à cette question : « Mais que venez-vous faire ici ? », j’avais répondu, prévoyant le sort qui m’attendait : « Je suis venu choisir ma cellule… » </p>
+        <p> Maintenant… </p>
+        <p> Maintenant, hélas, « quantum mutatus ab illo ! » </p>
+        <p> Ah ! il n’avait plus envie de rire, le gouverneur ! </p>
+        <p> Immobile et rigide comme la statue du Commandeur, il se tenait tout d’une pièce sur le haut du perron. Étonnantes variations d’un cœur de geôlier ! croiriez-vous bien qu’il ne me dit seulement pas : « Bonjour, monsieur » ? Je vis qu’il jetait sur moi, comme je descendais de voiture, des yeux chargés d’un immense mépris. J’en demeurai presque confondu. </p>
+        <p> Pour la première fois depuis le début de mes tribulations, je me demandai si je n’étais point coupable. Ma conscience disait non, mais l’œil du geôlier disait oui. Enfin, je m’arc-boutai comme je pus contre ce regard accablant, et je montai rapidement le perron. Alors, tandis qu’un garde, portant un énorme trousseau de clefs, ouvrait la première porte de fer, le gouverneur fit deux pas vers moi, et, d’un geste rude, m’indiqua le chemin fatal. </p>
+        <p></p>
+      </div>
+      <div title=" 3 On apporte la livrée" type="chapter">
+        <p> 3 </p>
+        <lb/>
+        <p> On apporte la livrée </p>
+        <p> JE PASSE PAR UNE deuxième porte, distante de la première de cinq ou six pieds, j’enfile un couloir, et me voici dans un grand vestibule sombre et humide, rappelant vaguement un hangar abandonné. Une demi-douzaine de gardes s’y promènent à pas cadencés. </p>
+        <p> Dans un coin, une espèce de vieux pupitre sordide, plus deux ou trois chaises suspectes. C’est là qu’on m’amène tout d’abord. </p>
+        <p> — Asseyez-vous… me dit d’une voix de taureau l’un des collaborateurs de M. Morin. </p>
+        <p> Très bien, je m’assieds. </p>
+        <p> Rien à lire, personne à qui je puisse parler… Ce n’est pas réjouissant, et je me demande pourquoi l’on ne m’a pas conduit tout de suite à ma geôle, au lieu de me laisser suspendu de la sorte entre l’air libre et la captivité. </p>
+        <p> En attendant que l’on me tire de cette situation fausse, je m’amuse à considérer, pour me distraire, la pièce où l’on me faire faire antichambre. </p>
+        <p> À ma gauche, vis-à-vis de la porte d’entrée, j’aperçois deux vastes grilles, que sépare un intervalle d’au moins quatre pieds. C’est là, derrière la deuxième rangée de barreaux, que j’irai, dans quelques jours, causer à distance avec mes amis de l’extérieur. En ce moment même, un prisonnier reçoit des visiteurs ; mais il m’est à peu près impossible de discerner ses traits, à cause de l’obscurité… </p>
+        <p> Un peu plus loin, tout près de la porte, un petit cabinet grand comme la main, où je viendrai, par la suite, rencontrer de temps en temps mes avocats. </p>
+        <p> Au mur de droite, une grande horloge. En ce moment elle marque deux heures trente. Encore neuf heures et demie, et j’aurai terminé ma première journée. Il ne me restera plus alors que quatre-vingt-onze jours à faire … Une bagatelle ! </p>
+        <p> Une demi-heure se passe, et je n’ai pas bougé de ma place… Mais voilà que soudain deux gardes se précipitent vers moi, seuls et sans armes. Que me veulent ces hommes intrépides ? </p>
+        <p> — Donnez-nous, me dit le premier d’une voix éclatante, tout ce que vous avez sur vous ! </p>
+        <p> Une à une, je vide mes poches. J’en retire successivement un canif, deux trousseaux de clefs, trois ou quatre lettres, un numéro du Nationaliste , deux dollars cinquante en argent dur, une statuette de la bonne sainte Anne et un portrait de M. Gouin. Aussi, un billet de retour pour Montréal. </p>
+        <p> Quand ce fut fini : </p>
+        <p> — Est-ce tout ? me demanda le deuxième garde. </p>
+        <p> — C’est absolument tout : vous voyez, mes poches sont à l’envers… </p>
+        <p> Et je retourne l’un après l’autre tous mes goussets. </p>
+        <p> — Faites voir, réplique le numéro un. </p>
+        <p> Et les voilà partis, lui et son complice, à vérifier, chacun de ses dix doigts, le vide affligeant de mes poches. Leur conscience étant sur ce point satisfaite, il ne leur restait plus qu’à me palper, puis à me repalper, des pieds à la tête. Rude besogne, qui ne leur prit pas moins de cinq minutes. N’allèrent-ils pas jusqu’à entr’ouvrir ma chemise et à fouiller dans mes chaussettes ? </p>
+        <p> Enfin, fixant mes souliers d’un œil soupçonneux : </p>
+        <p> — Vous n’avez rien là-dedans ? questionna le numéro deux. </p>
+        <p> — Si. </p>
+        <p> — Quoi ? </p>
+        <p> — Des cors. </p>
+        <p> Ainsi s’acheva la cérémonie. </p>
+        <p> J’avais à peine repris place à mon siège, qu’un autre séïde arrivait, les bras chargés d’un gros paquet. C’était ma livrée au complet : camisole rayée, pantalon rayé, chemise en toile bise, sous-vêtements dont saint Antoine eût pu se faire un cilice, souliers du dernier modèle, enfin large panama en paille du pays. </p>
+        <p> L’homme posa délicatement le tout sur le pupitre. </p>
+        <p> — Pour qui ça ? lui dis-je. </p>
+        <p> — Ça, c’est pour vous. </p>
+        <p> — Pour moi ?… Alors pourquoi m’a-t-on fouillé, si l’on doit maintenant m’enlever mes vêtements ? </p>
+        <p> — Ah, quant à ça… demandez au gouverneur ! </p>
+        <p> Quelques minutes plus tard, mon avocat, sur le point de repartir pour Montréal, venait me faire ses adieux. Il s’étonna que je pusse plaisanter en un pareil moment. Je m’étonnai non moins sincèrement qu’il pût ne pas plaisanter. </p>
+        <p> Il m’eût peut-être trouvé moins fier s’il eût pu me voir vingt minutes après, attendant, toujours à la même place, que l’on voulût bien m’emprisonner pour de bon... </p>
+        <p></p>
+      </div>
+      <div title=" 4 On me conduit dans mes appartements" type="chapter">
+        <p> 4 </p>
+        <lb/>
+        <p> On me conduit dans mes appartements </p>
+        <p> MAIS LA BONNE HUMEUR me revint comme par enchantement, lorsque, vers quatre heures, on résolut enfin de me conduire dans mes appartements.  Cela se fit le plus simplement du monde. On ouvrit à ma gauche une petite porte en fer, et j’avançai… </p>
+        <p> De là à la vraie prison, c’est à peine s’il y a trois pas, et vous n’avez qu’à le vouloir pour vous rendre tout de suite aux cellules. Rien n’est plus facile. Vous tournez à votre droite, vous montez un petit escalier branlant, et vous arrivez devant une grande porte grillagée. Vous frappez discrètement, et un garde vient vous ouvrir. Alors, vous pouvez vraiment vous vanter d’être en prison. </p>
+        <p> Imaginez un vaste corridor, d’au moins quarante pieds de long sur cinq de large. D’un côté, douze cellules bien résistantes, aux portes entrebâillées. De l’autre, un mur percé de fenêtres grillagées, par lesquelles on aperçoit la campagne québecquoise… Vous suivez ce corridor jusqu’au bout, vous obliquez à gauche, et vous voilà dans un second corridor, aux fenêtres donnant sur la ville et les champs, et riche également de douze cellules. Tel était mon nouveau domicile. C’est ce que l’on appelle, à la prison de Québec, le ward17. </p>
+        <p> La prison de Québec comprend trois wards principaux : le 11, consacré à ces dames ; le 15, qui est celui des condamnés de droit commun ; enfin le 17, réservé comme qui dirait à l’aristocratie des prisonniers, c’est à savoir : les détenus qui attendent leur procès et les condamnés pour délits spéciaux . </p>
+        <p> Condamné pour délit spécial , et à ce titre placé dans le quartier des simples prévenus, je devais, aux termes mêmes du règlement affiché dans tous les couloirs, être dispensé de la livrée, ainsi que de l’alimentation des condamnés de droit commun. Aussi bien, de l’aveu même du gouverneur , jamais un détenu du 17, avant moi, n’avait encore été astreint à l’une ou l’autre de ces aggravations de peine. </p>
+        <p> Mais il paraît que M. le shérif n’était pas homme à s’embarrasser pour si peu. Ne pouvant tout de même pas m’envoyer au quartier des travaux forcés, il lui restait la ressource de m’imposer, dans le quartier voisin, exactement le même régime. </p>
+        <p> D’abord, on me demanda de dépouiller mes habits et de revêtir la livrée. C’est ce que je dus faire sur-le-champ, en la présence de mes nouveaux collègues , heureusement peu nombreux, et que cette double opération parut intéresser prodigieusement. </p>
+        <p> Quand cela fut fait, et que l’assistant de M. Morin se fût retiré en refermant sur nous la porte du corridor, je poussai un long soupir de soulagement. J’allais donc enfin être tranquille ! </p>
+        <p> Pour la première fois alors, je songeai à considérer mes compagnons de captivité. </p>
+        <p> Ils étaient quatre, y compris le garde. </p>
+        <p> Encore, des trois prisonniers, l’un ne se trouvait-il là qu’en passant. C’était un pensionnaire du 15, un petit vieux à figure attendrie, que son amour de la goutte conduisait à la prison en moyenne trois fois par an, depuis plus d’un quart de siècle. Il devait à sa longue expérience de l’établissement un certain crédit auprès du gouverneur. Aussi le laissait-on circuler un peu partout dans la maison, chaque fois qu’il pouvait fournir le motif, ou seulement le prétexte, d’un travail à faire quelque part. – C’est lui qui tout à l’heure avait transporté ma livrée du parloir au premier étage. Trois fois par jour, il allait chercher à la cuisine, pour les prisonniers du 17, la soupe ou le skelley, qu’il mangeait avec eux. Le reste du temps, il se tenait généralement en bas, dans le 15. </p>
+        <p> Tout de suite, il me plut beaucoup pour sa bonne tête de pochard sympathique. Il paraît que j’eus l’heur aussi de ne lui point déplaire, car, sans hésiter, il se mit à ma disposition « pour tous les petits services » qu’il pourrait me rendre. Il commença par m’enseigner la vraie manière de porter la camisole, et c’est de lui que je tiens l’art, plus subtil qu’on ne pense, d’arborer sur le coin de l’oreille le panama pénitentiaire. </p>
+        <p> Ayant suivi minutieusement ses indications, je lui demandai si cela pouvait faire ainsi . Il faut croire qu’il fut content de son élève, car, sans ajouter un mot, il tira de sa poche un minuscule miroir. </p>
+        <p> — Regardez ! fit-il simplement, l’œil allumé d’un éclair d’orgueil. </p>
+        <p> J’avoue que je ne fus pas sans éprouver moi-même quelque fierté. </p>
+        <p> — C’est sûr, me dis-je, si je paraissais dans ce costume rue Saint-Jacques, vers les dix heures du matin, j’aurais du succès ! </p>
+        <p> J’en avais déjà beaucoup, pour l’instant, auprès de mes deux autres compagnons, lesquels étaient naturellement dispensés de la livrée. Il faut vous dire aussi qu’ils n’étaient accusés que de meurtre et de vol respectivement. Délits véniels, comme chacun sait. </p>
+        <p> La connaissance fut vite faite. </p>
+        <p> — Vous en avez-ti pour longtemps ? questionna le prétendu voleur. </p>
+        <p> — Pour trois mois. </p>
+        <p> — Je voudrais ben être à votre place. </p>
+        <p> Diable ! pensai-je. </p>
+        <p> Cependant, le meurtrier , un gros homme de quarante ans, à traits empâtés, me regardait avec des yeux ronds, rêveusement. C’était un Italien des Calabres, ne sachant pas un mot de français. Il attendait là son procès depuis plus d’un an. On l’accusait d’avoir tué l’un de ses compatriotes, au cours d’une rixe, en le perçant de trente-sept coups de poignard. Sa figure exprimait l’idiotie complète, et un chancre hideux lui mangeait la lèvre supérieure et toute une partie du visage. </p>
+        <p> Telle était la compagnie que venait de me donner, pour trois mois à venir, M. le juge Langelier. </p>
+        <p></p>
+      </div>
+      <div title=" 5 Où l’auteur goûte au skelley pour la première fois" type="chapter">
+        <p> 5 </p>
+        <lb/>
+        <p> Où l’auteur goûte au skelley pour la première fois </p>
+        <p> J’ÉTAIS DANS LE WARD depuis un quart d’heure à peine, lorsque notre collègue du 15 dut s’éclipser, ses services étant pour l’instant requis ailleurs.  Je restai donc seul avec l’Italien, le monsieur accusé de vol, et le garde. </p>
+        <p> L’Italien ne disait mot ; à peine l’entendait-on de temps en temps, entre deux bâillements, pousser une espèce de grognement inarticulé. Le monsieur accusé de vol ne savait parler que de son affaire, ma foi pas très claire ! et quant au garde, il était, c’est le cas de le dire ou jamais, muet comme une porte de prison. </p>
+        <p> Il ne me fallut pas bien longtemps pour juger que d’aucun des trois je ne saurais tirer rien d’intéressant. </p>
+        <p> Par-dessus le marché, pas un livre, et défense absolue d’écrire. Pour plus de sûreté, on était allé jusqu’à me priver d’un petit bout de crayon, que j’avais demandé la permission de conserver. </p>
+        <p> Dès ce moment, je commençai de trouver la prison désagréable. </p>
+        <p> Vous croirez peut-être que ce qui m’ennuyait le plus, c’était la perspective de passer trois mois là-dedans. À vrai dire, cette idée ne me plongeait pas dans une allégresse folle ; mais pour l’instant elle ne me préoccupait pas outre mesure. Je me disais que dès le mardi suivant je verrais mes amis, et que, par leur intermédiaire, je pourrais sans doute me procurer des livres, des revues, peut-être même des journaux, obtenir la permission d’écrire, bref m’arranger un genre de vie après tout supportable. Par exemple, qu’allais-je faire dans l’intervalle, seul avec le garde et ces deux brutes ? Profonde question, que je retournais malgré moi dans mon esprit, non sans quelque terreur… </p>
+        <p> J’en étais à ce point de mes réflexions, lorsque le grincement d’une clef dans la serrure me fit tourner la tête. C’était le pensionnaire du 15 qui nous revenait. En m’apercevant, il me salua, à travers les barreaux, de son plus aimable sourire. Puis il entra, et referma lentement la porte derrière lui. </p>
+        <p> Alors seulement je vis qu’il portait du bras droit quelque chose, – un objet dont je ne pouvais, de loin, que discerner vaguement la forme. </p>
+        <p> Je m’approchai, et j’aperçus, posé sur le plancher devant mon bonhomme, un grand seau en ferblanc, tout noir de crasse et tout bossué, contenant une espèce de liquide fumant, d’aspect épais et gluant. </p>
+        <p> — Qu’est-ce que c’est que cela ? demandai-je. </p>
+        <p> — Ça, monsieur (car il me disait encore monsieur ), ça, c’est le souper. </p>
+        <p> — Et… ça s’appelle ? </p>
+        <p> — Ça s’appelle du gruau. </p>
+        <p> C’était du skelley. </p>
+        <p> Par un oubli que je ne me suis jamais expliqué, l’Académie française n’a pas encore, que je sache, fait entrer ce mot dans son dictionnaire. Larousse ne le mentionne pas davantage, Littré non plus. Vous êtes donc excusable de n’en point connaître au juste la signification. </p>
+        <p> Au reste, on s’instruit à tout âge, et quand vous irez en prison vous apprendrez cela très vite : le skelley , en style pénitentiaire, c’est le gruau spécial avec lequel on nourrit les détenus, c’est-à-dire une espèce de moulée opaque ayant à peu près la consistance et la saveur de la colle forte diluée. (Il paraît que c’est excellent pour refréner les passions.) </p>
+        <p> Tel était le plat de résistance qui m’attendait désormais soir et matin. </p>
+        <p> Mais il ne faut rien cacher. Disons toute la vérité. Avec le skelley, on nous donnait encore du sel, quelques croûtes de gros pain, et même une certaine espèce de liquide qui est à peu près au thé ordinaire ce que le skelley est au gruau. Voici en effet le menu complet qui à cette heureuse époque m’était servi deux fois par jour et gratuitement, aux frais de l’État : </p>
+        <p></p>
+        <lb/>
+        <p> Menu </p>
+        <p> HORS-D’ŒUVRE : SKELLEY.  Potages : skelley.  Entrées : skelley.  Rôtis : skelley. </p>
+        <p> Viandes froides : skelley. </p>
+        <p> Légumes : skelley. </p>
+        <p> Dessert : skelley. </p>
+        <p> Breuvages : le soir : thé léger ; le matin : eau claire. </p>
+        <p> Sel à discrétion.  1 </p>
+        <p> Seul des prisonniers du 17, je devais bon gré mal gré me contenter de ce régime. Les deux autres avaient permission de faire venir leurs aliments de l’extérieur, en tout ou en partie. Le pauvre Italien, à vrai dire, depuis un an qu’il vivait sous la tutelle de M. Morin, n’avait usé que rarement de ce privilège. Soit que ses revenus fussent insuffisants, soit que le skelley n’eût rien de très contraire à ses goûts, il faisait fort bien son affaire de cette alimentation spéciale. Quant à l’autre camarade, ayant épuisé, hélas depuis longtemps, le plus clair de ses ressources, il se contentait de commander en supplément du lait deux fois par jour, et quelquefois des œufs. </p>
+        <p> Mais cela même m’était interdit. Il fallait que la magistrature fût vengée. Et, pour ce motif, je devais, deux fois par jour, manger du skelley avec du sel. </p>
+        <p> (Vous entendez bien, n’est-ce pas, Dansereau mon confrère ? Du skelley avec du sel… Ça ne vous fait pas peur ? ? ?) </p>
+        <p> † </p>
+        <lb/>
+        <lb/>
+        <p> † </p>
+        <lb/>
+        <p> † </p>
+        <p> Je revois encore, comme si cela était d’aujourd’hui, ce premier repas auquel ma Province me conviait. À quatre heures et demie précises, j’avais pris place, avec les camarades, autour des plats énumérés plus haut. </p>
+        <p> Tout de suite, je remarquai l’absence de nappe et de serviettes… À quoi pensait donc M. Morin ? Si l’Italien allait répandre les sauces ! – On avait aussi laissé de côté l’argenterie. Sans doute par crainte des voleurs… </p>
+        <p> Et voici comment nous étions placés à table : à ma droite, l’homme du 15 ; en face de celui-ci, le prétendu voleur ; enfin, me faisant vis-à-vis, l’Italien, également occupé à se gratter son bobo et à prendre du sel à pleines mains dans le récipient commun. </p>
+        <p> J’étais à jeun depuis longtemps, ayant pris mon dernier repas la veille au soir, à Montréal. J’avais donc bon appétit. Et, ce soir-là, j’avalai sans trop d’efforts une grande cuillerée de skelley. Ce fut mon premier repas de prisonnier. </p>
+        <p></p>
+      </div>
+      <div title=" 6 La cellule numéro 14" type="chapter">
+        <p> 6 </p>
+        <lb/>
+        <p> La cellule numéro 14 </p>
+        <p> A CINQ HEURES, NOTRE GARDE, ayant achevé sa faction, céda la place à un collègue.  Rapidement, le nouveau venu fit le tour des deux corridors. Il venait de passer la journée en ville, et tournait la tête de tous les côtés en reniflant, à la façon d’un animal brusquement mis en captivité. On eût dit qu’il traînait encore avec lui, dans l’atmosphère étouffant de la geôle, des bouffées d’air libre… Je le plaignis. </p>
+        <p> Mais, vite apprivoisé, il tira de sa poche une bonne vieille pipe de plâtre, qu’il alluma avec ostentation, et, d’un pas plus tranquille, reprit sa promenade au long des cellules. </p>
+        <p> Après quelques instants de cette gymnastique, il vint me trouver : </p>
+        <p> — Savez-vous, me dit-il, qu’on enferme les prisonniers à cinq heures et demie tous les soirs ? </p>
+        <p> À ma grande confusion, je dus reconnaître que je n’en savais rien. (Hélas, me dis-je en moi-même, encore une chose que mes professeurs ne m’ont pas enseignée…) </p>
+        <p> — Eh bien, reprit-il, c’est comme cela… À c’t’heure, j’m’en vas vous montrer vot’ cellule… Par icite ! </p>
+        <p> Je le suivis… Il marchait à pas mesurés et importants. </p>
+        <p> Vers le milieu du second corridor, il s’arrêta soudain, et poussa une porte. </p>
+        <p> — Ah non, fit-il en reculant, ici, c’est l’Italien. </p>
+        <p> Une odeur s’échappait de ce réduit, tellement nauséabonde, tellement suffocante… Mais n’insistons pas. </p>
+        <p> — Vous, continua le garde en se bouchant le nez, vous aurez celle d’à côté… tenez, le numéro quatorze. </p>
+        <p> … Et le voilà parti sans plus dire, me laissant seul en contemplation devant mon nouveau logement. </p>
+        <p> Ainsi donc, j’allais passer là trois mois, de cinq heures et demie du soir – m’avait dit le garde – à six heures du matin. Déjà cette cellule m’inspirait un profond intérêt. Mettez-vous à ma place. </p>
+        <p> J’y pénétrai avec empressement, et me trouvai dans une chambre de huit pieds sur trois, obscure et suspecte, dont un grabat formait tout l’ameublement… Sur un chevalet branlant, on avait jeté cet étroit maletas rempli de paille, et, par-dessus le matelas, une couverte en indienne, d’une saleté uniforme et repoussante. L’oreiller, également bourré de paille, était dans un non moins bel état : on l’aurait trempé dans la boue qu’il n’aurait pas été plus noir. Me plaindre, réclamer… il n’y avait pas à y songer : on m’eût ri au nez. J’en devais d’ailleurs avoir la preuve le lendemain. </p>
+        <p> Affaibli par un jeûne d’une journée et les fatigues d’un long voyage, j’eusse pu, pour de moindres épreuves, ressentir peut-être quelque découragement : devant une aussi complète, une aussi intégrale sauvagerie, ce qui me frappa tout d’abord, ce fut le comique de la situation. En ce moment l’effort de mes tortionnaires m’apparaissait en quelque sorte à la façon d’une œuvre d’art. Tant de perfection m’émerveillait. Je n’en revenais pas. </p>
+        <p> Je ne dis pas que cela dura longtemps ; mais ce fut bien là ma première impression. Devant cette couverte et cet oreiller, je demeurais bouche bée, pénétré à la fois d’étonnement et d’admiration. </p>
+        <p> Enfin je me laissai tomber sur mon grabat, non sans en avoir au préalable écarté la couverte (car je tenais à protéger mon pantalon rayé), et je me pris longuement le front entre les mains pour réfléchir à ce qui m’arrivait. </p>
+        <p> Soudain, je me sentis toucher à l’épaule par une main bienveillante. </p>
+        <p> — Vous pleurez-ti ? </p>
+        <p> Je reconnus le seul ami que j’eusse encore dans la maison, le vieux pochard du 15. </p>
+        <p> Il venait de ramasser la vaisselle, et se disposait à la remporter à la cuisine, ainsi qu’il faisait tous les soirs. Le temps pressait et il lui fallait se hâter. Mais il n’avait pas voulu partir sans venir me souhaiter bonne nuit. </p>
+        <p> Il me prodigua les encouragements (« Trois mois, c’est vite passé… » etc.), et, surtout, me donna d’utiles conseils quant à la façon de vivre en cellule. </p>
+        <p> — D’abord, dit-il, faut pas oublier de vous prendre tous les soirs un bon grand gobelet d’eau fraîche pour la nuit. On sait jamais : supposons que vous tombiez malade… Tenez, venez avec moi. </p>
+        <p> J’allai donc avec lui me chercher « un bon grand gobelet d’eau fraîche », que je posai délicatement sur le parquet à la tête de mon lit : car pas n’est besoin de vous dire que je ne pouvais guère le poser ailleurs que sur le parquet… </p>
+        <p> Quand cela fut fait : </p>
+        <p> — À c’t’heure, dit-il, j’vas m’en aller, parce que le garde parlerait … Eh ben, bonne chance ; découragez-vous pas ! </p>
+        <p> Sur ces paroles de bonne amitié, mon vieux camarade me quitta, – mais pour revenir l’instant d’après, à ma grande surprise, et devinez avec quoi ? Avec une assiette pleine de skelley ! </p>
+        <p> — Vous voyez, m’expliqua-t-il, c’est du gruau. J’ai vu que vous n’aviez pas mangé, au souper. Alors vous pourriez peut-être avoir faim cette nuit : je vous en apporte une assiettée. Mais cachez-la ben sous vot’lit, pour qu’on ne la voie pas… </p>
+        <p> J’eus bien garde de contrarier cet excellent homme. Je n’avais pas plus envie, en ce moment-là, de manger du gruau que de m’aller pendre ; mais je pris gravement l’assiette, et la glissai sous mon lit. </p>
+        <p> — Merci, lui dis-je, et bonsoir ! </p>
+        <p> — Demain matin, fit-il en se penchant à mon oreille, demain matin je tâcherai de vous apporter un œuf. </p>
+        <p> Et il s’en alla, – pour de bon cette fois… </p>
+        <p> Il ne nous restait plus qu’une quinzaine de minutes avant d’entrer dans nos cellules pour la nuit… Je sortis donc au plus vite de la mienne, afin de jouir au moins de ces quelques instants de liberté relative. Malheureusement, j’avais à peine eu le temps de rejoindre mes deux intéressants camarades, dans le corridor opposé, que déjà le garde s’écriait en frappant dans ses mains : </p>
+        <p> — C’est l’heure d’aller se coucher… c’est l’heure d’aller se coucher… </p>
+        <p> — Mais il n’est pas encore cinq heures et demie… hasardai-je timidement. </p>
+        <p> — Ça ne fait rien, répliqua cet homme d’un ton péremptoire ; un quart d’heure de plus, un quart d’heure de moins, qu’est-ce que cela peut faire ? </p>
+        <p></p>
+      </div>
+      <div title=" 7 Première nuit sous les verrous" type="chapter">
+        <p> 7 </p>
+        <lb/>
+        <p> Première nuit sous les verrous </p>
+        <p> ( Les dames sont priées de passer ce chapitre. ) </p>
+        <p> L’instant d’après, j’entrais dans ma cellule pour la nuit. </p>
+        <p> Une minute peut-être se passa, puis j’entendis résonner sur la dalle du corridor un pas résolu. C’était le garde qui approchait. </p>
+        <p> Il poussa sur moi la lourde porte, qui se ferma avec un grand bruit de ferraille, et la verrouilla conciencieusement. </p>
+        <p> Comme déjà je me préparais à me mettre au lit : </p>
+        <p> — Vous savez, me cria-t-il à travers les barreaux, vous n’êtes pas obligé de vous coucher tout de suite. </p>
+        <p> Cette parole me charma. Pour une fois, me dis-je en moi-même, voilà au moins de la tolérance : on me donne la permission de rester debout. </p>
+        <p> Le malheur, c’est que, dans ces maudites cellules, on ne peut faire deux pas sans se cogner contre un mur, et je ne tardai pas à m’en apercevoir. </p>
+        <p> Je résolus donc de m’en tenir à ma première idée, et de m’installer pour la nuit, sans plus tarder, sur mon gentil grabat. </p>
+        <p> Comme je devais d’ailleurs continuer de le faire par la suite, j’eus bien soin, ce soir-là, de ne pas enlever mes habits. Je retirai seulement mes souliers, et gardai ma livrée : c’était mon seul bouclier contre la paillasse, et surtout contre la couverte. Quant à l’oreiller, je l’enveloppai du mieux que je pus dans un vieux numéro de journal. Ainsi protégé, je pus croire un moment que j’allais dormir comme un prince. </p>
+        <p> Ce qui m’en empêcha tout d’abord, ce fut l’heure peu avancée à laquelle je tentais l’entreprise. En ce temps-là, je travaillais surtout le soir et il m’arrivait assez fréquemment de passer la nuit blanche sur un article. Allez ensuite essayer de vous endormir à cinq heures et demie de l’après-midi ! </p>
+        <p> J’ai dit qu’on se trouvait au commencement de juin. C’est une époque où les jours sont joliment longs, et à l’heure dont je parle le soleil était loin d’avoir fini sa course. Par les fenêtres du corridor, ses rayons arrivaient jusqu’à ma cellule, dont ils éclairaient vaguement l’entrée. Avec de bons yeux on pouvait encore lire, et j’eusse volontiers embrassé les mains noires de mon geôlier pour obtenir qu’il me prêtât des livres. </p>
+        <p> Deux heures plus tard, nous étions à peu près dans l’obscurité ; mais je n’avais pu encore fermer l’œil. </p>
+        <p> À neuf heures, ténèbres complètes. Je songeais alors au Nationaliste . « Ils doivent en être maintenant aux derniers Échos , me disais-je. Oh ! que ne puis-je m’envoler pour quelque temps rue Sainte-Thérèse ? Un mois de ma vie pour m’y trouver une heure ! » </p>
+        <p> Longtemps après, je réussis à m’assoupir ; mais ce ne fut que pour un instant : bientôt je me réveillais en sursaut, avec des tiraillements d’estomac. J’étendis la main sous mon lit, vers l’assiette providentielle, et, de nouveau, j’avalai une grande cuillerée de skelley. </p>
+        <p> Toutes les demi-heures, un garde passait dans le corridor, une lanterne à la main. </p>
+        <p> — Quelle heure est-il ? demandai-je. </p>
+        <p> — Onze heures vont sonner. </p>
+        <p> Et je m’endormais moins que jamais… </p>
+        <p> Vers minuit, les émanations qui s’échappaient de la cellule voisine prirent une violence d’égoûts débordés. Alors seulement je compris pourquoi l’on m’avait mis à côté de l’Italien… Sur les vingt-quatre cellules du quartier, il y en avait vingt-deux de libres au moment de mon arrivée ; et, sur ces vingt-deux, on avait justement choisi celle-là. Mon crime, paraît-il, n’exigeait pas moins. </p>
+        <p> De tous les petits supplices que l’on réussit à m’infliger sous le toit de M. Morin, j’avoue que celui-là me fut de beaucoup le plus pénible. Chaque fois qu’un garde passait devant la cellule fatale, je l’entendais hâter le pas presqu’avec terreur, poursuivi jusqu’au bout du corridor par cette odeur de charnier. </p>
+        <p> Je ne songeais plus aux tiraillements d’estomac. À tâtons dans les ténèbres, je refis mon lit comme je pus, de façon à m’appuyer la tête au mur du fond… Et, dans cette position commode, j’attendis patiemment le sommeil. </p>
+        <p> Enfin, vers deux heures du matin, je réussis à m’assoupir. </p>
+        <p> Je fis des rêves enchantés, où le geôlier, humble et prosterné, m’offrait en tremblant beaucoup de skelley dans des vases en or ; où le shérif m’apportait de ses propres mains des draps immaculés pour mon grabat ; où les trois Langelier, enfin, pour me distraire, venaient ensemble danser devant moi la danse du ventre… Et surtout je vis l’Italien, vêtu d’un tuxedo et le cigare aux lèvres, me tendre sur un plateau d’argent de menus flacons d’eau de cologne… </p>
+        <p> Je m’éveillai comme l’aube paraissait. </p>
+        <p> Quelque temps après, on venait nous ouvrir les portes… </p>
+        <p> C’était dimanche, et déjà le soleil emplissait les corridors d’une grande lueur vermeille. </p>
+        <p></p>
+      </div>
+      <div title=" 8 Un beau dimanche" type="chapter">
+        <p> 8 </p>
+        <lb/>
+        <p> Un beau dimanche </p>
+        <p> LA MESSE, OBLIGATOIRE POUR tous les prisonniers, se disait à neuf heures.  J’arrivai dans la chapelle, avec mes deux compagnons du 17, un peu en retard ; tous les autres détenus s’y trouvaient depuis plusieurs minutes déjà. Notre entrée causa quelque émotion : « mouvements divers et prolongés ». Je ne fus pas peu flatté d’apprendre que mon humble personnalité provoquait à elle seule cet intérêt. Non pas que ces messieurs fussent bien touchés de mon sort : seulement, pour eux, j’étais le nouveau. Sujet toujours digne de curiosité. </p>
+        <p> Le prêtre qui officiait n’en était évidemment pas à sa première messe, et j’entendis vanter par un voisin sa célérité. Nous fûmes bientôt au prône. C’était ce jour-là la solennité de la Fête-Dieu. Bref sermon sur le sujet, accompagné de conseils sur la façon de se conduire dans l’état difficile de prisonnier… Puis la fin de la cérémonie, l’ Ite missa est , et le départ précipité des prisonniers pour leurs quartiers respectifs. </p>
+        <p> Tout à côté de l’autel se trouve une petite pièce, meublée d’une table et d’une chaise unique, où l’aumônier de la prison reçoit chaque dimanche, après la messe, les détenus qui ont à lui parler. Cette fois-là il y en avait bien cinq ou six. J’étais du nombre. Restés seuls dans la chapelle, sous la surveillance d’un garde, nous attendions le moment de pénétrer, chacun à notre tour, dans cette retraite. </p>
+        <p> Je goûtais, quant à moi, un grand bonheur à l’idée de pouvoir passer là quelques instants, en conversation avec mon aumônier . D’avance, je me figurais l’un de ces prêtres, débordants de charité ardente et d’humaine tendresse, comme j’en avais tant vus ailleurs, et tels qu’on se représente tout naturellement un aumônier de prison. Quelle désillusion m’attendait ! Monsignor T… est sans nul doute un fort excellent homme, et le Ciel me préserve de vouloir faire entendre le contraire ! Il me parut d’ailleurs instruit, intelligent, et rempli des meilleures intentions. Seulement, le contraire même de ce que j’attendais ! Le tempérament le plus flegmatique, la nature la plus fermée, la physionomie la plus impassible. Enfin, le type même de la froideur : un vrai glaçon ! </p>
+        <p> Quand mon tour fut venu de lui parler, je m’avançai. </p>
+        <p> — Quel est votre nom ? me demanda-t-il. </p>
+        <p> Je le lui avouai en rougissant. </p>
+        <p> — Ah oui… reprit-il, vous êtes arrivé hier… Trois mois, n’est-ce pas ?… Ah, pauvre malheureux, vous êtes bien à plaindre ! </p>
+        <p> — Vous trouvez ? eus-je envie de lui répondre. </p>
+        <p> Il se tut un instant, comme s’il ne trouvait plus rien à dire. Puis il reprit : </p>
+        <p> — Et… que puis-je faire pour vous ? </p>
+        <p> — Vous pourriez peut-être, dis-je, me prêter des livres ? </p>
+        <p> Mais il n’en avait pas un seul sous la main. Il finit par me remettre une liasse presque énorme de brochures et de publications pieuses : Bienfaits de la Pénitence, Méditations sur le Purgatoire, Traité de la Bonne Mort, etc. – Au moins, me dis-je en moi-même, voilà qui n’est pas folichon ! </p>
+        <p> Ce paquet sous le bras, je sortis dans la cour, où l’on me permettait pour l’instant une courte excursion. J’y retrouvai l’Italien, en train de se vautrer dans l’herbe haute, et mon autre compagnon, qui pour lors se promenait au long des murs, les deux mains dans ses poches et pensivement. </p>
+        <p> Comme j’arrivais près d’eux, je m’entendis interpeller brusquement : </p>
+        <p> — C’est vous, monsieur Fournier ? </p>
+        <p> Hein !… une voix féminine qui m’appelle ?… À cette heure, en ce lieu ?… Je levai la tête vers le deuxième étage – et j’éclatai de rire. Je venais d’apercevoir madame de Saint-A…, que j’avais eu l’honneur de recevoir un samedi soir au Nationaliste , quelque six semaines auparavant. Il faut vous dire qu’en ce temps-là cette honorable dame avait maille à partir avec la Justice, tant québecquoise que montréalaise. Incidemment, le Nationaliste avait été amené à dire son avis sur madame de Saint-A… et le favoritisme dont elle bénéficiait. </p>
+        <p> Aussi ne fus-je pas trop étonné quand elle reprit : </p>
+        <p> — Ah ! vous avez voulu rire de moi, dans le Nationaliste ; eh bien, vous y êtes, en prison, vous aussi. Je suis bien contente ! </p>
+        <p> — Vous n’êtes pas la seule, répondis-je. </p>
+        <p> Et là-dessus je m’éloignai, cependant que ma charmante ennemie entonnait une romance d’amour, de sa voix la plus empoignante. Elle vous avait, de temps en temps, des accents à attendrir les tigres, qui donnaient à mon Italien des yeux de langueur et faisaient quasiment se pâmer les gardes... </p>
+        <p> † </p>
+        <lb/>
+        <lb/>
+        <p> † </p>
+        <lb/>
+        <p> † </p>
+        <p> La musique, ainsi qu’on l’a prétendu, adoucirait-elle les mœurs ? Notre geôlier, comme ses inférieurs, aurait-il entendu chanter la belle captive ? Voilà ce que je me demandais, quelques heures plus tard, en voyant s’avancer vers moi M. Morin, le sourire aux lèvres et tout épanoui. Telle est la troublante question que je me posais. </p>
+        <p> Eh bien, dois-je le dire ? j’y ai souvent repensé depuis, et j’en suis venu à une autre conclusion. Non, en vérité, M. Morin ne s’était point laissé amollir par madame de Saint-A… </p>
+        <p> Seulement, il avait, ce midi-là, comme je devais l’apprendre par la suite, mangé à son dîner tout un quartier d’agneau, arrosé de quelques pintes de lager. Et sa digestion se faisait le plus heureusement du monde. Son attendrissement n’avait pas d’autre source. </p>
+        <p> Au moment qu’il entrait dans le ward , nous étions bien sortis de table depuis une heure. À ce repas du midi, nous avions fait notre beau dimanche d’une certaine soupe aux légumes, dans laquelle avaient trempé de vagues morceaux de bœuf. Ce bœuf aussi nous était destiné. Mais, comme il ne faut jamais abuser des bonnes choses, on le réservait pour le dîner du lendemain. Ainsi, pas d’excès à craindre, et ma digestion, à moi aussi, se faisait le plus heureusement du monde. </p>
+        <p> Cependant, M. Morin daigna s’informer si je me trouvais bien du régime de la prison. J’en profitai pour lui mendier des livres. </p>
+        <p> « Des livres ! » Si vous aviez vu, à ces mots, quel œil sévère il me jeta ! </p>
+        <p> Je crus d’abord qu’il allait se fâcher. Mais non : </p>
+        <p> — Attends un peu… me dit-il. Tu vas voir que je ne suis point aussi mauvais diable qu’on le dit. </p>
+        <p> « Attends un peu… Tu vas voir… » Hein ! il me tutoyait ?… Parfaitement. Comment cela se faisait-il ? </p>
+        <p> Je devais l’apprendre plus tard. M. Morin, depuis qu’il occupait ce poste important de gouverneur , avait désappris absolument de dire vous , du moins à la prison. Le vin des grandeurs lui avait tellement monté à la tête, qu’il lui fallait tutoyer tout le monde. </p>
+        <p> — Toi, disait-il un jour à Asselin, on ne t’en veut point… </p>
+        <p> — Qu’est-ce que nous avons donc gardé ensemble, encore, monsieur Morin ? </p>
+        <p> — Comment dites-vous ? s’exclamait brusquement le gouverneur , piqué au vif. </p>
+        <p> Et le lendemain matin, il recommençait… La force de l’habitude, vois-tu ? </p>
+        <p> Un autre trait de sa mentalité, c’était l’usage immodéré qu’il faisait du mot point . Jamais vous ne l’eussiez entendu prononcer cet abverbe en trois lettres : pas . Ce mot lui paraissait mesquin, peu distingué et, pour tout dire, misérable. – « N’est-ce point ? » était une de ses expressions favorites... </p>
+        <p> Mais, sans me donner le temps de scruter tous ces problèmes, il reprit aussitôt : </p>
+        <p> — Je m’en vais t’en chercher, un livre. Un beau, tu sauras me le dire ! </p>
+        <p> Sur ces mots, il disparut. </p>
+        <p> Je restai dix longues minutes à guetter son retour, également partagé entre la crainte et l’espérance. </p>
+        <p> — J’ai bien le droit d’espérer, pensais-je. Car enfin, s’il me tutoie, c’est qu’il ne me veut pas de mal. </p>
+        <p> Et cette douce pensée me faisait sourire. </p>
+        <p> — Cependant, me disais-je, l’instant d’après, il a dit : « un beau livre ». Or, qu’est-ce que cela peut bien être, pour un homme ordinaire, un livre auquel M. Morin trouve des beautés ? </p>
+        <p> Et là-dessus je me sentais passer dans la nuque un petit frisson de terreur. </p>
+        <p> Enfin le gouverneur revint. </p>
+        <p> — Tiens, dit-il en me posant dans les mains un gros volume à couverture sale… Tiens, qu’est-ce que je te disais ? </p>
+        <p> Non sans trembler, je jetai les yeux sur le titre. </p>
+        <p> C’était « le Centurion , roman des temps messianiques, par M. A.-B. Routhier ». </p>
+        <p></p>
+      </div>
+      <div title=" 9 Le médecin malgré moi" type="chapter">
+        <p> 9 </p>
+        <lb/>
+        <p> Le médecin malgré moi </p>
+        <p> LE DOCTEUR ROBITAILLE ÉTAIT en ce temps-là médecin de la prison de Québec. Il est mort depuis ; Dieu ait son âme !  À l’époque dont je parle, il n’avait pas moins de soixante-dix ans bien comptés. Il était sourd comme plusieurs pots et, malgré un cornet acoustique plus gros que sa tête, ne comprenait jamais un traître mot de tout ce qu’on lui disait. </p>
+        <p> Il restait aux détenus, pour communiquer avec lui, la suprême ressource de lui exposer par écrit leurs besoins. Mais encore cela n’était pas toujours facile. Jamais je n’ai tant regretté, quant à moi, de n’avoir pas de style. </p>
+        <p> À peu près tous les jours, entre dix heures et midi, il faisait son apparition dans les corridors du 17. La première fois que je le vis, son aspect m’étonna. Figurez-vous un petit vieux, perdu dans une ample redingote, et qui s’avançait à pas peureux et hésitants… Son nez épaté, ses yeux bridés, sa figure grimaçante et barbue, lui donnaient tout à fait l’air d’une chauve-souris clouée sur un contrevent. Sa bouche toujours entr’ouverte laissait apercevoir ses dents, et un sourire égaré errait continuellement sur ses lèvres… </p>
+        <p> De toute évidence, cet homme-là était tombé depuis longtemps dans le gâtisme. Pourquoi l’on laissait tout de même entre ses mains les vies de tant d’infortunés, c’est ce que je ne pus comprendre tout d’abord. Un garde se chargea de me l’expliquer : </p>
+        <p> — Voyez-vous, me dit-il, le docteur est ici depuis vingt-cinq ans : le renvoyer, ce serait sa mort. </p>
+        <p> Pour cette profonde raison, le docteur Robitaille restait donc – avec le docteur LeBel – l’un des deux médecins de la prison. Un mois sur deux, il avait toute liberté de prodiguer ses soins aux détenus. </p>
+        <p> Son cornet acoustique d’une main, de l’autre un thermomètre – toujours le même, – il faisait régulièrement le tour de la prison chaque matin. Il prenait la température aux malades, leur tâtait le pouls, leur faisait tirer la langue… Tout cela avec conscience et lenteur. </p>
+        <p> Mais où il brillait principalement, c’était dans l’auscultation. Le docteur Robitaille avait cette passion-là : l’auscultation. Vingt fois par jour on le trouvait penché sur la poitrine d’un malade. Peu lui importait la nature du mal, et qu’il s’agît d’une inflammation de poumons, d’une indigestion ou d’une écorchure au genou, ce lui était tout un… L’auscultation rentrait pour lui dans la thérapeutique proprement dite, et volontiers il eût dit : Je l’auscultai, Dieu le guérit. </p>
+        <p> Chose remarquable, ce besoin d’ausculter, loin de s’apaiser, grandissait avec la surdité du docteur. Les jours où il n’entendait absolument rien, pas même avec son cornet, de véritables rages d’auscultation le prenaient. Un matin qu’il était plus sourd encore que la veille, je le vis ausculter l’Italien, qui souffrait, comme je vous l’ai conté, d’un bobo à la lèvre supérieure. Une autre fois (mais à cela je n’ose croire), on assure qu’il ausculta un détenu qui se plaignait de durillons au pied gauche. – Toujours sans l’aide d’aucun instrument, je crois vous l’avoir dit… </p>
+        <p> Serez-vous bien étonné si j’ajoute qu’il trouvait rarement à ses patients les maux dont ils se croyaient atteints ? – En revanche, et c’est là la merveille ! il leur découvrait continuellement toute sorte de maladies effroyables dont ils prétendaient n’avoir jamais souffert. C’est ainsi qu’il vous déclarait sans plus de cérémonie, si vous l’alliez consulter pour un mal de tête : « Vous, mon ami, j’ai votre affaire… J’ai vu cela tout de suite : vous êtes atteint d’une maladie de cœur qui vous emportera promptement. » C’est ainsi que certain jour il disait à un dyspeptique : « Ce soir vous vous mettrez des mouches noires… Vous avez une congestion : ça pourrait devenir dangereux. » </p>
+        <p> . . . . . . . . . . . . . . . . . . . </p>
+        <p> . . . . . . . . . . . . . . . . . . . </p>
+        <p> Au moment que j’entrai en prison, je souffrais d’une dépression qui inspirait de vives craintes à mon médecin. Les nuits blanches du Nationaliste m’avaient complètement épuisé et ma santé, paraît-il, était aussi compromise que possible. </p>
+        <p> Je me hâte d’ajouter, pour rassurer mes nombreux ennemis, que j’ai eu le temps, depuis, de me remettre. À l’heure où j’écris ces lignes, je ne suis pas loin de peser le poids d’un député ordinaire ; mes muscles s’affermissent chaque jour, on dit même que je prends du ventre, et si je continue je serai bientôt aussi épais qu’un numéro de la Presse. </p>
+        <p> Mais en 1909 j’étais loin de pouvoir en dire autant. Mon médecin m’abreuvait sans relâche de toniques, et je me rappelle fort bien que durant les deux mois – notamment – qui précédèrent ma condamnation, je ne pus me tenir debout qu’à force de suralimentation. </p>
+        <p> Je voulus savoir du docteur Robitaille s’il faisait, au point de vue de ma santé, une différence quelconque entre les viandes saignantes et le skelley. Il m’assura qu’il n’en voyait aucune. </p>
+        <p> — Toutefois, dit-il, pour plus de sûreté, je m’en vais vous ausculter. </p>
+        <p> Ayant mis à exécution ce projet : </p>
+        <p> — Je vois, dit-il en me regardant au blanc des yeux, ce que vous avez. C’est des apéritifs qu’il vous faut. Je m’en vais vous envoyer des amers. </p>
+        <p> Durant la semaine qui suivit, il ne manqua pas un seul jour de me venir ausculter, ni de m’envoyer des amers. </p>
+        <p> Oh ! ces amers… Régulièrement, à tous les repas, on me les apportait dans ma cellule. Je n’ai pas souvenir qu’on y ait manqué une seule fois. </p>
+        <p> Le malheur, c’est que plus on me donnait envie de manger, moins on me donnait de quoi manger. J’en étais toujours réduit au skelley matin et soir, à la soupe aux légumes ou à la jambe de botte le midi. </p>
+        <p> Vous pouvez penser si j’avais là de quoi faire , comme disait mon médecin, de la suralimentation ! </p>
+        <p> En six jours, – grâce aux amers, je suppose, – j’avais bien pu prendre de huit à dix bouchées à la table pénitentiaire. Je n’exagère pas. </p>
+        <p> Joignez à cela le repos bien mérité de la cellule (de cinq heures et demie du soir à six heures du matin), dans l’atmosphère parfumée par le voisinage de l’Italien ; les insomnies et les nausées… et dites si je n’aurais pas eu mauvaise grâce à me plaindre ! </p>
+        <p> Le jour même de mon arrivée, j’entendis un garde faire en ma présence cette constatation encourageante, que je n’avais que la peau et les os. Une semaine plus tard, j’avais maigri de quinze livres. </p>
+        <p> Et le docteur continuait à m’envoyer des amers. </p>
+        <p> Il est mort depuis ; Dieu ait son âme ! </p>
+        <p></p>
+      </div>
+      <div title=" 10 Le « gouverneur »" type="chapter">
+        <p> 10 </p>
+        <lb/>
+        <p> Le « gouverneur » </p>
+        <p> M. MORIN – DE son prénom Joseph – était notre geôlier.  Il se faisait appeler le gouverneur. – « Le gouverneur vient de passer dans le 15… », se chuchotaient entre eux les détenus. </p>
+        <p> Si vous n’avez jamais été en prison, chère madame, c’est en vain que je tenterais de vous expliquer le sens profond que prenaient alors pour nous ces quatre syllables : le gou-ver-neur. </p>
+        <p> Lui-même ne les prononçait jamais sans une certaine solennité. Il avait, notamment, une façon à lui de dire : « Ça, ça regarde le gouverneur... », qui évoquait tout de suite quelque chose de grand. – Pour cette âme simple, nul titre ne passait en majesté celui-là. M. Morin ne l’eût pas échangé contre un sirage. On l’eût presque insulté en lui disant Excellence, et je sais qu’il considérait comme un grave manque de respect qu’on l’appelât Monsieur... </p>
+        <p> Avant de gouverner la prison de Québec, avec ses vingt-trois gardes et ses soixante-seize détenus, M. Morin avait eu un jour l’ambition de gouverner la province de Québec. On retrouve en effet son nom dans la liste de nos législateurs, à quelque dix ans en arrière, comme représentant d’une quelconque circonscription d’en bas de Québec : Matane ou Rimouski, je ne sais plus au juste… Comme il était naturel, la politique devait le conduire à la prison. – Mais, tout d’abord, qu’est-ce qui l’avait conduit à la politique ? </p>
+        <p> En ce temps-là, M. Morin jouissait déjà de quelque notoriété parmi les pêcheurs de la côte et les habitants des concessions. C’est qu’il exerçait, comme l’auteur de ces lignes, un métier qui conduit à tout. Il commerçait sur les bœufs. Dans cette carrière, un homme est toujours sûr de se populariser. M. Morin, pour sa part, n’y manqua point. Tout en achetant des bêtes pour le marché, il travaillait ferme à se faire des amis parmi les électeurs. Bœufs à bœufs, il préparait sa majorité. (Aïe, typographe, attention !…) </p>
+        <p> Au moment que je le connus, M. Morin mesurait environ cinq pieds onze pouces. Comme il avait alors cinquante-trois ans révolus, j’ai lieu de croire qu’il n’a pas grandi depuis. En revanche on m’apprend, de diverses sources, qu’il a notablement engraissé. Mettons qu’il ait gagné cinquante livres : il devrait être aujourd’hui dans les 275… C’est beaucoup, mais ce n’est pas excessif. À la ferme modèle d’Oka, l’an passé, j’en ai vu qui pesaient bien près du double. Il a, pour le reste, de larges épaules, et, comme marchand de bœufs, tout à fait le physique de l’emploi. Voici d’ailleurs sa photographie : </p>
+        <p> Il serait vraiment dommage, pour l’honneur de la race, qu’une telle figure périt tout entière. Notre gouvernement se doit à lui-même de fixer dans le métal qui dure cette tête toute d’élégance et de distinction. Espérons qu’un jour ou l’autre M. Chevré sera chargé d’en prendre un moulage, pour orner la prison de Québec. </p>
+        <p> Il en pourrait faire une gargouille. </p>
+        <p> † </p>
+        <lb/>
+        <lb/>
+        <p> † </p>
+        <lb/>
+        <p> † </p>
+        <p> Toutes ses manières à notre égard – que nous fussions condamnés pour vol, pour adultère ou pour libelle – étaient empreintes tour à tour, ou même à la fois, de condescendance et de brutalité. « Je sens deux hommes en moi », disait saint Augustin, cité par Daudet. Comme ce grand saint, M. Morin sentait deux hommes en lui ; c’est à savoir, le député ou le candidat (ce qui on le sait, veut dire la même chose) et le commerçant d’animaux. Selon qu’il était l’un ou l’autre, c’est-à-dire selon qu’il traitait les détenus en électeurs ou en bœufs, ceux-ci passaient du comble de la joie aux extrémités de l’infortune. – Il arrivait même assez fréquemment que les deux personnages en lui se mêlaient, sans qu’on pût dire exactement où commençait le député, où finissait le marchand de bestiaux. </p>
+        <p> J’ai, je puis m’en flatter, bien connu l’un et l’autre, – et singulièrement le second… </p>
+        <p></p>
+      </div>
+      <div title=" 11 Le « gouverneur » (suite)" type="chapter">
+        <p> 11 </p>
+        <lb/>
+        <p> Le « gouverneur » ( suite ) </p>
+        <p> PENDANT SEIZE JOURS ENTIERS – du douze au vingt-huit juin mil neuf cent neuf – cet aimable homme ne cessa pas un instant, j’ose le dire ici, de s’intéresser à moi.  J’ai conté plus haut comment il m’avait reçu lui-même des mains de la police, au moment que je frappais à la grande porte d’entrée. Quelques heures après on me conduisait derrière des barreaux de cellule : c’était M. Morin qui les avait choisis. Chaque soir, il en venait vérifier de ses yeux la solidité. – Ah ! je ne lui échapperais point ! – Une fois, deux fois, au cours de ma détention, les honorables juges de la cour d’appel me firent l’honneur de réclamer ma présence au palais de justice. M. Morin en personne se chargea de m’y accompagner. Je le vois encore à ma droite dans la voiture, le front soucieux, l’œil méfiant et sévère, cependant qu’en face de nous, sur la banquette d’avant, le garde X… me considérait d’un air farouche, la main sur un revolver de fort calibre. – Au sortir d’une de ces audiences, il prit un jour à des journalistes, en présence de M. Morin, la fantaisie de lui photographier malgré lui son prisonnier. Croiriez-vous bien qu’il voulut les obliger à briser leurs plaques ? Pour ce fonctionnaire scrupuleux, mon image même était prisonnière. </p>
+        <p> † </p>
+        <lb/>
+        <lb/>
+        <p> † </p>
+        <lb/>
+        <p> † </p>
+        <p> Plus que cela : – non content de protéger mon corps contre toute atteinte, il veillait encore avec un soin jaloux sur les intérêts de mon âme chrétienne. </p>
+        <p> La première fois que l’on voulut, de l’extérieur, m’envoyer des livres, ce fut toute une affaire. </p>
+        <p> On se trouvait au mardi, jour de parloir, et plusieurs amis en avaient profité pour me venir voir. Quelques-uns, devinant mes besoins, traînaient des bouquins pleins leurs poches. Ils prièrent le gouverneur de vouloir bien m’en remettre au moins deux ou trois. </p>
+        <p> — Donnez toujours, dit M. Morin, mais il ne pourra pas les recevoir avant dimanche. </p>
+        <p> — Et pourquoi, s’il vous plaît ? </p>
+        <p> — Parce que je ne les connais point, ces livres-là… Faudra d’abord qu’ils soient soumis à l’aumônier. </p>
+        <p> — Mais vous pouvez lui téléphoner, à l’aumônier ? </p>
+        <p> — Je ne suis point ici pour me bâdrer de celà ; ça ne me regarde point. </p>
+        <p> Heureusement, l’aumônier, mis au courant, se hâta d’intervenir, et, peu d’heures après, je m’enfonçais avec ivresse dans un bon vieux livre. Ce n’était pas trop tôt ; songez que depuis plus de trois jours j’étais soumis à un jeûne absolu : à la table on m’affamait de la façon que j’ai dite ; comme nourriture intellectuelle on me réduisait au Centurion, ce skelley de l’esprit. – Après ce jour béni, je continuai, il est vrai, à partager la pâtée de l’Italien : du moins M. Routhier me fut-il épargné… Je retrouvai Molière, Racine, La Bruyère, Taine, Louis Veuillot. Dieux, quelles bombances je fis ces jours-là ! Si dès lors la famine compliquée d’amers ne m’eût jeté dans un épuisement complet, je crois que j’aurais lu du matin jusqu’à la nuit. Enfermé toujours vers les cinq heures de l’après-midi, je passais du moins dans les livres les deux ou trois heures qui à ce moment-là nous séparaient encore de l’obscurité ; et tant qu’une dernière lueur filtrait par les barreaux, vous m’eussiez trouvé là les yeux fixés sur quelque passage de Phèdre ou des Odeurs de Paris –… en attendant celles de la cellule voisine. </p>
+        <p> Au début, le gouverneur se défiait. Il regardait d’un œil hostile tous ces inconnus, dont il n’avait jamais entendu parler dans son comté, non plus qu’au parlement de Québec ; aussi n’arrivaient-ils que lentement, et un par un, dans le 17. À la longue, cependant, la tutelle de M. Morin à cet égard se fit moins difficile. Le shérif, sur les derniers jours de mon internat, ayant permis qu’on m’envoyât les journaux, le gouverneur venait lui-même me les apporter – la plupart du temps en retard d’une journée, mais n’importe… Du Nationaliste, on m’adressait chaque jour les journaux français. Ceux-ci attendaient encore plus longtemps que les autres : « fallait les montrer à l’aumônier » ; ni la Croix ni l’Univers n’étaient exempts de cette formalité. Mais ce fut avec un sourire de pure béatitude que M. Morin m’apporta un jour, après dîner, une feuille de Paris qu’il venait de recevoir à mon adresse, et en faveur de laquelle il avait cru pouvoir prendre sur lui de faire une exception : c’était la Guerre sociale, du citoyen Gustave Hervé. </p>
+        <p> Quant aux livres, il finit par s’y accoutumer de même. Un jour, il laissa passer l’ouvrage de Pellico, Mes Prisons. À dater de cette heure, l’audace de mes visiteurs ne connut plus de bornes. </p>
+        <p> — La prochaine fois, me dit l’un d’eux, je vous envoie du Maupassant. </p>
+        <p> — Une vie ? Pierre et Jean... ? </p>
+        <p> – Oh ! bien plus amusant que cela ! Vous l’avez certainement lu : c’est un de ses livres les plus célèbres… </p>
+        <p> — Mais lequel, encore ? </p>
+        <p> — Ce cochon de Morin.  1 </p>
+        <p></p>
+      </div>
+      <div title=" 12 À barreaux rompus - Les distractions de l’établissement" type="chapter">
+        <p> 12 </p>
+        <lb/>
+        <p> À barreaux rompus - Les distractions de l’établissement </p>
+        <p> J’AI DIT QUE LES livres, au bout de quelque temps, me furent permis. M. Morin lui-même me rendra ce témoignage, que du moins je n’en abusai pas. L’état d’épuisement où m’avait jeté la diète devait bientôt m’interdire jusqu’à cette distraction. </p>
+        <p> Il me restait, tous les deux jours, de sortir une heure ou deux dans la cour avec les camarades. Cette cour était d’assez vastes dimensions. La prison de deux côtés, et, des deux autres côtés, un mur en maçonnerie, lui faisaient une espèce de cadre rectangulaire d’aspect parfaitement agréable. L’herbe y poussait en abondance, parsemée de fleurs bleues et de fleurs jaunes, de trèfles fleuris, et surtout de marguerites. Bref, un vrai coin d’idylle. Joignez que j’y portais des sentiments très bucoliques, et presque l’habit du berger. Il n’y manquait qu’une bergère… Mais j’oubliais madame de Saint-A…, qui, du deuxième étage, épanchait dans ses romances, avec une ardeur jamais diminuée, le trop-plein de son cœur inassouvi. </p>
+        <p> Cependant, pour m’aider à digérer le skelley que je n’avais point mangé, je me livrais éperdument aux sports. Je faisais de la course avec les autres bandits, je m’exerçais à soulever les poids les plus légers, et surtout je n’avais pas mon égal pour me chauffer au soleil. – Le baseball aussi m’intéressait fort. Il y avait, dans un coin de la cour, une vieille balle qui n’était pas un objet d’une petite antiquité. De mémoire de prisonnier, on n’avait pas connaissance d’en avoir vu d’autre en l’établissement. Telle quelle, elle faisait notre bonheur… Dame ! quand on ne peut se payer le champagne, on fait comme M. Morin, on boit du lager ; et quand on ne peut jouer au billard avec les ministres, on joue au baseball comme on peut, avec des voleurs ordinaires. Cela vaut encore mieux que rien. </p>
+        <p> Hélas, ce bonheur même était de courte durée. Onze heures avaient à peine sonné, qu’il nous fallait rentrer, pour jusqu’au surlendemain, dans les corridors humides du 17. Puisque l’on nous avait envoyés à l’ombre !... </p>
+        <p> À midi, l’on apportait les victuailles ordinaires. Assis à la table commune, je jouissais longuement de voir l’Italien s’empiffrer, – tout en se grattant. Je n’avais ensuite, jusqu’au moment d’entrer en cellule pour la nuit, d’autre plaisir que d’arpenter sans fin les corridors. Exercice encore plus épuisant, dans l’état où j’étais, que la lecture même du Centurion , et qui m’obligeait fréquemment à m’aller jeter sur mon grabat, pour prendre un peu de repos… </p>
+        <p> Entre quatre et cinq heures, cependant, comme approchait le moment d’être mis sous verrous, vous m’eussiez presque toujours trouvé debout dans le corridor numéro 1, qui est celui du sud. Là, le front collé contre la vitre et les yeux fixés sur l’admirable paysage de la campagne québecquoise, que termine au loin la ligne bleue des montagnes, je m’évadais en esprit de ma geôle pour aller courir la prétentaine parmi les champs et les bois… Un clocher, incendié par le soleil de juin, marquait ça et là l’emplacement d’un village. – Les heureuses gens qui vivent là ! pensais-je. Ils n’ont jamais vu de gouverneur et ils ne savent peut-être même pas ce que c’est qu’un juge. M. Morin n’est point chargé de veiller sur leurs jours et le skelley leur est inconnu… – Droit en face de nous, de l’autre côté du fleuve, on apercevait distinctement la gare de la Pointe-Lévis, et, courant au long de la côte, la voie de l’Intercolonial. Des convois y passaient à toute heure du jour, que l’on voyait venir de fort loin dans la campagne. C’est ainsi que chaque après-midi j’assistais à l’arrivée du train de Montréal… De temps en temps, un clair bateau remontait le fleuve : « Encore un que je ne prendrai pas ! » me disais-je. </p>
+        <p> C’est à quoi se bornaient, je crois, toutes mes distractions. Ah ! pardon, j’oubliais la principale : les visites. </p>
+        <p> Deux fois par semaine, – le mardi et le vendredi, – j’avais permission de recevoir des visiteurs. Alors, je descendais pour quelques minutes au parloir. Voici comment la chose se passa la première fois… et toutes les autres fois : </p>
+        <p> Un garde, envoyé par le gouverneur , se présentait à la porte du 17 et, d’une voix retentissante, s’écriait : </p>
+        <p> — Fournier… au parloir ! </p>
+        <p> Fournier, justement ému par cet appel, quittait précipitamment Molière ou M. Faguet. Il jetait un dernier coup d’œil sur sa livrée, fixait solidement sur sa tête le panama d’infamie, et, d’un pas tranquille, se rendait au parloir. </p>
+        <p> Imaginez un réduit humide et très ténébreux, de huit pieds de profondeur par dix de largeur… Sur vous s’est refermée une porte massive, et vous vous trouvez en face d’une grille aux barreaux serrés qui, tout d’abord, vous empêche complètement de voir quoi que ce soit… </p>
+        <p> Mais peu à peu vos yeux se font à l’obscurité, et vous distinguez, à six pieds environ devant vous, une autre grille, tout aussi serrée, et, derrière cette grille, votre visiteur. </p>
+        <p> Alors, la conversation s’engage… </p>
+        <p> Le malheur, c’est que deux ou trois autres prisonniers, alignés à vos côtés devant les barreaux, reçoivent également des visiteurs. Pour se faire entendre, tous crient à haute voix… Vous criez vous aussi. Et cela fait le plus beau charivari du monde. </p>
+        <p> C’est alors, mon cher lecteur, qu’il vous aurait fallu me voir ! Ah ! pour crier je n’avais pas mon pareil… </p>
+        <p> — C’est vous, monsieur Landry ? disais-je au sénateur, que j’apercevais vaguement dans la pénombre. </p>
+        <p> — Oui, c’est moi… Mais ce n’est pas vous, n’est-ce pas ?… Ôtez donc votre chapeau, au moins, que l’on vous reconnaisse. </p>
+        <p> Ôter mon chapeau !… Il n’y pensait pas, le sénateur : c’était mon plus bel ornement ! </p>
+        <p> Tout de même, on causait… Politique, et caetera. Toujours en présence de deux ou trois détenus et d’une demi-douzaine de gardes. </p>
+        <p> Mais, hélas, ces bonheurs étaient de la prison, « où les plus belles choses, a dit Malherbe, ont le pire destin »… : à la fin du compte un collaborateur de M. Morin me venait toucher à l’épaule. – « Le gouverneur dit que c’est assez. Il a peur que vous vous fatiguiez. » </p>
+        <p> Alors : </p>
+        <p> — Bonjour, sénateur… m’écriais-je. </p>
+        <p> Et je remontais mélancoliquement au 17. </p>
+        <p> † </p>
+        <lb/>
+        <lb/>
+        <p> † </p>
+        <lb/>
+        <p> † </p>
+        <p> Dites donc, lecteur… comment auriez-vous aimé cela, vous ? </p>
+        <p></p>
+      </div>
+      <div title=" 13 « Prends-toi-z-en au shérif ! »" type="chapter">
+        <p> 13 </p>
+        <lb/>
+        <p> « Prends-toi-z-en au shérif ! » </p>
+        <p> UN JOUR, JE DIS à M. Morin :  — Gouverneur...  Car, depuis longtemps, je ne l’appelais plus autrement, sachant les bonnes manières. </p>
+        <p> — Gouverneur , en vérité vous n’êtes pas raisonnable. D’abord, vous me faites porter la livrée. Je n’en dirais trop rien s’il n’y avait que la veste et le pantalon, accoutrement ridicule, mais point douloureux. J’endurerais même sans protester ce chapeau-là, qui me fait mal à la tête, et ces souliers, quoi qu’ils pèsent bien cinq livres chacun. Mais ce qui n’est vraiment pas supportable, ce sont les sous-vêtements que vous m’avez donnés. Ils seraient de fil barbelé qu’ils ne pourraient mieux m’écorcher. Ils m’ont déjà mis les épaules tout au sang, et les démangeaisons qu’ils me causent sont plus cuisantes encore que celles qui me prennent d’écrire contre vous dans les journaux. </p>
+        <p> « En deuxième lieu, votre skelley, gouverneur , j’ose le dire, n’est pas mangeable. Je vous défie bien seulement d’y goûter… Voilà qui est sérieux, vous en conviendrez. </p>
+        <p> « Troisièment, je suis toujours le dernier à dépouiller ma correspondance et, quant aux cigares qui me sont envoyés, j’ignore ce qu’ils deviennent, mais ce n’est jamais moi qui les fume. » </p>
+        <p> M. Morin répondit, comme de raison, en se retranchant derrière le règlement. </p>
+        <p> — Est-ce aussi, demandai-je, le règlement qui vous commande toutes les autres petites vexations auxquelles vous me soumettez : livres égarés pendant deux ou trois jours en vos tiroirs, – comme par hasard ; visiteurs renvoyés sans même un prétexte… et le reste ? </p>
+        <p> « Est-ce le règlement qui vous obligeait à me faire fouiller et refouiller des pieds à la tête, à mon arrivée, lorsque déjà vous aviez donné l’ordre de me dépouiller entièrement de mes habits ? </p>
+        <p> « Enfin et surtout, gouverneur , est-ce le règlement qui vous obligeait à me fixer, sur les vingt-deux cellules libres du 17, précisément la voisine de celle dont cet honorable Italien a fait à la fois sa bouge et son charnier ? » </p>
+        <p> . . . . . . . . . . . . . . . . . . . </p>
+        <p> M. Morin, tout d’abord, ne répondit pas. Il cessa seulement, pour une minute, de fumer sa bonne pipe, et, levant tout à coup la tête, souffla longuement vers le plafond, à la manière des cachalots de sa rive natale… </p>
+        <p> Puis il me dit : </p>
+        <p> — Je n’ai point le temps de discuter tout ça… Mais j’ai fait ce qui doit être fait. Moi, je ne connais qu’une chose : c’est le règlement. Le règlement, tout est là ! </p>
+        <p> Ce règlement, ce fameux règlement dont M. Morin avait toujours plein la bouche, il n’y avait guère de monde, à la prison, qui le connût. Et je crois même que le prestige dont il jouissait lui venait, pour beaucoup, précisément de cette ignorance. Pourtant, on le trouvait affiché très en vue dans le grand vestibule de l’entrée, à la chapelle, dans les corridors, et même, je crois, dans le bureau du gouverneur. </p>
+        <p> Un jour, j’eus la curiosité d’y jeter un coup d’œil. Voici ce que j’y lus tout d’abord : </p>
+        <p></p>
+        <lb/>
+        <p> Des prisonniers </p>
+        <p> LA CLASSIFICATION DES PRISONNIERS sera basée sur les distinctions suivantes :  I. – Adultes attendant leur procès pour la première offense (sic).  II. – Enfants de moins de seize ans, attendant leur procès. </p>
+        <p> III. – Adultes condamnés pour la première fois et récidivistes attendant leur procès. </p>
+        <p> IV. – Prisonniers condamnés récidivistes. </p>
+        <p> V. – Les débiteurs, les témoins retenus par la Couronne, les accusés ou condamnés politiques, ou pour délits spéciaux. </p>
+        <p> VI. – Cette dernière classe ne sera pas soumise (sic) à porter le costume prisonnier (sic) , et elle pourra recevoir, du dehors, des objets de vêtements, de literie et d’alimentation, moins les liqueurs spiritueuses, soumis toujours à ce sujet aux règles établies par le gardien en la forme pourvue. </p>
+        <p> J’avais là la preuve que mes geôliers, loin d’obéir à corps défendant , comme ils le prétendaient, aux règlements de la prison, les violaient au contraire avec intrépidité en m’imposant la livrée et le skelley. </p>
+        <p> De même, je trouvais quelques lignes plus bas cet autre article : </p>
+        <p> XXI. – L’usage de la pipe et des cigares est interdit, excepté aux prisonniers de la classe spéciale et aux accusés de première faute. </p>
+        <p> C’est probablement pour cela, me dis-je, qu’il n’est permis à nul visiteur de me faire parvenir du tabac. </p>
+        <p> Je fis part de ces observations à M. Morin, qui me répondit en peu de mots : </p>
+        <p> — Ça, ça ne regarde point le gouverneur. Si tu n’est point content, prends-toi-z-en au shérif ! </p>
+        <p></p>
+      </div>
+      <div title=" 14 Le shérif" type="chapter">
+        <p> 14 </p>
+        <lb/>
+        <p> Le shérif </p>
+        <p> IL EST DEPUIS DEVENU juge. – On dit qu’il ne l’a pas volé.  Porte le nom patronymique de Langelier ; le prénom de Charles.  A écrit – avec ses pieds – un livre intitulé Souvenirs politiques , où il confesse publiquement une partie des turpitudes de sa vie. </p>
+        <p> Doit peser dans les 230. </p>
+        <p></p>
+      </div>
+      <div title=" 15 Que vos amis se taisent, ou bien… gare à l’Italien !" type="chapter">
+        <p> 15 </p>
+        <lb/>
+        <p> Que vos amis se taisent, ou bien… gare à l’Italien ! </p>
+        <p> PLACÉ ENTRE CES TROIS personnages : le shérif, le gouverneur et le médecin, il ne me manquait rien de ce qu’il faut pour mourir promptement. Le seul malheur, pour ces messieurs, c’est que je ne tenais pas du tout à mourir. Il me restait, hélas, encore quelques articles à écrire dans les journaux… </p>
+        <p> Le gouverneur me disait : </p>
+        <p> — Vous êtes malade ? Eh bien ! voyez le médecin… </p>
+        <p> Là-dessus nous arrivait le docteur Robitaille. </p>
+        <p> — Vous savez, lui criais-je dans le cornet, je suis très souffrant. </p>
+        <p> — Ah ! oui, répondait-il, je comprends… Vous avez mal aux dents ! </p>
+        <p> — Non, je suis souffrant… souffrant. </p>
+        <p> — Vous êtes mourant ? ? ? </p>
+        <p> . . . . . . . . . . . . . . . . . . . </p>
+        <p> . </p>
+        <p> Le troisième jour, je pris le parti de lui écrire. </p>
+        <p> Alors seulement il parut comprendre ; et c’est à dater de ce moment qu’il commença de m’envoyer des amers… </p>
+        <p> Deux jours plus tard, réduit à peu près à la dernière extrémité (je n’avais alors pas mangé depuis je ne sais quand…), je lui demandai, ni plus ni moins, s’il voulait m’assassiner. </p>
+        <p> — Voilà cinq jours, lui disais-je, que je vous supplie de me transférer à l’infirmerie. Vous voyez vous-même en quel état je suis : voulez-vous, oui ou non, me tuer ? </p>
+        <p> À quoi M. Robitaille répondait, en propres termes : </p>
+        <p> — Il vous faut d’abord voir le gouverneur . Moi, je ne puis pas outrepasser mes pouvoirs. </p>
+        <p> Derechef, je vis donc le gouverneur . Et le gouverneur me dit : </p>
+        <p> — Écoute… (car il me tutoyait toujours, le gouverneur ! ) écoute… Toi, on ne t’en veut point... Seulement, tâche (sic) que tes amis de l’ Événement jasent un peu moins fort… Alors, tout s’arrangera. </p>
+        <p> — Mais, gouverneur , lui disais-je, ne pourriez-vous pas, en attendant, me changer de cellule ?… Tenez-vous tant que cela à me laisser empoisonner chaque nuit par l’Italien ? Sur les vingt-deux cellules libres du 17, ne pourriez-vous m’en donner une autre que celle que j’occupe à cette heure ? </p>
+        <p> — On n’est pas pour encourager les gens de l’ Événement !... répondait alors le gouverneur d’un ton péremptoire. </p>
+        <p> J’te crois… Oh ! pardon, cher lecteur : je croyais parler à l’Italien… Je vous crois, veux-je dire… Je vous crois, qu’on ne voulait pas encourager les gens de l’ Événement ! </p>
+        <p> À ce moment, j’avais certainement pris, depuis mon arrivée, de six à huit cuillerées de skelley, plus trois ou quatre cuillerées peut-être d’un certain potage. J’ai rappelé plus haut le mot de ce garde qui, dès l’instant de mon entrée, me jugeait maigre à faire peur. Vous pensez un peu si après cinq jours de ce régime j’avais le ventre bedonnant et le teint fleuri ! </p>
+        <p> C’est Bossuet, je crois, – à moins que ce ne soit M. Jérémie Décarie, – qui prétendait qu’une âme guerrière est toujours maîtresse du corps qu’elle anime. Il faut croire que je n’ai pas beaucoup l’âme guerrière, car je n’étais pas dans le 17 depuis deux jours qu’à tout moment j’éprouvais l’impérieux besoin de me jeter sur une chaise, ou au moins de m’appuyer au mur, pour ne pas tomber… </p>
+        <p> La faim sans doute, pour beaucoup, mais aussi, et bien davantage, le supplice des nuits sans sommeil passées à côté de l’Italien, avaient fini par me plonger dans un épuisement que, par amour-propre, j’aime mieux ne pas vous dépeindre. </p>
+        <p> Les gardes eux-mêmes, qui le remarquaient, ne purent s’empêcher d’en parler au gouverneur . </p>
+        <p> Mais en vain. </p>
+        <p> † </p>
+        <lb/>
+        <lb/>
+        <p> † </p>
+        <lb/>
+        <p> † </p>
+        <p> En vain aussi mon médecin écrivait-il, de Montréal, qu’un tel régime pourrait rapidement m’être fatal. </p>
+        <p> En vain le shérif lui-même était-il instruit de mon état : « Vous savez », disait-il un jour à deux de mes amis qui lui demandaient la permission de me venir voir, « vous savez, il paraît qu’il est malade, à la prison, votre ami Fournier, assez sérieusement malade, même … » </p>
+        <p> Or, deux jours plus tard, je n’avais pas encore quitté le 17. </p>
+        <p> † </p>
+        <lb/>
+        <lb/>
+        <p> † </p>
+        <lb/>
+        <p> † </p>
+        <p> — Tâche que tes amis jasent moins fort, m’avait dit le gouverneur. – De son côté, le shérif déclarait à mes visiteurs ( affidavit de MM. Philippe Landry, sénateur, et Hector Authier, journaliste, aujourd’hui correspondant de la Presse à Québec) : </p>
+        <p> « Les amis de Fournier ont bien tort de faire tant de bruit autour de son nom, à propos de son emprisonnement. S’ils voulaient seulement se tenir tranquilles, ne faire aucune agitation quelconque dans les journaux, je suis convaincu qu’au bout d’un mois au plus Fournier serait libre. Il sortirait de prison libéré par le ministre de la Justice, auquel il faudrait présenter une requête demandant sa grâce. Cette requête serait référée au juge qui a prononcé la sentence. Je n’ai aucun doute que celui-ci serait favorable (sic). Précisément, hier, François me disait qu’il n’aurait aucune objection à recommander la mise en liberté de Fournier. Qu’est-ce que ça peut lui faire, à François , que Fournier soit en prison un mois au lieu de trois comme il l’a condamné (sic) ? Tout ce que voulait François , c’était que son jugement fût une leçon pour le public ; mais dès que le ministre de la Justice lui remettra la requête en grâce, il est prêt à faire un rapport favorable… » (Textuel) . </p>
+        <p> En d’autres mots, ces messieurs, non contents de fouler aux pieds les règlements pour me rendre la vie dure, spéculaient encore sur mon état de santé dans l’espoir de m’arracher un consentement que je ne voulais pas donner. </p>
+        <p> On avait commencé par m’affamer et par me tuer à demi par un régime tel qu’on n’en impose pas de pire aux incendiaires ou aux faussaires, puis après cela M. le shérif Langelier me donnait à choisir… : </p>
+        <p> — Décidez vos amis à ne pas critiquer le jugement de mon frère ; arrêtez toute agitation autour de cette affaire, et dans trois semaines vous serez libre. Mais si vos amis font du potin, c’est vous qui paierez pour … </p>
+        <p> En d’autres mots encore, on me faisait dire, à la fois par le shérif et par le gouverneur : </p>
+        <p> – Que vos amis se taisent, ou bien… gare à l’Italien ! </p>
+        <p> Le cou sur le billot – je veux dire en face de la cellule mortelle – je refusai ce marché honteux… </p>
+        <p></p>
+      </div>
+      <div title=" 16 À l’infirmerie" type="chapter">
+        <p> 16 </p>
+        <lb/>
+        <p> À l’infirmerie </p>
+        <p> LE 18 JUIN, DANS l’avant-midi, mon médecin, venu de Montréal tout exprès dans cette intention, se présentait au bureau du shérif.  — Monsieur, dit-il à M. Langelier, on m’apprend que Fournier, malade à la prison, est cependant tenu au strict régime de la cellule et du gruau. Il ne m’appartient pas de décider si, même en bonne santé, l’on devrait ainsi le confondre avec les condamnés de droit commun, – les voleurs et les assassins. Beaucoup de braves gens prétendent le contraire, et, comme citoyen, je ne vous cacherai pas que je partage leur sentiment… Mais ce n’est pas à ce titre que je me présente à vous ; c’est uniquement en ma qualité de médecin. Fournier est mon client, je sais qu’il est très malade depuis longtemps, et j’ai cru qu’il était de mon devoir de vous en prévenir moi-même. En prolongeant l’épreuve que vous lui imposez, en refusant de l’admettre à l’hôpital, vous ferez plus que de compromettre sa santé : vous le conduirez très probablement à une mort prochaine. Je vous le déclare sur mon honneur de médecin… </p>
+        <p> « Je n’ajoute qu’un mot. – Continuez, si bon vous semble, à priver mon client du traitement que réclame son état. Cela vous regarde. Seulement, s’il meurt des suites de ce régime, soit pendant son emprisonnement soit quelques semaines après être sorti des mains de vos geôliers, je vous préviens que je ne me gênerai pas pour écrire dans les journaux de médecine, sous ma signature, que vous avez commis un assassinat. Maintenant, faites comme vous l’entendrez… » </p>
+        <p> Le soir même, on me transférait à l’infirmerie. Pure coïncidence ! </p>
+        <p> † </p>
+        <lb/>
+        <lb/>
+        <p> † </p>
+        <lb/>
+        <p> † </p>
+        <p> Ce fut donc le 18 au soir que j’entrai dans ce nouveau séjour. J’en devais sortir le 29 au matin. </p>
+        <p> Durant ces dix jours, je n’eus pas trop à me plaindre de l’existence. </p>
+        <p> Dire que je goûtai le paradis sur terre, ce serait exagérer. Je sais bien qu’au paradis il y aura aussi un geôlier : seulement ce ne sera pas M. Morin ; et des cantiques : mais non pas ceux de madame de Saint-A… Et puis, nous y verrons probablement beaucoup de choses qui n’existent pas du tout à l’infirmerie de la prison de Québec. </p>
+        <p> Cependant, comparé à la réclusion cellulaire, ce régime était encore supportable. </p>
+        <p> Il me permit d’entreprendre une étude approfondie de la vie de prison. Les mœurs des prisonniers, leurs habitudes, leurs ambitions, leurs querelles, tout cela bientôt n’eut plus de secrets pour moi. </p>
+        <p> Vous croiriez peut-être que je trouvai dans ce spectacle quelque monotonie. Erreur, mon cher ami, complète erreur ! Rien au contraire n’est plus varié, plus amusant et plus mouvementé que cette vie-là. Je n’en finirais pas si je devais vous conter tout ce qu’il me fut donné de voir dans ce court espace de temps : les mille industries des prisonniers pour tromper leur ennui ou se procurer des effets de contrebande ; leurs amitiés, leurs rivalités, leurs combats ; les airs importants ou résignés des gardes ; les potins et cancans de la prison ; la romanesque idylle de L…, le petit épileptique, que sa fiancée venait voir deux fois par semaine au parloir ; les rêves de gloire de Z…, le barbier, qui avait été artiste-amateur et se croyait du génie ; enfin l’héroïque aplomb de X… </p>
+        <p> Figurez-vous que cet animal de X…, malgré sa jeune obésité, sa trogne agréable et son teint ruisselant de suif, avait tout de même trouvé moyen de se faire admettre à l’infirmerie. En peu de temps, il avait fait de cet endroit son domaine à lui, son royaume. Il y menait un genre de vie véritablement extraordinaire pour un prisonnier. Malgré les règlements, qui le condamnaient comme les autres au skelley, il se gavait à chaque repas de poulet ou de bifteck. Les vins même ne lui faisaient point défaut, et le dimanche il ne manquait jamais de sabler le champagne à la santé du gouverneur … – Sous l’œil distrait ou indulgent des gardes, il se croyait tout permis, jusqu’à l’évasion exclusivement. Mais comment songer à s’évader d’un tel séjour ? – Comme j’allais lui faire mes adieux, le matin de mon départ, je le trouvai dans une grande agitation. Il achevait, en ce moment-là précisément, un travail de longue haleine et de haute patience : c’est à savoir, la démolition d’une cloison en bois donnant sur l’escalier des prisonnières… </p>
+        <p> † </p>
+        <lb/>
+        <lb/>
+        <p> † </p>
+        <lb/>
+        <p> † </p>
+        <p> …Mais j’anticipe. Tous ces faits, avec beaucoup d’autres, feront le sujet d’une seconde série de Souvenirs , qui paraîtra, je l’espère, prochainement. </p>
+        <p> J’aurai aussi l’honneur, dans ce même ouvrage, de faire part au public de mes longues et patientes observations sur les nombreuses variétés de coquerelles qui peuplent l’infirmerie de la prison de Québec. </p>
+        <p> J’ai, je puis m’en flatter, bien étudié les mœurs de ces insectes et leurs habitudes. – Mes relations avec eux datent de ma première nuit à l’infirmerie. Je venais d’éteindre ma lumière, et j’avais à peine eu le temps de fermer l’œil, que je sentais… quelque chose me monter dans le cou, puis me traverser lentement la figure. C’était une maîtresse coquerelle, une aïeule certainement, – comme qui dirait, dans le monde des cancrelats, un gouverneur. J’étendis la main, et je vis qu’elle mesurait bien près de deux pouces. Je voulus la retenir entre mes doigts… Alors, un combat terrible s’engagea dans les ténèbres. Lutte épique, dirait Mousseau, mon député ; combat de Jacob avec l’Ange !… Je l’avoue à ma confusion, ce fut la coquerelle qui l’emporta ; elle finit par s’échapper. </p>
+        <p> À dater de ce moment, les coquerelles furent l’objet de ma constante attention. Matin, midi et soir, je ne guettais qu’elles dans l’établissement… Le soir, en particulier, c’était avec un intérêt toujours nouveau que je les voyais former leurs imposantes cohortes, pour monter, en rangs épais, à l’assaut des fromages épars en nos tiroirs. Touchante image de nos députés aux deux parlements ! </p>
+        <p> Au moment que je quittai la prison, j’achevais justement d’en apprivoiser un couple. Ces admirables orthoptères, comme on dit vulgairement, me reconnaissaient entre tous les prisonniers comme leur bienfaiteur. Aussi dédaignais-je volontiers en leur faveur les rats et souris, qui pourtant ne manquaient point dans l’établissement. </p>
+        <p> † </p>
+        <lb/>
+        <lb/>
+        <p> † </p>
+        <lb/>
+        <p> † </p>
+        <p> Si j’avais eu des fils, je leur aurais dédié cette première série de Souvenirs , – qui pourrait tout aussi bien s’intituler les Mémoires d’un Affamé , – pour leur apprendre à savoir au besoin, dans la carrière, serrer d’un cran leur ceinture… </p>
+        <p> En souvenir des coquerelles et des rats, tribus fraternelles et jamais assouvies, je dédierai, de grand cœur, ma seconde série à notre députation ministérielle. </p>
+        <p></p>
+        <p> 1.  Simple allusion à un jugement que pas un journal n’a cité, mais dont j’ai la copie « par devers moi », comme dirait l’académicien Choquette, et où le juge Demers dit que M. Louis-Joseph Forget, sénateur, et un certain nombre d’autres, se sont rendus coupables de fraude en se vendant à eux-mêmes au rabais, sous le nom de Dominion Textile Co., les biens de leurs mandants, les actionnaires de la Dominion Cotton Co. — O. A. </p>
+        <p> 1.  « L’eau et le sel seront donnés ad libitum. » – « Règlements généraux pour l’administration des prisons communes, » chap. XIII, art. 6. </p>
+        <p> 1.  « Ce cochon de Morin », par Guy de Maupassant, 1 vol. in-18, édition Paul Ollendorf. </p>
+      </div>
+      <head/>
+    </body>
+    <back/>
+    <back/>
+  </text>
+</TEI>
