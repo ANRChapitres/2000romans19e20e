@@ -1,0 +1,2126 @@
+<?xml version='1.0' encoding='UTF8'?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Les ailes de courage</title>
+        <author from="1804" key="" name="Sand, George" sex="female" to="1876"/>
+        <edition n="">""</edition>
+        <editor name="Calmann Lévy" where="Paris"/>
+      </titleStmt>
+      <publicationStmt>
+        <date type="created" when="1873"/>
+        <date type="issued" when="1886"/>
+      </publicationStmt>
+      <editionStmt>
+        <profileDesc tag="canon" type="genre">
+          <textClass>
+            <keywords>
+              <term>littérature jeunesse</term>
+            </keywords>
+          </textClass>
+        </profileDesc>
+      </editionStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docAuthor/>
+        <docTitle>
+          <titlePart main=""/>
+          <titlePart sub=""/>
+        </docTitle>
+      </titlePage>
+    </front>
+    <body>
+      <div title="I" type="chapter">
+        <head>I</head>
+        <p/>
+        <p>Il y avait dans les terres du pays d’Auge, du côté de Saint-Pierre-d’Azif, à trois lieues
+          de la mer, un bon paysan et sa femme qui, à force de travail, étaient devenus assez
+          riches. Dans ce temps-là, c’est-à-dire il y a environ cent ans, le pays n’était pas très
+          bien cultivé. C’étaient des herbages et puis des herbages, avec des pommiers et encore des
+          pommiers ; un grand pays tout plat, à perte de vue, et de temps en temps un petit bois de
+          noisetiers avec un jardinet et une maison de bois et de torchis, la pierre étant rare. On
+          élevait par là de bonnes vaches, on faisait d’excellent beurre et des fromages renommés ;
+          mais, comme il n’y avait alors ni grandes routes, ni chemins de fer, ni toutes ces maisons
+          de campagne qu’on voit aujourd’hui sur la côte, le paysan n’avait pas beaucoup d’idées et
+          n’inventait rien pour augmenter ou varier les produits de la terre.</p>
+        <p>Celui dont je vous parle s’appelait Doucy et on appelait sa femme la mère Doucette. Ils
+          avaient plusieurs enfants qui tous travaillaient comme eux, n’inventaient pas davantage et
+          ne se plaignaient de rien, tous très bons, très doux, très indifférents, ne faisant rien
+          vite, mais faisant toujours quelque chose et pouvant arriver à la longue à mettre de côté
+          un peu d’argent pour acheter de la terre.</p>
+        <p>Il y en avait un seul, qu’on appelait Clopinet, qui ne travaillait pas ou presque pas. Ce
+          n’est point qu’il fut faible ou malade ; il était frais et fort, quoiqu’un peu boiteux,
+          très joli de visage et rose comme une pomme. Ce n’est pas non plus qu’il fût désobéissant
+          ou paresseux ; il n’avait aucune malice et ne craignait pas de se donner de la peine ;
+          mais il avait une idée à lui, et cette idée, c’était d’être marin. Si on lui eût demandé
+          ce que c’était que d’être marin, il eût été bien embarrassé de le dire, car il n’avait
+          guère que dix ans quand cette idée entra dans sa tête, et voici comment elle y entra.</p>
+        <p>Il avait un oncle, frère de sa mère, qui était parti tout jeune sur un navire marchand et
+          qui avait vu beaucoup de pays. Cet oncle, établi sur la côte de Trouville, venait de loin
+          en loin voir les Doucy, et il racontait beaucoup de choses extraordinaires qui n’étaient
+          peut-être pas toutes vraies, mais dont Clopinet ne doutait point, tant elles lui
+          paraissaient belles. C’est ainsi qu’il prit l’idée de voyager et une très grande envie
+          d’aller sur la mer, encore qu’il ne l’eût jamais vue et qu’il ne sût pas au juste ce que
+          c’était.</p>
+        <p>Elle n’était pas loin pourtant, et il eût bien pu marcher jusque-là, sa boiterie ne le
+          gênant guère ; mais son père ne se souciait pas de lui voir prendre le goût des voyages,
+          et ce n’était pas la coutume des paysans de ce temps-là de s’éloigner sans nécessité de
+          leur endroit. Les frères aînés allaient aux foires et marchés quand besoin était. Pendant
+          ce temps-là, les plus jeunes gardaient ou soignaient les vaches et ce n’était jamais le
+          tour de Clopinet d’aller se promener. Il en prit de l’ennui et en devint tout rêveur.
+          Quand il menait paître ses bêtes, au lieu d’inventer quelque amusement, comme de faire des
+          paniers de jonc ou de bâtir des petites maisons avec de la terre et des brins de bois, il
+          regardait les nuages et surtout les oiseaux voyageurs qui passaient pour aller à la mer ou
+          pour en revenir. – Sont-ils heureux, ceux-là ! se disait-il ; ils ont des ailes et vont où
+          il leur plaît. Ils voient comment le monde est fait, et jamais ils ne s’ennuient.</p>
+        <p>À force de regarder les oiseaux, il les connaissait à leur vol, si haut qu’ils fussent
+          dans le ciel. Il savait leurs habitudes de voyage, comment les grues se mettent en flèche
+          pour fendre les courants d’air, comment les étourneaux volent en troupe serrée, comment
+          planent les oiseaux de proie et comment les oies sauvages se suivent en ligne à distance
+          bien égale. Il était toujours content de voir arriver les oiseaux de passage et il
+          essayait souvent de courir aussi vite qu’ils volaient ; mais c’était peine inutile : il
+          n’avait pas fait dix pas qu’ils avaient fait une lieue et qu’il les perdait de vue.</p>
+        <p>Soit à cause de sa boiterie, soit parce qu’il n’était pas naturellement brave, Clopinet
+          ne s’éloignait guère de la maison et ne faisait rien pour accorder son courage avec sa
+          curiosité. Un jour que l’oncle marin était venu voir la famille et que Clopinet parlait
+          d’aller voir la mer avec lui, si son papa voulait bien le permettre :</p>
+        <p>– Toi ? dit le père Doucy en riant : tais-toi donc ! Tu ne sais pas marcher et tu as peur
+          de tout. Ne vous embarrassez jamais de ce gamin-là, beau-frère ! c’est un malingre et un
+          poltron. L’an dernier, il s’est caché tout un jour dans les fagots, parce qu’il a vu
+          passer un ramoneur un peu barbouillé qu’il a pris pour le diable. Il ne peut pas voir sans
+          crier le tailleur qui vient faire nos habits, parce qu’il est bossu. Un chien qui grogne,
+          une vache qui le regarde, une pomme qui tombe, le voilà qui s’envole. On peut bien dire
+          que c’en est un qui est venu au monde avec les ailes de la peur attachées aux épaules.</p>
+        <p>– Ça passera, ça passera, répondit l’oncle Laquille – c’était le nom du marin ; quand on
+          est enfant, on a des ailes de peur ; plus tard, il vous en pousse d’autres.</p>
+        <p>Ces paroles étonnèrent beaucoup le petit Clopinet.</p>
+        <p>– Je n’ai point d’ailes, dit-il, mon papa se moque ; mais peut-être qu’il m’en
+          pousserait, si j’allais sur la mer !</p>
+        <p>– Alors, reprit le père Doucy, ton oncle devrait en avoir ? Dis-lui donc de te les
+          montrer !</p>
+        <p>– J’en ai quand il en faut, reprit le marin d’un air modeste ; mais ce sont des ailes de
+          courage pour voler au danger.</p>
+        <p>Clopinet trouva ces paroles très belles, et ne les oublia jamais ; mais le père Doucy
+          rabattit l’orgueil de son beau-frère en lui disant : – Je ne dis point que tu n’aies pas
+          ces ailes-là quand il faut faire ton devoir ; mais quand tu rentres à la maison, tu n’en
+          es plus si fier, ta femme te les coupe !</p>
+        <p>Le père Doucy disait cela parce que la mère Laquille gouvernait le ménage, tandis qu’au
+          contraire la mère Doucette était très bien nommée et tout à fait soumise à son mari.</p>
+        <p>À cause de cela, cette bonne femme n’osait point encourager les idées de Clopinet, dont
+          le père ne voulait pas entendre parler. Il disait que le métier de marin était trop dur
+          pour un garçon qui avait une jambe plus faible que l’autre ; il disait pourtant aussi que
+          Clopinet, malgré sa bonne santé, ne serait jamais un homme assez solide pour bêcher la
+          terre et qu’il fallait lui faire apprendre l’état de tailleur, qui est un bon état dans
+          les campagnes.</p>
+        <p>Aussi, un jour que le tailleur était venu dans la famille, comme il avait coutume de
+          venir tous les ans, le père Doucy lui dit : – Tire-à-gauche, mon ami – on appelait ainsi
+          le tailleur parce qu’il était gaucher et tirait l’aiguille au rebours des autres –, nous
+          n’avons pas d’ouvrage à te donner cette année ; mais voilà un petit qui aurait bonne envie
+          d’apprendre ton état. Je te paierai quelque chose pour son apprentissage, si tu veux être
+          raisonnable et te contenter de ce que je t’offrirai. Dans un an d’ici, il pourra t’aider,
+          faire tes commissions, être enfin ton petit serviteur et gagner chez toi sa
+          nourriture.</p>
+        <p>– Combien donc est-ce que vous donneriez ? dit le tailleur en regardant Clopinet du coin
+          de l’œil, d’un air un peu dédaigneux, comme pour déprécier d’avance la marchandise.</p>
+        <p>Pendant que le paysan et le tailleur discutaient à voix basse les conditions du marché,
+          et se tenaient à deux livres tournois de différence, Clopinet, tout interdit, car jamais
+          il n’avait eu la moindre envie de coudre et de tailler, essayait de regarder
+          tranquillement le patron auquel on était en train de le vendre. C’était un petit homme
+          bossu des deux épaules, louche des deux yeux, boiteux des deux jambes. Si on eût pu le
+          détortiller et l’étendre sur une table, il eût été grand ; mais il était si cassé et si
+          soudé aux angles que, quand il marchait, il n’était pas plus haut que Clopinet lui-même,
+          qui avait alors douze ans et n’était pas très grand pour son âge. Tire-à-gauche, lui,
+          pouvait bien avoir la cinquantaine ; sa tête, énorme en longueur, jaune et chauve,
+          ressemblait à un gros concombre. Il était sordidement vêtu des guenilles qui n’avaient pu
+          resservir dans les vêtements de ses pratiques et que l’on eût jetées aux fumiers, s’il ne
+          les eût réclamées ; mais ce qu’il y avait en lui de plus horrible, c’était ses pieds et
+          ses mains, d’une longueur démesurée et très agiles, car, avec ses bras en fuseau et ses
+          jambes en équerre, il travaillait et marchait plus vite qu’aucun autre. L’œil pouvait à
+          peine suivre l’éclair de sa grosse aiguille quand il cousait et le tourbillon de poussière
+          qu’il soulevait en rasant la terre pour courir.</p>
+        <p>Clopinet avait vu plusieurs fois Tire-à-gauche, et n’avait jamais manqué de le trouver
+          fort laid ; mais ce jour-là il le trouva épouvantable, et la peur qu’il en avait toujours
+          eue devint si forte qu’il se serait sauvé, s’il n’eût pensé à ces ailes de peur qu’on lui
+          reprochait d’avoir aux épaules.</p>
+        <p>Quand le marché fut conclu, Doucy et le tailleur se tapèrent dans la main, burent en
+          trinquant un demi-broc de cidre, et la mère Doucette, avertie de ce qui se passait, s’en
+          alla, sans rien dire, dans l’autre chambre pour faire le paquet du pauvre enfant que le
+          tailleur allait lui prendre pour trois ans.</p>
+        <p>Jusque-là, Clopinet n’avait pas compris ce qui lui arrivait. Il avait bien entendu dire
+          une ou deux fois à son père qu’on songerait à le pourvoir d’un métier manuel à cause de la
+          faiblesse de sa jambe ; mais il ne pensait pas que cela dût être réglé sitôt et contre son
+          gré. Donner un démenti à son père, faire résistance, c’était là une chose à laquelle il ne
+          pouvait pas songer non plus, car il était doux et soumis, et pendant un moment il crut que
+          rien ne serait décidé sans son consentement ; mais quand il vit sa mère sortir de la
+          chambre sans le regarder, comme si elle eût craint de pleurer devant lui, il comprit son
+          malheur, et s’élança après elle pour la supplier de le secourir.</p>
+        <p>Il n’en eut pas le temps. Le tailleur allongea son bras, et le saisit comme une araignée
+          prend une mouche ; puis, le plantant sur sa bosse de derrière et lui serrant les jambes
+          qu’il avait ramenées sur sa bosse de devant, il se leva en disant au père Doucy : – C’est
+          bien, c’est entendu. Nous laisserons pleurer la mère, elle pleurera moins quand elle ne le
+          verra plus. Elle en a pour une heure à empaqueter ses nippes ; vous m’enverrez ça demain à
+          Dives, où je vais passer trois jours. Çà, petit, tenez-vous coi, et ne criez point, ou
+          avec mes bons ciseaux, que vous voyez là pendus à ma ceinture, je vous coupe la
+          langue.</p>
+        <p>– Traitez-le avec douceur, dit le père ; il n’est point méchant et fera toutes vos
+          volontés.</p>
+        <p>– C’est bon, c’est bon, reprit le tailleur, ne soyez point en peine de lui, j’en fais mon
+          affaire. En route, en route ! ne vous attendrissez pas, ou je renonce à le prendre.</p>
+        <p>– Souffrez au moins que je l’embrasse, dit le père Doucy ; un enfant qui s’en va...</p>
+        <p>– Eh ! vous le reverrez ; il reviendra travailler avec moi chez vous. Bonjour, bonjour,
+          point de scène, point de pleurs, ou je vous laisse. Pour ce que vous payez, je n’y tiens
+          déjà pas tant.</p>
+        <p>En parlant ainsi, Tire-à-gauche franchit la porte de la maison et se mit à courir, avec
+          Clopinet sur son dos, à travers les pommiers. L’enfant essaya de crier ; mais il avait la
+          gorge serrée et ses dents claquaient de peur. Il se retourna avec angoisse vers sa maison.
+          Ce n’était pas tant d’obéir qui le chagrinait, que de ne pouvoir embrasser ses parents et
+          leur dire adieu ; c’est cette cruauté-là qui lui semblait impossible à comprendre. Il vit
+          sa mère qui accourait sur la porte et qui lui tendait les bras. Il réussit à s’écrier :
+          Maman ! au milieu d’un sanglot étouffé ; elle fit quelques pas comme si elle eût voulu le
+          rattraper ; mais le père la retint, et elle tomba, pâle comme si elle eût été morte, dans
+          les bras de François, son fils aîné, qui jurait de chagrin et montrait le poing au
+          tailleur d’un air de menace. Tire-à-gauche ne fit qu’en rire, d’un rire affreux qui
+          ressemblait au bruit d’une scie dans la pierre, et il doubla le pas, ce pas gigantesque,
+          fantastique, qu’il était impossible de suivre.</p>
+        <p>Clopinet, croyant que sa mère était morte et voyant que rien ne pouvait le sauver,
+          souhaita de mourir aussi, laissa tomber sa tête sur l’épaule monstrueuse du tailleur et
+          perdit connaissance.</p>
+        <p>Alors le tailleur, le trouvant trop lourd et le jugeant endormi, le mit sur son âne,
+          qu’il avait laissé paître dans la prairie, et qui était aussi petit, aussi laid et aussi
+          boiteux que lui. Il lui allongea un grand coup de pied pour le faire marcher et ne
+          s’arrêta plus qu’à trois lieues de là, dans les dunes.</p>
+        <p>Là il se coucha pour faire un somme, sans se soucier de voir si l’enfant dormait tout de
+          bon, ou s’il était malade. Clopinet, en ouvrant les yeux, se crut seul, et regarda autour
+          de lui sans comprendre où il était ; c’était un endroit singulier qu’il n’avait jamais vu
+          et qui ne ressemblait à aucun autre. Il se trouvait comme enfermé dans un creux de gazon
+          épais et rude, qui croissait en grosses touffes sur un terrain inégal, relevé de tous
+          côtés en pointes crochues ; c’étaient les déchirures des grandes marnes grises qui
+          s’étendent, entre Villers et Beuzeval, sur le rivage de la mer et qui la cachent aux
+          regards quand on les suit par le milieu de leur épaisseur. Après s’être étonné un peu,
+          Clopinet retrouva la mémoire, et son cœur se serra au souvenir de son enlèvement par le
+          tailleur ; mais il bondit de joie en s’imaginant que son ravisseur l’avait abandonné, et
+          qu’en cherchant un peu il retrouverait le chemin de sa maison.</p>
+        <p>Aussitôt pensé, aussitôt fait. Il se releva et fit quelques pas sur le sentier assez
+          large qui s’offrait à lui ; mais il s’arrêta glacé d’épouvante en voyant Tire-à-gauche
+          étendu à deux pas de lui, dormant d’un œil et de l’autre surveillant tous ses mouvements.
+          L’âne broutait un peu plus loin.</p>
+        <p>Clopinet se recoucha aussitôt et se tint tranquille, quoique le cœur lui battît bien
+          fort. Tout à coup il entendit un grognement clair, comme si un corbeau coassait non loin
+          de lui. Il se retourna et vit que le tailleur ronflait et dormait pour tout de bon avec un
+          œil ouvert. C’était son habitude, cet œil crevé ne se fermait plus ; mais il n’en dormait
+          pas moins. Il était fatigué, car il faisait chaud.</p>
+        <p>Clopinet se traîna sur ses genoux jusqu’auprès de lui, toujours terrifié par ce vilain
+          œil qui le regardait. Il passa sa main devant, l’œil ne bougea pas, l’œil ne voyait pas.
+          Alors l’enfant, se traînant toujours, sortit du creux en suivant le chemin et se trouva
+          dans un autre creux plus grand, que le chemin traversait aussi. Il ôta et abandonna ses
+          sabots pour mieux courir, et tout à coup, se jetant dans les herbes, il quitta le sentier,
+          gagna la hauteur, et se mit à la descendre aussi vite qu’un lièvre, dans un fouillis de
+          buissons et de plantes folles où il se trouva perdu et couvert par-dessus la tête. Il
+          courut longtemps ainsi ; puis, s’avisant que, si le tailleur le cherchait, il verrait
+          remuer les herbes et les feuilles, il s’arrêta, se blottit au plus épais, et resta
+          immobile retenant sa respiration.</p>
+        <p>Tout cela lui réussit très bien. Tire-à-gauche, après avoir dormi assez longtemps,
+          s’éveilla, vit que son prisonnier lui avait échappé, trouva les sabots, ne daigna pas les
+          ramasser, suivit quelque temps la trace des pieds nus, et continua son chemin en ricanant,
+          car ce chemin conduisait à Dives, où le tailleur comptait aller passer la nuit. Cet
+          imbécile d’enfant, pensait-il, s’est imaginé suivre le chemin de sa maison ; il n’a pas su
+          qu’il lui tournait le dos ; en quatre enjambées je l’aurai rattrapé.</p>
+        <p>Et le tailleur, battant et chassant devant lui son âne, se mit à raser le terrain avec
+          ses grandes jambes tordues, qui s’agitaient comme deux faux et qui allaient aussi vite que
+          deux ailes ; mais, grâce à la bonne idée que l’enfant avait eue de prendre en sens
+          contraire, plus le tailleur avançait, plus il s’éloignait de lui.</p>
+        <p/>
+        <p/>
+      </div>
+      <div title="II" type="chapter">
+        <head>II</head>
+        <p/>
+        <p>Il faisait nuit quand Clopinet se sentit assez rassuré pour sortir de sa cachette.
+          C’était une douce soirée de printemps, tranquille et voilée. Il écouta avant de bouger et
+          fut très effrayé d’un bruit singulier. Il s’imagina que c’était le terrible pas du
+          tailleur qui faisait crier le sable au dessous de lui ; et puis, comme cela ressemblait
+          par moments à une étoffe qu’on déchire, il pensa encore au tailleur déchirant les étoffes
+          avant d’y mettre ses terribles ciseaux. Mais cela recommençait toujours sans augmenter ni
+          diminuer de force et de vitesse, sans se rapprocher et sans jamais s’arrêter. C’était la
+          mer brisant au bas de la grève. Clopinet ne connaissait pas ce bruit-là ; il essaya de
+          voir et s’assura, aussi bien que possible dans l’obscurité, que personne autre que lui
+          n’était dans ce désert. C’était pour lui un lieu incompréhensible. D’où il était, en
+          sortant la tête des buissons, il voyait un grand demi-cercle de dunes dont il ne pouvait
+          distinguer les plis et les ressauts, et qui lui paraissait être une immense muraille
+          ébréchée s’écroulant dans le vide. Ce vide, c’était la mer ; mais, comme il ne s’en
+          faisait aucune idée et que la brume du soir lui cachait l’horizon, il ne la distinguait
+          pas du ciel et s’étonnait seulement de voir des étoiles dans le haut et de singulières
+          clartés dans le bas. Était-ce des éclairs de chaleur ? Mais comment se trouvaient-ils sous
+          ses pieds ? Comment comprendre tout cela quand on n’a rien vu, pas même une grande rivière
+          ou une petite montagne ? Clopinet marcha un peu dans les grosses herbes sans oser
+          descendre plus bas, il avait peur et il avait faim. – Il faut, se dit-il, que je cherche
+          un endroit pour dormir, car au petit jour je veux demander le chemin de chez nous et
+          retourner voir si ma pauvre mère n’est pas morte. – Cette idée le fit pleurer, mais en se
+          souvenant qu’il avait été comme mort lui-même sur le dos du tailleur, il espéra que sa
+          mère en reviendrait aussi.</p>
+        <p>Il n’osait pas dormir au premier endroit venu, de peur d’être surpris par l’horrible
+          patron qu’il supposait toujours lancé à sa recherche, et il ne se trouvait pas assez loin
+          du chemin par où il eût pu revenir vers lui. Il descendit donc avec précaution, et vit que
+          cela était plus difficile qu’il ne l’avait pensé. Le rebord de la dune n’était pas un mur
+          où il pût se laisser glisser. C’était un terrain tout coupé, tout crevassé et tout
+          hérissé, comme une châtaigne, de pointes mal solides qui cédaient sous la main quand on
+          voulait s’y accrocher ; puis il rencontrait de grandes fentes cachées par l’herbe et les
+          épines, et il craignait d’y tomber. Il ne put en éviter quelques-unes qui avaient de l’eau
+          au fond, et qui par bonheur n’étaient pas profondes ; mais la nuit, la solitude et le
+          danger de ce terrain perfide, si nouveau pour un habitant des plaines et si difficile pour
+          un boiteux, lui causèrent une grande tristesse et peu à peu un grand effroi. Il renonça à
+          descendre et voulut remonter. Ce fut pire. Si le dessus du terrain était séché par le
+          soleil et un peu consolidé par l’herbe épaisse, le flanc de cette fausse roche était
+          humide et glissant, le pied n’y pouvait trouver d’appui, de gros morceaux de marne épaisse
+          se détachaient et laissaient crouler de gros cailloux qui étaient comme tombés du ciel de
+          place en place. Épuisé de fatigue, l’enfant se crut perdu ; il ne savait pas si les loups
+          ne viendraient pas le manger.</p>
+        <p>Il se jeta tout découragé sur une mousse épaisse qu’il rencontra et essaya de s’endormir
+          pour tromper la faim ; mais il rêva qu’il glissait, et quelque chose qui passa sur lui en
+          courant, peut-être un renard, peut-être un lièvre, lui fit une telle peur qu’il s’enfuit,
+          sans savoir où, au risque de tomber dans une fente et de s’y noyer. Il n’avait plus sa
+          raison et ne reconnaissait plus les choses qu’il avait vues au jour. Il allait d’un creux
+          à l’autre, s’imaginant qu’au lieu de courir il volait au-dessus de la terre. Il
+          rencontrait ces grandes crêtes de la dune qui l’avaient étonné, et il les prenait pour des
+          géants qui le regardaient en branlant la tête. Chaque buisson noir lui paraissait une bête
+          accroupie, prête à s’élancer sur lui. Il lui venait aussi des idées folles et des
+          souvenirs de choses qu’il avait oubliées. Une fois son oncle le marin avait dit devant
+          lui : « Quand on s’est donné aux esprits de la mer, les esprits de la terre ne veulent
+          plus de vous. » Et cette parole symbolique lui revenait comme une menace. – J’ai trop
+          pensé à la mer, se disait-il, et voilà que la terre me renvoie et me déteste ; elle se
+          déchire et se fend de tous les côtés sous mes pieds, elle se dresse en pointes qui ne
+          tiennent à rien et qui veulent m’écraser. Je suis perdu, je ne sais pas où est la mer, qui
+          peut-être serait meilleure pour moi ; je ne sais pas de quel côté est mon pays et si je
+          retrouverai jamais ma maison. Peut-être que la terre s’est aussi fâchée contre mes parents
+          et qu’ils n’existent plus !</p>
+        <p>Comme il pensait cela, il entendit passer au-dessus de sa tête quelque chose de très
+          surprenant. C’était une quantité de petites voix plaintives qui semblaient appeler du
+          secours ; ce n’était pas des cris d’oiseau, c’était des voix de petits enfants, si douces
+          et si tristes, que le chagrin et la détresse de Clopinet en augmentèrent et qu’il cria : –
+          Par ici, par ici, petits esprits, venez pleurer avec moi ou emmenez-moi pleurer avec vous,
+          car au moins vous êtes tous ensemble pour vous plaindre, et moi je suis tout seul.</p>
+        <p>Les petites voix continuaient à passer, et il y en avait tant que cela passa pendant un
+          quart d’heure sans faire attention à Clopinet, bien que peu à peu sa voix, à lui, se fût
+          mise à l’unisson de cette douce plainte. Enfin elles devinrent plus rares, la grande
+          troupe s’éloignait ; il ne passa plus que des voix isolées qui étaient en retard et
+          appelaient d’un accent plein d’angoisse pour qu’on les attendît. Quand Clopinet, qui
+          courait toujours sans pouvoir les suivre, entendit passer celle qu’il jugea devoir être la
+          dernière, il fut désespéré, car ces compagnons invisibles de son malheur avaient adouci
+          son chagrin, et il se retrouvait dans l’horreur de la solitude. Alors il s’écria : Esprits
+          de la nuit, esprits de la mer peut-être, ayez pitié, emportez-moi !</p>
+        <p>En même temps il fit en courant un grand effort, comme pour ouvrir ses ailes, et, soit
+          que le désir qu’il en avait lui en eût fait pousser, soit que tout ceci fût un rêve de la
+          fièvre et de la faim, il sentit qu’il quittait la terre et qu’il s’envolait dans la
+          direction que suivaient les esprits voyageurs. Emporté dans l’air grisâtre, il crut voir
+          distinctement des petites flèches noires qui volaient devant lui ; mais bientôt il ne vit
+          plus rien que du brouillard et il appela en vain pour qu’on l’attendît. Les voix
+          avançaient toujours, pleurant toutes ensemble, mais allant plus vite que lui et se perdant
+          à travers la nue. Alors Clopinet sentit ses ailes se fatiguer, son vol s’appesantir, et il
+          descendit, descendit, sans tomber, mais sans pouvoir s’arrêter, jusqu’au pied de la dune.
+          Dès qu’il toucha la terre, il agita ses bras, et s’imagina que c’était toujours des ailes
+          qui pourraient repartir quand il ne serait plus fatigué. Au reste, il n’eut pas le loisir
+          de s’en tourmenter, car ce qu’il voyait l’occupait tellement qu’il ne songeait presque
+          plus à lui-même.</p>
+        <p>La nuit était toujours voilée, mais pas assez sombre pour l’empêcher de distinguer les
+          objets qui n’étaient pas très éloignés. Il était assis sur un sable très fin et très doux,
+          parmi de grosses boules rondes et blanchâtres qu’il prit d’abord pour des pommiers en
+          fleur. En regardant mieux et en touchant celles qui étaient près de lui, il reconnut que
+          c’était de grosses roches pareilles à celles qu’il avait vues sur le haut des dunes, et
+          qui avaient glissé, il y avait peut-être longtemps, jusque sur la plage.</p>
+        <p>C’était une belle plage, car en cet endroit-là la mer venait chaque jour jusqu’au pied de
+          la dune balayer la boue qui tombait de cette montagne marneuse. Le sable était d’ailleurs
+          lavé en mille endroits par de petits filets d’eau douce qui filtraient le long de la
+          hauteur et se perdaient sans bruit et sans bouillonnement dans l’eau salée ; mais, comme
+          la marée n’était pas encore tout à fait montée, tout en entendant le bruit de la vague qui
+          approchait, Clopinet ne voyait encore que cette longue et pâle bande de sable humide que
+          perçait une multitude de masses noires plus ou moins grosses et toutes plus ou moins
+          arrondies.</p>
+        <p>Clopinet n’avait plus peur ; il regardait ces masses immobiles avec étonnement. C’était
+          comme un troupeau de bêtes énormes qui dormait devant lui. Il voulut les voir de près et
+          avança sur le sable jusqu’à ce qu’il pût en toucher une. C’était une roche pareille à
+          celle qu’il venait de quitter ; mais pourquoi était-elle noire, tandis que celles du
+          rivage étaient blanches ? Il toucha encore et amena à lui quelque chose comme une énorme
+          grappe de raisins noirs. Il avait faim, il y mordit, et ne trouva sous sa dent que des
+          coquilles assez dures ; mais ses dents étaient bonnes et entamaient de petites moules
+          excellentes. Aussitôt il les ouvrit avec son couteau et apaisa sa faim, car il y avait de
+          ces moules à l’infini et c’était ce revêtement épais de coquillages qui rendait noirs les
+          cailloux blancs tombés comme les autres du sommet et des flancs de la dune.</p>
+        <p>Quand il eut bien mangé, il se sentit tout ranimé et redevint raisonnable. Il ne se
+          souvint plus d’avoir eu des ailes et pensa qu’il avait roulé doucement le long des marnes
+          en croyant voler dans les nuages.</p>
+        <p>Alors il monta sur une des plus grosses roches noires et regarda ce qu’il y avait
+          au-delà. Il revit passer ces longs éclairs pâles qu’il avait déjà vus d’en haut et qui
+          paraissaient raser le sol. Qu’est-ce que ce pouvait être ? Il se rappela que son oncle
+          avait dit devant lui que l’eau de mer brillait souvent comme un feu blanc pendant la nuit,
+          et il se dit enfin que ce qu’il voyait devait être la mer. Elle était tout près et
+          avançait vers les roches, mais si lentement et avec un mouvement si régulier et un bruit
+          si uniforme que l’enfant ne se rendit pas compte du terrain qu’elle gagnait et resta bien
+          tranquille sur son rocher, à la regarder aller et venir, avancer, reculer, se plisser en
+          grosses lames, s’élever pour s’abattre aussitôt et recommencer jusqu’à ce qu’elle vînt
+          s’aplatir sur la grève avec ce bruit sec et frais qui n’est pas sans charme dans les nuits
+          tranquilles et appelle le sommeil, pour peu qu’on y soit disposé.</p>
+        <p>Clopinet n’y put résister ; il était peut-être dix heures du soir, et jamais il n’avait
+          veillé si tard. Son lit de roches et de coquillages n’était pas précisément mollet ; mais
+          quand on est bien las, où ne dormirait-on point ? Pendant quelques instants, il fixa ses
+          yeux appesantis sur cette mince nappe argentée qui s’étend mollement sur le sable, qui
+          avance encore au moment où la vague recule déjà, qui est reprise et poussée plus avant
+          quand elle revient. Rien n’est moins effrayant que cette douce et perfide invasion de la
+          marée montante.</p>
+        <p>Clopinet vit bien que la bande de sable se rétrécissait devant lui et que de petits flots
+          commençaient à laver le pied de son rocher. Ils étaient si jolis avec leur fine écume
+          blanche qu’il n’en prit aucun souci. C’était la mer, il la voyait, il la touchait enfin !
+          Elle n’était pas bien grande, car au-delà de cinq ou six lames il ne voyait plus rien
+          qu’une bande noire perdue dans la brume. Elle n’avait rien de méchant, elle devait bien
+          savoir qu’il avait toujours souhaité de vivre avec elle. Sans doute elle était
+          raisonnable, car l’oncle marin parlait souvent d’elle comme d’une personne majestueuse et
+          respectable. Cela fit songer à Clopinet qu’il ne l’avait pas encore saluée, et que ce
+          n’était point honnête. Tout appesanti par le sommeil qui le gagnait, il souleva poliment
+          son bonnet de laine, et, laissant retomber sa tête sur son bras gauche étendu, il
+          s’endormit en tenant toujours son bonnet dans la main droite.</p>
+        <p/>
+        <p/>
+      </div>
+      <div title="III" type="chapter">
+        <head>III</head>
+        <p/>
+        <p>Cependant, au bout de deux heures, il fut réveillé par un bruit singulier. La mer battait
+          le rocher avec tant de force qu’il paraissait trembler, et même Clopinet ne vit plus de
+          rocher ; il vit un gros ourlet d’écume tout autour de lui. La marée était haute, et
+          l’enfant ne comprenait rien à ce qui lui arrivait. Il voulut se sauver du côté par où il
+          était venu, mais il y avait autant d’eau d’un côté que de l’autre, et toutes les roches
+          noires avaient absolument disparu. Le flot montait jusqu’au pied des roches blanches, et
+          semblait vouloir monter encore plus haut. Clopinet essaya de mettre ses jambes dans l’eau
+          pour voir si elle était profonde. Il ne sentit pas le fond, mais il sentit que, s’il
+          lâchait le rocher, la vague allait l’emporter. Alors il se jugea décidément perdu, pensa à
+          sa mère et ferma les yeux pour ne pas se voir mourir.</p>
+        <p>Tout d’un coup il entendit au-dessus de lui les petites voix qui l’avaient appelé sur la
+          dune, et le courage lui revint. Il avait déjà volé pour descendre de là-haut, il pouvait
+          bien voler encore pour y retourner. Il imita le cri de ces esprits invisibles, et il les
+          entendit planer sur lui comme s’ils tournaient en rond pour l’appeler et l’attendre. Il
+          fit de nouveau un grand effort avec ses bras, qui le soutinrent comme des ailes, et il
+          s’éleva dans les airs ; mais il sentit qu’il ne volait pas bien haut et qu’il planait sur
+          la mer, allant, venant, effleurant les vagues, se reposant sur le rocher, se remettant à
+          voltiger, à nager, et trouvant à cela un plaisir extrême.</p>
+        <p>L’eau de mer lui semblait tiède, il s’y soutenait sans effort comme s’il n’eut fait que
+          cela toute sa vie, et puis il eut envie de voir dedans. Il ferma ses ailes et y plongea la
+          tête. L’eau était tout en feu blanc qui ne brûlait pas. Enfin il se sentit fatigué, et,
+          revenant à son rocher, il s’y rendormit profondément, bercé par le beau bruit des vagues
+          et par la douce voix des esprits, qui continuaient à faire de petits cris d’enfant dans
+          les airs.</p>
+        <p>Quand il s’éveilla, le soleil se levait dans un brouillard argenté qui s’en allait par
+          grandes bandes autour de l’horizon. Un vent frais plissait la mer verte, et du côté du
+          levant elle avait de grandes lames roses et lilas ; l’horizon se dégageait rapidement, et
+          le rocher où Clopinet avait dormi était assez élevé pour qu’il vît combien la mer était
+          grande. Elle était moins tranquille que la veille, mais elle était beaucoup plus loin, et
+          il voulut la voir de près en plein jour. Il courut sur le sable, peu soucieux de mouiller
+          ses jambes dans les grandes flaques qu’elle avait laissées, et il ne fut content que
+          lorsqu’il en eut jusqu’aux genoux. Il ramassa quantité de coquillages différents qui tous
+          étaient bons et jolis ; puis il retourna au pied de la dune pour boire aux petites sources
+          un peu saumâtres, mais moins âcres que l’eau de mer qu’il avait goûtée. Il était si
+          content de voir cette grande chose dont il avait tant rêvé, qu’il ne pensait plus à
+          retourner chez lui. Il avait presque oublié tout ce qui lui était arrivé la veille. Il
+          allait et venait sur le rivage, regardant tout, touchant à tout, essayant de se rendre
+          compte de tout. Il vit au loin passer des barques, et il comprit ce que c’était en
+          distinguant les hommes qui les montaient et les voiles que le vent enflait. Il vit même un
+          navire à l’horizon et crut que c’était une église ; mais cela marchait comme les barques,
+          et son cœur battit bien fort. C’était donc là un vaisseau, une de ces maisons flottantes
+          sur lesquelles son oncle avait voyagé ! Clopinet eût voulu être sur ce bâtiment et voir où
+          finissait la mer, au-delà de la ligne grise qui la séparait du ciel.</p>
+        <p>Il ne pensait plus au tailleur, lorsque la peur lui revint à cause d’une personne qu’il
+          aperçut au loin, marchant sur le rivage et se dirigeant de son côté ; mais il se rassura
+          bien vite en voyant que c’était un homme fait comme les autres, et même il lui sembla
+          reconnaître son frère aîné François, celui qui, la veille, avait montré le poing au
+          tailleur, car François détestait le tailleur et chérissait son petit Clopinet.</p>
+        <p>C’était lui, c’était bien lui, et Clopinet courut à sa rencontre pour se jeter dans ses
+          bras.</p>
+        <p>– Et d’où viens-tu, d’où sors-tu ? s’écria François en l’embrassant. Il n’est que sept
+          heures du matin ; tu ne viens pas de Dives. Où donc as-tu passé la nuit ?</p>
+        <p>– Là, sur cette grosse pierre noire, dit Clopinet.</p>
+        <p>– Comment ! sur la Grosse-Vache ?</p>
+        <p>– Ce n’est pas une vache, mon François, c’est une pierre pour de vrai.</p>
+        <p>– Eh ! je le sais bien ! Toi, tu ne sais pas qu’on appelle ces pierres-là les
+          Vaches-Noires ? Mais pendant la marée, où étais-tu ?</p>
+        <p>– Je ne sais point ce que tu veux dire.</p>
+        <p>– La mer qui monte jusqu’ici, jusqu’à ces pierres qu’on appelle les Vaches-Blanches ?</p>
+        <p>– Ah ! oui, j’ai vu cela, mais les esprits de la mer m’ont empêché de me noyer.</p>
+        <p>– Il ne faut pas dire de folies, Clopinet ! il n’y a pas d’esprits sur la mer ; sur la
+          terre, je ne dis pas...</p>
+        <p>– Qu’ils soient de la terre ou de la mer, reprit Clopinet vivement, je te dis qu’ils
+          m’ont porté secours.</p>
+        <p>– Tu les as vus ?</p>
+        <p>– Non, je les ai entendus. Enfin me voilà, et même j’ai bien dormi tout au beau milieu de
+          l’eau.</p>
+        <p>– Alors tu peux dire que tu as eu une fière chance ! Je sais bien que cette
+          Grosse-Vache-là, étant la plus haute, est la seule que la marée ne couvre pas tout à fait
+          quand la mer est tranquille ; mais s’il était venu le moindre coup de vent, elle eût monté
+          par-dessus, et c’était fini de toi, mon pauvre petit.</p>
+        <p>– Bah ! bah ! je sais très bien nager, plonger, voler au-dessus des vagues, c’est très
+          amusant.</p>
+        <p>– Allons ! allons ! tu me dis des bêtises. Tes habits ne sont pas mouillés. Tu as eu
+          peur, tu as eu faim et froid ; pourtant tu n’as pas l’air malade. Mange le pain que je
+          t’apporte, et bois un bon coup de cidre que j’ai là dans ma gourde, et puis tu me
+          raconteras raisonnablement comment tu as quitté ce chien de tailleur, car je vois bien que
+          tu t’es sauvé de ses griffes.</p>
+        <p>Clopinet raconta tout ce qui s’était passé. – Eh bien ! répondit François, j’aime autant
+          qu’il n’ait pas eu le temps de te faire souffrir, car c’est un méchant homme, et je sais
+          qu’il a fait mourir des apprentis à force de les maltraiter et de les priver de
+          nourriture. Notre père ne veut pas croire ce que je lui dis, et il a persuadé notre mère
+          que j’en voulais à cet homme-là et ne disais point la vérité. Tu sais qu’elle craint
+          beaucoup le père et veut tout ce qu’il veut. Elle a beaucoup pleuré hier et n’a pas
+          soupé ; mais ce matin elle l’a écouté, et tous deux s’imaginent que ton chagrin est passé
+          comme le leur, que tu es déjà habitué à ton patron. Il n’y a pas moyen de leur faire
+          penser le contraire, et, si tu reviens chez nous, tu es bien sûr que le père te corrigera
+          et te reconduira lui-même ce soir à Dives, où le tailleur, qui ne demeure nulle part,
+          doit, à ce qu’il a dit, passer deux jours. La mère ne pourra pas te défendre, elle ne fera
+          que pleurer. Si tu m’en crois, tu iras trouver ton oncle Laquille, qui demeure à
+          Trouville. Tu lui diras de te faire entrer mousse dans la marine, et tu seras content,
+          puisque c’est ton idée.</p>
+        <p>– Mais on ne voudra pas de moi pour marin, répondit Clopinet tout abattu. Papa l’a dit,
+          un boiteux n’est pas un homme, on n’en peut faire qu’un tailleur.</p>
+        <p>– Tu n’es pas si boiteux que ça, puisque tu as couru toute la nuit sans sabots dans ce
+          vilain endroit qu’on appelle le désert. Est-ce que tu as attrapé du mal ?</p>
+        <p>– Nenni, dit Clopinet, seulement je suis plus fatigué de ma jambe droite que de la
+          gauche.</p>
+        <p>– Ce n’est rien, tu n’as pas besoin d’en parler. Çà, que veux-tu faire ? Si le père était
+          là, il me commanderait de te reconduire bon gré mal gré au tailleur, et je ne le ferais
+          point avec plaisir, car je sais ce qui t’attend chez lui ; mais il n’y est pas, et, si tu
+          veux, je vais te conduire à Trouville. Ce n’est pas loin d’ici, et je serai encore revenu
+          chez nous ce soir.</p>
+        <p>– Allons à Trouville, s’écria Clopinet. Ah ! mon François, tu me sauves la vie ! Puisque
+          la mère n’est pas malade de chagrin, puisque le père n’a pas de chagrin du tout, je ne
+          demande qu’à m’en aller sur la mer, qui me veut bien et qui n’a pas été méchante pour
+          moi.</p>
+        <p>Ils arrivèrent à Trouville au bout de trois heures ; c’était dans ce temps-là un pauvre
+          village de pêcheurs, où l’oncle Laquille, établi sur la grève, avait une petite maison,
+          une barque, une femme et sept enfants. Il reçut très bien Clopinet, l’approuva de ne pas
+          vouloir descendre à l’ignoble métier de tailleur, écouta avec admiration le récit de la
+          nuit qu’il avait passée sur la Grosse-Vache, et jura par tous les jurons de terre et de
+          mer qu��il était destiné aux plus belles aventures. Il promit de s’occuper dès le
+          lendemain de son admission soit dans la marine marchande, soit dans celle de l’État.</p>
+        <p>– Tu peux, ajouta-t-il en s’adressant à François, retourner chez tes parents, et, comme
+          je sais que le père Doucy a la tête dure, tu feras aussi bien de lui laisser croire que le
+          petit est avec son patron. Je le connais, ce crabe de tailleur, c’est un mauvais drôle,
+          avare, cruel avec les faibles, poltron avec les forts. J’avoue que je serais humilié
+          d’avoir un neveu élevé si salement. Va-t’en, François, et sois tranquille, je me charge de
+          tout. Voilà un garçon qui fera honneur à sa famille. Laisse-leur croire qu’il est à Dives.
+          Il se passera peut-être deux ou trois mois avant que Tire-à-Gauche retourne chez vous.
+          Quand ton père saura que le petit a filé, il sera temps de lui dire qu’il est sur la mer
+          et qu’il n’y reçoit de coups que de mains nobles – des mains d’homme, des mains de marin !
+          La dernière des hontes, c’est d’être rossé par un bossu.</p>
+        <p>François trouva tout cela fort juste et Clopinet aussi. L’idée d’être corrigé sans être
+          coupable n’entrait pas dans ses prévisions. Le tailleur seul était capable d’une cruauté
+          gratuite. François s’en retourna donc et fit comme il était convenu. En partant, il remit
+          à son petit frère un paquet de hardes que la mère Doucette avait bien rapiécées, des
+          chaussures neuves et un peu d’argent, auquel il ajouta de sa poche deux beaux grands écus
+          de six livres et un petit sac de liards, afin que Clopinet n’eût à changer son argent que
+          dans les grandes occasions. Il l’embrassa sur les deux joues, et lui recommanda de se bien
+          conduire.</p>
+        <p>L’oncle Laquille était un homme excellent, très exalté, même un peu braque, doux comme
+          quelqu’un qui a beaucoup souffert et beaucoup peiné avec patience. Il avait voyagé et
+          savait pas mal de choses, mais il les voyait en beau, en grand, en laid ou en bizarre dans
+          ses souvenirs, et surtout quand il avait bu beaucoup de cidre, il lui était impossible de
+          les dire comme elles étaient. Clopinet l’écoutait avec avidité et lui faisait mille
+          questions. À l’heure du souper, madame Laquille rentra et Clopinet lui fut présenté.
+          C’était une grande femme sèche, vêtue d’un vieux jupon sale et coiffée d’un bonnet de
+          coton à la mode du pays ; elle avait plus de barbe au menton que son mari et ne paraissait
+          point habituée à lui obéir. Elle ne fit pas un très bel accueil à Clopinet et Laquille fut
+          obligé de lui dire bien vite que sa présence chez eux n’était pas pour durer ; elle lui
+          servit à souper en rechignant et en remarquant avec humeur qu’il avait un appétit de
+          marsouin.</p>
+        <p>Le lendemain, Laquille fit ce qu’il avait promis. Il conduisit Clopinet chez divers
+          patrons de barque, qui, le voyant boiter, le refusèrent. Il en fut de même quand il le
+          présenta aux hommes chargés de recruter pour la marine du roi. Le pauvre Clopinet rentra
+          bien humilié au logis de son oncle, et celui-ci fut forcé d’avouer à sa femme qu’ils
+          n’avaient réussi à rien, parce que l’enfant avait une jambe faible, et que, n’ayant pas
+          été élevé au bord de la mer, il n’avait pas non plus la mine hardie et la tournure leste
+          qui conviennent à un marin.</p>
+        <p>– J’en étais bien sûre, répondit madame Laquille. Il n’est bon à rien, pas même à faire
+          un lourdaud de paysan. Tu as eu grand tort de t’en charger, tu ne fais que des sottises
+          quand je ne suis pas là. Il faut le conduire au tailleur ou à ses parents. J’ai assez
+          d’enfants comme ça et ne me soucie point d’un inutile de plus à la maison.</p>
+        <p>– Patience, ma femme ! répondit Laquille. Il est possible que quelqu’un veuille de lui
+          pour aller à la pêche de la morue.</p>
+        <p>Madame Laquille haussa les épaules. Le village regorgeait d’enfants déjà dressés à la
+          pêche, et personne ne voudrait de celui-ci qui ne savait rien et n’intéressait personne.
+          Laquille s’obstina à essayer dès le lendemain, mais il échoua. Tout le monde avait plus
+          d’enfants que d’ouvrage à leur donner. Madame Laquille s’écria que, pour son compte, elle
+          en avait trop et n’entendait pas en nourrir un de plus. Laquille lui demanda de prendre
+          patience encore quelques jours et mena Clopinet à la pêche. Ce fut un grand plaisir pour
+          l’enfant, qui oublia tous ses chagrins en se sentant enfin ballotté sur cette grande eau
+          qu’il aimait tant. – C’est pourtant un gars solide, disait Laquille en rentrant ; il n’a
+          peur de rien, il n’est pas malade en mer, et même il a le pied marin. Si je pouvais le
+          garder, j’en ferais quelque chose.</p>
+        <p>Madame Laquille ne répondit rien ; mais, quand la nuit fut venue et que tous les enfants
+          furent couchés, Clopinet, qui ne dormait pas, car l’inquiétude le tenait éveillé, entendit
+          la femme au bonnet de coton dire à son mari : – En voilà assez ! Le tailleur doit passer
+          ici demain matin pour aller chercher des marchandises à Honfleur ; j’entends que tu lui
+          rendes son apprenti ; il saura bien le mettre à la raison. Il n’y a rien de tel pour
+          rendre les enfants gentils que de les fouailler jusqu’au sang.</p>
+        <p>Laquille baissa la tête, soupira et ne répondit point. Clopinet vit que son sort était
+          décidé, et que, pas plus que sa mère, son oncle ne le préserverait du tailleur. Alors,
+          résolu à se sauver, il attendit que tout le monde fût endormi et se leva tout doucement.
+          Il mit ses habits, prit son paquet qui lui servait d’oreiller et s’assura que son argent
+          était dans sa poche, se disposant à quitter son lit. C’était un drôle de lit, je dois vous
+          le dire. Comme tous les enfants de Laquille étaient couchés bien serrés avec le père et la
+          mère dans les deux seules couchettes qu’il y eût dans la maison, on avait mis une botte
+          d’algues pour Clopinet dans une petite soupente qui donnait contre une lucarne et où il
+          fallait monter avec une échelle. Il allongea donc un pied dans l’obscurité pour trouver le
+          barreau de cette échelle ; mais il ne sentit rien, et se souvint que madame Laquille
+          l’avait retirée pour grimper à son grenier, qui était en face, à l’autre bout de la
+          chambre. Clopinet souleva une petite loque qui servait de rideau à sa lucarne et vit qu’il
+          faisait une nuit claire. Il put s’assurer ainsi que l’échelle était hors de portée et
+          qu’il n’était pas possible de sauter de si haut dans la chambre sans se casser le cou.</p>
+        <p>Chose singulière, il ne pensa point à ses ailes. Son frère s’étant moqué de lui à ce
+          sujet, il n’avait osé en reparler à personne et il se disait qu’il les avait peut-être
+          rêvées. Pourtant il fallait partir et ne pas attendre le jour. Il ouvrit la lucarne et
+          s’assura que son corps pouvait y passer ; mais, en mettant la tête dehors, il vit que
+          c’était beaucoup trop haut pour sauter. La mer était encore loin. Il avait remarqué, la
+          veille au soir, que la marée venait battre les pieux qui soutenaient la maison ; mais
+          quand reviendrait-elle ? On lui avait dit : une fois toutes les vingt-trois heures ;
+          Clopinet ne savait pas assez compter pour faire son calcul.</p>
+        <p>– Pourtant si la mer venait me chercher, se disait-il, je sauterais bien dedans ; je n’ai
+          pas peur d’elle, elle est bonne pour moi.</p>
+        <p>Il y avait longtemps qu’il songeait ainsi, toujours tenant son paquet, tantôt dormant
+          malgré lui, tantôt rêvant qu’il était sur la barque de son oncle, quand un coup de vent
+          ouvrit la lucarne qu’il avait mal refermée. Il s’éveilla tout à fait et entendit passer
+          les voix enfantines des petits esprits de la nuit. Il comprenait cette fois leur chanson.
+          – Viens, viens, disaient-elles, à la mer, à la mer ! Allons, ne te rendors pas, ouvre tes
+          ailes et viens avec nous, à la mer, à la mer !</p>
+        <p>Clopinet sentit son cœur battre et ses ailes s’ouvrir. Il sauta de la lucarne, et de là
+          sur un vieux mât qui était attaché à la maison et qui servait de perchoir aux pigeons ;
+          puis il se laissa glisser ou s’envola comme c’était son idée, et se trouva dans la mer sur
+          la barque de son oncle.</p>
+        <p>Elle était bien amarrée avec une chaîne et un cadenas. Il n’y avait pas moyen de s’en
+          servir ; mais l’eau ne faisait que lécher le rivage, elle n’était pas profonde, et
+          Clopinet, soit qu’il nageât à la manière des oiseaux, soit qu’il fût porté par le vent,
+          arriva sans mouiller son corps dans une grande plaine de sables et de joncs marins très
+          sèche où il n’était point aisé de marcher vite. D’ailleurs c’était l’heure de dormir, et
+          Clopinet avait veillé au-delà de ses forces. Il se coucha dans ce sable fin et chaud et ne
+          s’éveilla qu’au lever du soleil, bien reposé et bien content de se sentir libre. Sa joie
+          fut vite troublée par une découverte fâcheuse : il avait cru voler et marcher du côté de
+          Honfleur, dont il avait vu le phare, et il s’était trompé. Il se reconnaissait, il avait
+          passé là l’avant-veille avec son frère François. Il était revenu par là de Villers et des
+          Vaches-Noires. Il y retournait ! C’est par là que le tailleur devait revenir de Dives, il
+          risquait de le rencontrer. Retourner à Trouville n’était pas plus rassurant. On l’y
+          verrait, on ne manquerait pas de livrer sa piste à l’ennemi.</p>
+        <p>Il prit le parti de continuer du côté des dunes en se tenant loin du chemin plus élevé
+          qui traverse les sables, et en rasant la grève. Son oncle lui avait appris que le tailleur
+          avait la mer en aversion ; il en avait une peur bleue, il disait n’avoir jamais pu mettre
+          le pied sur une barque sans être malade à en mourir. La vue seule des vagues suffisait
+          pour lui tourner le cœur, et quand il cheminait sur la côte, il se gardait bien de suivre
+          les plages, il allait toujours par le plus haut et par le plus loin.</p>
+        <p>Clopinet arriva ainsi à Villers, où, après avoir bien regardé autour de lui, il acheta
+          vite un grand pain, et tout aussitôt il reprit sa route le long des dunes jusqu’aux
+          Vaches-Noires, où il se retrouva seul, dans son désert, avec un plaisir comme s’il eût
+          revu sa maison et son jardin.</p>
+        <p>Cependant il ne souhaitait plus retourner chez ses parents. Ce que son frère lui avait
+          dit lui ôtait toute espérance d’attendrir son père et de trouver protection auprès de la
+          mère Doucette. Il mangea en regardant la côte ; le peu de jours qu’il avait passés avec
+          son oncle lui avait donné quelques notions du pays. La journée était claire, il vit comme
+          l’embouchure de la Seine était loin, et que pour gagner Honfleur il fallait traverser des
+          pays plats et découverts. Les dunes où il se trouvait étaient les seules du voisinage où
+          il pût se cacher, s’abriter et vivre seul. Le pauvre enfant avait peur de tout le monde,
+          madame Laquille ne l’avait pas réconcilié avec le genre humain. D’ailleurs il était très
+          habitué à la solitude, lui qui n’avait encore fait que de garder les vaches dans un pays,
+          où il ne passait jamais personne. Enfin, depuis qu’il avait commerce avec les esprits, il
+          n’avait plus aucune peur de la vie sauvage.</p>
+        <p>Toutes ces réflexions faites, il résolut de parcourir ce revers de la dune et de s’y
+          établir pour toujours. – Pour toujours ! Vous allez me dire que ce n’était pas possible,
+          que l’hiver viendrait, que les deux ou trois écus de Clopinet s’épuiseraient vite. Puis,
+          eût-il eu beaucoup d’argent, comment faire pour manger et s’habiller dans un désert où il
+          ne pousse que des herbes dont les troupeaux mêmes ne veulent pas ? Il y avait bien la mer
+          et ses inépuisables coquillages, mais on s’en lasse, surtout quand on n’a à boire que de
+          l’eau qui n’est pas bien bonne. – Je vous répondrai que Clopinet n’était pas un enfant
+          pareil à ceux qui à douze ans savent lire et écrire. Il ne savait rien du tout, il ne
+          prévoyait rien, il n’avait jamais réfléchi, peut-être n’avait-il m��me pas l’habitude de
+          penser. Sa mère avait toujours songé à tout pour lui, et malgré lui il s’imaginait qu’elle
+          était toujours là, à deux pas, prête à lui apporter sa soupe et à le border dans son lit.
+          Ce n’est que par moments qu’il se souvenait d’être seul pour toujours ; mais, à force de
+          se répéter ce mot-là, il s’aperçut qu’il n’y comprenait rien et que l’avenir ne signifiait
+          pour lui qu’une chose : échapper au tailleur.</p>
+        <p>Il s’enfonça dans les déchirures de la dune. Auprès des Vaches-Noires, elle était haute
+          de plus de cent mètres et toute coupée à pic, très belle, très sombre, avec des parois
+          bigarrées de rouge, de gris et de brun-olive, qui lui donnaient l’air d’une roche bien
+          solide. C’est par là qu’il aurait voulu se nicher, mais il ne paraissait point possible
+          d’y aller. Qui sait pourtant s’il n’y avait pas quelque passage ? Son frère lui avait tant
+          dit qu’il ne fallait pas dormir sur les Vaches-Noires qu’il avait promis de ne plus s’y
+          risquer. Et puis le jour il redevenait un peu craintif et ne croyait plus beaucoup à ce
+          qu’il avait vu la nuit. Il grimpa donc les endroits praticables de la dune et les trouva
+          moins effrayants et moins difficiles qu’il ne l’avait pensé. Bientôt il en connut tous les
+          endroits solides et comment on pouvait traverser sans danger les éboulements en suivant
+          les parties où poussaient certaines plantes. Il connut aussi celles qui étaient
+          trompeuses. Enfin il pénétra dans la grande dune et vit qu’elle était toute gazonnée dans
+          certaines fentes et qu’il y pouvait marcher sans trop glisser et sans enfoncer
+          beaucoup.</p>
+        <p>Après avoir erré longtemps, très longtemps, au hasard, dans ces éboulements plus ou moins
+          solidifiés, il arriva sur une partie rocheuse et vit devant lui un enfoncement en forme de
+          grotte, maçonnée en partie. Il y entra et trouva que c’était comme une petite maison qu’on
+          aurait creusée là pour y demeurer. Il y avait un banc de pierre et un endroit noirci comme
+          si on y eût allumé du feu ; mais il y avait bien longtemps qu’on n’y demeurait plus, car
+          le beau gazon fin qui entourait l’entrée ne portait aucune trace de foulure ; même il y
+          avait de grandes broussailles qui pendaient devant l’ouverture et que personne ne se
+          donnait plus la peine de couper.</p>
+        <p>Clopinet s’empara de cet ermitage abandonné depuis bien des années à cause des
+          éboulements du terrain environnant. Il y plaça son paquet et coupa des herbes sèches pour
+          se faire un lit sur le banc de pierre. – À présent, se dit-il, le tailleur ni ma tante
+          Laquille ne me trouveront jamais. Je suis très bien, et si j’avais seulement une de nos
+          vaches pour me tenir compagnie, je ne m’ennuierais point.</p>
+        <p>Il regrettait ses vaches, que pourtant il n’avait jamais beaucoup aimées, et la tristesse
+          le gagnait. Il prit le parti de dormir, car il avait assez de pain pour deux jours, et il
+          s’était promis de ne pas se montrer tant que le tailleur pourrait être dans les environs.
+          Il dormit longtemps, et, le soir étant venu, il était rassasié de sommeil. Encouragé par
+          l’obscurité, il parcourut ce qu’il lui plut d’appeler son jardin, car il y avait beaucoup
+          de fleurs. C’était tout de même un drôle de jardin ; cela était fait comme un fossé de
+          verdure entre des talus tout droits qui ne laissaient voir qu’un peu de ciel. On y était
+          dans un trou, mais ce trou, placé très haut sur la dune, n’avait pas de chemin pour monter
+          ni descendre, et Clopinet, ne se souvenant pas bien comment il y était arrivé, se demanda
+          s’il retrouverait le moyen d’en sortir.</p>
+        <p>Comme il avait l’esprit assez tranquille, ne souffrant plus ni de faim ni de fatigue, il
+          s’essaya pour la première fois à raisonner et à prévoir. Il n’y a rien de tel pour cela
+          que d’y être forcé. Il se dit que quelqu’un ayant demeuré là, il devait toujours être
+          possible de s’y reconnaître. Il se dit aussi qu’il devait être proche de la mer, puisqu’il
+          s’était tenu dans l’épaisseur de la dune loin du petit chemin qui en occupait à peu près
+          le milieu, ce même chemin où il avait échappé au tailleur ; mais pourquoi ne voyait-il pas
+          la mer ? – La ravine où il se trouvait tournait un peu à sa droite, et à sa gauche c’était
+          comme un chemin naturel. Il le suivit, et arriva bientôt à une sorte de petit mur
+          évidemment construit de main d’homme et percé d’un trou par où il regarda. Alors il vit la
+          mer à cent pieds au-dessous de lui et la lune qui se levait dans de gros nuages noirs. Il
+          fut content d’avoir à son gré la vue de cette mer qu’il aimait tant, dont il entendit la
+          voix qui montait et qui promettait de le bercer plus doucement qu’autour de la
+          Grosse-Vache. Il examina bien la paroi extérieure de la falaise, car en cet endroit la
+          dune était assez solide pour être une vraie falaise, toute droite et tout à fait
+          inaccessible. Celui qui avait demeuré là avant lui avait donc eu aussi des raisons de se
+          bien cacher, puisqu’il s’était fait un guettoir dans un lieu si escarpé et si sauvage.</p>
+        <p>Alors Clopinet voulut voir l’autre bout de cette ravine tournante où il se trouvait comme
+          enfermé, et, revenant sur ses pas, il y alla ; mais il fut vite arrêté par une fente
+          profonde et une muraille naturelle toute droite. Enfin il chercha au clair de la lune, qui
+          n’était pas bien brillant, à reconnaître l’endroit par où il avait pénétré dans cette
+          cachette. Il s’engagea en tâtonnant dans plusieurs fentes fermées par des éboulements si
+          dangereux qu’il n’osa plus essayer, et se promit de vérifier cela au jour. La lune se
+          voilait de plus en plus, mais le peu de ciel qu’il voyait au-dessus de sa tête était
+          encore clair ; il en profita pour rentrer dans sa grotte, car son jardin sauvage n’était
+          pas uni et facile à parcourir. Il n’avait pas sommeil, il s’ennuya de ne rien voir et
+          devint triste ; il espéra que les petits esprits viendraient lui tenir compagnie : il
+          n’entendit que le mugissement de l’orage qui montait et couvrait celui de la mer. Alors il
+          s’endormit, mais d’un sommeil léger et interrompu souvent.</p>
+        <p>Il n’avait jamais rêvé, tant il avait l’habitude de bien dormir, ou, s’il avait rêvé, il
+          ne s’en était jamais rendu compte en s’éveillant. Cette nuit-là, il rêva beaucoup ; il se
+          voyait encore une fois perdu dans les dunes sans pouvoir en sortir, et puis il se trouvait
+          tout à coup transporté dans son pays, dans sa maison, et il entendait son père qui
+          comptait de l’argent en répétant sans cesse le même nombre, dix-huit, dix-huit, dix-huit.
+          – C’était dix-huit livres qui avaient été promises au tailleur pour la première année
+          d’apprentissage, et le tailleur en voulait vingt. Le père Doucy s’était obstiné, et il
+          avait répété « dix-huit » jusqu’à ce que la chose fût acceptée. – Clopinet crut alors
+          sentir la terrible main crochue du tailleur qui s’abattait sur lui. Il fit un grand cri et
+          s’éveilla. – Où était-il ? Il faisait noir dans sa grotte comme dans un four. Il se
+          souvint et se rassura ; mais tout aussitôt il ne sut que penser, car il entendit bien
+          distinctement, et cette fois bien éveillé, une voix qui parlait à deux pas de lui et qui
+          répétait dix-huit, dix-huit, dix-huit.</p>
+        <p>Clopinet en eut une sueur froide sur tout le corps ; ce n’était pas la voix forte et
+          franche de son père, c’était une voix grêle et cassée, toute pareille à celle du tailleur
+          au moment où il avait dit : dix-huit, dix-huit,... va pour dix-huit ! – Il était donc là ?
+          il avait découvert la retraite de son apprenti, il allait l’emporter ? Clopinet éperdu
+          sauta de son lit de rocher. Quelque chose tourbillonna bruyamment autour de lui et sortit
+          de la grotte en répétant d’une voix aigre qui se perdit dans l’éloignement : dix-huit,...
+          dix-huit !...</p>
+        <p>Le tailleur était donc venu là, peut-être pour s’y réfugier contre l’orage ? il n’avait
+          pas vu Clopinet endormi, et à son réveil il en avait eu peur, puisqu’il se sauvait ! Cette
+          idée que le tailleur était poltron, peut-être plus poltron que lui, enhardit
+          singulièrement Clopinet. Il se recoucha avec son bâton à côté de lui, résolu à taper
+          ferme, si l’ennemi revenait.</p>
+        <p>Quand il eut sommeillé un bout de temps, il s’éveilla encore ; l’orage avait passé, la
+          lune brillait sur le gazon, à l’entrée de la grotte. Il avait plu, et les feuillages qui
+          pendaient devant l’ouverture reluisaient comme des diamants verts. Alors Clopinet fut très
+          étonné d’entendre, dans le calme de la nuit, le mugissement du taureau, le bêlement des
+          chèvres et l’aboiement des chiens à très peu de distance. Il écouta, et cela se répéta si
+          souvent qu’en fermant les yeux il aurait juré qu’il était dans sa maison et qu’il
+          entendait ses bêtes. Pourtant il était bien dans sa grotte et dans le désert ; comment une
+          habitation et des troupeaux pouvaient-ils se trouver si près de lui ?</p>
+        <p>D’abord ces bruits lui furent agréables, ils adoucissaient l’effroi de la solitude ; mais
+          le dix-huit se fit encore entendre, répété à satiété par plusieurs voix qui partaient de
+          différents côtés ; on aurait dit une bande de tailleurs éparpillés sur les pointes de la
+          dune, qui le menaçaient en se moquant de lui. Clopinet ne put se rendormir ; il attendit
+          le jour sans bouger et n’entendit plus rien. Il sortit de la grotte, regarda partout et ne
+          vit personne. Seulement il y avait beaucoup d’oiseaux de mer et de rivage qui avaient
+          dormi sur le haut des dunes et qui passaient au-dessus de lui. Il vit des vanneaux, au
+          plumage d’émeraude, qui voltigeaient en faisant dans l’air mille cabrioles gracieuses, des
+          barges de diverses espèces et un grand butor qui passait tristement, le cou replié sur son
+          dos et les pattes étendues. Il ne connaissait pas ces oiseaux-là par leurs noms, il n’en
+          avait jamais vu de près, parce qu’il n’y avait ni étang ni rivière dans son endroit et que
+          les oiseaux de passage ne s’y abattaient pas. Il prit plaisir à les regarder, mais tout
+          cela ne lui expliquait pas les bruits qui l’avaient étonné, et il résolut de savoir s’il y
+          avait un endroit habité dans son voisinage.</p>
+        <p>Il s’agissait de sortir de son trou. Au grand jour, rien n’était plus facile, quoique le
+          passage fût étroit et embrouillé de buissons épineux. Il le remarqua bien, et, sûr de ne
+          plus se tromper, même la nuit, il monta sur un endroit plus élevé d’où il vit tout le pays
+          environnant. Aussi loin que sa vue pût s’étendre, il ne trouva que le désert et pas la
+          moindre trace de culture et d’habitation.</p>
+        <p>Il s’imagina alors que les diables de la nuit avaient voulu l’effrayer. Son frère
+          François lui avait dit : « Il n’y a pas d’esprit sur la mer, sur la terre je ne dis
+          pas ! » et ses parents croyaient à toute sorte de lutins, bons ou mauvais, qui donnaient
+          la maladie ou la santé à leurs bêtes. Clopinet ne se piquait pas d’en savoir plus long
+          qu’eux. Il n’avait jamais eu affaire à des esprits quelconques avant d’avoir passé la nuit
+          dehors ; mais depuis ce moment-là il croyait aux esprits de la mer ; il pouvait donc bien
+          croire à ceux de la terre, et il s’en inquiéta, car il avait lieu de les croire mal
+          disposés pour lui. Peut-être voulaient-ils l’empêcher de demeurer dans la falaise,
+          peut-être le tailleur était-il sorcier et avait-il le pouvoir de venir en esprit le
+          tourmenter pendant la nuit. Tout cela était bien confus dans sa tête ; mais après tout, le
+          fantôme qui disait dix-huit s’était enfui devant lui, et les autres n’avaient pas osé
+          paraître. Ils s’étaient contentés d’imiter des cris d’animaux, peut-être pour le faire
+          sortir de son refuge et l’égarer pendant la nuit. – Une autre fois, pensa-t-il, ils diront
+          tout ce qu’ils voudront, je ne bougerai mie, je ne me perdrai plus dans la dune, je la
+          connais à présent, et, si les lutins entrent dans ma grotte, je les battrai ; mon oncle
+          l’a dit, il me poussera des ailes de courage.</p>
+        <p/>
+        <p/>
+      </div>
+      <div title="IV" type="chapter">
+        <head>IV</head>
+        <p/>
+        <p>Il se mit à chercher de l’eau à boire. L’eau ne manquait pas, il en sortait de tous les
+          côtés. Il remarqua que plus il montait, plus elle était douce ; cependant elle avait un
+          goût terreux qui n’était point agréable. Enfin il découvrit un petit filet qui sortait de
+          l’endroit rocheux et qui sentait le thym sauvage ; mais cette bonne eau tombait goutte à
+          goutte, comme si elle eût voulu se faire prier, et il eût fallu un vase pour la
+          recueillir. Il avisa en plusieurs endroits de grandes huîtres de pierre qui étaient
+          engagées dans les marnes ; elles étaient presque toutes cassées ; la mer avait monté
+          jusque-là autrefois, et les avait roulées. En cherchant mieux, il en trouva plusieurs très
+          larges et entières. Il les adapta bien adroitement les unes au-dessus des autres dans le
+          passage du filet d’eau, de manière qu’elles pussent se remplir toutes et lui fournir une
+          provision toujours prête et toujours renouvelée. Il attendit et en emporta une bien pleine
+          pour déjeuner dans son jardin. Il n’avait que du pain sec, mais il n’était pas habitué aux
+          confitures et savait fort bien s’en passer. Il ne trouva pas la journée longue. Il faisait
+          un temps charmant, et il s’amusa à regarder les plantes qui poussaient dans son gazon et
+          qui ne ressemblaient pas à celles des herbages de la plaine. Il y en avait de
+          désagréables, tout hérissées d’épines et de dards, mais il leur pardonna ; c’était comme
+          des gardiens chargés de le défendre contre les visites fâcheuses. Il y en avait d’autres
+          très jolies qui lui plurent beaucoup et sur lesquelles il eut soin de ne pas marcher ni
+          s’asseoir, car elles égayaient les alentours de son refuge et il se serait reproché de les
+          abîmer.</p>
+        <p>Ce jour-là, par le trou pratiqué dans le vieux pan de mur au flanc de la falaise et qu’il
+          appela sa fenêtre, il se rassasia de regarder la mer. Il la trouva plus belle qu’il ne
+          l’avait encore vue. Il contempla au loin des embarcations de différentes grandeurs ;
+          aucune n’approchait des Vaches-Noires, l’endroit était réputé dangereux. Aujourd’hui on y
+          va de tous côtés recueillir des moules. Dans ce temps-là, la côte était déserte, on n’y
+          voyait pas une âme. Cette grande solitude l’enhardit. Vers le soir, il alla ramasser des
+          coquillages sur la grève pour son souper et il regarda bien si du dehors on pouvait voir
+          sa fenêtre. Cela était impossible ; elle était trop haute, trop petite, le mur était trop
+          bien caché par la végétation. Il ne put la retrouver avec ses yeux. Cette nuit-là, il
+          dormit bien tranquille. Il avait tant marché, tant grimpé pour connaître tous les recoins
+          du désert qu’il n’eut aucun besoin d’être bercé. Si les lutins s’amusèrent à crier et à
+          parler comme la veille, il ne les entendit pas. Le troisième jour fut employé à explorer
+          le bas de la dune, afin d’avoir là une bonne cachette en cas de surprise sur la plage. Il
+          en trouva dix pour une, et, tout étant ainsi arrangé et prévu, il se sentit aussi libre
+          qu’un petit animal sauvage qui connaît son lieu de promenade et son terrier. Il pensa
+          aussi à faire sa provision de coquillages pour avoir de quoi déjeuner ou dîner dans sa
+          grotte, s’il ne lui plaisait pas de redescendre pour chaque repas à la mer. Il y avait
+          beaucoup de joncs sur la côte, des genêts, des saules nains, des arbustes flexibles ; il
+          en emporta les rameaux et travailla chez lui (il disait déjà chez moi) à se faire un beau
+          grand panier assez solide. Il se fit aussi un lit excellent avec des algues que la mer
+          apportait sur le rivage. Enfin il s’imagina de chasser, et, comme il était adroit à lancer
+          des pierres, il abattit, après l’avoir guettée longtemps, une perdrix de mer qu’il voyait
+          courir et jouer sur la grève. C’était un joli oiseau très gras ; il s’agissait de le faire
+          cuire. Clopinet n’était pas embarrassé pour allumer du feu. Il avait dans son paquet une
+          chose que dans ce temps-là on appelait un fusil, et dont tout le monde était muni en
+          voyage. C’était un anneau de fer et un morceau d’amadou. Avec un caillou, on avait du feu
+          presque aussi vite qu’à présent. Il fit un tas de feuilles et de broussailles sèches, et
+          réussit à cuire son oiseau. Je ne réponds pas que la chair fût bien bonne et ne sentît pas
+          la fumée, mais il la trouva excellente et regretta de ne pouvoir en offrir une aile à sa
+          mère et une cuisse à son frère François. La perdrix de mer n’est point du tout une
+          perdrix, c’est plutôt une hirondelle. Elle vit de coquillages et non de grain. Elle est
+          très jolie avec son bec et son collier, qui ressemblent un peu en effet à ceux des
+          perdrix. Elle est à peu près grosse comme un merle. On voit que Clopinet ne risqua pas
+          d’avoir une indigestion.</p>
+        <p>Il avait vu, en chassant ce gibier, beaucoup d’autres oiseaux qui l’avaient bien tenté,
+          des guignettes, des pluviers, des alouettes de mer, qui ne sont pas non plus des
+          alouettes, mais qui sont une sorte de petits bécasseaux – des huîtriers ou pies de mer,
+          des harles, des tourne-pierres, des mauves, des plongeons, enfin une quantité de bêtes
+          emplumées qu’il ne connaissait pas, et qui, aux approches du soir, venaient s’ébattre avec
+          des cris bruyants sur le sable. Il en remarqua de très gros qui nageaient au large et qui,
+          au coucher du soleil, s’éloignaient encore plus, comme s’ils eussent eu l’habitude de
+          dormir sur la mer. D’autres revenaient à terre et se glissaient dans les fentes de la
+          dune ; d’autres prenaient leur vol, s’élevaient très haut et semblaient disparaître le
+          matin dans les petits nuages blancs qui flottaient comme des vagues dans le ciel rose. Le
+          soir, ils semblaient en redescendre pour souper sur les rochers et dans les sables.
+          Clopinet se figura d’abord qu’ils passaient la journée dans le ciel, mais il en vit un
+          très grand qui était perché sur le plus haut de la dune et qui s’en détacha pour faire un
+          tour dans les airs et descendre à son lieu de pêche. Après celui-là, et partant toujours
+          du sommet de la dune, un oiseau pareil fit le même manège, et puis un autre ; Clopinet en
+          compta une vingtaine. Il en conclut que ces oiseaux nichaient là-haut et qu’ils étaient
+          nocturnes comme les chouettes.</p>
+        <p>Clopinet qui de sa lucarne faisait beaucoup d’observations et voyait les oiseaux de très
+          près sans en être aperçu, apprit une chose qui l’amusa beaucoup. Les hirondelles de mer,
+          qui décrivaient de grands cercles autour de lui, laissaient tomber souvent de leur bec
+          quelque chose qui ressemblait à des coquillages ou à de petits poissons, et comme elles se
+          balançaient en même temps sur place en jetant un certain cri, elles avaient l’air de le
+          faire exprès et d’avertir. Il en suivit de l’œil une en particulier et regarda en bas.
+          Alors il vit remuer quelque chose par terre, comme si c’eût été le petit monde qui venait
+          ramasser la nourriture que les mères leur jetaient du haut des airs. Quand il retourna à
+          la grève, il put s’assurer qu’il ne s’était pas trompé ; mais quand il voulut s’approcher
+          des petits pour les prendre, car ils ne volaient pas encore, la mère hirondelle jeta un
+          autre cri qui, au lieu de les appeler sur le sable, les fit fuir vers la terre. Clopinet
+          les chercha sous les herbes où ils s’étaient tapis et se tenaient immobiles. Il les
+          trouva, et ne voulut point les prendre pour ne pas faire de chagrin à leur mère, qui en
+          savait probablement le compte.</p>
+        <p>Tout en regardant comment les oiseaux s’y prenaient pour pêcher, il apprit à pêcher
+          lui-même. Il n’y avait pas que des coquillages sur la rive : il y avait sur les sables, au
+          moment où la marée se retirait, quantité de petits poissons très jolis et très
+          appétissants. Il ne s’agissait que de se trouver là pour les prendre avant que le flot qui
+          les poussait ne les eût emportés. Il vit comme les oiseaux pêcheurs étaient adroits et
+          rusés. Il fit comme eux ; mais la marée était brutale, et Clopinet, sans en avoir peur,
+          voyait bien maintenant que les ailes lui manquaient pour sauter par-dessus la vague et
+          qu’il ne suffirait plus de son caprice pour devenir oiseau. Il n’avait eu cette faculté
+          que dans les moments de grand danger ou de grand désespoir et il ne souhaitait point trop
+          de s’y retrouver. Il aimait mieux s’apprendre à nager lui-même, et comme il se fiait à la
+          mer, en un jour il nagea comme une mouette et sans savoir lui-même comment cela lui
+          venait. Il faut croire que l’homme nage naturellement comme tous les animaux, et que c’est
+          la peur seule qui l’en empêche.</p>
+        <p>Cependant comme les oiseaux nageaient plus longtemps que lui sans se fatiguer et voyaient
+          mieux à travers l’eau de mer, il était loin de prendre autant de poisson qu’eux. Il
+          renonça donc à lutter avec ces habiles plongeurs et il observa d’autres oiseaux qui ne
+          plongeaient pas et fouillaient le sable encore mouillé avec leurs longs becs. Il fouilla
+          aussi avec une petite pelle qu’il se fabriqua, et il trouva des équilles à discrétion ;
+          l’équille est une petite anguille excellente qui abonde sur cette côte, et il en fit cuire
+          pour son souper. S’il avait eu du pain, il se fût trouvé nourri comme un roi ; mais le
+          sien était fini, et il n’osait pas encore se montrer pour en aller acheter à Villers.</p>
+        <p>Il résolut de s’en passer le plus longtemps qu’il pourrait et se mit en tête de trouver
+          des œufs. C’était le temps des nids ; il ne savait pas que la plupart des oiseaux de mer
+          n’en font pas, qu’ils pondent à nu ou presque à nu sur le sable ou dans les rochers. Il en
+          trouva donc par hasard là où il n’en cherchait pas, mais ils étaient si petits que cela ne
+          comptait guère ; les gros oiseaux qui devaient donner de gros œufs pondaient probablement
+          tout en haut de la falaise, et il ne semblait pas possible à une personne d’aller
+          jusque-là, car, si du côté du désert elle était de moitié moins haute que de celui de la
+          mer, elle offrait encore par là un escarpement si raide, avec des veines de terre si
+          friables, que le vertige vous prenait rien que de la regarder d’en bas.</p>
+        <p>Mais chaque jour qui s’écoulait rendait Clopinet moins poltron. Il apprenait à devenir
+          prudent, c’est-à-dire brave avec tranquillité, et à raisonner le danger au lieu de le fuir
+          aveuglément. Il étudia si bien les contours et les anfractuosités de la grande falaise,
+          qu’il monta presque au faîte sans accident. Il fut bien récompensé de sa peine, car il
+          trouva dans un trou quatre beaux œufs verts qu’il mit dans son panier, dont il avait garni
+          le fond avec des algues. Il trouva là aussi de belles plumes, et il en ramassa trois qu’il
+          mit à son bonnet. C’était trois plumes longues, minces et fines, blanches comme la neige,
+          et qui paraissaient venir de la tête ou de la queue du même oiseau. Comme les œufs étaient
+          tout chauds, il pensa bien alors que les mères venaient pondre ou couver la nuit et qu’il
+          pourrait les surprendre et s’en emparer ; mais il pensa aussi que, pour un oiseau ou deux
+          de pris, il effraierait tous les autres et risquerait de leur faire abandonner ce
+          campement. Il préféra y trouver des œufs à discrétion quand il lui plairait d’y revenir et
+          il les laissa tranquilles.</p>
+        <p>Huit jours s’étaient déjà passés, et Clopinet n’avait vu personne ni sur le rivage ni sur
+          les dunes. Il avait été si occupé qu’il n’avait pas eu le temps de s’ennuyer ; mais quand
+          il se fut bien installé et à peu près assuré de sa nourriture, quand les dunes et le
+          rivage n’eurent plus un seul recoin qu’il n’eût exploré et fouillé, il en vint à trouver
+          la journée longue et à ne trop savoir que faire du repos. Déjà il connaissait à peu près
+          les habitudes de toutes les bêtes au milieu desquelles il vivait ; il eût souhaité
+          connaître leurs noms, de quels pays elles venaient, raconter les observations qu’il avait
+          faites, causer enfin avec quelqu’un. Le temps était très beau, le pied boueux des dunes
+          séchait au soleil de mai et la plage redevenait un chemin praticable, aux heures de marée
+          basse. Il vit donc apparaître quelques passants, et le cœur lui battit bien fort de
+          l’envie d’aller leur parler, ne fût-ce que pour leur dire : « Il fait beau temps, il y a
+          du plaisir à marcher. » Il n’osa pas, car, si on venait à lui demander qui il était et ce
+          qu’il faisait là, que répondrait-il ? Il savait qu’on blâme les vagabonds et que parfois
+          on les ramasse pour les mettre en prison. Il était trop simple et trop honnête pour se
+          donner un faux nom et inventer une fausse histoire ; il aima mieux ne pas se montrer.</p>
+        <p>Cependant, un matin le vent d’est lui apporta un son de cloches et lui apprit que c’était
+          dimanche. Par habitude il mit ses meilleurs habits, et puis il attacha les trois plumes
+          blanches à son bonnet, il se chaussa bien proprement, et, bien peigné, bien lavé, il se
+          mit à marcher sans trop savoir où il allait. Il avait coutume d’aller à la messe le
+          dimanche. C’était jour de rencontre et de causerie avec les jeunes gars de sa paroisse,
+          parents ou amis. On jouait aux quilles, on dansait quelquefois. Cette cloche qui sonnait,
+          c’était un appel à la vie commune ; Clopinet ne comprenait pas qu’on pût rester seul le
+          dimanche.</p>
+        <p>Qui sait s’il ne rencontrerait pas encore son frère François ? Il eût risqué beaucoup
+          pour avoir des nouvelles de ses parents, il se risqua donc ; le tailleur devait être bien
+          loin du côté d’Honfleur. Il coupa à vol d’oiseau à travers le désert et se trouva bientôt
+          à deux pas au-dessus de Villers. Comme il n’y connaissait personne et que personne ne l’y
+          connaissait, il espéra passer inaperçu, voir des figures de chrétiens et entendre le son
+          de la voix humaine sans qu’on fit attention à lui. Cela lui était déjà arrivé dans cet
+          endroit, puisqu’il y avait passé deux fois ; mais cette fois-ci il fut très étonné de voir
+          que tout le monde le regardait et se retournait même pour le suivre des yeux.</p>
+        <p/>
+        <p/>
+      </div>
+      <div title="V" type="chapter">
+        <head>V</head>
+        <p/>
+        <p>Cela l’inquiéta, et il pensait à s’en retourner ; mais, comme il passait devant un
+          boulanger, l’envie de manger du pain fut si grande qu’il s’arrêta sur la porte pour en
+          demander.</p>
+        <p>– Combien en veux-tu, mon garçon ? lui demanda le boulanger, qui l’examinait d’un air de
+          surprise enjouée.</p>
+        <p>– Pouvez-vous m’en donner un bien gros ? dit Clopinet, qui désirait en avoir pour
+          plusieurs jours.</p>
+        <p>– Certainement, répondit le boulanger, et même deux, et même trois, si tu as la force de
+          les emporter.</p>
+        <p>– Eh bien ! donnez-m’en trois, reprit Clopinet, je les porterai bien.</p>
+        <p>– Il y a donc bien du monde à nourrir chez vous ?</p>
+        <p>– Apparemment, répondit l’enfant, qui ne voulait pas faire de mensonges.</p>
+        <p>– Oh ! oh ! tu es bien fier ! Tu n’aimes pas à causer ? Tu ne veux pas dire qui tu es et
+          où tu demeures, car je ne te connais point, et tu n’es pas du pays ?</p>
+        <p>– Non, je ne suis point d’ici, répondit Clopinet ; mais je n’ai pas le temps de causer.
+          Donnez-moi mes trois pains, s’il vous plaît, et dites-moi ce qu’il faut vous donner
+          d’argent.</p>
+        <p>– Ah dame ! ça fait de l’argent, car le pain est très cher ici ; mais, si tu veux me
+          donner les trois plumes que tu as à ton bonnet, tu pourras revenir tous les dimanches
+          pendant un mois chercher autant de pain qu’aujourd’hui sans que je te demande d’argent. Tu
+          vois que je suis raisonnable, et tu dois être content.</p>
+        <p>Clopinet crut d’abord que le boulanger se moquait de lui ; mais, comme cet homme
+          insistait, il lui vint tout à coup assez de jugement dans l’esprit pour se dire que ses
+          trois plumes devaient être quelque chose de rare et que c’était cela que le monde
+          regardait et non pas lui. Il les ôta vitement, et le boulanger tendait déjà la main pour
+          les prendre quand Clopinet, qui ne tenait pas à l’argent, parce qu’avec ses deux gros écus
+          il se croyait riche pour toute sa vie, refusa de donner ces plumes si belles et qu’il
+          avait été chercher si haut, au péril de sa vie. – Non, dit-il, voilà de l’argent ;
+          payez-vous de vos trois pains, j’aime mieux garder mes trois plumes.</p>
+        <p>– Veux-tu du pain deux fois par semaine au lieu d’une seule fois ?</p>
+        <p>– Non, merci, j’aime mieux payer.</p>
+        <p>– Veux-tu quatre pains par semaine pendant deux mois ?</p>
+        <p>– Je vous dis que non, répondit Clopinet, j’aime mieux mes plumes.</p>
+        <p>Le boulanger lui donna les trois pains, Clopinet paya et s’éloigna ; mais, comme pour
+          reprendre le chemin du désert il devait tourner la rue, il se retrouva derrière la maison
+          du boulanger et il entendit que cet homme disait : – Non ! pour quarante-huit livres de
+          pain, il n’a pas voulu me céder ses plumes !</p>
+        <p>Clopinet s’arrêta sous la fenêtre et entendit une voix de femme qui disait : – Était-ce
+          bien des plumes de roupeau ?</p>
+        <p>– Oh ! des vraies, et des plus belles que j’aie jamais vues !</p>
+        <p>– Diantre ! reprit la femme, ça devient rare ; les roupeaux ne nichent plus sur la plage,
+          et à présent il y a de ces aigrettes qu’on paie un louis la pièce. Ça t’aurait fait trois
+          louis ! Eh bien il faut courir après ce petit et lui offrir un écu de trois livres pour
+          chaque plume ; peut-être aimera-t-il mieux de l’argent blanc qu’un crédit de pain.</p>
+        <p>Clopinet, on l’a vu, ne tenait pas à l’argent blanc. Il doubla le pas, et pendant que le
+          boulanger le cherchait d’un côté, il se sauva de l’autre et retourna vers son désert.</p>
+        <p>Cette aventure lui donnait bien à penser. – Pourquoi donc, se disait-il, ces plumes de
+          roupeau, puisque roupeau il y a, sont-elles si précieuses ? Comment est-il possible que
+          des plumes d’oiseau puissent valoir un louis d’or la pièce ? J’aurais cru que cela ne
+          pouvait servir que d’amusette à se mettre sur la tête, et voilà que, si j’avais demandé au
+          boulanger de me nourrir pendant un an, il aurait peut-être dit oui pour avoir mes trois
+          plumes !</p>
+        <p>N’ayant pas encore connu la misère, Clopinet n’était pas intéressé. Il était bien plus
+          sensible au plaisir de posséder une chose rare qui avait peut-être une vertu merveilleuse,
+          inconnue. Comme il était absorbé par ces réflexions et suivait, sans plus se méfier de
+          rien, le chemin du milieu des dunes, il entendit derrière lui une voix aigre et criarde
+          qui disait : – Vous dites qu’il a pris par là ; soyez tranquilles, je le rattraperai bien,
+          et s’il ne veut pas vendre ses plumes, je les lui arracherai ; comme ça nous les aurons
+          pour rien et c’est la meilleure manière de faire les affaires.</p>
+        <p>Cette voix était encore loin, mais elle était si perçante qu’elle portait à bonne
+          distance, et comme elle était de celle qu’on n’oublie pas, Clopinet reconnut que le
+          tailleur en personne était à sa poursuite. Tout aussitôt ses ailes de peur l’emportèrent
+          bien loin du chemin dans les buissons ; mais, quand il fut là, il se sentit très honteux
+          d’être si lâche devant un bossu, lui qui était monté à la grande dune et qui avait nagé
+          dans la mer, deux choses que Tire-à-gauche n’eût jamais osé tenter. – Il faut, pensa-t-il,
+          que je devienne un homme et que je cesse de craindre un autre homme ; sans cela, je serai
+          toujours malheureux et ne pourrai aller où bon me semble. Je suis aussi grand et aussi
+          fort que cet avorton de tailleur, et mon oncle Laquille assure qu’il n’est brave qu’avec
+          ceux qui ne le sont pas. Finissons-en, allons ! et que les bons esprits de la mer me
+          protègent !</p>
+        <p>Il remit fièrement ses trois plumes à son bonnet, posa ses trois pains sur l’herbe, et,
+          ramassant son bâton qui était solide et ferré au bout, il s’en alla tout droit au-devant
+          du tailleur, résolu à taper dessus et à le dégoûter de courir après lui. Quand il le vit
+          en face, le cœur lui manqua et il faillit s’enfuir encore ; mais tout aussitôt il agita
+          ses bras en se disant que c’était des ailes de courage et il fit faire à son bâton un
+          moulinet rapide très bien exécuté. Le tailleur s’arrêta net, et, faisant deux pas en
+          arrière : – Tiens ! dit-il en ricanant comme pour faire le gracieux ; c’est mon petit
+          apprenti ! Holà ! Clopinet, mon mignon, reconnais-moi, je suis ton ami et ne te veux point
+          de mal.</p>
+        <p>– Si fait, répondit Clopinet, vous voulez me voler mes trois plumes. Je le sais.</p>
+        <p>– Oui-da ! reprit le tailleur tout étonné, qui a pu te dire pareille chose ?</p>
+        <p>– Les esprits apparemment, répondit Clopinet qui se tenait sur une grosse pierre au bord
+          du chemin, toujours en position pour défendre son trésor et sa liberté. Aussitôt qu’il eut
+          dit ces mots, il vit Tire-à-gauche pâlir et trembler, car ce bossu croyait aux esprits
+          plus que personne : – Voyons, petit, reprit-il, tu es bien méchant ! Dis-moi où nichent
+          les roupeaux qui te donnent de pareilles aigrettes, je ne te demande pas autre chose.</p>
+        <p>– Ils nichent, répondit Clopinet, dans un endroit où les oiseaux et les esprits peuvent
+          seuls monter. C’est vous dire que je ne vous crains pas et que, si vous tentez encore
+          quelque chose contre moi, je vous y porterai comme un roupeau y porte un crabe et vous
+          ferai rouler au fond de la mer.</p>
+        <p>Clopinet parlait ainsi, poussé par je ne sais quel vertige de colère et de fierté. Le
+          tailleur crut tout de bon qu’il s’était donné aux lutins, et, tournant les talons,
+          marmottant je ne sais quelles paroles, il reprit le chemin de Villers à toutes jambes.
+          Clopinet, émerveillé de sa victoire, rentra dans le travers de la dune, ramassa ses pains
+          et les porta lestement dans sa grotte.</p>
+        <p>Là, il se parla tout haut à lui-même, car il avait absolument besoin de parler : – C’est
+          fini, dit-il ; je n’aurai plus peur de rien et personne ne m’emmènera jamais où je ne
+          voudrai pas aller. Me voilà délivré, et si c’est l’esprit de la mer qui m’a donné du
+          courage, je ne veux plus jamais perdre ce qu’il m’a donné. À présent, se dit-il encore, je
+          chercherai d’autres plumes de cet oiseau merveilleux dont l’aigrette, je ne sais pourquoi,
+          fait tant d’envie au monde ; quand j’en aurai beaucoup, je les vendrai, et j’irai dire à
+          mon père : je n’ai pas besoin d’être tailleur, et, tout boiteux que je suis, me voilà
+          capable de gagner plus d’argent en un jour que mes frères en un an. Comme cela, le père
+          sera content et me laissera vivre à mon idée.</p>
+        <p>Il se retrouva donc dans sa solitude avec plaisir. Il était si content d’avoir du pain,
+          et celui qu’il avait acheté était si bon, qu’il ne se régala pas d’autre chose ce jour-là.
+          La crainte de trop jeûner ou d’être trop absorbé par le souci de pêcher chaque repas
+          l’avait un peu inquiété les jours précédents. Sûr désormais de circuler sans crainte et
+          d’acheter ce qu’il voudrait, il ne borna plus son ambition à prendre des petits oiseaux et
+          des petits poissons pour ses repas. Il voulut avoir des choses de luxe, des aigrettes à
+          rendre jaloux tous les habitants du pays et à faire crever de rage le sordide
+          tailleur.</p>
+        <p>Le lendemain, il fit une chose périlleuse et difficile. Il n’attendit pas le jour pour
+          monter tout au beau milieu des grands pics déchiquetés de la falaise, et il y monta si
+          adroitement et si légèrement qu’il ne réveilla pas un seul oiseau. Alors il se coucha
+          doucement sur le côté, de manière a bien voir sans avoir à faire aucun mouvement. Il ne
+          s’était pas aventuré jusque-là la première fois ; il fut surpris d’y trouver une ruine
+          qu’on ne voyait qu’en y touchant et dont il put s’expliquer la destination. L’endroit
+          était fort bien choisi pour servir de refuge à des oiseaux qui aiment à percher. On avait
+          établi là autrefois une vigie, c’est ce qu’on appelle aujourd’hui un sémaphore ; vous en
+          avez vu un dans une autre partie de ces mêmes dunes. Cela sert à noter tout ce qui se
+          passe sur la mer et à transmettre des avis. Jadis c’était une simple baraque d’observation
+          pour empêcher le vol du sel, qui était une contrebande très répandue sous le nom de faux
+          saulnage.</p>
+        <p>La baraque en question s’était écroulée avec un pan de la grande falaise. Ses ais
+          disjoints et sa charpente étaient restés en partie debout, engagés dans une fente, et les
+          roupeaux, qui aiment les arbres, mais qui avaient été très pourchassés dans les bois et
+          les étangs du pays à cause de leur précieux plumage, avaient établi leur colonie sur cette
+          ruine invisible du dehors et depuis longtemps oubliée. Un petit marécage s’était formé à
+          une certaine distance de l’éboulement, et beaucoup d’autres oiseaux aquatiques avaient
+          transporté de ce côté leur domicile.</p>
+        <p>Cette vigie expliquait l’ermitage et la lucarne d’observation situés au-dessous et de
+          même abandonnés. Sans doute, c’était un refuge que les guetteurs, condamnés à vivre dans
+          ce poste dangereux, s’étaient creusé et construit en secret pour se mieux abriter des
+          tempêtes sans être réprimandés par leurs chefs.</p>
+        <p>Clopinet, qui avait rapporté de son court séjour à Trouville des notions un peu plus
+          nettes qu’auparavant, fut content de voir qu’il était seul en possession du secret de sa
+          demeure et de celle des roupeaux. Il observa leurs nids, grossièrement construits avec des
+          branches et tous placés dans les bifurcations des bois de charpente. Il n’y vit que des
+          femelles qui couvaient sans se déranger, mais peu à peu les mâles arrivèrent pour se
+          reposer de leur chasse nocturne ; c’est à cause de leurs habitudes et aussi à cause de
+          leur cri que les anciens naturalistes les ont appelés nycticorax, corbeaux de nuit. Ils
+          appartiennent à la même famille que les hérons ; leur vrai nom est bihoreaux. Leur plumage
+          est épais, et leur vol est sans bruit comme celui des oiseaux nocturnes. Cependant,
+          lorsqu’ils ont des petits, ils chassent aussi le jour ; mais il n’y en avait pas encore de
+          nés dans la colonie, et ces messieurs y venaient dormir après avoir fait manger ces dames.
+          Clopinet, qui, les voyant d’abord en dessous, les avait crus tout blancs, reconnut qu’ils
+          n’avaient de blanc que le cou et le ventre. Leurs ailes étaient gris de perle ; un joli
+          manteau vert sombre leur couvrait le dos, et de leur bonnet, vert aussi, tombait sur le
+          dos, cette longue et fine aigrette invariablement composée de trois plumes. Les mâles
+          seuls paraissaient avoir cette riche coiffure ; cependant Clopinet vit que plusieurs ne
+          l’avaient pas encore ou ne l’avaient plus. C’était le moment de la mue, et beaucoup de ces
+          plumes précieuses, éparses sur les rochers, étaient le jouet du vent. Clopinet ne bougea
+          pourtant pas pour les ramasser, voulant voir les habitudes de ces rôdeurs de nuit, qui,
+          sans faire attention à lui, apportaient aux couveuses les poissons, coquillages et
+          insectes qu’ils avaient pris. Le repas terminé, ils s’aperçurent de la présence de
+          l’étranger, et tous en même temps, avertis par le cri de l’un deux, tournèrent la tête de
+          son côté.</p>
+        <p>D’abord Clopinet fut un peu ému de voir tous ces grands yeux rouges qui le regardaient.
+          Les mâles étaient bien là une cinquantaine, gros comme de jeunes dindons, armés de longs
+          becs et de griffes pointues. Si tous se fussent mis après l’enfant curieux, ils eussent pu
+          lui faire un mauvais parti ; mais ils le contemplèrent d’un air de stupéfaction, et, ne le
+          voyant pas remuer, ils ne s’occupèrent plus que de se quereller entre eux à coups d’aile
+          et sans se blesser, puis ils se mirent à se gratter, à s’étendre, même à bâiller comme des
+          personnes fatiguées ; enfin, chacun cherchant un endroit commode, tous s’endormirent sur
+          une patte au lever du soleil. Alors Clopinet se leva doucement et fit sa récolte de plumes
+          sans les déranger, après quoi il redescendit, sagement résolu à ne pas les dégoûter de
+          leur campement et à ne plus prendre les œufs des femelles.</p>
+        <p>Il y retourna la nuit suivante avant que les mâles fussent revenus de leur chasse
+          nocturne. Il n’éveilla pas les couveuses et mit du pain devant leurs nids, pensant
+          qu’elles le trouveraient bon et lui en sauraient gré. Il ne se trompait pas, bien que ce
+          fût une idée d’enfant. Presque tous les oiseaux aiment le pain, quelque différente que
+          soit leur nourriture, et le matin suivant il vit que le sien avait été mangé. Il continua
+          ainsi, et bientôt tous les bihoreaux, mâles et femelles, furent habitués à le voir, se
+          sauvèrent peu loin à son approche, enfin ne se sauvèrent plus du tout. Il en était né de
+          jeunes qui, le connaissant avant de connaître la peur de l’homme, se trouvèrent si bien
+          apprivoisés qu’ils venaient à lui, se couchaient sur ses genoux, mangeaient dans sa main,
+          et le suivaient jusqu’au bord de la dune quand il les quittait.</p>
+        <p>Il prit tant de plaisir à cette occupation qu’il ne s’ennuyait plus du tout. Il
+          commençait à aimer ces oiseaux sauvages comme il n’avait jamais aimé ses pigeons et ses
+          poules ; il méprisait ces amitiés banales et se sentait fier d’avoir apprivoisé des
+          animaux méfiants, dont les gens du pays cherchaient en vain la retraite et ne pouvaient
+          approcher. Il se prit aussi d’affection pour tous les autres oiseaux, car il s’aperçut
+          que, semant du pain partout dans ses promenades, marchant posément et sans bruit,
+          n’attaquant et n’effrayant aucun d’eux, il arrivait à ne plus les mettre en fuite et à les
+          voir se poser, voltiger et s’ébattre tout près de lui. Il se reprocha le meurtre de la
+          perdrix de mer, et s’en alla acheter du fromage et de la viande, afin de ne plus être
+          tenté de tuer les compagnons de sa solitude.</p>
+        <p>Il n’alla pas faire ses provisions à Villers, où il craignait d’être reconnu, tourmenté,
+          et peut-être suivi par le boulanger. Il avait remarqué un hameau plus proche, puisqu’il
+          est situé sur la dune même, du côté où elle s’abaisse vers la terre ferme. Je crois que ce
+          hameau s’appelle Auberville. Il y trouva tout ce qu’il souhaitait et même des pommes bien
+          conservées qu’il paya cher. Il n’était pas assez raisonnable pour ne pas faire quelques
+          folies. Il y but un pichet de cidre ; il l’aimait tant ! Il eut bien soin de ne pas
+          arborer son aigrette et de ne point causer inutilement. Il avait désormais deux secrets à
+          garder, son nom et son pays, afin de n’être pas reconduit de force chez ses parents ; son
+          domicile dans la falaise, afin de n’y pas attirer les enfants curieux ou les chasseurs
+          amateurs d’aigrettes ; mais en écoutant causer il apprit plusieurs choses sur le pays, et
+          il vit que les jeunes habitants de ce village connaissaient assez bien les mœurs des
+          oiseaux de la côte. Ils n’en citaient que deux espèces précieuses : les roupeaux ou
+          bihoreaux, qu’on ne pouvait plus atteindre, ils se cachaient trop bien ou ne nichaient
+          plus dans le pays ; et les petits grèbes, qui ne faisaient que passer et auxquels on avait
+          tant fait la chasse qu’ils étaient devenus rares et méfiants. Clopinet fit des questions
+          sur ces grèbes et apprit encore que le plumage épais et brillant de leur ventre se vendait
+          comme fourrure d’ornement aux marchands plumassiers, qui passaient deux fois l’an. Comme
+          il avait déjà une douzaine d’aigrettes, Clopinet souhaitait beaucoup de savoir le jour et
+          l’heure où passeraient ces brocanteurs, afin de faire affaire avec eux ; mais il craignait
+          d’adresser trop de questions et il se promit de mieux s’informer un autre jour.</p>
+        <p/>
+        <p/>
+      </div>
+      <div title="VI" type="chapter">
+        <head>VI</head>
+        <p/>
+        <p>Il s’étonnait qu’on n’eût pas encore été chercher les bihoreaux où il les avait trouvés,
+          et à ce sujet il entendit raconter une chose qui ne laissa pas de l’inquiéter un peu.
+          Autrefois, disait quelqu’un, on trouvait ces bêtes sur les arbres de la grande falaise ;
+          mais depuis qu’il en est tombé un grand morceau dans la mer et qu’il n’y a plus d’arbres
+          pour retenir les terres, on n’y va plus. On prétend que le poids d’une personne suffirait
+          pour faire ébouler le reste. Clopinet s’en alla un peu tourmenté, lui qui demeurait dans
+          cette falaise et qui presque tous les matins montait au faîte !</p>
+        <p>La nuit, il eut peur. Il y eut de la houle, et le bruit de la mer arrivait à lui comme
+          par rafales ; à chaque instant il s’éveillait, croyant que c’était la falaise qui
+          s’écroulait. Il avait trop bien examiné l’endroit pour n’être pas sûr que son ermitage
+          était absolument de la même nature que les gros cailloux appelés les Vaches-Noires et les
+          Vaches-Blanches, lesquels avaient été autrefois portés par les terres et s’étaient
+          écroulés avec elles. La mer continuait à ronger le pied des dunes, et chaque hiver,
+          disait-on, elle en mangeait de bons morceaux. Ces gros cailloux qui paraissaient faire la
+          sécurité du refuge de Clopinet pouvaient bien reposer sur un sol aussi fragile que les
+          terres qui le couvraient ; puis, à supposer qu’elles ne dussent pas se dérober sous lui,
+          celles d’au-dessus pouvaient s’effondrer, lui fermer le passage et l’ensevelir vivant dans
+          sa grotte. Il ne dormit guère, car, à mesure que la réflexion lui venait, il sentait bien
+          que, si le raisonnement est une chose nécessaire, il est aussi une chose triste et une
+          source de mille appréhensions. Heureusement cet enfant-là avait dans la tête une passion
+          qui était plus forte que la crainte du danger : c’était de vivre libre et maître de
+          lui-même dans la nature. Il ne connaissait pas ce mot-là, la nature, mais il se sentait
+          épris de la vie sauvage et comme orgueilleux de résister à la tentation de retourner au
+          repos des champs et aux douceurs de la famille. Il resta donc dans son nid d’oiseau,
+          s’imaginant que, puisque les oiseaux nichaient au-dessus de lui, c’est qu’ils en savaient
+          plus long que les hommes et avaient l’instinct de connaître que la montagne était
+          solide.</p>
+        <p>Il passa là tout l’été, s’approvisionnant tantôt dans un endroit, tantôt dans un autre,
+          ne se faisant connaître nulle part, s’habituant de plus en plus à ne vivre que des
+          produits de la mer et de fruits sauvages, afin d’éviter d’être l’esclave de son ventre. Il
+          devint peu à peu si sobre que la gourmandise ne l’attira plus du côté de la campagne. Il
+          réussit à rencontrer les marchands plumassiers en tournée et à s’aboucher avec eux sans
+          témoins. Il eut assez de raisonnement pour ne pas montrer trop d’exigence, afin d’établir
+          des rapports pour l’avenir. Il se contenta d’un gros écu pour chaque plume, et, comme il
+          en avait recueilli une cinquantaine, il lui fut compté en beaux louis d’or trois cents
+          livres, somme énorme pour ce temps-là, et qu’un petit paysan de son âge n’avait certes
+          jamais gagnée.</p>
+        <p>Quand il se vit à la tête d’une telle fortune, il résolut d’aller la porter à ses
+          parents ; mais auparavant il souhaita revoir son oncle Laquille, et, aux approches de
+          l’hiver, il se mit en route pour Trouville. Comme il voulait se présenter convenablement à
+          sa famille, et que ses habits, même les meilleurs, étaient très avariés par l’escalade
+          continuelle et le manque d’entretien, il se commanda à Dives, où il avait fait quelques
+          apparitions, un habillement tout neuf, un peu de linge et de bonnes chaussures. Il paya
+          tout très honnêtement, et, son bâton à la main, son argent en poche, il se dirigea sur
+          Trouville, où il rencontra son oncle tout en larmes, revenant de l’église. Il venait
+          d’enterrer sa femme, et, bien qu’elle l’eût rendu aussi malheureux qu’il lui avait été
+          possible, le pauvre homme la pleurait comme si c’eût été un ange. Il fut bien étonné de
+          revoir Clopinet, qu’il croyait retourné chez ses parents, et qu’il hésitait à reconnaître,
+          tant il était changé. Sans s’en apercevoir, Clopinet avait grandi, il avait le teint hâlé
+          que donne l’air de la mer ; à force de grimper et d’agir, il avait pris de la force, sa
+          jambe faible était devenue aussi bonne que l’autre, il ne boitait plus du tout. Sa figure
+          aussi avait pris un autre air, un regard vif, pénétrant, une expression assurée et
+          sérieuse. Ses habits, mieux faits que ceux que Tire-à-gauche fabriquait de routine aux
+          paysans, lui donnaient aussi meilleure tournure et meilleure mine que par le passé.
+          Laquille en fut frappé tout de suite.</p>
+        <p>– D’où sors-tu, s’écria-t-il, tu ne viens pas de chez tes parents ?</p>
+        <p>– Non, dit Clopinet, mais donnez-moi vitement de leurs nouvelles ; nous parlerons de moi
+          après.</p>
+        <p>– Je ne puis t’en donner, répliqua l’oncle ; quand tu t’es sauvé de chez nous pendant la
+          nuit, il y a bientôt... six mois... je pense...</p>
+        <p>– Oui, mon oncle, j’ai compté les lunes.</p>
+        <p>– Eh bien ! j’ai été inquiet de toi et je t’ai cherché autant que j’ai pu ; mais, une
+          douzaine de jours après, le tailleur a repassé par ici, disant qu’il t’avait vu en bonne
+          santé auprès de Villers et qu’il n’avait pas voulu te contraindre à le suivre, pensant que
+          ta famille t’avait repris et t’envoyait là en commission. Alors je ne me suis plus
+          tourmenté à ton sujet, et, ma pauvre femme étant tombée malade, je n’ai plus quitté le
+          pays que pour aller à la mer quand il le fallait, de sorte que je n’ai rien su de ta
+          famille. Bien sûr, elle te croit embarqué, puisqu’il était convenu avec ton frère François
+          que tu le serais et qu’il aura dit comme cela, le croyant aussi pour son compte. À présent
+          je pense que tu peux aller chez toi sans crainte d’être recédé au tailleur. Je ne sais pas
+          ce que tu lui auras dit quand tu l’as rencontré ; il a juré qu’il aimerait mieux prendre
+          le diable en apprentissage qu’un gars aussi bizarre et aussi revêche que toi. J’ai pensé
+          que tu lui avais montré les dents, et je ne t’en ai pas blâmé.</p>
+        <p>– Je lui ai montré mon bâton, reprit Clopinet ; vous l’aviez prédit, mon oncle, il m’a
+          poussé des ailes de courage. – Et là-dessus il raconta toute son histoire et fit voir ses
+          cent écus au marin émerveillé.</p>
+        <p>– Eh bien ! s’écria l’oncle Laquille, voilà que tu es riche, et tu peux faire de ta vie
+          ce que tu voudras. Du moment que tu peux te rendre utile, personne ne refusera de
+          t’embarquer, et tu peux t’en aller dans les pays lointains où il y a des oiseaux bien
+          autrement rares et superbes que tes roupeaux : des paille-en-queue, des aigrettes blanches
+          d’Amérique, des oiseaux de paradis, des phénix qui renaissent de leurs cendres, des
+          condors qui enlèvent des bœufs, et cent autres dont tu n’as pas seulement l’idée.</p>
+        <p>– C’est vrai que c’est là ce qui me manque, reprit l’enfant. Je ne sais rien, et il
+          faudrait savoir.</p>
+        <p>– On apprend tout en voyageant.</p>
+        <p>Cette belle parole de l’oncle ne persuada pas beaucoup le neveu. Laquille avait fait le
+          tour du monde sans avoir appris à lire, et Clopinet commençait à voir, en causant avec
+          lui, qu’il avait les notions les plus fausses sur les choses les plus simples, comme de
+          croire que certains oiseaux ne mangeaient pas et vivaient de l’air du temps, que d’autres
+          ne se reproduisaient pas et naissaient des anatifes, mollusques à tubercules qui
+          s’attachent à la carène des navires. Clopinet avait l’esprit très romanesque, il croyait
+          volontiers aux oiseaux fées, c’est-à-dire aux génies prenant des formes et des voix
+          d’oiseau ; mais il avait déjà trop observé les lois de la vie pour partager les erreurs et
+          préjugés de son oncle.</p>
+        <p>Pourtant l’idée de voyager le tentait bien. Pour se désennuyer dans sa solitude, il avait
+          tant rêvé de voyages au long cours ! Laquille lui conseillait d’aller à Honfleur et de
+          prendre passage sur quelque bâtiment partant pour l’Angleterre, il y en avait toujours.
+          Les grèbes nichaient par là, et Clopinet en prendrait à discrétion ; mais quand l’enfant
+          sut qu’il fallait les tuer et les écorcher pour avoir leur plumage, il secoua la tête,
+          cela lui faisait horreur.</p>
+        <p>Comme après souper il se promenait avec son oncle sur la grève, ils revinrent sur ce
+          sujet, et Clopinet se sentit troublé et affolé par la vue des grosses barques qui se
+          préparaient à partir dès le lendemain matin pour Honfleur. Il était presque décidé à
+          s’arranger avec le patron d’une de ces embarcations, lorsqu’il entendit passer dans la
+          nuit sombre les petites voix d’enfants qu’il connaissait si bien. – Les voilà !
+          s’écria-t-il, les voilà qui viennent me chercher ! – L’oncle, ne sachant ce qu’il voulait
+          dire, restait bouche béante, attendant qu’il s’expliquât. Clopinet ne s’expliquait pas ;
+          il courait, les bras étendus, suivant le vol des esprits invisibles qui l’appelaient
+          toujours. D’abord ils suivirent la grève, semblant se diriger vers le lieu
+          d’embarquement ; mais tout à coup ils firent un crochet, quittèrent le rivage et prirent à
+          travers champs. Clopinet les suivit tant qu’il put, mais sans réussir à s’envoler, et il
+          revint essoufflé vers son oncle, qui le croyait fou.</p>
+        <p>– Voyons, mon petit, lui dit le brave homme, est-ce que tout de bon tu prends les courlis
+          pour des esprits ?</p>
+        <p>– Les courlis ? Que voulez-vous dire, mon oncle ?</p>
+        <p>– Tu ne connais pas ces oiseaux-là ? Il est vrai qu’ils ne voyagent que dans les nuits
+          bien noires et qu’on ne les voit jamais. On ne les connaîtrait pas, si on n’en tuait point
+          quelquefois en tirant au hasard dans le tas, ce qui est bien rare, car on dit qu’ils
+          volent plus vite que les grains de plomb du fusil. Je conviens que ce sont des oiseaux
+          extraordinaires, ils pondent dans les nuages, et c’est le vent qui les couve.</p>
+        <p>– Non, mon oncle, reprit vivement Clopinet ; si ce sont des oiseaux, des courlis, comme
+          vous les appelez, ils ne pondent pas dans les nuages, et si ce ne sont pas des oiseaux, si
+          ces voix sont celles des esprits, comme j’en suis sûr, ils ne pondent pas du tout. Que
+          leur chant ressemble à celui des courlis, c’est possible ; moi aussi, la première fois que
+          je les ai entendus, j’ai dit : Voilà des oiseaux de nuit qui passent ; mais, en les
+          écoutant bien, j’ai compris leurs paroles. Ils m’ont appelé, ils m’ont fait pousser des
+          ailes, ils m’ont appris à courir sans me mouiller, sur la mer, la nuit que j’ai passée sur
+          la Grosse-Vache-Noire ; ils m’ont aidé à m’envoler de chez vous par la lucarne de votre
+          maison, enfin ils m’ont secouru et consolé. Je crois en eux, je les aime, et partout où
+          ils me diront d’aller, je les suivrai.</p>
+        <p>– Et pourtant, reprit l’oncle, tu ne les as pas suivis tout à l’heure ?</p>
+        <p>– Ils n’ont pas voulu ; mais ils m’ont bien montré, en quittant le bord de la mer, que je
+          ne devais pas m’embarquer cette nuit. Ils ont volé de ce côté-ci, du côté du midi.
+          Dites-moi si c’est par là que mon pays se trouve ?</p>
+        <p>– C’est par là certainement, à trois lieues de la mer en droite ligne.</p>
+        <p>– Eh bien ! c’est par là qu’il me faut aller dès demain matin. Je dois aller embrasser
+          mes parents et leur donner l’argent que j’ai gagné.</p>
+        <p>– Très bien, mais ils te le garderont, et tu ne pourras plus voyager.</p>
+        <p>– Je pourrai toujours retourner à mon trou de la falaise et faire une nouvelle provision
+          de plumes ; d’ici là, j’aurai leur permission pour me faire marin.</p>
+        <p>Clopinet suivit son idée. Il se fit enseigner son chemin, et dès le lendemain, vers midi,
+          il se trouvait à la porte de son enclos.</p>
+        <p/>
+        <p/>
+      </div>
+      <div title="VII" type="chapter">
+        <head>VII</head>
+        <p/>
+        <p>La première personne qu’il vit fut sa mère, qui le reconnut bien de loin malgré son
+          changement, et pensa mourir de joie en le serrant dans ses bras. Clopinet en fut tout ému,
+          car il s’était imaginé dans sa tristesse qu’elle ne l’aimait qu’un peu, et il vit bien
+          qu’elle le chérissait d’autant plus qu’elle s’était fait violence pour le laisser partir.
+          Le père Doucy, le frère François et les autres accoururent et lui firent grande fête, car
+          de le voir si bien vêtu, si bien portant et si bien guéri de sa boiterie prouvait de reste
+          qu’il n’avait pas souffert dans son voyage. On pensait qu’il arrivait de loin, et François
+          lui-même le croyait, n’ayant pas été détrompé par l’oncle Laquille, qu’on n’avait point
+          revu. Le père Doucy gronda pourtant un peu Clopinet d’avoir disposé de lui-même contre le
+          gré de sa famille, et il ne manqua pas d’ajouter que, s’il n’arrivait point à bien gagner
+          sa vie, il serait une charge pour les siens. Clopinet prit la chose modestement, et, sans
+          faire d’embarras, il présenta sa bourse à son père en lui disant : – J’espère continuer à
+          gagner bien honnêtement ma vie sans faire de tort aux hommes ni aux bêtes. Voilà ce qui
+          m’a été payé pour six mois de ma peine, et si cet argent-là vous fait besoin ou seulement
+          plaisir, je vous prie de l’accepter, mon cher père. Je compte que l’an prochain je vous en
+          apporterai davantage.</p>
+        <p>Toute la famille ouvrit de grands yeux en voyant les louis d’or de Clopinet, mais le père
+          Doucy hocha la tête. – Où as-tu pris cet argent-là, mon garçon ? Il faut t’expliquer
+          là-dessus, car j’ai beau être un paysan et n’avoir couru ni la mer ni les villes, je sais
+          fort bien qu’un apprenti mousse ou tout autre chose est assez payé quand, à ton âge, il
+          gagne sa nourriture.</p>
+        <p>Clopinet, voyant que son père le soupçonnait d’avoir fait quelque chose de mal, lui dit
+          la vérité sur la source de sa richesse et ne le trouva pas incrédule, car on savait dans
+          le pays que certains plumages d’oiseau étaient fort recherchés par les plumassiers.
+          Seulement le père Doucy observa que les roupeaux ne se voyaient plus au pays d’Auge, et
+          que sans doute Clopinet avait dû les trouver au loin, car il s’obstinait à croire qu’il
+          avait passé l’été en grands voyages. Clopinet avait refusé, aux questions de son oncle
+          Laquille, de révéler l’endroit précis du rivage où il avait passé l’été. Avec ses parents,
+          il ne se départit point de cette réserve. Il savait que, s’il parlait des Vaches-Noires et
+          de la grande falaise, personne chez lui ne lui permettrait de retourner vivre dans un
+          endroit réputé si dangereux. Il laissa donc croire à ses parents qu’il arrivait de
+          l’Écosse – son oncle ayant prononcé devant lui le nom de ce pays-là – et qu’il y avait
+          fait bonne chasse.</p>
+        <p>Il se tira assez bien des nombreuses questions qu’on lui fit le premier jour. Comme on ne
+          savait chez lui quoi que ce soit des pays étrangers, il n’eut point de longues histoires à
+          inventer. Il répondit qu’en Écosse on mangeait du pain, des légumes et de la viande comme
+          ailleurs, que les arbres ne poussaient pas la racine en l’air, enfin qu’il n’avait rien vu
+          de merveilleux là ni ailleurs.</p>
+        <p>– C’est bien, c’est bien, lui dit le père à la fin du souper ; ce qui me plaît de toi,
+          c’est que tu ne dis pas des mensonges et des folies comme ton oncle Laquille. Continue à
+          être raisonnable, et tout ira bien, puisque tu as de l’invention pour rapporter des choses
+          à vendre et pour faire le commerce. Je ne veux point te priver de ton argent, il est à
+          toi, je vais le placer en bonne terre qui t’appartiendra ; ce sera le commencement de ta
+          fortune.</p>
+        <p>– Si vous n’en voulez point pour vous, répondit Clopinet, j’aimerais mieux m’en servir
+          pour reprendre mes voyages et faire d’autres trouvailles.</p>
+        <p>Ce que Laquille avait prévu arriva. Le père Doucy ne voulut pas comprendre ce que lui
+          disait son fils. Il ne pouvait pas s’imaginer un autre placement que les carrés d’herbe et
+          de pommiers avec des vaches dedans ; il ne jugeait pas bon pour un enfant d’avoir une
+          somme comme celle-là à sa disposition. Il le complimenta d’avoir eu la sagesse de
+          l’apporter à la maison, mais il ne le crut pas pour cela incapable de faire quelque folie,
+          si on le lui rendait. Clopinet dut céder ; c’était le cas de dire qu’on lui coupait les
+          ailes. Il s’en alla coucher tout triste, voyant ses futurs voyages retardés ; mais il rêva
+          que les esprits lui parlaient et lui disaient : Espère, nous ne te quitterons pas ;
+          puisque tu as fait notre volonté, nous saurons bien t’en récompenser.</p>
+        <p>Il se résigna donc, et ne fut point insensible, il faut en convenir, à la douceur de
+          dormir sur une bonne couette de plumes bien chaude. Depuis une quinzaine que la fraîcheur
+          se faisait sentir, il n’avait pas été très bien dans sa grotte, où il ne pouvait se
+          défendre de l’humidité qui y suintait et du vent qui s’y engouffrait. On vivait bien chez
+          le père Doucy, on n’était ni pauvre ni avare ; on n’épargnait ni le bon pain ni le bon
+          cidre, et la mère Doucette avait un grand talent pour faire la soupe au lard. Clopinet
+          était l’objet de ses préférences ; elle le caressait et le choyait si tendrement qu’il ne
+          sut point y résister et se laissa amollir par la vie de famille, au point de concevoir
+          l’idée de passer chez lui la mauvaise saison. Il voyait toutes les bandes d’oiseaux
+          voyageurs venir de la mer et se diriger vers l’intérieur des terres, soit pour hiverner
+          dans les marécages, soit pour aller chercher des mers plus chaudes. Il se disait que ce
+          n’était pas la saison de trouver des nids vers le nord ; il ne savait pas encore que
+          certaines espèces s’envolent en sens contraire et vont chercher le froid.</p>
+        <p>Comme il n’avait pas voulu trop mentir, il avait dit à son père qu’aucun engagement ne le
+          forçait de se remettre en mer. Il voulait amener ses parents à lui laisser sa liberté et à
+          le voir repartir sans fâcherie ; mais, comme il ne pouvait pas rester sans rien faire, il
+          lui fallut bien se remettre à garder et à soigner les vaches, ce qui l’ennuya beaucoup.
+          Ces bêtes lourdes et lentes lui plaisaient de moins en moins ; ce pâturage plat et sans
+          vue le rendait triste, son esprit voltigeait toujours sur la mer et sur les falaises. Un
+          jour, son père l’envoya chercher à Dives un médicament chez l’apothicaire ; dans ce
+          temps-là, on ne disait point pharmacien, mais c’était la même chose, ou plutôt c’était
+          quelque chose de plus. La médication étant plus compliquée, ceux qui fabriquaient et
+          vendaient des remèdes étaient obligés à savoir plus de détails et à fournir plus de
+          drogues différentes.</p>
+        <p>Dives était une très ancienne ville ; mais Clopinet, qui n’était pas antiquaire, trouva
+          le pays fort laid, bien qu’il soit très joli du côté de la campagne : lui qui ne regardait
+          que du côté de la mer s’ennuya de voir cette côte plate et tout ensablée. Alors il vit
+          dans l’étroit chenal qui remplace le grand port, d’où jadis la flotte de Guillaume le
+          Conquérant partit pour l’Angleterre, de grosses barques qui faisaient encore un petit
+          commerce avec Honfleur, et l’envie de s’en aller au moins jusque-là fut si forte qu’il
+          pensa oublier sa commission. Pourtant il résista et se fit enseigner la maison de
+          l’apothicaire. Là, pendant qu’on préparait la drogue, il faillit oublier qu’il devait la
+          reporter à ses parents. L’objet qui absorbait son attention et qui le jetait dans un
+          ravissement sans pareil, c’était un combattant, autrement dit paon de mer, perché sur un
+          bâton et immobile dans la vitrine. L’apothicaire, s’amusant de sa surprise, prit l’oiseau,
+          qui semblait bien vivant, car ses yeux brillaient et son bec était ouvert, et le lui fit
+          toucher ; il était empaillé. Clopinet n’avait pas idée d’un pareil artifice et se le fit
+          expliquer ; puis, avec une vivacité et un air de décision qui, de la part d’un garçon
+          d’apparence si simple, étonna tout à coup l’apothicaire, il demanda si celui-ci voudrait
+          bien lui apprendre à conserver et à empailler.</p>
+        <p>– Ma foi ! répondit l’apothicaire, si tu veux m’aider dans cette besogne, tu me feras
+          plaisir, pour peu que tu aies autant d’adresse que de résolution. – Il apprit alors à
+          Clopinet que le curé de l’endroit et le seigneur du château voisin étaient grands amateurs
+          d’ornithologie, c’est ainsi que l’apothicaire appelait la connaissance des oiseaux, de
+          leur classement en familles, en genres et en espèces. Ces deux personnages s’en
+          procuraient tant qu’ils pouvaient, le seigneur à tout prix, le curé au prix de tout
+          l’argent qu’il pouvait y mettre. Le pays était très riche en oiseaux de mer et de rivage,
+          à cause des grands ensablements de la côte et des marécages formés par la Dive. Tous les
+          chasseurs y guettaient ce gibier pour le porter au château, où le seigneur en faisait une
+          collection empaillée. C’était lui, l’apothicaire, que l’on chargeait de la préparation, et
+          il s’y entendait assez bien ; mais il n’avait personne pour l’aider, et le temps lui
+          manquait. S’il venait à trouver un élève soigneux et intelligent, il le paierait
+          volontiers aussitôt qu’il saurait son affaire.</p>
+        <p>– Prenez-moi, monsieur, dit Clopinet, je suis sûr d’apprendre vite et bien ; même, si
+          cela ne vous offense pas, je vous dirai que je connais les oiseaux mieux que vous. Voilà
+          cette bête que vous appelez paon de mer et dont je ne savais pas le nom ; mais je l’ai vu
+          cent fois en liberté, et je sais comment elle est faite et comment elle se tient. Vous
+          avez voulu lui donner l’air qu’elle a quand elle se bat : ce n’est pas ça, et si c’était
+          une chose qu’on puisse pétrir, je vous montrerais comment elle se pose pour de vrai.</p>
+        <p>L’apothicaire était homme d’esprit, ce qui fait qu’il comprenait vite l’esprit des
+          autres. Il ne se fâcha point des critiques de Clopinet et lui dit : – Ma foi, essaie ;
+          cela peut se pétrir, comme tu dis, c’est-à-dire qu’on peut changer le mouvement de
+          l’oiseau en appuyant sur les fils de fer qui remplacent les os et les muscles. Essaie, te
+          dis-je ; si tu le gâtes, tant pis ! Un paon de mer n’est pas une chose bien rare.
+          – Clopinet hésita un moment, devint pâle, trembla un peu, réfléchit pour se bien
+          rappeler ; puis tout à coup, saisissant l’oiseau avec beaucoup de délicatesse, mais avec
+          une grande résolution, il lui donna une attitude si vraie et une tournure si fière sans
+          lui gâter une seule plume, que l’apothicaire en fut tout surpris. – J’avoue, dit-il, que
+          ton mouvement a l’air plus naturel que le mien. Pourtant le mien était plus énergique.</p>
+        <p>– Plaît-il, monsieur ? dit Clopinet.</p>
+        <p>– Je veux dire que le mien avait l’air plus méchant. Ce sont des bêtes féroces que ces
+          oiseaux-là !</p>
+        <p>– Et c’est en quoi vous vous trompez, monsieur, reprit Clopinet avec conviction. Les
+          oiseaux ne sont pas méchants quand la faim ne les force pas à la bataille. Ceux-ci ne se
+          battent pas pour se faire du mal, et ils ne s’en font presque jamais ; c’est un jeu qu’ils
+          font par fierté quand on les regarde, et je vais vous dire : ils s’en vont, tous les mâles
+          d’un côté et toutes les femelles de l’autre avec les petits. Ils choisissent des tas de
+          sable où ils se mettent en rang, les femelles sur un autre tas les regardent. Alors les
+          vieux disent aux jeunes : Allons, mes enfants, faites-nous voir comment vous savez vous
+          battre. Et il en vient deux jeunes qui se gourment jusqu’à ce qu’ils tombent de fatigue,
+          et puis il en vient deux autres ; quelquefois il y a deux paires qui se battent en même
+          temps, mais toujours un contre un et jamais une bande contre une autre, ni à propos des
+          femelles, ni pour la nourriture. Quand l’heure de cet amusement-là est finie, on va se
+          promener ou manger ensemble, et on est bons amis.</p>
+        <p>– C’est possible, dit en riant l’apothicaire ; si tu as si bien regardé les oiseaux, tu
+          en sais plus long que moi, et je reconnais que ce combattant me plaît mieux, tourné et
+          dressé comme le voilà. Je pense que tu es un observateur et peut-être un artiste de
+          naissance.</p>
+        <p>Clopinet ne comprit pas, mais son cœur battit de joie quand l’apothicaire lui dit : –
+          Reviens demain, je t’apprendrai le métier, qui est très facile, et, puisque tu as le
+          sentiment, qui est un don de nature, je te ferai entrer chez le seigneur du château en
+          qualité de préparateur. Tu apprendras l’histoire naturelle des oiseaux, et tu deviendras
+          un jour conservateur de collections chez lui ou chez quelque autre. Qui sait si tu n’es
+          pas né pour être savant ?</p>
+        <p>Clopinet ne comprit bien qu’une chose, c’est qu’il allait voir des oiseaux nouveaux pour
+          lui, et qu’il apprendrait les noms et les pays de ceux dont il connaissait les airs, les
+          chants, le plumage et les habitudes. Il vola plutôt qu’il ne courut chez son père et
+          obtint facilement la permission d’aller travailler dans les oiseaux.</p>
+        <p>– Puisque c’est son idée, dit le père Doucy avec un sourire en regardant sa femme, et que
+          monsieur l’apothicaire est un grand brave homme, je pense, mère Doucette, que vous ne
+          serez point fâchée de savoir cet enfant occupé dans un pays qui n’est pas loin, et où nous
+          pourrons le voir souvent ?</p>
+        <p>La mère Doucette eût préféré que l’enfant ne la quittât point du tout ; mais, quand son
+          mari avait parlé en l’honorant d’un sourire, elle ne savait qu’approuver en riant de toute
+          sa bouche, ce qui n’était pas peu de chose. D’ailleurs elle tremblait toujours en songeant
+          que Clopinet pouvait retourner dans ce pays d’Écosse, qu’elle croyait situé au bout du
+          monde et où Clopinet n’avait jamais été.</p>
+        <p>Au bout d’un mois, Clopinet sut très bien composer la préparation arsenicale avec
+          laquelle on préserve les oiseaux de la pourriture et des mites. Il sut écorcher avec une
+          propreté parfaite, en retournant la peau de l’oiseau comme on retourne un gant, sans salir
+          ni froisser une seule plume. Il sut les petits os qu’il faut conserver pour assujettir les
+          fils de fer, ceux qu’il faut couper, la manière de remplacer la charpente de l’animal par
+          des fils de métal plus ou moins gros. Il sut distinguer dans la provision d’œils de verre
+          ceux qui convenaient précisément à tel ou tel volatile. Il sut le rembourrer d’étoupes en
+          lui conservant sa forme exacte, lui recoudre le ventre avec tant d’adresse qu’on ne pût
+          soupçonner la couture, le dresser sur ses pieds, lui fermer ou lui ouvrir les ailes à son
+          gré, et quant à lui donner la grâce ou la singularité de sa pose naturelle, il y fut passé
+          maître dès le premier jour.</p>
+        <p>L’apothicaire, qui ne demandait qu’à vendre ses préparations et à débarrasser son
+          laboratoire des travaux de l’empaillage, songea vitement à faire entrer Clopinet chez Mr
+          le baron de Platecôte, le seigneur épris d’ornithologie, pour qui l’enfant travaillait
+          sans que ses talents fussent encore révélés au curé, car le curé, tout en faisant des
+          recherches et des échanges avec le baron, était un peu jaloux de lui et eût essayé
+          d’accaparer Clopinet pour son compte.</p>
+        <p>L’apothicaire était brave homme autant qu’homme d’esprit et il s’intéressait à Clopinet,
+          dont la douceur et la raison n’étaient pas ordinaires. Il l’emmena donc au château du
+          baron, et le présenta lui-même comme un garçon capable, entendu et laborieux.</p>
+        <p>– Je n’en doute pas, répondit poliment le baron, mais c’est un enfant. Il est très propre
+          et très gentil, mais c’est un petit paysan qui ne sait rien.</p>
+        <p>– Monsieur le baron, qui sait tout, répliqua gracieusement l’apothicaire, lui apprendra
+          ce qu’il voudra. Monsieur le baron n’a point d’enfant et pourrait s’occuper de celui-ci,
+          qui lui deviendra un bon et fidèle serviteur ; j’engage fort monsieur le baron à mettre la
+          main sur lui tout de suite, car monsieur le curé ne le laissera pas échapper, dès qu’il
+          verra les préparations qu’il sait faire.</p>
+        <p>Là-dessus l’apothicaire ouvrit la boîte qu’il avait apportée, et plaça sur la table trois
+          sujets différents, à chacun desquels Clopinet avait su si bien donner la physionomie qui
+          lui était propre, que le baron, qui s’y connaissait, jeta des cris de surprise et
+          d’admiration. – Je vois bien, dit-il, que ce n’est point vous, monsieur l’apothicaire, qui
+          avez fait ce travail excellent. Pouvez-vous me jurer que c’est tout de bon l’enfant que
+          voici ?</p>
+        <p>– Je le jure, monsieur le baron.</p>
+        <p>– Lui tout seul ?</p>
+        <p>– Lui tout seul.</p>
+        <p>– Eh bien ! je le prends ; laissez-le-moi, il n’aura point à regretter d’être à mon
+          service.</p>
+        <p/>
+        <p/>
+      </div>
+      <div title="VIII" type="chapter">
+        <head>VIII</head>
+        <p/>
+        <p>Dès le jour même, Clopinet fut installé au manoir de Platecôte, dans une petite chambre
+          située tout en haut des combles. La première chose qu’il fit avant de regarder la chambre,
+          qui était fort gentille, fut de mettre la tête à la fenêtre et de prendre connaissance du
+          pays. Il était des plus beaux, car le château était bâti sur une haute colline, d’où l’on
+          découvrait d’un côté la vallée d’Auge, le cours de la Dive et celui de l’Orne, avec leurs
+          bois et leurs prairies ondulées, de l’autre la mer et les côtes à une grande distance.
+          Clopinet reconnut tout de suite les pointes dentelées de la grande falaise ; il les vit
+          encore mieux en regardant dans une lunette d’approche, installée sur le belvédère du
+          château, qui était encore plus haut perché que sa chambre. Il distingua avec ravissement
+          les Vaches-Noires montrant leur dos au-dessus des vagues, et, du côté de la campagne, la
+          maison de ses parents, dont le chaume perçait à travers les pommiers aux feuilles jaunies.
+          Il se sentit comme ivre de joie de demeurer ainsi dans les airs et de pouvoir ajouter à sa
+          bonne vue le merveilleux pouvoir de cette lunette, qui lui donnait une faculté de vision
+          aussi puissante que celle des oiseaux. Il vit et reconnut toutes les anfractuosités, tous
+          les hameaux et villages de la côte. Il retrouva Trouville et découvrit le cap derrière
+          lequel Honfleur se cache.</p>
+        <p>Une autre joie fut d’être installé dès le lendemain dans la pièce qui lui fut donnée pour
+          laboratoire, et où l’on avait déjà déposé les fioles, les matériaux et les outils que
+          l’apothicaire avait envoyés et fournis pour son usage ; de cette pièce, on entrait de
+          plain-pied dans le musée de Mr le baron, et Clopinet vit là, dans de grandes armoires
+          garnies de vitres, une quantité d’oiseaux étrangers et indigènes plus ou moins précieux,
+          mais tous très intéressants pour qui voulait apprendre leurs noms et leur classement.</p>
+        <p>Le baron étant venu le trouver là pour lui expliquer de quelle besogne il comptait le
+          charger, Clopinet, qui avait la confiance que donne la simplicité du cœur, lui dit : –
+          Monsieur le seigneur, votre provision d’oiseaux est mal rangée. En voilà un petit qu’on a
+          mis avec les autres parce qu’il est petit ; mais ça ne va pas du tout. Il doit être à côté
+          de ces gros-là parce qu’il est de leur famille, je vous en réponds. Il a leur bec, leurs
+          pattes, et il se nourrit comme eux, je le sais, je le reconnais, ou si ce n’est pas
+          absolument celui-là, c’en est un qui lui ressemble et qui doit être son cousin ou son
+          neveu.</p>
+        <p>Le baron fit babiller Clopinet, qui n’était pas du tout causeur, mais qui, sur le
+          chapitre des oiseaux, avait toujours beaucoup à dire ; il admira son bon raisonnement et
+          la sûreté de ses observations, celle non moins remarquable de sa mémoire, car en une
+          matinée il connut tous les noms que le baron voulut bien lui dire, et il les repassa sans
+          faire aucune erreur ; mais tout à coup, voyant que le baron bâillait, prenait force prises
+          de tabac et s’ennuyait de faire le professeur avec un ignorant : – Mon bon seigneur, lui
+          dit-il, c’est encore trop tôt pour que j’entre à votre service, vous n’aurez point de
+          plaisir à m’instruire. Il faut que je sois en état de m’instruire tout seul, et pour cela
+          il me faut savoir lire. Laissez-moi aller chez monsieur le curé, c’est son métier d’avoir
+          de la patience ; quand je saurai, je reviendrai chez vous.</p>
+        <p>– Non pas, non pas ! dit le baron, tu n’iras pas chez le curé. Mon valet de chambre est
+          assez instruit, il t’instruira.</p>
+        <p>Le valet de chambre lisait couramment, il avait une bonne écriture et savait assez de
+          français pour écrire une lettre passable sous la dictée de Mr le baron, qui était savant
+          et bel esprit, mais qui était de trop bonne maison pour connaître l’orthographe ; ce
+          n’était pas la mode en ce temps-là pour les gens du grand monde. Mr de La Fleur, c’était
+          le nom du valet de chambre, fit donc le maître d’école avec le petit paysan, tout en
+          rechignant un peu et en y mettant fort peu de patience. Il faut de la patience avec la
+          plupart des enfants ; mais pour ceux qui ont comme Clopinet une grande ardeur au travail
+          et qui craignent de voir l’occasion s’échapper, un professeur indolent ou irritable
+          convient assez ; Clopinet fit des efforts de grande volonté pour ne point lasser la
+          médiocre volonté de Mr de La Fleur, et au bout d’un an il sut lire, écrire et compter
+          aussi bien que lui.</p>
+        <p>Cela ne lui suffisait point. Les noms scientifiques des oiseaux sont latins et beaucoup
+          des ouvrages qui traitent des sciences naturelles sont écrits en latin. Clopinet, dont le
+          dimanche était libre, alla empailler des oiseaux chez le curé, à la condition que pendant
+          son travail celui-ci lui enseignerait le latin. En une autre année, il sut tout le latin
+          vulgaire dont il avait besoin pour son état.</p>
+        <p>Tout en s’instruisant ainsi, il empaillait toutes les bêtes que lui envoyaient ou lui
+          apportaient, tant du pays que de l’étranger, les fournisseurs et correspondants du baron ;
+          il réparait ou renouvelait celles de la collection qui étaient mal préparées ou
+          détériorées ; il procédait aussi à un meilleur rangement après des discussions,
+          quelquefois très animées, avec son patron, car celui-ci croyait en savoir bien long et
+          n’admettait pas aisément qu’il pût s’être trompé ; mais Clopinet, avec la résolution
+          entêtée de son caractère et la droiture de son esprit naturel, arrivait toujours à le
+          persuader ; alors le baron, qui n’était point sot, haussait les épaules, et, feignant d’y
+          mettre de la lassitude ou de la complaisance, disait : – Fais donc comme tu voudras ! Pour
+          si peu de chose, je ne veux ni te fâcher, ni me fâcher moi-même. – Ce n’était pourtant pas
+          peu de chose. Le curé, qui, pour être moins riche en échantillons, ne laissait pas que
+          d’être plus instruit et plus intelligent que le baron, tenait Clopinet en grande estime,
+          et déclarait que, si Mr de Buffon venait à le connaître, il lui ferait faire son
+          chemin.</p>
+        <p>Clopinet n’en était pas plus fier. Il savait bien le respect qu’on doit à Mr de Buffon
+          dont il lisait avec ardeur le magnifique ouvrage ; mais il avait l’esprit fait de telle
+          sorte que rien ne le tentait dans le monde, hormis les choses de la nature. Il ne se
+          souciait ni d’argent, ni de renommée ; il continuait à ne rêver que voyages, découvertes
+          et observations faites par lui-même et tout seul.</p>
+        <p>Aussi pensait-il sans cesse à son ermitage de la grande falaise, et plus il faisait
+          connaissance avec le bien-être de la vie de château, plus il regrettait son lit de
+          rochers, ses fleurs sauvages, le chant des libres oiseaux et surtout l’amitié qu’il avait
+          su leur inspirer. Le souvenir de cette intimité bizarre lui serrait parfois le cœur. – Où
+          sont à présent, se disait-il, tous ces pauvres petits compagnons de ma solitude ? Où sont
+          mes barges, qui contrefaisaient si bien le bêlement des chèvres et l’aboiement des
+          chiens ? Où est le grand butor solitaire qui mugissait comme un taureau ? Où sont les
+          jolis vanneaux espiègles qui me criaient aux oreilles, en empruntant la voix du tailleur,
+          dix-huit, dix-huit ? Où sont les courlis dont les douces voix d’enfant m’appelaient dans
+          les nuits sombres, et me faisaient pousser des ailes enchantées, des ailes de
+          courage ?</p>
+        <p>On voit que Clopinet ne croyait plus aux esprits de la nuit. Il n’en était pas plus
+          content pour cela ; il regrettait le temps où il avait cru distinguer les paroles de ses
+          petits amis du ciel noir et du vent d’orage. Le milieu où il se trouvait transplanté ne le
+          portait point au merveilleux. À ce moment-là, tout le monde se piquait d’être philosophe,
+          même le curé, et surtout Mr de La Fleur, qui parlait beaucoup de Mr de Voltaire sans
+          l’avoir jamais lu, et qui affectait un grand mépris pour les superstitions rustiques.</p>
+        <p>Quand Clopinet eut atteint au service du baron l’âge de quinze à seize ans, il se trouva
+          avoir épuisé, en fait d’ornithologie, toute l’instruction qu’il pouvait recevoir dans le
+          château et dans le voisinage, et il fut pris du désir invincible d’aller demander à la
+          nature les secrets qu’on ne trouve pas toujours dans les livres. Il se sentait malade, et
+          tout le monde remarquait sa pâleur. Il songea donc sérieusement à se rendre libre, et,
+          bien qu’il fût très content de son patron et qu’il lui fût attaché, il lui déclara sa
+          résolution de faire un voyage, promettant de lui rapporter tout ce qu’il pourrait
+          recueillir d’intéressant pour son musée. Le baron lui reprocha d’abandonner son service,
+          l’instruction qu’il prétendait lui avoir donnée et le manque de reconnaissance pour ses
+          bontés. Il lui offrit, pour le retenir, de porter ses appointements au même chiffre que
+          ceux de La Fleur et même de ne plus le faire manger à l’office. Clopinet se trouvait bien
+          assez payé et ne se sentait pas humilié de manger à l’office ; il remercia et refusa.
+          – Peut-être, dit le baron, es-tu fâché de porter la livrée ? Je t’autorise à te faire
+          faire un petit habillement noir comme celui de l’apothicaire. – Clopinet refusa encore, il
+          ne se trouvait que trop richement habillé. Alors le baron se fâcha, le traita d’ingrat et
+          de maniaque, le menaça de l’abandonner et lui déclara qu’il rayerait de son testament la
+          petite rente qu’il avait inscrite en sa faveur. Rien n’y fit. Clopinet lui baisa les mains
+          en lui disant que, déshérité ou non, il l’aimerait toujours autant et lui resterait
+          dévoué, mais qu’il mourrait s’il demeurait enfermé comme il l’était depuis trois ans,
+          qu’il était de la nature des oiseaux et qu’il lui fallait l’espace et la liberté, fût-ce
+          au prix de toutes les misères.</p>
+        <p>Le baron, voyant qu’il n’y pouvait rien, se résigna et le congédia avec bonté en lui
+          payant ses gages et en y ajoutant un joli cadeau. Clopinet refusa le cadeau en argent et
+          demanda au baron de lui donner une longue vue portative et quelques outils. Le baron les
+          lui donna et l’obligea de garder aussi l’argent.</p>
+        <p>Alors Clopinet, le voyant bon, se jugea véritablement ingrat, et, se jetant à ses pieds,
+          il renonça à tous ses rêves ; il demanda seulement huit jours de congé, jurant de revenir
+          et de faire tout son possible pour s’habituer à la vie de château, que son protecteur lui
+          faisait si douce. Le baron attendri l’embrassa, et le munit de tout ce qui lui était
+          nécessaire pour une tournée de huit jours.</p>
+        <p>Par une belle matinée de printemps, Clopinet, après avoir donné une journée à ses
+          parents, partit seul pour la grande falaise. Il avait été si assidu au travail que lui
+          confiait le baron et si acharné à s’instruire avec le curé, qu’il ne s’était jamais permis
+          de perdre une heure en promenade pour son plaisir. Il n’avait donc pas revu les
+          Vaches-Noires, et il était impatient de s’assurer de près des ravages que la mer avait dû
+          faire en son absence. On avait parlé chez le baron et chez l’apothicaire d’éboulements
+          considérables ; mais, comme du belvédère, Clopinet avait constaté que les sommets dentelés
+          de la grande falaise existaient toujours, il ne croyait qu’à demi à ce que l’on
+          rapportait.</p>
+        <p>Vêtu d’un fort sarrau de villageois, chaussé de gros souliers et de bonnes guêtres de
+          toile, coiffé d’un bonnet de laine qui ne craignait pas les coups de vent, portant sur son
+          dos un solide sac de voyage qui contenait ses outils, un ou deux volumes de catalogues, sa
+          longue-vue et quelques aliments, il fut vite rendu aux dunes, mais sans pouvoir suivre la
+          plage, qui se trouva obstruée en divers endroits par le glissage des marnes. À mesure
+          qu’il avançait en se tenant à mi-côte, il s’apercevait d’un changement notable dans ces
+          masses crevassées. Là où il y avait eu des plantes, il n’y avait plus que de la boue très
+          difficile à traverser sans s’y perdre ; là où il y avait eu des parties molles, le terrain
+          s’était durci et couvert de végétation. Clopinet ne se reconnaissait plus. Ses anciens
+          sentiers, tracés par lui et connus de lui seul, avaient disparu. Il lui fallait faire un
+          nouvel apprentissage pour se diriger et de nouveaux calculs pour éviter les fentes et les
+          précipices. Enfin il gagna la grande falaise, qui était bien toujours debout, mais dont
+          les flancs dénudés et coupés à pic ne lui permettaient plus de monter à son ermitage.</p>
+        <p/>
+        <p/>
+      </div>
+      <div title="IX" type="chapter">
+        <head>IX</head>
+        <p/>
+        <p>Il faillit y renoncer, mais il s’était fait une telle joie de retrouver son nid, qu’il
+          s’y acharna, et qu’à force de chercher de nouveaux passages il réussit à en trouver un pas
+          bien difficile et pas trop dangereux. Il s’y risqua et arriva enfin à la partie rocheuse,
+          où, avec une vive satisfaction, il retrouva son jardin, sa galerie, sa lucarne et sa
+          grotte à peu près intacts. Aussitôt il s’occupa d’y refaire son installation : son lit
+          d’herbes sèches fut vite coupé et dressé ; après un grand nettoyage, car divers oiseaux
+          avaient laissé leur trace dans sa demeure, il coupa plusieurs brassées de joncs marins
+          desséchés, et alluma du feu pour bien assainir la grotte. Il y brûla même des baies de
+          genévrier pour la parfumer. Il y prit son frugal repas, puis, s’étendant sur l’herbe de
+          son jardin sauvage, où les mêmes fleurs qu’il avait aimées fleurissaient plus belles que
+          jamais, il fit un bon somme, car il s’était levé de grand matin et s’était beaucoup
+          fatigué pour traverser les dunes bouleversées.</p>
+        <p>Dès qu’il fut reposé, il voulut essayer l’ascension de la grande falaise pour savoir si
+          elle était encore habitée par les mêmes oiseaux. Il y parvint avec mille peines et mille
+          dangers ; mais il n’y trouva plus trace de nids, et il n’y put ramasser une seule plume.
+          Les roupeaux avaient abandonné la place ; c’était signe qu’elle menaçait ruine, leur
+          instinct les en avait avertis. Où s’étaient-ils réfugiés ? Clopinet ne tenait plus à
+          reprendre son bon petit commerce d’aigrettes, il se trouvait assez riche ; mais il eût
+          souhaité revoir ses anciens amis et savoir s’ils le reconnaîtraient après cette longue
+          absence, ce qui n’était guère probable.</p>
+        <p>En cherchant des yeux, il vit qu’une grande fente s’était ouverte à la déclivité de la
+          falaise, et il s’y engagea avec précaution. C’était comme une rue nouvelle qui s’était
+          creusée dans sa cité déserte ; elle le conduisit à des blocs inférieurs où il fut tout
+          surpris de se retrouver auprès de son ermitage et de voir les roches toutes blanchies par
+          le laisser des oiseaux. Il ne lui en fallut pas davantage pour découvrir quantité de nids
+          où les œufs, chauffés par le soleil, attendaient la nuit pour être couvés, et autour
+          desquels mainte plume révélait le passage des mâles. Ainsi les bihoreaux avaient déménagé,
+          et le choix qu’ils avaient fait du voisinage de la grotte prouvait qu’elle était encore
+          solidement assise dans les plis de la falaise. Content de cette découverte, Clopinet
+          rentra chez lui facilement en franchissant un petit pli de terrain, et il se réjouit
+          d’avoir ses anciens amis pour ainsi dire sous la main.</p>
+        <p>Décidément Clopinet aimait la solitude, car cette journée dans le désert lui fit l’effet
+          d’une récompense après un long exil courageusement supporté. Il refit connaissance avec
+          tout le prolongement des dunes et se mit bien au courant de leur nouvelle disposition. Il
+          revit avec joie ses bonnes Vaches-Noires, toujours couvertes de coquillages ; il se baigna
+          dans la mer avec délices et refit toutes ses anciennes observations sur les oiseaux qui
+          habitaient ce rivage ou qui y campaient en passant. Il n’avait plus rien à apprendre sur
+          leur compte, sinon que ce n’était plus les mêmes individus ou qu’ils n’avaient pas de
+          mémoire, car ils ne parurent pas du tout le reconnaître et ne voulurent point approcher du
+          pain qu’il leur montrait. Pourtant c’était encore pour eux un régal, et sitôt qu’il
+          s’éloignait un peu, ils se jetaient sur les miettes qu’il avait semées et se les
+          disputaient avec de grands cris. Il ne désespéra pas de les apprivoiser de nouveau pendant
+          le peu de temps qu’il passerait dans la falaise, car il souhaitait d’y rester tout le
+          temps de son congé, sans trop savoir pourquoi il s’y plaisait tant.</p>
+        <p>Il est certain que, quand on est jeune, on se laisse aller à son caractère, sans bien
+          s’en rendre compte. Clopinet n’était pourtant pas le même enfant qui avait mené six mois
+          cette vie de sauvage ; il était maintenant relativement très instruit, il savait le
+          pourquoi des choses qui lui avaient plu autrefois. Il avait aimé la mer, les rochers, les
+          oiseaux, les fleurs et les nuages avant de savoir en quoi ces choses sont belles. L’étude
+          et la comparaison lui avaient appris ce que c’est que le beau, le terrible et le gracieux.
+          Il en jouissait donc doublement, et il eût pu se savoir quelque gré d’avoir aimé la nature
+          avant de la comprendre ; mais il était modeste comme tous ceux qui vivent de contemplation
+          et d’admiration : c’est la nature qu’il remerciait d’avoir bien voulu se révéler à lui
+          sans le secours de personne.</p>
+        <p>Comme si cette puissante dame nature eût voulu lui faire fête en lui donnant le spectacle
+          dont elle l’avait régalé trois ans auparavant, le premier soir de son installation dans la
+          falaise, il y eut au coucher du soleil un grand entassement de nuages noirs bordés de feu
+          rouge, et la mer fut toute phosphorescente. Quand il fut retiré dans la grotte, le vent
+          s’éleva et la fête devint un peu brutale. Des torrents de pluie ruisselèrent autour de
+          l’ermitage ; mais la lune aimable et coquette quand même mit encore des diamants verts
+          dans le feuillage qui en festonnait l’entrée. Clopinet dormit au milieu du vacarme, et il
+          prenait plaisir à se trouver réveillé de temps en temps par le fracas du tonnerre. Un de
+          ces éclats de foudre fut pourtant si violent qu’il en ressentit la commotion et se trouva
+          sans savoir comment debout à côté de son lit. Mille cris plaintifs remplissaient l’air
+          au-dessus de lui, et un instant après il se sentit littéralement fouetté par une quantité
+          de grandes ailes qui s’agitaient sans bruit autour de lui dans sa grotte. C’était le
+          campement de ses voisins qui avait été frappé par la foudre. Les femelles éperdues avaient
+          quitté leurs œufs brisés, et, poussées par le vent, elles venaient s’abattre dans le
+          jardin de Clopinet et se réfugier, avec des clameurs d’épouvante et de désolation, presque
+          dans sa demeure. Il en eut une grande pitié, et, se gardant bien de les repousser, il se
+          recoucha et se rendormit au milieu de ces pauvres oiseaux dont quelques-uns à demi morts
+          gisaient sur son lit.</p>
+        <p>Dès que le jour parut, tout ce qui avait encore des ailes s’envola, mais plusieurs
+          étaient démontés, quelques-uns éborgnés, d’autres morts ou mourants. Clopinet soigna de
+          son mieux ses tristes hôtes et alla ensuite voir le désastre de la colonie. Il fut témoin
+          des cris et des lamentations des couveuses cherchant en vain leurs œufs, et il essaya de
+          réparer quelques nids ; mais le fluide électrique avait cuit ce qui n’était pas brisé, et
+          la colonie, voyant qu’il n’y avait plus d’espérance, s’appela avec de certains cris de
+          détresse, se rassembla sur une roche où elle parut tenir conseil, puis avec des sanglots
+          d’adieu, prit son vol sur la mer et disparut dans les brumes, sans qu’il fût possible de
+          voir ce qu’elle était devenue.</p>
+        <p>Clopinet, ne les voyant pas revenir le lendemain ni les jours suivants, pensa qu’ils
+          avaient dit adieu, pour toujours peut-être, à cette côte inhospitalière. Il retourna à ses
+          malades, et en peu de temps ils se trouvèrent apprivoisés, mangèrent dans sa main, se
+          laissèrent toucher, gratter et réchauffer, puis se mirent à marcher autour de lui, et à
+          s’installer, les uns dans la grotte pour dormir, les autres dans le jardin pour se ranimer
+          au soleil. Chose étrange, ils parurent avoir oublié le désastre de leur progéniture,
+          n’essayèrent pas d’aller voir ce qu’elle était devenue, répondirent par de petites notes
+          tristes et enrouées à l’appel bruyant de ceux qui partaient, et se résignèrent à la
+          domesticité comme à une existence nouvelle contre laquelle il était inutile de
+          protester.</p>
+        <p>Clopinet se trouvait à même d’étudier une chose qui l’avait toujours passionné, le degré
+          d’intelligence qui se développe chez les animaux quand l’instinct ne peut plus suffire à
+          leur conservation. Il passa la journée tantôt à observer ces convalescents plus ou moins
+          estropiés qui se donnaient à lui, tantôt à recueillir des hôtes emplumés d’autres espèces
+          qu’il trouva gisants de tous côtés en parcourant la falaise. La tempête en avait amené
+          qu’il n’avait pas encore vus de près, des spatules, des cormorans et des blongios. Le
+          soir, sa grotte en était remplie, il dut leur donner tout le reste de son pain et se
+          coucher à jeun.</p>
+        <p>Le lendemain au matin, il courut déjeuner à Auberville, le village où il s’était
+          approvisionné autrefois, et il en rapporta de quoi pourvoir aux besoins de son infirmerie.
+          Il y eut dans la journée des décès et des guérisons. Il alla encore recueillir des
+          estropiés sur les hauteurs et il put voir les individus libres et bien portants guetter
+          son passage pour recueillir les miettes qu’il laissait derrière lui. Quelques jours
+          suffirent pour les rendre familiers comme autrefois. Clopinet crut reconnaître dans ceux
+          qui s’apprivoisèrent le plus vite les mêmes qui avaient été déjà apprivoisés par lui.</p>
+        <p>Mais il remarqua toujours une grande différence de caractère entre les oiseaux qui, tout
+          en s’habituant à l’approcher, restèrent indépendants, et ceux que des blessures ou
+          l’évanouissement produit par la foudre avaient mis sous sa dépendance. Ces derniers
+          devinrent confiants avec lui jusqu’à l’importunité. La privation du vol ou de la marche
+          rapide développa en eux un sentiment d’égoïsme et de gourmandise insatiable, tandis que
+          les premiers restaient actifs et fiers. Clopinet se prit de préférence pour ceux-ci, et,
+          bien qu’il soignât davantage ceux qui avaient plus besoin de lui, il ne pouvait s’empêcher
+          de mépriser un peu leur abnégation facile.</p>
+        <p>Pourtant la pitié le retenait auprès d’eux, il espérait les remettre tous en état de se
+          reprendre à la vie sauvage. Il était trop exercé à reconstruire leur charpente osseuse
+          pour ne pas connaître très bien leur anatomie, et il réussissait avec une merveilleuse
+          adresse à remettre les pattes et les ailes cassées ; mais ceux qui furent ainsi
+          raccommodés, et qui, au bout de bien peu de jours, furent capables d’aller chercher leur
+          vie, furent si mal accueillis par les libres, qu’ils revinrent tout penauds se réfugier
+          dans les jambes de Clopinet, et qu’il eut à repousser et à réprimander vertement les
+          insulteurs qui voulaient les plumer ou les mettre en pièces. Dans ces combats étranges où
+          il dut prendre part, je vous laisse à penser s’il observa avec intérêt toutes les allures
+          et manières de ces personnages emplumés.</p>
+        <p>Enfin Clopinet songea, au bout de la semaine, à quitter la falaise et à retourner chez
+          son patron. Il était dans tous les cas bien temps de songer à la retraite, la falaise
+          avait été fort endommagée par le dernier orage. Près du nid foudroyé des roupeaux, une
+          nouvelle fissure s’était faite, et les marnes délayées par la pluie commençaient à couler
+          jusque dans le jardin de Clopinet. Ce fut un chagrin pour lui, car ce petit creux était
+          rempli de bonne terre végétale où jadis il s’était amusé à cultiver les plus jolies
+          plantes des terrains environnants, des genêts, des vipérines superbes, des érythrées
+          maritimes d’un jaune éclatant, de délicieux statices d’un lilas pur et d’une taille
+          élégante, et ces jolis liserons-soldanelle, à corolle rose vif rayée de blanc, à feuilles
+          épaisses et lustrées, qui étalent leurs festons gracieux jusque dans les sables mouillés
+          par la marée. En l’absence de Clopinet, tout cela avait prospéré et s’était répandu
+          jusqu’au seuil de la grotte, et tout cela allait pour jamais disparaître sous
+          l’envahissement implacable de la marne lourde et compacte, stérile par elle-même et
+          stérilisante quand elle n’est pas mêlée et bien incorporée à des terres d’autre nature. Et
+          puis, avec un peu de temps, ou peut-être très vite, sous l’action des agents extérieurs
+          comme la pluie et la foudre, elle devait combler tout le jardin et toute la grotte.
+          Clopinet était trop attentif et trop habitué à surveiller l’état des glissements de cette
+          marne pour craindre d’être trop brusquement surpris par elle. Pourtant il ne dormait plus,
+          comme on dit, que d’un œil, et il comptait les jours en se disant : – Voici encore une
+          belle journée qui sèche toute cette boue ; mais, s’il pleut demain, il me faudra peut-être
+          déloger vite et regarder la fin de mon petit monde.</p>
+        <p>Dans cette attente, pour sauver ses oiseaux du désastre, il résolut de les porter au curé
+          de Dives, sachant qu’il aimait à conserver des bêtes vivantes, tandis que le baron de
+          Platecôte les aimait mieux mortes et empaillées. Le curé était plus naturaliste, le baron
+          plus collectionneur. Clopinet, certain que le curé donnerait des soins à ces volatiles,
+          s’en alla couper des bûchettes dans la campagne et se mit à confectionner un panier assez
+          grand pour emporter tout son monde sans l’étouffer ; mais il songea que ce serait trop
+          lourd pour lui seul, car il y avait de très grands oiseaux, et il s’en alla louer un âne
+          qu’il fit grimper jusqu’à l’entrée de son jardin, prêt à se mettre en route avec lui le
+          lendemain matin.</p>
+        <p/>
+        <p/>
+      </div>
+      <div title="X" type="chapter">
+        <head>X</head>
+        <p/>
+        <p>La nuit fut très mauvaise et la marne gagna beaucoup. Clopinet dut se lever avant le
+          jour ; il rassembla toutes ses bestioles, les fit déjeuner, les mit avec soin dans le
+          panier garni d’herbe, les chargea sur le bât de l’âne, qu’il fit bien déjeuner aussi, et,
+          le soutenant de son mieux, il lui fit descendre la falaise jusqu’au bord de la mer. Il
+          avait calculé son temps de manière à se trouver là au moment où la marée, commençant à
+          descendre, lui permettrait de suivre la plage pour gagner Dives ; mais quand l’âne
+          entendit la mer de si près, car il faisait encore trop sombre pour qu’il pût bien la voir,
+          il fut pris d’une si belle peur qu’il resta tout tremblant, les oreilles couchées en
+          arrière, sans vouloir avancer ni reculer. Clopinet était fort patient, et au lieu de le
+          battre il le caressa, afin de lui donner le temps de s’habituer au bruit des vagues.</p>
+        <p>En ce moment, il lui sembla voir sur la grande Vache-Noire, qui montrait toujours son dos
+          au-dessus des vagues, quelque chose de fort extraordinaire. Il ne faisait pas encore assez
+          clair pour qu’il pût distinguer ce que c’était. Cela avait comme un petit corps avec de
+          longues pattes qui remuaient. Clopinet pensa que c’était un poulpe gigantesque, et la
+          curiosité de voir un animal si extraordinaire lui fit abandonner l’âne et avancer de ce
+          côté. Cela remuait toujours, tantôt une patte, tantôt l’autre, mais le corps semblait
+          collé au rocher. Clopinet craignait pourtant que cet animal incompréhensible ne s’en
+          détachât avant qu’il eût pu l’observer et le définir. Il se déshabilla vite, jeta ses
+          vêtements sur l’âne, qui ne bougeait point, et se mit à la mer ; mais la houle était très
+          forte et l’empêchait d’avancer autrement qu’en s’accrochant aux roches éparses et
+          submergées qu’il connaissait parfaitement. Enfin il put aller assez près pour voir que ce
+          poulpe était un homme cramponné au sommet de la Grosse-Vache et donnant des signes non
+          équivoques de détresse ; mais quel homme singulier ! Il était si effroyablement bâti que,
+          malgré l’émotion qu’il éprouvait, Clopinet songea au tailleur grotesque qui avait été la
+          terreur de son enfance. Lui seul pouvait être aussi laid que l’être difforme dont il
+          apercevait la grosse tête et les longs membres étiques à travers ses habits mouillés et
+          collants. Il nagea vers lui, et crut entendre une voix qui lui criait : À moi, à moi !
+          Clopinet atteignit la dernière roche qui s’élève avant la Grosse-Vache et qui se montrait
+          à son tour au-dessus de l’eau. Il n’était plus qu’à une très courte distance du naufragé,
+          et il put s’assurer, grâce au jour qui augmentait rapidement, que c’était bien le
+          misérable bossu dont il avait conservé un souvenir plein de dégoût et d’aversion,
+          quoiqu’il ne l’eût pas revu depuis trois ans. Il lui cria : – Ne bougez pas, attendez
+          moi !</p>
+        <p>Ce fut inutile ; soit que Tire-à-gauche n’entendît pas, soit que la marée en se retirant
+          l’emportât malgré lui, il fit un suprême effort pour tendre ses longs bras à Clopinet, et
+          lâcha prise ; en un clin d’œil, il fut entraîné par la vague qui tourbillonnait autour du
+          rocher et disparut. Clopinet, debout sur celui où il s’était arrêté pour reprendre
+          haleine, resta un moment indécis et comme glacé par l’effroi de la mort. On pense vite
+          dans ces moments-là ; il comprit que le tailleur éperdu allait, s’il lui portait secours,
+          se cramponner, s’enlacer à lui comme une véritable pieuvre et l’entraîner au fond en
+          l’empêchant de nager. Mourir comme cela tout d’un coup, d’une mort affreuse, lui si jeune
+          et si curieux de la vie, pour avoir voulu porter un secours inutile à un être aussi
+          sournois, aussi méchant et aussi laid que ce tailleur, c’était de la folie. Clopinet
+          hésita un instant – un instant bien court – car il se fit dans ses oreilles un bruit
+          mélodieux qu’il reconnut aussitôt : c’était le chant énergique et tendre de ses petits
+          amis les esprits ailés de la mer, et ces voix caressantes lui disaient : – Tes ailes,
+          ouvre tes ailes ! nous sommes là !</p>
+        <p>Clopinet sentit ses ailes de courage s’ouvrir toutes grandes, grandes comme celles d’un
+          aigle de mer, et il sauta dans la vague furieuse. Il ne sut jamais comment il avait pu
+          ressaisir le tailleur au milieu de l’écume qui l’aveuglait, lutter avec lui, vaincre avec
+          une force surnaturelle la lame énorme qui l’emmenait au large, enfin revenir à la
+          Grosse-Vache et y tomber épuisé sur le corps du naufragé évanoui. Tout cela se passa comme
+          dans un rêve ; mais dans ce moment-là, malgré toute l’instruction qu’il avait acquise,
+          personne n’eût pu persuader à Clopinet que les bons génies qui l’avaient assisté autrefois
+          ne s’en étaient point mêlés encore cette fois-ci. Il se releva vite en leur criant : –
+          Merci, merci, mes biens-aimés ! – Il retourna le tailleur sur le ventre et le tint couché,
+          la tête en bas, pour lui faire rendre l’eau qu’il avait bue ; il le frotta de toute sa
+          force jusqu’à ce qu’il vît qu’il retrouvait la respiration. Au bout de cinq minutes,
+          Tire-à-gauche revint tout à fait à lui, et, voulant parler, fit de grands cris par suite
+          du dernier étouffement qu’il avait à combattre. Il voulait se rejeter à l’eau pour gagner
+          plus vite la terre ; il était comme fou. Clopinet réussit à le maintenir en le battant
+          ferme du plat de la main, ce qui acheva de le ranimer.</p>
+        <p>– Ayez confiance, lui dit Clopinet quand il put lui faire comprendre quelque chose ; dans
+          un instant, cette roche sera toute découverte, et nous retournerons à pied sec à la côte.
+          J’ai réussi à vous réchauffer un peu ; si vous vous refroidissez à présent, vous
+          mourrez.</p>
+        <p>Tire-à-gauche se soumit, et au bout d’un quart d’heure il était sur le rivage et se
+          séchait à fond, tout en mangeant le pain de Clopinet devant un bon feu d’herbes sèches que
+          ce brave enfant avait allumé sur un ressaut de la dune où la marée ne montait pas.</p>
+        <p>C’est alors que le tailleur put raconter à Clopinet comment, malgré son horreur pour la
+          mer, il s’était laissé surprendre et emporter par elle. – Il faut, lui dit-il, que je
+          t’avoue une chose. Je vivais mal de mon état, et depuis le jour où je t’avais vu paré de
+          trois belles plumes de roupeau, je n’avais plus d’autre ambition que celle de découvrir la
+          cachette de ces oiseaux précieux. J’en voyais bien voler au-dessus et autour de cette
+          maudite falaise, mais je n’osais point m’y risquer ; quoique je marche et grimpe très
+          joliment, Dieu ne m’a point donné le courage, et je n’osais ni me risquer tout seul, ni me
+          donner comme toi au diable.</p>
+        <p>– Monsieur le tailleur, dit Clopinet en lui passant sa gourde, buvez un coup ; vous avez
+          besoin d’éclaircir vos idées, car vous êtes un imbécile de croire au diable, et, quand
+          vous prétendez que je me suis donné à lui, je vous déclare, sans vouloir vous offenser,
+          que vous mentez comme un chien.</p>
+        <p>Le tailleur, qui était querelleur et vigoureux au combat, baissa la tête et fit des
+          excuses, car il avait trouvé son maître.</p>
+        <p>– Mon cher monsieur Clopinet, dit-il, je vous dois de faire encore l’ornement de ce
+          monde, je vous en suis reconnaissant, et les femmes vous béniront.</p>
+        <p>– Puisque vous avez de l’esprit et que vous vous moquez agréablement de vous-même, je
+          vous pardonne, reprit Clopinet.</p>
+        <p>Mais le tailleur ne se moquait point. Il se croyait très bien de sa personne, et il
+          assura très sérieusement que les belles le trouvaient aimable et se disputaient son cœur.
+          Clopinet fut alors pris d’un si bon rire qu’il en tomba sur le dos en se tenant les flancs
+          et tapant des pieds. Le tailleur se fût bien fâché s’il l’eût osé, mais il n’osa pas et
+          continua son récit.</p>
+        <p>– Ce sont les aventures qui m’ont perdu, dit-il ; vous pouvez en rire, mais il n’est que
+          trop vrai que j’ai quitté le pays pour obéir à une veuve qui voulait m’épouser. Elle
+          m’avait fait accroire qu’elle était riche, et j’allais consentir, quoiqu’elle ne fût pas
+          de la première jeunesse, quand je découvris qu’elle n’avait pas le sou, pas même de quoi
+          me payer une misérable dette de cabaret ! Je l’ai donc plantée là, et je revenais par ici,
+          la mort dans l’âme, le gousset vide et le ventre creux, forcé de demander un morceau de
+          pain au boulanger de Villers, lorsque hier soir l’idée me vint de chercher les plumes de
+          roupeau auxquelles j’avais toujours songé. Ce boulanger m’apprit que vous en aviez vendu
+          pour trois mille écus au seigneur de Platecôte, lequel vous avait adopté pour son
+          domestique et son héritier. Voilà du moins ce qu’on raconte dans le pays. Alors je me mis
+          en tête, dussé-je me tuer, de trouver les roupeaux que l’on voyait voler par ici et qu’il
+          fallait surprendre avant le jour lorsqu’ils quittent le bord de la mer. Je partis de
+          Villers à minuit, pensant arriver aux Vaches-Noires avant la marée ; mais il faut croire
+          que le coucou du boulanger retarde, ou qu’il m’avait fait un peu boire, car c’est un homme
+          d’esprit qui aime les gens instruits et qui n’a pas été fâché de me faire goûter son
+          cidre, tout en causant le soir avec moi. Enfin, que le cidre ou le coucou, ou le diable
+          s’en soit mêlé, j’ai été surpris par la marée avant que le jour ne parût, et emporté sur
+          cette roche où sans vous je serais mort.</p>
+        <p>– C’est-à-dire, répondit Clopinet, qu’avec un peu de sang-froid et de raisonnement vous
+          fussiez resté sans danger jusqu’au départ de la marée. Enfin vous voilà sain et sauf,
+          prenez ces deux écus et allez en paix, j’ai assez de votre compagnie.</p>
+        <p>Le tailleur se confondit en remerciements ; il eût baisé les mains de Clopinet, si
+          Clopinet l’eût laissé faire. La mer était loin, l’âne se trouvait tout rassuré et tout
+          disposé pour transporter à Dives la ménagerie destinée à Mr le curé ; Clopinet avait aussi
+          ramassé beaucoup de plantes que son ami le pharmacien lui avait désignées en le priant de
+          les lui rapporter ; il y en avait une grosse botte attachée sur le derrière du baudet. Le
+          tailleur, bien que congédié, ne s’en allait pas, et regardait la cage et la gerbe de
+          plantes avec une curiosité pleine de convoitise.</p>
+        <p>– Vous pouvez, lui dit Clopinet, vous rendre utile et gagner quelque chose en ramassant
+          des herbes comme celles-ci ; quant aux oiseaux de la dune, quels qu’ils soient, je vous
+          défends de leur tendre des pièges et de troubler leurs couvées.</p>
+        <p>– Pourtant, dit avec une timidité sournoise le tailleur attentif, les oiseaux du rivage
+          sont à tout le monde. Il y a là, dans cette cage, des roupeaux magnifiques. Vous les avez
+          pris, ils sont à vous ; mais il en reste, et si vous aviez pitié d’un pauvre homme, vous
+          lui diriez où ces oiseaux se cachent pendant le jour, et par quel moyen on peut y arriver
+          sans périr, car enfin vous voilà, et vous venez de faire cette riche capture.</p>
+        <p>– Monsieur Tire-à-gauche, répondit Clopinet, vous voulez faire ce que je vous défends et
+          vous ne craignez pas de me déplaire après ce que j’ai fait pour vous. Eh bien ! écoutez ce
+          qui vous attend, si vous voulez escalader la falaise !</p>
+        <p>– Quoi donc ? dit le tailleur incrédule.</p>
+        <p>– Vous n’entendez rien ?</p>
+        <p>– J’entends qu’il tonne du côté de Honfleur.</p>
+        <p>– Il ne tonne pas, c’est la falaise qui croule, marchons !</p>
+        <p>Clopinet fit doubler le pas à son âne, et le tailleur prit sa course en avant. Quand il
+          se vit loin du danger, il s’arrêta terrifié par un bruit formidable, et, se retournant, il
+          vit crouler tout un pan de cette montagne avec un banc de roches énormes qui furent
+          lancées au loin dans la mer, où elles mêlèrent un effrayant troupeau de vaches blanches au
+          sombre troupeau des vaches noires, leurs devancières. Clopinet s’était arrêté et retourné
+          aussi. Il avait vu rouler, avec ce banc de roches, les débris de maçonnerie de son
+          ermitage et de son observatoire.</p>
+        <p>– Monsieur Tire-à-gauche, dit-il au tailleur quand il l’eut rejoint, j’avais là une
+          maison de campagne, un jardin, et les roupeaux à discrétion tout près de moi ; allez en
+          prendre possession, si vous voulez !</p>
+        <p>Le tailleur confus secoua la tête. Il était à jamais guéri de la fantaisie de surprendre
+          les oiseaux de mer et d’escalader les falaises.</p>
+        <p>Clopinet fut triste en continuant sa route. Il avait aimé cet ermitage comme on aime une
+          personne. Les privations qu’il y avait subies, les dangers qu’il y avait bravés, les rêves
+          agréables ou effrayants qu’il y avait eus se représentaient à lui comme des liens de cœur
+          qu’un désastre inévitable et longtemps prévu venait de rompre sans retour. Dame nature,
+          pensa-t-il, n’est pas toujours une hôtesse bien commode, elle a des lois très rudes qu’on
+          prendrait pour des caprices, si on ne les comprenait pas. Il faut l’aimer quand même, car
+          ce qu’elle vous ôte quelque part, elle vous le rend ailleurs, et je retrouverai bien
+          quelque jour un trou où je pourrai vivre encore tête à tête avec elle.</p>
+        <p>Clopinet fit l’école buissonnière le long de la plage. C’était son dernier jour de congé,
+          et il n’arriva à Dives que le soir, afin qu’on ne vît pas son chargement d’oiseaux. Il le
+          porta mystérieusement au presbytère en priant le curé de ne pas dire au baron d’où lui
+          venait cette richesse. – Je m’en garderai bien ! s’écria le curé enchanté. Il n’aurait pas
+          de repos qu’il ne m’eût arraché toutes ces charmantes bêtes vivantes pour en faire des
+          momies. Il ne les verra pas, sois tranquille !</p>
+        <p>Clopinet laissa le curé et sa servante se démener bien avant dans la soirée pour bien
+          loger leurs nouveaux hôtes, et il alla porter les plantes à l’apothicaire ; enfin il s’en
+          retourna coucher, le cœur gros, au manoir de Platecôte.</p>
+        <p/>
+        <p/>
+      </div>
+      <div title="XI" type="chapter">
+        <head>XI</head>
+        <p/>
+        <p>Le lendemain, le baron le trouvait à son poste au laboratoire. Il avait bonne mine et
+          paraissait guéri ; mais deux jours plus tard le pauvre enfant était aussi pâle et aussi
+          accablé qu’auparavant. Pressé de questions, il répondit enfin à son protecteur : –
+          Monsieur le baron, il faut me laisser partir, je ne peux plus vivre ici. J’ai cru qu’un
+          peu d’air et de promenade suffirait à ma guérison, je me suis trompé. Il me faut plus de
+          temps que cela. Il me faut un an, peut-être davantage, je ne sais pas. Retirez-moi vos
+          bienfaits, je n’en suis plus digne ; mais ne me haïssez pas, j’en mourrais de chagrin et
+          ne pourrais profiter de la liberté que vous m’auriez laissée.</p>
+        <p>Le baron, voyant Clopinet si affecté, se montra tout à fait brave homme, et, le consolant
+          de son mieux, lui jura qu’il ne cesserait jamais de s’intéresser à lui ; mais, avant de se
+          rendre à la nécessité de le voir partir pour longtemps, peut-être pour toujours, car la
+          vie de voyages est pleine de dangers, il exigea que l’enfant lui ouvrît tout à fait son
+          cœur. Il lui supposait quelque arrière-pensée et ne comprenait pas du tout son amour pour
+          la solitude.</p>
+        <p>– Eh bien ! répondit Clopinet, je vais tout vous dire, au risque de vous paraître idiot
+          ou fou. J’aime les oiseaux, entendons-nous, les oiseaux vivants, et il me faut vivre avec
+          eux ; j’aime bien à les voir en peinture, car la peinture donne une idée de la vie, et il
+          me semble qu’un jour je pourrais devenir capable de représenter par le dessin et la
+          couleur les êtres que j’aurai eu le temps de bien voir et de bien comprendre ; mais
+          l’empaillage m’est devenu odieux. Vivre au milieu de ces cadavres, disséquer ces tristes
+          chairs mortes, faire le métier d’embaumeur, je ne peux plus, il me semble que je bois la
+          mort et que je me momifie moi-même. Vous admirez la belle tournure et le lustre que je
+          sais donner à ces oiseaux. Pour moi, ce sont des spectres qui me poursuivent dans mes
+          rêves et me redemandent la vie que je ne puis leur donner et quand je passe le soir dans
+          la galerie vitrée, il me semble les entendre frapper le verre de leurs becs pour me
+          réclamer la liberté de leurs ailes, que j’ai liées avec mes fils de fer et de laiton.
+          Enfin ces fantômes me font horreur, et je me fais horreur à moi-même de les créer. Je n’ai
+          pourtant pas à me reprocher leur mort, car je n’ai jamais tué qu’un oiseau, un seul, pour
+          le manger, pressé que j’étais par la faim. Je ne me le suis jamais pardonné, et j’ai juré
+          de n’en pas tuer un second ; mais il n’en est pas moins vrai que je vis de la mort de tous
+          ceux que je prépare, et cette idée me trouble et me poursuit comme un remords. Et puis,...
+          et puis... il y a encore autre chose que je n’ose pas, que je ne saurais peut-être pas
+          vous dire.</p>
+        <p>– Qu’est-ce qu’il y a encore ? demanda le baron ; il faut me dire tout comme à ton
+          meilleur ami.</p>
+        <p>– Eh bien ! repartit Clopinet, il y a sur la mer et sur ses rivages des voix qui me
+          parlent et que personne autre que moi ne sait entendre. On croit et on dit que les oiseaux
+          font entendre des cris d’amour ou de peur, de colère ou d’inquiétude, qui ne s’adressent
+          jamais aux êtres d’une autre espèce, et que les hommes n’ont pas besoin de comprendre.
+          C’est possible ; mais comme il y en a que je comprends et qui me disent ce que je dois
+          faire quand j’hésite devant mon devoir, je pense qu’il y a autour de nous de bons génies
+          qui prennent à nos yeux certaines formes et empruntent certaines voix pour nous montrer
+          leur amitié et nous bien conduire. Je ne prétends pas qu’ils fassent des miracles, mais
+          ils nous en font faire en changeant, par leurs bonnes inspirations, nos instincts
+          d’égoïsme et de lâcheté en élans de courage et de dévouement. Cela vous étonne, mon cher
+          patron, et pourtant je vous ai quelquefois entendu dire en beau langage que, dans l’étude
+          de la science, la nature nous parlait par toutes ses voix, qu’elle nous détachait ainsi de
+          l’ambition et de la vanité, enfin qu’elle nous conservait purs et nous rendait meilleurs.
+          J’ai bu vos paroles, et ces voix de la nature, je les ai entendues. Je me suis enivré de
+          leur magie, je ne puis vivre sans les écouter. Elles ne me parlent point ici ; laissez-moi
+          partir. Elle me commanderont certainement de revenir vous apporter le résultat de mes
+          découvertes, comme déjà elles m’ont commandé d’aller faire soumission à mes parents, et je
+          reviendrai ; mais laissez-moi les suivre, car en ce moment elles m’appellent et veulent
+          que je devienne un vrai savant, c’est-à-dire un véritable élève de la nature.</p>
+        <p>Le baron jugea que Clopinet était jusqu’à un certain point dans le vrai, mais qu’il avait
+          l’imagination malade et qu’il fallait le laisser se distraire par le mouvement des
+          voyages. Il s’occupa avec lui de tout ce qui pouvait lui faciliter une traversée, et,
+          l’ayant bien muni d’argent, d’effets et d’instruments, il l’embarqua sur un de ces gros
+          bateaux qui, deux ou trois fois par an, font encore le voyage de Dives à Honfleur. Là,
+          Clopinet s’embarqua lui-même pour l’Angleterre, d’où il passa en Écosse, en Irlande et
+          dans les autres îles environnantes. Libre et heureux dans les sites les plus sauvages,
+          étudiant tout et se rendant compte de toutes choses par lui-même, il songea au retour et
+          revint au bout d’un an, rapportant au baron un trésor d’observations nouvelles qui
+          contredisaient souvent les affirmations des naturalistes, mais n’en étaient pas moins
+          aussi vraies qu’ingénieuses.</p>
+        <p>L’année suivante, après avoir passé quelques semaines dans sa famille et chez ses amis,
+          Clopinet s’en alla en Suisse, en Allemagne et jusque dans les provinces polonaises, russes
+          et turques. Plus tard, il visita le nord de la Russie et une partie de l’Asie, achetant
+          partout les oiseaux que les gens du pays tuaient à la chasse, et les momifiant pour les
+          envoyer au baron, dont la collection devint une des plus belles de France ; mais Clopinet
+          se tint à lui-même la parole qu’il s’était donnée de ne rien tuer et de ne rien faire tuer
+          pour son service. C’était sa manie, et la science y perdit peut-être quelques échantillons
+          précieux qu’avec moins de scrupule il eût pu se procurer. En revanche, il l’enrichit de
+          tant de documents justes et nouveaux qui redressaient des erreurs longtemps consacrées,
+          que le baron n’eut point à se plaindre. Il se fit longtemps honneur de toutes les
+          découvertes de son élève, et publia ses notes sous forme d’ouvrages scientifiques où il
+          oublia de le nommer. Clopinet n’y trouva point à redire, n’ayant aucune ambition
+          personnelle et se trouvant parfaitement heureux de satisfaire sa passion pour la nature.
+          Le baron, parvenu à une certaine réputation, ce qui avait été le but de toutes ses
+          dépenses et de toutes ses commandes, ne fut pourtant pas ingrat envers Clopinet : il
+          mourut en l’instituant son légataire universel. Ses neveux intentèrent un grand procès à
+          ce misérable petit cuistre, qui avait capté, selon eux, la faveur du défunt : le testament
+          était en bonne forme, et Clopinet eût peut-être emporté gain de cause ; mais il n’aimait
+          pas les querelles, et il accepta la première transaction qui lui fut offerte. On lui
+          laissa le manoir et le musée, avec assez de terre pour y vivre modestement et pouvoir
+          voyager avec économie.</p>
+        <p>Il se tint pour privilégié de la fortune et de la destinée. Il put faire le tour du monde
+          pendant que sa famille et celle de son oncle Laquille habitaient son château, où il revint
+          de temps en temps pour entretenir avec un soin pieux la collection de son bienfaiteur. Il
+          vieillit dans ce mouvement perpétuel, disparaissant des années entières sans donner de ses
+          nouvelles, car il faisait de longues stations dans des endroits si sauvages qu’il lui
+          était impossible de correspondre avec personne. Il revenait toujours doux, tranquille,
+          facile à vivre, obligeant et généreux au-delà de ses moyens. Des naturalistes qui
+          l’avaient rencontré dans ses lointaines excursions, entre autres Mr Levaillant,
+          racontèrent de lui des traits d’une grande bonté et d’un courage extraordinaire ;
+          cependant, comme il n’en parla jamais lui-même, on ne sut pas bien si cela était
+          arrivé.</p>
+        <p>Il vécut longtemps sans infirmités, mais une fatigue excessive et le froid qu’il éprouva
+          en étudiant les mœurs de l’eider en Laponie le rendirent boiteux comme il l’avait été dans
+          son enfance. Habitué à un grand exercice et ne pouvant plus s’y livrer, il songea qu’il
+          n’avait plus beaucoup d’années à vivre, et s’occupa d’envoyer à divers musées les oiseaux
+          de sa collection et une foule de notes anonymes que les savants estimèrent beaucoup sans
+          savoir d’où elles leur venaient.</p>
+        <p>Autant la plupart des autres aiment à se produire et à faire parler d’eux, autant
+          Clopinet aimait à se cacher. Il ne pouvait pourtant pas s’empêcher d’être aimé et respecté
+          par les gens du pays, qui l’appelaient Mr le baron, et se seraient jetés à la mer
+          seulement pour lui faire plaisir. Il fut donc très heureux, occupa ses derniers loisirs à
+          faire d’excellents dessins qui furent vendus cher et fort admirés après sa mort. Quand il
+          se sentit près de sa fin, affaibli et comme averti, il voulut revoir la grande falaise. Il
+          n’était pas très vieux, et sa famille n’avait pas d’inquiétude réelle sur son compte. Ses
+          fidèles amis, le pharmacien et le curé, étaient beaucoup plus âgés que lui, mais ils
+          étaient encore verts, et ils lui offrirent de l’accompagner. Il les remercia en priant
+          qu’on le laissât seul. Il promettait de ne pas aller loin sur la plage, on connaissait son
+          goût pour la solitude, on ne voulut pas le gêner.</p>
+        <p>Le soir venu, comme il ne rentrait pas, ses frères, ses neveux et ses amis
+          s’inquiétèrent. Ils partirent avec des torches, le curé et le pharmacien suivirent
+          François du mieux qu’ils purent. On chercha toute la nuit, on explora la côte tout le
+          lendemain et on s’informa tous les jours suivants. Les dunes furent muettes, la mer ne
+          rejeta aucun cadavre. Une vieille femme, qui pêchait des crevettes sur la grève au lever
+          du jour, assura qu’elle avait vu passer un grand oiseau de mer dont elle n’avait jamais vu
+          le pareil auparavant, et qu’en rasant presque sa coiffure, cet oiseau étrange lui avait
+          crié avec la voix de Mr le baron : – Adieu, bonnes gens ! ne soyez point en peine de moi,
+          j’ai retrouvé mes ailes.</p>
+      </div>
+    </body>
+    <back/>
+  </text>
+</TEI>
