@@ -1,0 +1,1949 @@
+<?xml version='1.0' encoding='UTF8'?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> Au Pôle et autour du Pôle. Dans les glaces </title>
+        <author from="1837" key="" name="Noir, Louis (Salmon, Louis-Étienne)" sex="male" to="1901"/>
+        <edition n=""/>
+        <editor name="Fayard" where="Paris"/>
+      </titleStmt>
+      <publicationStmt>
+        <date type="created" when="1899"/>
+        <date type="issued" when="1899"/>
+      </publicationStmt>
+      <editionStmt>
+        <profileDesc tag="non-canon" type="genre">
+          <textClass>
+            <keywords>
+              <term>roman d'aventures</term>
+            </keywords>
+          </textClass>
+        </profileDesc>
+      </editionStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docAuthor/>
+        <docTitle>
+          <titlePart main="Au Pôle et autour du Pôle. Dans les glaces"/>
+          <titlePart sub=""/>
+        </docTitle>
+      </titlePage>
+    </front>
+    <body>
+      <div title="PRÉFACE" type="preface">
+        <head> PRÉFACE </head>
+        <lb/>
+        <p> Après tant d’explorateurs, qui ont voulu atteindre le pôle, voici qu’un prince de la maison de Savoie a entrepris d’y arriver, en poussant avec son navire aussi loin que possible à travers les floës (glaçons agglomérés) et les icebergs (montagnes de glace); puis en montant des traîneaux attelés de chiens. </p>
+        <p> Le prince est parti de ce raisonnement qui ne manque pas de justesse. </p>
+        <p> Il s’est dit: </p>
+        <p> « Nansen quitta son navire le Fram avec deux traîneaux, insuffisamment attelés, par conséquent n’emportant pas assez de vivres. </p>
+        <p> » Si Nansen avait trop peu de chiens pour son voyage en traîneau au pôle, c’est parce qu’il eut hâte de longer en été, par mer libre, les côtes sibériennes. </p>
+        <p> » Il n’eut pas et ne prit pas le temps de se rendre au point de la côte où un Russe de ses amis l’attendait avec une meute nombreuse et vigoureuse. </p>
+        <p> » Chiens de Samayèdes, admirablement préparés au service que l’on attendait d’eux et au climat à subir. </p>
+        <p> » Cependant, dans les mauvaises conditions où il se trouvait, Nansen parvint à quatre-vingts lieues du pôle. </p>
+        <p> » Mais ses chiens, surmenés vu leur petit nombre, crevèrent un à un d’épuisement. </p>
+        <p> » Nansen ne put donc arriver au pôle nord qu’il touchait presque. </p>
+        <p> » Il fit la retraite admirable que l’on connaît et qui lui vaut l’estime du monde entier et la fortune honorable qu’il a gagnée. </p>
+        <p> » Mais, de son voyage à travers les glaces, il ressort qu’avec un nombre de chiens suffisant, il aurait planté son drapeau sur le pôle nord. </p>
+        <p> » Si donc j’arrive sur la banquise avec une meute nombreuse, j’aurai toutes les chances de planter, moi, prince de la maison de Savoie, le drapeau italien sur le pôle ». </p>
+        <p> Et, sur ce raisonnement fort juste, le prince s’est embarqué. </p>
+        <p> Il est en route. </p>
+        <p> À cette heure, il a embarqué (dernières nouvelles) ses cent chiens samayèdes aux longs poils et s’est lancé dans les glaces. </p>
+        <p> De lui, pas de nouvelles à espérer avant deux ans. </p>
+        <p> Trois ou quatre ans peut-être. </p>
+        <p> Atteindra-t-il le pôle? Probablement. </p>
+        <p> Il mettra toute l’énergie d’un esprit vigoureux qui a conçu et mûri un grand projet et lui sacrifie tout. </p>
+        <p> Mais si le raisonnement sur lequel il se base paraît très plausible, il n’en faut pas moins compter sur des aléas. </p>
+        <p> Les accidents d’abord. </p>
+        <p> Puis la santé. </p>
+        <p> Le monde ne va pas moins se préoccuper de ce généreux prince italien, jusqu’au jour où nous connaîtrons le résultat de sa noble tentative; on éprouvera les mêmes angoisses que pour les malheureux Franklin et Andrée et pour l’heureux Nansen, le glorieux fils de la Norvège. </p>
+        <p> Mais, d’ores et déjà, on sait que le prince est devancé. </p>
+        <p> M. d’Ussonville a atteint le pôle. </p>
+        <p> Et il n’est pas le premier. </p>
+        <p> Deux fois, avant lui, nos lecteurs le savent, le drapeau français a flotté sur le pôle nord. </p>
+        <p> Aussi M. d’Ussonville ne revendique-t-il pas l’honneur d’avoir découvert le pôle, mais celui d’avoir eu l’idée hardie et pratique d’en rendre l’accès facile. </p>
+        <p> Ses hôtels, établis de distance en distance, forment une ligne de gîtes d’étape pour traîneaux jusqu’au bord de la grande banquise polaire qui repose sur l’océan boréal. </p>
+        <p> Cette banquise étant toujours en mouvement par suite de l’action des vents, des marées et des courants, son point recouvrant le pôle aujourd’hui est déplacé le lendemain. </p>
+        <p> Le pôle fixe est à une profondeur de deux mille mètres sous la mer. </p>
+        <p> On peut donc atteindre le pôle, mais non y séjourner. </p>
+        <p> Encore moins peut-on y fonder un établissement fixe tel qu’un hôtel. </p>
+        <p> Voilà ce que le prince constatera s’il y arrive avec ses traîneaux. </p>
+        <p> Mais du dernier hôtel de M. d’Ussonville, on monte dans un traîneau conduit par deux Esquimaux, guides surs et expérimentés, et en une seule traite, on arrive au pôle. </p>
+        <p> On dresse les tentes de cuir, on se couche et, quand on s’éveille, on n’est plus au pôle; la banquise a marché. </p>
+        <p> Mais on n’a pas moins dormi au-dessus du pôle fixe. </p>
+        <p> Voilà donc le but de M. d’Ussonville atteint. Permettre aux touristes d’arriver facilement au pôle nord. </p>
+      </div>
+      <div title="CHAPITRE PREMIER LES PREMIERS TOURISTES. – VITESSE FOUDROYANTE" type="chapter">
+        <head> CHAPITRE PREMIER </head>
+        <lb/>
+        <p> Nous sommes à Paris. </p>
+        <p> Chez Véfour, au Palais-Royal. </p>
+        <p> Dîner fin offert par le comte de Rastignac à des amis et à leurs femmes. </p>
+        <p> La petite comtesse de Rastignac, fille du comte, en est. </p>
+        <p> Dîner d’adieu! </p>
+        <p> Mais on ne le sait pas encore. </p>
+        <p> Très drôle, la petite comtesse. </p>
+        <p> Autant d’esprit que Gyp, ce qui n’est pas peu dire. </p>
+        <p> Elle écrit dans différents journaux et l’on se dispute ses articles. </p>
+        <p> Ils sont frappés au coin de l’originalité; elle ne voit pas comme tout le monde; elle a le don de pénétrer du regard au fond des choses et de décrire avec humour les découvertes qu’elle fait. </p>
+        <p> L’acuité de sa vision est telle qu’on l’a surnommée en riant: Le Rayon X . </p>
+        <p> Elle signe, du reste, R. X. </p>
+        <p> Elle a l’esprit hardi, mordant et satyrique; nul ne tourne mieux les gens en ridicule et elle s’est fait de nombreux ennemis dont elle se moque. </p>
+        <p> Elle a coiffé sainte Catherine, comme elle le dit en riant. </p>
+        <p> Inmariable! </p>
+        <p> Pourquoi? </p>
+        <p> Trop difficile. </p>
+        <p> Elle l’avoue. </p>
+        <p> Comment épouser un prétendant sur le compte duquel elle ne peut avoir aucune illusion, étant donné son génie d’investigation psychique qui met les âmes à nu. </p>
+        <p> Tous ceux qui avaient voulu l’épouser, avaient été devinés, déchiquetés, analysés, feuilletés de fond en comble. </p>
+        <p> Celui-ci? </p>
+        <p> Brillante nullité. </p>
+        <p> Celui-là? </p>
+        <p> Un ambitieux qui ferait fond sur la réputation de sa femme pour arriver. </p>
+        <p> Et cet autre? </p>
+        <p> Un sot cachant sa niaiserie sous des dehors mondains. </p>
+        <p> Et ce superbe capitaine? Cerveau creux. </p>
+        <p> Les années se passaient; la petite comtesse ne se mariait pas. </p>
+        <p> Elle n’y tenait pas du tout. </p>
+        <p> – Je ne voudrais pas, disait-elle, d’un homme qui ne serait pas le maître et je ne pourrais pas supporter un maître. </p>
+        <p> Peut être ne se pressait-elle pas, parce qu’elle restait extraordinairement jeune. </p>
+        <p> Brune aux yeux bleus, au teint mat, au profil légèrement aquilin, un peu cruel, ce qui expliquait les mots sanglants dont elle cinglait les gens, elle avait l’éclat de rire franc et sonore, la physionomie mobile et gaie et personne ne lui aurait donné plus de dix-huit ans. </p>
+        <p> La reine douairière de Hollande, que ses articles amusaient fort, s’était écriée en la voyant dans un salon: </p>
+        <p> – Comment, c’est elle! </p>
+        <p> » Mais c’est une enfant. </p>
+        <p> – Votre Majesté veut dire une gamine, rectifia Huysmans qui se trouvait là. </p>
+        <p> Quant au père, le comte de Rastignac, c’était un drôle de type. </p>
+        <p> Gros, rieur, très jovial, avec une tête très bourbonnienne, il était sans préjugés d’aucune sorte. </p>
+        <p> Il tenait son rang avec beaucoup de tact et de distinction. </p>
+        <p> Personne n’aurait osé lui manquer de respect. </p>
+        <p> Et cependant il mettait tout le monde à l’aise tout en maintenant chacun à sa place avec à propos. </p>
+        <p> Physiquement et par la tournure de son esprit, il ressemblait au Régent. </p>
+        <p> Très brave, comme lui, il mettait volontiers l’épée à la main mais il se battait en riant. </p>
+        <p> Le comte avait belle fortune; mais il n’aimait ni le faste, ni le grand train de maison, sans que l’on pût le suspecter d’avarice. </p>
+        <p> Il savait donner. </p>
+        <p> Plus d’un artiste dans l’embarras l’avait vu entrer dans son atelier, choisir un tableau et le payer largement, uniquement pour le sortir de la gêne. </p>
+        <p> Il était grand amateur de voyages et sa fille avait les mêmes goûts; ils avaient fait plus d’une fois le tour du monde par différents itinéraires. </p>
+        <p> Le comte disait: </p>
+        <p> – Il faut voir les gens chez eux. </p>
+        <p> » Un Chinois qui est en France, n’est plus un Chinois. </p>
+        <p> Combien il avait raison! </p>
+        <p> Quand on fut au champagne, M. de Rastignac dit à ses amis: </p>
+        <p> – Ça, j’espère que nous allons boire à mon prochain voyage. </p>
+        <p> – Comte, vous partez? </p>
+        <p> – Oui. </p>
+        <p> – Avec la comtesse? </p>
+        <p> – Oui. </p>
+        <p> – Et vous allez? </p>
+        <p> – Au pôle nord. </p>
+        <p> On se mit à rire. </p>
+        <p> – Là! là! fit-il. </p>
+        <p> » Calmez-vous. </p>
+        <p> » Votre hilarité n’est pas de saison et nous allons bien réellement au pôle. </p>
+        <p> » Et c’est facile. </p>
+        <p> – Comte, vous plaisantez agréablement. </p>
+        <p> – Non pas. </p>
+        <p> » Vous connaissez tous d’Ussonville? </p>
+        <p> – Oui! oui! </p>
+        <p> » L’homme aux milliards! </p>
+        <p> – Mon ami d’Ussonville s’est mis en tête d’établir depuis l’embouchure du Mackensie jusqu’au pôle une ligne d’hôtels gîtes d’étape. </p>
+        <p> » Entre chaque hôtel, il y a de cinquante à soixante lieues de distance. </p>
+        <p> » C’est un trajet de douze heures en traîneau avec bons repas en route et bon gîte à l’arrivée. </p>
+        <p> » Or, ce projet est en bonne voie de réalisation, car d’Ussonville m’a télégraphié: </p>
+        <p> « Deuxième hôtel polaire construit dans l’île de Banks 75 e degré latitude nord. </p>
+        <p> »Partons pour l’extrémité nord-est de l’île Melleville, 77 e degré. </p>
+        <p> »Y construirons troisième hôtel. </p>
+        <p> »Quatrième hôtel, île Bathuret. </p>
+        <p> »Cinquième, Nouvelle-Cornouaille. </p>
+        <p> »Sixième, Terre Ellesmère. </p>
+        <p> »Septième, Terre Gruelt. </p>
+        <p> »Huitième, Terre de Grant. </p>
+        <p> »Neuvième, île Lookwood au 83c degré à 30 lieues du pôle. </p>
+        <p> »Au delà, l’inconnu. </p>
+        <p> »Mes premiers hôtels attendent des touristes. » </p>
+        <p> – Quel homme, ce d’Ussonville! </p>
+        <p> – Extraordinaire! </p>
+        <p> – Il y arrivera, au pôle. </p>
+        <p> – Il en est bien capable! </p>
+        <p> Le comte levant son verre: </p>
+        <p> – Messieurs, à mon ami d’Ussonville! </p>
+        <p> On répéta le toast avec enthousiasme et l’on vida les coupes. </p>
+        <p> Le comte reprit: </p>
+        <p> – J’ai calculé que j’avais le temps d’arriver à l’embouchure du Mackensie avant l’embâcle. </p>
+        <p> » Je pars demain. </p>
+        <p> » Je m’embarque au Havre. </p>
+        <p> » J’arrive à New-York en 7 jours. </p>
+        <p> » En quarante-huit heures je traverse la moitié de l’Amérique par la grande ligne américaine transcontinentale. </p>
+        <p> » J’arrive au lac Vinnipeg. </p>
+        <p> » Un vapeur commandé par télégramme m’y attendra. </p>
+        <p> » Il me conduira rapidement jusqu’auprès du lac Nelson. </p>
+        <p> » Là, il y a un court partage. </p>
+        <p> » Du lac Nelson un autre vapeur me conduira au lac de la Hache. </p>
+        <p> » Là encore un partage. </p>
+        <p> » Mais je remonte en vapeur au lac Athabasca et je parcours tout le Mackensie jusqu’à son embouchure. </p>
+        <p> » Là, je trouve le premier hôtel polaire et je m’y repose un peu. </p>
+        <p> » Ensuite je gagne successivement les autres hôtels dont le dernier sera peut-être construit; auquel cas, j’irais au pôle. </p>
+        <p> » Je dis: j’irais. Je rectifie. </p>
+        <p> » Nous irions, puisque ma fille m’accompagne dans ce beau voyage. </p>
+        <p> – Comte, je pars avec vous. </p>
+        <p> Celui qui faisait cette déclaration était un jeune diplomate autrichien, fort riche, apparenté aux Metternich, M. de Jellalich. </p>
+        <p> Il était entré dans la diplomatie pour avoir l’air de faire quelque chose. </p>
+        <p> Au fond, dévoré du désir de voir le monde et se faisant envoyer dans les capitales où d’autres se seraient mortellement ennuyés. </p>
+        <p> À Pékin, par exemple. </p>
+        <p> À Lima tout récemment. </p>
+        <p> À Rio-Janeiro, d’où il venait de revenir avec un congé. </p>
+        <p> Il s’était marié avec une Viennoise blonde, langoureuse et charmante. </p>
+        <p> Très douce. </p>
+        <p> « Un peu poupée de Nuremberg » disait la petite comtesse. </p>
+        <p> Elle aimait beaucoup son amie Mme de Jellalich; mais elle s’en moquait. </p>
+        <p> Trop sentimentale, la Viennoise! </p>
+        <p> Gretchen! </p>
+        <p> Aussi pourquoi diable avait-elle une passion ridicule pour son mari. </p>
+        <p> Elle lui faisait la guerre à ce sujet, lui disant que c’était aux hommes à aimer les femmes et à celles-ci de se faire adorer. </p>
+        <p> La tendre Viennoise était inguérissable. Jellalich, petit-fils du général hongrois de ce nom, célèbre sous le premier Empire, était un beau type de sa race. </p>
+        <p> Beaux yeux noirs. </p>
+        <p> Figure d’un oval très élégant aux traits accentués. </p>
+        <p> Moustaches de houzard très longues. </p>
+        <p> Une figure bien plus martiale que diplomatique et d’expression très énergique. </p>
+        <p> Il aurait voulu être officier, faire sa carrière militaire, mais dans la famille des Jellalich, l’aîné était toujours diplomate, le second soldat, le troisième ecclésiastique. </p>
+        <p> Jamais on ne dérogeait à cette règle inflexible et il avait dû s’y conformer. </p>
+        <p> C’est qu’aussi un diplomate a besoin de paraître, il faut de la fortune et l’aîné des Jellalich jouissait d’un majorat. </p>
+        <p> Ambassadeur, il pouvait faire très grande figure à l’étranger. </p>
+        <p> Et il était de tradition que le Jellalich diplomate devînt ambassadeur. </p>
+        <p> Quand celui ci eut déclaré qu’il allait au pôle, la petite comtesse se mit à rire. </p>
+        <p> – Louise, dit-elle à Mme Jellalich, c’est le moment de chanter, comme dans la complainte de Marlborough: </p>
+        <p> Vos beaux yeux vont pleurer, </p>
+        <p> Vos beaux yeux vont pleurer. </p>
+        <p> – Pourquoi? </p>
+        <p> – Votre adoré part au pôle. </p>
+        <p> Tu nous quittes et tu t’en vas </p>
+        <p> Tu t’en vas et tu nous quittes! </p>
+        <p> » Autre complainte. </p>
+        <p> – Mais… je le suis… </p>
+        <p> – Au pôle? </p>
+        <p> – Partout! </p>
+        <p> – Louise, vous n’y pensez pas! protesta Jellalich. </p>
+        <p> » Au pôle… vous! </p>
+        <p> – Renée y va bien. </p>
+        <p> – Mais, je suis un garçon manqué! dit en riant la petite comtesse. </p>
+        <p> – Et moi une femme décidée à ne jamais abandonner son mari. </p>
+        <p> Jellalich se réserva de combattre plus tard cette résolution de sa femme. </p>
+        <p> Elle devina sa pensée. </p>
+        <p> Au garçon qui servait le champagne, elle dit: </p>
+        <p> – Donnez-moi de quoi écrire. </p>
+        <p> Et quand elle eut le buvard ouvert devant elle, au garçon elle dit: </p>
+        <p> – Faites monter le chasseur. </p>
+        <p> Jellalich: </p>
+        <p> – À qui donc écrivez-vous? </p>
+        <p> – À ma femme de chambre, pour qu’elle fasse mes malles, puisque c’est demain matin que nous partons. </p>
+        <p> » Je suppose que vous allez aussi donner des ordres à Jean. </p>
+        <p> – J’allais l’oublier. </p>
+        <p> » Mais puisque vous tenez la plume, donnez ces ordres vous-même. </p>
+        <p> Il échangea un regard avec la petite comtesse et lui fit un signe qui signifiait: </p>
+        <p> – Rien ne la fera changer de résolution; je la connais. </p>
+        <p> – Madame, dit le comte, n’emportez pas trop de bagages. </p>
+        <p> Elle sourit. </p>
+        <p> – Le strict nécessaire! dit-elle. </p>
+        <p> » S’il me manque quelque chose, je l’achèterai à New-York. </p>
+        <p> » On s’y habille, je suppose. </p>
+        <p> » N’étant pas Parisienne, je ne me figure pas qu’il n’y a qu’à Paris que l’on puisse trouver des toilettes élégantes. </p>
+        <p> » À Vienne, à Buda-Pesth, à Munich, à Londres, on trouve d’excellents tailleurs pour dames, croyez-le bien, chère amie. </p>
+        <p> Elle s’adressait à la petite comtesse. </p>
+        <p> Mais celle-ci, Parisienne dans l’âme, s’écria dédaigneusement: </p>
+        <p> – De l’élégance, hors de Paris, peut-être! Du chic, jamais!… </p>
+        <p> Tout le monde rit, tant elle mit de conviction dans cette profession de foi! </p>
+        <p> Mme Jellalich dit tranquillement: </p>
+        <p> – Je ne tiens pas, moi, à avoir ce que vous appelez du chic. </p>
+        <p> » Je suis souvent choquée comme femme en voyant des femmes du monde chercher à avoir du chic comme des parvenues. </p>
+        <p> » Je me passe du chic très volontiers. </p>
+        <p> – C’est la fable du renard et des raisins! ma très chère. </p>
+        <p> – Non! </p>
+        <p> » Le renard voulait les raisins. </p>
+        <p> » Moi je ne tiens pas du tout au chic. </p>
+        <p> La calme riposte de la Viennoise mit les rieurs de son côté. </p>
+        <p> La petite comtesse, en prit un peu la mouche et bouda. </p>
+        <p> Mme de Jellalich ne parut pas s’en apercevoir. </p>
+        <p> Elle termina sa lettre et la donna au chasseur pour la porter. </p>
+        <p> Mais un des convives dit au chasseur: </p>
+        <p> – Attendez donc! </p>
+        <p> Et il demanda le buvard… </p>
+        <p> À son tour il écrivit, puis il passa la plume à sa femme. </p>
+        <p> Auparavant, ils s’étaient consultés tous les deux à voix basse. </p>
+        <p> Un couple très remarquable. </p>
+        <p> M. Désandré était un sportman enragé et madame une sportwoman plus enragée encore que monsieur. </p>
+        <p> Fort riches! </p>
+        <p> Mais pas de train de maison. </p>
+        <p> Petit hôtel commode, femme de chambre, valet de chambre, un cocher pour un coupé et un chef de cuisine, c’était tout, comme maison. </p>
+        <p> Mais en revanche, chevaux de selle magnifiques pour monsieur et pour madame; yacht sur Seine avec équipage breton; bicyclettes; salle d’escrime, de boxe, de gymnastique, etc., etc. </p>
+        <p> Tout ce qui regardait les sports les intéressait, et ils suivaient les chasses à courre de l’équipage des Lebaudy. </p>
+        <p> Et toutes les manies des gens qui s’adonnent aux sports. </p>
+        <p> Braves gens, du reste. </p>
+        <p> Bonnes gens! </p>
+        <p> Mais nuls. </p>
+        <p> Le sentant, désirant être quelque chose et attirer l’attention. </p>
+        <p> Prêts à tout pour cela. </p>
+        <p> Très modistes, c’est-à-dire esclaves des modes, fussent-elles ridicules? </p>
+        <p> Raides en public, gourmés, ayant de la tenue avec rigueur, parce qu’ils ne pouvaient valoir que par les apparences. </p>
+        <p> Très bons au fond. </p>
+        <p> Mais pas d’idées! </p>
+        <p> Monsieur empruntait les siennes au Gaulois , madame au Figaro . </p>
+        <p> Ne regardaient au Salon que les toiles recommandées par leur journal, ne voyaient que par leur journal, et encore étaient-ils loin de tout lire, ne comprenant pas. </p>
+        <p> Dans l’intimité, le masque tombait et on se trouvait en présence d’excellentes personnes que l’on finissait par aimer beaucoup, car ils se mettaient en quatre pour obliger leurs amis. </p>
+        <p> Mais combien drôles, quand ils paradaient devant la foule. </p>
+        <p> Et voilà que, ayant écrit leur lettre, le mari dit d’un air fin: </p>
+        <p> – Et nous aussi, nous allons au pôle! </p>
+        <p> – Alors, dit en riant la petite comtesse, le pôle est à la mode. </p>
+        <p> – Nous allons le lancer! dit Mme Désandré. Tout le monde voudra y aller, quand on saura que nous y sommes. </p>
+        <p> – Il en a une chance, le pôle, d’être patronné par vous… </p>
+        <p> – Il est de fait que, quand nous adoptons une mode, tout Paris l’adopte aussi. </p>
+        <p> C’était là une des illusions des Désandré. Et la femme de dire: </p>
+        <p> – Va-t-on parler de nous! </p>
+        <p> » Les journaux annonceront notre départ. </p>
+        <p> » Et au retour donc! </p>
+        <p> » Quel succès! </p>
+        <p> Pauvres gens! </p>
+        <p> Ils allaient au pôle par vanité, pour que le Tout-Paris s’occupât d’eux. </p>
+        <p> Quel vide dans ces cervelles-là! M. de Rastignac dit en souriant: </p>
+        <p> – La nuit porte conseil. Peut-être réfléchirez-vous. </p>
+        <p> » Si vous persistez demain matin, rendez-vous à la gare Saint-Lazare. </p>
+        <p> » Il se fait tard pour gens qui ont besoin de dormir pour se lever de bonne heure. </p>
+        <p> » Garçon, l’addition! </p>
+        <p> M. de Rastignac paya et les convives prirent congé les uns des autres. </p>
+      </div>
+      <div title="CHAPITRE II EN VOYAGE" type="chapter">
+        <head> CHAPITRE II </head>
+        <lb/>
+        <p> Le lendemain, tout le monde était exact au rendes-vous. </p>
+        <p> On monta dans un wagon-salon retenu par M. de Rastignac. </p>
+        <p> Lui en complet très simple. </p>
+        <p> La petite comtesse, vêtue comme si elle se rendait à une partie de campagne sans cérémonie; ils faisaient toujours simplement les choses, sans affecter la simplicité. </p>
+        <p> M. Jellalich était très élégamment vêtu comme toujours. </p>
+        <p> Point d’exagération toutefois. </p>
+        <p> Sa femme un peu emmitouflée à la façon allemande. </p>
+        <p> Mais les Désandré étaient en grande tenue de voyage. </p>
+        <p> On eût dit que monsieur et madame partaient pour la chasse. </p>
+        <p> Guêtres, melon pour monsieur, chapeau de feutre pour madame, habits de velours pour tous les deux, ceinturons de cuir jaune, tout le trimbalin prétentieux du chasseur parisien amateur qui veut poser au nemrod. </p>
+        <p> Et, en sautoir, le sac de voyage. </p>
+        <p> En poche, le Figaro et le Gaulois, prévenus à temps, déjà parus… </p>
+        <p> Et, quand on fut dans le wagon, ils montrèrent les deux feuilles à leurs amis. </p>
+        <p> – Voyez! Dans les échos. </p>
+        <p> » Notre voyage est annoncé! </p>
+        <p> » On ne va s’occuper que de ça aujourd’hui dans Paris. </p>
+        <p> Et les Désandré passèrent la revue de tous ceux « qui en seraient bien étonnés ». </p>
+        <p> M. Jellalich et M. de Rastignac lurent les journaux. </p>
+        <p> La petite comtesse s’amusa d’un livre de Gyp qui venait de paraître. </p>
+        <p> Mme Jellalich se délecta d’un roman sentimental. </p>
+        <p> Deux heures après, on annonçait que le déjeuner était prêt. </p>
+        <p> Wagon-restaurant. Excellente cuisine. Bons vins. </p>
+        <p> Causerie au fumoir. </p>
+        <p> Puis, à nouveau, lectures. </p>
+        <p> Ah! les riches ont une façon bien commode de voyager. </p>
+        <p> On arrive sans s’en douter. </p>
+        <p> On descend au Havre pour s’embarquer immédiatement. </p>
+        <p> Oh! ces paquebots! </p>
+        <p> Quel luxe! </p>
+        <p> Cabines confortables, avec toilette et excellents lits. </p>
+        <p> Salon et bibliothèques. </p>
+        <p> Toutes les revues, tous les journaux illustrés, tous les magazines, tous les périodiques intéressants. </p>
+        <p> Piano. </p>
+        <p> Il est rare qu’il n’y ait pas de passagères, de passagers ayant du talent. </p>
+        <p> On chante. </p>
+        <p> Le soir, on danse. </p>
+        <p> Les repas sont succulents et le service est somptueux. </p>
+        <p> Puis ce sont les promenades sur le pont et les causeries à l’arrière. </p>
+        <p> On se distrait beaucoup par le jeu, et, en temps calme, par des parties de jeu sur le pont. </p>
+        <p> On fait connaissance avec les passagers, qui vous racontent leur histoire. </p>
+        <p> Il semble, au bout de deux heures, que l’on se connaît depuis des années. </p>
+        <p> Mais, une fois à paris, on s’oublie avec une rapidité extraordinaire. </p>
+        <p> Dans leur traversée, les voyageurs pour le pôle nord, eurent cette chance qu’une troupe d’opéra se rendant à New-York pour de là faire une tournée en Amérique, était à bord et que cette troupe se composait d’artistes de beaucoup de talent. </p>
+        <p> Il y eut des représentations, des concerts et l’on passa le temps agréablement. </p>
+        <p> Peu de roulis. </p>
+        <p> Point de tangage. </p>
+        <p> Mer calme. </p>
+        <p> La Gironde , ce beau navire de 14o mètres de long, poussé par ses puissantes machines, dévorait la distance. </p>
+        <p> On filait à toute vitesse. </p>
+        <p> Seuls les grands oiseaux de mer pouvaient suivre le navire. </p>
+        <p> Les marsouins, en se jouant, essayèrent de lutter. </p>
+        <p> Si l’on en apercevait un troupeau à l’avant, il était bientôt dans les eaux du paquebot qu’il entourait en se livrant à des sauts désordonnés et amusants: </p>
+        <p> Mais il glissait dans le sillage, faisait effort pour se maintenir, cédait et disparaissait dans le lointain. </p>
+        <p> Mais toujours les mouettes planaient autour de la Gironde . </p>
+        <p> Ces oiseaux élégants, d’un vol si noble, d’une immense envergure pour leur petit corps, sont attirés par le poisson que le passage d’un navire attire toujours à la surface. </p>
+        <p> Ils adoptent un bâtiment à sa sortie du port et le suivent jusqu’à destination. </p>
+        <p> On les voit, à certaines heures, devancer le vapeur, se poser sur les flots et s’y délasser pour reprendre ensuite leur vol. </p>
+        <p> Mais les gros poissons leur rendent le mal qu’ils font aux petits. </p>
+        <p> Souvent, on entend une bande de mouettes au repos jeter des cris et s’envoler avec épouvante. C’est un requin ou un autre vorace de la mer qui a happé l’une d’elles. </p>
+        <p> Et les cris de protestation éclatent, éternellement dérisoires. </p>
+        <p> Tu manges plus petit que toi et tu es mangé par plus gros que toi. </p>
+        <p> C’est la loi immuable de la nature pour les carnivores. </p>
+        <p> Pendant la nuit, les mouettes disparaissent; elles dorment sur l’eau. </p>
+        <p> Vers huit heures du matin, chaque jour, elles rattrapent le navire. </p>
+        <p> Aux environs de Terre-Neuve, on eut de vives inquiétudes. </p>
+        <p> Brumes épaisses! </p>
+        <p> Temps bouché! </p>
+        <p> Ces brumes sont causées par la fonte des icebergs. </p>
+        <p> Montagnes de glace. </p>
+        <p> Au printemps et pendant tout l’été, elles descendent de la mer de Baffin et vont fondre dans les eaux tièdes du Gulf-Stream, ce fameux courant d’eaux chaudes qui part du golfe du Mexique et bat Terre-Neuve d’une de ses branches. </p>
+        <p> Ces icebergs sont des pointes énormes de glaciers situés près des rivages. </p>
+        <p> On sait comment se forment les glaciers. </p>
+        <p> Une rivière sort de terre et ses eaux gèlent en région de neiges éternelles. </p>
+        <p> Cette glace ne fond pas, mais elle s’accumule et marche, marche lentement, mais marche sans cesse, poussée par l’eau qui en dessous produit une poussée irrésistible. </p>
+        <p> Le savant Agussiz a indiqué le moyen de mesurer la vitesse de marche d’un glacier et il a établi les lois de formation. </p>
+        <p> Les glaciers poussent, dans la mer, par suite de leur marche, leur pointe qui forme caps de formes différentes. </p>
+        <p> Or, cette pointe augmente toujours, s’enfonce toujours. </p>
+        <p> On a cru longtemps que le cap de glaces, le futur iceberg, à force de peser sur l’eau et d’y proéminer, se cassait par suite de sa pesanteur et se détachait du glacier. </p>
+        <p> Grosse erreur. </p>
+        <p> C’est tout le contraire. L’eau casse la glace. </p>
+        <p> Celle-ci étant plus légère que l’eau de mer, de beaucoup, cette eau tend à la repousser; la pression devient si forte, la repoussée en l’air se fait si puissante que le cap se casse, et, détaché du glacier, forme un iceberg qui flotte, et, par suite des vents dominants et des courants, tend toujours à passer de la mer de Baffin, dans les eaux de Terre-Neuve. </p>
+        <p> Dès qu’il fait de la brume noire, une brume à couper au couteau, le triple danger commence et l’angoisse serre les cœurs. </p>
+        <p> Ni marins, ni passagers n’y échappent. </p>
+        <p> Les vigies sont doublées. </p>
+        <p> Le capitaine ne quitte plus la passerelle, car on peut rencontrer un iceberg, la terre ou un autre navire. </p>
+        <p> On sait comment a péri la Bourgogne! </p>
+        <p> Des trois rencontres, la plus périlleuse est celle de l’iceberg. </p>
+        <p> La sirène siffle, mugit, ajoutant les angoisses de l’oreille aux souffrances de l’œil; mais la montagne de glace n’entend rien. </p>
+        <p> Elle avance sourde et implacable. </p>
+        <p> Heureusement elle n’est pas tout à fait muette et le clapotis des vagues avertit la vigie de son approche. </p>
+        <p> Alors on manœuvre pour l’éviter. </p>
+        <p> Et le passager voit avec terreur, un spectre blanc de formes très vagues passer à tribord ou à bâbord. </p>
+        <p> Il entend tout autour les plaintes sinistres des flots qui rongent la base de l’iceberg; c’est la mort qui frôle le vapeur en passant près de lui. </p>
+        <p> Et l’inéluctable loi de la concurrence à tout prix cause les grandes catastrophes, car la lutte est ardente entre compagnies anglaises, américaines et françaises. </p>
+        <p> C’est à qui gagnera quelques heures sur les autres lignes. </p>
+        <p> On peut faire tous les règlements possibles; ils seront impuissants. </p>
+        <p> Le voyageur veut arriver vite, dût-il y risquer sa vie. </p>
+        <p> Et les compagnies doivent tenir compte de cette impérieuse volonté. </p>
+        <p> Le remède? </p>
+        <p> Il faudrait une entente internationale pour imposer des routes d’aller et de retour, avec très fortes pénalités. </p>
+        <p> Les Anglais n’en veulent pas. Les Américains non plus. </p>
+        <p> La brume et les icebergs continuent à faire des victimes. </p>
+        <p> Mais si la brume se lève, si le soleil éclaire un iceberg. </p>
+        <p> Quel éblouissement! </p>
+        <p> Sa forme la plus fréquente est celle d’un vieux château moyen âge, couvert de givre. </p>
+        <p> Le lent dégel a fait son œuvre de sculpteur habile. </p>
+        <p> Il a découpé des clochetons, des tourelles, percé des mâchicoulis, fouillé des poternes. </p>
+        <p> On tombe en admiration. </p>
+        <p> Mais le dégel en dessous, par l’eau de mer, a rongé la base du château fort. </p>
+        <p> Le défaut d’équilibre produit son inévitable effet. </p>
+        <p> Tout à coup l’iceberg se retourne, soulevant d’énormes vagues et le grand paquebot danse comme une coquille de noix. </p>
+        <p> Quel spectacle! </p>
+        <p> Aussi M. Désandré eût-il, en face d’une de ces scènes grandioses, un mot qui était bien d’un sportman parisien. Il dit: </p>
+        <p> – C’est aussi beau qu’au théâtre. </p>
+        <p> Et la petite comtesse qui l’entendit, rectifia railleusement: </p>
+        <p> – Presque! </p>
+        <p> C’était bien là l’opinion de M. Désandré, car il ne protesta. </p>
+        <p> Bien loin de là! </p>
+        <p> Il excusa l’insuffisance de la nature en disant: </p>
+        <p> – Au théâtre, l’effet est toujours plus grand. </p>
+        <p> Quand à Mme Désandré elle manifesta son admiration, par ce mot: </p>
+        <p> – Ah! mon ami, quelle galoupette! </p>
+        <p> Et la petite comtesse de dire: </p>
+        <p> – Ma chère, les icebergs, voyez-vous, ce sont les clowns de la mer! </p>
+        <p> Mme Désandré ne sentit pas ce qu’il, y avait d’ironique dans ce mot. </p>
+        <p> – Très joli! fit-elle. Les clowns de la mer! Je le retiendrai, celui-là! </p>
+        <p> Ces bons Désandré! </p>
+        <p> Ils étaient à bord tout aussi à l’étiquette qu’à Paris. </p>
+        <p> Toilette matinale. </p>
+        <p> Toilette de déjeuner. </p>
+        <p> Toilette d’après-midi. </p>
+        <p> Toilette de dîner. </p>
+        <p> Toilette de soirée. </p>
+        <p> Et tirés à quatre épingles. Plus raides que des Anglais. Plus compassés! </p>
+        <p> – Voyons, cher monsieur Désandré, disait la petite comtesse, ne le faites donc pas tout le temps à la pose pour la dignité. </p>
+        <p> Mais lui: </p>
+        <p> – Ma chère enfant, je représente le Jockey-Club et vingt-trois sociétés sportives; je suis forcé de conserver une correction impeccable. </p>
+        <p> Correction impeccable! </p>
+        <p> C’était une de ces formules qu’il ramassait dans un journal et dont il ornait son cerveau vide, comme certains bourgeois croient orner avec des chromos leurs murs vides de tableaux. </p>
+        <p> Oh! les snobs! </p>
+        <p> Race impérissable. </p>
+        <p> Mais, en somme, le snob est encore une importation anglaise. </p>
+        <p> Nous avions le badaud, le jobard, deux excellents types bien français. </p>
+        <p> Et maintenant, ce triomphe de l’anglomanie, nous avons le snob! </p>
+        <p> Voilà pourquoi je hais tous les Anglais. </p>
+      </div>
+      <div title="CHAPITRE III NEW-YORK" type="chapter">
+        <head> CHAPITRE III </head>
+        <lb/>
+        <p> New-York, la ville par excellence des États-Unis, le Londres américain. </p>
+        <p> Se dresse en face de Brooklin qui s’élève dans l’île de Long-Island. </p>
+        <p> Longtemps rivales. </p>
+        <p> Aujourd’hui fraternellement réunies en une même et seule cité. </p>
+        <p> Réunies par un pont qui est une merveille et sous lequel les plus grands navires passent toutes voiles déployées. </p>
+        <p> Et superbe, colossale, imposante, phare merveilleux, la Liberté éclairant le monde, de Bartholdi, fait planer sur la rade ses flots de lumière symbolique. </p>
+        <p> Trois millions d’âmes. </p>
+        <p> Un commerce immense. </p>
+        <p> Tête de ligne du transcontinental qui l’unit à San-Francisco. </p>
+        <p> En quatre jours, le train rapide nous transporte de l’Atlantique au Pacifique! </p>
+        <p> Dès que l’on a mis le pied dans cette ville, on se sent dans un monde nouveau. </p>
+        <p> L’œil cherche vainement les fiacres, les omnibus, tout le vieil attirail roulant des villes européennes. </p>
+        <p> Plus de traction animale. </p>
+        <p> Tout par l’électricité! </p>
+        <p> Fiacres, tramways, chemins de fer électriques et rien autre. </p>
+        <p> Dans deux ans, nouveau système! </p>
+        <p> On construit un chemin de fer entre Philadelphie et New-York. </p>
+        <p> Une lieue à la minute. </p>
+        <p> Et tous les autres chemins de fer adopteront ce système. </p>
+        <p> Nous, dix ans plus tard que les autres. </p>
+        <p> Mais alors Marseille, à deux cents lieues de Paris, en sera à deux cents minutes, moins de quatre heures! </p>
+        <p> Alors les Américains auront doublé, triplé cette vitesse. </p>
+        <p> Nous serons toujours en retard. </p>
+        <p> Pauvres routiniers. </p>
+        <p> À la sortie du vapeur, sur le quai même, les voyageurs furent cueillis par une voiture électrique. </p>
+        <p> Voiture de l’hôtel qu’on leur avait recommandé. </p>
+        <p> Douce traction! </p>
+        <p> Rapidité admirable. </p>
+        <p> À l’arrivée, on plaça les voyageurs dans un ascenseur, leurs bagages dans un autre, et, en route pour le quatorzième étage, sans fatigue, assis dans de bons fauteuils. </p>
+        <p> Vos bagages sont arrivés avant vous. </p>
+        <p> On vous indique vos appartements. </p>
+        <p> Après, plus de garçons. </p>
+        <p> On remplace le personnel par le service électrique. </p>
+        <p> Une plaque indicatrice en anglais, en français, en espagnol, en portugais, etc. </p>
+        <p> Vous voulez un bain! </p>
+        <p> Votre salle de bain est là, tout contre; vous y entrez. Vous pressez un bouton. </p>
+        <p> Tout un système de brosses, tout un appareil à nettoyer fonctionne. </p>
+        <p> De puissants jets lavent à grande eau; votre baignoire étincelle. </p>
+        <p> Vous voilà assuré de sa propreté. Elle se remplit d’eau tiède. Un bouton pour l’eau chaude! </p>
+        <p> Un autre pour l’eau froide. </p>
+        <p> Après le bain, la douche. </p>
+        <p> Après la douche, la friction donnée par des brosses mues par l’électricité. </p>
+        <p> Vous voulez une consommation? De la bière? </p>
+        <p> Pressez le bouton bière. </p>
+        <p> Un grog au rhum? </p>
+        <p> Pressez le bouton grog-rhum. </p>
+        <p> Une petite porte dont vous ne soupçonniez pas l’existence s’ouvre et roule sur ses propres rainures qui se sont retournées. </p>
+        <p> La consommation est dessus. </p>
+        <p> Mais le courrier est arrivé. </p>
+        <p> Vous avez des lettres. </p>
+        <p> On vous les envoie par les ascenseurs distributeurs qui remportent vos lettres. </p>
+        <p> Dans une de vos chambres, le téléphone et son appel résonne dans toutes. </p>
+        <p> Une collation vous est servie de même qu’une consommation. </p>
+        <p> Aussi le dîner, si bon vous semble. </p>
+        <p> Point de garçons qui gênent la conversation et vous ennuient de leur présence. </p>
+        <p> Vous causez librement. </p>
+        <p> Le système américain consiste à mettre trente plats sur la table. </p>
+        <p> Sur réchauds, ceux qui ont besoin d’être tenus tièdes. </p>
+        <p> Les quatre sauces traditionnelles anglaises sont toutes préparées. </p>
+        <p> Les Américains, il faut leur rendre cette justice, ont le secret de ragoûts excellents en dehors des rôtis. </p>
+        <p> Beaucoup de mets à base de lait et de crème. </p>
+        <p> Pâtisserie variée. </p>
+        <p> Tout cela mathématiquement doré, combiné et cuit à la température, le thermomètre marquant les degrés. </p>
+        <p> C’est de la cuisine dosymétrique  (2)  que vous modifiez, si bon vous semble, en corsant l’assaisonnement. </p>
+        <p> Autrefois la tranquillité dont on jouit dans ces caravansérails qui sont des villes, puisqu’ils peuvent contenir six mille personnes, était troublée par la crainte du feu. </p>
+        <p> Aujourd’hui, tout est en fer ou du moins presque tout. </p>
+        <p> Le feu prend à un étage. </p>
+        <p> L’alarme sonne, indiquant l’étage où le feu a pris. </p>
+        <p> Les sauveteurs de l’établissement font évacuer tout cet étage. </p>
+        <p> Dans les autres, personne ne bouge! </p>
+        <p> Les isolateurs en fer fonctionnent; les jets d’eau automatiques fonctionnent. </p>
+        <p> En dix minutes, l’incendie est éteint sans qu’il ait eu chance de se propager. </p>
+        <p> Là-bas, c’est le contraire de chez nous; ce sont les étages supérieurs qui sont réputés les plus aristocratiques. </p>
+        <p> Cela se comprend. </p>
+        <p> De sa fenêtre haute, on a le frais, la vue, l’air pur. </p>
+        <p> Sur le toit une immense terrasse, couverte de tentes en été. </p>
+        <p> Et qu’on le remarque. </p>
+        <p> Les hôtels à quatorze étages ne sont pas les seuls édifices aussi élevés. </p>
+        <p> De simples maisons de rapport en ont seize, dix-sept et même dix-huit. </p>
+        <p> Et l’aspect en est très imposant. Généralement, ils forment un quadrilatère qui couvre tout un îlot. </p>
+        <p> Square au milieu. </p>
+        <p> Même procédé de fabrication. </p>
+        <p> Ascenseurs partout. </p>
+        <p> Ascenseurs pour personnel. </p>
+        <p> Ascenseurs répondant à vos escaliers de service pour fournisseurs. </p>
+        <p> La force motrice fournie par l’électricité où on la demande. </p>
+        <p> Calorifère économique pour tout l’établissement et le gaz pour la cuisine, gaz fabriqué par une usine dans la maison même et lui appartenant, ce qui n’a rien d’étonnant. </p>
+        <p> Huit mille locataires! </p>
+        <p> La population d’une ville. </p>
+        <p> Pompiers à la solde de l’immeuble. </p>
+        <p> Isolement complet et rapide de toute chambre, de tout appartement. </p>
+        <p> Pompes qui fonctionnent d’elles mêmes, comme dans les hôtels. </p>
+        <p> Et du fer, du fer, encore du fer, du fer partout et toujours! </p>
+        <p> Puis, ô contraste! </p>
+        <p> Dans beaucoup de quartiers, nous dirions de faubourgs, des rues où s’élèvent des maisons basses, toutes semblables, entre murs et jardins semblables, très propres, coquettes, confortables. Ce sont maisons d’ouvriers, de petits employés formés en société. </p>
+        <p> En payant leur petit loyer, ils deviennent petits propriétaires. </p>
+        <p> Tous gentlemen! </p>
+        <p> Tous en chapeau haute forme, en redingote, en pantalons quelquefois effrangés, ça ne tire pas à conséquence. </p>
+        <p> La femme américaine ne raccommode pas; on achète du neuf. </p>
+        <p> Il est vrai que l’on fabrique des tissus à bon marché. </p>
+        <p> C’est peu solide. </p>
+        <p> Ça s’abîme vite de partout. </p>
+        <p> Tout ce monde est singulièrement brutal et singulièrement civil. </p>
+        <p> Les femmes sont très respectées et qui leur manquerait serait puni d’une pénalité qui nous paraîtrait outrée. </p>
+        <p> Il le faut, là-bas. </p>
+        <p> Les mœurs se sont pourtant adoucies, car l’émigration s’est arrêtée. </p>
+        <p> L’Europe ne vomit plus à flots son écume sur les États-Unis. </p>
+        <p> C’est maintenant la troisième ou tout au moins la deuxième génération du dernier grand flot d’émigrants qui donne le ton à la société. </p>
+        <p> Les manières ont encore une brutalité choquante pour nous; mais combien elles se sont adoucies depuis cinquante ans. </p>
+        <p> Une aristocratie est même en train de se former. </p>
+        <p> Aristocratie d’argent. </p>
+        <p> Mais enfin, c’est une classe de millionnaires qui s’affine. </p>
+        <p> Elle voit Paris. </p>
+        <p> Elle visite Londres. </p>
+        <p> Elle s’instruit. </p>
+        <p> Elle veut paraître bien élevée! </p>
+        <p> Mais une autre aristocratie très supérieure à celle-là lui donne le ton. </p>
+        <p> C’est celle des étudiants qui deviennent des médecins, des avocats, des architectes, des peintres, des sculpteurs, etc. </p>
+        <p> C’est la tête de la nation. </p>
+        <p> Ce sont les intellectuels dans le bon et strict sens du mot. </p>
+        <p> Tout cela en voie de formation. </p>
+        <p> On sent qu’il n’y a pas de traditions, pas de vieille histoire. </p>
+        <p> Peuple neuf, fait de vieux peuples lui envoyant leur trop plein. </p>
+        <p> Lie et écume. </p>
+        <p> Mais ça commence à se tasser, à se trier, à se sélectionner. </p>
+        <p> Et puis les traits d’une race caractéristique se constituent. </p>
+        <p> Mais que de gens d’aspect bizarre. </p>
+        <p> Nul part au monde ne se voit de tels phénomènes de disproportions. </p>
+        <p> Torses longs, énormes en hauteur, avec petites jambes torses. </p>
+        <p> Jambes minces, hautes pour, petits torses, courts et trapus. </p>
+        <p> Bras démesurés! </p>
+        <p> Pieds beaucoup trop larges. </p>
+        <p> Admirables pieds et mains éléphantiasiques. </p>
+        <p> Ceci tient à des mariages entre femmes d’une nation et hommes d’une autre, très fréquents autrefois et très mal assortis. </p>
+        <p> L’émigrant se mariait avec la femme qu’il pouvait trouver. </p>
+        <p> On épouse comme on peut. </p>
+        <p> Mais tout cela s’épure et s’affine. </p>
+        <p> Or, l’influence du milieu s’affirme et l’on remarque beaucoup d’Américains tournant au type Peaux-Rouges. </p>
+        <p> Ce qui frappe le plus dans le court espace de temps qu’un voyageur pressé comme l’étaient les compagnons de M. de Rastignac, c’est l’incroyable universalité des produits que vend un pharmacien et tout le secret de l’hypocrisie yankee explique précisément la chose. </p>
+        <p> Le Yankee est le descendant des premiers émigrants anglais, de ceux qui, persécutés comme protestants par Jacques II s’enfuirent dans le nouveau monde où y furent déportés. </p>
+        <p> C’étaient des fanatiques. </p>
+        <p> Leurs descendants en ont conservé quelque chose. </p>
+        <p> L’apparence seulement. </p>
+        <p> Ce sont les plus grands hypocrites de la terre, plus que les Anglais. </p>
+        <p> Ce n’est pourtant pas peu dire. </p>
+        <p> Et ils imposent l’hypocrisie à tout le monde comme il faut. </p>
+        <p> Le monde sélect. </p>
+        <p> Tous font partie des sociétés de tempérance et ni les dames ni les hommes sélects (lisez distingués si vous voulez), ne voudraient entrer dans une taverne, dans un bar. </p>
+        <p> Ceux de sa caste le montreraient au doigt et il serait vitupéré par les femmes. </p>
+        <p> À table, point de boissons fermentées ou alcoolisées. </p>
+        <p> On ne tolérerait ni la bière, ni le cidre. </p>
+        <p> Oui, mais le pharmacien vend toutes sortes de prétendus remèdes qui sont tout simplement des liqueurs. </p>
+        <p> Sirops à la menthe. </p>
+        <p> Sirops à l’absinthe. </p>
+        <p> Sirops au madère, etc. </p>
+        <p> Et ils vous servent tout cela chez eux. Comme on le ferait chez le pâtissier. </p>
+        <p> Excellent porto torréficateur  (3)  . </p>
+        <p> Malaga anti-fébrifuge. </p>
+        <p> Et des gâteaux. </p>
+        <p> Comme la boutique est le rendez-vous des élégantes, les pharmaciens ont eu l’idée d’offrir à leurs clientes des gants de luxe, vendus fort cher. </p>
+        <p> Comment refuser d’acheter la marchandise que vous vante un homme si complaisant! </p>
+        <p> Alors, voyant le succès de leur truc, les pharmaciens se sont mis à tenir parfumerie élégante, objets de toilette élégants, bimbeloterie élégante, dentelles, mouchoirs brodés, etc. </p>
+        <p> C’est chez eux que l’on se procure tout ce que les Parisiennes appellent l’article de fantaisie. </p>
+        <p> Et c’est chose amusante que de voir comment le pharmacien force la main à sa cliente et même à son client. </p>
+        <p> Si l’on n’a pas acheté en dehors de la consommation, la fois d’ensuite le pharmacien vous sert du sirop non alcoolisé. </p>
+        <p> Vous comprenez la leçon. </p>
+        <p> Vous vous fendez de l’achat d’une boîte de gants nu d’une bouteille de dentifrice. C’est joli comme truc. </p>
+        <p> Et tout un peuple pratique et supporte en tout l’hypocrisie de cette façon ou d’une autre. Mais le plus beau, c’est le cabinet de toilette pour homme et pour dames. </p>
+        <p> Très luxueux! </p>
+        <p> Très vaste. </p>
+        <p> Clair et gai. </p>
+        <p> On y entre avant le dîner. </p>
+        <p> Question de propreté! </p>
+        <p> Il faut bien se laver les mains. Mais on se rince aussi l’estomac. </p>
+        <p> Des sirops apéritifs sont rangés dans une armoire spéciale. </p>
+        <p> Madame en a la clef. </p>
+        <p> Elle ouvre l’armoire. </p>
+        <p> Elle et les invitées se paient des consommations qui permettent de se passer de bière à table. </p>
+        <p> Les dames y viennent la figure enluminée; les messieurs qui en ont fait autant de leur côté sont blindés. </p>
+        <p> Dans ces conditions, manger sans boire leur est très facile. </p>
+        <p> Et après? </p>
+        <p> On se relave les mains. </p>
+        <p> On ingurgite à nouveau. </p>
+        <p> S’il y a soirée, tout est prétexte à passer dans le cabinet de toilette. </p>
+        <p> La digestion est lourde. </p>
+        <p> On a la migraine. </p>
+        <p> Bref, on boit et reboit. </p>
+        <p> C’est ainsi que les hautes classes américaines entendent la tempérance. </p>
+        <p> Oh! très puritain, le high-life. </p>
+        <p> Et vous, Français, qui voulez boire votre bouteille de bordeaux à votre repas, déjeunez dans votre chambre. </p>
+        <p> Vous ne scandaliserez personne. </p>
+        <p> C’est ce que firent les compagnons du comte de Rastignac, sur son conseil. </p>
+        <p> Ils mangèrent et ils burent à la française, après s’être entendus avec le maître d’hôtel, qui, éclairé par un billet de dix dollars, comprit parfaitement leurs instructions. </p>
+        <p> Du reste, court, très court séjour! </p>
+        <p> Il fallait se hâter. </p>
+        <p> Les heures était précieuses. </p>
+        <p> On prit le chemin de fer après avoir vu New-York… à vol d’oiseau… </p>
+        <p> – Très bien, ces Américaines! disait Mme Désandré. </p>
+        <p> » Quelle tenue! </p>
+        <p> » Et quelle tempérance! </p>
+        <p> » Rien que de l’eau sur la table! </p>
+        <p> – Et de l’alcool plein le torse! dit en riant le comte de Rastignac. </p>
+        <p> Sa fille, d’un de ces mots à l’emporte-pièce peignait les Américaines. </p>
+        <p> – Des alambics en forme de… cruches à eau! Des trompe-l’œil. </p>
+        <p> M. Désandré venant au secours de sa femme, se mit à dire: </p>
+        <p> – Enfin avouez que ces gens-là ont beaucoup de tenue. </p>
+        <p> – Je crois bien, dit la petite comtesse; ils sont toujours raides. </p>
+        <p> Après celui-là on tira l’échelle. </p>
+        <p> Elle avait de l’esprit, la petite comtesse; elle faillit en mourir! </p>
+      </div>
+      <div title="CHAPITRE IV EN WAGON" type="chapter">
+        <head> CHAPITRE IV </head>
+        <lb/>
+        <p> J’ai déjà décrit la physionomie d’un train américain, tous les wagons disposés en long et s’emboîtant les uns dans les autres. </p>
+        <p> Point de bancs. </p>
+        <p> Des sièges, des tables collées au parois, s’abattant, se relevant comme on veut. </p>
+        <p> Des lits s’abattant, se relevant de même et évitant au voyageurs le supplice de dormir assis, la tête retombant toujours ou s’appuyant aux parois froides, prenant un rhume de cerveau le plus généralement accompagné d’un torticolis. </p>
+        <p> Douce conséquence d’un voyage chez nous pour peu qu’il soit long. </p>
+        <p> En Amérique, point de différence de classe et c’est gênant. </p>
+        <p> Cela provenait autrefois de ce que tout le monde, même ceux qui s’étaient enrichis, étant peuple, ne fuyaient nullement le dur contact du peuple. </p>
+        <p> On se faisait volontiers respecter à coups de poing et de revolver. </p>
+        <p> Un duel au couteau ou au revolver était chose fréquente. </p>
+        <p> Aujourd’hui, ce n’est pas chose rare. </p>
+        <p> Pour que les querelles ne soient pas des assassinats, on règle le combat. </p>
+        <p> J’ai démontré combien nous devions aux Américains, puisque ce sont eux qui ont inventé le restaurant-salon. </p>
+        <p> Le nôtre n’est accessible qu’aux riches. </p>
+        <p> Là-bas, on peut déjeuner de trois sandwichs et d’une pinte de bière, à très bon compte. </p>
+        <p> Mais voilà que les distinctions de classes se produisent. </p>
+        <p> L’inégalité des éducations, des rangs, des fortunes s’accusent. </p>
+        <p> Pas de différence de classe. </p>
+        <p> Entendu! </p>
+        <p> On ne veut pas toucher au principe sacré de l’égalité. </p>
+        <p> On n’y touchera jamais… </p>
+        <p> Au grand jamais… </p>
+        <p> Est-ce qu’un citoyen Américain n’en vaut pas un autre. </p>
+        <p> Non. </p>
+        <p> Ne vous en déplaise, tel pauvre diable qui va chercher fortune dans l’Ouest ne vaut pas cent dollars. </p>
+        <p> Et voici le richissime Schapeforton qui vaut un milliard. </p>
+        <p> Donc il peut plus pour ses satisfactions personnelles qu’un émigrant pauvre. </p>
+        <p> Et il est donné pour lui et d’autres moins milliardaires des crocs-en-jambe au grand principe de la sainte égalité. </p>
+        <p> Les sleepings-cars d’abord. Ça coûte beaucoup plus cher. </p>
+        <p> Lits, cabinets, toilettes, restaurant particulier, couloir de promenade, terrasse. </p>
+        <p> Les gens mieux élevés que le commun des mortels s’y trouvent entre eux. </p>
+        <p> Première conquête de l’esprit aristocratique sur la démocratie. </p>
+        <p> Mais mieux encore. </p>
+        <p> Il y a des wagons-salons réservés. Alors on est tout à fait chez soi. </p>
+        <p> Et c’était un de ces salons qui transportait le comte et ses amis. </p>
+        <p> Or, s’il est interdit au commun des voyageurs d’entrer dans les sleepings-cars et dans les wagons-salons, il est permis aux voyageurs privilégiés de se promener dans le train. </p>
+        <p> C’est une distraction. </p>
+        <p> Il est, d’autre part, un usage assez singulier, mais pittoresque. </p>
+        <p> Les Anglo-Saxons aiment à faire parade de sentiments humanitaires. </p>
+        <p> Ils en sont très prodigues quand cela ne leur coûte rien. </p>
+        <p> C’est pourquoi les compagnies transportent pour rien les Indiens. </p>
+        <p> Mais malheur à celui qui voudrait entrer dans le train. </p>
+        <p> On le jetterait dehors. </p>
+        <p> Point de ces pouilleux en contact avec des hommes libres. </p>
+        <p> Ils se tiennent sur le marchepied et s’y installent ingénieusement, eux, leurs sqaws et leurs enfants. </p>
+        <p> Pauvres diables! </p>
+        <p> Ceux qui se servent ainsi des trains sont les plus dégradés des Indiens. </p>
+        <p> Ils sont parqués dans les réserves et nourris par le gouvernement. </p>
+        <p> Mais avec une parcimonie révoltante, des vols commis par les agents, des dénis de justice atroces. </p>
+        <p> Poussés par la famine, ils deviennent pillards et dérobent le bétail des fermiers (farmers) avec une rare adresse. </p>
+        <p> Quelques familles cherchent à s’utiliser comme domestiques agricoles. </p>
+        <p> Celles-là sont les plus malheureuses, les plus dépenaillées de toutes. </p>
+        <p> L’Indien ne sait pas se tenir dans une place fixe. </p>
+        <p> Il se loue ici pour labourer, là pour sarcler, là pour moissonner. </p>
+        <p> Il pourrait vivre, pendant, l’hiver, de son maigre salaire. </p>
+        <p> Ce n’est pas dans son tempérament à économiser par prévision. </p>
+        <p> Il boit à outrance ce qu’il a gagné et l’hiver l’empoigne presque nu et sans le sou. </p>
+        <p> Alors il mendie des haillons, se bâtit une hutte en forêt et bûcheronne au plus bas prix pour des bûcherons blancs qui le méprisent et qui l’exploitent indignement. </p>
+        <p> Parlez des Indiens à n’importe quel fermier, à n’importe quel bûcheron et vous n’entendrez que cet éternel refrain: </p>
+        <p> « Des Peaux-Rouges! </p>
+        <p> « Il n’en faut plus! » </p>
+        <p> C’est une conjuration générale contre cette race condamnée par la cruauté impitoyable des Anglo-Saxons. </p>
+        <p> Or, un ménage de Delawares s’était établi sur le marchepied du wagon-salon que le comte et ses amis occupaient. </p>
+        <p> Le mari s’était mis à préparer un manche pour un tomahawk qu’il avait acheté; la femme allaitait un petit enfant. </p>
+        <p> Les Delawares ont été une des plus belles races indiennes. </p>
+        <p> Elle a presque disparu. </p>
+        <p> Or, ce ménage, un des rares survivants de la malheureuse tribu, méritait que l’on s’occupât de lui. </p>
+        <p> Fils d’un sachem converti au christianisme, Tcha-Pelleti (Petit-Jaguar) et sa femme MaDachalit (Églantine-Double) étaient baptisés et avaient fait baptiser leur enfant. </p>
+        <p> Leur éducation s’en était ressentie. </p>
+        <p> Petit-Jaguar mettait de côté pour l’hiver, allait à la ville, avant les grands froids, chercher ses provisions, on voyait ses sacs de farine et de lard, de riz et de maïs déposés et liés sur le marchepied. </p>
+        <p> Il était bien peigné, bien coiffé, bien vêtu et il avait une figure avenante, non dégradée par l’ivresse, chose rare chez les Indiens en décadence. </p>
+        <p> Il n’était pas peint. </p>
+        <p> Signe de civilisation. </p>
+        <p> Ses vêtements étaient propres. </p>
+        <p> Sa femme et lui, en travaillant pour les farmers , avaient appris à parler anglais et français. Mme Jellalich s’intéressa aussitôt à eux et leur donna des sandwichs et de la bière par la portière. </p>
+        <p> Ils lui en furent très reconnaissants. Petit-Jaguar remercia en bons termes. La conversation s’engagea. Jellalich s’en mêla. </p>
+        <p> Ces Indiens étaient montés à Saint-Paul; c’est là qu’ils avaient fait leurs provisions. </p>
+        <p> Petit-Jaguar conta qu’il avait bien travaillé avec sa femme pour les farmers . </p>
+        <p> Il avait fait labourage, ensemencements, sarclages, fenaisons, moissons. </p>
+        <p> Comme il retournait toujours dans la même ferme, qu’il ne buvait pas d’eau-de-feu et employait bien son temps, on était assez bon pour lui. </p>
+        <p> Tous les dimanches seulement, il buvait un peu de rhum pour chanter la gloire de ses ancêtres et leurs exploits. </p>
+        <p> Alors seulement il se peignait et endossait le manteau de cérémonie. </p>
+        <p> Il se rendait au bord du lac Winipeg, non loin du fort Nelson, près d’un cours d’eau qui se jetait dans le lac. </p>
+        <p> – Là, dit-il, avec ma femme, j’abats des arbres, je les ébauche, je les équarris. </p>
+        <p> » Puis, vers la fin de l’hiver, je m’empare de six chevaux sauvages, je les dompte, je les attelle aux arbres, et, sur la neige non encore fondue, l’arbre fait traîneau. </p>
+        <p> » Je le fais arriver ainsi au bord de la rivière et j’en conduis un autre près de celui-là, puis un autre, puis d’autres encore. </p>
+        <p> » Je forme un train de bois bien solide avec de bonnes lianes. </p>
+        <p> » Puis j’attends. </p>
+        <p> » J’ai, du reste, en prenant mon temps, fabriqué au feu, puis à la hache, deux pirogues. </p>
+        <p> » C’est pour y mettre ce que j’ai de plus précieux, mes armes, mes outils, mes fourrures à vendre, fruits de ma chasse d’hiver (je suis bon trappeur), mes vêtements et quelques provisions pour atteindre la ville de Winipeg. </p>
+        <p> » Je vous ai dit que j’attendais. </p>
+        <p> » Il faut en effet que la débâcle ait lieu pour que je parte. </p>
+        <p> » Je la laisse se produire. </p>
+        <p> » Le fleuve se gonfle. </p>
+        <p> » Il met mon train à flot. </p>
+        <p> » Nous partons. </p>
+        <p> » L’eau qui court vite à cette époque porte mon train à Winipeg où je le vends. </p>
+        <p> » Je suis connu. </p>
+        <p> » Les marchands de bois savent que je sais choisir des arbres sains, bons pour la construction et bien équarris. </p>
+        <p> » Je place mon argent dans une bonne banque et je descends dans le Sud pour commencer les travaux. </p>
+        <p> » Quand ils sont finis, je retourne dans le Nord où je retrouve ma hutte. </p>
+        <p> » Plus tard, quand je serai vieux, j’aurai assez d’argent pour vivre avec ma femme, dans ma hutte, sans autre travail que la pêche et la chasse et nous ferons un jardin . </p>
+        <p> Mme Jellalich causa avec la femme indienne et la trouva très douce, remplie de bons sentiments, très heureuse et très fière d’être mariée à Petit-Jaguar. </p>
+        <p> Elle éprouva de la sympathie pour Double-Églantine. </p>
+        <p> Elle admirait les soins qu’elle prenait de son enfant. </p>
+        <p> Mais on arriva à la Rivière-Rouge et, après avoir comblé le ménage indien de sandwichs, Mme Jellalich fit des cadeaux à la femme. </p>
+      </div>
+      <div title="CHAPITREVRUINÉ" type="chapter">
+        <head> CHAPITRE V </head>
+        <lb/>
+        <p> La Rivière-Rouge est un point de bifurcation; là, Petit-Jaguar devait aller déposer à sa banque ses économies nouvelles et reprendre le train pour Winipeg,. </p>
+        <p> Il revint consterné. </p>
+        <p> La banque avait fait banqueroute… </p>
+        <p> Ça n’arrive que trop souvent en Amérique, où les financiers filous sont nombreux; la banqueroute y est professionnelle. </p>
+        <p> Petit-Jaguar était dans un désespoir qui faisait peine à voir. </p>
+        <p> Jellalich, après avoir consulté sa femme, dit au Delaware: </p>
+        <p> – Tu peux te refaire très facilement un petit trésor supérieur à celui que tu possédais, si tu veux me servir et si, ta femme veut servir la mienne. </p>
+        <p> Il lui expliqua où et comment il allait et Petit-Jaguar, aux conditions qu’il lui fit, bondit de joie. </p>
+        <p> Il accepta. </p>
+        <p> Jellalich lui compta aussitôt une forte avance. </p>
+        <p> Puis il fit acheter au couple indien des vêtements de blancs. </p>
+        <p> Transformation complète. </p>
+        <p> L’heure de partir arriva et tout le monde monta dans le train. </p>
+        <p> Trajet relativement court. </p>
+        <p> Petite ligne. </p>
+        <p> Beaucoup de marchandises. </p>
+        <p> Peu de voyageurs. </p>
+        <p> Point de wagons-salons. </p>
+        <p> Point de sleepings-cars. </p>
+        <p> Tout le monde mêlé. Et quel monde! </p>
+        <p> Winipeg est un port qui aboutit au lac de ce nom. </p>
+        <p> Il est formé par des cours d’eau qui, après avoir rempli le lac, en sortent pour former la Nelson qui se jette dans la baie d’Hudson. </p>
+        <p> Or, à partir de là, commencent les immenses solitudes canadiennes. </p>
+        <p> Les forts-factoreries sont épars le long des lacs, des rivières, des fleuves, ravitaillés par des vapeurs chaque été et bondant lesdits vapeurs de fourrures. </p>
+        <p> Les Indiens et les trappeurs peuplent seuls ces vastes espaces. </p>
+        <p> Et c’est au port de Winipeg qu’aboutit tout le trafic de ces régions. </p>
+        <p> Là aussi aboutissent les trains de bois et les produits des fermes. </p>
+        <p> Or, la grossièreté des bûcherons, des trappeurs, des fermiers est proverbiale. </p>
+        <p> Elle détient le record sur les gens de Winipeg qui sont brusques, durs et facilement insolents dans leurs prétentions et leurs propos. </p>
+        <p> Ils pèchent par manque d’éducation et l’on retrouve les mœurs des anciens temps où l’on mettait si vite le pistolet au poing. </p>
+        <p> Il n’y a rien de changé, sinon que le pistolet est devenu le revolver. </p>
+        <p> Les mœurs s’en ressentent. </p>
+        <p> Le duel est fréquent. </p>
+        <p> Défendu par la loi, mais autorisé par la coutume. </p>
+        <p> Si l’affaire s’est passée loyalement, le jury d’enquête, en cas de mort, rend toujours un verdict de non-lieu, motivé sur ce que le meurtrier a agi en cas de légitime défense. </p>
+        <p> Donc, après avoir pris quelques heures de repos à l’hôtel de la gare de bifurcation, le comte, ses amis et le ménage indien montèrent dans le train pour Winipeg. </p>
+      </div>
+      <div title="CHAPITRE VI PROVOCATIONS" type="chapter">
+        <head> CHAPITRE VI </head>
+        <lb/>
+        <p> Pas bondé ce train. </p>
+        <p> Une trentaine de personnes au plus. Quelques marchands de bois, quelques fermiers, des bûcherons, un maître d’école, des trappeurs et plusieurs commis de factorerie. </p>
+        <p> Le maître d’école intelligent. </p>
+        <p> Le seul qui fût bien élevé. </p>
+        <p> Dès le début, l’entrée du ménage delaware fit sensation. </p>
+        <p> – Tiens, des Indiens! </p>
+        <p> – Ici! </p>
+        <p> » Dans le train! </p>
+        <p> – En habits d’hommes libres! </p>
+        <p> – C’est intolérable! </p>
+        <p> – C’est faire fi de nous que de nous imposer la présence de ces Peaux-Rouges. </p>
+        <p> – Il faut les faire descendre sur le marchepied. </p>
+        <p> Ceux qui parlaient ainsi étaient surtout les commis des forts. </p>
+        <p> Tous Anglais. </p>
+        <p> Les négociants les appuyaient. </p>
+        <p> Tous Anglais. </p>
+        <p> Le maître d’école, un Franco-Canadien, se taisait. </p>
+        <p> Comme lui, des trappeurs de même race restaient indifférents. </p>
+        <p> Ainsi s’affirmait la différence qui sépare les Canadiens Franco-Normands des Canadiens Anglo-Saxons. </p>
+        <p> Un trappeur irlandais fit une observation et dit avec bon sens: </p>
+        <p> – Si ces gens-là ont payé leurs places, ils ont les mêmes droits que nous. </p>
+        <p> – Alors, protesta un des commis, un chien d’Indien serait l’égal d’un blanc comme nous! </p>
+        <p> » Si vous le pensez, ne le dites que pour vous, master Paddy. </p>
+        <p> Le trappeur, avec la colère prompte de ceux de sa race: </p>
+        <p> – Je le dis pour vous aussi. </p>
+        <p> – Eh bien, moi, je vous déclare que je suis fort au-dessus d’un Peau-Rouge. </p>
+        <p> – C’est une prétention! </p>
+        <p> – D’où vient alors que la loi ne lui reconnaît pas les droits d’un citoyen? </p>
+        <p> – Parce que les blancs ont fait la loi, les blancs et surtout les Anglais oppresseurs. </p>
+        <p> – En quoi, oppresseurs? </p>
+        <p> – Oppresseurs de l’Irlande, mon pays. </p>
+        <p> – Une vieille rengaine. </p>
+        <p> » Les Irlandais ont les mêmes droits que les Anglais et les Écossais. </p>
+        <p> – Oui, mais leurs députés ne formant qu’une minorité ne peuvent rien. </p>
+        <p> » Les terres de l’Irlande ont été confisquées et données aux lords anglais et au clergé anglican; le malheureux Irlandais est réduit à crever de faim ou à s’expatrier comme moi. </p>
+        <p> – Vous n’êtes pas expatrié! </p>
+        <p> » Le Canada, c’est l’Angleterre. </p>
+        <p> – C’est la France. </p>
+        <p> » Un jour cette France vous jettera à la mer. </p>
+        <p> Des murmures se firent entendre. </p>
+        <p> Paddy saisit son revolver. </p>
+        <p> On avait fort envie de le battre; mais le revolver aurait marché. </p>
+        <p> L’interlocuteur de Paddy lui tourna le dos brusquement. </p>
+        <p> Paddy lui mit la main sur l’épaule et lui dit avec colère: </p>
+        <p> – Vous savez… </p>
+        <p> » Je ne serais pas fâché d’engager une petite affaire avec un Anglais. </p>
+        <p> » Si vous vous voulez, je suis votre homme. </p>
+        <p> Paddy passait pour tireur de premier ordre, même, il faut l’avouer, pour un redoutable duelliste. </p>
+        <p> L’Anglais lui dit: </p>
+        <p> – Des balles ne sont pas des raisons. Il s’éloigna. </p>
+        <p> Paddy se mit à ricaner. </p>
+        <p> Il fallait bien que l’Anglais se vengeât sur quelqu’un. </p>
+        <p> Il s’aboucha avec ses camarades, puis il alla trouver Petit-Jaguar. </p>
+        <p> Et, de but en blanc: </p>
+        <p> – Comment se fait-il, vermine rouge, que tu sois monté dans le train? </p>
+        <p> – Parce que mon maître a payé ma place. </p>
+        <p> – Nous n’admettons pas les Peaux-Rouges dans les trains. </p>
+        <p> » Tu vas descendre sur le marchepied. </p>
+        <p> Et l’Anglais cria aux autres: </p>
+        <p> – Ouvrez la portière! Je vais le jeter dehors. </p>
+        <p> Et il saisit par le bras le pauvre Delaware qui ne savait que faire. </p>
+        <p> Il connaissait la lâche brutalité des Anglais. </p>
+        <p> Tout à coup son adversaire lâcha prise en poussant un cri. </p>
+        <p> – Qui m’a frappé? </p>
+        <p> – Moi! </p>
+        <p> C’était Jellalich qui intervenait. </p>
+        <p> Il avait donné un coup de crosse de revolver sur la jointure du poignet de master Deason, l’Anglais, coup douloureux. </p>
+        <p> – Ah! vous m’avez frappé! </p>
+        <p> – Oui. </p>
+        <p> » Vous vous êtes permis de faire violence à mon serviteur et je vous châtie. </p>
+        <p> – Ça va vous coûtez cher. </p>
+        <p> – Ou à vous. </p>
+        <p> – Vous me rendrez raison. </p>
+        <p> – Avec plaisir. </p>
+        <p> – Au revolver. </p>
+        <p> – Si vous voulez. </p>
+        <p> – D’un bout du train à l’autre, liberté de s’avancer l’un sur l’autre. </p>
+        <p> – Ça me va. </p>
+        <p> – À mort! </p>
+        <p> – Parbleu! </p>
+        <p> – Choisissez vos témoins! </p>
+        <p> Paddy se précipita. </p>
+        <p> – J’en suis un! s’écria-t-il. </p>
+        <p> Et à Jellalich. </p>
+        <p> » Acceptez-moi. </p>
+        <p> » Je connais les Anglais. </p>
+        <p> » Celui-ci, une fois, a tiré avant le commandement. </p>
+        <p> » C’est un traître. </p>
+        <p> » Mais je veux le surveiller. </p>
+        <p> » Foi de Paddy, s’il devance le signal, je le tue. </p>
+        <p> À l’Anglais: </p>
+        <p> » Vous êtes prévenu! </p>
+        <p> En ce moment le comte de Rastignac prit la parole: </p>
+        <p> – Je suis le second témoin. </p>
+        <p> » Moi aussi, j’aurai le revolver au poing! </p>
+        <p> L’Anglais, master Deason, désigna ses deux témoins, deux autres marchands de bois, gens d’assez mauvaise tenue. </p>
+        <p> Ils le prirent de haut. </p>
+        <p> Le comte se présenta lui-même et il demanda: </p>
+        <p> – Et vous, messieurs? </p>
+        <p> – Nous… </p>
+        <p> » Nous…, quoi. </p>
+        <p> – Qui êtes-vous? </p>
+        <p> – Peu importe? </p>
+        <p> » Notre ami Deason va se battre et nous l’assistons. </p>
+        <p> » Nous n’avons aucun compte à vous rendre. </p>
+        <p> – J’ai le droit de savoir vos noms. </p>
+        <p> – Pour mon compte, je m’entête à ne pas dire le mien. </p>
+        <p> Paddy, intervenant: </p>
+        <p> – N’insistez pas, monsieur le comte. Quand on ne veut pas se nommer, c’est que l’on n’est pas avantageusement connu; master Crommisch a fait plusieurs fois des faillites ressemblant fort à des banqueroutes. </p>
+        <p> – Master Paddy, vous m’insultez. </p>
+        <p> – Je vous dis vos vérités. </p>
+        <p> – Vous m’en rendrez raison. </p>
+        <p> – Tout aussitôt après la première affaire. </p>
+        <p> Le comte, ennuyé que Paddy lui eût soufflé son adversaire, se tourna vers le second témoin et lui dit: </p>
+        <p> – J’espère bien que vous serez plus prudent que votre ami. </p>
+        <p> » Vous direz votre nom. </p>
+        <p> » Sinon… </p>
+        <p> – Allez au diable. </p>
+        <p> » Je ne dirai rien. </p>
+        <p> – Très bien. </p>
+        <p> » Ce sera la troisième affaire. </p>
+        <p> En ce moment, on entendit le bruit d’une altercation. </p>
+        <p> C’était M. Désandré qui relevait les propos désobligeants d’un certain Yripp. </p>
+        <p> – Monsieur, lui disait-il, je ne peux pas supporter les incorrections. </p>
+        <p> » Vous venez d’en commettre une en disant devant un Français, des choses désobligeantes pour d’autres Français ses amis. </p>
+        <p> » Ou vous ferez des excuses, ou il y aura une quatrième affaire. </p>
+        <p> – Eh bien, par les cornes du diable, puisque vous y tenez, je vous crèverai la panse d’une balle. </p>
+        <p> – Monsieur, ce sont les animaux à deux pattes, aussi grossiers que vous, qui ont une panse; moi, je suis un homme. </p>
+        <p> » Je suis même un gentilhomme, comme vous pourrez vous en convaincre en lisant ma carte. </p>
+        <p> Et M. Désandré la lui tendit. </p>
+        <p> Mais Paddy se mit à rire. </p>
+        <p> – Inutile! s’écria-t-il… </p>
+        <p> » Il ne sait pas lire. </p>
+        <p> » Pour sa correspondance et pour les livres, il a un secrétaire. </p>
+        <p> On rit, ce qui vexa beaucoup master Yripp. </p>
+        <p> Cependant le vin était tiré il fallait le boire ou tout au moins le répandre. Ce vin-là était du sang! </p>
+      </div>
+      <div title="CHAPITRE VII QUATRE DUELS EN WAGONS" type="chapter">
+        <head> CHAPITRE VII </head>
+        <lb/>
+        <p> Désandré, avec une correction froide et une dignité calme, prit la direction des trois premières affaires. </p>
+        <p> – Messieurs, dit-il en s’adressant aux non-combattants, vous êtes en quelque sorte des jurés, vous constituez un jury d’honneur. </p>
+        <p> » Je soumets à votre verdict la proposition suivante: </p>
+        <p> » Il ne serait pas juste que l’un des combattants eût une arme inférieure à celle de son adversaire. </p>
+        <p> » Je vous demande s’il ne serait pas convenable de choisir deux revolvers de même calibre et se ressemblant le plus possible. </p>
+        <p> » On les numéroterait et on les ferait tirer au sort par les combattants. </p>
+        <p> – Bien parlé! dit le maître d’école. Oui, très bien! s’écria-t-on. </p>
+        <p> Et l’on compara différents revolvers, en choisissant deux de même calibre et de même fabrication qui furent numérotés. </p>
+        <p> On s’assura de leur bon fonctionnement et l’on appela les adversaires. </p>
+        <p> Le sort donna le n o 1 à l’Anglais et le n o 2 à Jellalich. </p>
+        <p> Peu importait. </p>
+        <p> Il fut bien convenu qu’après le signal chacun s’avancerait à l’allure qu’il voudrait et Paddy y insista. </p>
+        <p> Tout ceci se passait en l’absence des adversaires qui, sur la terrasse, ne se doutaient de rien et regardaient le paysage. </p>
+        <p> Comme d’habitude, quand il y a un duel en chemin de fer américain, les spectateurs et les témoins se placèrent en deux rangs se faisant face, au centre du train. </p>
+        <p> Chacun se plaquait à la paroi du wagon qui se trouvait derrière. </p>
+        <p> Les deux combattants étant au milieu des panneaux d’extrémité, il y avait peu de probabilité que les balles s’égarassent sur les témoins. </p>
+        <p> Les employés du train et ceux du buffet ne protestaient nullement. </p>
+        <p> Spectacle gratis! </p>
+        <p> Pourquoi s’en priver. </p>
+        <p> L’affaire fut très courte. </p>
+        <p> M. Désandré donna le signal en frappant trois coups dans ses mains. </p>
+        <p> Les deux adversaires tirèrent. </p>
+        <p> À la première balle, l’Anglais chancela et tomba. </p>
+        <p> Il avait la poitrine traversée. </p>
+        <p> Une hémorragie interne l’étouffait et il vomissait le sang à flots par la bouche. </p>
+        <p> Il n’avait pas mal tiré. Jellalich était touché au bras. </p>
+        <p> Il se pansa tranquillement avec son mouchoir. </p>
+        <p> La mort de l’Anglais produisit sur la galerie une impression profonde. </p>
+        <p> Mais M. Désandré dit froidement aux garçons du restaurant: </p>
+        <p> – Enlevez le corps! </p>
+        <p> » Vous épongerez ensuite le sang. Faites vite. </p>
+        <p> On lui obéit. </p>
+        <p> Il avait grand air. </p>
+        <p> Quoique j’aime à en blaguer, la correction roide et impeccable en impose et s’impose. </p>
+        <p> À ce point que le maître d’école, s’inspirant de l’exemple de M. Désandré, s’adjugea le rôle d’huissier-audiencier. </p>
+        <p> Il s’avança solennellement et il appela d’une voix claire: </p>
+        <p> – Affaire Paddy-Crommisch! </p>
+        <p> – Présent! dit Paddy. </p>
+        <p> Crommisch se contenta de se présenter. </p>
+        <p> Le comte et Jellalich furent témoins de Paddy. </p>
+        <p> On tira les revolvers au sort; puis on plaça les adversaires. </p>
+        <p> Alors on eut un spectacle extraordinaire et inattendu. </p>
+        <p> Quand M. Désandré eut frappé le troisième coup signal, Crommisch fit feu, mais son adversaire avait disparu. </p>
+        <p> Paddy s’était baissé, allongé et rampait comme un serpent sur son adversaire. </p>
+        <p> Il allait si vite que Crommisch déchargea en vain sur lui quatre coups de feu sans l’atteindre et il était fort troublé quand Paddy tira à son tour très posément à dix pas. </p>
+        <p> Crommisch, haché par cinq balles, fut troué comme une écumoire. </p>
+        <p> Mais des partisans du mort réclamèrent, protestant contre la façon dont Paddy s’était dérobé au feu de son adversaire. </p>
+        <p> Mais, sans se laisser démonter le moins du monde par les cris qu’il domina, Paddy rappela que l’on avait permis aux adversaires de prendre l’allure qu’ils voudraient. </p>
+        <p> Au maître d’école: </p>
+        <p> – Vous savez bien qu’allure ne veut pas dire marche, mais tout l’ensemble des habitudes de l’animal en mouvement. </p>
+        <p> – C’est vrai! dit le maître d’école. </p>
+        <p> » Tel homme a une allure, tel une autre. </p>
+        <p> » La panthère a une allure, l’ours une autre, le serpent une autre. </p>
+        <p> » Master Paddy avait le droit, d’après les conventions, de faire le serpent. </p>
+        <p> Déjà les garçons avaient enlevé le corps et ils épongeaient. </p>
+        <p> Et le maître d’école appela: </p>
+        <p> – Affaire comte de Rastignac et Redfort. </p>
+        <p> Le comte sortit d’un rang de spectateurs en souriant et il dit: </p>
+        <p> – Me voici! </p>
+        <p> » MM. de Jellalich et Paddy me serviront de témoins. </p>
+        <p> Redfort désigna les siens. </p>
+        <p> On procéda aux formalités et l’on mit les adversaires en présence. </p>
+        <p> Au signal, le comte tira un seul coup et brisa le crâne à Redfort. </p>
+        <p> L’autre tomba face contre terre répandant sa cervelle. </p>
+        <p> Ce qui arracha un murmure d’admiration à la galerie. </p>
+        <p> Étonnants, ces Français! </p>
+        <p> Quels tireurs! </p>
+        <p> Notez que Jellalich était Hongrois et Paddy Irlandais. </p>
+        <p> Mais ils faisaient bloc avec le comte qui venait de frapper son adversaire entre les deux yeux avec une foudroyante précision. </p>
+        <p> Paddy en était frappé. </p>
+        <p> – Pour un homme dont ce n’est pas le métier, vous tirez d’une façon étonnante. </p>
+        <p> – Paddy, mon ami, vous allez voir un meilleur tireur que moi. </p>
+        <p> – Vraiment! </p>
+        <p> – C’est comme je vous le dis. </p>
+        <p> – M. Désandré? </p>
+        <p> – Infaillible. </p>
+        <p> Le maître d’école appela: </p>
+        <p> – Affaire Désandré-Yripp. </p>
+        <p> Témoins de Désandré, Jellalich et le comte de Rastignac. </p>
+        <p> Désandré s’avança vers son adversaire et il lui dit avec conviction: </p>
+        <p> – Monsieur, vous avez commis une incorrection qui me met le revolver à la main. </p>
+        <p> » Je dois vous dire que vous êtes un homme mort sans rémission. </p>
+        <p> » Mais si vous consentez à mourir correctement, vous ne souffrirez pas. </p>
+        <p> » Sinon vous aurez une mort affreuse. </p>
+        <p> » Je vais donc vous saluer et vous me rendrez mon salut comme cela se fait entre gens bien élevés qui vont se battre. </p>
+        <p> » Si vous ne me rendez pas mon salut, vous paierez cher votre grossièreté. </p>
+        <p> Il ôta son chapeau. </p>
+        <p> Celui de l’Anglais resta vissé sur sa tête obstinée. </p>
+        <p> M. Désandré haussa les épaules et se rendit à sa place. </p>
+        <p> L’Anglais de même. </p>
+        <p> Une!… </p>
+        <p> Deux!… </p>
+        <p> Trois!… </p>
+        <p> M. Désandré sentit une balle glisser sur ses côtes. </p>
+        <p> Mais il avait cassé le bras droit de son adversaire entre le poignet et le coude. </p>
+        <p> Il continua à tirer, cassant l’autre bras, puis il brisa les jambes. </p>
+        <p> L’homme tomba en hurlant. </p>
+        <p> M. Désandré s’avança à pas comptés et l’acheva enfin d’un cinquième coup. </p>
+        <p> Alors il se tourna vers les spectateurs et leur dit gravement: </p>
+        <p> – On gagne toujours à être correct! </p>
+        <p> » Sur mon honneur, devant Dieu et devant les hommes, je jure que si cet homme eût consenti à l’être, je me serais contenté de le mettre hors de combat. </p>
+        <p> Il salua et se mit à l’écart, fier d’avoir fait triompher la correction. </p>
+        <p> Et la galerie voua une grande estime à ce galant homme. </p>
+        <p> Tout s’était passé si vite que, le bruit du train aidant, les dames, sur la terrasse, ne s’étaient douté de rien. </p>
+        <p> Jellalich voyant le dernier insulteur tué, monta sur la terrasse. </p>
+        <p> – Mesdames, dit-il, que diriez-vous d’un drame composé de quatre duels en wagon? </p>
+        <p> La petite comtesse se mit à rire. </p>
+        <p> – Quelle drôle d’idée, fit-elle, passe par votre cervelle hongroise? </p>
+        <p> – Une idée comme une autre. </p>
+        <p> » Je peux même dire, vu le nombre de coups de feu échangés, que vous avez été assise sur un volcan pendant vingt minutes. </p>
+        <p> – Nous? </p>
+        <p> – Oui… vous… </p>
+        <p> – Vous avez l’air de dire que les duels ont eu lieu. </p>
+        <p> – Si vous voulez voir les cadavres? </p>
+        <p> – Il y en a? </p>
+        <p> – Quatre! </p>
+        <p> – Et qui s’est battu? </p>
+        <p> – Moi d’abord. </p>
+        <p> » Puis le comte. </p>
+        <p> » Puis un trappeur nommé Paddy, un très brave garçon. </p>
+        <p> » Enfin, M. Désandré. </p>
+        <p> » De nous autres, il n’y a que moi de blessé légèrement. </p>
+        <p> – Blessé! </p>
+        <p> » Oh, mon Dieu! s’écria la sentimentale Mme Jellalich. </p>
+        <p> – Oh rien! </p>
+        <p> » Calmez-vous, chère amie. </p>
+        <p> » Un séton au bras! </p>
+        <p> » Je suis venu vous chercher pour le panser plus sérieusement qu’il ne l’est. </p>
+        <p> La petite comtesse: </p>
+        <p> – Mais sait-elle panser? </p>
+        <p> Jellalich: </p>
+        <p> – Pas beaucoup, je pense. </p>
+        <p> – Moi je fais pas partie de l’Association des Dames de France. </p>
+        <p> » J’ai suivi les cours de pansement. </p>
+        <p> » Passons au restaurant où nous trouverons des serviettes pour faire des bandes et de la charpie et où nous aurons de l’eau-de-vie, laquelle, à défaut de mieux, est un antiseptique. </p>
+        <p> Et riant: </p>
+        <p> – Mon cher, je crois bien que votre tendre Viennoise va s’évanouir. </p>
+        <p> » Madame Désandré, occupez-vous d’elle. </p>
+        <p> Mme Jellalich était prête à défaillir; mais elle fit un grand effort, se leva et dit très doucement à Mme de Rastignac: </p>
+        <p> – Si vous n’avez aucune sensibilité, ce n’est pas une raison pour que tout le monde vous ressemble. </p>
+        <p> Elle suivit son mari au restaurent où Jellalich enleva son veston de voyage et releva la manche ensanglantée de sa chemise; à la vue du sang, sa femme perdit connaissance. </p>
+        <p> – Qu’est-ce que j’avais dit! fit Mlle de Rastignac en haussant les épaules. </p>
+        <p> Et à Mme . Désandré: </p>
+        <p> – Faites tomber de l’eau sur son front goutte à goutte. </p>
+        <p> Et déjà elle coupait, avec des ciseaux, des bandes dans une serviette qu’on lui avait apportée. </p>
+        <p> Un garçon faisait de la charpie. </p>
+        <p> Pour stériliser tout germe, tout microbe, Mlle de Rastignac trempa bande et charpie dans du wisky, lava la plaie et la pansa, comme eut pu le faire un habile infirmier. </p>
+        <p> Mme Jellalich avait repris ses sens. </p>
+        <p> – Ma chère, lui dit la petite comtesse, c’est fini. </p>
+        <p> » Et vraiment ce n’est rien. </p>
+        <p> » Le chirurgien répond du blessé. </p>
+        <p> » Mais fouillez les bagages de votre mari et rapportez-lui une chemise et un veston; la balle a traversé les manches de l’un et de l’autre. </p>
+        <p> » Pour ce changement de linge, le restaurant vous prêtera un cabinet, un coin quelconque; allez vite. </p>
+        <p> » Mais allez donc. </p>
+        <p> » Ce n’est pas le moment de faire du sentiment, il faut agir. </p>
+        <p> La petite Viennoise protesta. </p>
+        <p> – Les Parisiennes, dit-elle, n’ont vraiment pas de cœur. </p>
+        <p> – Quand il faut des jambes! </p>
+        <p> » Allez vite chercher ce que je vous demande, vous vous attendrirez après comme et autant que vous voudrez. </p>
+        <p> Mme Jellalich était froissée dans le plus profond de son être. </p>
+        <p> Mais elle obéit. </p>
+        <p> La petite comtesse se mit à rire. </p>
+        <p> – Si je ne l’avais pas un peu secouée, dit-elle, nous aurions eu une scène d’effusion ridicule; elle ne se doute pas du service que je lui ai rendu. </p>
+        <p> Elle jeta sur les épaules de Jellalich sa jaquette trouée. </p>
+        <p> – Vous n’avez plus besoin de moi! fit-elle. </p>
+        <p> » Je vais voir mon père. </p>
+        <p> Et elle s’en alla en disant: </p>
+        <p> – Quatre duels! </p>
+        <p> » Quatre morts! </p>
+        <p> » Oh! mince alors! </p>
+        <p> » Et j’ai raté la scène. </p>
+        <p> » Aussi vais-je en faire une à papa pour ne pas m’avoir prévenue. </p>
+        <p> Drôle de fille tout de même. </p>
+        <p> Le restaurateur et les garçons en étaient épatés. </p>
+        <p> Elle leur donnait une crâne idée des Parisiennes! </p>
+      </div>
+      <div title="CHAPITRE VIII APRÈS L’AFFAIRE" type="chapter">
+        <head> CHAPITRE VIII </head>
+        <lb/>
+        <p> – Monsieur le comte! </p>
+        <p> C’était Paddy qui tirait M. de Rastignac par la manche. </p>
+        <p> Il l’entraîna à une table, fit servir deux verres de wisky, en but un et dit: </p>
+        <p> – Ça fait du bien, après une affaire. </p>
+        <p> Puis il demanda: </p>
+        <p> – Avez-vous réfléchi aux suites?… </p>
+        <p> – Ma foi non. </p>
+        <p> – Arrestation en arrivant à Winipeg, instruction, jury composé des gros de la ville; monsieur le comte, nous courons de gros risques, car les morts ont des familles influentes. </p>
+        <p> » Le duel est défendu. </p>
+        <p> – Ah diable! </p>
+        <p> » Et le temps qui passe. </p>
+        <p> » Et l’hiver qui arrive. </p>
+        <p> » Et le Mackensie qui va s’embâcler  (4)  et devenir innavigable! </p>
+        <p> – Je propose de descendre le plus tôt possible entre deux stations. </p>
+        <p> » Nous gagnerons une tribu indienne à laquelle nous achèterons des chevaux. </p>
+        <p> » Et, bien montés, nous rejoindrons, au-dessus de Winipeg, notre vapeur. </p>
+        <p> » Nous dépêcherons un courrier au capitaine qui quittera la ville et nous attendra à un point qu’il indiquera sur le lac. </p>
+        <p> » Nous embarquerons et nous n’aurons rien à démêler avec la police et les autorités de la bonne ville de Winipeg. </p>
+        <p> – Vous parlez d’or. </p>
+        <p> » Mais nos bagages? </p>
+        <p> – Le chef du train, en lui graissant la patte, les fera conduire sans rien dire à bord de notre vapeur. </p>
+        <p> » Vous les retrouverez là. </p>
+        <p> – Et ces dames? </p>
+        <p> – Elles savent mettre un pied devant l’autre, je suppose. </p>
+        <p> » Une femme qui danserait toute une nuit marchera bien tout un jour. </p>
+        <p> » Du reste, je les ménagerai. </p>
+        <p> – Très bien! Vous serez notre guide. </p>
+        <p> » Mais voilà un duel qui doit changer le cours de vos projets? </p>
+        <p> – Pour le moment, je n’ai qu’un projet: éviter le procès. </p>
+        <p> » Après… je verrai… </p>
+        <p> – Si vous voulez, je vous engage à notre service, à frais communs. </p>
+        <p> – Vous allez au pôle? </p>
+        <p> – Oui. </p>
+        <p> – À ces fameux hôtels dont on commence à tant parler. </p>
+        <p> – Oui! </p>
+        <p> – Combien m’offrez-vous? </p>
+        <p> – Faites votre prix. </p>
+        <p> – Trente dollars par mois. </p>
+        <p> – Vous en aurez cent. </p>
+        <p> – Alors, monsieur le comte, marché conclu: topez là! </p>
+        <p> Il tendit la main. </p>
+        <p> Le comte topa sans façon. </p>
+        <p> – Et maintenant, dit Paddy, je vais traiter l’affaire avec le chef de train. </p>
+        <p> » Il faut qu’il nous dépose entre deux stations, d’accord avec le mécanicien. </p>
+        <p> » Carte blanche, n’est-ce pas? </p>
+        <p> – Oh! certainement. </p>
+        <p> – Eh bien, vous allez voir. </p>
+        <p> » Attendez-moi là. </p>
+        <p> » Je ramène le chef de train pour discuter l’affaire. </p>
+        <p> » Videz donc votre verre et commandez-en trois autres. </p>
+        <p> – Je les commanderai, mais je ne bois pas volontiers entre mes repas. </p>
+        <p> – Bonne habitude pour ceux qui peuvent en profiter, comme je vais faire. </p>
+        <p> » Vous permettez? </p>
+        <p> Et il vida le verre. </p>
+        <p> Le comte en sourit. </p>
+        <p> – Ce Paddy, murmura-t-il, en l’absence du trappeur, n’est peut-être pas un modèle de sobriété. </p>
+        <p> » Mais quel débrouillard! </p>
+        <p> » Je crois que nous avons fait une bonne acquisition. </p>
+        <p> » Il a bien le droit d’être ivrogne, puisqu’il est Irlandais. </p>
+      </div>
+      <div title="CHAPITRE IX UN TYPE DE « YANKEE »" type="chapter">
+        <head> CHAPITRE IX </head>
+        <lb/>
+        <p> Paddy revint avec le chef de train, un Yankee, c’est-à-dire un vrai descendant des premiers colons anglais. </p>
+        <p> Ces gens-là sont les êtres les plus fourbes; les plus hypocrites, les plus escrocs qui existent de par le monde. </p>
+        <p> Je n’aime pas les Anglais, je ne m’en suis jamais caché. </p>
+        <p> Mais les Yankees. </p>
+        <p> Pas de pareils gredins sous la calotte des cieux, mais gredins avec beaucoup de dignité et de décorum. </p>
+        <p> Ici, j’ouvre une parenthèse. </p>
+        <p> Ne pas confondre Américains et Yankees qui ne sont qu’une fraction parmi les races dont les États-Unis sont peuplés. </p>
+        <p> Ainsi il y a là-bas beaucoup d’Allemands et de descendants d’Allemands. </p>
+        <p> Bonnes gens! </p>
+        <p> Il y a aussi des Irlandais et des descendants d’Irlandais. </p>
+        <p> Braves gens! </p>
+        <p> Mais catholiques fanatiques. </p>
+        <p> Je passe sur les éléments français, espagnols, italiens, suisses, suédois, norvégiens, etc. </p>
+        <p> Le Yankee vit au milieu de toutes ces nationalités, ne se mêle pas, reste sur une hautaine réserve et exploite tout le monde. </p>
+        <p> Les juifs sont bien habiles! </p>
+        <p> Ils se plaignent beaucoup des Yankees. </p>
+        <p> Bel homme, ce chef de train. </p>
+        <p> Propre, raide, tiré à quatre épingles, marchant avec une orgueilleuse assurance, la tête comme perdue dans les hauteurs vertigineuses d’un sublime orgueil. </p>
+        <p> C’est une pose pour en imposer aux imbéciles, aux niais. </p>
+        <p> Ils y coupent. </p>
+        <p> Master Blaknett salua le comte avec une politesse affectée. </p>
+        <p> – Vous m’avez, dit-il, invité à prendre un verre de wisky avec vous? </p>
+        <p> – Oui, monsieur. </p>
+        <p> Master Blaknett s’assit. </p>
+        <p> – Je suppose, fit-il, après avoir levé son verre pour saluer le comte et l’avoir vidé, je calcule, je suppute que ce n’est pas pour le plaisir de me faire une politesse que vous m’avez invité, monsieur le comte. </p>
+        <p> » Vous avez à causer avec moi. </p>
+        <p> » Votre affaire est grave. </p>
+        <p> » Et si quelque combinaison ingénieuse ne vous en tire pas, vous pourrez attraper une très forte condamnation avec travail obligatoire. </p>
+        <p> » Triste! </p>
+        <p> » Très triste pour un gentilhomme. </p>
+        <p> » Pénible! </p>
+        <p> » Très pénible. </p>
+        <p> » Prêt à vous écouter. </p>
+        <p> – Monsieur, étant très peu au courant des hommes et des choses de ce pays, je crois intelligent et convenable de laisser traiter l’affaire par Paddy, qui y est intéressé. </p>
+        <p> – L’affaire? </p>
+        <p> » C’est donc une affaire. </p>
+        <p> » J’espère bien que l’on ne va rien me proposer de contraire à mon service. </p>
+        <p> » Pour rien au monde, je ne voudrais transiger avec les règles de la probité. </p>
+        <p> Paddy, brusquement: </p>
+        <p> – Il ne s’agit pas de faire des phrases. </p>
+        <p> » Tout a un prix sur la terre. </p>
+        <p> » Que vaut-elle votre probité? </p>
+        <p> » Pas bien cher. </p>
+        <p> Le Yankee se leva. </p>
+        <p> Paddy ne fit aucun effort pour le retenir; mais master Blacknett ne s’en alla pas. </p>
+        <p> – J’aurais aimé, dit-il, savoir ce que l’on attend de moi. </p>
+        <p> – Alors, asseyez-vous. </p>
+        <p> Et Paddy expose la chose. </p>
+        <p> – Mais, messieurs, ce que vous me proposez, c’est une complicité dans votre fuite. </p>
+        <p> » Avez-vous bien pesé ce qui s’en suivrait pour moi? </p>
+        <p> » Pour le moins la destitution. </p>
+        <p> » Et puis, messieurs, mon honneur… </p>
+        <p> – Mettons cent dollars pour votre honneur, master Blacknett. </p>
+        <p> – Cent dollars! </p>
+        <p> » On voit, Paddy, que vous êtes un trappeur habitué à fréquenter des petites gens. </p>
+        <p> » À vrai dire, c’est à cinquante dollars que vous évaluez mon honneur. </p>
+        <p> » Car, enfin, il faut que je partage par moitié avec le mécanicien. </p>
+        <p> » Que dis-je? </p>
+        <p> » Ce n’est même pas cinquante, c’est quarante, c’est même trente, en comptant toutes les pattes qu’il faudra graisser avec de l’or. </p>
+        <p> » Paddy, moi seul suis seul juge de ce que vaut mon honneur. </p>
+        <p> » En cette circonstance, je l’estime mille dollars. </p>
+        <p> » Pas un de moins. </p>
+        <p> – Farceur! </p>
+        <p> – Paddy, à l’idée de forfaire à l’honneur, de faillir à mes devoirs, de tremper dans un quadruple meurtre, je frémis d’indignation et de terreur. </p>
+        <p> – Et si ce n’était pas pour sauver ce gentleman français qui porte un si beau nom, pour cent mille dollars je ne vous entendrais pas. </p>
+        <p> » Mais enfin, ça me fend le cœur de penser que le comte de… de… un très beau nom… de Castignac… voilà que ça me revient, qu’un représentant de la famille des Castignac porterait la livrée de la prison. </p>
+        <p> » Aussi je me contenterais de mille dollars. </p>
+        <p> Le comte prit la parole. </p>
+        <p> – M. Blacknett, dit-il, je vous remercie de l’intérêt que vous me portez. </p>
+        <p> » Mais votre cas n’est pas pendable. </p>
+        <p> » D’abord nous ne serions pas jugés à Winipeg, où nous n’étions pas arrivés quand les duels ont eu lieu. </p>
+        <p> » Du reste, je récuserais le jury de Winipeg, ce serait mon droit, comme suspect de partialité. </p>
+        <p> » Mais à l’instant où je vous parle, sur quel territoire sommes-nous, encore? </p>
+        <p> » Sur celui des États-Unis. </p>
+        <p> » Et un jury américain nous acquittera toujours haut la main. </p>
+        <p> » On n’aime pas les Canadiens chez les Yankees, vous le savez. </p>
+        <p> » Mais pour éviter ennuis, retards, désagréments, je vous donne cinq cents dollars. </p>
+        <p> » Et je vous en compte sur-le-champ la moitié; l’autre moitié avant de quitter le train, ça vous va-t-il? </p>
+        <p> – C’est peu pour l’honneur d’un homme comme moi. </p>
+        <p> » Mais si vous mettez six cent cinquante dollars, j’accepte. </p>
+        <p> Le comte fit semblant d’hésiter, de calculer, de ne pas se décider. </p>
+        <p> Enfin, il dit: </p>
+        <p> – Soit! </p>
+        <p> » Marché fait! </p>
+        <p> – Ah! vous ne payez pas cher l’honneur d’un homme comme moi. </p>
+        <p> » Enfin! c’est dit. </p>
+        <p> » Le mécanicien trouvera qu’il y a quelque chose de dérangé à la machine; il stoppera; on donnera quelques coups de marteau retentissants; vous sauterez sur la voie et vous détalerez. </p>
+        <p> » Personne ne courra après vous, car le mécanicien sifflera et le train démarrera tout aussitôt que vous serez à terre. </p>
+        <p> Paddy se dit en lui-même que le comte n’était pas bête du tout pour un comte, car il s’imaginait qu’un gentilhomme ne savait pas arranger ses affaires. </p>
+        <p> Le comte reprit: </p>
+        <p> – Autre question? </p>
+        <p> » Nos bagages? </p>
+        <p> » D’abord nous n’y laisserons aucun bijou, rien qui soit d’une grande valeur. </p>
+        <p> » Les dames emporteront même leurs dentelles; c’est si léger à porter! </p>
+        <p> » Et puis elles ont à emporter pour le pôle des toilettes très simples. </p>
+        <p> » Mais enfin il faut bien que ces bagages soient portés à bord de la Tortue , qui nous attend dans le port de Winipeg. </p>
+        <p> » Je vais vous donner un bon pour cinquante dollars que le capitaine de la Tortue vous comptera en échange de nos malles. </p>
+        <p> Rien de plus injurieux que cette précaution, mais Blacknett dit imperturbablement: </p>
+        <p> – Votre confiance en moi pour la remise de vos bagages à bord de la Tortue m’honore et je vous remercie de me la témoigner. </p>
+        <p> » Faites le bon pour le capitaine. </p>
+        <p> Le comte fit ce bon, plus une lettre très courte, mais très nette. </p>
+        <p> – Voilà! fit-il. </p>
+        <p> Puis il compta les billets et les remit à master Blacknett qui se retira avec autant de dignité que s’il ne venait pas de vendre son honneur! </p>
+        <p> – Quelle canaille! dit Paddy. </p>
+        <p> – Peuh! fit le comte. </p>
+        <p> » Après tout, ça n’est pas très cher. </p>
+        <p> – Il ne donnera pas plus de cent dollars au mécanicien. </p>
+        <p> – C’est son affaire. </p>
+        <p> – Il distribuera cinquante dollars à ses sous-ordres et il prétendra n’en garder que cent pour lui-même. </p>
+        <p> – Qu’est-ce que ça nous fait? </p>
+        <p> – Ça me met en colère. </p>
+        <p> » Ces Yankees roulent tout le monde. </p>
+        <p> – Pas celui-là! </p>
+        <p> » J’aurais été jusqu’à deux et même trois mille dollars. </p>
+        <p> » Il croyait nous tenir par la crainte du jury de Winipeg et je l’ai démonté en lui prouvant que je m’en moquais. </p>
+        <p> » Mais il nous tenait quand même. </p>
+        <p> » L’hiver approche. </p>
+        <p> » Je ne peux pas perdre de temps. </p>
+        <p> » Or, comme rien ne m’amuse plus que de faire naître d’amers regrets dans l’âme d’un filou, quand nous aurons atteint la Tortue , je remettrai à son capitaine une lettre pour master Blacknett, ou, ce qui sera mieux encore, je vous dicterai cette lettre. </p>
+        <p> » Nous nous moquerons de lui de la façon la plus ironique. </p>
+        <p> Paddy se frottant les mains: </p>
+        <p> – Ça me va! </p>
+        <p> » Ça me va! </p>
+        <p> » Dieu me damne, monsieur le comte, si vous n’êtes pas aussi malin qu’un singe. </p>
+        <p> – Merci de la comparaison, Paddy; elle n’est plus déshonorante depuis que Darwin et Littré nous font descendre du chimpanzé. </p>
+        <p> Se levant: </p>
+        <p> – Allons faire nos préparatifs! </p>
+        <p> – Les miens ne seront pas longs. </p>
+        <p> » Paddy, nous avons des fusils américains à répétition, dernier modèle. </p>
+        <p> » Je vous en donne un. </p>
+        <p> » Et, comme vous tenez sans doute à votre grand rifle, démontez-le, je le mettrai dans mi-malle et vous l’y retrouverez. </p>
+        <p> – Monsieur le comte, merci. </p>
+        <p> » Paddy vous revaudra vos bonnes attentions. </p>
+        <p> Ils vaquèrent à leurs affaires. </p>
+        <p> Une heure après, arrêt brusque. </p>
+        <p> Comédie de l’avarie à la machine, fugue des vainqueurs et des dames, y compris Petit-Jaguar et sa femme. </p>
+        <p> Dans le train, cris des uns, amis des morts, rires des autres. </p>
+        <p> Coup de sifflet! </p>
+        <p> Remise en route. </p>
+        <p> Disparition du train dans le lointain! </p>
+        <p> Le tour était joué. </p>
+      </div>
+      <div title="CHAPITREXCHEZ LES CORBEAUX" type="chapter">
+        <head> CHAPITRE X </head>
+        <lb/>
+        <p> La petite troupe se mit en marche. </p>
+        <p> Les hommes portaient: </p>
+        <p> 1° Les bijoux. </p>
+        <p> 2° Quelques dentelles de grande valeur, des chaussettes, des bas, des chemises (ceci sur la recommandation de Paddy). </p>
+        <p> 3° Du savon. </p>
+        <p> 4° Du sel et du poivre. </p>
+        <p> 5° Du pain. </p>
+        <p> De telle façon que chacun d’eux avait un assez lourd paquet. </p>
+        <p> Les femmes ne portaient que leurs fusils et leurs cartouchières. </p>
+        <p> Comme elles s’étaient exercées au tir pendant la traversée, elles savaient se servir de leur arme avec assez d’adresse. </p>
+        <p> Mme Jellalich, elle-même, pour plaire à son mari, avait fait du zèle et elle tirait fort juste. </p>
+        <p> Elle se mit courageusement en marche. </p>
+        <p> Paddy prit la tête avec le comte. </p>
+        <p> – Nous allons, dit-il, trouver non loin d’ici quelque village indien. </p>
+        <p> » Nous aurons affaire à des Corbeaux. </p>
+        <p> » Ils sont connus. </p>
+        <p> » C’est de la canaille. </p>
+        <p> » Nous nous arrêterons à mille pas de leurs wigwams, sans leur permettre d’approcher de nous et nous leur enverrons Petit-Jaguar pour traiter avec eux. </p>
+        <p> – Très bien! </p>
+        <p> Après une bonne heure de marche, on aperçut une trentaine de tentes. </p>
+        <p> – Ah! fit Paddy, voilà des nids de Corbeaux! </p>
+        <p> » Nous allons avoir des chevaux. </p>
+        <p> Il avait longuement causé avec Petit-Jaguar et lui avait donné ses instructions. </p>
+        <p> Le Delaware partit avec sa femme, ayant, lui, un mouchoir blanc au bout de la baguette de son fusil. </p>
+        <p> Les Corbeaux sortis des tentes l’attendaient armés de lances. </p>
+        <p> Petit-Jaguar leur cria: </p>
+        <p> – Je suis le messager de bonheur et le porte-chance . </p>
+        <p> » On m’envoie vous dire que vous pouvez gagner de l’argent. </p>
+        <p> » Oui, beaucoup d’argent. </p>
+        <p> » Ceux qui m’envoient veulent des chevaux, des mocassins, des peaux pour se coucher dessus, des fourrures pour se couvrir pendant la nuit, de la viande fumée. </p>
+        <p> » Vous serez bien payés. </p>
+        <p> – Avance! dit le sachem. </p>
+        <p> Petit-Jaguar s’approcha. </p>
+        <p> Il salua le sachem, les guerriers, puis il dit: </p>
+        <p> – Corbeaux, mes frères indiens, les blancs qui sont là-bas se défient de vous, parce que vous êtes de braves guerriers, connus pour être de redoutables coupeurs de route. </p>
+        <p> » Si vous vouliez avancer en nombre, les blancs, qui sont armés de fusils inépuisables , tireraient sur vous. </p>
+        <p> Petit-Jaguar dit: </p>
+        <p> – Vous allez voir la puissance de cette arme terrible. </p>
+        <p> Devant les Corbeaux émerveillés, il tira, coup sur coup, dix balles en dix secondes, sur le poteau de la torture dressé à l’entrée du village, le criblant de balles explosibles. </p>
+        <p> Le vieil arbre ébranché fut coupé en deux et le haut tomba. </p>
+        <p> Les Corbeaux se sentirent intimidés. </p>
+        <p> – Comptez neuf fusils comme ça et dix-huit revolvers tirant vingt-quatre balles sans être rechargés. </p>
+        <p> » Et si vous osez, attaquez les blancs. </p>
+        <p> Le sachem dit: </p>
+        <p> – Tu nous annonces que nous allons nous enrichir et tu nous menaces. </p>
+        <p> – Corbeaux, je vous avertis. </p>
+        <p> » C’est la paix et de l’argent ou la guerre et du sang. </p>
+        <p> » Si vous consentez à accepter mes propositions, ce sera la paix. </p>
+        <p> » Amenez-moi douze beaux, et bons mustangs, je les achèterai. </p>
+        <p> » Six jeunes gens, sans armes, les conduiront aux blancs, chargés des objets que vous m’aurez vendus. </p>
+        <p> » Je resterai avec vous jusqu’au retour de vos jeunes gens. </p>
+        <p> » Ma femme les accompagnera pour dire le prix convenu. </p>
+        <p> Le sachem réfléchit, consulta ses guerriers du regard et dit: </p>
+        <p> – Och! </p>
+        <p> » Essayons de nous entendre. </p>
+        <p> Il donna des ordres. </p>
+        <p> Les jeunes gens amenèrent des chevaux; mais, après un dédaigneux examen, Petit-Jaguar dit avec mépris: </p>
+        <p> – Non! Pas ceux-là! </p>
+        <p> » Ils ne valent que le prix de leurs peaux et sont bons tout au plus à porter vos tentes quand vous êtes en route. </p>
+        <p> » Montrez-moi des mustangs. </p>
+        <p> Le chef en passa par où voulut Petit-Jaguar. </p>
+        <p> Celui-ci acheta les douze chevaux, tout ce dont ses maîtres avaient besoin, puis les jeunes gens conduisirent les mustangs aux blancs, accompagnés d’un Corbeau qui connaissait la valeur des dollars et des guinées. </p>
+        <p> Tout se passa très bien. </p>
+        <p> Petit-Jaguar rejoignit ses maîtres et la petite caravane se remit en route. </p>
+      </div>
+      <div title="CHAPITRE XI COMPLOT" type="chapter">
+        <head> CHAPITRE XI </head>
+        <lb/>
+        <p> Quand Petit-Jaguar fut parti, le vieux Corbeau, qui avait accompagné les jeunes gens et qui avait vécu à Winipeg, où il avait appris bien des choses, dit au sachem: </p>
+        <p> – Ces blancs sont très riches. </p>
+        <p> Le sachem vivement: </p>
+        <p> – Ils ont beaucoup d’or. </p>
+        <p> – Beaucoup. </p>
+        <p> » Mais ils ont aussi beaucoup, beaucoup de bank-notes. </p>
+        <p> Le sachem secoua la tête. </p>
+        <p> – J’aimerais mieux de l’or. </p>
+        <p> Le vieux Corbeau riant: </p>
+        <p> – Tu es ignorant. </p>
+        <p> » Tu te défies du papier. </p>
+        <p> » Mais les changeurs de Winipeg donnent de l’or contre ces papiers-là. </p>
+        <p> – Je le sais, puisque je suis allé à la ville avec toi et que j’y ai échangé contre des guinées des papiers trouvés sur les deux marchands de bois que nous avons tués. </p>
+        <p> » Mais je ne sais pas lire la valeur de ces papiers. </p>
+        <p> Le vieux Corbeau: </p>
+        <p> – Moi non plus, je ne sais pas lire. </p>
+        <p> » Mais on regarde ces papiers à contre-jour et on voit les dessins. </p>
+        <p> » Chaque dessin indique la valeur. </p>
+        <p> – Enfin, dit le sachem, ces gens-là sont très riches. </p>
+        <p> – Oui. </p>
+        <p> » Et il n’y a que six hommes. </p>
+        <p> – Mais ils ont des fusils inépuisables. </p>
+        <p> – Qu’importe, si nous les fusillons d’un endroit où nous serons abrités. </p>
+        <p> » Est-ce que nous ne nous embusquons pas toujours pour tirer sur des voyageurs? </p>
+        <p> » Quand nous serons cinquante-quatre guerriers et braves à plat ventre dans des rochers à travers lesquels la caravane défilera, est-ce que les six hommes recevant un feu de cinquante quatre fusils, ne seront pas tués? </p>
+        <p> – Et leurs balles? </p>
+        <p> – Elles frapperont les rochers, mais non pas nous, couverts par eux. </p>
+        <p> – Och! och! s’écria le sachem. </p>
+        <p> » Tu dis vrai! </p>
+        <p> » Tu es une tête! </p>
+        <p> » Mais tu n’es pas un bras. </p>
+        <p> » Dire que tu n’as jamais pris un scalp et que tu n’es pas un guerrier! </p>
+        <p> Lé vieux Corbeau: </p>
+        <p> – À quoi bon? </p>
+        <p> » Je vais passer l’hiver à Winipeg et j’y gagne beaucoup d’argent. </p>
+        <p> » Je viens ici pendant l’été et, par ma science, je vous force à me nourrir et à me faire des cadeaux. </p>
+        <p> » Je ne suis pas votre sorcier, parce que je ne veux pas me soumettre aux épreuves qui me feraient souffrir inutilement. </p>
+        <p> » Et à quoi bon? </p>
+        <p> » Est-ce que je ne suis pas plus sorcier que les sorciers? </p>
+        <p> » Est-ce que les sorciers des autres tribus ne viennent pas me consulter? </p>
+        <p> » Est-ce que l’on ne me demande pas dans toutes les tribus? </p>
+        <p> » Je suis la gloire de celle-ci. </p>
+        <p> – Mais tu es lâche. </p>
+        <p> – Non. </p>
+        <p> – Tu ne fais jamais expédition avec nous et tu as peur des balles. </p>
+        <p> – Je n’ai pas peur. </p>
+        <p> » S’il le fallait, je risquerais ma peau comme vous pour la nourrir. </p>
+        <p> » Vous vous battez pour dépouiller les voyageurs de leurs richesses. </p>
+        <p> » Mais, moi, je n’ai pas besoin de ça pour vivre heureux. </p>
+        <p> » Si tu étais sûr de bien vivre, comme moi, sans te battre, tu ne te battrais pas. </p>
+        <p> Le sachem hocha la tête et dit: </p>
+        <p> – N’importe! </p>
+        <p> » Tu n’as pas l’honneur d’être un guerrier et tu n’as pas de scalp. </p>
+        <p> Le vieux Corbeau se mit à rire. </p>
+        <p> – Les blancs, dit-il, prouvent chaque jour aux Indiens qu’ils leur sont supérieurs, et les fils du Grand-Esprit ne peuvent lutter contre eux; notre race s’en va. </p>
+        <p> » Or, dis-moi, est-ce que les blancs ont des scalps à leurs chevilles et à leurs mollets? </p>
+        <p> » Est-ce que, à Winipeg, toi, avec tes quarante trois scalps, tu es considéré? </p>
+        <p> » Je le suis, sans scalps, bien plus que toi, sachem. </p>
+        <p> » On me dit: </p>
+        <p> » – Bonjour, Willy. </p>
+        <p> » Ils m’appellent ainsi. </p>
+        <p> » Beaucoup me serrent la main et me paient à boire. </p>
+        <p> » Te considèrent-ils? Non. </p>
+        <p> » Le blanc te regarde comme un être inutile et bon à rien. </p>
+        <p> » Moi, il m’emploie. </p>
+        <p> – Tu es leur domestique. </p>
+        <p> – Non. </p>
+        <p> » Si un travail me déplaît, je le refuse et personne ne peut m’obliger à le faire, personne, entends-tu, sachem. </p>
+        <p> » Si je balaie la neige avec ma squaw et mes enfants, c’est parce que l’on paie; si je fais des commissions, on me paie; si je fends du bois, si j’en scie, on paie encore, et quand je veux me reposer, je me repose et je bois de bons coups. </p>
+        <p> – Enfin, tu es la bête de somme des blancs, et c’est honteux. </p>
+        <p> – Chez les blancs, tout le monde travaille et c’est un honneur de travailler. </p>
+        <p> » Toi, sachem, tu regardes ça comme une honte; mais tu sais bien que ta tribu et toutes les autres disparaîtront. </p>
+        <p> » Compte! </p>
+        <p> » En ta jeunesse, nous étions un millier de guerriers, et nous sommes cinquante-trois! </p>
+        <p> » Dans vingt ans, il n’y aura pas trente guerriers. </p>
+        <p> » Pourquoi? </p>
+        <p> » Vous voulez vivre votre vie. </p>
+        <p> » Il faudrait vivre la vie des blancs. </p>
+        <p> Le vieux sachem leva la main et, dans une attitude superbe, dit: </p>
+        <p> – Plutôt mourir. </p>
+        <p> Le vieux Corbeau railleur: </p>
+        <p> – C’est ce que vous êtes tous en train de faire, sachem. </p>
+        <p> » Votre orgueil vous tue. </p>
+        <p> Puis, haussant les épaules: </p>
+        <p> – À quoi bon parler? </p>
+        <p> » Vos oreilles sont bouchées. </p>
+        <p> » Vos cœurs sont de pierre. </p>
+        <p> » Vos yeux ne voient pas. </p>
+        <p> Et, concluant: </p>
+        <p> – Enfin, laissons de côté cette querelle bien inutile. </p>
+        <p> » Convoque ton conseil. </p>
+        <p> » Vous verrez comment vous devez vous y prendre pour surprendre et tuer les blancs et faire grand butin. </p>
+        <p> – Comme toujours, tu ne te battras pas avec nous et tu voudras ta part. </p>
+        <p> – N’ai-je pas donné le bon conseil? </p>
+        <p> » Pourquoi la tête ne serait-elle point payée comme le bras? </p>
+        <p> Le sachem poussa un soupir. </p>
+        <p> Cette supériorité de l’indien frotté de civilisation l’écrasait, l’humiliait, l’irritait et il s’écria avec dépit: </p>
+        <p> – Quand nous aurons combattu, quand nous aurons, par notre courage, tué et dépouillé les blancs, tu te feras encore payer pour venir avec moi échanger les papiers à Winipeg contre de l’or et de l’argent. </p>
+        <p> – Certainement. </p>
+        <p> – Et tu n’auras pas honte de recevoir une part sans t’être battu. </p>
+        <p> – Je m’en ferai un mérite. </p>
+        <p> » Vous faire battre pour que je gagne de l’argent sans risquer ma peau, c’est une preuve que vous êtes des bêtes et moi un intelligent. </p>
+        <p> Il s’en alla en ricanant. </p>
+        <p> Le vieux sachem caressait fiévreusement le manche de son tomahawk  (5)  . </p>
+        <p> Si le Vieux-Corbeau avait continué, le sachem n’aurait pu maîtriser sa colère et il lui aurait fendu la tête. </p>
+        <p> Mais le Vieux-Corbeau savait quand il était temps de s’arrêter. </p>
+        <p> Le sachem cependant tint conseil et toutes les mesures à prendre pour l’embuscade furent arrêtées après une longue, sage et complète discussion, comme les guerriers indiens ont coutume d’en faire. </p>
+        <p> Deux heures après, ils partaient! </p>
+        <p> Un grand danger planait sur la petite caravane de M. de Rastignac. </p>
+        <p> Cinquante-quatre balles, bien ajustées au posé, c’était la foudre tombant sur six hommes et pouvant s’égarer sur quatre femmes! </p>
+      </div>
+      <div title="CHAPITRE XII EN MARCHE" type="chapter">
+        <head> CHAPITRE XII </head>
+        <lb/>
+        <p> Ils allaient très gaiement, les Parisiens. </p>
+        <p> Et les Parisiennes? </p>
+        <p> Très rieuses. </p>
+        <p> C’était amusant en somme. </p>
+        <p> On faisait étape. </p>
+        <p> On faisait grande halte. </p>
+        <p> On bivouaquait. </p>
+        <p> Très agréable, le bivac. </p>
+        <p> On allumait les feux. </p>
+        <p> Le gibier tué en route fournissait rôtis, grillades et viandes cuites au four caraïbe. </p>
+        <p> Petit-Jaguar, sa femme et Paddy connaissaient et recueillaient des haies, des fruits sauvages, des pointes, des cœurs d’arbustes ou de plantes, des herbes aromatiques ou comestibles, genre épinards, des feuilles mêmes. </p>
+        <p> Grâce à Paddy, on avait emporté du pain, du sel, du poivre. </p>
+        <p> On cuisinait très finement. </p>
+        <p> Car, avec de la graisse de différents oiseaux, on accommodait des plats exquis. </p>
+        <p> Petit-Jaguar et sa femme avaient leurs recettes. </p>
+        <p> Excellentes. </p>
+        <p> Paddy avait les siennes. </p>
+        <p> Parfaites. </p>
+        <p> On avait pêché des tortues au bord d’une rivière et on avait de cette graisse verte si estimée de cet animal. </p>
+        <p> Aussi faisait-on de délicieuses omelettes avec cette graisse et des œufs de canards, d’oies, de cygnes, de tortues, d’autres oiseaux et de gros serpents. </p>
+        <p> Les serpents eux-mêmes fournissaient des grillades très délicates. </p>
+        <p> On avait du rhum. </p>
+        <p> Paddy avait recommandé de ne pas l’oublier. </p>
+        <p> Et du sucre. </p>
+        <p> On faisait des grogs. </p>
+        <p> Quant à la petite comtesse, elle faisait des mots qui amusaient tout le monde et l’on riait beaucoup le soir autour des feux. </p>
+        <p> Qu’on le croie bien, une pareille vie a son charme. </p>
+        <p> On respire un air si pur, des parfums terrestres si doux, on se sent si libres, si loin des règles conventionnelles qui étranglent les habitants des villes, on se sent si à l’aise que l’on est heureux. </p>
+        <p> Et l’on trouve que l’on mange bien meilleur qu’en ville. </p>
+        <p> Pourquoi? </p>
+        <p> Je me le suis expliqué. </p>
+        <p> Je me suis aperçu que le pain en forêt prenait un goût particulier. </p>
+        <p> Je ne pouvais en attribuer la cause au pain lui-même. </p>
+        <p> Donc, il fallait la chercher dans le palais, dans le sens du goût animé par l’air oxygéné des sous-bois. </p>
+        <p> Les arbres, dans le jour, expirent de l’oxygène; l’air s’en trouve suroxygéné. </p>
+        <p> De là, une puissance de vie plus grande pour celui qui respire cet air. </p>
+        <p> Et, comme la bouche est balayée par cet air là, elle est surexcitée. </p>
+        <p> Puis il y a une autre cause. </p>
+        <p> Un surappétit causé par la marche. </p>
+        <p> Le chasseur millionnaire déclare que personne ne fait une omelette au lard comme la femme de son garde. </p>
+        <p> Il demande à son, chef ou à sa cuisinière une omelette au lard « comme à la campagne »; mais il ne trouve jamais « que c’est ça! » sans se rendre compte que l’air suroxygéné et cinq heures de marche ont aiguisé son appétit. </p>
+        <p> Mais il n’y a pas, dans la marche en plein air, que « les vains plaisirs de boire et de manger, » comme dit la chanson du Petit Ébéniste. </p>
+        <p> On a le sentiment que l’on est plus homme, plus près de la nature, plus près de l’état primitif. </p>
+        <p> On sent qu’on se relève de l’état de dégradation physique où la civilisation à outrance nous a fait descendre. </p>
+        <p> On redevient un peu le fier sauvage des premiers temps. </p>
+        <p> L’humanité reprend ses droits. </p>
+        <p> Et la femme ou, ce qui est plus vrai, la dame ressent ce changement plus que l’homme encore, car la civilisation la déprime plus que nous. </p>
+        <p> Une dame? </p>
+        <p> Qu’est-ce? </p>
+        <p> À bien voir, une poupée. </p>
+        <p> S’habiller, apprendre à se tenir, à parler, dire ceci, non cela, rester sur la réserve, poser, toujours mentir par son attitude, masquer ses vrais sentiments, voilà ce que l’on appelle l’éducation des jeunes filles. </p>
+        <p> Très bien, pour les sociétés policées. </p>
+        <p> Mais archi-faux si l’on se place au point de vue nature. </p>
+        <p> Aussi, quelle joie intime quand, par suite d’une aventure comme celle-ci, une femme du monde se sent transformée en femme, en vraie femme, vivant la vraie vie pour laquelle la nature l’a faite. </p>
+        <p> Et c’est ce qui était arrivé, au grand mécontentement de M. Désandré. </p>
+        <p> Que de fois il répéta: </p>
+        <p> – Ce n’est pas correct? </p>
+        <p> À sa femme même: </p>
+        <p> – Décidément, vous n’êtes plus correcte 1 </p>
+        <p> Mais on se moquait de la correction. </p>
+        <p> Lui; non! </p>
+        <p> La première fois qu’il dit à Paddy: </p>
+        <p> – On ne passe pas ainsi devant une dame, ce n’est pas correct. </p>
+        <p> Paddy le regarda étonné. </p>
+        <p> – Qu’est-ce que ça peut faire, demanda-t-il, à une dame que je passe devant elle en courant après mon chapeau qui s’est envolé et que le vent roule. </p>
+        <p> – Ça ne se fait pas. </p>
+        <p> – Si, puisque je le fais. </p>
+        <p> – C’est une impolitesse. </p>
+        <p> – À votre idée! </p>
+        <p> » Pas à la mienne. </p>
+        <p> Et Paddy s’en était allé se souciant fort peu d’être correct. </p>
+        <p> Et, comme M. Désandré l’assommait d’observations, il lui déclara: </p>
+        <p> – La correction, voyez-vous, je m’en f… iche, et si vous continuez à m’embêter avec ça, je vous déclare que je finirai par vous dire des choses désagréables. </p>
+        <p> » Cette gueuse de correction! </p>
+        <p> » Je m’assois dessus. </p>
+        <p> Paddy était furieux. </p>
+        <p> M. Désandré sentit qu’il fallait laisser le trappeur tranquille. </p>
+        <p> Un soir que la caravane était campée au pied d’une ceinture de rochers, on s’aperçut que ni Paddy, ni Petit-Jaguar n’étaient arrivés avec que les autres. </p>
+        <p> On ne s’en inquiéta pas beaucoup, parce que souvent ils chassaient. </p>
+        <p> Mais, à dix heures du soir, ils n’étaient pas encore rentrés. </p>
+        <p> On commença à craindre quelque fâcheux accident. </p>
+      </div>
+      <div title="CHAPITRE XIII LA PISTE" type="chapter">
+        <head> CHAPITRE XIII </head>
+        <lb/>
+        <p> Paddy et Petit-Jaguar, grands marcheurs devant l’Éternel, avaient coutume chaque jour de s’éloigner de la caravane en prenant à droite avant la grande halte et à gauche après, dans le but de chasser, croyait-on. </p>
+        <p> Ils chassaient. </p>
+        <p> Ils rapportaient du gibier. </p>
+        <p> Mais ils avaient une arrière-pensée. </p>
+        <p> Paddy, aussitôt après le marché passé avec les Corbeaux, avait dit à Petit-Jaguar: </p>
+        <p> – Les Corbeaux ne doutent pas que nos maîtres ne soient riches. </p>
+        <p> » Ils nous attaqueront. </p>
+        <p> – Ils ont peur de nos fusils. </p>
+        <p> Paddy, judicieusement: </p>
+        <p> – En plaine, oui. </p>
+        <p> » Mais embusqués, non. </p>
+        <p> Et Petit-Jaguar secouant la tête, dit: </p>
+        <p> – Cinquante fusils au moins! </p>
+        <p> » Master Paddy, ils attaqueront. </p>
+        <p> – Nous saurons bien, s’ils en ont l’envie. </p>
+        <p> – Comment? </p>
+        <p> – Ils gagneront, par un détour soit à droite, soit à gauche, les Roches-Roses. </p>
+        <p> – Oui! oui! </p>
+        <p> » C’est là qu’ils s’embusqueront. </p>
+        <p> – Nous pousserons chaque jour des reconnaissances pour trouver leur piste. </p>
+        <p> – Et nous la trouverons. </p>
+        <p> – Ne parle de rien. </p>
+        <p> » Inutile d’inquiéter les dames. </p>
+        <p> Petit-Jaguar se mit un doigt sur les lèvres pour montrer qu’il se tairait. </p>
+        <p> Et voilà pourquoi les deux chasseurs s’éloignaient systématiquement de la caravane. </p>
+        <p> Or, le quatrième jour, ils trouvèrent la piste et la suivirent. </p>
+        <p> C’était un jeu pour eux. </p>
+        <p> Mais arrivés au pied des Roches-Roses, ils n’avancèrent plus qu’avec une extrême prudence. </p>
+        <p> Un trappeur et un sauvage, en pareil cas, déploient des trésors de souplesse et de sagacité, il faut voir sans être vu. </p>
+        <p> Deux heures après, ayant fait à peine une lieue, ils arrivèrent au sommet des collines et ils virent un feu. </p>
+        <p> Autour, des chevaux et des sauvages, ceux-ci en train de manger. </p>
+        <p> Ils en savaient assez. </p>
+      </div>
+      <div title="CHAPITRE XIV RÉSOLUTION VIRILE" type="chapter">
+        <head> CHAPITRE XIV </head>
+        <lb/>
+        <p> On commençait à s’inquiéter au camp, quand les deux chasseurs revinrent. </p>
+        <p> Ils mouraient de faim. Paddy dit: </p>
+        <p> – Que personne ne se couche. </p>
+        <p> » Que l’on selle les chevaux. </p>
+        <p> » Nous mangerons et nous boirons à cheval. </p>
+        <p> – Qu’y a-t-il donc? </p>
+        <p> Il l’expliqua: </p>
+        <p> – Qu’allons-nous faire? </p>
+        <p> – Tourner les Roches-Roses. </p>
+        <p> – Et puis? </p>
+        <p> – Continuer notre voyage. </p>
+        <p> – Et les Corbeaux? </p>
+        <p> – Ils se morfondront à nous attendre. </p>
+        <p> Et de rire. </p>
+        <p> Mais Mlle de Rastignac se récria: </p>
+        <p> – Comment, nous pouvons surprendre et exterminer ces gens-là et nous ne le ferons pas? </p>
+        <p> » Que dirait Mlle de Pelhouer. </p>
+        <p> » Madame Desandré, qu’en pensez-vous? </p>
+        <p> – Comme vous. </p>
+        <p> » Ce sera très chic. </p>
+        <p> – Et vous, madame Jellalich? </p>
+        <p> – Moi… je veux bien… </p>
+        <p> – Papa, qu’en dis-tu? </p>
+        <p> – Ce que femme veut… </p>
+        <p> – Bravo! </p>
+        <p> » Tu consens. </p>
+        <p> » Vous aussi, Jellalich? </p>
+        <p> » Aussi M. Desandré? </p>
+        <p> » Tous alors. </p>
+        <p> » Unanimité touchante. </p>
+        <p> » À cheval. </p>
+        <p> Paddy à Petit-Jaguar: </p>
+        <p> – Quelle fille! </p>
+        <p> » Je ne me serais jamais imaginé ça d’une demoiselle de Paris! </p>
+        <p> La femme du Petit-Jaguar fit boire et manger le cheval de son mari et celui de l’Irlandais; puis elle leur frotta les jambes pour les délasser. </p>
+        <p> Quand les autres chevaux furent prêts, quand ceux qui étaient porteurs furent chargés; tout le monde se mit en selle. </p>
+        <p> On jeta beaucoup de bois sur le feu et l’on se mit en route. </p>
+      </div>
+      <div title="CHAPITRE XV SURPRISE MATINALE" type="chapter">
+        <head> CHAPITRE XV </head>
+        <lb/>
+        <p> Vint le jour, on arriva au pied des Roches-Roses que l’on escalada facilement. </p>
+        <p> L’aube n’avait pas blanchi l’horizon que l’on arrivait à l’observatoire d’où les deux éclaireurs avaient vu les Corbeaux. </p>
+        <p> Ils étaient là. Tous endormis. Leur feu se mourait. </p>
+        <p> Les voyageurs mirent leurs chevaux à l’attache dans un creux, enroulant les brides sans gourmettes à des arbustes, puis ils descendirent sans bruit vers les Indiens. </p>
+        <p> La petite comtesse ne se possédait pas de joie. </p>
+        <p> Elle ne paraîtrait pas comme une novice d’armes devant Mlle de Pelhouer; elle aurait fait ses preuves. </p>
+        <p> Aussi, marchait-elle résolument. </p>
+        <p> Mme Jellalich, ne voulant pas paraître faible devant son mari, dominait son émotion et marchait aussi résolument. </p>
+        <p> Quant à Mme Désandré, elle était superbe de… correction. </p>
+        <p> Il y avait de la rosée. </p>
+        <p> La brave dame relevait sa robe de sa main gauche, comme si elle se fût promenée dans les allées du Bois de Boulogne et elle se balançait avec une grâce, très élégante qu’admira son mari. </p>
+        <p> – Elle est magnifique de correction! murmurait-il avec admiration. </p>
+        <p> On arriva à quatre cents pas du bivac et pas un Indien ne bougea. </p>
+        <p> Le jour pointait. </p>
+        <p> L’aube filtra ses clartés blafardes sur le sol et, peu à peu, chaque corps des dormeurs se dessina en plein relief. </p>
+        <p> Paddy avait pris le commandement et il ordonna: </p>
+        <p> – Genou à terre! </p>
+        <p> » Les revolvers près du genou. </p>
+        <p> » N’oubliez pas de dégager la baguette de sûreté. </p>
+        <p> » Feu à mon commandement. </p>
+        <p> On exécuta ses ordres. </p>
+        <p> Tout à coup un Indien se leva et, sur son sifflet de guerre, il sonna l’éveil. </p>
+        <p> – Ça va bien! dit Paddy. </p>
+        <p> » J’aime mieux les tirer debout. </p>
+        <p> Et il commanda: </p>
+        <p> – Feu à volonté! </p>
+        <p> La fusillade roula, déchirant de la toile, selon l’expression des soldats. </p>
+        <p> Les corbeaux tombèrent hachés, déchiquetés par ce feu de quatre cents balles en moins d’une minute. </p>
+        <p> Quelques-uns parvinrent aux chevaux et essayèrent de sauter en selle. </p>
+        <p> Ils furent tués. </p>
+        <p> Pas un ne survécut. </p>
+        <p> Alors Paddy brandit son fusil et il se mit à crier: </p>
+        <p> – Hurrah! </p>
+        <p> » Hurrah! </p>
+        <p> » Hurrah for miss Rastignac! </p>
+        <p> Toute la troupe s’associa à cette ovation bien méritée. </p>
+        <p> On s’avança l’arme au poing; mais pas un sauvage ne survivait aux effrayantes blessures causées par les balles explosibles. </p>
+        <p> Tous morts! </p>
+        <p> Chacun ramassa quelque trophée, témoignage de victoire, puis on retourna vers les chevaux, on les monta et l’on reprit le sentier, laissant bientôt derrière soi le théâtre du combat ensanglanté et couvert de cadavres. </p>
+      </div>
+      <div title="CHAPITRE XVI PRÈS DU PÔLE" type="chapter">
+        <head> CHAPITRE XVI </head>
+        <lb/>
+        <p> Sans autre mauvaise rencontre, la caravane arriva sur les bords du lac Winipeg, après avoir tourné la ville. </p>
+        <p> Elle trouva le vapeur à son poste et s’embarqua. </p>
+        <p> Le voyage se fit rapidement jusqu’au partage où l’on prit terre pour gagner le Mississipi avec l’escorte habituelle des Indiens, qui se chargent du transport des bagages et qui fournissent des chevaux aux voyageurs. </p>
+        <p> On trouva sur le fleuve un second vapeur, qui fit traverser à la caravane le lac Garibou et celui de la Hoche. </p>
+        <p> Puis nouveau portage pour gagner le lac Athabaska, père du Mackensie et on monta là sur un troisième vapeur, qui força sa machine. </p>
+        <p> Déjà il gelait pendant la nuit. </p>
+        <p> Mais on atteignit très vite l’embouchure du Mackensie et le navire eut le temps de regagner l’Athabaska avant l’embâcle. </p>
+        <p> La caravane, mise à terre, devant le premier hôtel polaire construit par M. d’Ussonville, fut reçue par le gérant avec enthousiasme et aussi par l’équipage de chasse de Drivau. </p>
+        <p> Les voyageurs admirèrent beaucoup le confortable de l’hôtel et l’organisation du service; si près du pôle, c’était merveilleux. </p>
+        <p> Et quelle correction! comme ne cessait de le répéter M. Désandré. </p>
+        <p> On se reposa tout un jour, puis on partit en traîneau, et les chiens, en douze heures, conduisirent les voyageurs à l’hôtel de l’île de Banké. </p>
+        <p> Ils allaient ainsi d’hôtel en hôtel, jusqu’à celui de la Terre-de-Grant, au 83° degré de latitude nord, à sept degrés du pôle, c’est-à-dire à cent soixante-quinze lieues de celui-ci. </p>
+        <p> On juge de l’accueil que firent à leurs hôtes M. d’Ussonville et ses amis. </p>
+        <p> Festins, bals, excursions en traîneaux, explorations en canot de toile sur la Polinya (petite mer libre), que les explorateurs américains prirent pour un océan vide de glaces, ce qui était une grave erreur. </p>
+        <p> Les voyageurs ne cessaient d’admirer la sauvage grandeur des paysages polaires. </p>
+        <p> Mais ce qui les frappa le plus, ce fut l’extraordinaire intensité de la vie animale autour de la Polinya. </p>
+        <p> Phoques, morses, baleines, ours blancs, bœufs musqués, oiseaux, renards et lièvres foisonnaient à tel point que, d’une seule balle, Mlle de Rastignac tua trois eiders. </p>
+        <p> Et les œufs étaient innombrables. </p>
+        <p> Malgré le froid des nuits, il faisait encore de belles journées et l’on s’amusait beaucoup, surtout à la chasse. </p>
+        <p> M. d’Ussonville expliqua à ses amis qu’il fallait patienter pour atteindre le pôle. </p>
+        <p> Celui-ci, M. d’Ussonville s’en était rendu compte, devait être sous la mer boréale et couvert par la grande banquise polaire de Nansen. </p>
+        <p> Cet immense champ de glaces, poussé toujours par les vents dominants, tourne autour du pôle qui lui sert en quelque sorte de pivot. </p>
+        <p> Tantôt la banquise avance vers le nord-ouest, tantôt elle recule vers le sud-est; mais, en fin de compte, elle finit toujours par gagner vers le nord-est. </p>
+        <p> Or, sur cette banquise mobile, il fallait atteindre le pôle en traîneaux. </p>
+        <p> Cent soixante-quinze lieues. </p>
+        <p> Trois jours pour aller. </p>
+        <p> Un jour pour les observations scientifiques. </p>
+        <p> Trois jours pour revenir. </p>
+        <p> On camperait sous la double tente de soie. </p>
+        <p> Mais il fallait attendre que l’hiver fût bien commencé. </p>
+        <p> La banquise est très dangereuse en été. </p>
+        <p> La glace fond et il se forme des trous, des crevasses, des canaux qui entravent la marche des traîneaux. </p>
+        <p> Nansen dut avoir recours tantôt au traîneau, tantôt au kayak. </p>
+        <p> Le plus sûr était donc d’attendre que tout fût gelé. </p>
+        <p> Et on s’amusa ferme en attendant. </p>
+      </div>
+      <div title="CHAPITRE XVII DÉNOUEMENT FATAL" type="chapter">
+        <head> CHAPITRE XVII </head>
+        <lb/>
+        <p> Une qui ne s’amusait pas, c’était Mlle de Pelhouër. </p>
+        <p> L’arrivée de la petite comtesse la troubla profondément. </p>
+        <p> Cette Bretonne sérieuse, héroïque, aimant profondément M. d’Ussonville, vit, dès le premier moment, une rivale dans cette Parisienne charmante et rieuse. </p>
+        <p> Elle souffrit surtout beaucoup de l’esprit de celle qu’elle considérait comme son ennemie, parce qu’elle brillait par une verve endiablée et faisait jaillir le rire à table avec une drôlerie irrésistible. </p>
+        <p> D’Ussonville, si grave toujours, s’associait à la joie générale. </p>
+        <p> Les mots de la petite comtesse, ses saillies, le mettaient en gaieté. </p>
+        <p> Et Mlle de Pelhouër s’en indignait sourdement et s’aigrissait. </p>
+        <p> Elle ne se l’avouait pas, encore moins voyait-elle dans d’Ussonville autre chose qu’un oncle, mais elle était rongée par une jalousie implacable. </p>
+        <p> Elle se dominait, gardait une réserve presque farouche vis-à-vis de Mlle de Rastignac, et celle-ci, un peu trop gavroche parisien, ne ménageait nullement la Bretonne. </p>
+        <p> Elle avait fait quelques avances froidement reçues; non seulement elle n’en fit plus, mais elle s’ingénia à piquer Mlle de Nez-Pincé, comme elle l’appelait assez justement. </p>
+        <p> Les torts étaient réciproques. </p>
+        <p> À noter: </p>
+        <p> La petite comtesse ne songeait nullement à un mariage avec d’Ussonville, qui n’avait nulle arrière-pensée d’épouser qui que ce fût. </p>
+        <p> Avec une extrême légèreté, la petite comtesse froissa Mlle de Pelhouër. </p>
+        <p> Elle avait pour complice de ses malices Mme Santarelli et Mme Castarel que, par certaines roideurs de caractère, Mlle de Pelhouër avait froissées, le lecteur doit s’en souvenir. </p>
+        <p> Les deux Taki, depuis longtemps, avaient oublié le petit dissentiment survenu à propos d’une chasse. </p>
+        <p> Elles tenaient pour leur amie contre la petite comtesse. </p>
+        <p> Et la querelle s’envenimait de jour en jour sans que les hommes y prissent garde, car tous les coups d’épingle échangés sournoisement leur échappaient. </p>
+        <p> Mlle de Rastignac voulut prouver qu’elle était une héroïne. </p>
+        <p> Elle chassa, en compagnie d’un Esquimaux, l’ours blanc, le taureau musqué, le morse. Elle s’ingénia à dépasser les exploits de sa rivale. </p>
+        <p> Avec un bonheur insolent elle parvint, à la façon des Esquimaux, à tuer un ours à coups de harpon. </p>
+        <p> Le soir, elle raconta le combat avec une verve endiablée qui fit rire tout le monde; elle avait l’air de mépriser profondément les ours et les déclarait indignes d’un coup de fusil. </p>
+        <p> Ces façons triomphales mirent le comble à l’irritation de Mlle de Pelhouër, qui à son tour devint agressive. </p>
+        <p> Elle déclara que la petite comtesse manquait de réserve, elle l’appela gamin de Paris, garçon manqué. </p>
+        <p> L’autre le sut. </p>
+        <p> Elle se moqua de « la mijaurée provinciale, de la Bretonne de Concarneau ». </p>
+        <p> Enfin, elle fit allusion au profil de mouette de son adversaire et la baptisa: </p>
+        <p> Mlle BEC D’OISEAU. </p>
+        <p> C’en était trop. </p>
+        <p> Mlle de Pelhouer, indignée, gifla Mlle de Rastignac. </p>
+        <p> – Bec d’oiseau, soit! dit-elle, mais vous aurez senti ma griffe. </p>
+        <p> L’autre, très brave, dit: </p>
+        <p> – Ce que vous venez de faire est indigne d’une fille bien née. </p>
+        <p> » Vous m’en rendrez raison l’épée à la main. </p>
+        <p> – Certainement, en secret et tout de suite! dit Mlle de Pelhouër. </p>
+        <p> Mme Désandré ne put s’empêcher de dire: </p>
+        <p> – Mademoiselle de Pelhouër, ce que vous venez de faire n’est pas correct pour une femme. </p>
+        <p> – Ça m’est égal. </p>
+        <p> Personne de ces Messieurs n’était là pour empêcher ce duel. </p>
+        <p> Tous les hommes chassaient ou péchaient autour ou sur la Polinya. </p>
+        <p> Du reste, cette intervention n’aurait pu empêcher le combat. </p>
+      </div>
+      <div title="CHAPITRE XVII LE DUEL" type="chapter">
+        <head> CHAPITRE XVII </head>
+        <lb/>
+        <p> Oui, le duel était inévitable, en raison du courage très différent des deux héroïnes. </p>
+        <p> Celui de la Parisienne était fait d’amour-propre et d’insouciance. </p>
+        <p> Nous le connaissons, ce courage gai, railleur, impertinent. </p>
+        <p> On connaît moins le courage sombre, froid, déterminé, silencieux, presque sauvage, sans aucun emportement, mais formidablement entêté de la race bretonne. </p>
+        <p> Elle est étonnante de sang-froid, de calme, de décision. </p>
+        <p> Il y a de la fatalité dans cette bravoure qui brave tranquillement un obstacle vulgaire facile à éviter. </p>
+        <p> Le Breton ne veut ni se détourner, ni reculer. </p>
+        <p> Ceux qui ont étudié comme moi ce genre de bravoure sont convaincus que les Bretons aiment le danger pour lui-même; leur nature rêveuse, mélancolique, a besoin de secouer son éternelle sombreur  (6)  . </p>
+        <p> J’ai à citer des exemples qui feront comprendre le courage breton. </p>
+        <p> Je choisis à dessein des hommes qui ne passent pas pour héroïques. </p>
+        <p> J’ai vu Corbières, par un temps épouvantable, s’en aller à l’île de Siek, sûr d’être en perdition, et, comme on faisait observer à ce grand poète trop peu connu qu’il n’en reviendrait peut-être pas, il répondit sans pose, très sincèrement: </p>
+        <p> – Je veux chanter la mort en mer; le naufrage, la tristesse consolante d’un beau trépas, en pleine démence des flots. </p>
+        <p> » Comment exprimer ces sensations, si je ne les ai pas éprouvées. </p>
+        <p> Son canot sombra. </p>
+        <p> Il se sauva à la nage et nous revint meurtri, déchiqueté par les pointes des rocs. </p>
+        <p> Une autrefois, il fit un marché étonnant avec un jeune pêcheur. </p>
+        <p> – Guillaumic, tu ne vas donc pas à la pêche, aujourd’hui? </p>
+        <p> – Pas possible, monsieur Corbières. </p>
+        <p> » La mer est démontée. </p>
+        <p> » On perdrait lignes et filets. </p>
+        <p> – Rien à faire alors? </p>
+        <p> – Non, monsieur Corbières. </p>
+        <p> Lui, d’un grand geste: </p>
+        <p> – Tu vois l’île de Tizi-Aouzon? </p>
+        <p> – Pas beaucoup. </p>
+        <p> » De temps en temps. </p>
+        <p> » Entre deux coups de mer. </p>
+        <p> – Ce que ça brise par là! </p>
+        <p> – Sûr, monsieur Corbières. </p>
+        <p> – Si un canot était drossé contre les rochers de l’île, crois-tu que ceux qui le monteraient seraient en péril de mort? </p>
+        <p> – Sûr, monsieur Corbières. </p>
+        <p> – Tu n’as ni femme ni enfants; tu es orphelin et tu ne tiens à rien. </p>
+        <p> – C’est vrai, monsieur Corbières. </p>
+        <p> » Je suis comme un bouchon de liège qui flotte sur l’eau. </p>
+        <p> Lui, tirant de sa poche un louis et le montrant entre le pouce et l’index. </p>
+        <p> – Veux-tu gagner un louis? </p>
+        <p> Guillaumic, l’œil étincelant: </p>
+        <p> – Oui, monsieur Corbières. </p>
+        <p> – Il y a des petits verres dans un louis. </p>
+        <p> – Oh oui! </p>
+        <p> – Tu connais mon bateau. </p>
+        <p> » Kérenfort ne veut plus le réparer. </p>
+        <p> » Il est f… ichu. </p>
+        <p> – Sûr qu’il n’est plus bon à grand’chose. </p>
+        <p> – Je ne veux pas qu’il meure sous le marteau d’un charpentier. </p>
+        <p> » Il a le droit de mourir en mer, en brave bateau qu’il a toujours été. </p>
+        <p> » Monte avec moi. </p>
+        <p> » Nous le jetterons sur les rochers de l’île et il sera brisé en mille pièces. </p>
+        <p> – Mais… nous… monsieur Corbières? </p>
+        <p> Lui, froidement: </p>
+        <p> – Risque à courir. </p>
+        <p> » Un louis… c’est quelque chose. </p>
+        <p> Guillaumic, riant: </p>
+        <p> – Et puis l’honneur de crever avec vous, si on en crève. </p>
+        <p> Ils y allèrent… </p>
+        <p> Le canot fut mis en miettes. </p>
+        <p> À marée basse, on alla les chercher sur l’île; une lame monstrueuse les avait sauvés en les portant par-dessus les rocs, au centre de l’île. </p>
+        <p> Le lendemain, je ramassai une petite épave du canot poussée sur la plage. </p>
+        <p> Je la conserve comme une relique. </p>
+        <p> Quand je rencontre Guillaumic à Roscoff et que je lui reparle de l’aventure… il rit. </p>
+        <p> Et il répète un mot que j’admire: </p>
+        <p> – Il n’y en a pas pour autant de temps qu’on croit à boire un louis! </p>
+        <p> Je cite, parce que je tiens à faire comprendre ce qu’est le courage breton que Corbières, le fin lettré, et Guillaumic, le fin matelot, ont si bien incarné en eux. </p>
+        <p> Et le mot du sauveteur de l’île de Batz, enfin décoré. </p>
+        <p> Le commissaire de marine le félicitait: </p>
+        <p> – Oh! monsieur le commissaire, il n’y a pas tant de mérite qu’on croit. </p>
+        <p> Ça ne serait pas être marin que d’avoir le courage de voir des gens se noyer sans chercher à les sauver! </p>
+        <p> Et mon ami Larher! </p>
+        <p> Je n’ai pas le courage de lui en vouloir, mais enfin, j’en aurais le droit. </p>
+        <p> Nous partons, dans une voiture traînée par deux chevaux, et je m’aperçois que le cocher frappait un cheval, jamais l’autre. </p>
+        <p> J’en fis l’observation. </p>
+        <p> – Oh! me dit Larher en riant, on ne frappe pas l’autre, parce qu’il a été mis à la réforme, vu qu’il a un sale caractère. </p>
+        <p> » Et, comme il n’y a que huit jours qu’on l’attelle, il n’a pas encore l’habitude. </p>
+        <p> » Hier encore, il a fait un accident. </p>
+        <p> » On le ménage, parce que Mme Larher est dans la voiture… </p>
+        <p> » Sans ça… </p>
+        <p> Nous côtoyions, en ce moment, un précipice dans la montagne d’Auray, entre Huelyoët et Saint-Herbot. </p>
+        <p> Est-ce assez breton? Vous me direz des marins! </p>
+        <p> Mais Larher n’est pas marin, il est marchand de vins en gros. </p>
+        <p> Voulez-vous un notaire? </p>
+        <p> Je vous présente M. Sutin. </p>
+        <p> Un vrai notaire. </p>
+        <p> Rien d’héroïque dans l’allure. </p>
+        <p> Et âgé. </p>
+        <p> – Comment, Monsieur Sutin, vous sortez par un vent pareil? </p>
+        <p> – Je me f… iche du vent. </p>
+        <p> Et il sort. </p>
+        <p> C’est dans le sang breton. </p>
+        <p> Et Mme Josèphe Belles? </p>
+        <p> Elle se jette à l’eau et sauve un baigneur imprudent au grand péril de ses jours; l’autre se cramponnait. </p>
+        <p> – Comment, vous, Madame Belles, avec trois enfants en bas âge, vous vous risquez comme ça? </p>
+        <p> – Pas pensé aux petits. </p>
+        <p> » L’homme criait… </p>
+        <p> » Et puis, fallait bien y aller, il n’y avait que moi sur la plage. </p>
+        <p> Toute la Bretagne simplement, prosaïquement, mais originalement héroïque tient dans ces trois exemples. </p>
+        <p> Et les différences de courage s’affirmèrent dans le duel. </p>
+        <p> L’on sait qu’il y avait un hall dans ces hôtels polaires, avec différentes salles sur les côtés, notamment salle d’escrime avec panoplies. </p>
+        <p> Mlle de Rastignac prit comme témoin Mme Castarel et Mme Désandré qui fut chargée de diriger le combat; Mlle de Pelhouer fut assistée par les deux Taki. </p>
+        <p> On choisit les épées. </p>
+        <p> La petite comtesse avait fait de tous les sports, y compris l’escrime. </p>
+        <p> Toutes les chances semblaient être pour elle; mais on s’exagère beaucoup ces chances des bons tireurs de salles d’armes. </p>
+        <p> Et, après tant d’exemples célèbres, on le vit cette fois encore. </p>
+        <p> Mlle de Rastignac se battit comme en jouant, Mlle de Pelhouër se rua sur son adversaire en vraie sauvage. </p>
+        <p> L’engagement fut très court. </p>
+        <p> Sur un coup droit bizarre, inattendu, en dehors de toute règle, Mlle de Rastignac tomba la poitrine traversée. </p>
+        <p> Et elle mourut en disant: </p>
+        <p> – Quel coup de bec! </p>
+        <p> En ce moment, M. d’Ussonville revenait de la chasse. </p>
+        <p> Il vit la morte! </p>
+        <p> Il s’emporta. </p>
+        <p> Il dit de dures choses à Mlle de Pelhouër. </p>
+        <p> Celle ci ne répondit pas et se retira. </p>
+        <p> Une heure après, avec les deux Taki, sa Nadali, Bois-Brûlé, Francœur et Langue-de-Fer comme guides, elle quittait l’hôtel en traîneaux, résolue à regagner intrépidement Winipeg et delà New-York, puis la France. </p>
+        <p> Un hardi voyage, comme on se l’imaginera facilement. </p>
+        <p> Dénouement fatal, comme je l’ai écrit. </p>
+      </div>
+      <head/>
+    </body>
+    <back/>
+    <back/>
+  </text>
+</TEI>

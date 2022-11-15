@@ -1,0 +1,1872 @@
+<?xml version='1.0' encoding='UTF8'?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> Un mariage polaire. Au Pôle Nord, chez les esquimaux </title>
+        <author from="1837" key="" name="Noir, Louis (Salmon, Louis-Étienne)" sex="male" to="1901"/>
+        <edition n=""/>
+        <editor name="Fayard" where=""/>
+      </titleStmt>
+      <publicationStmt>
+        <date type="created" when="1899"/>
+        <date type="issued" when="1899"/>
+      </publicationStmt>
+      <editionStmt>
+        <profileDesc tag="non-canon" type="genre">
+          <textClass>
+            <keywords>
+              <term>roman d'aventures</term>
+            </keywords>
+          </textClass>
+        </profileDesc>
+      </editionStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docAuthor/>
+        <docTitle>
+          <titlePart main="Un mariage polaire. Au Pôle Nord, chez les esquimaux"/>
+          <titlePart sub=""/>
+        </docTitle>
+        <div type="dedication">
+          <p> Je dédie ce livre à mon ami Pépin, de l’Hôtel de la Marine , à Roscoff . </p>
+          <p> Son tout dévoué, </p>
+          <p> Louis Noir </p>
+        </div>
+      </titlePage>
+    </front>
+    <body>
+      <div title="PRÉFACE" type="preface">
+        <head> PRÉFACE </head>
+        <lb/>
+        <p> Les idées fausses s’accumulent sur les pays non encore sérieusement colonisés. </p>
+        <p> En veut-on la preuve? </p>
+        <p> L’Algérie a passé bien longtemps en France pour un pays malsain. </p>
+        <p> La mortalité, du reste, prouvait que cette réputation était méritée. </p>
+        <p> Est-ce que les soldats ne mouraient pas en tas, comme on disait alors? </p>
+        <p> Est-ce que les colons ne périssaient pas; en été, ils tombaient dru comme les mouches. </p>
+        <p> La statistique inexorable prouvait que ce mauvais renom de l’Algérie n’était pas volé. </p>
+        <p> Il mourait de maladies, dans l’armée d’occupation, huit soldats sur cent. </p>
+        <p> Que dire? </p>
+        <p> Les chiffres étaient là, probants! </p>
+        <p> Or, l’Algérie est consacrée aujourd’hui, comme la Tunisie, du reste, comme étant l’un des pays les plus sains du monde. La mortalité par maladies, dans l’armée, est de 7 pour 1,000! </p>
+        <p> Chez les colons, les naissances excèdent de beaucoup le chiffre des morts. </p>
+        <p> Français, Espagnols, Italiens, Malais s’accommodent admirablement du climat. </p>
+        <p> Alors, comment expliquer cette contradiction entre le passé et le présent? </p>
+        <p> Très simplement. </p>
+        <p> Pour l’armée, par exemple: </p>
+        <p> On l’affublait de buffleteries blanches qui coupaient doublement la poitrine et la respiration; c’était incroyablement stupide. </p>
+        <p> On emprisonnait le corps du soldat dans un habit étriqué. </p>
+        <p> On lui serrait le cou par un faux-col noir qui tenait le menton roide. </p>
+        <p> On écrasait sa tête d’un schako tellement large et pesant qu’au fond on pouvait placer brosses, cirage ou pain de munition. </p>
+        <p> Le pantalon rouge, en drap, mal compris, augmentait encore la géhenne. </p>
+        <p> Pauvre soldat! </p>
+        <p> Il était écrasé! </p>
+        <p> Faute de mulets, on faisait porter au malheureux troupier quinze et vingt jours de vivres d’administration, deux mois de vivres d’ordinaire et souvent de l’eau. </p>
+        <p> Jamais de vin! Jamais de café! </p>
+        <p> Rien que de l’eau-de-vie qui devrait être absolument proscrite en pays chaud. </p>
+        <p> Une nourriture mal comprise, non appropriée au climat, aux besoins. </p>
+        <p> Des chemises en toile de chanvre, glaciales en pays de sueur. </p>
+        <p> Pas de petites tentes. </p>
+        <p> Les nuits très froides passées sans abri. </p>
+        <p> Une couverture énorme augmentant le poids du havre sac. </p>
+        <p> Le sulfate de quinine donné aux fiévreux à dose dérisoire. </p>
+        <p> Les camps fiévreux maintenus quand même et des marches excessives. </p>
+        <p> Des généraux exigeant des soldats seize heures de marche… </p>
+        <p> Ou doublant les étapes. </p>
+        <p> Les lois de la sieste, en été, méprisées. </p>
+        <p> Aujourd’hui, on a donné au soldat un uniforme approprié au climat, la tente-abri, le vin, le café, du bon pain; il est forcé, en été, de siester sous peine de prison, de dix heures du matin à trois heures du soir; s’il marche, demi-étape le matin, demi-étape le soir; repas dans la journée. </p>
+        <p> Casernes et campements sains. </p>
+        <p> Résultats? </p>
+        <p> Mortalité moindre qu’en France. </p>
+        <p> Comme conclusion? </p>
+        <p> On se trompe presque toujours au début d’une colonisation, sur l’habitabilité ou la non habitabilité d’un pays. </p>
+        <p> En a-t-on assez dit et écrit contre la Cochinchine il y a cinquante ans? </p>
+        <p> Aujourd’hui tous les établissements publics et particuliers étant bâtis selon la bonne formule architecturale du pays, les lois hygiéniques étant observées, les bonnes habitudes étant prises, voilà que la Cochinchine est réputée bonne colonie. </p>
+        <p> Et le Tonkin? </p>
+        <p> A-t-il été assez décrié? </p>
+        <p> Et le voilà en train de se réhabiliter à grande vitesse. </p>
+        <p> En somme, vous ne pouvez pas vivre en pays exotique comme vous vivez en France. </p>
+        <p> Autres climats, autres régimes! </p>
+        <p> Mais, surtout, en finir avec les habitudes alcooliques françaises. </p>
+        <p> Là est la base du salut. </p>
+        <p> Je parle pour les pays chauds. </p>
+        <p> Dans les pays froids, c’est tout le contraire. Un usage modéré de l’alcool est de rigueur. </p>
+        <p> Eh bien, si j’ai cité l’exemple des colonies mal cotées, au début, au point de vue hygiénique, c’est parce que les régions polaires sont calomniées de toute évidence. </p>
+        <p> On les croit extrêmement froides. </p>
+        <p> Soixante degrés tous les jours! Lisez Nansen. </p>
+        <p> En janvier 1894 (mois le plus froid), pendant quatre jours seulement, le froid est descendu au-dessous de 4o degrés. </p>
+        <p> En janvier 1895, pendant 6 jours seulement. </p>
+        <p> En janvier 1896, il y a eu des journées où le froid n’était que de 7°, 2. </p>
+        <p> En février, il y a eu des journées où il n’a fait que 1°, 1. </p>
+        <p> Inutile d’insister, n’est-ce pas? </p>
+        <p> Or, au Canada, en beaucoup de villes et villages, la température descend à 38, à 43, à 53, à 56 degrés au-dessous de zéro. </p>
+        <p> Et l’on vit. </p>
+        <p> Et l’on vit bien. </p>
+        <p> Il est vrai qu’on est armé contre le froid et défendu contre lui. </p>
+        <p> Canada ou régions polaires, c’est le même froid, le même climat. </p>
+        <p> Si l’on sait s’y défendre, on y est tout aussi bien qu’au Canada. </p>
+        <p> Avec ses fourrures de canard-eider, de renard, d’ours blanc, avec ses gants, ses chaussons, son capuchon rabattu sur son bonnet fourré, l’Esquimau brave tous les froids. </p>
+        <p> Dans sa maison de neige, il obtient, avec sa lampe à huile, six, sept, huit degrés, et plus s’il le veut, au-dessus de zéro. </p>
+        <p> Le cochléaria, les baies si nombreuses, les graminées, les mousses, les lichens, etc., lui donnent assez de nourriture végétale spéciale pour éviter le scorbut. </p>
+        <p> Il a en surabondance: </p>
+        <p> Pot-au-feu de morue aux algues diverses. </p>
+        <p> Rôti d’ours blanc. </p>
+        <p> Étuvées de rennes. </p>
+        <p> Ragoûts de bœufs musqués. </p>
+        <p> Cygnes. </p>
+        <p> Oies de Brent. </p>
+        <p> Canards-eiders. </p>
+        <p> Lummes. </p>
+        <p> Gelinottes, etc. </p>
+        <p> Poissons excellents. </p>
+        <p> Crustacés. </p>
+        <p> Ne voilà-t-il pas un homme heureux? </p>
+        <p> Et Nansen? </p>
+        <p> Et son compagnon? </p>
+        <p> Ne nous déclarent-ils pas qu’ils ont vécu pendant sept mois à la façon des Esquimaux, sans en souffrir aucunement? </p>
+        <p> Ne sont-ils pas sortis sains et gras de cette longue épreuve? </p>
+        <p> La question est donc jugée. </p>
+        <p> Mais on objectera la catastrophe de Franklin et d’autres navigateurs. </p>
+        <p> Il y a eu de tous temps, en tous pays, des catastrophes navales. </p>
+        <p> Lapeyrouse, Koock, tant d’autres prouvent que les océans chauds sont aussi fatals aux marins que les océans polaires. </p>
+        <p> Et le naufrage de la Méduse! </p>
+        <p> Et tant de naufrages célèbres. </p>
+        <p> Il est donc ridicule d’exagérer les dangers des mers boréales. </p>
+        <p> On a souvent invoqué contre elles le scorbut dont les équipages ont souffert. </p>
+        <p> Mais toujours, et surtout dans les pays chauds, le scorbut atteint et décime les équipages privés de viandes fraîches et de légumes frais. </p>
+        <p> Pourquoi les matelots explorateurs en ont-ils souffert pendant les expéditions polaires? </p>
+        <p> Parce que les travaux d’exploration ne laissaient pas le temps de chasser, de pêcher suffisamment, de récolter assez, pour varier la nourriture. </p>
+        <p> Voilà la vérité. </p>
+        <p> Mais nous consacrons un chapitre entier, bien complet, dénué de toute exagération en un sens ou en l’autre, sur les Esquimaux. </p>
+        <p> Nous y peignons leur race, leur vie, leurs mœurs, leur pays, leurs chasses, leurs pèches, les ressources végétales. </p>
+        <p> Quand le lecteur aura lu ce chapitre, il connaîtra ce peuple à fond. </p>
+        <p> Qu’il se pose alors cette question: </p>
+        <p> « Peut-on vivre là bas? » </p>
+        <p> Comme Nansen, il répondra: </p>
+        <p> – Oui. </p>
+        <p> En toute saison. </p>
+        <p> Mais si, aux ressources du pays, s’ajoute l’établissement d’hôtels confortables en murs de tôle de fer double, avec excellent et sain matelas d’air (système russe) avec maisons-haltes entre les hôtels, avec correspondance par traîneaux entre les hôtels, avec ravitaillements très faciles, si un personnel mi-esquimau, mi-blanc dessert chaque hôtel, je demande pourquoi les touristes riches ne se paieraient pas une visite au pôle et des chasses à l’ours blanc? </p>
+        <p> Quand on a vu réussir l’établissement d’un grand hôtel au Spitzberg, avec poste, service de paquebot régulier, etc., etc., on s’est dit, tant en Europe qu’aux États-Unis, que la question du pôle était résolue. </p>
+        <p> Résolue non pas comme visite rapide d’explorateurs à bout de force. </p>
+        <p> Résolue comme celle du Mont-Blanc, par une occupation permanente, si le pôle est un point fixe, une terre ferme. </p>
+        <p> Résolue quand même ce serait une banquise mouvante et tournante. </p>
+        <p> D’un hôtel très rapproché, les touristes s’y rendraient en traîneau ou en petit bateau à vapeur, selon la saison. </p>
+        <p> Et quand le lecteur aura lu ce livre, il ne conservera plus aucun doute. </p>
+        <p> L’œuvre est commencée. </p>
+        <p> Si l’on y avait consacré les trois cents millions dépensés en vain jusqu’ici et les efforts inouïs faits en pure perte, on irait au pôle nord, plus facilement, plus sûrement que l’on arrive au sommet du Mont-Blanc. </p>
+      </div>
+      <div title="CHAPITRE PREMIER PRINTEMPS POLAIRE – L’ÉTÉ AU PÔLE" type="chapter">
+        <head> CHAPITRE PREMIER </head>
+        <lb/>
+        <p> Le printemps vient de commencer. </p>
+        <p> Mai! </p>
+        <p> Au delà du cercle polaire. </p>
+        <p> De longs, de très longs jours déjà et très chauds relativement. </p>
+        <p> Au soleil, quinze degrés. </p>
+        <p> Mais à l’ombre, deux ou trois degrés seulement, et, par places, zéro degré. </p>
+        <p> Des nuits courtes, mais encore très froides; à partir de onze heures du soir, dix degrés, quinze et même vingt à minuit. </p>
+        <p> Les mousses robustes, les herbes très résistantes gèlent à fond chaque nuit, dégèlent au matin et réjouissent les yeux pendant le jour de leurs verts invraisemblables. </p>
+        <p> Des verts tendres et resplendissants. </p>
+        <p> Des verts qui choquent à force d’éblouir! </p>
+        <p> Le ciel est sillonné de longues migrations d’oiseaux qui vont au sud. </p>
+        <p> Ce qu’il en passe par jour est inouï; ils font nuages. </p>
+        <p> Ce sont des cygnes, des oies, des canards-eiders, des échassiers, surtout des vanneaux, des perdrix, des cailles polaires, des milliards de petits oiseaux, exquis du reste. </p>
+        <p> Tout ce monde ailé se précipite à la grande curée. </p>
+        <p> Elle sera courte. </p>
+        <p> Juin, juillet, août, quelques jours en septembre, puis les vols recommencent à tire-d’ailes vers le midi. </p>
+        <p> Mais quelles bombances pendant le rapide été polaire! </p>
+        <p> Cet au-delà du cercle, qui semble éternellement morne et glacé, regorge de pâture animale et végétale. </p>
+        <p> Dans les lacs, dans les fleuves, dans les ruisseaux la vie surabonde, tout coup de filet est une pêche miraculeuse, tout coup de fusil est un massacre. </p>
+        <p> Les truites foisonnent. </p>
+        <p> Les saumons vont par bancs. </p>
+        <p> Chairs exquises. </p>
+        <p> Grands et petits crustacés, moules, huîtres, coquillages de toutes sortes; crevettes exquises, coquillages fins sont ramenés à terre à chaque coup d’avanneau à en faire crever l’engin. </p>
+        <p> On dirait que le pôle, soustrait aux ravages de l’homme, est un immense réservoir vital, la suprême ressource du globe. </p>
+        <p> En mer, aux embouchures des fleuves, assez haut même en amont, les phoques, les otaries, toutes les espèces de ce genre varié disputent le poisson aux loutres à superbes fourrures. </p>
+        <p> Et les morses aux dents d’ivoire, masses gigantesques, éléphants des eaux, se livrent des combats bruyants et acharnés. </p>
+        <p> En mer, des colonnes d’eau montent et retombent en écume. </p>
+        <p> Ce sont les souffleurs, ce sont les baleines qui tes projettent. </p>
+        <p> Ces monstres aquatiques sont des magnifiques manifestations de l’énormité animale dans la nature, et l’homme, en face des baleines de quarante mètres de long, reste haletant d’admiration. </p>
+        <p> Mais voici les redoutables bœufs musqués en troupeaux, les grands mâles en arrière toujours et en surveillance. </p>
+        <p> Les loups blancs paraissent. </p>
+        <p> À leurs hurlements faméliques répondent les mugissements des bœufs qui font voler les herbes sous leurs coups de sabots, piaffants et furieux. </p>
+        <p> Ils sont formés en cercle, cornes basses, les vaches et les veaux au milieu. Les loups s’élancent. La faim les pousse. Ils osent… </p>
+        <p> Mais tes plus hardis, poignardés par les cornes, sautent en l’air. </p>
+        <p> La bande est repoussée. Elle disparaît. </p>
+        <p> Alors les taureaux écrasent les morts, les piétinent, les réduisent en bouillie sanglante; puis, leur colère apaisée, ils se remettent à paître. </p>
+        <p> Mais voici qu’un renne ou un cerf passe au galop, vision rapide. </p>
+        <p> Les loups chassent… </p>
+        <p> Ils forceront l’animal. </p>
+        <p> Curée sanglante. </p>
+        <p> Mais voici une forme longue, basse, lourde et blanche qui se traîne avec des ondulations à chaque pas. </p>
+        <p> C’est l’ours blanc. </p>
+        <p> Il vous voit et se dresse. </p>
+        <p> Ne le manquez pas. </p>
+        <p> Il a la vitalité d’un lion. </p>
+        <p> Tuez-le net! </p>
+        <p> Une balle dans la tête et brisez le crâne, ou tirez au défaut de l’épaule, vous traverserez le cœur et le poumon gauche. </p>
+        <p> Si l’hémorragie intérieure résultant du dernier coup n’étouffait pas l’animal, il se jetterait sur vous. </p>
+        <p> Une fuite? </p>
+        <p> Mais cet animal qui vous paraît si lent, vous forcera à la course. </p>
+        <p> Si vous n’avez pas le temps de recharger, si votre arme n’est pas à répétition, défendez-vous à la baïonnette, et, une fois la bête enfilée, reculez toujours, car son poids vous renverserait. </p>
+        <p> Mais gare aux loups blancs! </p>
+        <p> Leurs meutes sont terribles pour l’homme, qui est coiffé en peu d’instants. </p>
+        <p> Défiez-vous de l’aigle si vous avez un chien; pour enlever le chien, il cherchera à vous renverser, puis à vous tuer. </p>
+        <p> Défiez-vous des corbeaux si vous emportez quelque quartier de gibier. </p>
+        <p> De tous les coins du ciel, ils fondront sur vous et vous attaqueront. </p>
+        <p> Mais surtout ne sortez pas sans être ganté, si chaud qu’il fasse! </p>
+        <p> Tout autour de votre chapeau, serrez un bon moustiquaire en double mousseline. </p>
+        <p> Sinon, sachez-le, vous serez dévoré par les moustiques dont les piqûres vous donneront’une fièvre souvent mortelle. </p>
+        <p> Mais vous vous accoutumerez aux gants et au moustiquaire. </p>
+        <p> Celui-ci vous manquera quand la brise d’automne aura engourdi les insectes. </p>
+        <p> Quant aux gants, vous les renforcerez en hiver d’une bonne paire de moufles. </p>
+        <p> Mais les jours iront toujours s’allongeant, et vous verrez le soleil de minuit! </p>
+        <p> Vous jouirez alors d’impressions délicieuses; les soirées vous paraîtront d’une douceur infinie et les rayons pâlis de l’astre du jour vous sembleront éclairer des crépuscules lunaires. </p>
+        <p> On se croirait dans une autre planète où ne brilleraient faiblement et comme tamisées que des lumières stellaires. </p>
+        <p> La chaleur s’attiédit et les fraîches brises caressent des sommeils bercés de rêves. </p>
+        <p> Ce n’est pas la nuit, mais tout dort; vous avez entendu le dernier chant des oiseaux avant qu’ils ne se missent la tête sous l’aile. </p>
+        <p> Ils vous réveilleront par de joyeux préludes aux fanfares du jour. </p>
+        <p> Ah! ceux qui parlent du pôle, de ses solitudes glacées, ignorent son été si plein de caresses et d’attractions que les étrangers amoureux des lointains déplacements, les grands touristes qui allaient au nord de la Norvège, vont maintenant au Spitzberg, et, demain, iront plus haut encore… au Pôle… pour y passer confortablement la saison balnéaire. </p>
+        <p> Le rêve est en train de se réaliser. </p>
+      </div>
+      <div title="CHAPITRE II LES TROIS TRAPPEURS" type="chapter">
+        <head> CHAPITRE II </head>
+        <lb/>
+        <p> Près de l’embouchure du Mackensie, un camp se dresse. </p>
+        <p> Tentes en peaux garnies de leur poil et doubles; cabanes en rustique avec toit de mousse, bien charpentées et spacieuses. </p>
+        <p> La forêt de pins voisine a fourni, en abondance, les matériaux. </p>
+        <p> Hangars, en rustique également, pour le travail et pour la cuisine. </p>
+        <p> Des Européens sont à la besogne, aussi des nègres, aussi des Esquimaux. </p>
+        <p> Plusieurs négresses, rudes types du Dahomey, femmes de race guerrière. </p>
+        <p> Une Abyssinienne de race pure, une métissée évidemment et d’allures françaises et leurs servantes. </p>
+        <p> Une très jeune et jolie fille à laquelle tout le monde témoigne de la déférence. </p>
+        <p> Grande activité dans les ateliers. </p>
+        <p> On martèle tôle et boulons, on scie, on lime, on visse. </p>
+        <p> C’est le premier jour de mise en train d’un travail de montage. </p>
+        <p> Trois hommes, qui viennent d’arriver à la lisière du bois, regardent cette scène avec une profonde stupéfaction. </p>
+        <p> Trois trappeurs! </p>
+        <p> La blouse, les mocassins, le carnier, les armes les indiquent tels. </p>
+        <p> Du moins, deux d’entre eux. </p>
+        <p> Des blancs! </p>
+        <p> Le troisième est un Indien Sioux. </p>
+        <p> Il est appuyé sur son fusil et il parait plongé dans des abîmes de réflexions. </p>
+        <p> Les deux autres trappeurs regardent attentivement, mais, de temps à autre, ils échangent des coups d’œil interrogateurs. </p>
+        <p> Hommes prudents, accoutumés au silence des solitudes, ils examinent longuement cet établissement dont ils n’ont jamais entendu parler. </p>
+        <p> Leurs chiens hument l’air. </p>
+        <p> Ils ne donnent que de légers signes d’inquiétude, ce que n’ont pas manqué de remarquer les maîtres, car l’un dit enfin: </p>
+        <p> – M’est avis, Langue-de-Fer, mon ami, que ces gens-là sont des marins qui ont débarqué et qui travaillent à terre. </p>
+        <p> Langue-de-Fer secoua la tête: </p>
+        <p> – Sûr, dit-il, il n’y a pas que des marins; je vois des gentlemen. </p>
+        <p> À l’Indien: </p>
+        <p> – Qu’en penses-tu, toi, Œil-de-Lynx. </p>
+        <p> – Nègres et négresses. </p>
+        <p> Langue-de-Fer à l’autre trappeur: </p>
+        <p> – Dis donc, Francœur, il faut qu’il ait les yeux faits comme une lunette d’approche, le Sioux, pour voir, à cette distance, le teint de ces gens-là. </p>
+        <p> – Le Sioux n’a pas volé son nom. Mais puisque les chiens ne prennent pas peur, nous pouvons toujours avancer… en prudence. </p>
+        <p> » Après tout, il y a des chrétiens comme nous, là-dedans. </p>
+        <p> – Oui, avançons! </p>
+        <p> – On peut! dit Œil-de-Lynx. </p>
+        <p> » Les sqaws blanches qui sont avec ces hommes ne nous laisseraient pas massacrer. </p>
+        <p> » Elles sont des ladies (dames pour le Sioux). </p>
+        <p> – Il voit ça aux belles manières! dit en riant Langue-de-Fer. </p>
+        <p> » Marchons donc. </p>
+        <p> Ils se mirent à la file indienne, le fusil à deux coups sur l’épaule, la carabine à longue portée en bandoulière, les chiens en avant. </p>
+      </div>
+      <div title="CHAPITRE III NEZ-SUBTIL" type="chapter">
+        <head> CHAPITRE III </head>
+        <lb/>
+        <p> Nez-Subtil était en tête. </p>
+        <p> Hors ligne, comme flair, ce chien-là! </p>
+        <p> Célèbre dans tout le Haut-Canada et l’Alaska pour son intelligence et la faculté étonnante de percevoir des odeurs à des distances incroyables et de les analyser dans son cerveau de chien. </p>
+        <p> De même qu’entre hommes, le mieux doué pour le commandement, de même, entre chiens, les supériorités s’affirment par l’ascendant subi. </p>
+        <p> Il y a des chefs de meute. </p>
+        <p> Nez-Subtil, malgré les aboiements des chiens du camp, qui étaient attachés, ne parut pas trop effarouché; mais il s’arrêta et se mit sur son cul en voyant trois hommes armés sortir du camp. </p>
+      </div>
+      <div title="CHAPITRE IV HÔTELS POLAIRES" type="chapter">
+        <head> CHAPITRE IV </head>
+        <lb/>
+        <p> Un blanc et deux nègres s’avançaient. </p>
+        <p> Quand ils furent à cinquante mètres, Nez-Subtil grogna en manière d’avertissement d’avoir à s’arrêter et les deux autres chiens appuyèrent cette petite démonstration prudente. </p>
+        <p> Alors Langue-de-Fer se dirigea seul vers le groupe dont le blanc seul se détacha. </p>
+        <p> Ils s’arrêtèrent à vingt pas l’un de l’autre et Langue-de-Fer déclara: </p>
+        <p> – Nous sommes d’honnêtes trappeurs. </p>
+        <p> » Moi, je suis Langue-de-Fer. </p>
+        <p> » Mon ami se nomme Francœur. </p>
+        <p> » Le Sioux est le fameux chef Œil-de-Lynx qui a scalpé récemment avec nous toute la bande des bandits-mineurs de Klondike que conduisait Mina, la vipère, un Brésilien. </p>
+        <p> Cela dit, le trappeur attendit. Alors le blanc prit la parole: </p>
+        <p> – Nous sommes, dit-il, les membres de l’expédition d’Ussonville. </p>
+        <p> – Qu’est-ce que cette expédition? </p>
+        <p> – Une troupe qui veut aller au pôle. </p>
+        <p> – On veut donc toujours y aller au pôle? Il y a des gens qui sont vraiment enragés. </p>
+        <p> » En est-il mort des pôlaires ! </p>
+        <p> » Ça ne décourage pas les autres. </p>
+        <p> » Peut-on visiter votre camp? </p>
+        <p> – Oui, mais vous attacherez vos chiens. </p>
+        <p> – Certainement. </p>
+        <p> » Mais comment vous appelez-vous? </p>
+        <p> – Je suis le capitaine Drivau. </p>
+        <p> – Très bien. </p>
+        <p> Langue-de-Fer siffla ses amis, les deux groupes se joignirent et gagnèrent le camp. </p>
+        <p> En chemin, le capitaine Drivau demanda aux deux trappeurs: </p>
+        <p> – De quel établissement dépendez-vous? </p>
+        <p> – Du Fort-Confidence, sur le grand lac des Ours, à l’ouest. </p>
+        <p> – Mais c’est bien loin. </p>
+        <p> » Le fort Peel-River est beaucoup plus rapproché que celui-là. </p>
+        <p> Langue-de-Fer se mit à ricaner. </p>
+        <p> – Vous ne connaissez pas le directeur Nilson? fit-il d’un ton amer. </p>
+        <p> » C’est le pire gredin que la terre ait jamais porté et il est exécré. </p>
+        <p> » Un sale voleur. </p>
+        <p> » Un juif serait honteux de se conduire comme cet Anglais qui est pire que le pire Yankee. </p>
+        <p> » Cet homme déshonore les Anglo-Canadiens; il est pour eux une honte. </p>
+        <p> » Nous sommes heureux qu’il ne soit pas comme nous un Canadien-Français. </p>
+        <p> » Ce scélérat ne tient aucun de ses engagements et il nie les dépôts. </p>
+        <p> » Il nous vend les denrées, la poudre, ce dont nous avons besoin, le quintuple de ce que ça vaut par le contrat-charte entre factoreries-forts et trappeurs attachés à la Compagnie. </p>
+        <p> » Aussi fabriquons-nous un traîneau à la fin de l’hiver pour transporter nos fourrures à Fort-Confidence , y attelant nos chiens et nous-mêmes. </p>
+        <p> » C’est un long voyage, mais nous évitons toutes relations avec les scélérats des forts voisins; car celui d’Anderson ne vaut pas mieux que celui du Peel-River. </p>
+        <p> » Celui du Fort-Lapierre serait encore plus coquin que les autres, s’il n’y avait pas celui du Fort-Remparts. </p>
+        <p> » Celui-là est plus dangereux que celui de l’Ours-Blanc auquel il ressemble. </p>
+        <p> – Alors, nous sommes bien entourés! fit Drivau en riant. </p>
+        <p> – Vous êtes au milieu d’une bande de scélérats; chaque fort est un repaire de bandits et ces gredins ont à leur service de la vermine indienne qui pullule autour des forts. </p>
+        <p> » Ces bandes ignorantes se laissent duper, chassent presque pour rien. </p>
+        <p> » Savez-vous pourquoi? </p>
+        <p> – Non. </p>
+        <p> – C’est pourtant facile à deviner. </p>
+        <p> » Ils tiennent tous ces Indiens par le tafia et l’eau-de-vie de pommes de terre. </p>
+        <p> » Ces ivrognes ne peuvent s’en passer et ils vendent des peaux de martres-zibelines de toute beauté pour une bouteille de rhum. </p>
+        <p> » Mais, capitaine, j’entends des coups de marteau sur des plaques de fer; qu’est-ce que vous faites donc à terre? des réparations? </p>
+        <p> – Non. </p>
+        <p> » Nous allons construire un hôtel en tôle de fer galvanisé. </p>
+        <p> – Votre langue fourche. </p>
+        <p> – Mais non. </p>
+        <p> – Vous avez dit: un hôtel. </p>
+        <p> – Mais oui. </p>
+        <p> – Vous êtes Français? </p>
+        <p> – Parisien. </p>
+        <p> – Alors blagueur. </p>
+        <p> – Pas du tout, du moins en ce moment. </p>
+        <p> Francœur intervint. </p>
+        <p> – Hôtel! hôtel! fit-il. </p>
+        <p> » Quel genre d’hôtel? </p>
+        <p> – Hôtel pour voyageurs au pôle nord. </p>
+        <p> – Il n’y aura pas foule. </p>
+        <p> – Erreur! </p>
+        <p> » Le nouvel hôtel du Spitzberg fait des affaires d’or avec ses touristes cent millionnaires qui ne regardent pas à la dépense. </p>
+        <p> » Nous allons faire concurrence au Spitzberg et nous réussirons. </p>
+        <p> » D’hôtel en hôtel, en traîneau l’hiver, en carrioles légères l’été, par traites de cinquante lieues, on arrivera très vite au pôle. </p>
+        <p> » Il y aura great attraction , grande attraction, comme disent les Anglais. </p>
+        <p> » Les tenanciers de nos hôtels gagneront beaucoup d’argent. </p>
+        <p> – Vous aussi, alors? </p>
+        <p> – Oh, non! Pas la peine. </p>
+        <p> Les deux trappeurs, d’ancienne race normande, âpre au gain, furent étonnés. </p>
+        <p> – Pas la peine! fit Langue-de-Fer. </p>
+        <p> – Pas la peine! répéta Francœur. </p>
+        <p> Ils étaient comme suffoqués. </p>
+      </div>
+      <div title="CHAPITREVARCHI-MILLIONNAIRES" type="chapter">
+        <head> CHAPITRE V </head>
+        <lb/>
+        <p> Les trappeurs n’étaient pas au bout de leurs étonnements. </p>
+        <p> – Une; supposition! fit le capitaine. </p>
+        <p> » Vous auriez chacun de cinq à six cents millions dont vous ne pourriez même pas dépenser les revenus, trente-six millions par an. </p>
+        <p> » Est-ce que vous tiendriez beaucoup à ce que des hôtels polaires ajoutent à vos rentes? </p>
+        <p> – Dame… pas trop… </p>
+        <p> » Mais pourquoi fondez-vous des hôtels? </p>
+        <p> – Ah! voilà! </p>
+        <p> » Notre chef et ami, le commandant d’Ussonville, qui remue les milliards à la pelle, veut réaliser tous les impossibles qui torturent l’esprit humain, la navigation aérienne, la pénétration jusqu’au feu intérieur, les voyages interplanétaires et surtout un voyage dans la lune… </p>
+        <p> Drivau s’arrêta. </p>
+        <p> Les trappeurs faisaient des têtes, ah mais! des têtes aussi étonnées qu’étonnantes. </p>
+        <p> Le capitaine Drivau leur dit: </p>
+        <p> – Vous vous demandez si je ne suis pas fou, mes chers camarades? </p>
+        <p> » Pas fou du tout. </p>
+        <p> » Quand un homme a en tête l’idée de réaliser une chose jusqu’alors regardée comme impossible, ce que nous appelons, nous, un grand impossible, la bête humanité le fait passer pour fou. </p>
+        <p> » Fou Salomon de Caux qui inventa la marmite à vapeur. </p>
+        <p> » Insensé Fulton jusqu’au jour où son bateau à vapeur marcha. </p>
+        <p> » Est-ce qu’avant le phonographe et le téléphone, on ne riait pas de ceux qui cherchaient ces merveilles, enfin trouvées par Edison? </p>
+        <p> » Notre chef veut aller au pôle en montant un hôtel muni de tout, puis, à cinquante lieues de là, un autre hôtel. </p>
+        <p> » Ainsi jusqu’au pôle. </p>
+        <p> » Et les hôtels seront reliés par des voitures, des traîneaux et des chaloupes, j’entends pour traverser les mers libres en été. </p>
+        <p> » Qu’est-ce que cinquante lieues pour un Esquimau monté sur son traîneau. </p>
+        <p> » Dix heures de course. </p>
+        <p> » Les voyageurs, en Russie, font de bien plus longues traites. </p>
+        <p> » Et le chemin d’entre hôtels aura ses maisons-haltes de refuge, maisons en fer, tenues par des Esquimaux. </p>
+        <p> » On pourra y boire; y manger, s’y reposer, coucher si l’on veut, en cas de fatigue, d’indisposition, de tourmente de neige. </p>
+        <p> » Croyez-le bien, nous mènerons cette entreprise à bonne fin. </p>
+        <p> – Vous avez des nègres, des négresses. </p>
+        <p> – Oh! toute une histoire, notre histoire du reste. </p>
+        <p> – Figurez-vous que M. d’Ussonville était chercheur d’or. </p>
+        <p> – Dans l’Alaska? </p>
+        <p> – Non! </p>
+        <p> » En Australie. </p>
+        <p> » Il y a trouvé une montagne d’or. </p>
+        <p> – Ah! diable! </p>
+        <p> – Pour l’exploiter, il a acheté des esclaves au Congo et en a fait ce qu’on appelle des travailleurs libres à la mode anglaise. </p>
+        <p> Les trappeurs se mirent à rire. </p>
+        <p> Drivau reprit: </p>
+        <p> – Pour faire travailler et pour garder ces nègres, le commandant leva une compagnie parmi les anciennes amazones de Béhanzin. </p>
+        <p> » Il avait des artilleurs. </p>
+        <p> » Nous nous sommes établis sur la montagne d’or et nous l’avons exploitée à la surface, dans les champs d’or . </p>
+        <p> » Ça a produit beaucoup. </p>
+        <p> » Puis nous avons constitué une société pour l’exploitation des filons d’or. </p>
+        <p> » Nous sommes les principaux actionnaires et nous touchons d’énormes dividendes. </p>
+        <p> » Nos actions atteignent, des prix fabuleux et nous les vendons peu à peu. </p>
+        <p> » Ça monte toujours. </p>
+        <p> » Or, le commandant avait trois capitaines, Castarel, un Marseillais, Santarelli, un Corse, et moi, tous ex-sous-officiers d’infanterie de marine, et de plus deux sœurs, les deux Taki, anciennes générales de Béhanzin. </p>
+        <p> » Nous avons voulu suivre notre commandant au pôle et nous avons emmené nos ordonnances et du personnel ouvrier. </p>
+        <p> » Le commandant a emmené aussi sa nièce, qui est une grande tueuse d’éléphants et de lions devant l’Éternel. </p>
+        <p> » Si bien que vous tiriez, elle tire mieux que vous, ne manquant jamais l’œil d’un animal. </p>
+        <p> » Sa tante, Mme veuve Morton, est une Anglaise qui est une très brave dame. </p>
+        <p> » Voilà notre histoire. </p>
+        <p> » Plutôt que d’être inutiles et de nous ennuyer, nous, des hommes d’action, nous nous sommes lancés dans une entreprise… amusante en somme… puisqu’elle nous distrait. </p>
+        <p> Les trappeurs admirent ce raisonnement; mais ils n’en avaient pas fini avec leurs questions. </p>
+      </div>
+      <div title="CHAPITRE VI LES MACHINES… À POUDRE" type="chapter">
+        <head> CHAPITRE VI </head>
+        <lb/>
+        <p> Langue-de-Fer demanda au capitaine: </p>
+        <p> – Comment avez-vous pu arriver par eau jusqu’ici? </p>
+        <p> » La mer n’est pas encore libre. </p>
+        <p> – Mais la glace est déjà pourrie. </p>
+        <p> » Or, nous avons un navire brise-glace d’une grande puissance. </p>
+        <p> – Un vapeur? </p>
+        <p> – Non. </p>
+        <p> – Mais un voilier est impuissant comme briseur de glace. </p>
+        <p> – L’hélice de notre navire est mue par l’électricité qui, elle-même, est engendrée par une machine mue par la poudre. </p>
+        <p> – Ça marche? </p>
+        <p> – Oui! </p>
+        <p> – Mais c’est une belle invention. </p>
+        <p> – Un grand impossible réalisé. </p>
+        <p> – Mais alors… </p>
+        <p> – Alors quoi… </p>
+        <p> – Vous êtes des grands hommes! </p>
+        <p> – Nous, non. </p>
+        <p> » Moi je suis un Parisien blagueur, Castarel un Marseillais farceur. </p>
+        <p> » Santarelli est un Corse très sérieux qui ne rit pas, mais qui est un excellent camarade et qui est le meilleur garçon du monde; mais il ne plaisante pas sur le point d’honneur. </p>
+        <p> » Au cours de nos voyages, il s’est marié avec une princesse abyssinienne. </p>
+        <p> » Castarel a épousé une jeune fille née d’une Abyssinienne et d’un Français, mécanicien du Madhi de Karthoum et devenu le nôtre. </p>
+        <p> » Un très brave homme, notre mécanicien, et très habile. </p>
+        <p> » Nous avons encore un médecin très fort, un ingénieur, les capitaines de nos navires, car outre le Brise-Glace , nous avons un clipper, le plus rapide des bâtiments qui sillonnent les mers; il rend quarante-trois nœuds à l’heure, plus de, soixante-dix-sept kilomètres! </p>
+        <p> – Un train rapide, alors? </p>
+        <p> – Oui. </p>
+        <p> – Et… à poudre?… </p>
+        <p> – À poudre. </p>
+        <p> – Mais le danger… </p>
+        <p> » Si l’on sautait? </p>
+        <p> – Impossible. </p>
+        <p> – Pourquoi? </p>
+        <p> – Par suite d’une idée du commandant qui s’est dit: </p>
+        <p> » Qu’est-ce que la poudre? </p>
+        <p> » Du charbon pulvérisé. </p>
+        <p> » Du soufre. </p>
+        <p> » Du salpêtre. </p>
+        <p> » Mais ce n’est de la poudre que quand les trois substances sont réunies. </p>
+        <p> » Or, on ne mêlera que charge par charge, à la seconde où il faudra s’en servir. </p>
+        <p> » Donc les trois substances descendent séparément par trois tuyaux dans l’accumulateur où un volant les mêle. </p>
+        <p> » La charge de poudre ainsi fabriquée tombe sur l’inflammateur. </p>
+        <p> » Les gaz produits agissent sur les pistons. </p>
+        <p> » C’est très simple. </p>
+        <p> – Et on n’y avait pas pensé? </p>
+        <p> » On ne pense pas à tout. </p>
+        <p> Œil-de-Lynx, qui écoutait sans mot dire, secoua la tête, prit le bras de Drivau et lui dit lentement, dans un jargon assez clair quoique incorrect: </p>
+        <p> – Vous allez faire ici un établissement, si j’ai bien compris? </p>
+        <p> – Oui. </p>
+        <p> – Alors, préparez-vous à la guerre. </p>
+        <p> – Pourquoi? </p>
+        <p> – Les directeurs vous feront faire combat par leurs Indiens. </p>
+        <p> Et les deux trappeurs d’approuver: </p>
+        <p> – Il a raison! </p>
+        <p> » Oui, cent fois raison. </p>
+        <p> » Ils ne supportent personne autour d’eux et ne veulent pas qu’il y ait des témoins de leur tyrannie et de leurs vols. </p>
+        <p> » Les Indiens vous enverront un parlementaire avec un drapeau blanc, comme ils ont fait quand Joseph Pasquier a voulu établir une fonderie de graisse de phoque sur le fleuve; le parlementaire vous dira que le territoire appartient aux Indiens, que vous n’avez pas le droit de vous y établir, que les sachems ne vous accorderont jamais ce droit. </p>
+        <p> » Et il vous sommera de déguerpir. </p>
+        <p> » Si vous ne voulez pas, vous verrez accourir un millier de guerriers indiens. </p>
+        <p> » Soutenus par les directeurs, ils ne craindront pas de vous attaquer. </p>
+        <p> – Nous leur répondrons. </p>
+        <p> – Combien êtes-vous? </p>
+        <p> – Une centaine de fusils en comptant nos Esquimaux qui commencent à bien tirer. </p>
+        <p> – Vous serez écrasés. </p>
+        <p> Drivau se contenta de sourire. </p>
+        <p> On arrivait au camp. </p>
+        <p> Le capitaine présenta les trappeurs et le Sioux à M. d’Ussonville. </p>
+        <p> Celui-ci prêta peu d’importance aux craintes d’attaque. </p>
+        <p> Mais il demanda: </p>
+        <p> – Dans les meilleures années, que gagnez-vous à trapper ? </p>
+        <p> – L’année dernière, tout décompte fait de notre compte de dépenses au fort, nous avons touché chacun vingt-deux livres sterling et quelques schillings. </p>
+        <p> – C’est bien! </p>
+        <p> » Je vous engage. </p>
+        <p> – Mais, commandant… </p>
+        <p> – Je vous donne à chacun cent livres! </p>
+        <p> – Mais… </p>
+        <p> – Drivau va vous compter immédiatement vingt livres à chacun. </p>
+        <p> » C’est un cadeau. </p>
+        <p> – Qu’est-ce que nous ferons? </p>
+        <p> – Vous serez les chasseurs de l’hôtel et vous tuerez du gibier, vous ferez la chasse aux morses et la pêche aux truites. </p>
+        <p> » Ça vous va-t-il? </p>
+        <p> – Oui, commandant. </p>
+        <p> – On va vous donner une tente et vous vous construirez une hutte! </p>
+        <p> » Allez. </p>
+        <p> Jamais trappeur n’aurait rêvé un pareil engagement. </p>
+      </div>
+      <div title="CHAPITRE VII LES ESQUIMAUX" type="chapter">
+        <head> CHAPITRE VII </head>
+        <lb/>
+        <p> Le camp présentait une grande animation; on y travaillait ferme. </p>
+        <p> Une petite forge était en pleine activité et des ouvriers battaient le fer sur l’enclume. </p>
+        <p> Une partie des équipages des deux navires était à terre. </p>
+        <p> Auprès du camp, se dressaient huit tentes-huttes d’Esquimaux. </p>
+        <p> LES TENTES-HUTTES </p>
+        <p> Les hommes de cette race élèvent d’abord un mur en pierres sèches à hauteur d’homme à peu près et ils appuient dessus les charpentes d’un toit voûté. </p>
+        <p> Il semblerait que n’ayant pour ainsi dire pas d’outils, les moyens d’élever cette charpente manquent aux Esquimaux. </p>
+        <p> Ils ne se servent pas de bois qu’il leur serait difficile de travailler. </p>
+        <p> Mais ils ont des os de morses et ils les lient les uns aux autres, avec des nerfs très solides qu’ils couvrent d’un mastic dont la base est la colle de poisson; cette ligature qui durcit comme du fer, fait de plusieurs os une seule pièce de charpente. </p>
+        <p> Quand la carcasse du toit est formée, ils étendent dessus une tente en peau de morue ou en peau de phoque. </p>
+        <p> Très souvent la carcasse du toit est faite de côtes de baleines. </p>
+        <p> C’est l’habitation d’été. </p>
+        <p> LES MAISONS DE NEIGE </p>
+        <p> L’hiver, ils en ont une autre beaucoup plus chaude. </p>
+        <p> Ils creusent une vaste chambre dans un amoncellement de neige qu’ils tapent fortement à l’intérieur à l’aide d’omoplates de morse, un instrument à beaucoup de fins. </p>
+        <p> Avec leurs couteaux de pierre, ils grattent, ils arrangent à leur idée l’omoplate. </p>
+        <p> Emmanchée d’un os long, par ligature, elle sert de pelle; avec un manche court, elle devient une batte pour battre la neige; deux omoplates réunies par un manche forment pagaie; posée sur trois pieds, l’omoplate devient un siège; au fond des maisons de neige se dresse un vaste lit pour toute la famille. </p>
+        <p> Il est fait d’un cadre en os, carré long, soutenu par des pieux en os; des os forment d’un côté du cadre à l’autre une carcasse de soutien sur laquelle on place des omoplates bien ajustées l’une contre l’autre. </p>
+        <p> Sur ce, un matelas de mousse, des peaux, et l’Esquimau a un lit d’autant plus moelleux et chaud, que les peaux supérieures sont des peaux de canard-eider (édredon) garnies de leurs plumes, les couvertures sont de même nature. </p>
+        <p> Rien de plus léger, rien qui conserve mieux et maintienne mieux la chaleur. </p>
+        <p> LES KAYAKS </p>
+        <p> Les Européens, gens de civilisation, ne s’imaginent pas quel parti les Esquimaux savent tirer des animaux qu’ils chassent ou qu’ils pèchent. </p>
+        <p> Nous avons vu les os remplacer le bois pour les charpentes et pour la menuiserie. </p>
+        <p> C’est encore avec des os que les Esquimaux font la légère charpente de leurs admirables périssoires, les kayaks. </p>
+        <p> Ils soudent plusieurs grands os de morse de façon à former la quille. </p>
+        <p> À cette quille, ils lient des côtes de morse pour figurer l’avant et l’arrière et les membrures ou côtés du petit bateau. </p>
+        <p> Ils réunissent le tout par un bandage en os légers. </p>
+        <p> Ils couvrent ensuite ce squelette de bateau de peaux de morse qui l’enveloppent complètement, sauf le trou dans lequel l’homme introduit ses jambes et ses reins. Le haut du corps seul déborde. </p>
+        <p> Il y a un tillac (ou plancher) d’os et d’omoplates pour s’asseoir. </p>
+        <p> Ce banc s’encastre dans les membrures du maître-beau (c’est-à-dire l’endroit le plus large) il consolide de beaucoup la charpente. </p>
+        <p> Les femmes, avec leurs aiguilles en os et leurs fils en nerfs, font des coutures imperméables, car l’eau gonfle les nerfs. </p>
+        <p> L’Esquimau entre dans son kayak et il lace avec un cordonnet en peau de phoque les bords de sa blouse percée d’œils, sur les bords de l’ouverture de la peau, formant le trou de l’homme. </p>
+        <p> De cette façon, l’imperméabilité du kayak devient absolue. </p>
+        <p> Avec sa pagaie en main, les harpons couchés sur le plat du bateau et liés avec les paquets de lanières de cuir de morse qui se dévident, quand le harpon a frappé morse ou baleine, le pêcheur esquimau se lance hardiment sur la mer et y brave la fureur des flots. </p>
+        <p> Sur sa blouse de peau, l’eau glisse sans le glacer, car, en dessous, il est chaudement enveloppé de son paletot de peau d’eider, plumes en dedans. </p>
+        <p> Oh! il est bien armé contre le froid! </p>
+        <p> LE HARPON. </p>
+        <p> C’est l’arme par excellence. </p>
+        <p> C’est un os terminé soit par une arête de poisson, soit par une pierre aiguisée, soit par l’épée d’ivoire d’un espadon, chevalier des mers. </p>
+        <p> L’arme que ces espadons portent est souvent longue de deux mètres. </p>
+        <p> Les Esquimaux en font souvent un harpon de chasse contre l’ours blanc. </p>
+        <p> C’est alors une lance. </p>
+        <p> L’Esquimau et son kayak ne font qu’un; il est curieux de voir le pêcheur lancer son esquif sur un glaçon, et, par l’élan imprimé, le faire monter dessus. </p>
+        <p> Se servant alors de son harpon, il pousse ce traîneau improvisé jusqu’à l’autre côté du glaçon, qui se trouve franchi. </p>
+        <p> Et la navigation recommence. </p>
+        <p> La sûreté de main avec laquelle l’Esquimau lance son harpon est prodigieuse. </p>
+        <p> Toujours il frappe au bon endroit. </p>
+        <p> Il est curieux de constater qu’un seul homme sur une si frêle barque peut se rendre maître d’une baleine monstrueuse. </p>
+        <p> ARCS ET FLÈCHES </p>
+        <p> Outre son harpon, l’Esquimau a l’arc et la flèche. </p>
+        <p> L’arc est une côte d’animal, la flèche un os droit épointé. </p>
+        <p> La corde est un boyau. </p>
+        <p> Le carquois est en peau. </p>
+        <p> Un Esquimau lance sa flèche et touche le but à deux cents mètres. </p>
+        <p> Ce n’est pas à dédaigner. </p>
+        <p> PÊCHE À LA BALEINE </p>
+        <p> L’Esquimau est le maître de la baleine, parce que celle-ci est forcée de venir respirer à la surface de l’eau. </p>
+        <p> C’est un mammifère à sang chaud; la femelle allaite ses petits. </p>
+        <p> Il en est de même pour tous les phoques, otaries, vaches marines, éléphants marins ou morses, etc., etc. </p>
+        <p> L’Esquimau lance son harpon qui mord à fond. </p>
+        <p> La baleine blessée file avec une vitesse prodigieuse, dévidant la lanière de cuir qui tient au harpon. </p>
+        <p> Bientôt elle tire sur le kayak; mais enfin elle s’arrête; il faut respirer. </p>
+        <p> L’Esquimau saisit ce moment et lance son second harpon. </p>
+        <p> Nouvelle fuite. </p>
+        <p> Mais, avec la perte de sang, survient l’épuisement et la mort. </p>
+        <p> Comme les plus gros corps dans l’eau mis en mouvement seraient traînés par un fil, l’Esquimau remorque assez facilement sa prise et la ramène. </p>
+        <p> Immense joie de la famille! </p>
+        <p> On se jette frénétiquement sur l’animal, on le dépèce à coups de haches de pierre. </p>
+        <p> L’hiver, la viande se conserve, parce qu’elle gèle à l’air libre. </p>
+        <p> LES CACHES </p>
+        <p> L’été on la met en cache . </p>
+        <p> Le sol ne dégèle jamais à plus de soixante centimètres de profondeur. </p>
+        <p> On creuse à un mètre et l’on se trouve en pleine terre gelée. </p>
+        <p> On entasse les morceaux de viande dans cette glacière, on couvre de terre gelée, puis de terre dégelée et la viande se conserve indéfiniment. </p>
+        <p> LES OMNIAKS </p>
+        <p> J’ai déjà dit que les côtes de baleine servaient souvent comme charpente. </p>
+        <p> Les Esquimaux s’en servent pour fabriquer les gros bateaux de transport qu’ils appellent des omniaks. </p>
+        <p> Ces bâtiments, revêtus de peau comme les kayaks, ne sont pas pontés et ressemblent à des grandes cuves allongées. </p>
+        <p> Ils servent au déplacement d’une famille se rendant d’une station d’été à une station d’hiver et réciproquement. </p>
+        <p> Les femmes et les enfants, avec le matériel, sont dans l’omniak. </p>
+        <p> Les femmes pagayent. </p>
+        <p> Les hommes veillent aux kayaks autour de la grosse embarcation. </p>
+        <p> Et, pour amuser les femmes et les enfants, ils se livrent à des jeux nautiques. </p>
+        <p> Courses, fuites, poursuites, simulacres de combat, et culbutes comme en font les marsouins; l’Esquimau fait chavirer son kayak qui se relève après une pirouette complète. </p>
+        <p> Ces déplacements sont toujours gais. </p>
+        <p> DE LA NOURRITURE </p>
+        <p> On sait que la graisse est un aliment qualifié respiratoire. </p>
+        <p> L’aliment respiratoire est celui qui, en se décomposant, donne au corps la chaleur, tandis que l’aliment plastique forme et nourrit les muscles, les tissus et les os. </p>
+        <p> Or, en hiver, par les terribles froids, l’Esquimau a besoin de beaucoup de calorique, donc de beaucoup d’aliment respiratoire. </p>
+        <p> Graisse et huile de baleine et de phoque, graisse d’ours et de morse. </p>
+        <p> Ce que consomme un Esquimau est vraiment effrayant. </p>
+        <p> La baleine à l’étuvée est un mets peu délicat, mais supportable. </p>
+        <p> L’ours blanc est un bon rôti; le fromage de tête et de pattes d’ours est excellent. </p>
+        <p> Mais la base de la nourriture, le pot-au-feu de l’Esquimau, c’est la viande de morse. </p>
+        <p> L’Esquimau mange aussi du renne, du bœuf musqué, du lièvre blanc, des oiseaux, surtout des gelinottes, etc., etc. </p>
+        <p> Le poisson, la morue surtout et le maquereau varient son ordinaire. </p>
+        <p> Il y a des crustacés. </p>
+        <p> Comme légumes, certaines algues, le cochléaria, des lichens, des pousses vertes, etc. </p>
+        <p> En somme, Nansen et son compagnon déclarent que la vie à la façon esquimaude est très supportable pour l’Européen. </p>
+        <p> Ils ont ainsi vécu pendant un an et ne s’en sont pas plus mal portés. </p>
+        <p> Nansen et son ami avaient même beaucoup engraissé dans leur long hivernage. </p>
+        <p> En somme, les Esquimaux ne sont pas les malheureux que l’on suppose. </p>
+        <p> LES VÊTEMENTS </p>
+        <p> Très bien couverts et parfaitement à l’abri du froid le plus rigoureux. </p>
+        <p> L’Esquimau a une culotte en peau de renard bleu, poil en dedans, qui descend dans ses bottes à la russe. </p>
+        <p> Au lieu de linge, il porte une sorte de chemise en peau de canard-eider (édredon) garnie de ses plumes, chemise-veste d’une légèreté extrême, mais très chaude. </p>
+        <p> Par dessus, il a une blouse en peau d’ours ou de renard, poil en dedans. </p>
+        <p> Enfin un manteau en fourrure à capuchon qui se rabat sur le bonnet. </p>
+        <p> Le tout beaucoup moins lourd qu’on ne l’imaginerait à première vue. </p>
+        <p> Des gants fourrés et des moufles abritent les mains. </p>
+        <p> Les pieds sont protégés par d’excellents chaussons fourrés et des bottes. </p>
+        <p> En traîneau, l’Esquimau disparaît sous des couvertures fourrées. </p>
+        <p> Certainement l’Esquimau, ainsi armé contre le froid, souffre par 4o degrés au-dessous de zéro, moins que nous par 10 degrés. </p>
+        <p> LES BOTTES </p>
+        <p> Une paire de bottes esquimaudes est un long poème qui en dit long sur la patience des femmes de cette race. </p>
+        <p> Ces bottes sont faites en peau de morse et cette peau est d’une épaisseur dont nos cuirs les plus forts ne sauraient donner l’idée. </p>
+        <p> Pour cambrer ces peaux, les femmes les mâchent et elles forment ainsi le talon et le cou-de-pied! </p>
+        <p> Elles ont des mâchoires puissantes garnies de dents superbes. </p>
+        <p> Les différentes pièces d’une botte sont cousues avec des nerfs qui remplacent le fil et la couture est imperméable. </p>
+        <p> On ne sent jamais l’humidité. </p>
+        <p> Du reste, on oint ces bottes avec de l’huile de baleine. </p>
+        <p> Mais l’art s’affirme dans ces chefs-d’œuvre de la chaussure. </p>
+        <p> Les femmes tirent de deux plantes une teinture bleue et une autre rouge. Elles teignent des nerfs et marient ces deux couleurs en dessinant des arabesques piquées qui sont très jolies. </p>
+        <p> Une paire de bottes est le plus précieux cadeau qu’une Esquimaude puisse faire. </p>
+        <p> Dans les établissements groenlandais, les Danois paient très cher une paire de bottes indigènes, chaussures très précieuses. </p>
+        <p> Je dois dire que M. d’Ussonville n’avait pu encore botter tout son monde à l’esquimaude. </p>
+        <p> Mais tous avaient des mocassins. </p>
+        <p> LES MOCASSINS </p>
+        <p> En principe, voici comment se fabrique un mocassin. </p>
+        <p> Quand un chasseur en veut une paire, il abat une grosse bête, ours, daim, bison; il fait une incision dans le haut de l’épaule de façon à pouvoir détacher la peau sans la fendre en long. </p>
+        <p> Il la rabat, comme on fait pour dépouiller un lapin. </p>
+        <p> Il enfile sa jambe nue dans cette peau, poil en dedans; le genou de l’animal forme le talon du mocassin. </p>
+        <p> Le chasseur, avec une écorce souple et forte, noue la peau au bout de son pied et coupe le surplus. </p>
+        <p> Il serre le haut au-dessus du mollet et le mocassin est fait. </p>
+        <p> C’est, on le voit, très simple. </p>
+        <p> Cette chaussure est forte et elle reste toujours très souple. </p>
+        <p> Mais, dans les villes canadiennes, on coud l’extrémité des mocassins. </p>
+        <p> Ceux qui sont en peau de daim passent pour être les meilleurs. </p>
+        <p> LES TRAÎNEAUX </p>
+        <p> Les Esquimaux les fabriquent avec des côtes de baleine et font les sièges avec des omoplates, à moins qu’ils n’aient du bois, ce qui arrive souvent. </p>
+        <p> Les grands fleuves et les rivières, dans les inondations, chassent des arbres et les transportent dans la mer. </p>
+        <p> Là, les courants et les vents les dispersent sur les côtes. </p>
+        <p> Les Esquimaux les recueillent. </p>
+        <p> Le traîneau est toujours très simplement construit. </p>
+        <p> Les Esquimaux y attellent jusqu’à quatorze chiens, par quatre ou cinq pour un rang, les meilleurs à gauche et à droite. </p>
+        <p> Chaque chien a un collier auquel on attache une corde qui passe sous le ventre et se noue à la barre du traîneau. </p>
+        <p> On dirige l’attelage avec un fouet à manche court, à longue lanière en cuir de morse terminée par des nœuds. </p>
+        <p> Le maniement de ce fouet est très fatiguant, très difficile à apprendre. </p>
+        <p> Mais quand on a le tour de poignet , on atteint toujours au bon endroit le chien que l’on veut châtier. </p>
+        <p> Pour faire tourner l’attelage à droite, on frappe du fouet la neige à gauche et réciproquement. </p>
+        <p> Un traîneau bien attelé peut parcourir cinq et même six lieues à l’heure. </p>
+      </div>
+      <div title="CHAPITRE VIII LES CHIENS" type="chapter">
+        <head> CHAPITRE VIII </head>
+        <lb/>
+        <p> Ils sont féroces, indociles, presque sauvages et dévoreraient un homme qui n’aurait pas le fouet en main. </p>
+        <p> Il ne faut jamais hésiter à s’en servir très brutalement. </p>
+        <p> Un chien isolé peut prendre de l’affection pour un maître. </p>
+        <p> On peut même s’en faire obéir par la persuasion, appuyée de bonnes corrections. </p>
+        <p> Mais, en meute d’attelage, le chien ne connaît plus que le fouet. </p>
+        <p> L’animal est très sournois. </p>
+        <p> Quand il est attelé, ce qu’il voudrait, c’est chasser. </p>
+        <p> Dès que les chiens jettent en arrière des regards rapides, se défier! </p>
+        <p> Ils vont s’emballer. </p>
+        <p> On prépare la barre d’arrêt. </p>
+        <p> C’est une côte de baleine, placée à l’arrière et passée dans un trou. </p>
+        <p> On la fait jouer et elle s’enfonce comme un soc de charrue dans la neige, formant obstacle. </p>
+        <p> Dès que les chiens partent sur la piste qu’ils veulent suivre malgré le maître, on fait jouer la barre. </p>
+        <p> Le traîneau s’arrête. </p>
+        <p> On descend et… clic, clac, clac… on fouaille ferme. </p>
+        <p> Puis on remet le traîneau en marche. </p>
+        <p> La société protectrice des animaux aurait fort à faire pour convaincre un Esquimau qu’il ne doit pas battre ses chiens. </p>
+        <p> Question de vie ou de mort tout simplement. </p>
+        <p> S’il n’est pas maître de son attelage, l’Esquimau est un homme perdu. </p>
+        <p> Les chiens esquimaux ne mangent que tous les deux jours. </p>
+        <p> Tout leur est bon. </p>
+        <p> Viande, poisson, entrailles, graisse, ils dévorent tout. </p>
+        <p> Malheureusement, ils sont sujets à une maladie mal connue qui n’est pas la rage, mais qui lui ressemble beaucoup. </p>
+        <p> Elle est contagieuse. </p>
+        <p> Le chien a des crises de fureur qui se terminent par des accès d’épilepsie. </p>
+        <p> La morsure ne paraît pas communiquer cette bizarre maladie. </p>
+        <p> Mais la contagion est certaine. </p>
+        <p> On devrait étudier ce mal qui décime les chiens du Groenland et fait un tort immense aux populations dano-esquimaudes. </p>
+        <p> LA TEMPÉRATURE </p>
+        <p> Pendant les beaux jours d’été, la chaleur, au soleil, peut s’élever à vingt-huit degrés de dix heures du matin à deux heures après midi. </p>
+        <p> Pendant l’hiver, il y a généralement de vingt à trente degrés. </p>
+        <p> Mais l’air est calme et pur; on ne souffre alors que très peu du froid. </p>
+        <p> Dès que l’on travaille, on met bas le manteau de fourrure. </p>
+        <p> Pendant la nuit, le froid descend à trente-cinq et quarante degrés. </p>
+        <p> À de certains moments, le thermomètre atteint cinquante-six et soixante. </p>
+        <p> Alors, c’est terrible; mais c’est rare. </p>
+        <p> On reste dans les maisons de neige et on laisse passer la crise. </p>
+        <p> TEMPÊTES DE NEIGE </p>
+        <p> Ce qu’il faut éviter surtout, c’est la tempête de neige. </p>
+        <p> Si elle vous surprend, on est en danger de mort par le froid. </p>
+        <p> Le vent glacé vous tue. </p>
+        <p> Il faut tout de suite arrêter le traîneau, grouper ses chiens autour de soi et se laisser couvrir de neige. </p>
+        <p> Celle-ci vous protège. </p>
+        <p> De temps à autre on se surhausse pour avoir toujours un peu d’air. </p>
+        <p> Des chiens, on ne voit que les museaux. </p>
+        <p> Cette propriété de la neige de conserver la chaleur étonne les citadins, mais non point les cultivateurs. </p>
+        <p> Ils savent tous qu’un bon manteau de neige protège le blé qui pousse lentement dessous, ainsi que l’herbe. </p>
+        <p> Les cerfs, les biches, les chevreuils, les lapins et les lièvres de nos forêts grattent la neige et mangent l’herbe tendre qui pousse dessous. </p>
+        <p> Les rennes, les bœufs musqués, les chevaux du Thibet, les yacka (bœuf à queue de cheval), les chameaux sauvages du Pamir trouvent à vivre grassement en se creusant des galeries dans des épaisseurs de neige énormes. </p>
+        <p> En Russie, le voyageur à pied que la nuit surprend, se creuse un lit dans la neige, en rabat sur lui en guise de draps blancs et dort dans une chaleur très douce. </p>
+        <p> Notre corps a trente-six degrés au-dessus de zéro, comme température normale; mais il y a une constante déperdition en hiver, malgré les vêtements. </p>
+        <p> Avec une couverture de neige, il n’y a plus de déperdition. </p>
+        <p> La neige ne chauffe pas; elle met simplement à l’abri du froid. </p>
+        <p> Voici, du reste, un tableau des températures minima et maxima relevées par Nansen à quatre-vingts lieues du pôle, au plus près qu’il ait pu atteindre, à deux cents lieues, point le plus éloigné où il ait fait les observations qui sont consignées dans ce tableau. </p>
+        <p> Mois – Température moyenne – Minimum – Maximum </p>
+        <p> Mars 1895 – -38°,8 – -22°,8 – -46°,1 </p>
+        <p> Avril – -28°,9 – -18°,9 – -37°,2 </p>
+        <p> Mai – -31°,1 – -2°,2 – -23°,7 </p>
+        <p> Juin – -11°,1 – -3°,3 – -2°,6 </p>
+        <p> Juillet – -0°,0 – -2°,7 – -2°,2 </p>
+        <p> Août – -1°,6 – -2°,2 – -7°,2 </p>
+        <p> Septembre – -6°,6 – -5°,0 – -20°,0 </p>
+        <p> Octobre – -18°,3 – -8°,8 – -25°,0 </p>
+        <p> Novembre – -25°. 0 – -2°,2 – -31°,2 </p>
+        <p> Décembre – -25°,0 – -11°. 1 – -38°,3 </p>
+        <p> Janvier 1886 – -25°,1 – -7°,2 – -43°,3 </p>
+        <p> Février – -23°,3 – -11°,1 – -40°,0 </p>
+        <p> Mars – -12°,2 – -1°,1 – -33°,9 </p>
+        <p> Avril – -13°,3 – -2°,7 – -25°,4 </p>
+        <p> Mai – -7°,6 – -6°,1 – -23°9 </p>
+        <p> Juin (1 au 16) – -1°,6 – -3°,7 – -5°,0 </p>
+        <p> On le voit, non sans étonnement, la rigueur du froid n’est pas aussi terrible qu’on se l’imagine, parce que l’on s’exagère volontiers les choses. </p>
+        <p> Les maxima évidemment se produisent le jour et nous voyons: </p>
+        <p> En octobre, 8°,8 seulement au-dessous de zéro pendant les bonnes heures du jour. </p>
+        <p> En novembre 12°,2. </p>
+        <p> En décembre 11°,1. </p>
+        <p> En janvier 7°,2. </p>
+        <p> En février 1°,1. </p>
+        <p> En mars 1°,1. </p>
+        <p> Voilà pour les mois les plus froids. </p>
+        <p> Il est vrai que c’est la température diurne, et, bien entendu, pas tous les jours, c’est celle des meilleurs jours. </p>
+        <p> Mais enfin, ce n’est pas aussi rigoureux qu’on le croit dans le public. </p>
+        <p> La nuit, il est vrai, on voit des maxima de 46°, 43°, 40°. </p>
+        <p> Mais pendant la nuit, peu importe le froid, puisque l’on se tient chaudement dans le navire explorateur ou dans les maisons de neige. </p>
+        <p> Je ferai observer que celles-ci sont toujours précédées d’un long couloir en ligne brisée, en zigzags, avec fermeture complète. </p>
+        <p> Le froid du dehors ne pénètre pas. </p>
+        <p> LE CALORIQUE </p>
+        <p> On peut dire que la vie des Esquimaux est d’une simplicité extrême. </p>
+        <p> Cependant rien d’essentiel ne leur manque; ainsi le bois étant fort rare, et apporté seulement par les courants maritimes, il semblerait que le calorique fait défaut. </p>
+        <p> Erreur! </p>
+        <p> Il abonde! </p>
+        <p> L’huile de baleine, la graisse de phoque le fournissent abondamment. </p>
+        <p> Les Esquimaux (j’entends ceux qui vivent là où il n’y a plus de forêts) récoltent cependant en été les duvets, les cotons pour mieux dire, de certains arbustes, notamment sur le saule-nain. </p>
+        <p> Ils en tirent des mèches. </p>
+        <p> L’huile et la graisse sont contenues dans une lampe en pierre creuse. </p>
+        <p> Des trépieds soutenant un carré (le tout en os) permettent de faire la cuisine dans des marmites que les feux des lampes font bouillir. </p>
+        <p> Les pieds et le cercle sont trop loin du feu pour se calciner. </p>
+        <p> Les chons qui restent de la fonte des morceaux de graisse servent à faire des gâteaux. </p>
+        <p> Le feu d’une seule lampe, allumée toute la nuit, suffit à maintenir une température suffisante; plusieurs degrés au-dessus de zéro. </p>
+        <p> Or, chez nous, on voit dans les chambres à coucher sans feu l’eau geler dans les cuvettes, par au moins cinq ou six degrés de froid. </p>
+        <p> On n’en dort pas moins bien. </p>
+        <p> Il ne faut pas oublier que les Esquimaux ont d’excellentes couvertures en peaux d’eider (le véritable édredon que nos pauvres ne peuvent se payer et qui coûte fort cher). </p>
+        <p> Mais, je le répète, il y a des journées terribles. </p>
+        <p> On fait alors comme Nansen et les Esquimaux, on ne sort que très peu. </p>
+        <p> Nansen nous a donné un tableau de la durée de ces périodes de froid où le thermomètre descend à 40° et au-delà. </p>
+        <p> Ceux qui consulteront ce précieux tableau constateront combien peu de temps durent ces périodes de 40° et au-dessous. </p>
+        <p> Il paraît que le meilleur est de dormir le plus que l’on peut. </p>
+        <p> On s’éveille pour manger. </p>
+        <p> L’homme, dans ces périodes, devient un peu loir, la femme marmotte. </p>
+        <p> On peut parfaitement, sans souffrir, faire des promenades d’une heure. </p>
+        <p> Mais on ne s’éloigne pas. </p>
+        <p> LA FAUNE. – LES ANIMAUX </p>
+        <p> Elle est plus riche qu’on ne croit. </p>
+        <p> À tout seigneur tout honneur. </p>
+        <p> L’ours blanc est le roi des animaux polaires. </p>
+        <p> Drôle d’animal. </p>
+        <p> S’il voit un homme, tantôt il se jette dessus, tantôt il fuit. </p>
+        <p> Quand il fuit, est-ce parce qu’il n’a pas faim? </p>
+        <p> Je ne saurais le dire. </p>
+        <p> Peut-être se sauve-t-il quand il n’a jamais vu d’homme. </p>
+        <p> L’animal dut lui paraître assez bizarre pour qu’il l’évite. </p>
+        <p> Ou bien, peut-être, celui qui fuit aura été fléché par des Esquimaux ou tiré par ceux d’entre eux qui ont des fusils ou par des baleiniers. </p>
+        <p> Toujours est-il que Nansen signale, comme les autres explorateurs, l’humeur fantasque et changeante des ours. </p>
+        <p> Tantôt c’est un combat émouvant, tantôt c’est une fuite désopilante. </p>
+        <p> Il est très rare, et peut-être sans exemple, que l’ours blanc attaque un homme endormi; mais après avoir longtemps tourné autour d’une tente, il cherche toujours à y entrer. </p>
+        <p> Il est curieux et joueur. </p>
+        <p> Une bande d’ours aime à se placer en haut d’un monticule à pente raide, et, assis sur le cul, à se laisser glisser sur la neige. </p>
+        <p> Si des ours découvrent une cache et y trouvent des caisses de conserves, ils défoncent tout et ils réduisent les planches en petits morceaux pour s’amuser. </p>
+        <p> S’ils trouvent des cordes, ils les nouent en nœuds inextricables. </p>
+        <p> Si des marins ont laissé leur canot sans surveillance et que des ours passent auprès, ils déménagent tout ce que contient l’embarcation, puis ils brisent tout. </p>
+        <p> Évidemment ça les amuse. </p>
+        <p> L’ours a l’esprit facétieux et malfaisant du singe avec plus de finesse et certainement plus de réflexion. </p>
+        <p> Pour chasser l’ours blanc, les Esquimaux le criblent de fléchades. </p>
+        <p> Comme ils sont plusieurs, l’ours sans cesse harcelé ne sait contre lequel courir, il perd son sang et s’affaiblit. </p>
+        <p> Alors il court vers la mer; mais les chasseurs l’achèvent à coups de harpon. </p>
+        <p> Une bonne précaution pour l’Européen qui chasse l’ours blanc, c’est, au cas où la baïonnette de son fusil n’aurait qu’une douille sans harde d’y ajouter une solide croix de bois, en bois solide, ajustée avec soin. </p>
+        <p> L’ours baïonnetté fonce toujours, et, sans la croix, il arriverait jusqu’au chasseur. </p>
+        <p> On fait surtout des rôtis avec de la chair d’ours. </p>
+        <p> Ils sont excellents. </p>
+        <p> La fourrure a de la valeur. </p>
+        <p> L’ours blancs vit surtout de morses et de phoques. </p>
+        <p> LE BŒUF MUSQUÉ </p>
+        <p> Il est énorme, sauvage, irascible et il se précipite sur l’homme avec une impétuosité terrible. </p>
+        <p> Toujours il attaque. </p>
+        <p> C’est une redoutable brute! </p>
+        <p> Sous toutes les latitudes, du reste, les chasseurs avouent que la plus dangereuse de toutes les chasses est celle des taureaux sauvages. </p>
+        <p> Ces animaux sont collants . </p>
+        <p> Sur le chasseur renversé, ils reviennent et s’acharnent à le mettre en lambeaux à coups de cornes, l’enfilent, le lançant en l’air et finalement le réduisent en bouillie sous leurs sabots, on ne retrouve qu’une pâte humaine. </p>
+        <p> Mais ce butor n’en montre pas moins une pitié généreuse en certain cas. </p>
+        <p> Si un renne poursuivi par des loups rencontre un troupeau de bœufs musqués qui aussitôt a formé le cercle, le cercle s’ouvre pour recevoir et défendre le renne. </p>
+        <p> LES LOUPS BLANCS </p>
+        <p> Ils sont hideux, pelés, galeux, ignobles et extrêmement dangereux en bandes. </p>
+        <p> La faim leur donne du courage. </p>
+        <p> Ils suivent les troupeaux qui émigrent, les attaquent et font leur proie des bêtes ou fatiguées ou malades qui s’attardent. </p>
+        <p> LES RENARDS </p>
+        <p> Ils sont de diverses couleurs, la fourrure bleue est la plus estimée. </p>
+        <p> Le renard polaire vit de lièvres, de pingoins, d’autres oiseaux et d’œufs. </p>
+        <p> LE LIÈVRE POLAIRE </p>
+        <p> On en rencontre beaucoup et on les tue très facilement. </p>
+        <p> S’ils ne connaissent pas l’être humain, ils ne le fuient pas. </p>
+        <p> Excellent gibier. </p>
+        <p> LE RENNE </p>
+        <p> N’est pas domestiqué par les Esquimaux qui, comme traîneurs, préfèrent le chien. </p>
+        <p> Le renne ne fait que deux lieues à l’heure et se repose souvent. </p>
+        <p> Mais il aurait sur les chiens cet avantage qu’il faut nourrir ceux-ci et qu’il se nourrit lui-même. </p>
+        <p> Le renne ne vit bien que dans les pays de très longs hivers neigeux. </p>
+        <p> LES OISEAUX </p>
+        <p> Nous ne pouvons nous faire une idée de leur abondance. </p>
+        <p> L’oie de Brent et le canard-eider pullulent. </p>
+        <p> Ils se nourrissent de plantes marines garnies de coquillages. </p>
+        <p> Comme cette nourriture leur est offerte à profusion, ils s’assemblent par bandes innombrables autour des polynias; on nomme ainsi des points, grands ou petits, où la mer est toujours libre de glace. </p>
+        <p> Ces polynias sont très nombreuses et produites par des causes diverses: marées, disposition des fonds et des côtes, vents et courants. La vie végétale et animale y est très intense. Et canards eiders, oies, cygnes noirs et blancs se gorgent. </p>
+        <p> Quant aux pingoins, aux émouchets, on connaît leur stupidité. </p>
+        <p> Entassés les uns contre les autres, incapables de voler, se laissant assommer sur place, ils se disputent leurs œufs à couver. </p>
+        <p> Les pontes sont d’une fécondité incroyable et les œufs sont excellents. </p>
+        <p> Les Esquimaux font comme les Chinois: pour eux, l’œuf couvé est réputé exquis à n’importe quel moment; on les fait frire. </p>
+        <p> Nos marins, nos baleiniers font comme les Esquimaux et ils se montrent friands des œufs couvés. </p>
+        <p> Pingoins, canards, cygnes, oies, gélinottes, habitent des cavernes, des coins abrités, des creux de rochers; et ils y sont si serrés, qu’un seul coup de fusil en abat une douzaine. </p>
+        <p> Ce que l’on ne saurait se figurer, c’est l’étendue d’un de leurs amas. </p>
+        <p> Ils couvrent souvent toute une falaise et ils se battent pour la possession des œufs, poussent des cris assourdissants. </p>
+        <p> Quand ils vont en pâture, par grands vols, ils voilent la lumière. </p>
+        <p> On a l’impression d’une intensité de vie incroyable, inouïe, oppressante. </p>
+        <p> Le docteur Kone avoue qu’il fut saisi de surprise la première fois, qu’il se trouva en présence d’une canarderie . </p>
+        <p> Il y a un autre oiseau toujours gras à lard et délicieux, le lumme plongeur qui offre aux gourmets un plat raffiné. </p>
+        <p> Mais l’oiseau par excellence c’est une petite gelinotte, la ptamiryan. </p>
+        <p> Les hirondelles de mer et les mouettes sont aussi très nombreuses. </p>
+        <p> Le chasseur les dédaigne. </p>
+        <p> Aussi les pingoins comme chair; mais on en fait de l’huile pour lampe. </p>
+        <p> LA FLORE </p>
+        <p> Je ne veux pas fatiguer le lecteur par une énumération trop longue. </p>
+        <p> Les renoncules, les saxifrages, les postulaires, les mousses diverses, les herbes, les graminées du nord, les lichens; de jolies fleurettes. </p>
+        <p> On mange le cochléaria, les, pousses de ixchnis et de lichens, des graines d’hespiris grosses comme des pois et de petites joubardes; on trouve beaucoup d’autres produits végétaux très mangeables, mais qu’il faut traiter d’une certaine façon. </p>
+        <p> Le but que, se proposent les médecins en poussant, au pole, à la nourriture végétale est non pas la nutrition, mais la santé; ils veulent éviter le scorbut. </p>
+        <p> ORGANISATION POLITIQUE. RELIGION </p>
+        <p> Toute patriarcale. </p>
+        <p> Chaque agglomération a un chef politique et militaire, le nalegak. </p>
+        <p> Ses pouvoirs sont très limités en droit, très étendus en fait. </p>
+        <p> On peut poser en principe qu’un Esquimau veut être absolument maître de ses biens, de ses actes, de sa personne. </p>
+        <p> Il veut chasser, pêcher, voyager, camper et décamper à sa guise. </p>
+        <p> Et cependant il subit très volontiers l’ascendant du chef. </p>
+        <p> C’est parce que le chef est toujours le meilleur de toute la bande. </p>
+        <p> Il préside aux migrations, en fixe la date, et décide des haltes. </p>
+        <p> Mais si sa décision contrarie quelqu’un, libre à celui-ci de ne pas s’y conformer. </p>
+        <p> À côté de ce chef civil, le chef religieux qui est surtout un juge. </p>
+        <p> C’est l’angolak. </p>
+        <p> Au fond, un sorcier. </p>
+        <p> Il a beaucoup de ressemblance avec celui des tribus indiennes. </p>
+        <p> Il est médecin! </p>
+        <p> Quelle médecine! </p>
+        <p> Cependant, comme chirurgien, il rend d’assez bons services. </p>
+        <p> La religion esquimaude est le chamanisme le plus grossier. </p>
+        <p> De même que l’Indien, l’Esquimau croit à un Grand-Esprit, à un paradis de pêche et de chasse, à la survie immortelle de l’être. </p>
+        <p> Mais c’est vague. </p>
+        <p> En revanche,’il croit aux esprits, aux sortilèges, il a d’étranges superstitions. </p>
+        <p> L’angolak prononce des peines. </p>
+        <p> Interdiction temporaire du capuchon, défense de manger les bons morceaux de viande, d’autres abstinences encore. </p>
+        <p> En réalité, ce prêtre est plus puissant, plus redouté que le chef. </p>
+        <p> Toutefois, ils s’appuient l’un sur l’autre, s’entr’aident et… ça marche. </p>
+        <p> LES MŒURS </p>
+        <p> Peu compliquées. </p>
+        <p> L’Esquimau est, par tempérament, monogame; c’est un bon mari. </p>
+        <p> Il est bon parent. </p>
+        <p> Mais, en somme, c’est moralement un endormi; ni haines vives; ni vives tendresses. </p>
+        <p> Le cœur et l’esprit semblent engourdis, déprimés. </p>
+        <p> Ainsi l’Esquimau supportera qu’un parasite envahisse sa hutte. </p>
+        <p> Il le nourrira. </p>
+        <p> Puis, lassé, il le tuera d’un coup de harpon et le jettera dans une crevasse pour se débarrasser d’une exploitation qui aura trop duré. </p>
+        <p> Pas de malveillance. </p>
+        <p> Pas de bienveillance. </p>
+        <p> Il passera près d’un autre Esquimau mourant de faim et de froid, sans avoir la pensée de le secourir. </p>
+        <p> Sous ce rapport, il ressemble à ces navires anglais qui s’éloignent, sans pitié, d’un navire en évidente perdition. </p>
+        <p> Mais l’Anglais agit par un égoïsme voulu, conscient. </p>
+        <p> L’Esquimau passe avec une indifférence stupide, non raisonnée. </p>
+        <p> Tous les explorateurs sont d’accord pour reconnaître qu’au contact de l’Européen, les meilleurs sentiments s’éveillent en lui. </p>
+        <p> Les Danois ont beaucoup à se louer de leurs sujets esquimaux. </p>
+        <p> Ils les ont transformés par l’éducation et par l’instruction. </p>
+        <p> Oh! ces Danois! </p>
+        <p> Quel peuple intelligent et honnête. </p>
+        <p> Les Esquimaux sauvages ont des cérémonies funéraires. </p>
+        <p> Le mort est cousu dans des peaux, porté à distance par les parents et couché à terre; chacun apporte des pierres sur le cadavre qu’on ensevelit sous un tumulus. </p>
+        <p> Ils pleurent le mort sur un rythme très lent, coupé de grands soupirs suivis de hurlements lamentables. </p>
+        <p> Mais ils pleurent encore sur le même rythme pour la mort d’un chien. </p>
+        <p> Pour moins que ça. </p>
+        <p> Pour avoir manqué une chasse ou une pêche, pour avoir perdu une flèche qu’un ours blessé a emportée, etc. </p>
+        <p> Autre usage. </p>
+        <p> Celui-là terrible. </p>
+        <p> Toute personne atteinte d’une maladie lente, incurable, la phtisie, par exemple, et qui devient une charge, dès qu’il faut émigrer au sud en hiver, au nord en été, tout malheureux que l’angolak déclare condamné est enfermé dans une tombe de glace, une hutte où on le couche et qu’on ferme sur lui. </p>
+        <p> La famille lui fait ses adieux; il les reçoit avec une résignation stoïque. </p>
+        <p> Ce sauvage fait un domestique affectueux et très dévoué. </p>
+        <p> C’est un tissu de contradictions. </p>
+        <p> Il est courageux, mais pas brave dans le sens militaire du mot. </p>
+        <p> Il brave de grands dangers avec une intrépidité admirable; mais il préfère la fuite au combat avec les Peaux-Rouges. </p>
+        <p> Mais s’il est avec des blancs, il ne recule pas d’une semelle. </p>
+        <p> Il manque surtout de ressort, d’initiative et n’a pas, de point d’honneur. </p>
+        <p> LA RACE </p>
+        <p> Elle est évidemment d’origine asiatique et affinisée à la race mongole. </p>
+        <p> Mais, dans la race jaune, elle forme un rameau très distinct. </p>
+        <p> Elle a les yeux bridés mongoliques, mais non le nez camard qui est plutôt, comme celui des Indiens, un nez à tendance aquiline. </p>
+        <p> Mais les pommettes sont très saillantes, la mâchoire est très forte. </p>
+        <p> En somme, les plus récents travaux englobent les Esquimaux dans la race finnoise. </p>
+        <p> Celle-ci comprend, outre les Esquimaux, les Lapons de Suède et de Russie (25,000 âmes), les Samoyèdes de la Sibérie et toutes leurs ramifications. </p>
+        <p> L’avenir de cette race finnoise est assuré sous les gouvernements suédois, russe et danois. </p>
+        <p> Ils travaillent à améliorer le sort de leurs excellents et malheureux sujets finnois qui se civilisent peu à peu. </p>
+        <p> Mais les Esquimaux du nord de l’Amérique n’ont rien de bon à attendre des Anglais du Canada dont ils dépendent. </p>
+        <p> Heureusement ils se mettent hors de leurs atteintes. </p>
+        <p> Ce qui est très curieux à constater, c’est la haine des Peaux-Rouges contre les Esquimaux; ils ne peuvent pas les souffrir. </p>
+        <p> Pourquoi? </p>
+        <p> Il y a rivalité de chasse aux points de contact, mais il y a pire. </p>
+        <p> C’est une haine de race. </p>
+        <p> Nous allons, du reste, la voir se développer d’une façon violente. </p>
+      </div>
+      <div title="CHAPITRE IX LES BONS ANGLAIS !" type="chapter">
+        <head> CHAPITRE IX </head>
+        <lb/>
+        <p> On doit bien penser que ce n’est pas la fine fleur des gens selects qui consent à s’en aller diriger des forts-factoreries, situés à des quatre, cinq ou six cents lieues dans d’immenses solitudes où un gentleman n’a de conversation qu’avec quelques commis plus ou moins grossiers; des trappeurs ignorants les belles manières et des sauvages. </p>
+        <p> À moins d’un tempérament spécial, ça n’a rien de gai. </p>
+        <p> Messieurs les directeurs, surtout ceux du très haut Canada, sont des personnages plus ou moins tarés qui s’exilent là-bas, faute de mieux. </p>
+        <p> Ce sont gens que leurs vices, surtout l’ivrognerie, ont empêché de réussir. </p>
+        <p> C’est connu. </p>
+        <p> Il y a des exceptions. Mais pas beaucoup. </p>
+        <p> Ces bons directeurs partent avec la recommandation suivante: </p>
+        <p> – Arrangez-vous comme vous voudrez; le fort doit rendre tant. </p>
+        <p> Et l’on comprend que ce soit là commercialement le bon système. </p>
+        <p> Point de déboires. </p>
+        <p> Les actionnaires sont sûrs, à l’avance, de leurs dividendes. </p>
+        <p> Mais si l’inspecteur qui passe tous les ans, en été, avec le vapeur de ravitaillement, s’aperçoit que le fort peut rendre davantage, il le taxe d’autant plus haut. </p>
+        <p> Si réellement l’année a été mauvaise, il détaxe un peu. </p>
+        <p> Au milieu de ces fluctuations, le directeur n’en fait pas moins son beurre. </p>
+        <p> Les commis font aussi le leur. </p>
+        <p> Le directeur tolère. </p>
+        <p> Il faut bien qu’il ferme les yeux, pour que les langues des inférieurs ne se délient pas. </p>
+        <p> Tel est le système. </p>
+        <p> Excellent, très pratique pour la compagnie, détestable pour les Indiens et les trappeurs. </p>
+        <p> Ces malheureux boivent l’infâme eau-de-vie de pommes de terre et de tafia que leur vend la compagnie, alcools frelatés. </p>
+        <p> Il y a entre le rhum et le tafia la même différence qu’entre l’eau-de-vie de vin et l’eau-de-vie de marc. </p>
+        <p> Le rhum se fait avec le jus même de la canne à sucre pressée. </p>
+        <p> Le tafia se fait avec les marcs. </p>
+        <p> Il est plein de principes neufs, car il n’est pas rectifié. </p>
+        <p> Il a promptement raison des Peaux-Rouges qui résistent moins que les nègres, moins que les blancs, moins qu’aucune race. </p>
+        <p> Et quand on reproche aux Anglais ces assassinats par le tafia, ils répondent: </p>
+        <p> – Que voulez-vous? </p>
+        <p> » Une loi divine, souvent vérifiée, prouve que dès qu’ils sont en face des civilisés, les sauvages fondent et disparaissent. </p>
+        <p> » Que ce soit d’une façon ou d’une autre, il faut que ça arrive. </p>
+        <p> » Ce serait une révolte impie contre les volontés de Dieu, d’essayer d’entraver la déchéance fatale et l’annihilation des races inférieures. </p>
+        <p> Tas d’hypocrites! </p>
+        <p> Inventer cette prétendue loi! </p>
+        <p> Oui, partout où les Anglo-Saxons s’installent, les sauvages disparaissent. </p>
+        <p> Ils y travaillent le plus sournoisement, mais le plus efficacement du monde. </p>
+        <p> Mais les républiques américaines, du Mexique, du Brésil, toutes celles de l’Équateur et du sud ont civilisé la race des sauvages, créé la race des métis, conféré à tous les droits civiques. </p>
+        <p> Et ces républiques prospèrent tout en sauvant les indiens qui deviennent pour elles un élément de force et de grande natalité. </p>
+        <p> Ainsi donc la prétendue loi divine qu’invoquent les Anglais n’existe pas. </p>
+        <p> La vérité est qu’ils ne veulent pas civiliser les sauvages. </p>
+        <p> Ils disent en riant: </p>
+        <p> – Un sauvage tient la place de cent Anglais et ce n’est pas raisonnable. </p>
+        <p> Ils font par là allusion à l’énorme espace qu’il faut aux peuples chasseurs pour vivre. </p>
+        <p> Mais les Peaux-Rouges américains des États-Unis du sud s’étaient faits cultivateurs et réussissaient admirablement. </p>
+        <p> Qu’ont fait les Anglo-Saxons américains? </p>
+        <p> Ils ont dépossédé ces Indiens de leurs défrichements et les ont déportés en masse. </p>
+        <p> Ils ont, du reste, une manière à eux d’exterminer une tribu gênante. </p>
+        <p> Ils arment un petit vapeur, le chargent de marchandises et l’envoient trafiquer avec la malheureuse tribu condamnée dont on convoite le territoire; tout l’équipage du vapeur est vacciné: parmi les marchandises, il y a des vêtements de varioleux qui répandent le virus partout et contaminent tout ce qu’achètent les Indiens. </p>
+        <p> Ils crèvent en masse. </p>
+        <p> C’est ainsi qui dix mille Dacotas, trente mille Sioux, cinq mille Iroquois ont été anéantis. </p>
+        <p> C’est pourquoi des écrivains ont pu dire que la Providence avait suscité la guerre de sécession pour punir les États-unis de leurs crimes contre les Indiens. </p>
+        <p> Les agents tes plus impitoyables, les plus féroces de cette destruction sont les directeurs des forts-factoreries. </p>
+        <p> Ceux-ci, du reste, toujours ivres, se tuent rapidement par l’alcoolisme. </p>
+        <p> Tels sont messieurs les directeurs des forts, belles et généreuses natures, on le voit. </p>
+        <p> LE COMPLOT </p>
+        <p> Or, le fort Peel-River avait pris un air de fête. </p>
+        <p> Les Indiens des villages voisins avaient endossé leurs manteaux de cérémonie; ils étaient prêts à monter à cheval. </p>
+        <p> Le directeur et les commis étaient endimanchés, les trappeurs présents avaient leurs blouses de rechange neuve sur le dos. </p>
+        <p> Un cavalier indien accourut et cria sur son passage: </p>
+        <p> « Ceux du fort Lapierre! » </p>
+        <p> Aussitôt les Indiens montèrent à cheval et se rangèrent en bataille sur un rang devant la porte du fort. </p>
+        <p> Un cops indien à cheval, présente un coup d’œil pittoresque. </p>
+        <p> Coiffés de plumes, les guerriers ont le fusil en bandoulière, le bouclier au bras gauche, la lance en main droite. </p>
+        <p> Le tomahawk, pend à la selle du cheval et le lasso enroulé y est accroché. </p>
+        <p> La race est superbe, vraiment guerrière, d’aspect imposant. </p>
+        <p> Les exercices de corps continuels, la vie en plein air, des chasses de jour et de nuit, des alternatives de saisons absolument froides, extrêmement chaudes, forment des hommes magnifiques, malheureusement dégradés par l’ivrognerie. </p>
+        <p> À cheval, des centaures. </p>
+        <p> À pied, drapés dans leurs manteaux d’apparat, chapes du cuir ornées de dessins d’un coloris très vif, les Indiens sont majestueux. </p>
+        <p> « Ce peuple, dit Cottin, est d’une dignité vraiment imposante. » </p>
+        <p> Les deux cents Indiens du fort, immobiles sur leurs chevaux, attendaient. </p>
+        <p> Bientôt, au loin, retentit un long coup de sifflet, modulé d’une certaine façon. </p>
+        <p> Les Indiens saisirent des tibias de daim, transformés en sifflets; ils répondirent à la troupe qui s’annonçait. </p>
+        <p> Puis il se fit un silence. </p>
+        <p> Mais des éclaireurs parurent, montant à la file indienne. </p>
+        <p> Derrière eux des gentlemen à cheval. </p>
+        <p> M. le directeur de Fort-Remparts, connu des Indiens et des trappeurs sous le nom caractéristique de l’Ours-Blanc, M. le directeur et six de ses commis arrivaient. </p>
+        <p> Sept trappeurs à cheval l’escortaient avec une troupe de quinze Indiens. </p>
+        <p> En tête de ceux-ci, un sachem. </p>
+        <p> C’est un jeune homme. </p>
+        <p> Il porte à son manteau des queues de renard et il s’appelle le Subtil-Renard. </p>
+        <p> Tête fine et cruelle. </p>
+        <p> C’est un renard qui tient du chat. </p>
+        <p> Les Indiens se saluent gravement, aussi les trappeurs des deux troupes. </p>
+        <p> Aussi les commis avec des airs gourmés de gens très comme il faut. </p>
+        <p> Aussi les deux directeurs. </p>
+        <p> Nilson a une tête de belette des plus caractéristiques. </p>
+        <p> Bête puante! </p>
+        <p> On sait que tous les animaux du genre belette ont une odeur. </p>
+        <p> D’où leur nom en vénerie. </p>
+        <p> Bêtes puantes! </p>
+        <p> En somme, à part l’alcool et ses relents, Nilson ne sentait pas plus mauvais que tout autre ivrogne se tenant mal. </p>
+        <p> Mais sa ressemblance avec les bêtes puantes lui valait son surnom. </p>
+        <p> L’Ours-Blanc était un homme colossal, taillé comme à coups de hache. </p>
+        <p> Ours d’aspect! </p>
+        <p> Ours de manières! </p>
+        <p> Ours de tempérament! </p>
+        <p> Très fort, malgré une vieillesse prématurée se trahissant par des cheveux longs tout blancs, une barbe longue toute blanche (il n’avait que quarante-huit ans), master Williamson était encore extrêmement solide. </p>
+        <p> Il assommait un buffle d’un seul coup de poing. </p>
+        <p> Brutal, oh! certes. </p>
+        <p> Mais il avait le petit œil fin, rusé, pénétrant de l’ours. </p>
+        <p> Les deux directeurs se serrèrent la main. </p>
+        <p> Nilson: </p>
+        <p> – Merci d’être venu. </p>
+        <p> Williamson: </p>
+        <p> – Affaire grave, m’avez-vous fait savoir. </p>
+        <p> – Très grave. </p>
+        <p> – Il s’agit, je suppose, des gens qui montent un établissement près de l’embouchure du fleuve. </p>
+        <p> – Oui! </p>
+        <p> » Je leur ai fait savoir que la Compagnie avait le monopole de l’exploitation de tous ces territoires et le chef de l’établissement a fait une très insolente réponse à M. Griffiths, mon premier commis, lui disant qu’il avait acheté le terrain au gouvernement et qu’il le défendrait envers et contre tous. </p>
+        <p> » Que le titre de vente portait « pour construire un hôtel » et qu’il le construirait. </p>
+        <p> L’Ours-Gris fronça ses gros sourcils et dit d’une voix éraillée: </p>
+        <p> – Nous verrons bien! </p>
+        <p> Mais on annonçait deux autres troupes. </p>
+        <p> C’étaient les escortes du fort Lapierre et du fort Garik’s. </p>
+        <p> Même entrevue. </p>
+        <p> Même échange de paroles, presque mot pour mot, puis entrée au fort. </p>
+        <p> Un repas était préparé. </p>
+        <p> Aux Indiens, hors du fort. </p>
+        <p> Aux blancs, dans le fort. </p>
+        <p> Repas confortable. </p>
+        <p> Coquillages. Saumons du fleuve. </p>
+        <p> Pommes de terre flanquant la sauce du poisson. </p>
+        <p> Pâté énorme de gibier de poil et de plume très varié. </p>
+        <p> Épaules et gigots de daims à l’étuvée et aux carottes. </p>
+        <p> Cygnaux rôtis avec haricots secs assaisonnés au jus de ces magnifiques oiseaux. </p>
+        <p> Salades aux pommes, aux pommes de terre et aux harengs saurs. </p>
+        <p> Tartes aux confitures et à la rhubarbe. Bières. </p>
+        <p> Café et liqueurs. </p>
+        <p> Beaucoup d’entrain grossier. </p>
+        <p> Le repas terminé, les directeurs s’assemblèrent. </p>
+        <p> Grogs corsés! </p>
+        <p> Puis causerie sérieuse sur l’établissement de l’hôtel. </p>
+        <p> Conclusion: </p>
+        <p> « Rien de plus gênant que cet hôtel et que les touristes. </p>
+        <p> « Ils se mêleront de ce qui ne les regarde pas et mettront le nez dans les affaires des forts-factoreries. </p>
+        <p> « . Ils feront des tartines dans les journaux et il y aura des meetings d’indignation. </p>
+        <p> « Donc… pas d’hôtel… » </p>
+        <p> Par les moyens? </p>
+        <p> Oh! très simples. </p>
+        <p> Ultimatum envoyé par les sachems indiens, et, si l’ultimatum est rejeté, massacre général et sans pitié. </p>
+        <p> Les trappeurs ne se mêleront de rien. </p>
+        <p> Pas de blancs dans l’affaire. </p>
+        <p> D’autant plus que, pensaient les directeurs, on aurait obtenu difficilement le concours des trappeurs, qu’il valait mieux ne pas mêler à la chose. </p>
+        <p> Il ne restait qu’à s’entendre avec les sachems, ce qui ne pouvait être long. </p>
+        <p> Du rhum d’abord. De la poudre. </p>
+        <p> Des carabines aux chefs. </p>
+        <p> Des fusils pour les jeunes guerriers. L’appât du pillage. </p>
+        <p> Puis, beaucoup de rhum après l’affaire. </p>
+        <p> Combien de guerriers? </p>
+        <p> Deux mille! </p>
+        <p> Voilà les forces qui allaient tomber sur la petite troupe de M: d’Ussonville. </p>
+      </div>
+      <div title="CHAPITREXL’ATTAQUE" type="chapter">
+        <head> CHAPITRE X </head>
+        <lb/>
+        <p> L’hôtel en fer était terminé. </p>
+        <p> On s’était hâté. </p>
+        <p> Langue-de-Fer et Francœur ont tellement insisté que M. d’Ussonville a acquis la quasi-certitude que les Indiens, sur l’instigation des directeurs de factoreries, attaqueront. </p>
+        <p> Mais, en homme de précaution, il a toujours eu cette idée qu’il devait mettre ses hôtels à l’abri de tout assaut. </p>
+        <p> Aussi les a-t-il munis de trois blockhaus en tôle de fer, formant saillies et disposés en triangle; une mitrailleuse balayant tout l’espace entre elle et sa voisine. </p>
+        <p> Il pouvait, sur chaque face du triangle, faire tirer trois cents coups à la minute. </p>
+        <p> Œil-de-Lynx était parti à la découverte; il revint annonçant, qu’à n’en point douter, il se faisait des préparatifs dans les tribus. </p>
+        <p> Et les deux trappeurs ne voyant d’Ussonville faire aucun préparatif, se montrèrent très inquiets de son insouciance. </p>
+        <p> Et Langue-de-Fer de dire: </p>
+        <p> – Mais, mon commandant, ils vont venir en force donner l’assaut. </p>
+        <p> – Nous les recevrons. </p>
+        <p> – Mais ils sont si nombreux! </p>
+        <p> – Seraient-ils trente mille. </p>
+        <p> – Vous comptez sur les petits canons qui sont dans les blockhaus? </p>
+        <p> – Oui. </p>
+        <p> – Vous avez tort. </p>
+        <p> – Non. </p>
+        <p> – Je n’ai jamais vu jouer ces pièces-là, mais enfin ce n’est qu’un canon de fusil. </p>
+        <p> D’Ussonville avait souri. </p>
+        <p> – Mon ami, avait-il dit, quelque jour je voudrai apprendre à trapper. </p>
+        <p> » Je vous prierai de m’emmener avec vous. </p>
+        <p> » Or, que diriez-vous si je voulais en savoir plus que vous. </p>
+        <p> » Je n’ai jamais trappé. </p>
+        <p> » Vous n’avez jamais mitraillé. </p>
+        <p> » Croyez-moi, dormez en paix et laissez-moi faire. </p>
+        <p> Langue-de-Fer s’était tu. </p>
+        <p> Avec Drivau, il avait été moins heureux, car le capitaine l’avait blagué. </p>
+        <p> Encore moins avec Castarel qui lui avait dit des énormités. </p>
+        <p> Aussi en causait-il assez tristement avec son ami Francœur. </p>
+        <p> – Je vois, disait-il, que nous avons eu tort de nous engager dans cette affaire. </p>
+        <p> » Ces gens-là ne connaissent pas les Indiens et ils se laisseront surprendre. </p>
+        <p> En quoi les braves trappeurs se trompaient, car toutes les nuits, il y avait dans chaque blockhaus, une sentinelle relevée d’heure en heure et munie d’une lorgnette marine de nuit. </p>
+        <p> On connaît la propriété de ce merveilleux instrument d’optique. </p>
+        <p> Par une nuit sombre, on y voit presque comme en plein jour. </p>
+        <p> Or, une nuit, voilà que tout à coup les trappeurs entendirent sonner la cloche qui annonçait d’ordinaire les repas. </p>
+        <p> Dans les couloirs, retentissait le cri: </p>
+        <p> – Aux armes! </p>
+        <p> Des voix d’officiers criaient: </p>
+        <p> – Chacun à son poste. </p>
+        <p> Or, le commandant avait précédemment désigné aux deux trappeurs et à Œil-de-Lynx, comme place de combat, une espèce de tourelle qui couronnait le toit de l’hôtel. </p>
+        <p> Ils y grimpèrent. </p>
+        <p> D’Ussonville les y rejoignit. On n’y voyait pas. </p>
+        <p> TEMPS BOUCHÉ </p>
+        <p> – Diable! disait Langue-de-Fer. </p>
+        <p> » Nuit sans lune! </p>
+        <p> » Brouillard! </p>
+        <p> » Sale temps! </p>
+        <p> D’Ussonville braqua sa longue vue et ne dit mot. </p>
+        <p> Francœur qui flânait au vent, se mit à dire: </p>
+        <p> – Mais, commandant, ils sont tout près, tout près de nous. </p>
+        <p> » Ça pue l’Indien. </p>
+        <p> – Un vrai boucan, dit Langue-de-Fer. </p>
+        <p> Œil-de-Lynx dit à son tour: </p>
+        <p> – Je les vois. </p>
+        <p> Ils touchent aux murs. </p>
+        <p> – Je les vois aussi, dit d’Ussonville. </p>
+        <p> En ce moment, les Indiens poussèrent des hurlements effrayants et s’élancèrent à coups de tomahawk. </p>
+        <p> Ils attaquèrent les portes qui résistèrent. </p>
+        <p> Mais des lampes au magnésium s’allument et éclairent le théâtre du combat. </p>
+        <p> D’Ussonville, avec son porte-voix, ordonna: </p>
+        <p> – Feu de mitrailleuses! </p>
+        <p> Alors les trappeurs entendirent les craquements sinistres. </p>
+        <p> En moins de deux minutes, sur toutes les faces, tout fut balayé. </p>
+        <p> Mais, pivotant sur l’affût, les instruments de mort tirèrent encore pendant quelques minutes, poursuivant de leurs meurtrières décharges l’ennemi en fuite. </p>
+        <p> Enfin d’Ussonville fit cesser le feu. </p>
+        <p> Les lampes projetaient leurs rayonnements blancs sur une scène de carnage épouvantable; il y avait plus de douze cents morts ou mourants autour de l’hôtel. </p>
+        <p> D’Ussonville aux trappeurs: </p>
+        <p> – Qu’en pensez-vous? </p>
+        <p> – Oh! commandant, quelles armes, ces petits canons de rien du tout. </p>
+        <p> D’Ussonville dit à Œil-de-Lynx en lui tendant son porte-voix: </p>
+        <p> – Crie à ceux qui ne sont que blessés que je leur fais grâce. </p>
+        <p> Le Sioux était étonné. </p>
+        <p> Jamais on ne fait quartier, quand on combat des indiens qui, eux, sont sans pitié. </p>
+        <p> Les trappeurs furent frappés du silence militaire qui régnait dans l’hôtel, signe d’une grande discipline. </p>
+        <p> Pas un mot. </p>
+        <p> Pas un bruit. </p>
+        <p> D’Ussonville lança différents ordres et les portes s’ouvrirent. </p>
+        <p> Mais les blockhaus restèrent occupés, les mitrailleuses braquées. </p>
+        <p> Le personnel s’occupa de transporter les blessés sous les huttes dont nous avons parlé et qui servaient d’ateliers, de hangars, de magasins, avant la construction de l’hôtel. </p>
+        <p> Le chirurgien des bâtiments et les deux médecins qui suivaient l’expédition eurent vraiment beaucoup à faire. </p>
+        <p> Deux cent vingt blessés! </p>
+        <p> Soixante amputations à faire! </p>
+        <p> Les Peaux-Rouges étaient stupéfaits qu’on leur donnât des soins. </p>
+        <p> Dès qu’il fit jour, d’Ussonville envoya Œil-de-Lynx en parlementaire. </p>
+        <p> Le parlementaire attache à sa lance une flamme blanche. </p>
+        <p> Il est toujours respecté. </p>
+        <p> Le Sioux annonça aux Indiens: </p>
+        <p> 1° Que les directeurs des forts qui les avaient lancés contre l’hôtel étant les vrais coupables, lui, d’Ussonville, n’en voulait plus qu’à eux, se contentant de la leçon donnée. </p>
+        <p> Il n’avait fait tirer que les mitrailleuses; si les fusils avaient fait feu, il n’y aurait pas trente guerriers qui auraient échappé au massacre. </p>
+        <p> 2° Les blessés étaient soignés et seraient rendus après guérison. </p>
+        <p> 3° Il fallait venir enterrer les morts. </p>
+        <p> Et dédaigneusement: </p>
+        <p> – Vous pouvez emporter vos armes, le commandant n’a pas peur de vous. </p>
+        <p> Les Indiens étaient consternés. </p>
+        <p> Ils assemblèrent aussitôt un conseil de sachems et de guerriers. </p>
+        <p> Ici une parenthèse. </p>
+        <p> Un sachem est chef d’une tribu ou d’une division de tribu. </p>
+        <p> Un guerrier est un homme qui s’est distingué à la guerre et à la chasse. </p>
+        <p> Autour de lui se groupent un certain nombre d’hommes. </p>
+        <p> Il les commande. </p>
+        <p> Il les appelle « ses jeunes gens ». </p>
+        <p> Ces derniers ne sont jamais appelés au conseil; les guerriers les représentent. </p>
+        <p> Le calumet fut allumé, passé de main en main après aspiration, puis la parole fut donnée à Œil-de-Lynx. </p>
+        <p> Les sauvages ne sont nullement embarrassés pour prendre la parole en public; ils naissent avec le don de l’éloquence. </p>
+        <p> Œil-de-Lynx répéta les trois propositions déjà faites; il les appuya. </p>
+        <p> Le plus âgé des sachems lui dit: </p>
+        <p> – Nous avons attaqué les blancs. </p>
+        <p> » Nous avions raison et nous avions tort. </p>
+        <p> » Le territoire était à nos ancêtres. </p>
+        <p> » La Compagnie prétend qu’il est à elle et que la grande squaws anglaise (la reine) le lui a donné; enfin, une convention a été faite entre la Compagnie et nous; le territoire lui appartient, mais il nous appartient aussi; personne que nous ou les trappeurs de la Compagnie ne peut y chasser et s’y établir. </p>
+        <p> » Voilà pour que la raison soit de notre côté et elle y est. </p>
+        <p> » Où nous avons eu tort, c’est de ne pas refuser de marcher, si les trappeurs et les directeurs ne marchaient pas avec nous. </p>
+        <p> » Car ce n’est pas à nous que cet établissement peut faire du tort. </p>
+        <p> » C’est aux forts. </p>
+        <p> L’assemblée approuva. </p>
+        <p> Le Sioux reprit la parole. </p>
+        <p> – Il faut, dit-il, que mon frère sache qu’il se trompe sur un point, parce qu’il a été trompé par la Compagnie. </p>
+        <p> » Les directeurs sont les menteurs. </p>
+        <p> » Les Anglais se sont emparés du Canada, c’est comme si vous vous empariez du territoire d’une tribu voisine par la force des armes. </p>
+        <p> » Or, ils n’ont accordé à la Compagnie que le droit de trafiquer seule les pelleteries et de vendre en échange ce dont les chasseurs ont besoin. </p>
+        <p> » Les seuls terrains que la Compagnie possède sont ceux où les forts sont bâtis. </p>
+        <p> – Est-il vrai? </p>
+        <p> La question fut posée tout d’une voix. </p>
+        <p> Le Sioux reprit: </p>
+        <p> – Avant peu, les directeurs seront obligés de le reconnaître devant vous. </p>
+        <p> » Un envoyé du gouvernement et de la Compagnie réglera pour le bien des Indiens et des trappeurs toutes les questions. </p>
+        <p> » Il réprimera les abus. </p>
+        <p> Avec animation: </p>
+        <p> – Ces abus, mes frères, ils ont poussé comme les arbres d’une forêt. </p>
+        <p> » Mais le Grand-Esprit a suscité un bûcheron, armé d’une cognée puissante qui va abattre les arbres de la forêt des abus. </p>
+        <p> » Vous les verrez à l’œuvre! </p>
+        <p> – Och! och! s’écrièrent les sachems joyeusement en levant la main droite. </p>
+        <p> » Honneur à ce bûcheron. </p>
+        <p> Le Sioux reprit: </p>
+        <p> – Suivez-moi donc. </p>
+        <p> » Vous verrez vos blessés. </p>
+        <p> » Vous emporterez ceux qui ont succombé et vous leur ferez des funérailles. </p>
+        <p> » Vous n’aurez pas la honte qu’ils soient scalpés, puis abandonnés aux coyotes (hyènes), aux renards, aux loups et aux vautours. </p>
+        <p> L’assemblée approuva. </p>
+        <p> Le grand sachem remercia le Sioux au nom de tous. </p>
+        <p> Il leva la séance et ordonna le départ immédiat. </p>
+        <p> Toute la tribu se mit en marche. </p>
+        <p> Hors de l’hôtel, personne. </p>
+        <p> Les blessés dirent à leurs parents merveille des soins qu’ils recevaient. </p>
+        <p> Rassurée sur leur compte, elle députa son grand sachem et le grand sorcier vers le chef blanc pour le remercier. </p>
+        <p> Après une cordiale réception, ils revinrent avec de beaux présents, ayant fumé le calumet de la paix avec le Commandant. </p>
+        <p> Les morts furent enlevés et emportés dans les campements. </p>
+        <p> La terrible leçon s’imprima fortement dans l’âme des Indiens à deux cents lieues à la ronde et certainement ils ne l’oublieront jamais. </p>
+      </div>
+      <div title="CHAPITRE XI COUP DE THÉÂTRE" type="chapter">
+        <head> CHAPITRE XI </head>
+        <lb/>
+        <p> Plusieurs jours après, une troupe de quinze cavaliers se présentait devant le fort Peel River et en demandait l’entrée. </p>
+        <p> Cette troupe comprenait trois amazones dont deux étaient négresses. </p>
+        <p> Ce détail fit comprendre au directeur Nilson qu’il avait affaire à des gens de l’Hôtel-Polaire du Mackensie-Fleuve. </p>
+        <p> – Ah! dit il, je vais bien les recevoir, ces gens-là! </p>
+        <p> » Ils m’ont tué trop d’Indiens pour que je leur fasse des politesses. </p>
+        <p> Alors il se présenta sur le rempart et il demanda d’un ton brutal. </p>
+        <p> – Que voulez-vous? </p>
+        <p> Un cavalier de taille colossale répondit: </p>
+        <p> – Vous parler. </p>
+        <p> – Je vous écoute! </p>
+        <p> – Ouvrez d’abord la porte de votre fort que nous y entrions. </p>
+        <p> – Je n’ai pas à vous recevoir. </p>
+        <p> – Très bien. </p>
+        <p> Les cavaliers se mirent un peu à l’écart et les deux négresses, qui étaient les deux Taki, se mirent à sonner des fanfares dans leurs trompes d’ivoire. </p>
+        <p> Peu après, une détonation retentissait, c’était un obusier-revolver qui tirait et que Nilson entrevit à travers un bouquet d’arbres. </p>
+        <p> Un obus siffla, éclata sur le port et fit un grand raffut. </p>
+        <p> Le personnel en fut épouvanté. </p>
+        <p> Alors un cavalier se détacha, un drapeau blanc à la main. </p>
+        <p> Tout le personnel monta sur le rempart et le cavalier dit: </p>
+        <p> – Vous voyez. </p>
+        <p> » Nous avons une clef pour ouvrir le fort; ça ne serait ni long, ni difficile. </p>
+        <p> Montrant l’obusier: </p>
+        <p> – Mais le serrurier qui manie la clef vous ferait payer cher son travail. </p>
+        <p> » Ouvrez donc. </p>
+        <p> Nilson furieux: </p>
+        <p> – Mais enfin de quel droit… </p>
+        <p> Le cavalier en riant: </p>
+        <p> – Le droit du plus fort. </p>
+        <p> – Ainsi vous avouez… </p>
+        <p> – Tout. </p>
+        <p> » Ouvrez! </p>
+        <p> Nilson sentait bien qu’il fallait obéir. </p>
+        <p> – Je cède donc à la force! s’écria-t-il. </p>
+        <p> » J’en prends tout le monde à témoin. </p>
+        <p> – Maître Nilson! </p>
+        <p> – Monsieur? </p>
+        <p> – Ça ne vous va pas les airs tragiques! Votre physionomie ne s’y prête pas. </p>
+        <p> Les trappeurs du fort se mirent à rire de la réflexion. </p>
+        <p> Ils n’aimaient pas Nilson. </p>
+        <p> Et puis, comme on dit, ce cavalier leur allait; il avait une désinvolture amusante. </p>
+        <p> – Monsieur, s’écria Nilson, il ne s’agit ni de tragédie, ni de comédie. </p>
+        <p> » Vous violez le droit! </p>
+        <p> » La Compagnie vous intentera un procès. </p>
+        <p> » Oh! ça vous coûtera cher. </p>
+        <p> – Pas si cher qu’à vous la reddition de compte que vous serez forcé de lui rendre. </p>
+        <p> » Car, entre nous, cher monsieur Nilson, vous êtes vraiment par trop voleur. </p>
+        <p> Les trappeurs étaient ravis. </p>
+        <p> Nilson s’écria: </p>
+        <p> – Vous m’insultez! </p>
+        <p> – Quoique vous soyez un renard, j’avoue que j’insulte l’âne jusqu’à la bride. </p>
+        <p> – Bon! </p>
+        <p> » J’aurai ma revanche. </p>
+        <p> – Jamais, monsieur Nilson. </p>
+        <p> » Vous méritez la corde! </p>
+        <p> » Certainement vous serez pendu, et, loin de se venger, les pendus portent bonheur avec leur corde; je me procurerai un bout de la vôtre. </p>
+        <p> Les trappeurs rirent de plus belle. </p>
+        <p> Et le cavalier, qui était Drivau, dit: </p>
+        <p> – Ouvrez, monsieur Nilson. </p>
+        <p> Il en est temps. </p>
+        <p> Nilson obéit. </p>
+        <p> Alors Drivau entra, salua les trappeurs et leur dit amicalement: </p>
+        <p> – Ah! mes camarades, cette canaille vous a exploités longtemps. </p>
+        <p> » Vous allez être vengés. </p>
+        <p> Nilson, pâle de colère, commençait cependant par devenir inquiet. </p>
+        <p> Le peloton de cavaliers s’avança et entra dans le fort. </p>
+        <p> M. d’Ussonville mit pied à terre et s’avançant devant Nilson, lui dit: </p>
+        <p> – Eh bien, monsieur l’assassin! </p>
+        <p> » À quoi cela vous a-t-il servi d’envoyer vos Indiens pour nous massacrer? </p>
+        <p> – Monsieur, vous avez été sommé de déguerpir et vous ne l’avez pas voulu. </p>
+        <p> » Les Indiens ont voulu reprendre leur territoire usurpé. </p>
+        <p> » Moi, représentant de la Compagnie, je ne devais pas intervenir entre les Indiens et vous. </p>
+        <p> » Vous violiez aussi les droits de la Compagnie. </p>
+        <p> M. d’Ussonville froidement: </p>
+        <p> – La Compagnie, c’est moi! </p>
+        <p> Nilson regarda le commandant. </p>
+        <p> – Vous plaisantez! fit-il. </p>
+        <p> – Non, monsieur. </p>
+        <p> » J’ai acheté, avec mes amis, presque toutes les actions de la Compagnie. </p>
+        <p> » Dès lors, j’ai été le maître. </p>
+        <p> » Voici, monsieur, une pièce en règle qui me donne pleins pouvoirs. </p>
+        <p> Il força Nilson à prendre connaissance de cette pièce. </p>
+        <p> – Je suis, dit-il, vous le voyez, inspecteur général. </p>
+        <p> » J’ai le droit de vous casser et je vous casse comme voleur. </p>
+        <p> Nilson était atterré. </p>
+        <p> M. d’Ussonville se tourna vers les trappeurs et leur dit: </p>
+        <p> – Consultez-vous. </p>
+        <p> » Vous allez me désigner le moins mauvais des commis. </p>
+        <p> » J’en ferai le directeur. </p>
+        <p> D’une seule voix les trappeurs crièrent: </p>
+        <p> – Prenez Pierron. </p>
+        <p> » C’est un brave homme. </p>
+        <p> – Une exception alors. </p>
+        <p> Et gravement saluant: </p>
+        <p> – Honneur à vous, monsieur Pierron. </p>
+        <p> » Je vous salue avec plaisir; le témoignage des trappeurs est, flatteur pour vous. </p>
+        <p> » Je vous recommande d’être juste et raisonnable. </p>
+        <p> » Vous êtes directeur. </p>
+        <p> – Monsieur l’inspecteur, je le serai, soyez-en certain. </p>
+        <p> – Vous me ferez un état des vols commis par Nilson. </p>
+        <p> » Il rendra gorge. </p>
+        <p> » Et il partira par le vapeur de ravitaillement. </p>
+        <p> Drivau riant: </p>
+        <p> – Vous voyez, cher monsieur Nilson, que j’avais bien raison. </p>
+        <p> » Vous allez vous faire pendre ailleurs! </p>
+        <p> » Quel vilain pendu vous ferez. </p>
+        <p> Hilarité générale. </p>
+        <p> M. d’Ussonville mit tout en ordre, coucha au fort et en partit le lendemain pour visiter les autres forts. </p>
+        <p> Et partant, il cassa les directeurs et les remplaça. </p>
+        <p> Justice fut ainsi faite. </p>
+      </div>
+      <div title="CHAPITRE XII UN MARI" type="chapter">
+        <head> CHAPITRE XII </head>
+        <lb/>
+        <p> – Monsieur Francœur! </p>
+        <p> – Mademoiselle de Pelhouër? </p>
+        <p> – C’est donc bien terrible un ours grizzly? </p>
+        <p> » On m’a dit que ça valait un lion ou un tigre. </p>
+        <p> – Mademoiselle, dans la vie, on est toujours dans le vrai des choses, quand, ayant affaire à des braves gens, on est franc. </p>
+        <p> – Je pense comme vous. </p>
+        <p> – Mademoiselle, je dois vous dire alors que je ne sais pas du tout, comment se comportent les tigres et les lions. </p>
+        <p> » Je n’en ai jamais tué, moi. </p>
+        <p> – Et des jaguars? </p>
+        <p> Francœur sourit. </p>
+        <p> – Des jaguars? </p>
+        <p> » Une trentaine! </p>
+        <p> – Dangereux? </p>
+        <p> – Oui et non. </p>
+        <p> » Tout se résume en ceci. </p>
+        <p> » Voit-on la bête? </p>
+        <p> » Ne la voit-on pas? </p>
+        <p> » Si vous la voyez, si vous tirez bien, vous visez au défaut de l’épaule. </p>
+        <p> » Dam! </p>
+        <p> » La bête, avant le cuir traversé, vit encore et bondit. </p>
+        <p> » Mais si vous avez du sang-froid, vous la tirez avant le dernier bond. </p>
+        <p> » Une balle presque à bout portant, dans la tête. </p>
+        <p> » Elle tombe. </p>
+        <p> – Mais si vous la tirez, du premier coup, dans l’œil. </p>
+        <p> Nouveau sourire. </p>
+        <p> – Parbleu, dans l’œil, elle a la cervelle traversée. </p>
+        <p> » Morte sur le coup! </p>
+        <p> – Mais si la bête est à trente pas? </p>
+        <p> Sourire de la jeune fille. </p>
+        <p> Silence de trois secondes. </p>
+        <p> Réflexions: </p>
+        <p> – Mademoiselle? </p>
+        <p> – Monsieur Francœur? </p>
+        <p> – À trente pas? </p>
+        <p> – Eh bien? </p>
+        <p> – Vous seriez bien sûre de crever l’œil à une panthère? </p>
+        <p> – À cent pas! </p>
+        <p> – Oh! </p>
+        <p> – Sachez. Monsieur Francœur, que je vois de très loin. </p>
+        <p> – Mais un œil! </p>
+        <p> » C’est petit. </p>
+        <p> » À cent pas! </p>
+        <p> – Je le vois. </p>
+        <p> Francœur lit un tas de réflexions, puis il se mit à dire: </p>
+        <p> – Sûr que je ne voudrais pas vous exposer pour satisfaire ma curiosité. </p>
+        <p> » Mais si l’occasion se présentait d’une panthère à deux cents mètres… </p>
+        <p> – Vous, voudriez voir ça? </p>
+        <p> – Oui, mademoiselle. </p>
+        <p> » D’autant plus que je serais là avec Langue-de-Fer et le Sioux. </p>
+        <p> Vous pensez bien que si la panthère  (2)  , je veux dire le jaguar était manqué, nous lui ferions son affaire. </p>
+        <p> À cent mètres, on a le temps de lui envoyer six balles. </p>
+        <p> Nouveau sourire de la jeune fille. </p>
+        <p> – Monsieur Francœur? </p>
+        <p> – Mademoiselle? </p>
+        <p> – L’occasion? </p>
+        <p> – L’occasion de la panthère? </p>
+        <p> – Oui. </p>
+        <p> – Ça peut venir. </p>
+        <p> – Surtout si on la fait naître. </p>
+        <p> – Vous voulez dire si on la cherche. </p>
+        <p> – Oui. </p>
+        <p> » Ça trace comme les autres, ces bêtes là. </p>
+        <p> – Assurément. </p>
+        <p> – Alors il faut m’en trouver une. </p>
+        <p> – Oh! </p>
+        <p> – Puisque vous doutez qu’à cent pas, je peux lui crever un œil! </p>
+        <p> – Je doute! Je doute! </p>
+        <p> » Pas tout à fait! </p>
+        <p> » Mais pour croire, il faudrait voir! </p>
+        <p> » Et le commandant? </p>
+        <p> – Mon oncle? </p>
+        <p> – Qu’est-ce qu’il dirait? </p>
+        <p> Elle se mit à rire. </p>
+        <p> – Qu’est-ce qu’il a dit, quand j’ai tué des lions et des éléphants? </p>
+        <p> – Je ne sais pas. </p>
+        <p> – Il a dit: Très bien! </p>
+        <p> » Du reste, pourquoi est-il mon oncle? </p>
+        <p> » Car je ne suis pas sa nièce. </p>
+        <p> – Ah! </p>
+        <p> – Non! </p>
+        <p> » C’est un oncle que j’ai adopté. </p>
+        <p> – Je ne savais pas. </p>
+        <p> – Je voulais voir le monde. </p>
+        <p> » Je voulais avoir des aventures. </p>
+        <p> » Je ne pouvais pas réaliser mon désir toute seule et j’étais trop jeune pour me marier avec un aventurier de profession. </p>
+        <p> » J’ai rencontré M. d’Ussonville. </p>
+        <p> » Alors je l’ai pris pour mon oncle. </p>
+        <p> – Et mistress Morton? </p>
+        <p> – Ma vraie tante. </p>
+        <p> – Il y a un homme qu’elle rend bien malheureux, sans s’en douter. </p>
+        <p> Et de rire. </p>
+        <p> – Mais qui donc? </p>
+        <p> – Œil-de-Lynx. </p>
+        <p> – Pourquoi donc? </p>
+        <p> – Mademoiselle, vous savez que les Indiens se peignent? </p>
+        <p> – Avec le plus grand soin. </p>
+        <p> – Ils sont fous de peinture. </p>
+        <p> – J’ai remarqué ça. </p>
+        <p> Francœur se gratta l’oreille. </p>
+        <p> Silence prolongé. </p>
+        <p> Enfin Francœur dit avec embarras: </p>
+        <p> – Mademoiselle? </p>
+        <p> – Monsieur Francœur, un reproche. </p>
+        <p> » Vous n’êtes pas franc. </p>
+        <p> » Vous avez quelque chose à me dire et vous tournez autour de la question. </p>
+        <p> – C’est que… </p>
+        <p> –? </p>
+        <p> – C’est que c’est grave. </p>
+        <p> – En êtes-vous bien sûr? </p>
+        <p> Et de rire. </p>
+        <p> – Alors si vous riez, ça m’encourage. </p>
+        <p> » Votre tante… </p>
+        <p> – Eh bien, ma tante… </p>
+        <p> » Elle se teint! </p>
+        <p> – Je n’osais pas le dire. </p>
+        <p> – Mais ça se voit! </p>
+        <p> – Mademoiselle… </p>
+        <p> – Monsieur Francœur? </p>
+        <p> – Respectueusement… Avec votre permission… </p>
+        <p> – Accordée la permission. </p>
+        <p> – Quand un guerrier indien se teint, c’est pour marcher dans le sentier de la guerre. </p>
+        <p> – Je le sais. </p>
+        <p> – Quand une femme blanche se teint, c’est qu’elle a son idée. </p>
+        <p> – Elle espère marcher dans le sentier du mariage, monsieur Francœur. </p>
+        <p> Le trappeur battit des mains. </p>
+        <p> – Je n’osais pas vous le dire! fit-il. </p>
+        <p> – Oh! vous aviez tort! Il n’y a là rien que de permis. </p>
+        <p> » Une veuve a le droit de se remarier. </p>
+        <p> – Sans doute. </p>
+        <p> » Et si mistress Morton voulait… </p>
+        <p> Mlle de Pelhouër joyeusement: </p>
+        <p> – Vous lui auriez trouvé un mari? </p>
+        <p> – Très bel homme! </p>
+        <p> » Jeune encore! </p>
+        <p> » Et qui serait très fier de l’épouser. </p>
+        <p> » C’est un gentilhomme, du reste. </p>
+        <p> » Noblesse indienne! </p>
+        <p> » Sachem d’une tribu illustre, mais anéantie par la petite vérole. </p>
+        <p> » Et, en somme, par sa fréquentation de blancs bien élevés (je parle de Langue-de-Fer et de moi), est devenu gentleman. </p>
+        <p> – Il s’agit de votre ami Œil-de-Lynx? </p>
+        <p> – Oui, mademoiselle. </p>
+        <p> – Mais veut-il donc de ma tante? </p>
+        <p> – À tout prix. </p>
+        <p> » Hier encore il me disait: </p>
+        <p> « Ah! si je pouvais avoir une squaw comme cette squaw blanche qui se peint si bien, pas un guerrier ne pourrait se comparer à moi. </p>
+        <p> « Elle me peindrait! » </p>
+        <p> L’idée sembla si drôle à Mlle de Pelhouër qu’elle éclata de rire. </p>
+        <p> Francœur dit: </p>
+        <p> – Ça gâte. </p>
+        <p> – Pourquoi? </p>
+        <p> – Vous vous moquez de moi. </p>
+        <p> – Non pas. </p>
+        <p> » Monsieur Francœur, c’est assez amusant de penser à ce sauvage qui trouve que ma tante se peint si bien qu’il la veut pour femme. </p>
+        <p> » Mais moi, je donne mon consentement et je vais en parler à ma tante. </p>
+        <p> – Mademoiselle, Œil-de-Lynx vous portera dans son cœur. </p>
+        <p> – Au fond, j’aime mieux être portée par un bon cheval ou un traîneau, sans faire fi du bon cœur de M. Œil-de-Lynx. </p>
+        <p> Ils rirent tous les deux de bon cœur. </p>
+        <p> Mais elle, sérieusement: </p>
+        <p> – Si votre ami veut que je fasse le mariage, qu’il me fasse tuer un jaguar. </p>
+        <p> – Je vais le lui dire. </p>
+        <p> – À cent pas. </p>
+        <p> – Nous nous arrangerons pour ça. </p>
+        <p> » Et vous êtes sûre que le commandant… </p>
+        <p> – Il en sera content. </p>
+        <p> » Du reste, les deux Taki seront avec nous et aussi leurs ordonnances. </p>
+        <p> » Je ne regarde pas ça comme une chasse sérieuse, mais comme un tir à la cible. </p>
+        <p> – Mademoiselle, avant peu, vous aurez nouvelle de quelque panthère. </p>
+        <p> » Mais songez à mon ami. </p>
+        <p> – Toute dévouée à ses intérêts. </p>
+        <p> » Au revoir. </p>
+        <p> – Au revoir, mademoiselle. </p>
+        <p> Francœur était content. </p>
+        <p> Mais Mlle de Pelhouer? </p>
+        <p> Aux anges! </p>
+      </div>
+      <div title="CHAPITRE XIII ENFIN !" type="chapter">
+        <head> CHAPITRE XIII </head>
+        <lb/>
+        <p> Mistress Morton vit arriver sa nièce souriante. </p>
+        <p> – Ma tante! </p>
+        <p> – Ma chère enfant? </p>
+        <p> – Avez-vous des préjugés? </p>
+        <p> – Quels préjugés? </p>
+        <p> – Des préjugés de race. </p>
+        <p> – Hum! Hum! </p>
+        <p> – Croyez-vous, par exemple, que le négus ne vaut pas n’importe quel Européen? </p>
+        <p> – Assurément. </p>
+        <p> – Moi, Française, je n’ai aucune répulsion pour les nègres. </p>
+        <p> » Mais vous? </p>
+        <p> – Il y a nègres et nègres. </p>
+        <p> – Sans doute. </p>
+        <p> » C’est donc une question d’individus. </p>
+        <p> – Mais… oui… </p>
+        <p> – Je suis sûre que si un ras ou un djezzaz abyssinien, bien de sa personne, vous avait demandé votre main, quand nous étions à la cour du négus, vous la lui auriez accordée. </p>
+        <p> Minaudant: </p>
+        <p> – S’il m’avait plu… </p>
+        <p> Mlle de Pelhouer: </p>
+        <p> – Ma tante… </p>
+        <p> – Eh quoi, ma nièce… </p>
+        <p> – À votre âge… </p>
+        <p> – Mais suis-je si vieille? </p>
+        <p> – Hum! </p>
+        <p> » Cinquante ans bien sonnés! </p>
+        <p> – Oh! trente-huit au plus. </p>
+        <p> – Allons donc. </p>
+        <p> » Pourquoi me mentir à moi. </p>
+        <p> Mistress Morton d’un air vexé: </p>
+        <p> – Enfin où voulez-vous en venir? </p>
+        <p> – À ceci: </p>
+        <p> » Vous venez de dire à propos d’un prétendant tout à fait hypothétique: </p>
+        <p> « S’il m’avait plu! » </p>
+        <p> » Ceci me parait excessif comme prétention. </p>
+        <p> » S’il m’avait plu! </p>
+        <p> » Ma tante ne vous montrez pas trop difficile. </p>
+        <p> Brusquement: </p>
+        <p> – Que pensez-vous des Indiens? </p>
+        <p> » Beaux guerriers! </p>
+        <p> » Un sachem, c’est quelqu’un. </p>
+        <p> – Et si l’indien avait été policé par la fréquentation des blancs? </p>
+        <p> Toute pâle: </p>
+        <p> – Ma chère enfant… S’agirait-il de M. Œil-de-Lynx. </p>
+        <p> » Il m’a semblé… </p>
+        <p> – Ma tante… il vous aime… </p>
+        <p> Mistress Morton: </p>
+        <p> – Je m’en doutais… </p>
+        <p> Il me regardait avec des yeux, des yeux… terribles. </p>
+        <p> – Eh bien, qu’en dites-vous? </p>
+        <p> – C’est à voir… </p>
+        <p> – Ma tante, avant de rien compromettre, je veux une réponse nette. </p>
+        <p> Faisant sa vieille coquette: </p>
+        <p> – Ça demande pourtant réflexion. </p>
+        <p> – Prenez garde! </p>
+        <p> » À trop réfléchir, l’occasion échappe. </p>
+        <p> – Mais toi… </p>
+        <p> » Qu’en penses-tu? </p>
+        <p> – Moi… </p>
+        <p> » Je crois que M. Œil-de-Lynx bien stylé, habillé à l’européenne, très digne de manières et de maintien, sera un oncle très sortable. </p>
+        <p> – Tu crois? </p>
+        <p> » Tu me décides. </p>
+        <p> » Mais oui. </p>
+        <p> – Alors, ma tante, je vais faire donner à ce gentleman indien, l’autorisation de vous faire sa cour? </p>
+        <p> – Oui… puisqu’il le faut… </p>
+        <p> – Ne prenez donc pas, des airs de colombe sacrifiée. </p>
+        <p> » Vous êtes enchantée. </p>
+        <p> Et, légère, presque aérienne comme toujours, elle alla raconter la nouvelle à Mme Castarel, à Mme Santarelli, aux deux Taki. </p>
+        <p> Elles en rirent beaucoup. </p>
+        <p> Un mariage pour inaugurer l’hôtel polaire, c’était amusant. </p>
+        <p> Et d’Ussonville fit appeler sa nièce. </p>
+        <p> – Est-ce vrai? </p>
+        <p> » Mistress Morton épouse Œil-de-Lynx? </p>
+        <p> – Oui, mon oncle. </p>
+        <p> – Et vous avez fait le mariage? </p>
+        <p> – Non, mon oncle. </p>
+        <p> » Il s’est fait tout seul. </p>
+        <p> » Triomphe de l’art! </p>
+        <p> – Quel art? </p>
+        <p> – La peinture. </p>
+        <p> Elle conta les détails. </p>
+        <p> D’Ussonville, homme très sérieux, ne put s’empêcher de rire. </p>
+        <p> C’était si drôle, une vieille anglaise émaillée enflammant ce cœur de Sioux. </p>
+      </div>
+      <div title="CHAPITRE XIV L’ÉDUCATION D’UN SAUVAGE" type="chapter">
+        <head> CHAPITRE XIV </head>
+        <lb/>
+        <p> Ce mariage, sans trop déplaire à M. d’Ussonville, n’allait pas sans quelques difficultés dont le commandant se rendait parfaitement compte. </p>
+        <p> Il fit appeler ses capitaines, le docteur de l’expédition, celui des équipages des deux navires et son ingénieur. </p>
+        <p> En un mot, tous ceux qui mangeaient à sa table. </p>
+        <p> Comme l’heure du dîner était proche, on servit un verre de madère à chacun de ces messieurs et le commandant dit: </p>
+        <p> – J’ai, mes chers camarades, à vous annoncer une nouvelle sensationnelle. </p>
+        <p> Mistress Morton se marie. </p>
+        <p> – Contre qui? demanda Castarel. </p>
+        <p> On rit. </p>
+        <p> Le commandant reprit: </p>
+        <p> – Elle épouse Œil-de-Lynx! </p>
+        <p> Tous de battre des mains et de crier: </p>
+        <p> – Bravo! </p>
+        <p> – Bravo! </p>
+        <p> – Ce Sioux, s’écria Castarel, est le brave des braves. </p>
+        <p> Il faudra nous cotiser pour lui offrir une médaille du mérite conjugal. </p>
+        <p> Un Sioux ne recule devant rien! </p>
+        <p> – L’amour ne compte pas le nombre des années! </p>
+        <p> – Pends-toi, brave Castarel, le Sioux t’a coupé l’herbe sous le pied. </p>
+        <p> Ce fut un feu roulant de plaisanteries qui mit tout le monde en joie. </p>
+        <p> – Messieurs, dit d’Ussonville, ce qui a poussé le Sioux a demander la main de mistress Morton, c’est l’amour… mais l’amour de l’art! </p>
+        <p> » Le Sioux a remarqué avec admiration que mistress Morton se peignait d’une façon merveilleuse et il voudrait connaître ses secrets. </p>
+        <p> » Vous savez avec quel soin, quelle coquetterie, un guerrier indien se peint et fait retoucher sa peinture par sa femme. </p>
+        <p> » Quand il doit partir sur le sentier de la guerre, ou simplement paraître dans une cérémonie, un Peau-Rouge passe des heures à sa toilette, et il attend patiemment que l’ocre rouge dont il s’est badigeonné tout le corps soit séché; du reste, vous savez cela comme moi. </p>
+        <p> » Or, messieurs, ce pauvre garçon ne pourra plus se peindre. </p>
+        <p> – Pourquoi donc? demanda Castarel. </p>
+        <p> – Parce qu’il faut que j’en fasse un gentleman et vous m’y aiderez. </p>
+        <p> » Je ne peux pas décemment laisser Œil-deLynx manger avec les inférieurs, alors que mistress Morton s’assoira à la table des officiers; l’affront serait trop grand. </p>
+        <p> » Faire manger un Peau-Rouge avec nous, ce serait compromettre notre prestige et nous exposer à des réclamations. </p>
+        <p> Nos trappeurs réclameraient, disant qu’ils valent bien un Sioux. </p>
+        <p> – Voilà, dit Santarelli, un côté de la question auquel je n’avais point pensé. </p>
+        <p> – Pour tourner la difficulté, dit d’Ussonville, nous allons transformer le Sioux en gentleman, en lui donnant mistress Morton, elle-même, comme tutrice. </p>
+        <p> » Elle le dressera. </p>
+        <p> » À table, il sera à sa droite. </p>
+        <p> » Nous allons le faire habiller en monsieur blanc . </p>
+        <p> » J’ai remarqué, Santarelli, que le Sioux avait de l’amitié pour vous. </p>
+        <p> » Apprenez-lui à endosser et à porter son nouveau costume. </p>
+        <p> » On dit que l’habit ne fait pas le moine et l’on a tort. </p>
+        <p> » Dès qu’un conscrit a endossé l’uniforme, il se croit soldat et fait tout ce qu’il peut pour le paraître. </p>
+        <p> » Je suis sûr que le Sioux fera tous les siens pour être digne de nous. </p>
+        <p> À Castarel: </p>
+        <p> – Vous, capitaine, qui aimez les mystifications, je vous prierai de ne pas en faire à ce pauvre Sioux. </p>
+        <p> À Drivau: </p>
+        <p> – Vous, capitaine, ne blaguez pas trop le… jeune couple. </p>
+        <p> Enfin, messieurs, je fais appel à votre indulgence. </p>
+        <p> Sur ce, on alla dîner. </p>
+        <p> Tout le monde complimenta mistress Morton qui en fut enchantée. </p>
+      </div>
+      <div title="CHAPITREXUN MONSIEUR BLANC" type="chapter">
+        <head> CHAPITRE X </head>
+        <lb/>
+        <p> D’Ussonville, le lendemain matin, demanda près de lui Œil-de-Lynx. </p>
+        <p> – On me prévient, lui dit-il, que vous vous mariez avec mistress Morton. </p>
+        <p> – La sqaws blanche m’a trouvé beau guerrier et elle m’a accepté pour mari; j’en suis très content, parce qu’elle a les secrets de la peinture; elle est vieille et, comme toutes les vieilles elle a le visage ridé. </p>
+        <p> » Mais elle sait si bien se servir du pinceau, de certaines couleurs et de certaines pâtes, que les rides disparaissent. </p>
+        <p> » Elle a le teint frais d’une jeune fille, plus frais même, plus éclatant. </p>
+        <p> » C’est tout à fait extraordinaire. </p>
+        <p> Œil-de-Lynx s’arrêta un moment, se gratta le front et reprit: </p>
+        <p> – Vois-tu, commandant, une femme comme ça vaut mieux qu’une jeune. </p>
+        <p> » Une jeune! </p>
+        <p> » Ça vieillit si vite. </p>
+        <p> » Et l’on garde toute sa vie une femme vieille et enlaidie. </p>
+        <p> » Mais celle-là se rajeunit sans cesse et n’enlaidit jamais. </p>
+        <p> » Cependant, je lui dirai que je ne veux la voir que peinte. </p>
+        <p> » Une fois je l’ai entrevue: elle n’avait pas encore fait toilette. </p>
+        <p> » Commandant, je le jure par le Grand-Esprit, elle n’était pas belle! </p>
+        <p> » Je ne veux pas qu’elle paraisse jamais ainsi devant mes yeux. </p>
+        <p> – Oui, dit gravement d’Ussonville, c’est une affaire qui ne regarde que vous et elle: vous en causerez tous les deux. </p>
+        <p> » Je vous ai fait venir pour vous annoncer une bonne nouvelle. </p>
+        <p> » Puisque vous allez vous marier avec une blanche, vous allez devenir, vous êtes devenu un gentleman, un monsieur blanc. </p>
+        <p> » Mes camarades et moi, nous avons décidé de vous accepter comme tel. </p>
+        <p> » Vous vous assoirez à notre table. </p>
+        <p> Malgré sa couleur chocolat au lait, Œil-de-Lynx pâlit. </p>
+        <p> De lui-même, il vit tout aussitôt une des heureuses conséquences de cette transformation; nous devrions dire promotion, puisqu’il montait en grade humanitaire. </p>
+        <p> Il dit: </p>
+        <p> – S’il en est ainsi, il faut que je change de costume. </p>
+        <p> » Un gentleman ne s’habille pas comme un Sioux. </p>
+        <p> – J’y ai pensé. </p>
+        <p> » Le tailleur nous attend chez le capitaine Santarelli qui est votre ami, je crois. </p>
+        <p> – Je l’aime beaucoup. </p>
+        <p> – Eh bien, allez le voir. </p>
+        <p> » Il va faire de vous un monsieur blanc. </p>
+        <p> Le Sioux s’en alla enchanté. </p>
+        <p> L’indien est orgueilleux. </p>
+        <p> Il se drape, vis à vis du blanc, dans une dignité de commande. </p>
+        <p> Certes, il est très dangereux de l’offenser, d’avoir l’air de faire fi de lui. </p>
+        <p> Mais il ne se dissimule pas la supériorité du blanc. </p>
+        <p> Pour lui, tout blanc est un grand médecin, un sorcier. </p>
+        <p> On juge de la joie de l’Œil-de-Lynx, épousant une femme blanche, grande artiste en l’art de peinture et passant au rang des messieurs blancs, sans compter l’immense fortune de sa femme qu’il était incapable de calculer. </p>
+      </div>
+      <div title="CHAPITRE XVI LA BELLE JARDINIÈRE AU PÔLE NORD" type="chapter">
+        <head> CHAPITRE XVI </head>
+        <lb/>
+        <p> Md’Ussonville était bien né pour les grandes des expéditions. </p>
+        <p> Il avait le génie de la prévision. </p>
+        <p> Il s’était dit que le personnel des hôtels polaires, jouissant à l’intérieur d’une température régulière de seize à dix-huit degrés, d’autant et plus extérieurement pendant quatre mois d’été, ne supporterait le costume esquimau que pendant l’hiver et à l’air extérieur. </p>
+        <p> Donc il avait voulu avoir des costumes de rechange pour son monde et même pour ses hôtes, hommes et femmes. </p>
+        <p> Pour les femmes, il s’était adressé au Bon Marché et y avait commandé quatre assortiments bien complets. </p>
+        <p> Pour les hommes, il avait donné la préférence à la Belle-Jardinière. </p>
+        <p> D’autre part, il avait engagé deux tailleurs, un contre-maître habile et un ouvrier, pour les retouches et même, au besoin, pour les confections. </p>
+        <p> Ces tailleurs devaient aller d’un hôtel à l’autre, se mettre à la disposition du personnel et des hôtes pour réparations et fabrication. </p>
+        <p> Drap, coutil, toile de coton, etc., formaient un dépôt dans chaque hôtel. </p>
+        <p> Œil-de-Lynx trouva chez Santarelli le maître tailleur. </p>
+        <p> – Eh bien, lui dit le capitaine corse, le commandant vous a parlé? </p>
+        <p> – Oui capitaine. </p>
+        <p> » Il m’a dit de venir te trouver. </p>
+        <p> – Si je ne me trompe, vous êtes accepté comme monsieur blanc. </p>
+        <p> – Oui, capitaine. </p>
+        <p> – Alors, vous ne devez plus tutoyer personne, ni vous laisser tutoyer. </p>
+        <p> Le Sioux grava cette leçon en sa tête. </p>
+        <p> – C’est vrai, dit-il. </p>
+        <p> » Les messieurs blancs disent vous. </p>
+        <p> Santarelli au tailleur: </p>
+        <p> – Prenez la mesure de monsieur. </p>
+        <p> Sur ce mot, Œil-de-Lynx se rengorgea et il chercha à se grandir d’un pouce. </p>
+        <p> – Ne vous tenez pas raide! dit le tailleur. </p>
+        <p> » Ne gonflez pas votre poitrine. </p>
+        <p> » Restez naturel. </p>
+        <p> Et il prit ses mesures. </p>
+        <p> Après quoi, il donna à son aide le carnet sur lequel il les avait inscrites, et, après certaines explications, il lui dit: </p>
+        <p> – Allez au magasin. </p>
+        <p> » Vous rapporterez ce qui se rapprochera le plus de ces mesures. </p>
+        <p> » Plutôt plus grand! </p>
+        <p> » On retoucherait. </p>
+        <p> L’aide revint. </p>
+        <p> Il avait trouvé des mesures exactes; la Belle-Jardinière est certainement de tous les magasins de Paris, celui où l’on combine le mieux les mensurations. </p>
+        <p> Le système en est excellent. </p>
+        <p> Quant à la solidité des étoffes, elle est proverbiale. </p>
+        <p> Le tailleur habilla le Sioux. </p>
+        <p> Tout lui allait bien. </p>
+        <p> Mais, quand il s’agit de la coiffure, ce fut toute une affaire. </p>
+        <p> Il voulait mettre le chapeau de feutre par-dessus ses plumes d’aigle. </p>
+        <p> Il refusait de faire couper ses cheveux si noirs et si longs. </p>
+        <p> Santarelli avait appelé un matelot qui était le perruquier des équipages. </p>
+        <p> Celui-ci attendait, les ciseaux en main, le peignoir sur le bras. </p>
+        <p> Enfin, Santarelli trouva un argument décisif et il en écrasa la résistance du Peau-Rouge comme on écrase une pierre d’un coup de masse. </p>
+        <p> – Tu as vu des loups? lui dit-il. </p>
+        <p> – Oui! </p>
+        <p> – Des jaguars? </p>
+        <p> – Oui. </p>
+        <p> – Des renards? </p>
+        <p> – Oui. </p>
+        <p> – Ont-ils des cornes sur la tête. </p>
+        <p> – Non. </p>
+        <p> – Que dirais-tu, si tu voyais un jaguar ayant des cornes. </p>
+        <p> – Je dirais que ce n’est pas un jaguar. </p>
+        <p> – Si tu gardes tes cheveux, tes plumes, ta coiffure indienne, on dira que tu n’es pas un monsieur blanc . </p>
+        <p> Œil-de-Lynx se livra tout aussitôt au coiffeur. </p>
+        <p> En vingt minutes, toute sa tignasse tomba; le coiffeur lui fit une friction, puis Œil-de-Lynx se leva. </p>
+        <p> Alors le tailleur lui présenta un chapeau mou, mais Œil-de-Lynx dit: </p>
+        <p> – J’ai une autre chose. </p>
+        <p> » Un jour de fête, Nilson, le directeur du fort de l’embouchure de Mackensie, avait un autre chapeau que celui-là. </p>
+        <p> Il prit le carnet du tailleur, son crayon et dessina un chapeau haute forme. </p>
+        <p> – Ah! dit le tailleur, nous en avons quelques-uns. </p>
+        <p> » Mais il n’y aura pas beaucoup de choix. </p>
+        <p> Il prit le tour de la tête du Sioux et le donna à son aide. </p>
+        <p> – Petite tête! dit-il. </p>
+        <p> » Rapporte ce que tu trouveras de plus petit. </p>
+        <p> Œil-de-Lynx était un grand bel homme à tête longue, en pain de sucre, mais développée en largeur. </p>
+        <p> Le commis revint avec un chapeau trop large, mais le tailleur le bourra de bandes de papier entre la bordure et l’intérieur et il en coiffa le Sioux. </p>
+        <p> L’effet était assez comique; mais Œil-de-Lynx se trouva très bien. </p>
+        <p> Mais il lui manquait quelque chose. </p>
+        <p> – Et ça? fit-il. </p>
+        <p> Il fit comme s’il donnait des coups avec une canne. </p>
+        <p> – Ah! dit Santarelli, il veut un stick; mais nous n’en avons pas. </p>
+        <p> » On lui en fera faire un. </p>
+        <p> Sur cette promesse, le Sioux alla se promener dans le camp. </p>
+        <p> Il fit sensation. </p>
+        <p> Tout le monde le complimenta. </p>
+        <p> Il rendit visite à mistress Morton. </p>
+        <p> Comme il gardait son chapeau sur sa tête, la vieille anglaise lui donna une première et verte leçon de politesse. </p>
+        <p> Puis elle lui déclara que son chapeau était ridicule et lui en fit chercher un autre de forme moins cérémonieuse. </p>
+        <p> Puis elle refit le nœud de sa cravate et lui donna un mouchoir. </p>
+        <p> On avait oublié ce détail. </p>
+        <p> Et, pendant une heure, elle assomma ce pauvre Sioux de ses observations. </p>
+        <p> – Voyons, comment saluez-vous? </p>
+        <p> Le Sioux de saluer. </p>
+        <p> – Non! </p>
+        <p> » Pas comme ça. </p>
+        <p> Et, se mettant le chapeau sur la tête, elle fit un salut cérémonieux. </p>
+        <p> Et il fallut que le Sioux le recommençât au moins dix fois. </p>
+        <p> Toujours quelque chose à reprendre. </p>
+        <p> Ainsi, une heure durant, je l’ai dit, de civilité puérile et honnête. </p>
+        <p> Ah! il lui en devait coûter, au Sioux, pour devenir un monsieur blanc . </p>
+        <p> Jamais la patience de cet homme ne se lassa, jamais. </p>
+        <p> Il trouvait qu’elle ne lui en apprenait pas assez! </p>
+        <p> Et il ne la quitta qu’à regret. </p>
+        <p> Il fit des confidences à ses amis. </p>
+        <p> – C’est effrayant, leur disait-il, ce qu’il faut savoir pour devenir un monsieur blanc. </p>
+        <p> Mais rien ne lui coûta pour se transformer en parfait gentleman. </p>
+      </div>
+      <div title="CHAPITRE XVII REGRETS TARDIFS" type="chapter">
+        <head> CHAPITRE XVII </head>
+        <lb/>
+        <p> À ses amis, Œil-de-Lynx avait dit en leur montrant son complet: </p>
+        <p> – Voyez ce que vous avez fait de moi en me mariant avec la dame blanche. </p>
+        <p> » Me voilà monsieur blanc . </p>
+        <p> » Je dînerai désormais à la table des officiers avec ma femme. </p>
+        <p> » Elle m’a expliqué qu’elle était très riche et que je n’aurais pas besoin de chasser pour la nourrir. </p>
+        <p> Il tira de sa poche une guinée en or et la montra. </p>
+        <p> – Pour me faire comprendre, dit-il, combien elle est riche, elle m’a mis cette pièce d’or dans la main et elle m’a dit: </p>
+        <p> « Je peux en dépenser cinquante comme cela tous les jours! » </p>
+        <p> Et l’Indien se lança dans la description de sa vie future. </p>
+        <p> Il aurait des domestiques blancs. </p>
+        <p> Il aurait chevaux, voitures, grandes, grandes maisons, etc., etc. </p>
+        <p> Tant et si bien qu’à la cloche du dîner, il partit avant d’avoir tout énuméré, laissant les deux trappeurs tout penauds. </p>
+        <p> – Crève-Cœur! fit Langue-de-Fer. </p>
+        <p> – Mon ami? </p>
+        <p> – Nous n’avons vu dans mistress Morton qu’une vieille femme ridicule. </p>
+        <p> – C’est vrai! </p>
+        <p> – Mais le ridicule nous cachait la femme très riche comme la mousse cache la pierre. </p>
+        <p> – C’est vrai! </p>
+        <p> – Nous sommes des imbéciles. </p>
+        <p> » Nous aurions dû l’épouser… </p>
+        <p> – C’est vrai! </p>
+        <p> Regrets tardifs, ô braves trappeurs. </p>
+      </div>
+      <div title="CHAPITRE XVIII MARIAGE" type="chapter">
+        <head> CHAPITRE XVIII </head>
+        <lb/>
+        <p> Fort heureusement mistress Morton était anglaise et les formalités du mariage en ce pays se réduisent à la bénédiction nuptiale donnée par un prêtre. </p>
+        <p> D’Ussonville avait envoyé chercher un des nombreux missionnaires qui catéchisaient, fort inutilement du reste, les tribus indiennes. </p>
+        <p> Le père s’empressa d’accourir. </p>
+        <p> Le lendemain de son arrivée, le mariage fut célébré solennellement, avec salve d’artillerie et de mousqueterie, pompes et festins. </p>
+        <p> On s’amusa beaucoup. </p>
+        <p> Œil-de-Lynx, à force de raideur, parut vraiment très digne. </p>
+        <p> Mais la cérémonie finie, quand Bouche-de-Fer le félicita au nom de tous les camarades, il lui dit: </p>
+        <p> – Œil-de-Lynx, je suis chargé… </p>
+        <p> Le Sioux l’arrêta. </p>
+        <p> – J’ai épousé mistress Morton, dit-il d’un air imposant; je suis monsieur Morton . </p>
+        <p> » Je ne tutoie plus personne; on ne me tutoie plus. </p>
+        <p> Sur ce, il écouta le reste du petit discours de Langue-de-Fer qui donna du vous à son ami. On n’en dansa pas moins joyeusement. </p>
+      </div>
+      <div title="CHAPITRE XIX DÉNOUEMENT" type="chapter">
+        <head> CHAPITRE XIX </head>
+        <lb/>
+        <p> Il ne restait plus que quelques jours à travailler pour que le premier hôtel polaire fût terminé. </p>
+        <p> On attendait impatiemment l’arrivée de l’équipage de chasse à courre que La Feuille amenait à travers le Canada. </p>
+        <lb/>
+        <p> À SUIVRE: « UNE CHASSE À COURRE AU PÔLE NORD » </p>
+      </div>
+      <head/>
+    </body>
+    <back/>
+    <back/>
+  </text>
+</TEI>

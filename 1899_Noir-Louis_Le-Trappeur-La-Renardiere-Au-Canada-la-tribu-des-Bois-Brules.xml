@@ -1,0 +1,1789 @@
+<?xml version='1.0' encoding='UTF8'?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> Le Trappeur La Renardière. Au Canada, la tribu des Bois-Brûlés </title>
+        <author from="1837" key="" name="Noir, Louis (Salmon, Louis-Étienne)" sex="male" to="1901"/>
+        <edition n=""/>
+        <editor name="Fayard" where="Paris"/>
+      </titleStmt>
+      <publicationStmt>
+        <date type="created" when="1899"/>
+        <date type="issued" when="1899"/>
+      </publicationStmt>
+      <editionStmt>
+        <profileDesc tag="non-canon" type="genre">
+          <textClass>
+            <keywords>
+              <term>roman d'aventures</term>
+              <term/>
+            </keywords>
+          </textClass>
+        </profileDesc>
+      </editionStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docAuthor/>
+        <docTitle>
+          <titlePart main="Le Trappeur La Renardière. Au Canada, la tribu des Bois-Brûlés"/>
+          <titlePart sub=""/>
+        </docTitle>
+        <div type="dedication">
+          <salute>
+            <p> Je dédie ce livre à M. François Allain, mon ami. </p>
+            <p> Son tout dévoué, </p>
+            <p> Louis Noir </p>
+          </salute>
+        </div>
+      </titlePage>
+    </front>
+    <body>
+      <div title="PRÉFACE Une France en Amérique Montréal." type="preface">
+        <head> PRÉFACE </head>
+        <lb/>
+        <p> Ville normande! </p>
+        <p> Et en plein Canada! </p>
+        <p> Plus normande qu’aucune ville de Normandie, de la bonne Normandie. </p>
+        <p> Deux cent cinquante mille habitants, énergiques, vigoureux. </p>
+        <p> Un pont métallique tubulaire sur le Saint-Laurent, pont qui est une des merveilles du monde. </p>
+        <p> Des monuments, des églises, des hôtels splendides, des restaurants, des grandes auberges comme autrefois en Normandie, voilà Montréal. </p>
+        <p> La race y est bien et à fond française. </p>
+        <p> Ne s’étant jamais laissé entamer par l’élément anglais. </p>
+        <p> Langue, coutumes, mœurs, habitudes, tout est normand. </p>
+        <p> La religion? </p>
+        <p> Catholique. </p>
+        <p> Ce n’est pas une question de croyance, mais de défense nationale. </p>
+        <p> « Nous ne voulons pas de la religion des Anglais. » </p>
+        <p> C’est le fond de l’attachement des Canadiens français à leur foi catholique qui, là-bas, se traduit par patriotisme. </p>
+        <p> C’est tranché. </p>
+        <p> Qui n’est pas catholique, n’est pas Français. </p>
+        <p> Et si un libre penseur français, pour peu qu’il soit patriote et ennemi des Anglais, va à Montréal, en admettant qu’il ne pratique pas, il souscrit pour toutes les œuvres catholiques. </p>
+        <p> Parce qu’elles sont anti-anglaises. </p>
+        <p> Parce qu’elles sont œuvres de défense nationale. </p>
+        <p> Enseignement catholique, enseignement français. </p>
+        <p> Défense de la langue. </p>
+        <p> Société de bienfaisance catholique, soutien du pauvre français. </p>
+        <p> On est pris dans l’engrenage d’un patriotisme admirable. </p>
+        <p> Sujets anglais, oui. </p>
+        <p> Abandonnés par la France dans les jours malheureux d’un règne infâme, celui de Louis XV. </p>
+        <p> Mais Anglais, jamais. </p>
+        <p> Quelle lutte admirable. </p>
+        <p> Quels ressorts puissants! </p>
+        <p> Abandonnés à eux-mêmes, ces Français-Canadiens ne se sont jamais abandonnés, n’ont jamais désespéré. </p>
+        <p> Malgré l’émigration, malgré la domination, malgré la force commerciale anglaise, malgré le machiavélisme anglais, ils se sont toujours défendus. </p>
+        <p> Et victorieusement. </p>
+        <p> Une natalité puissante, généreuse, superbe, les fait sans cesse progresser et réussir. </p>
+        <p> D’immenses champs d’exploitation s’ouvrent devant les Canadiens. </p>
+        <p> Nos Normands prolifiques en profitent et envahissent l’ouest. </p>
+        <p> Cinq millions de Canadiens! </p>
+        <p> On a calculé que le chiffre s’en élèverait très rapidement au double. </p>
+        <p> Et il y aura les deux tiers de Français pour le moins. </p>
+        <p> Chose curieuse! </p>
+        <p> Les États-unis tendent à s’annexer le Canada. </p>
+        <p> Ils y ont un parti. </p>
+        <p> Quel? </p>
+        <p> Les Anglais. </p>
+        <p> Oui, les Anglais nés au Canada ont une tendance à se faire Américains. </p>
+        <p> Qui leur résiste? </p>
+        <p> Les Français-Canadiens. </p>
+        <p> Pourquoi? </p>
+        <p> « Parce que, unis aux États-unis, plus d’espoir. </p>
+        <p> « Ils seraient à jamais Américains. » Voilà ce qu’ils vous expliquent. </p>
+        <p> Tandis qu’avec les Anglais, « c’est tout différent. » </p>
+        <p> Nos Normands de là-bas, très fins, ayant un sens politique, vous expliquent ainsi leurs épreuves: </p>
+        <p> « Nous avons attendu pendant prés de trois siècles, le moment de redevenir Français; nous pouvons encore attendre longtemps sans nous laisser entamer. </p>
+        <p> » Nous ne sommes pas impatients, parce que nous sommes les plus forts. </p>
+        <p> » Nous vivons Français, nous sommes Français, nous tenons le sol. </p>
+        <p> » Nous savons, nous sentons mieux que personne, que l’Angleterre ne peut vivre que d’un commerce immense qui nécessite son immense extension. </p>
+        <p> » Elle ne produit agricolement que le tiers de ce qu’il faut pour vivre; il faut qu’elle subsiste de son industrie dont les produits sont imposés par son commerce qui étreint des espaces démesurés. </p>
+        <p> » C’est un colosse, mais un colosse aux pieds d’argile. </p>
+        <p> » Le jour où elle aura perdu les Indes, elle sera très atteinte. </p>
+        <p> » Ce jour est si proche, qu’elle en frémit et qu’elle cherche à réparer cette perte inévitable, par une formidable extension dans l’Afrique orientale. </p>
+        <p> » Mais elle se fait des ennemis irréconciliables partout. </p>
+        <p> » Un jour, jour prévu, inéluctable, elle lassera la patience du monde et une coalition se formera contre elle. </p>
+        <p> » Que la France, par la suite des temps, fasse sa paix avec l’Allemagne, qu’elle consacre à sa marine le milliard qu’elle consacre à la guerre, et une descente en Angleterre sera possible. </p>
+        <p> » Alors ce sera la fin de l’empire britannique. </p>
+        <p> » Finis britanniae. </p>
+        <p> » L’Irlande catholique, le Cap africain, l’Australie, la Nouvelle-Zélande républicaines proclameront leur indépendance. </p>
+        <p> » Et nous serons Français. </p>
+        <p> » Car nous voyons des ferments de séparatisme se produire aux États-unis. </p>
+        <p> » Une nouvelle sécession aura lieu et cette grande république, par l’invincible force d’intérêts contradictoires, se séparera en quatre confédérations. » </p>
+        <p> Voilà ce que des Canadiens à larges vues m’ont expliqué. </p>
+        <p> – Mais, leur ai-je demandé, comment se fait-il que l’émigration ne noie pas l’élément français? </p>
+        <p> – Rudesse du climat! </p>
+        <p> Au Canada, en hiver, il y a une longue période de froids excessifs. </p>
+        <p> Quarante degrés. </p>
+        <p> Lever du soleil à dix heures. </p>
+        <p> Coucher à deux heures. </p>
+        <p> Ce n’est pas ainsi au sud du pays, c’est moins dur. </p>
+        <p> Mais au nord. </p>
+        <p> Et là seulement, il y a de la place, mais il n’y a pas de commerce. </p>
+        <p> Les émigrants, anglais, allemands, italiens, ne peuvent se faire à un pareil climat, à nos longues nuits d’hiver. </p>
+        <p> Moins encore peut-être à nos interminables journées d’été. </p>
+        <p> Dix-huit heures de soleil et quatre heures de lumière crépusculaire! </p>
+        <p> Les Canadiens, habitués à ce régime, ne craignent pas d’émigrer au nord et à l’ouest, loin des centres. </p>
+        <p> Les Canadiens-Anglais, commerçants avant tout et ouvriers, vivent dans les villes et répugnent à être défricheurs ou bûcherons, car nos immenses forêts offrent aux bûcherons, à proximité des fleuves et des lacs, des bénéfices certains. </p>
+        <p> Pourvu que l’on puisse, sans grands frais, amener les arbres équarris sur l’eau et en former des trains, on est sûr de faire une honnête fortune. </p>
+        <p> Les vapeurs ravitaillent en été les postes de bûcherons. </p>
+        <p> Ceux-ci se construisent des maisons de bois avec jointures de terre battue et de mousse. </p>
+        <p> Ils improvisent un mobilier très ingénieux, très commode. </p>
+        <p> Ils abattent autour de la maison d’abord et sèment dans le défriché. </p>
+        <p> Récoltes merveilleuses. </p>
+        <p> L’année suivante, culture sommaire extérieure, sans grand travail, dans un autre défriché. </p>
+        <p> Et quand il faut aller cogner trop loin, décampement. </p>
+        <p> Autre installation. </p>
+        <p> Personne autre que les Canadiens-Français ne veut mener cette vie là. </p>
+        <p> Elle charme nos Normands. </p>
+        <p> Pleine d’attraits, du reste. </p>
+        <p> Chasses et pêches. </p>
+        <p> L’hiver, feux sur le chantier, feux à la maison. </p>
+        <p> Ces feux joyeux, pétillants, immenses, remplacent le soleil. </p>
+        <p> Remarquez que le bûcheron vit toujours en groupe de famille. </p>
+        <p> On part à cinq ou six ménages de cousins et cousines. </p>
+        <p> On s’installe à une heure ou deux les uns des autres. </p>
+        <p> On voisine. </p>
+        <p> On s’assemble le dimanche. </p>
+        <p> Plusieurs groupes s’invitent pour célébrer la Noël, Pâques, les grandes fêtes de l’année ensemble. </p>
+        <p> Des mariages se font. </p>
+        <p> Les missionnaires sont appelés pour les consacrer. </p>
+        <p> En somme, le vrai maître de la terre, c’est le Franco-Canadien. </p>
+        <p> Et ce qui fait ce pays admirable, c’est son été si chaud, court, mais où le soleil reste si longtemps chaque jour sur l’horizon qu’il mûrit Ies récoltes. </p>
+        <p> Puis il y a des ressources spéciales, des baies qui produisent des boissons fermentées, sans compter d’excellentes bières de ménage et le fameux vin d’érable. </p>
+        <p> Je cite au hasard. </p>
+        <p> Mais je dois une mention au cidre, si pétillant et d’un si bon goût, fabriqué avec les pommes sauvages. </p>
+        <p> Le gibier abonde. </p>
+        <p> Le poisson se pêche facilement en plein hiver, à foison, dans les trous faits à la glace des rivières. </p>
+        <p> Mais tout cela ne séduit pas l’Anglais, citadin-né. </p>
+        <p> Il aime le confortable spécial des grandes villes. </p>
+        <p> Ce qui est particulièrement touchant dans les pays canadiens-français, c’est l’alliance des classes dirigeantes avec le peuple. </p>
+        <p> Ce que l’on fait en haut pour que l’en bas sache lire, écrire, compter et s’instruire par la lecture est inimaginable. </p>
+        <p> Ainsi, les familles de citadins rassemblent, par ordre de date, leurs journaux lus, leurs revues et y ajoutent des volumes à bon marché édités pour ça. </p>
+        <p> On en fait des paquets et on les confie aux navires de ravitaillement, avec grandes recommandations d’en distribuer autant au loin que plus près. </p>
+        <p> Et c’est fidèlement exécuté. </p>
+        <p> Mais les flotteurs mariniers, qui descendent les trains de bois sur les rivières, remportent’aussi des paquets semblables et répandent ainsi l’instruction. </p>
+        <p> À la veillée, chacun lit à tour de rôle, à haute voix. </p>
+        <p> Le feu ronfle. </p>
+        <p> L’eau pour le thé mijote. </p>
+        <p> Les enfants et les femmes écoutent. </p>
+        <p> Dans les moments pathétiques, elles se mettent à pleurer. </p>
+        <p> Alors les enfants se mettent à beugler, ce qui émeut les chiens qui se réveillent et glapissent, sans savoir pourquoi, mais par sympathie, pour se mettre à l’unisson. </p>
+        <p> Braves gens, ces Canadiens! </p>
+        <p> Les chiens aussi. </p>
+        <p> D’une probité rigoureuse, hospitaliers, accueillants. </p>
+        <p> Joyeux, aimant à rire, très bons et très fins en même temps. </p>
+        <p> C’est plaisir de faire avec eux, au printemps, de bonnes parties de chasse. </p>
+        <p> Mais, quand le soir, vient l’heure de la prière, si vous êtes libre penseur, ne les scandalisez pas trop par une indifférence affectée. </p>
+        <p> Levez-vous et découvrez-vous. </p>
+        <p> C’est le moins que vous puissiez faire pour des hôtes bienveillants. </p>
+        <p> Et les femmes vous demanderont très doucement: </p>
+        <p> – Vous ne priez donc pas? </p>
+        <p> Répondez-leur: </p>
+        <p> – J’ai perdu la foi, à Paris, où l’on ne croit guère. </p>
+        <p> Ajoutez bien vite: </p>
+        <p> – Mais je ne suis pas protestant! </p>
+        <p> Car protestant signifie Anglais. </p>
+        <p> Comment les deux éléments peuvent-ils vivre ensemble? </p>
+        <p> Précisément parce qu’aucun mélange n’est possible. </p>
+        <p> Pas de point de contact. </p>
+        <p> Telle ville est anglaise, telle autre est française. </p>
+        <p> Où l’élément anglais, l’élément français laisse faire et s’abstient; c’est réciproque. </p>
+        <p> Pas de luttes brutales, inutiles et stériles. </p>
+        <p> Pas d’alliances ou alliances bien rares entre Anglaises et Français; quelques-unes entre Françaises et Anglais. </p>
+        <p> Mais les enfants se francisent toujours, c’est un fait remarquable. </p>
+        <p> En somme, nous avons et surtout nous aurons là-bas une grande France qui nous aime. </p>
+        <p> Elle vaut la peine d’être visitée; allons-y donc. </p>
+      </div>
+      <div title="CHAPITRE PREMIER Veneurs de France et d’Amérique." type="chapter">
+        <head> CHAPITRE PREMIER </head>
+        <lb/>
+        <p> Deux hommes se présentent à l’hôtel de France, à Montréal. À première vue, il était facile de reconnaître deux trappeurs. </p>
+        <p> « Mais, à la fin, m’écrit un de mes lecteurs, qu’est-ce qu’un trappeur exactement? </p>
+        <p> « Vous ne l’avez jamais expliqué à vos lecteurs. </p>
+        <p> « J’ai lu tous vos livres. </p>
+        <p> « Pas la plus petite explication sur les trappeurs. </p>
+        <p> « Ils chassent, c’est leur métier, mais pourquoi ne pas les appeler chasseurs au lieu de trappeurs. </p>
+        <p> « Il doit y avoir une raison. </p>
+        <p> « Dites-la-nous. » </p>
+        <p> Il faut tâcher de satisfaire tout le monde, même un lecteur mécontent. </p>
+        <p> Il faut dire d’abord qu’il existe, au Canada et aux États-unis, des grandes compagnies de pelleterie. </p>
+        <p> Elles achètent aux Indiens et aux chasseurs blancs ou métis des peaux quelles qu’elles soient. </p>
+        <p> Peaux de bisons, de daims, de cerfs, de loups, etc. </p>
+        <p> Mais ce qu’elles cherchent surtout, ce sont les peaux précieuses. </p>
+        <p> Peaux d’ours blancs et gris et de jaguars avec griffes et têtes. </p>
+        <p> Mais ce ne sont pas celles qui sont le mieux payées. </p>
+        <p> Les peaux de castors, de martes-zibelines, de renards bleus et autres animaux du genre fouine sont payées extrêmement cher aux trappeurs. </p>
+        <p> Les chats sauvages et les lièvres sont assez bien cotés. </p>
+        <p> Or, toutes les peaux de valeur perdraient beaucoup, si l’animal avait été tiré et criblé de plombs. </p>
+        <p> Aussi le prend-on au piège. </p>
+        <p> Le piège, c’est la trappe. </p>
+        <p> De là, trappeur. </p>
+        <p> La vie du trappeur est assez singulière; tout d’abord il faut qu’il s’associe avec un camarade au moins. </p>
+        <p> Seul! </p>
+        <p> À deux cents lieues de tout secours le plus souvent, que ferait-il, s’il tombait malade? </p>
+        <p> Et s’il était blessé par un bœuf musqué ou par un jaguar? </p>
+        <p> Voilà pourquoi les trappeurs vont au moins deux par deux. </p>
+        <p> Les compagnies de pelleterie ont construit des forts le long des rivières et des lacs qui constituent un magnifique ensemble d’artères fluviales au Canada. </p>
+        <p> Pendant l’été, les vapeurs de ces compagnies sillonnent les cours d’eau navigables et ravitaillent les forts. </p>
+        <p> Ils en rapportent les peaux et les dépouilles des canards eiders (édredons). </p>
+        <p> Ces forts sont bien des forts, capables de résister à tous les assauts des Peaux-Rouges, mais ce sont surtout des factoreries. </p>
+        <p> On y vend, on y achète. </p>
+        <p> Les trappeurs font prix pour les denrées de ravitaillement avec un fort qui devient leur point d’attache. </p>
+        <p> Ils font prix aussi pour les peaux qu’ils apporteront. </p>
+        <p> Engagement réciproque. </p>
+        <p> Le trappeur, au commencement des froids, part extraordinairement chargé. </p>
+        <p> Cinquante kilos! </p>
+        <p> Lard, légumes secs, oignons, farine pour cuire son pain-galette sous la cendre, poivre, sel, ails, échalotes, etc. </p>
+        <p> Il ne trouvera rien en forêt que des glands doux qu’il sait réduire en une poudre, laquelle macérée dans l’eau, pétrie ensuite avec de la fève pilée, produit un assez bon gâteau. </p>
+        <p> Le trappeur s’arrête ensuite où il voit des traces de gibier. </p>
+        <p> Il monte vivement sa hutte et il commence à trapper. </p>
+        <p> D’autre part, il chasse au fusil pour se nourrir. </p>
+        <p> Quand il tue un daim, il demi-sale certains morceaux. </p>
+        <p> Il en boucane d’autres. </p>
+        <p> Il en fait geler dans la glace. </p>
+        <p> C’est la réserve. </p>
+        <p> Trois ou quatre fois dans la saison, il porte ses peaux au fort et s’y ravitaille pour une autre expédition. </p>
+        <p> Rudes hommes! </p>
+        <p> Aimant leur métier. </p>
+        <p> Épris de la splendeur neigeuse des forêts où ils vivent. </p>
+        <p> Ils sont toujours accompagnés de leurs chiens fidèles, presqu’aussi sauvages qu’eux, mais dressés admirablement. </p>
+        <p> Obéissants sur un regard. </p>
+        <p> Comprenant le moindre signe. </p>
+        <p> Combien d’hommes moins intelligents qu’eux! </p>
+        <p> Ils ressemblent, du reste, à nos chiens de bergers, mais plus farouches encore, bien plus féroces. </p>
+        <p> Ne se laissant jamais caresser, si ce n’est par le maître ou par ses compagnons de trappe. </p>
+        <p> Encore obéit-il mieux au maître qu’à tout autre. </p>
+        <p> Donc ils étaient là deux trappeurs dans le bureau de l’hôtel de France. </p>
+        <p> L’un petit, vif, très remuant, quoique blond, mélange bizarre de deux types bien différents, le Gascon et le Normand, naïf par sauvagerie, finaud par tempérament, ayant l’œil vif, la mine futée, le nez pointu du renard, mais cependant quelque chose d’aquilin dans le profil. </p>
+        <p> Il était Bordelais par la mère, et Canadien par le père. </p>
+        <p> Le geste, la pose, l’allure annonçaient le déterminisme. </p>
+        <p> Les lèvres dénotaient la dissimulation et le menton proéminent l’entêtement dans les entreprises. </p>
+        <p> La peau ridée, tannée, hâlée, recuite par la gelée et le soleil, se plissait en grimaces expressives qui eussent fait le désespoir d’un acteur. </p>
+        <p> Jean Lapique-Tauquet, surnommé Taupe-Renardière par les Indiens, sobriquet significatif, était fouinard, débrouillard, mais brave homme et profondément honnête. </p>
+        <p> Connu comme tel dans les forts, chez les Indiens et parmi les trappeurs; mais défendant ses intérêts. </p>
+        <p> Il était d’une bravoure astucieuse, c’était un Ulysse canadien. </p>
+        <p> Son compagnon était un Bois-Brûlé. </p>
+        <p> Ce que c’est? </p>
+        <p> Une race très ancienne de métis de Français et d’Indiennes. </p>
+        <p> Mais le sang indien domine. </p>
+        <p> Ces Bois-Brûlés sont ainsi nommés parce qu’ils brûlent des forêts pour les défricher. Ils cultivent et ils chassent. </p>
+        <p> Les Anglais commettent vis-à-vis d’eux de grandes injustices et ils se révoltent périodiquement, toujours vaincus, mais toujours redoutables. </p>
+        <p> On finit toujours par redresser; ces torts qu’on leur a faits pour arriver à conclure la paix, car les défaites ne les découragent pas. </p>
+        <p> Ignorants, plus Peaux-Rouges que blancs, mais sobres, infatigables, travailleurs, ils font d’excellents bûcherons, de bons fermiers et des trappeurs renommés. </p>
+        <p> Mais les citadins affectent de les mépriser. Les Bois-Brûlés, très dignes, dédaignent les gens des villes. </p>
+        <p> Ils sont très simples, tout d’une pièce, loyaux et fidèles. </p>
+        <p> Leur intelligence, spéciale naturellement aux choses de la forêt, est des plus nettes, des plus lucides. </p>
+        <p> Ils ont une tendance à aimer beaucoup les blancs qui les traitent bien et subissent volontiers la supériorité « d’un homme qui sait lire. » </p>
+        <p> Le Bois-Brûlé s’appelait du nom de son trisaïeul, créateur de la famille, Nicolas Latreille. </p>
+        <p> Mais son surnom était Balle-Franche, parce qu’il ne tirait jamais à chevrotines, étant sûr de ses coups. </p>
+        <p> C’était un grand garçon, d’une coupe superbe, au profil anguleux, à l’air imposant et même hautain. </p>
+        <p> Mais il avait pour Taupe-Renardière une grande admiration. </p>
+        <p> Tous deux, ils portaient la blouse de chasse, la culotte et les guêtres de cuir, le bonnet de fourrure. </p>
+        <p> L’employé du bureau les regarda d’un air étonné. </p>
+        <p> Il demanda d’un ton rogue: </p>
+        <p> – Qu’avez-vous à faire ici? </p>
+        <p> Taupe-Renardière fit une de ces plus laides grimaces; on aurait dit qu’il faisait des efforts pour faire passer un morceau étranglant. </p>
+        <p> Enfin, il demanda: </p>
+        <p> – C’est bien ici que logent trois piqueurs français? </p>
+        <p> – Que leur voulez-vous? </p>
+        <p> – Ça ne vous regarde pas. </p>
+        <p> C’était carré. </p>
+        <p> L’employé se vexa et se monta. </p>
+        <p> – Et vous croyez, dit-il, que l’on aborde comme ça de prime abord des gentlemen respectables? </p>
+        <p> » Alors le premier mendiant venu circulerait dans l’hôtel sous le prétexte d’y parler à quelqu’un. </p>
+        <p> – Je ne suis pas un mendiant et la preuve, c’est que voici un carnet de chèques qui m’ouvre un crédit de deux mille livres sterling à la banque Jarome Bordereau et Cie. </p>
+        <p> Il jeta le carnet sur la table en disant d’un air de défi: </p>
+        <p> – Vous n’en pourriez montrer autant, vous, petit employé de quatre sous! </p>
+        <p> Le Bois-Brûlé se mit à rire. </p>
+        <p> L’employé de quatre sous se fâcha tout rouge. </p>
+        <p> – Dites donc, fit-il, vous, face de cuivre jaunasse, je vous défends de rire à mes dépens. </p>
+        <p> Balle-Franche étendait le bras pour cueillir l’employé. </p>
+        <p> Taupe-Renardière intervenait. </p>
+        <p> – Un petit instant! dit-il à son compagnon. </p>
+        <p> Et à l’employé: </p>
+        <p> – Sachez donc, pour votre gouverne, que vous avez là, devant vous, moi, Taupe-Renardière, connu pour avoir scalpé cent trois Indiens en sa longue carrière, et ce n’est pas fini. </p>
+        <p> » Je ne vous scalperai pas, vous, parce que vous êtes chauve; mais si vous continuez à être insolent, je vous laisserai battre par Balle-Franche. </p>
+        <p> » Ce n’est qu’un Bois-Brûlé c’est vrai, mais c’est un homme et un rude homme; il m’obéit comme un enfant, parce qu’il me sait au-dessus de lui. </p>
+        <p> » Mais je le traite avec bonté et je ne veux pas qu’on lui reproche la couleur de sa peau. </p>
+        <p> » Je ne vous dis rien de la vôtre, qui est plus rouge, avec sa couperose, que celle d’un Indien Sioux peint en guerre. </p>
+        <p> L’employé sentit bien qu’il avait affaire à forte partie; mais il voulut avoir le dernier mot. </p>
+        <p> Faiblesse des petits esprits. </p>
+        <p> – Et d’abord, dit-il, avant tout mettez vos chiens dehors; je ne veux pas qu’ils fassent des inconvenances ici. </p>
+        <p> – Dehors! protesta Taupe-Renardière, dehors des chiens qui valent cent dollars chacun. </p>
+        <p> » Dehors, pour qu’on leur passe la corde au cou et qu’on nous les vole! </p>
+        <p> » Mais, bonhomme, vous n’y pensez pas. </p>
+        <p> D’un air digne: </p>
+        <p> – Sachez que nos chiens sont bien élevés et qu’ils savent nous demander à sortir, s’ils en ont besoin. </p>
+        <p> » Ils ne se permettent point d’inconvenances, pas même de celles qu’on sent sans rien voir. Et maintenant assez causé. </p>
+        <p> » Voici une lettre de mon banquier, faites-la porter à ces gentlemen français; nous attendons. </p>
+        <p> La lettre ou plutôt l’enveloppe portait l’en-tête de la banque. </p>
+        <p> La plus riche banque de Montréal. </p>
+        <p> Diable! </p>
+        <p> Il n’allait pas, lui, « le méchant petit employé de quatre sous », se brouiller avec la banque à cause d’un client de celle-ci mal reçu par lui. </p>
+        <p> Il sonna. </p>
+        <p> Un garçon parut. </p>
+        <p> L’employé lui remit la lettre. </p>
+        <p> – Pour le 108! dit-il. </p>
+        <p> Il se mit à consulter un registre d’un air impatient. </p>
+        <p> Le garçon revint: </p>
+        <p> – Ces messieurs, dit-il avec une grande politesse, sont priés de monter. </p>
+        <p> L’employé, d’un air rogue: </p>
+        <p> – Laissez vos chiens là. </p>
+        <p> – Mais, fit le garçon, ces gentlemen ont demandé si les trappeurs avaient amené leurs chiens! </p>
+        <p> – Alors l’hôtel va devenir un chenil! fit l’employé. </p>
+        <p> – Dont vous serez le chien le plus hargneux! riposta Taupe-Renardière. </p>
+        <p> Le garçon lui fit un signe et le trappeur le suivit. </p>
+        <p> Balle-Franche emboîta le pas majestueusement. </p>
+        <p> On s’introduisit dans l’ascenseur que le garçon fit fonctionner; on s’arrêta au troisième étage. </p>
+        <p> Le garçon conduisit les trappeurs devant le 1o3  (1)  et les fit entrer. </p>
+        <p> Salon! </p>
+        <p> Un appartement complet! </p>
+        <p> Diable! </p>
+        <p> Taupe-Renardière savait, par ouï dire, le prix de cette location. </p>
+        <p> Très cher. </p>
+        <p> Ils étaient donc bien riches, messieurs les veneurs français? </p>
+        <p> Ils vinrent tous les trois au salon, vêtus de leur costume de velours couleur feuille-morte, très simples, très élégants. </p>
+        <p> Ils tendirent la main aux trappeurs, regardèrent les chiens, échangèrent des coups d’œil, puis le premier piqueur entama la conversation. </p>
+        <p> C’était un grand bel homme, de très magnifique apparence, se posant très bien sans poser, rieur, bon garçon sans trop de familiarité, sachant se tenir et très bien élevé, parlant avec précision, au besoin avec fermeté. </p>
+        <p> Il s’appelait La Feuille. </p>
+        <p> Le second piqueur s’appelait La Rosée; c’était un homme poli à l’ordinaire, gai, ayant le mot pour rire, mais enragé une fois en chasse. </p>
+        <p> Alors l’expression de sa physionomie devenait diabolique, et, au dire de ses camarades, « il faisait alors ses yeux de langouste plongée dans l’eau bouillante. » </p>
+        <p> La Futaie, le troisième piqueur, était un jeune homme à figure douce, mais au regard très futé. </p>
+        <p> Bon cavalier, ne faisant point l’important, sachant bien le métier. </p>
+        <p> – Messieurs, dit La Feuille, nous nous connaissons par noms et surnoms d’après la lettre du banquier. </p>
+        <p> » Je me présente, moi, La Feuille et je vous présente messieurs La Rosée et La Futaie. </p>
+        <p> Taupe-Renardière fit observer: </p>
+        <p> – On dirait des surnoms. </p>
+        <p> – Vous ne vous trompez pas. </p>
+        <p> » C’est l’habitude dans la vénerie française. </p>
+        <p> – Tiens, c’est comme pour nous autres, trappeurs. </p>
+        <p> La Feuille tira sa montre: </p>
+        <p> – Oh! oh! fit-il. </p>
+        <p> » Dix heures et demie! </p>
+        <p> » Je suppose que vous n’avez pas déjeuné, messieurs? </p>
+        <p> – Pas encore. </p>
+        <p> – Alors vous accepterez bien de déjeuner avec nous, pour pouvoir causer le verre à la main. </p>
+        <p> – Vous nous faites grand honneur. </p>
+        <p> La Feuille sonna. </p>
+        <p> Un garçon se présenta. </p>
+        <p> – La carte du déjeuner, Joseph. </p>
+        <p> – Bien, monsieur. </p>
+        <p> La Feuille aux trappeurs: </p>
+        <p> – Superbes, vos chiens! </p>
+        <p> – De bonne garde et très bons limiers! dit Taupe-Renardière. </p>
+        <p> – Le banquier vous a-t-il dit que nous voulions une meute? </p>
+        <p> – Oui, monsieur. </p>
+        <p> – Est-ce que les chiens que vous nous procurerez seront courants? </p>
+        <p> – Oui. </p>
+        <p> » Très ardents, très vite! </p>
+        <p> » Et ils ont beaucoup de gorge, de sorte que l’on suit facilement de l’oreille le cercle que décrit l’animal et que l’on peut couper court pour se poster et le tirer. </p>
+        <p> – Nous ne tirons jamais. </p>
+        <p> » Nous forçons l’animal. </p>
+        <p> » Il faut qu’il tombe épuisé, alors les chiens le coiffent. </p>
+        <p> » Nous survenons et servons l’animal au couteau. </p>
+        <p> – Et vous croyez qu’une bonne balle tirée à propos, ce n’est pas plus pratique que votre manière? </p>
+        <p> – Pratique, oui! </p>
+        <p> » Mais ce n’est plus la chasse à courre, qui est un grand art et un plaisir de grand seigneur. </p>
+        <p> » En somme, à coups de fusil, on assassine un animal. </p>
+        <p> » Il est en pleines ruses, il fait ses combinaisons, il espère donner au change et il peut échapper aux chiens. </p>
+        <p> » Ceux-ci forceront-ils ou ne forceront-ils pas? </p>
+        <p> » Donneront-ils dans le change au pas? </p>
+        <p> » Et, si le cerf parvient à les mettre en défaut, parviendront-ils à retrouver, à relever la voie? </p>
+        <p> » Voilà où est l’intérêt. </p>
+        <p> » Mais couper court à cette lutte du cerf et des chiens par un coup de fusil, c’est tricher. Savez-vous jouer aux dames? </p>
+        <p> – Oui. </p>
+        <p> – Eh bien, quel plaisir auriez-vous à tricher? Aucun. </p>
+        <p> » Gagner déloyalement, ce n’est pas gagner, surtout à des jeux où l’on ne joue que pour l’honneur. </p>
+        <p> » Quand nous chassons à tir, nous n’avons qu’un chien. </p>
+        <p> » Si nous nous servons de la meute, il faut qu’elle force. </p>
+        <p> – Nous chassons, nous, pour la peau et pour la viande de l’animal. </p>
+        <p> – Je sais… Je sais… </p>
+        <p> » Nous autres, nous pratiquons un art. </p>
+        <p> – Vous êtes des amateurs. </p>
+        <p> – Mais non. </p>
+        <p> » Dites des professionnels et vous serez dans le vrai. </p>
+        <p> » Pour faire un piqueur, il faut prendre un garçonnet dès l’âge de treize ans, au plus tard. </p>
+        <p> » Mais mieux vaut encore des fils de piqueurs, dans les familles où on l’est de père en fils depuis des siècles. </p>
+        <p> » Les Hourvari remontent à Jean Hourvari, piqueur de saint Louis. </p>
+        <p> » Et ce Jean Hourvari prétendait que son arrière trisaïeul était piqueur d’un roi des Arvernes, vieux Gaulois d’avant Jules César. Moi, à six ans, je suivais les chasses à cheval, sur le petit poney de relais du fils du maître. </p>
+        <p> » Je vous ai parlé des Gaulois. </p>
+        <p> » Nos pères. </p>
+        <p> » Ce sont eux qui ont inventé la chasse à courre. </p>
+        <p> » Et ils se servaient de leurs chiens à la guerre. </p>
+        <p> – Alors vous chassez à cheval? </p>
+        <p> – Il le faut bien. </p>
+        <p> » Nous devons être tout le temps sur la queue des chiens. </p>
+        <p> » Il faut couper et ramener sur le droit ceux qui s’égarent sur une fausse piste; il faut les encourager dans les défauts, quand le cerf, à force de malice, a fait perdre sa voie. </p>
+        <p> » Il faut encore couper, quand la meute prend le contre-pied. </p>
+        <p> » Il faut s’apercevoir que les chiens ont pris le change, et, après les avoir coupés, les remettre au point où le change s’est produit pour leur faire réempaumer la voie du cerf de chasse. </p>
+        <p> – Combien donc vous faudra-t-il de chevaux? </p>
+        <p> – Dix pour les maîtres. </p>
+        <p> » Six pour nous. </p>
+        <p> » Vous comprenez qu’il faut relayer et changer son cheval essoufflé contre un cheval à peu près frais. </p>
+        <p> » Je dis à peu près. </p>
+        <p> » En effet celui qui monte le cheval de relais doit nous l’amener en pleine chasse, tout en le ménageant. </p>
+        <p> » Il calcule. </p>
+        <p> » Il se guide d’après les abois des chiens et les sons du cor. </p>
+        <p> » Il étudie les courbes, les cercles que fait l’animal. </p>
+        <p> » Il coupe au plus près, au petit trot de sa bête. </p>
+        <p> » Nous prenons celle-ci, nous lui repassons l’autre qu’il laisse souffler. </p>
+        <p> » Et ça recommence jusqu’à ce que le cerf soit à l’hallali. </p>
+        <p> – Mais qui montera les chevaux de relais? </p>
+        <p> – Des jeunes gens légers, aimant les chevaux et la chasse. </p>
+        <p> » Sachant se rendre compte surtout de ce qui se passe. </p>
+        <p> Taupe-Renardière échangea un regard avec Balle-Franche. </p>
+        <p> – Eh! fit-il, si vous payez bien, nous avons votre affaire. </p>
+        <p> » D’abord il faut que je vous dise que Balle-Franche est mon beau-frère. </p>
+        <p> – Ah! vous avez épousé sa sœur? fit La Feuille. </p>
+        <p> – Oui. </p>
+        <p> » Et j’ai des beaux-frères, des neveux par alliance, des cousins. </p>
+        <p> » Tous Bois-Brûlés! </p>
+        <p> – Très bien. </p>
+        <p> – Jeunes, minces, pas lourds, légers comme des daguets. </p>
+        <p> – Parfait. </p>
+        <p> – Vous les nourrirez. </p>
+        <p> – Entendu. </p>
+        <p> – Vous leur donnerez deux dollars par mois à chacun. </p>
+        <p> – Dix francs? </p>
+        <p> Sur cette interrogation, Taupe-Renardière fit une de ses grimaces. </p>
+        <p> – Aïe! aïe! pense-t-il. </p>
+        <p> » J’ai trop demandé. </p>
+        <p> Mais il dit: </p>
+        <p> – Vous comprenez, deux dollars ce n’est pas trop. </p>
+        <p> – Mon cher ami, vous plaisantez! </p>
+        <p> » C’est une dérision. </p>
+        <p> » Vous avilissez les prix. </p>
+        <p> » Ils auront cent francs par mois et des gratifications. </p>
+        <p> Balle-Franche fit un bond terrible et poussa un cri effrayant. </p>
+        <p> Les chiens, en l’entendant, se mirent à hurler la mort. </p>
+        <p> Et Taupe-Renardière dit sévèrement à son compagnon: </p>
+        <p> – Qu’est-ce que c’est que ces manières de sauvage! </p>
+        <p> » Si ça vous arrive encore, Balle-Franche, je ne vous emmènerai plus dans le monde. </p>
+        <p> Aux piqueurs: </p>
+        <p> – Il faut lui pardonner. </p>
+        <p> » Au fond, un sauvage. </p>
+        <p> » Il a des tics nerveux. </p>
+        <p> Puis très calme: </p>
+        <p> – Votre maître est donc bien riche? </p>
+        <p> – Des millions de revenu. </p>
+        <p> – C’est un seigneur de France? </p>
+        <p> – Non. </p>
+        <p> » C’est un ancien sous-officier qui a fait fortune. </p>
+        <p> » Très simple! </p>
+        <p> » Vous verrez. </p>
+        <p> » Mais il ne faudrait pas essayer de lui monter le coup. </p>
+        <p> » Voit très clair. </p>
+        <p> » Et de la poigne! </p>
+        <p> En ce moment, le garçon entra la carte à la main. </p>
+        <p> La Feuille la prit. </p>
+        <p> – Voyons! voyons! </p>
+        <p> » Hors-d’œuvre. </p>
+        <p> » Des crevettes, des mufles de bœufs en salade, des anchois de Norvège, des radis de serre, etc., etc. </p>
+        <p> Au garçon: </p>
+        <p> – Joseph, ça va pour les hors-d’œuvre; ces messieurs choisiront sur table. </p>
+        <p> À Taupe-Renardière: </p>
+        <p> – Aimez-vous la sole normande? </p>
+        <p> – Jamais mangé! </p>
+        <p> Un poisson, la sole. </p>
+        <p> Marinière ou pas, vous savez, c’est un bon poisson. </p>
+        <p> Occasion de faire connaissance avec une sole habillée à la marinière. </p>
+        <p> Ne pas la manquer. </p>
+        <p> – Vous entendez, Joseph? </p>
+        <p> » Ah! mon ami, n’oubliez pas douze douzaines d’huîtres. </p>
+        <p> » Vous les accompagnerez avec du chablis, comme d’habitude. </p>
+        <p> Au trappeur: </p>
+        <p> – Vous aimez le vin blanc? </p>
+        <p> – Dans notre métier on n’a pas souvent l’occasion d’en boire. </p>
+        <p> » Je me souviens pourtant qu’au baptême de la fille du directeur du fort Stephenson, j’en ai bu. </p>
+        <p> » Je ne veux pas médire du cidre; non, je ne le veux pas. </p>
+        <p> » Mais ce vin blanc là, vous savez, c’était encore meilleur que du vieux cidre ayant six mois de bouteille et fait avec des vieilles pommes sauvages après la première gelée. </p>
+        <p> – Bon! </p>
+        <p> » Du chablis première. </p>
+        <p> » Ça ira, du reste, avec la sole. </p>
+        <p> » Et après cette sole? </p>
+        <p> » Que pensez-vous d’un poulet de grain au kary? </p>
+        <p> » C’est très relevé. </p>
+        <p> » On arroserait ce plat avec du médoc très corsé. </p>
+        <p> – Moi… je veux bien. </p>
+        <p> » Quant à Balle-Franche, il n’a pas d’opinion bien arrêtée sur la nourriture que l’on peut servir dans les hôtels. </p>
+        <p> » Mais il n’a pas son pareil pour cuire à point une tranche de daim sur les braises. </p>
+        <p> » Et ce qu’il réussit un fromage de pieds d’ours, vous le verrez plus tard, si nous faisons affaire. </p>
+        <p> » Je n’en doute pas, du reste. </p>
+        <p> – Moi non plus. </p>
+        <p> » Mais comme légumes, j’ai idée qu’une perdrix aux choux, la perdrix pilée et mêlée aux choux, comme ils savent le faire ici, pourrait faire bonne figure. </p>
+        <p> » Ils ont un certain moulin-à-vent qui ajouterait à la saveur de ce plat qui sera truffé. </p>
+        <p> – Je suis sûr que Balle-Franche n’y voit aucun inconvénient. </p>
+        <p> – Non! dit Balle-Franche. </p>
+        <p> Il avait une confiance aveugle dans son beau-frère. </p>
+        <p> La foi du charbonnier. </p>
+        <p> La Feuille se mit à sourire. </p>
+        <p> Il était gourmet. </p>
+        <p> – Oh! oh t fit-il. </p>
+        <p> » On nous offre, ce matin, des côtelettes de veau en papillotes, avec un fin hachis de quenelles saupoudrées de poussière de morilles sèches et légèrement pimentées. </p>
+        <p> » Aiguillon à vin. </p>
+        <p> » Nous n’en apprécierons que mieux le corton qui ira avec ce plat. </p>
+        <p> » Je propose une salade d’asperges poussées sous couche à la douce (chaleur du fumier de cheval arrosé avec de l’eau tiède. </p>
+        <p> » Ça, messieurs, c’est une méthode importée ici par un jardinier français qui gagne beaucoup d’argent ici. </p>
+        <p> » Il est de Chanzy et je l’ai reconnu avant-hier. </p>
+        <p> » Fameuse idée qu’il a eue d’écouter un de ses cousins établi ici bourrelier, qui l’a engagé à venir. </p>
+        <p> » Ah! j’oubliais… </p>
+        <p> » Combien de côtelettes pour vous, M. Taupe-Renardière. </p>
+        <p> – Oh! moi, je ne suis pas comme Balle-Franche, un gros mangeur. </p>
+        <p> » Avec une douzaine, j’en aurai assez! </p>
+        <p> » Mais, à lui, il en faudra bien trois douzaines. </p>
+        <p> La Feuille réprima un mouvement de surprise. </p>
+        <p> – Ça suffira? fit-il. </p>
+        <p> » Si, à tout hasard, je faisais servir un pâté de gibier? </p>
+        <p> – Oh! ce n’est pas de refus. </p>
+        <p> – Va pour le pâté. </p>
+        <p> » Quant au dessert, il sera très varié. </p>
+        <p> » Et nous boirons du champagne! </p>
+        <p> Les yeux de la Taupe-Renardière étincelèrent. </p>
+        <p> – Une fois, dit-il, une fois en ma vie, j’en ai bu. </p>
+        <p> » C’est étonnant. </p>
+        <p> » C’est doux, c’est pétillant, ça ressemble, en beaucoup meilleur, au vin d’érable, mais ça grise. </p>
+        <p> – Bah! </p>
+        <p> » Quand vous seriez un peu gris! </p>
+        <p> – C’est que… </p>
+        <p> – Est-ce que vous auriez le vin mauvais, Monsieur Taupe-Renardière? </p>
+        <p> – Non! oh non! </p>
+        <p> » Je vois tout en rose. </p>
+        <p> » Mais Bois-Brûlé, lui, se met à chanter; et il beugle comme un taureau sauvage qui appelle ses vaches. </p>
+        <p> – Eh bien, nous l’accompagnerons en sourdine avec nos cors de chasse. </p>
+        <p> » Ce sera très amusant. </p>
+        <p> Le garçon était parti pour commander le déjeuner. </p>
+        <p> Mais il avait demandé du vermouth et il en apporta une bouteille sur un plateau avec deux verres. </p>
+        <p> Il versa. </p>
+        <p> On trinqua. </p>
+        <p> Mais Balle-Franche, après avoir goûté, fit une moue aussi dédaigneuse que significative. </p>
+        <p> – Qu’avez-vous donc? demanda La Feuille un peu inquiet. </p>
+        <p> Taupe-Renardière se mit à rire et il dit: </p>
+        <p> – Il est volé. </p>
+        <p> » Il croyait que c’était de l’eau-de-vie; parce que le verre est petit. </p>
+        <p> – Un grand verre, garçon. </p>
+        <p> Le garçon s’empressa d’en aller chercher un que La Feuille remplit. </p>
+        <p> – Merci! dit Balle-Franche. </p>
+        <p> Il le vida d’un trait. </p>
+        <p> – Douce amère! fit-il. </p>
+        <p> Il peignait d’un trait la double saveur du vermouth. </p>
+        <p> Mais Taupe-Renardière avait sur les lèvres une question brûlante. </p>
+        <p> – Si nous parlions un peu, dit-il, des appointements que vous nous proposez. </p>
+        <p> » La chose en vaut la peine. </p>
+        <p> – Combien demandez-vous? </p>
+        <p> – Vous donnez aux petits Bois-Brûlés cent francs par mois. </p>
+        <p> – C’est dit! </p>
+        <p> – Nous valons bien le double. </p>
+        <p> – Décidément vous gâtez le métier. </p>
+        <p> » Ça vaut cinq cents francs. </p>
+        <p> Balle-Franche, qui écoutait très attentivement, refit un bond extraordinaire et poussa un cri de gorille. </p>
+        <p> Taupe-Renardière se fâcha. </p>
+        <p> – Mais, par tous les diables, s’écria-t-il, satané Bois-Brûlé que vous êtes, homme à deux natures, ne montrez donc que la bonne, la blanche. </p>
+        <p> » Cachez l’homme sauvage qui est en vous. Car vous me faites rougir de honte. </p>
+        <p> » Un singe, oui un singe, auquel on donnerait des friandises, aurait plus de tenue que vous. </p>
+        <p> Aux piqueurs: </p>
+        <p> – Messieurs, il faut lui pardonner, car il n’est plus Français qu’au sixième degré, peut-être au septième. </p>
+        <p> Et pour détourner l’attention des piqueurs d’un incident qu’il jugeait désagréable, il se mit à demander: </p>
+        <p> – Mais comment votre maître, qui n’était qu’un ancien sous-officier, m’avez-vous dit, est-il devenu si riche? </p>
+        <p> – C’est toute une aventure. </p>
+        <p> » Figurez-vous qu’un capitaine au long cours, qui s’était fait chercheur d’or en Australie, a trouvé le moyen de vivre dans un désert sans eau, de le traverser et de prospecter (vous savez ce que cela veut dire) en pleine solitude, sans une seule source. </p>
+        <p> » Or, il y a trouvé une montagne d’or. </p>
+        <p> » Il a levé une compagnie d’anciennes amazones de Béhanzin, commandées par deux vieilles générales du roi déchu, Taki-Data et Taki-Nadou, qui sont de notre expédition. </p>
+        <p> » Il était accompagné de cent esclaves noirs mariés. </p>
+        <p> » Il avait pour lieutenants M. Driveau, notre maître, M. Santarelli, M. Castarel, qui le suivent eu pôle nord… </p>
+        <p> – Ah! c’est là que l’on va? </p>
+        <p> – Nous en reparlerons tout à l’heure. M. d’Ussonville a emmené tout son monde en Australie. </p>
+        <p> » Les champs d’or ont produit quatre milliards et demi. </p>
+        <p> » La montagne d’or reste une mine d’une richesse fabuleuse. </p>
+        <p> » M. d’Ussonville a réalisé quatre milliards qui lui rapportent gros. </p>
+        <p> » Mon maître et les autres ont eu douze millions, mais ils ont pris pour dix millions d’actions chacun dans la mine. </p>
+        <p> » Les dividendes sont énormes. </p>
+        <p> » M. d’Ussonville a, lui, propriétaire de la moitié des actions, touché des revenus fabuleux. </p>
+        <p> » C’est un homme extraordinaire. </p>
+        <p> » Il veut faire des choses étonnantes que personne n’a réussies avant lui et que l’on déclare impossibles. </p>
+        <p> » Il ne tient pas à l’or pour l’or et pour le luxe, pour les plaisirs qu’il peut procurer. </p>
+        <p> » Non! </p>
+        <p> » Il veut être un très grand homme, le plus grand homme qui ait existé. </p>
+        <p> – Un Napoléon? </p>
+        <p> – Oh! pas ça. </p>
+        <p> » Napoléon faisait tuer du monde et il voulait injustement conquérir des peuples qui, eux, voulaient rester libres. </p>
+        <p> » M. d’Ussonville ne tentera que des entreprises utiles à la science, et, par conséquent, à l’humanité. </p>
+        <p> » Dans ce moment, je vous l’ai dit, nous allons au pôle nord. </p>
+        <p> » Nous allons au Mackenzie et à son embouchure par voie fluviale et par terre; mais le gros de l’expédition y va par mer. </p>
+        <p> » Elle y bâtira un hôtel, puis à cinquante ou à soixante lieues de là, un autre et ainsi jusqu’au pôle. </p>
+        <p> » Soixante lieues, c’est une étape en traîneaux attelés de chiens. </p>
+        <p> – C’est vrai. </p>
+        <p> – Mais est-il curieux, le pôle? </p>
+        <p> – Je n’en sais rien. </p>
+        <p> » Je sais que l’on dit que ça ressemble à toutes les autres régions polaires d’alentour de ce point. </p>
+        <p> » Mais enfin… il importe d’y aller, car il y a peut-être un secret. </p>
+        <p> » Il est mortel! </p>
+        <p> » Tout le monde parle du pôle. </p>
+        <p> » Andrée a voulu y aller en ballon… </p>
+        <p> » Nansen a essayé d’y arriver avec un traîneau et il a échoué. </p>
+        <p> » Nous avons lu les récits de ceux qui ont tenté d’y atteindre, et c’est très intéressant, je vous assure. </p>
+        <p> » Mais aller y établir un hôtel terminus d’une ligne d’hôtels, vous m’avouerez que l’idée n’est pas banale. </p>
+        <p> – Ça, j’en conviens. </p>
+        <p> » Mais, quelle clientèle fera vivre ces hôtels? </p>
+        <p> » La même que celle qui passe l’été dans le fameux hôtel tout nouvellement construit au Spitzberg. </p>
+        <p> » Il y a, de par le monde, beaucoup de touristes fort riches. </p>
+        <p> » Ils sont las de villégiatures banales et celle du pôle ne le sera pas. </p>
+        <p> – Il faudra que je me paie ce voyage-là, si M. d’Ussonville veut bien nous emmener. </p>
+        <p> – Mais c’est entendu. </p>
+        <p> » Je viens de vous engager. </p>
+        <p> – La Meute ira au pôle? </p>
+        <p> » Mais oui. </p>
+        <p> – Et les chevaux? </p>
+        <p> » Aussi. </p>
+        <p> » Les chiens de traîneaux ravitailleront sans cesse, faisant la navette. </p>
+        <p> » Ils apporteront de l’avoine, du son, du foin comprimé. </p>
+        <p> » Les chevaux seront bien nourris. </p>
+        <p> – Ça sera très drôle une chasse au pôle. </p>
+        <p> – S’il y a du gibier. </p>
+        <p> – Il doit y en avoir. </p>
+        <p> » Les bœufs musqués et les rennes, en été, remontent le plus haut possible. </p>
+        <p> – Nous les chasserons. </p>
+        <p> » Mais il va falloir s’occuper d’acheter les chiens. </p>
+        <p> – Nous nous en occuperons dès demain avec le Bois-Brûlé. </p>
+        <p> » Il s’y connaît. </p>
+        <p> » À première vue, il vous dit: </p>
+        <p> » – Voilà un bon chien! </p>
+        <p> » »Voilà un rossard. </p>
+        <p> – Nous voulons des fins de nez. </p>
+        <p> – Il ne s’y trompera pas. </p>
+        <p> – Et les chevaux? </p>
+        <p> – Ça, c’est une autre paire de manches, monsieur La Feuille. </p>
+        <p> Le trappeur eut une grimace. </p>
+        <p> – Le Bois-Brûlé et moi, reprit-il, nous vous fournirons des chevaux sauvages que nous attraperons en les forçant. </p>
+        <p> – Il vous faudra avoir quelques autres chevaux pour prendre ceux-là. </p>
+        <p> – Non pas. </p>
+        <p> » Nous les forçons à pied. </p>
+        <p> – Ce n’est pas possible. </p>
+        <p> – Vous verrez ça. </p>
+        <p> – Comment, c’est réellement possible? </p>
+        <p> Autre grimace! </p>
+        <p> – Monsieur La Feuille, je ne pourrais pas compter les chevaux sauvages que j’ai lassés en ma vie. </p>
+        <p> » Et toujours à pied! </p>
+        <p> La Feuille était émerveillé. </p>
+        <p> – Je suis curieux, dit-il, de vous voir à l’œuvre. </p>
+        <p> En ce moment, le garçon avertit: </p>
+        <p> – Ces messieurs sont servis. </p>
+        <p> – Ah! fit La Rosée, il n’est pas trop tôt! Je ne suis pas grand mangeur, mais je me sens faim. </p>
+        <p> – La main aux dames! dit en riant La Futaie. </p>
+        <p> On passa dans la salle à manger et La Renardière s’écria: </p>
+        <p> – Comment, des fleurs! </p>
+        <p> » Des roses! </p>
+        <p> – On les envoie de la Caroline du Sud! dit le garçon. </p>
+        <p> – Ma foi, fit La Renardière, ça ne se mange pas, c’est vrai; mais c’est tout de même joli à voir. </p>
+        <p> Balle-Franche était si étonné, si ravi, car en vrai enfant de là nature, il adorait les fleurs, il était si heureux d’en voir qu’il étouffa son rauque cri de joie dans son gosier et réprima un élan qui se traduisit par un simple entrechat, très brillamment exécuté du reste. </p>
+        <p> – Allons! allons! fit La Renardière avec indulgence: </p>
+        <p> » Tu te formes, Bois-Brûlé. </p>
+        <p> » Je te permets l’entrechat qui ne gène personne. </p>
+        <p> » Mais des bonds de jaguar comme tu en fais sont déplacés dans un appartement et en société. </p>
+        <p> » Encore si tu prévenais. </p>
+        <p> » Mais tu pars comme un ressort! </p>
+        <p> La Rosée’impatient: </p>
+        <p> – À table! </p>
+        <p> » Je vous jure qu’il n’est que temps mes chers camarades. </p>
+        <p> On s’assit. </p>
+        <p> Les hors-d’œuvre reçurent un très rude assaut. </p>
+        <p> Mais La Renardière pensa aux chiens. </p>
+        <p> – Garçon! </p>
+        <p> – Monsieur. </p>
+        <p> – Vous ferez préparer une énorme pâtée, vous entendez, énorme: </p>
+        <p> » Jetez dedans tous les restes de cuisine et faites-la apporter ici. </p>
+        <p> » Pour ne rien salir, vous ferez étendre quelques vieux tapis, par dessus ceux que nous avons sous les pieds. </p>
+        <p> – Monsieur, je ferai dérouler une nappe de linoléum… </p>
+        <p> – Très bien. </p>
+        <p> Le déjeuner continua, un peu silencieux d’abord. </p>
+        <p> Mais on s’anima. </p>
+        <p> – Quand croyez-vous que nous pourrons partir? demanda La Feuille. </p>
+        <p> – Eh mais, bientôt. </p>
+        <p> » On a vu des oies sauvages monter vers le nord. </p>
+        <p> » C’est un présage. </p>
+        <p> » La débâcle est proche. </p>
+        <p> » Je crois qu’elle aura lieu dans une dizaine de jours. </p>
+        <p> » La glace du fleuve est pourrie. </p>
+        <p> » Du reste, on annonce à son de caisse, deux jours d’avance, le départ du premier bateau à vapeur. </p>
+        <p> » C’est celui que nous prendrons. </p>
+        <p> » Trente chiens. </p>
+        <p> » Il faudra un chenil sérieux. </p>
+        <p> » Je verrai le capitaine. </p>
+        <p> – Oui, voyez-le. </p>
+        <p> » Mais vos cousins? </p>
+        <p> » Vos neveux! </p>
+        <p> – Ils sont ici. </p>
+        <p> » Ils sont venus vendre des peaux et acheter tout ce qui doit être remplacé là-bas dans les Bois-Brûlés. </p>
+        <p> » Moi-même, je suis venu avec eux dans le même but. </p>
+        <p> » Mais mon banquier, auquel j’allais verser des fonds, m’a parlé de vous. </p>
+        <p> » Alors je suis venu avec Balle-Franche, qui attend ses douzaines de côtelettes avec impatience. </p>
+        <p> » C’est un gouffre. </p>
+        <p> » Sa part de sole lui a paru bien petite et le voilà qui vide tous les plats de hors-d’œuvre. </p>
+        <p> La Feuille, au garçon: </p>
+        <p> – Découpez le pâté en tranches et placez-le devant M. Balle-Franche, qui en mangera autant qu’il lui plaira. </p>
+        <p> – Il n’en laissera pas! dit La Renardière, qui connaissait son ami. </p>
+        <p> – Monsieur, dit le garçon, je ne devrais pas prendre la parole; mais vous ne m’en voudrez pas de vous dire que ce pâté pèse dix livres pour le moins. </p>
+        <p> – Eh bien, dis-lui adieu! </p>
+        <p> » Tu n’en verras plus une miette dans dix minutes. </p>
+        <p> Bois-Brûlé s’administra une tranche, puis une autre, une autre encore, arrosant largement. </p>
+        <p> Tout tomba dans le gouffre. </p>
+        <p> Ce Bois-Brûlé n’avalait pas la nourriture, il la détruisait. </p>
+        <p> – Un gouffre, soit! disait plus tard La Futaie. </p>
+        <p> » Mais au fond du gouffre, il y a un four qui brûle tout. </p>
+        <p> Enfin vinrent les côtelettes. </p>
+        <p> Le Bois-Brûlé, dont la bouche se dilatait merveilleusement, mettait les côtelettes doubles et tordant à belles dents, il tirait et engloutissait. </p>
+        <p> Sans mâcher! </p>
+        <p> À quoi bon mastiquer. </p>
+        <p> Il était si sûr de ses digestions. </p>
+        <p> Je n’ai rencontré, en ma vie de voyageur, qu’un seul homme qui pouvait faire concurrence à Balle-Franche. </p>
+        <p> C’était un Touareg. </p>
+        <p> Mais les Touareg sont célèbres comme mangeurs. </p>
+        <p> Il dévora devant moi et d’autres curieux un mouton rôti et mangea cinquante-deux biscuits. </p>
+        <p> Il en redemandait… </p>
+        <p> Enfin, Balle-Franche paraissait rassasié, quand La Feuille demanda: </p>
+        <p> – Joseph, est-ce que vous auriez un second pâté tout prêt. </p>
+        <p> – Oh! certainement. </p>
+        <p> – Offrez-le à M. Balle-Franche, si le cœur lui en dit. </p>
+        <p> Le Bois-Brûlé, rectifia: </p>
+        <p> – Ce n’est pas mon cœur qui dit oui, c’est mon ventre. </p>
+        <p> – Allez, Joseph. </p>
+        <p> Et les piqueurs eurent cette joie de voir le second pâté détruit comme le premier. </p>
+        <p> Mais tout cela ne s’était pas passé sans boire. </p>
+        <p> Balle-Franche en était à sa dixième bouteille. </p>
+        <p> On fit honneur à la salade d’asperges, puis au fromage de Chester américain et au dessert varié. </p>
+        <p> Oh! très varié. </p>
+        <p> Et les bouchons de champagne sautèrent à la grande joie de Bois-Brûlé qui déclara que c’était « doux et piquant. » </p>
+        <p> Enfin on prit le café. </p>
+        <p> Puis du cognac. </p>
+        <p> Tant et si bien que Balle-Franche sentit que « son âme voulait s’envoler, en paroles chantées. » </p>
+        <p> Il le déclara. </p>
+        <p> – C’est le moment! dit La Renardière aux piqueurs. </p>
+        <p> » Vous avez des cors de chasse? </p>
+        <p> – Mais oui. </p>
+        <p> – Je n’ai jamais entendu cet instrument-là; mais si vous pouviez accompagner le Bois-Brûlé, ce serait très beau. </p>
+        <p> – Essayons! </p>
+        <p> Ils envoyèrent le garçon décrocher les cors et fourrèrent leurs mouchoirs dans les pavillons pour produire la sourdine. </p>
+        <p> Le Bois-Brûlé voyait ces préparatifs du coin de l’œil avec plaisir. </p>
+        <p> Il entonna un chant étrange qui commençait par une mélopée lente d’un très grand charme intime. </p>
+        <p> Puis ce chant rauque, dur, mais très mélodique et bien rythmé, s’anima. </p>
+        <p> Des phrases musicales d’une grande envolée; s’échappèrent des lèvres inspirées du Bois-Brûlé, marquant la joie et l’enthousiasme, c’était une explosion. </p>
+        <p> – Mais, s’écria La Futaie; ce doit être la vue , ça! </p>
+        <p> – Oui! dit Là Renardière. </p>
+        <p> » Il a vu le daim! </p>
+        <p> » Son chien lui a signalé la bête. </p>
+        <p> » Il dit cela en langue indienne. </p>
+        <p> » Tenez, la bête détale. </p>
+        <p> – C’est le laisser-courre! </p>
+        <p> – Je ne sais pas. </p>
+        <p> Mais le chien est lancé sur le daim, il le poursuit. </p>
+        <p> – Le découplé! </p>
+        <p> – Voilà maintenant que le chasseur court pour se poster. </p>
+        <p> » Il devine que le daim passera dans une de ses refuites. </p>
+        <p> » L’animal arrive. </p>
+        <p> » On entend la voix du chien. </p>
+        <p> » Pan! </p>
+        <p> » Coup de feu! </p>
+        <p> » Le daim tombe! </p>
+        <p> » Le chasseur l’éventre et donne la curée chaude au chien. </p>
+        <p> » La curée! </p>
+        <p> » Puis il charge le daim sur ses épaules et s’en va lourdement. </p>
+        <p> » Salut des femmes et des enfants, des guerriers et des chiens à son retour. </p>
+        <p> » Hymne des Bois-Brûlés. </p>
+        <p> Les piqueurs avaient écouté, très émus, cette sauvage mais superbe mélodie. </p>
+        <p> La Futaie, sur son cor, essaya de répéter les principaux motifs. </p>
+        <p> Le Bois-Brûlé, de la main, de la voix, corrigea les erreurs de mémoire. </p>
+        <p> Les deux autres piqueurs sonnèrent à leur tour. </p>
+        <p> La Feuille trouva l’accompagnement et il dit au Bois-Brûlé: </p>
+        <p> – Recommence! </p>
+        <p> » Tu vas voir ça. </p>
+        <p> » Nous y sommes? </p>
+        <p> Et la fanfare sonna, assourdie, mais très vibrante dans une salle relativement petite. Les piqueurs se passionnèrent. </p>
+        <p> – Ah! dit La Feuille, quand ces messieurs entendront ça… </p>
+        <p> » C’est brutal! </p>
+        <p> » C’est dur à l’oreille. </p>
+        <p> » Mais c’est épatant! </p>
+        <p> – Attendez, fit La Renardière. </p>
+        <p> Au Bois-Brûlé: </p>
+        <p> – Le chant du mariage. </p>
+        <p> Et Balle-Franche, d’une voix très douce, chanta l’amour, puis la rivalité et la querelle, avec ses grondements et l’explosion furieuse, le duel, le triomphe du vainqueur, les épousailles. </p>
+        <p> Les piqueurs reprirent leurs cors et enlevèrent cette nouvelle fanfare. </p>
+        <p> Mais, comme le Bois-Brûlé allait entamer un autre chant, la porte s’ouvrit et Joseph parut: </p>
+        <p> – Messieurs, dit-il, à la demande générale de toutes les personnes qui habitent l’hôtel en ce moment, on vous prie de ne pas vous gêner et de sonner… à toute volée. </p>
+        <p> – Il prend nos cors pour des cloches! dit La Futaie en riant. </p>
+        <p> La Feuille à Joseph: </p>
+        <p> – Ouvrez les fenêtres! </p>
+        <p> – Nous ne voulons pas nous assourdir. </p>
+        <p> Au Bois-Brûlé: </p>
+        <p> – Repose-toi. </p>
+        <p> » Tout à l’heure tu reprendras. </p>
+        <p> Et aux piqueurs: </p>
+        <p> – Les airs de France! </p>
+        <p> » Le départ pour la chasse! </p>
+        <p> La fanfare éclata. </p>
+        <p> Dans la rue, les passants s’arrêtaient pour écouter. </p>
+        <p> Montréal n’avait jamais rien entendu de pareil. </p>
+        <p> Peu à peu, la foule s’entassa au point que la circulation s’en trouva entravée, puis suspendue. </p>
+        <p> La police dut faire effort pour que les tramways pussent circuler. </p>
+        <p> Mais les voyageurs descendaient pour écouter. </p>
+        <p> Grand succès! </p>
+        <p> On crie bravo. </p>
+        <p> Le Bois-Brûlé chanta la Guerre, les Funérailles, le Printemps, l’Été, l’Automne et l’Hiver, les Migrations, alternant avec les fanfares de la vénerie française. </p>
+        <p> L’enthousiasme des Montréalais devint prodigieux. </p>
+        <p> Enfin, les piqueurs, lassés, se turent et des gentlemen firent irruption dans les salles à manger, sans permission. </p>
+        <p> – Félicitations, messieurs. </p>
+        <p> » À quel équipage appartenez-vous? </p>
+        <p> » Vos noms? </p>
+        <p> » Combien prenez-vous de cerfs par an? Mariés ou pas? </p>
+        <p> » Quels appointements? </p>
+        <p> Les questions tombaient dru comme grêle, posées par des reporters. </p>
+        <p> L’un avait accaparé La Feuille, l’autre La Rosée. </p>
+        <p> Celui-ci commençait « à faire des yeux de langouste ». </p>
+        <p> La Futaie ne savait à qui répondre et Bois-Brûlé, pour être débarrassé, se mit à chanter. </p>
+        <p> La Renardière, très malin, dit au questionneur: </p>
+        <p> – J’en sais très long. </p>
+        <p> » Je sais tout! </p>
+        <p> » Mais vous allez gagner de l’argent avec ce que je vous dirai. </p>
+        <p> » Je ne dirai rien. </p>
+        <p> – Venez au journal. </p>
+        <p> » On vous paiera. </p>
+        <p> – Combien? </p>
+        <p> – Cent dollars! </p>
+        <p> Mais un autre. </p>
+        <p> – Venez avec moi. </p>
+        <p> » Deux cents dollars! </p>
+        <p> – Trois cents! </p>
+        <p> Personne ne mettant, de surenchère, la Renardière suivit le dernier offrant et sauta avec lui dans une voiture. </p>
+        <p> Qui ne connaît pas les reporters anglo-américains, n’a pas idée de leur audace et de leur ingéniosité. </p>
+        <p> Ils osent tout. </p>
+        <p> Mais enfin les piqueurs en furent débarrassés. </p>
+        <p> Il fallait faire paraître les journaux plus tôt. </p>
+        <p> Deux heures après, on les criait dans toutes les rues… </p>
+        <p> Mais, pour les piqueurs, ce n’était pas fini. </p>
+        <p> Ça commençait. </p>
+        <p> Des gentlemen étaient restés là, raides, compassés. </p>
+        <p> Hommes d’affaires. </p>
+        <p> Ils se regardèrent avec défiance, avec hostilité. </p>
+        <p> Enfin, l’un d’eux se décida. </p>
+        <p> À La Feuille: </p>
+        <p> – Vous êtes, je crois, monsieur, le chef de la troupe? </p>
+        <p> – Je suis le premier piqueur. </p>
+        <p> – Très bien! </p>
+        <p> » Je sollicite un moment d’entretien, oh! très court, avec vous. </p>
+        <p> – Passons au salon. </p>
+        <p> Les autres, se levant, comme un seul homme, s’écrièrent: </p>
+        <p> – Que voulez-vous? Avant de l’entendre, moi aussi j’ai des propositions à vous faire très avantageuses. </p>
+        <p> La Feuille, avec sang-froid: </p>
+        <p> – Très bien, messieurs! </p>
+        <p> À La Rosée: </p>
+        <p> – Écoutez l’un de ces messieurs et prenez note de ses propositions. </p>
+        <p> À La Futaie: </p>
+        <p> – Prenez-en un autre! </p>
+        <p> À tous les deux: </p>
+        <p> – Passez dans vos chambres. </p>
+        <p> Ainsi fut fait. </p>
+        <p> Résultat? </p>
+        <p> Moyennant de fortes sommes: </p>
+        <p> 1°Les piqueurs, avec le Bois-Brûlé et La Taupe-Renardière se feraient entendre dans la Jeunesse du roi Henri où il y a une chasse à courre. </p>
+        <p> 2°Dans la grande salle des conférences, La Feuille en ferait une sur la vénerie française. </p>
+        <p> Ouverture de cors de chasse. </p>
+        <p> Les diverses fanfares seraient requises… </p>
+        <p> Le Bois-Brûlé chanterait avec accompagnement. </p>
+        <p> La Taupe-Renardière traduirait auparavant chaque chant. </p>
+        <p> Enfin, les hôteliers, marchands de vin, tenanciers de bars et taverniers, après une quête chez d’autres intéressés à attirer du monde dans la ville, organisèrent une grande cavalcade où les piqueurs figuraient sur un char. </p>
+        <p> Et toutes ces exhibitions eurent un succès colossal. </p>
+        <p> Après quoi, vint l’abbé. </p>
+        <p> Très aimable homme. </p>
+        <p> – Vous êtes Français? </p>
+        <p> – Oui. </p>
+        <p> – Catholique? </p>
+        <p> – Oui, mais pas fervent. </p>
+        <p> – Aimez-vous les protestants anglais? </p>
+        <p> – Oh non! </p>
+        <p> – Eh bien, consentez-vous à donner, sous les voûtes de la cathédrale, une grand’messe de Saint-Hubert? </p>
+        <p> La Feuille regarda les autres. </p>
+        <p> – Moi, dit La Rosée, ça me fera plaisir de faire maronner les Anglais. </p>
+        <p> Et La Futaie: </p>
+        <p> – À moi aussi. </p>
+        <p> La Feuille: </p>
+        <p> – Monsieur l’abbé, dites à Monseigneur de compter sur nous. </p>
+        <p> » Quand? </p>
+        <p> – Dimanche prochain, à dix heures; vous serez placés dans le chœur. </p>
+        <p> – Très bien. </p>
+        <p> L’abbé s’en alla enchanté. </p>
+        <p> Très réussie cette messe! </p>
+        <p> Il y eut une imitation du son des cloches qui fut admirable. </p>
+        <p> La popularité des piqueurs français devint telle que Québec les réclama; mais ils se récusèrent. </p>
+        <p> La débâcle était imminente et le départ trop prochain. </p>
+      </div>
+      <div title="CHAPITRE II Le départ." type="chapter">
+        <head> CHAPITRE II </head>
+        <lb/>
+        <p> La Feuille, avec tout son monde, prit le train qui les conduisit à Winnipeg où l’on devait s’embarquer. </p>
+        <p> La navigation fluviale est vraiment charmante au Canada, surtout au commencement de la saison. </p>
+        <p> La température très douce, n’est pas encore brûlante; l’herbe qui a poussé dru sous la neige s’épanouit en immenses tapis verts; les feuilles naissantes des peupliers, des hêtres, des charmes, des saules, des bouleaux frissonnent sous le souffle des brises folles. </p>
+        <p> L’air est embaumé des parfums des primevères, léger, presque insaisissable quand on respire la fleur, mais très perceptible quand il se dégage des prairies. </p>
+        <p> On respire. </p>
+        <p> On se sent revivre. </p>
+        <p> C’est le renouveau. </p>
+        <p> Le printemps canadien n’est pas comme le nôtre. </p>
+        <p> Nous avons souvent trois ou quatre faux printemps. </p>
+        <p> Ils nous donnent des espérances bien vite déçues. </p>
+        <p> Et le vrai, combien souvent il est aigre et maussade! </p>
+        <p> Là-bas, franc dégel, franc retour de la tiédeur. </p>
+        <p> Tout est fondu, tout est fini. </p>
+        <p> Et les longues bandes d’oiseaux migrateurs le prouvent. </p>
+        <p> Ils passent, obscurcissant la lumière, armées immenses, ailées, rapides et se succédant innombrables. </p>
+        <p> Et, très près des rives souvent, les troupeaux migrateurs. </p>
+        <p> Bisons, bœufs musqués, daims, cerfs, s’en allant au nord, à la conquête de l’herbe tendre. Tout charme le regard. </p>
+        <p> Tout ranime. </p>
+        <p> Et point de chocs, de secousses comme sur mer. </p>
+        <p> Point de roulis. </p>
+        <p> Point de tangage. </p>
+        <p> Le vapeur glisse et l’on éprouve une sensation très agréable, celle d’avancer sans fatigue. </p>
+        <p> On était bien un peu gêné, mais on avait peu à peu organisé son petit chez soi et aménagé sa cabine. </p>
+        <p> D’autant plus que la plupart des passagers préférèrent coucher sur le pont, sous la tente et les moustiquaires. </p>
+        <p> Une plaie, ces moustiques. </p>
+        <p> Mais on les combattait. </p>
+        <p> On brillait des huiles lourdes donnant beaucoup de fumée. </p>
+        <p> Ça les éloignait. </p>
+        <p> Puis on avait la distraction de voir la meute prendre ses ébats en liberté, deux fois par jour, sur le pont. </p>
+        <p> Les passagers étaient des fermiers, des bûcherons ou des trappeurs. </p>
+        <p> Gens très simples. </p>
+        <p> Des commis de Sociétés. </p>
+        <p> Gentlemen, mais sans prétentions. </p>
+        <p> Le matin, diane en fanfare par MM. les piqueurs. </p>
+        <p> Le soir, concert de cors. </p>
+        <p> Mesdames Balle-Franche et Taupe-Renardière raffolaient de cette musique, et, à la façon des femmes Bois-Brûlées, elles avaient improvisé un chant pour chaque air et elles chantaient fort juste. </p>
+        <p> Vraiment gentilles, ces dames! </p>
+        <p> Mme La Renardière était même fort belle femme. </p>
+        <p> Grande, bien faite, mince et souple, très élégante dans sa mise cependant très simple, elle avait une belle figure aquilinée et l’air imposant. </p>
+        <p> Brune aux yeux d’or, elle était fascinative  (2)  . </p>
+        <p> Mais elle avait, pour son mari, une admiration sans bornes. </p>
+        <p> Et que de reconnaissance! </p>
+        <p> Pensez donc. </p>
+        <p> Lui, un blanc, non pas un petit blanc, mais un grand blanc, trappeur célèbre, portant à ses mocassins cent chevelures effrangées, scalps pris par lui, il l’avait épousée, elle, une Bois-Brûlée. </p>
+        <p> Et il lui avait dit: </p>
+        <p> – Nos enfants seront métis, mais ils te feront honneur. </p>
+        <p> » Ils apprendront à lire, à écrire, à compter dans une école. </p>
+        <p> » Ils apprendront plus encore. </p>
+        <p> » J’en ferai des gentlemen. </p>
+        <p> » Un jaguar et sa famille ne peuvent faire que des jaguars. </p>
+        <p> » Une Bois-Brûlée comme toi et un trappeur comme moi ne peuvent taire que des braves et des intelligents. </p>
+        <p> » Tes fils te vêtiront d’honneurs et tu seras le reflet de leur grandeur. </p>
+        <p> La Bois-Brûlée en avait conçu des espérances maternelles qu’elle craignait cependant être trop hautes. </p>
+        <p> – Crois-tu, demandait-elle quelquefois à son mari, qu’un de mes fils pourrait devenir géomètre du gouvernement? </p>
+        <p> Cela correspondait à un agent-voyer chez nous. </p>
+        <p> Pour elle, c’était le summum de l’ambition d’un métis. </p>
+        <p> Et La Renardière répondait: </p>
+        <p> – Ils seront mieux que ça. </p>
+        <p> – Quoi donc? </p>
+        <p> – Médecins, avocats, pasteurs peut-être, peut-être officiers. </p>
+        <p> Sur ces brillants avenirs, elle tombait dans des rêves extatiques. </p>
+        <p> Quant à Mme Balle-Franche, c’était une cousine. </p>
+        <p> Jolie petite femme, aux cheveux châtains, à l’œil brun et tendre, au bon sourire, dévouée à son mari, ayant un très grand charme attractif, elle se faisait aimer par tout le monde. </p>
+        <p> Elle se laissait volontiers dominer par sa fière cousine. </p>
+        <p> Celle-ci se conduisait, du reste, en sœur aînée. </p>
+        <p> La présence de ces deux dames égayait la traversée. </p>
+        <p> Aussi celle des jeunes Bois-Brûlés engagés comme valets de chiens et comme palefreniers-piqueurs pour soigner les chevaux et conduire les relais. </p>
+        <p> Bruyants, gais comme des pinsons, pleins de sang, exubérants de vie, ils donnaient de l’animation au pont du navire. </p>
+        <p> Tous, comme les piqueurs, les trappeurs et les femmes de ceux-ci étaient armés du fusil américain à répétiteur (cinquante balles à la minute) et des revolvers à quadruple revoluteur (vingt-quatre balles sans recharger). </p>
+        <p> Tous ces Bois-Brûlés étaient de très bons tireurs. </p>
+        <p> Ils apprirent à manier le fusil américain, à faire fonctionner la hausse et manier l’arme. Ils devinrent très forts. </p>
+        <p> La Feuille avait deux Bois-Brûlés comme valets de chiens à pied, huit piqueurs de relais, il disposait de dix-huit fusils en tout, force respectable. </p>
+        <p> Et il la dressait. </p>
+        <p> Le tir à la cible fut un des grands passe-temps de la traversée. </p>
+        <p> On visait des petites cibles, montées sur des bouées qui étaient traînées par le vapeur. </p>
+        <p> Bref, le temps se passa agréablement jusqu’au moment où il fallut quitter le vapeur pour aller, à travers les prairies, en reprendre un autre. </p>
+      </div>
+      <div title="CHAPITRE III Le dépotage." type="chapter">
+        <head> CHAPITRE III </head>
+        <lb/>
+        <p> On appelle portage, au Canada, l’espace qui sépare une rivière d’une autre sur une route fluviale. </p>
+        <p> Les routes fluviales ne, sont pas continues; il y a des lacunes, des bandes de terre à franchir pour passer d’un cours d’eau à un autre. </p>
+        <p> Ces bandes de terre s’appellent portages; parce que les Indiens sont obligés de porter leurs pirogues d’écorce et leur bagage, sur leur tête. </p>
+        <p> Bien entendu, on est obligé d’abandonner le vapeur qui vous a conduits; mais un autre vous attend à l’extrémité du portage et vous le reprenez. </p>
+        <p> Or, il fallait aller de la pointe nord du lac Winnipez à la pointe sud du lac Nelson, sur la rive orientale duquel s’élève le fort Nelson. </p>
+        <p> Or, une tribu d’Indiens, celle des Ours, occupe ce portage. </p>
+        <p> Elle s’offre aux voyageurs pour transporter leurs bagages et eux-mêmes à dos de cheval; on accepte généralement. </p>
+        <p> Cette tribu se divise en deux fractions, celle des Ours-Gris et celle des Ours-Noirs, ces derniers sont chasseurs et ils ne s’occupent pas de portages. </p>
+        <p> Donc, La Feuille, à peine débarqué, reçut la visite de deux chefs, le sachem, chef des guerriers, et le médecin-sorcier, chef religieux des Ours-Gris. </p>
+        <p> Ils lui offrirent leurs services dont La Taupe-Renardière discuta le prix. </p>
+        <p> Quand tout fut réglé, on se rendit au grand village des Ours-Gris. </p>
+        <p> Ceux-ci devaient abriter leurs hôtes sous des tentes et les pourvoir de venaison et de maïs. </p>
+        <p> Ils devaient nourrir aussi la meute de bouillie de maïs, mêlée de viande hachée très menue. </p>
+        <p> Le grand village des Ours-Gris pouvait contenir trois cents wigwams. </p>
+        <p> Il était très pittoresque. </p>
+        <p> Les tentes, en peaux de bisons, de daims ou de cerfs, sont très hautes, très vastes, très commodes. </p>
+        <p> Elles sont peintes extérieurement par les femmes. </p>
+        <p> Elles sont habiles à retracer des épisodes de chasse et de guerre. </p>
+        <p> Chaque fois que le mari accomplit un haut fait de chasse ou de guerre, la femme efface une peinture pour la remplacer par la représentation du haut fait de l’homme. </p>
+        <p> On peut donc lire sur la tente l’histoire d’un guerrier. </p>
+        <p> Ajoutez à l’effet de trois cents tentes aussi originales, celui de neuf cents lances avec pavillons, plantées en terre, armes des guerriers, et vous aurez une idée de l’aspect général d’une ville indienne. </p>
+        <p> En arrière des tentes, à l’écart, des milliers de chevaux parqués. </p>
+        <p> Et, dans les rues, en ligne droite toujours, qui séparent les tentes, dès chiens bruyants et des poules, et des bandes d’enfants, le tout remuant et grouillant. </p>
+        <p> Les femmes, sur leurs portes de tente, regardent passer les étrangers. </p>
+        <p> Les guerriers affectent l’indifférence la plus fière. </p>
+        <p> Mais, cette fois, il n’en fut pas ainsi, parce que les piqueurs à cheval, dans leurs beaux habits rouges, entrèrent en sonnant des fanfares. </p>
+        <p> Les guerriers trouvèrent cette musique si belle, si guerrière, qu’ils accoururent en foule et se mirent à montrer leur satisfaction en poussant leur cri d’approbation. </p>
+        <p> Ohc! Ohc! </p>
+        <p> Quant aux femmes, elles étaient ravies de plaisir. </p>
+        <p> La meute couplée marchait en bel ordre de chasse. </p>
+        <p> Un valet devant, un derrière, le grand fouet en main, maintenaient l’ordre et la discipline. </p>
+        <p> Reconnaissant « les deux dames » pour des Bois-Brûlées, aux trois quarts Indiennes, les Ourses leur souriaient. </p>
+        <p> Bref, la réception fut des plus cordiales et des plus chaleureuses. </p>
+        <p> On fuma le calumet de la paix, signature d’une bonne paix, puis on banqueta joyeusement. </p>
+        <p> Les Indiennes excellent à préparer la venaison. </p>
+        <p> Elles connaissent les plantés, les racines, les bois qui s’accommodent le mieux avec les différents gibiers; elles sont très fortes sur le point de sauce et sur le degré de cuisson. </p>
+        <p> Leurs gâteaux de maïs, bien dorés, croustillants, tout chauds, tiennent lieu de pain; on s’habitue vite à un certain goût d’abord désagréable, comme celui du sarrasin ou blé noir, mais qui plaît ensuite et que l’on regrette, si l’on en est privé longtemps. </p>
+        <p> Les piqueurs firent honneur au vin d’érable dont on arrosa le repas, à la cervoise (bière de mars avec graines de genièvre et autres baies); ils offrirent au sachem, au sorcier et aux chefs, assis à la table d’honneur, de l’excellent rhum. </p>
+        <p> Je dis table quoique l’on fût assis par terre. </p>
+        <p> Les chefs sont des guerriers qui ont fait leurs preuves. </p>
+        <p> Pour être chef, il faut au moins avoir scalpé un ennemi. </p>
+        <p> Le scalp se prend sur la tête du mort; c’est la peau du crâne depuis le sourcil jusqu’à la nuque, enlevée par une incision circulaire passant près et au-dessus des oreilles, puis, par un dépouillement relevant la peau et l’enlevant comme on fait pour la peau d’un vulgaire lapin. </p>
+        <p> Quand le scalp a été montré à la tribu, on le sèche. </p>
+        <p> Après quoi, on le découpe en une lanière que l’on enroule au-dessus du jarret, sur le mocassin. </p>
+        <p> Dès qu’un Indien a pris un scalp, il est consacré guerrier. </p>
+        <p> S’il est reconnu, apprécié comme un homme supérieur, il se forme autour de lui une bande de jeunes gens et même d’autres guerriers qui le suivent « sur le sentier de la guerre et de la chasse. » </p>
+        <p> Chez aucun peuple, il n’y a plus de liberté individuelle que chez celui-là. </p>
+        <p> Le Peau-Rouge n’obéit qu’au sachem élu par tous, qu’au chef choisi par lui; il a le droit de se séparer du chef, si celui-ci cesse de lui plaire. </p>
+        <p> Si le sachem de sa fraction de tribu lui déplait, il va se mettre sous l’autorité d’un autre sachem. </p>
+        <p> Notez que rien ne se fait sans délibération commune. </p>
+        <p> Le chef propose une expédition et on la discute. </p>
+        <p> Les plus jeunes ont le droit de dire leur avis. Jamais un orateur n’est interrompu; on écoute toujours. </p>
+        <p> On réfute, s’il y a lieu. </p>
+        <p> Tout Indien est orateur. </p>
+        <p> Chez nous, un monsieur quelconque se sent gêné pour parler en public, chez les Peaux-Rouges tout le monde sait exprimer sa pensée très fortement et même très brillamment. </p>
+        <p> L’apologue joue un grand rôle dans les discours. </p>
+        <p> Ce soir-là, il ne s’agissait pas de discours, mais de s’amuser. </p>
+        <p> À la prière générale, les piqueurs donnèrent un concert. </p>
+        <p> Les jeunes filles se mirent à danser tour à tour devant les hôtes. </p>
+        <p> Parmi elles, les quatre filles du sachem qui étaient fort belles. </p>
+        <p> Les piqueurs les remarquèrent, d’autant plus qu’elles se mirent à chanter fort agréablement, un chœur improvisé. </p>
+        <p> La cadette disait quelques vers sur un rythme très lent, presque plaintif, et toutes reprenaient ensemble. </p>
+        <p> Quand elles eurent fini, La Renardière dit en riant aux piqueurs: </p>
+        <p> – Si vous ne vous mariez pas, c’est que vous n’aurez pas voulu. </p>
+        <p> – Pourquoi donc? </p>
+        <p> – Ah! voilà, vous n’avez pas compris ce qu’elles ont chanté. </p>
+        <p> – Parbleu… en indien. </p>
+        <p> – D’abord elles ont félicité les Bois-Brûlées, vos femmes. </p>
+        <p> » Bien heureuses, cent fois heureuses d’avoir épousé l’une un grand blanc, l’autre un beau Bois-Brûlé. </p>
+        <p> » Puis elles ont déclaré que les chasseurs blancs étaient des hommes que de pauvres Indiennes ne pouvaient espérer épouser, ce qui était bien malheureux. </p>
+        <p> » Pourtant elles savaient broder des mocassins, peindre les tentes, les fabriquer, coudre les peaux pour en faire de bons manteaux bien chauds. </p>
+        <p> » Elles savaient préparer la venaison, prendre soin des armes. </p>
+        <p> » Bref, elles ont déclaré que pas une femme blanche ne saurait tenir un wigwam aussi propre qu’elles. </p>
+        <p> » Mais, voilà le malheur, les blancs ne voudraient pas d’Indiennes. </p>
+        <p> Et La Renardière de rire. </p>
+        <p> Mais La Rosée ne riait pas et « il faisait des yeux de langouste » comme on ne lui en avait jamais vus. </p>
+        <p> Il dit à La Renardière: </p>
+        <p> – Est-ce que le sachem, par hasard, consentirait à marier avec moi celle qui a un collier de coquilles? </p>
+        <p> » Et elle? </p>
+        <p> » M’épouserait-elle? </p>
+        <p> La Renardière gravement: </p>
+        <p> – C’est sérieux? </p>
+        <p> La Rosée plus gravement: </p>
+        <p> – Mais oui. </p>
+        <p> La Renardière se leva. </p>
+        <p> Tout le monde se tut. </p>
+        <p> Le vieux trappeur demanda au sachem: </p>
+        <p> – Veux-tu marier ta fille au collier de coquillages avec mon ami, le trappeur La Rosée que voilà. </p>
+        <p> » Il te donnera dix livres de poudre et dix bouteilles de rhum. </p>
+        <p> Le vieux sachem ébloui, s’écria: </p>
+        <p> – Och! Och! </p>
+        <p> Et toute la tribu répéta ce cri approbatif. </p>
+        <p> – Mais. fit La Rosée, la jeune personne accepte-t-elle? </p>
+        <p> La Renardière sourit. </p>
+        <p> Au sachem: </p>
+        <p> – Demande à ta fille si elle consent? </p>
+        <p> Étonnement du sachem. </p>
+        <p> – Est-ce que l’on consulte une fille pour la marier? </p>
+        <p> Mais sur insistance, il appela sa fille et lui posa la question. </p>
+        <p> L’Indienne, pour toute réponse, alla se prosterner devant La Rosée, très flatté d’être adoré comme un dieu, puis elle lui prit la main. </p>
+        <p> – La Renardière! </p>
+        <p> C’était La Futaie qui interpellait ainsi le trappeur. </p>
+        <p> – Ah! ah! fit celui-ci. </p>
+        <p> » L’appétit vient en voyant manger les autres. </p>
+        <p> – Avez-vous fait votre choix? </p>
+        <p> – Voyons! voyons! </p>
+        <p> – Laquelle? </p>
+        <p> – Celle qui a une plume dans son chignon. </p>
+        <p> Au sachem: </p>
+        <p> – Vieux chef? fit La Renardière. </p>
+        <p> – Ami? </p>
+        <p> – Voici La Futaie qui te demande ta fille, celle qui porte plume de faisan en ses cheveux. Mêmes cadeaux! </p>
+        <p> – Och Och! </p>
+        <p> Sur ce, exclamations enthousiastes de la foule indienne. </p>
+        <p> Alors La Feuille se décida. </p>
+        <p> – Eh! La Renardière? </p>
+        <p> – Mon camarade? </p>
+        <p> – Puisque ça paraît marcher comme sur des roulettes, je me marierais bien avec la plus grande sœur. </p>
+        <p> – Très bien. </p>
+        <p> Et au vieux chef: </p>
+        <p> – Sachem, si tu veux, il y aura trois mariages ce soir. </p>
+        <p> M. La Feuille prendrait la plus grande de tes filles. </p>
+        <p> – Och! Och! </p>
+        <p> Trépignement général! </p>
+        <p> Acclamations! </p>
+        <p> Mais un comble! </p>
+        <p> Le plus âgé des valets de chiens, un Bois-Brûlé, réclama la quatrième fille, la plus jeune. Accordée avec enthousiasme. </p>
+        <p> Mais l’impétueux La Rosée demanda à La Renardière: </p>
+        <p> – Quand se feront les mariages? </p>
+        <p> – C’est fait. </p>
+        <p> – Comment! c’est fait? </p>
+        <p> – Oui! </p>
+        <p> » Pas plus de cérémonies que ça; vous devriez déjà avoir conduit vos femmes dans vos wigwams. </p>
+        <p> – Pas possible. </p>
+        <p> – C’est ainsi. </p>
+        <p> La Rosée, sans plus d’histoires, salua l’assemblée et offrit son bras à sa femme qui le conduisit dans une tente. </p>
+        <p> Les autres mariés en firent autant. </p>
+        <p> Mais la tribu dansa toute la nuit et chanta les mariages. </p>
+        <p> Drôles de mœurs! </p>
+        <p> Eh! eh! </p>
+        <p> Un mariage simplement civil n’est pas beaucoup plus compliqué! </p>
+        <p> Là-bas, le père constate devant toute la tribu que sa fille devient la femme de tel guerrier. Ici, le maire constate qu’un tel épouse une telle. </p>
+        <p> La différence est-elle donc si grande? </p>
+      </div>
+      <div title="CHAPITRE IV Guerre déclarée." type="chapter">
+        <head> CHAPITRE IV </head>
+        <lb/>
+        <p> Le lendemain, en l’honneur des noces, grand banquet. Mais, comme le repas finissait à peine, on vit quatre cavaliers accourir au triple galop de leurs chevaux. </p>
+        <p> Ils portaient des lances ornées de banderoles blanches. </p>
+        <p> Ils les plantèrent devant l’entrée du village et attendirent. </p>
+        <p> Tout le monde sortit en tumulte pour savoir ce dont il s’agissait. </p>
+        <p> Les quatre guerriers étaient des Ours-Noirs, tous chefs. </p>
+        <p> L’un d’eux était le fils du sachem qui, presque aveugle, lui laissait le commandement des expéditions. </p>
+        <p> On lui donnait honorairement le titre. Quand il vit tout le monde dehors, il s’avança. </p>
+        <p> À très haute voix, il dit: </p>
+        <p> – Nous avions dessein d’épouser les filles du sachem des Ours-Gris. </p>
+        <p> » Nous avions déclaré nos intentions et les mariages devaient se conclure. </p>
+        <p> Le sachem des Ours-Gris protesta avec véhémence. </p>
+        <p> – Je n’ai jamais dit oui! s’écria-t-il. Qui le prétendrait, mentirait. </p>
+        <p> » Quand on demande à un père sa fille en mariage, il en est flatté et il ne décourage pas les prétendants, quitte à choisir. </p>
+        <p> » J’ai choisi. </p>
+        <p> » Qui peut m’en blâmer? </p>
+        <p> – Je pourrais dire que tu as eu tort de marier des Ourses avec des hommes blancs que tu ne connais pas. </p>
+        <p> – Je connais La Taupe-Renardière. </p>
+        <p> » Je connais le Bois-Brûlé. </p>
+        <p> » Ce sont deux honnêtes trappeurs, incapables de mentir. </p>
+        <p> » Ils m’ont dit que ces blancs étaient très bons et je suis sûr qu’ils ont dit vrai et que mes filles seront très heureuses avec ces hommes qui, en leur pays sont riches et au service d’un très grand chef. </p>
+        <p> » Les cœurs de mes filles ont volé vers les hommes blancs. </p>
+        <p> » Refuser de les marier, c’était arrêter d’une balle le vol de leur cœur et je ne pouvais pas faire pareille chose, parce que je suis un bon père. </p>
+        <p> Le jeune sachem dit: </p>
+        <p> – Je ne t’en veux pas. </p>
+        <p> » Je ne veux pas te faire la guerre. </p>
+        <p> » Mais je veux parler aux blancs. </p>
+        <p> Et s’adressant à La Renardière: </p>
+        <p> – Trappeur, dit-il, demande aux blancs s’ils veulent céder leurs femmes de bon gré, si non nous les prendrons de force avec leurs scalps. </p>
+        <p> La Renardière se mit à rire: </p>
+        <p> – Je ne traduirai pas ta demande qui est ridicule! fit-il. </p>
+        <p> Le jeune sachem, un guerrier superbe, aux traits durs, à l’air féroce, mais très digne, dit fermement: </p>
+        <p> – Traduis au moins la menace; je ne veux pas que l’on m’accuse d’avoir traîtreusement attaqué ces hommes habillés de rouge comme les soldats anglais. </p>
+        <p> – Ils seront prévenus, sachem. </p>
+        <p> – Dois-je compter que toi et le Bois-Brûlé vous serez contre nous? </p>
+        <p> – Nous sommes les guides de ces blancs; nous les défendrons. </p>
+        <p> Montrant ses mocassins: </p>
+        <p> – Tu vois combien de scalps j’ai pris, ô jeune Ours-Noir. </p>
+        <p> » Le tien aura bientôt place d’honneur parmi ceux qui ornent mon mollet gauche où il en manque un pour faire la paire avec ceux du mollet droit. </p>
+        <p> – Mais… enfin… parle au blanc. </p>
+        <p> La Renardière aux piqueurs: </p>
+        <p> – Ces quatre Ours-Noirs vous somment de leur livrer vos femmes. </p>
+        <p> » Si vous refusez, c’est la guerre. </p>
+        <p> – Va pour la guerre! dit gaiement La Futaie. </p>
+        <p> » Je ne serais pas fâché d’avoir quelques scalps à montrer aux bons bourgeois de Fontainebleau. </p>
+        <p> La Rosée opina du bonnet; mais La Feuille en colère s’écria: </p>
+        <p> – Oh! il veut prendre nos femmes, cet Ours-Noir. </p>
+        <p> » Qu’il vienne! </p>
+        <p> » Je me paierai sa tête! </p>
+        <p> La Renardière traduisit les réponses; mais le jeune sachem, formaliste jusqu’au bout, fit observer: </p>
+        <p> – Il y en a un qui n’a rien dit. </p>
+        <p> Le trappeur: </p>
+        <p> – Monsieur La Rosée! </p>
+        <p> – Quoi? </p>
+        <p> – L’Ours-Noir veut que vous lui disiez quelque chose. </p>
+        <p> La Rosée pas patient: </p>
+        <p> – De ma part, dites-lui… zut! </p>
+        <p> – C’est bien, lui dit le jeune sachem. Les trois hommes rouges mourront tout les trois; ils l’auront voulu. </p>
+        <p> Il déchira les pavillons blancs des lances et il piqua des lambeaux d’étoffe rouge dans le fer des lances. </p>
+        <p> Puis, avec les trois chefs, il se retira très fièrement. </p>
+      </div>
+      <div title="CHAPITREVPrécautions." type="chapter">
+        <head> CHAPITRE V </head>
+        <lb/>
+        <p> – Eh bien, qu’est-ce que vous en pensez, maître La Renardière? </p>
+        <p> C’était La Feuille qui posait cette question au trappeur. </p>
+        <p> – Nous serons attaqués! dit celui-ci. Une belle nuit, ils fondront sur nous comme la foudre. </p>
+        <p> » Ils entoureront le camp en silence, à distance, puis ils marcheront lentement, sans bruit, et, tout à coup, ils lanceront leurs chevaux et nous les aurons sur les bras. </p>
+        <p> – Comment comptez-vous parer à ce danger, vieux trappeur? </p>
+        <p> – Je compte que nous sauterons à temps sur nos fusils américains. </p>
+        <p> » Nous aurons deux sentinelles chaque nuit avec deux chiens entre les jambes. </p>
+        <p> La Feuille secoua la tête. </p>
+        <p> La chose lui paraissait hasardeuse et même dangereuse. </p>
+        <p> – Écoutez, dit-il, mon maître m’a conté ses expéditions. </p>
+        <p> » Laissez-moi établir chaque soir le camp à ma guise. </p>
+        <p> – Moi, je veux bien. </p>
+        <p> – À combien évaluez-vous le nombre des guerriers que nous aurons sur les bras? </p>
+        <p> – À quatre ou cinq cents. </p>
+        <p> – Bon! </p>
+        <p> » On en viendra à bout. </p>
+        <p> » Je réponds de tout. </p>
+        <p> » Mais j’ai ouï dire que les femmes indiennes tiraient des cordes d’écorce très solides; il me semble même en avoir vu à Montréal. </p>
+        <p> – Oh! Certainement. </p>
+        <p> » Chez tous les Indiens, il y en a. </p>
+        <p> – Procurez-nous-en quatre gros paquets auprès du sachem. </p>
+        <p> – C’est tout? </p>
+        <p> – Oui. </p>
+        <p> » Mais que vos cordes soient très solides surtout. </p>
+        <p> – Oh! n’ayez crainte. </p>
+        <p> Chaque piqueur et le valet de chiens marié montra à sa femme à se servir du fusil américain et des revolvers qu’on leur donna. </p>
+        <p> – M. d’Ussonville, dit La Feuille, s’est servi des amazones de Béhanzin avec beaucoup de succès. </p>
+        <p> » Pourquoi n’armerait-on pas les femmes, qui peuvent se servir d’un fusil tout comme un homme, du moins pour tirer? </p>
+        <p> Et il avait raison. </p>
+        <p> Les Ourses-Grises, très guerrières, montrèrent beaucoup d’intelligence et de bonne volonté et elles furent bientôt capables de se servir du fusil sans hausse. </p>
+        <p> Et, sans la hausse, il portait juste à six cents mètres. </p>
+        <p> Effet de sa trajectoire très tendue. </p>
+        <p> Le troisième jour, on partit avec dix Ours-Gris pour conduire le convoi, et convention faite qu’ils seraient neutres, s’il y avait des combats. </p>
+        <p> Les Ours ne voulaient pas se manger entre eux. </p>
+      </div>
+      <div title="CHAPITRE VI Les camps." type="chapter">
+        <head> CHAPITRE VI </head>
+        <lb/>
+        <p> Au premier camp, selon la méthode de sir Garnet et de M. d’Ussonville, La Feuille fit faire quatre tas de bagages aux quatre angles du camp. </p>
+        <p> Puis il fit élever quatre bastions avec ces, bagages. </p>
+        <p> Une tente au milieu de chaque bastion et des créneaux ménagés. </p>
+        <p> – Sacrebleu, disait La Renardière à Balle-Franche, il est malin, le Français, et je comprends son idée. </p>
+        <p> Mais il approuva encore bien plus quand, la nuit venue, il vit tendre les cordes d’un bastion à l’autre. </p>
+        <p> – Les cavaliers butteront dedans, dit-il, et ils tomberont les uns sur les autres comme des capucins de carte. </p>
+        <p> Il se frottait les mains. </p>
+        <p> La Feuille prit le commandement d’un bastion, il donna celui d’un autre à La Futaie, le troisième à La Rosée, le quatrième à la Renardière et à son compagnon. </p>
+        <p> Dans chaque bastion, il y avait cinq fusils tenus par des mains expertes; dans le quatrième, il y en avait sept, parce que les deux Indiennes ne pouvaient encore compter comme étant bien exercées. </p>
+        <p> La Feuille fit remarquer à chacun la force de chaque bastion. </p>
+        <p> Deux cent cinquante coups de fusil à tirer en une minute. </p>
+        <p> Deux cent quarante coups de revolver en une autre minute. </p>
+        <p> Pour les quatre bastions, deux mille quatre cent cinquante coups de feu en deux minutes. Et nous tirons à l’abri. </p>
+        <p> Comprenez bien que nous sommes très forts et ne vous laissez pas intimider par le nombre. Il ne signifie rien. </p>
+        <p> À partir de dix heures du soir, on mit une sentinelle dans chaque bastion; le soleil se levant à deux heures et demie du matin, cela faisait à peine une heure de faction pour chacun ou chacune. </p>
+        <p> Ces dispositions prises, on attendit les Ours avec confiance. </p>
+      </div>
+      <div title="CHAPITRE VII Une charge." type="chapter">
+        <head> CHAPITRE VII </head>
+        <lb/>
+        <p> Rien pendant la première nuit. </p>
+        <p> Rien pendant la seconde. </p>
+        <p> Le soir du troisième jour, La Taupe-Renardière dit à ses compagnons: </p>
+        <p> – Il y a de l’Indien dans l’air. </p>
+        <p> – Vous croyez! fit La Feuille. </p>
+        <p> – Regardez mes chiens. </p>
+        <p> » Regardez ceux de Balle-Franche. </p>
+        <p> Les quatre chiens, formant groupe, flairaient dans le vent, grognant sourdement et fouettant l’air de leur queue d’une certaine façon. </p>
+        <p> Quand un coup de vent apportait des émanations plus fortes, leur poil se hérissait et ils tournaient la tête vers leurs maîtres, faisant entendre des petits abois aigus. </p>
+        <p> Et La Renardière de dire: </p>
+        <p> – Ça, c’est l’Indien. </p>
+        <p> Il caressa les chiens, leur montra le point où devaient être les Ours-Noirs et il leur dit: </p>
+        <p> – Tout beau, mes vieux! </p>
+        <p> » C’est compris! </p>
+        <p> » Les Indiens sont là-bas! </p>
+        <p> De ce moment, sachant leurs maîtres bien et dûment avertis, les chiens se tinrent tranquilles. </p>
+        <p> On dressa le camp avec le plus grand soin. On prit le plus grand soin à élever les bastions. </p>
+        <p> La nuit venue, on tendit solidement les cordes. </p>
+        <p> Les Ours-Gris, comme de coutume, formèrent un camp à part. </p>
+        <p> – Vous vous coucherez à plat ventre pendant le combat, leur dit La Renardière, et vous ne bougerez pas. </p>
+        <p> – Convenu. </p>
+        <p> Dans chaque bastion, les fusils furent posés près des meurtrières, le magasin préparé à fonctionner. </p>
+        <p> Les revolvers, deux par combattant, furent placés à portée de la main pour être saisis facilement. </p>
+        <p> Mais La Feuille, après le dîner pris en commun, dit: </p>
+        <p> – J’ai toujours entendu dire à mon maître qu’une troupe qui sait qu’on va l’attaquer dans la nuit doit se coucher de bonne heure. </p>
+        <p> » Le sommeil la repose. </p>
+        <p> » Elle ne se lève qu’à l’appel aux armes et se bat beaucoup mieux après avoir dormi. Si, au contraire, la troupe veille, elle s’énerve. </p>
+        <p> On suivit le conseil de La Feuille, mais la Renardière et Balle-Franche, dans leur bastion, déclarèrent qu’habitués aux nuits d’affût, ils ne dormiraient pas et veilleraient sur la sûreté du campement. </p>
+        <p> Ce qu’ils firent. </p>
+        <p> Assis sur des pierres, l’un dormait la tête en ses mains. </p>
+        <p> L’autre ne cessait d’observer les quatre chiens. </p>
+        <p> Ceux-ci avaient recommencé à gronder et à s’irriter. </p>
+        <p> Vers dix heures, Balle-Franche vit que les chiens se tournaient lentement, deux d’un côté, deux de l’autre. </p>
+        <p> Il poussa du coude La Renardière qui ouvrit les yeux. </p>
+        <p> – Vois les chiens! fit le Bois-Brûlé. Ils sentent que le mouvement tournant est commencé. </p>
+        <p> – Ils le suivent du nez. </p>
+        <p> » Nous en avons pour deux heures encore au moins. </p>
+        <p> » Sommeille. Je prends la faction. </p>
+        <p> Le Bois-Brûlé mit son menton dans ses mains et ferma les yeux. </p>
+        <p> Jusqu’alors, dans le silence de la nuit, on n’avait entendu les coyotes (ces hyènes de l’Amérique) hurler que du côté opposé au camp indien, si bien indiqué par le flair subtil des chiens des trappeurs mais lentement, très lentement elles se turent, s’éloignant, disparaissant à mesure qu’elles sentaient se fermer le cercle des cavaliers. </p>
+        <p> Alors La Renardière sortit du bastion et donna l’alarme sans bruit. </p>
+        <p> Chacun prit ses armes. </p>
+        <p> La Feuille fit à tous ses recommandations. </p>
+        <p> – Surtout ne tirez que quand ils auront culbuté! recommanda-t-il. </p>
+        <p> » Visez ceux qui seront restés à cheval et après… dans le tas! </p>
+        <p> La grande anxiété qui précède la lutte, plana sur le camp. </p>
+        <p> Mais la meute s’inquiétait et bientôt elle donna de la voix. </p>
+        <p> Puis ce fut un concert de hurlements qui précipita peut être le moment de la charge. </p>
+        <p> Un long hurlement de coyote poussé par le crieur retentit. </p>
+        <p> Les Indiens ont des crieurs attitrés qui, au milieu du bruit des batailles, lancent les ordres du chef. </p>
+        <p> En ceci, ils ressemblent aux Arabes et aux Grecs du temps d’Homère. </p>
+        <p> On entendit le galop effréné des chevaux. </p>
+        <p> En trois minutes, le cercle se rétrécit, et enserrant le camp, tomba sur lui; les Ours-Noirs poussaient des hurlements épouvantables. </p>
+        <p> Mais cette tempête à cheval se brisa sur les cordes. </p>
+        <p> Les chevaux se renversèrent les uns sur les autres. </p>
+        <p> Le feu commença. </p>
+        <p> Un orage, une rafale effrayante, une grêle de balles. </p>
+        <p> Les Ours et leurs chevaux furent hachés épouvantablement. </p>
+        <p> Une cinquantaine de cavaliers survivants tournèrent bride et s’enfuirent. </p>
+        <p> La Feuille cria: </p>
+        <p> – Cessez le feu! </p>
+        <p> Puis: </p>
+        <p> – Rechargez les armes: </p>
+        <p> Et il cria: </p>
+        <p> – Que personne ne sorte des bastions avant le jour. </p>
+        <p> La précaution était bonne, car des Ours simplement blessés, auraient pu tirer sur leurs ennemis. </p>
+        <p> On en vit bientôt qui essayaient de fuir en rampant. </p>
+        <p> La Feuille en eut pitié. </p>
+        <p> – Ne tirez pas! ordonna-t-il. </p>
+        <p> Mais La Renardière protesta. </p>
+        <p> – Pourquoi épargner ces canailles d’Ours-Noirs qui nous ont attaqués? </p>
+        <p> – Ils sont vaincus t dit La Feuille; ils ont reçu une telle leçon qu’ils ne recommenceront pas. </p>
+        <p> – S’ils étaient vainqueurs, ils nous tueraient sans pitié. </p>
+        <p> – Ce sont des sauvages et nous sommes des hommes civilisés. </p>
+        <p> – Nous, trappeurs, nous ne ferions pas grâce à l’ennemi. </p>
+        <p> – Parce que vous en êtes presque revenu à l’état sauvage. </p>
+        <p> La Renardière fut frappé de cette remarque et dit. </p>
+        <p> – Allons, montrons-nous civilisés. </p>
+        <p> Balle-Franche se rangea au même avis pour bien montrer que les Bois-Brûlés n’étaient pas des sauvages. </p>
+        <p> Mais le jour pointa. </p>
+        <p> Les Ours-Gris accoururent, parce qu’on les appela. </p>
+        <p> La Feuille leur ordonna alors de visiter le champ de bataille, de mettre les blessés à part, de leur retirer leurs armes, ce que firent les Ours-Gris. </p>
+        <p> Ils étaient terrifiés. </p>
+        <p> « Jamais, avouaient-ils, jamais ils n’auraient cru pareille exécution possible; c’était la foudre qui était tombée sur les Ours-Noirs et les avait tués. » </p>
+        <p> Parmi les blessés, ils trouvèrent le jeune sachem. </p>
+        <p> Celui-ci avait une balle dans le bras, une dans la cuisse droite et une plaie contuse sur la poitrine. </p>
+        <p> Celle-ci l’étouffait. </p>
+        <p> Tout piqueur est vétérinaire, partant quelque peu chirurgien. </p>
+        <p> La Feuille reconnut le jeune sachem et dit en riant: </p>
+        <p> – Le voilà donc celui qui voulait me scalper. </p>
+        <p> Il prit dans sa poche son couteau à dépecer et il l’ouvrit. </p>
+        <p> La Renardière ricanant: </p>
+        <p> – Ah! ah! monsieur l’homme civilisé va se venger! </p>
+        <p> – Oui! dit La Feuille. </p>
+        <p> » Je vais lui ouvrir la poitrine avec mon couteau. </p>
+        <p> Et, se penchant, il fendit la plaie contuse en croix. </p>
+        <p> Un sang noir s’en échappa et bientôt le sachem ouvrit les yeux. </p>
+        <p> Il reprit tout à fait ses sens et regardant La Feuille fièrement: </p>
+        <p> – Je suis vaincu, dit-il. </p>
+        <p> » L’homme blanc m’a tendu un piège et je suis pris. </p>
+        <p> Mais l’homme blanc verra comment un Ours-Noir sait mourir. </p>
+        <p> – Tes blessures, dit La Feuille, ne sont pas mortelles. </p>
+        <p> » En dix jours, tu seras guéri; les balles n’ont fait que traverser la chair sans briser aucun os. </p>
+        <p> – Ah! je comprends. </p>
+        <p> » Tu veux que je guérisse pour que je souffre plus longtemps. </p>
+        <p> La Renardière traduisait. </p>
+        <p> – Que me chante-t-il là? s’écria La Feuille étonné. </p>
+        <p> – Il veut dire que vous voulez qu’il soit sur pied avant de l’attacher au poteau de la torture. </p>
+        <p> – Mais je ne veux pas le torturer du tout. </p>
+        <p> » On va construire des huttes et placer dessous tous ces blessés auxquels on laissera deux Ours-Gris pour avoir soin d’eux. </p>
+        <p> » Un autre Ours va monter à cheval pour prévenir leur tribu d’avoir à venir les chercher. </p>
+        <p> Puis il aida les deux autres piqueurs et les Ours-Gris à panser les blessés. </p>
+        <p> Ce fut assez long. </p>
+        <p> Quatre-vingt-trois blessés! </p>
+        <p> On en finit pourtant. </p>
+        <p> La Feuille avait dit aux femmes des Ours-Gris de faire bouillir de la viande de cheval pour avoir du bouillon à donner aux blessés. Quand les piqueurs eurent terminé les pansements, La Feuille dit: </p>
+        <p> – Retournons sur le champ de bataille, nous y trouverons peut-être encore quelques blessés laissés pour morts. </p>
+        <p> Mais, voilà qu’en approchant, ils s’aperçurent que tous les morts avaient été scalpés dextrement. </p>
+        <p> – Mais, s’écria La Feuille, nos valets de chiens et nos piqueurs n’ont pas pu, à eux seuls, lever tous ces scalps. </p>
+        <p> » Nos femmes ont dû les aider. </p>
+        <p> » Il y a là plus de trois cents morts! </p>
+        <p> Il avait deviné juste. </p>
+        <p> Les scalps séchaient au soleil au sommet de chaque bastion! </p>
+        <p> Mme La Feuille dit à son mari: </p>
+        <p> – Nous ne pouvons savoir qui a tué, puisque nous tirions ensemble; alors nous avons pris seize scalps par fusil, et, comme chef, tu en as six qui étaient en plus du compte. </p>
+        <p> » Je compte que tu m’en donneras quelques-uns pour orner mes mocassins; j’ai tiré de mon mieux. </p>
+        <p> – Ah! fit La Feuille, tu peux bien les prendre tous. </p>
+        <p> L’Indienne ne comprit rien à la mauvaise humeur de son mari qui s’en allait au ruisseau laver ses mains et son couteau de dépouillement. Les autres piqueurs en faisaient autant. </p>
+        <p> – Dites donc, La Feuille, ça a l’air de vous embêter les scalps. </p>
+        <p> C’était La Futaie qui parlait. </p>
+        <p> – Ça me semble drôle d’avoir épousé une bête féroce. </p>
+        <p> – Oui, c’est drôle, mais… c’est amusant de se dire qu’on a avec soi une petite panthère bien sauvage. </p>
+        <p> Lui et La Rosée se mirent à rire. </p>
+        <p> – Après tout, fit La Rosée, ça ne leur a pas fait de mal aux morts et leurs scalps feront bon effet quand, revenus à Senoncourt, nous les aurons fait coudre en haut de nos bottes. </p>
+        <p> – Vont-ils en faire des commentaires là-dessus, les vieux bourgeois de Fontainebleau, quand ils sauront ce que c’est. </p>
+        <p> La Feuille se mit à rire. </p>
+        <p> – Ma foi, dit-il, ce qui est fait est fait et puisque c’est fait, mieux vaut en profiter. </p>
+        <p> Puis il dit: </p>
+        <p> – C’est M. Drivau qui, du caractère dont je le connais, sera content de voir nos mocassins si bien frangés. </p>
+        <p> Il essuya son couteau et il le mit dans sa poche. </p>
+        <p> – Si nous allions prendre le café! dit La Rosée. </p>
+        <p> » Nous l’avons bien gagné. </p>
+        <p> – Il doit être fait! dit La Futaie en riant. J’ai vu les marmites sur le foyer; Mme Balle‑Franche, qui est folle de café, poussait vivement le feu. </p>
+        <p> – Elle en pince pour le café! dit La Rosée; c’est son péché mignon. </p>
+        <p> Ils retournèrent au camp. </p>
+        <p> Mme La Feuille demanda à son mari: </p>
+        <p> – En quoi t’ai-je déplu? </p>
+        <p> – En rien. </p>
+        <p> » Ce n’est pas ta faute si tu es une sauvage. </p>
+        <p> – Qu’ai-je fait? </p>
+        <p> – Rien. </p>
+        <p> Puis après un moment: </p>
+        <p> – Tu ne comprendrais pas. </p>
+        <p> Et il sourit. </p>
+        <p> Ça la rassura. </p>
+        <p> Le café pris, La Feuille annonça aux Ours-Gris qui devaient partir, que le moment était venu de charger le convoi; il recommanda les blessés à ceux qui devaient rester auprès de ceux-ci. </p>
+        <p> Le sachem le fit demander ainsi que La Renardière. </p>
+        <p> Ils se rendirent près de lui. </p>
+        <p> – Ainsi tu pars? demanda le blessé. </p>
+        <p> – Oui. </p>
+        <p> – Sans te venger de moi? </p>
+        <p> – À quoi bon. </p>
+        <p> » Tu m’as attaqué, je me suis défendu; la lutte est finie. </p>
+        <p> » Il n’est pas glorieux du tout d’accabler le vaincu. </p>
+        <p> Le sachem murmura: </p>
+        <p> – Vous autre, blancs, vous êtes d’autres hommes que nous. </p>
+        <p> » Veux-tu faire la paix? </p>
+        <p> – Oui. </p>
+        <p> – Prends mon calumet qui est là tout bourré. </p>
+        <p> » Allume-le. </p>
+        <p> » Fume et tu me le donneras. </p>
+        <p> La Feuille donna satisfaction au sauvage. </p>
+        <p> Il lui tendit le calumet que l’autre acheva de fumer. </p>
+        <p> Quand il eut fini, il dit: </p>
+        <p> – Je suis ton frère. </p>
+        <p> Il était vraiment grand dans sa simplicité ce sauvage! </p>
+        <p> La Feuille lui tendit la main que l’Ours-Noir prit avec plaisir. </p>
+        <p> – Si jamais nous nous rencontrons, dit La Feuille, nous serons amis. </p>
+        <p> – Frères! </p>
+        <p> – As-tu besoin de quelque chose? </p>
+        <p> – Non. </p>
+        <p> – Alors, adieu. </p>
+        <p> Ils se séparèrent pleins d’estime l’un pour l’autre. </p>
+        <p> En chemin, La Renardière dit: </p>
+        <p> – En y réfléchissant bien, la pitié vaut mieux que la vengeance. </p>
+        <p> » J’ai eu tort de tout scalper et, de tous mes vaincus, j’aurais pu me faire autant d’amis. </p>
+        <p> Ils arrivèrent au camp où La Feuille passa une minutieuse inspection des armes, s’assurant qu’elles étaient rechargées et en état de tirer. </p>
+        <p> – Vous craignez donc une nouvelle attaque? demanda Balle-Franche. </p>
+        <p> – Sait-on jamais ce qui peut arriver en pays de sauvages? </p>
+        <p> » Mais, en tous cas, il est de règle qu’en route, les magasins des fusils à répétition soient toujours garnis. </p>
+        <p> – Bonne précaution. </p>
+        <p> Et la caravane se mit en route. </p>
+        <p> Trois jours après, la tribu des Ours-Gris enterrait les morts. </p>
+        <p> Elle appela le cimetière: </p>
+        <p> CHAMP-MASSACRE </p>
+        <p> Tous ceux qui traversent le portage entendent les Ours-Gris leur raconter la grande saignée faite à la tribu des Ours-Noirs par les chasseurs (piqueurs) français Anoka (La Feuille), Taliko (La Rosée), Daki (La Futaie), par le trappeur Fatagan-Ratapi (Taupe-Renardière), par le Bois-Brûlé Magoto-Dara (Balle-Franche) et quelques jeunes Bois-Brûlés, avec les femmes des chasseurs et des trappeurs « qui portent maintenant seize scalps chacune à leurs mocassins. » </p>
+        <p> – Et, disent-ils, les témoins du massacre vivent encore. </p>
+        <p> » Grâce a été faite aux blessés. </p>
+        <p> » Chacun, en passant, est tenu de jeter une pierre sur les fosses qui se couvrent ainsi d’un tumulus, lequel s’élève peu à peu, d’année en année. </p>
+        <p> » Et croyez que la légende sera pieusement racontée de père en fils dans la tribu des Ours-Gris et des Ours-Noirs. </p>
+        <p> Elle commence ainsi: </p>
+        <p> « Anoka, le chasseur français, était un homme brave et généreux… </p>
+        <p> Et elle finit ainsi: </p>
+        <p> … Quand Anoka mourra, que le Grand-Esprit le reçoive dans le paradis des chasseurs qui ont été bons et braves. » </p>
+      </div>
+      <div title="CHAPITRE VIII Combat naval." type="chapter">
+        <head> CHAPITRE VIII </head>
+        <lb/>
+        <p> On arriva à la pointe sud du lac Nelson, après quelques jours de marche et l’on y attendit pendant trente-six heures, un navire qui faisait le service sur le Missiniepy; la source de ce fleuve est très rapprochée de Saint-Paul d’où, à dos de mulets, on apporte les ravitaillements qui sont descendus en pirogues jusqu’au point où le vapeur peut remonter; il emmagasine alors et redescend. </p>
+        <p> Il entre dans le lac Nelson, ravitaille le port et remonte ensuite jusqu’à la rivière qui unit le Missiniepy au lac Garibou; il ravitaille le fort de ce nom et il entre dans le petit lac de la Hache. </p>
+        <p> Là il y a un partage pour atteindre le lac Athabasoa, père du fameux fleuve Mackensie. </p>
+        <p> Donc le vapeur descendant le Missiniepy, s’arrêta pour prendre les voyageurs à destination du fort Nelson ou du tort Garibou, repartit aussitôt. </p>
+        <p> Mais, au bout d’une demi-heure de traversée, on vit le lac couvert de plus d’une centaine de pirogues, chacune était montée par trois ou quatre guerriers. </p>
+        <p> – Eh mais, c’est la guerre! s’écria La Renardière après avoir examiné la flotte sauvage avec une lorgnette. </p>
+        <p> – À quoi voyez-vous ça? demanda La Feuille. </p>
+        <p> – Les Indiens sont peints en guerre. </p>
+        <p> Le capitaine du vapeur était très perplexe; il dit à La Renardière: </p>
+        <p> – Ce sont des Caramans. </p>
+        <p> » Tribu de chasseurs et de pêcheurs très turbulents. </p>
+        <p> » Ils auront eu des démêlés avec les gens du fort et ils assiègent celui-ci; ils ne peuvent le prendre que par la famine et on doit m’attendre avec impatience. </p>
+        <p> » Mais ces enragés vont s’accrocher à mes flancs et prendre le vapeur d’assaut, si je ne prends pas la chasse. </p>
+        <p> – Reculer? </p>
+        <p> – Il le faut bien. </p>
+        <p> – Mais, dit La Feuille intervenant, je ne vois pas la nécessité de fuir honteusement devant ces Caramans. </p>
+        <p> – J’ai si peu de monde. </p>
+        <p> – Et nous? </p>
+        <p> – Vous… ce n’est pas votre affaire de vous battre. </p>
+        <p> » Et puis, vous n’êtes pas nombreux. </p>
+        <p> – Vingt-deux fusils! </p>
+        <p> » Nos femmes font le coup de feu. </p>
+        <p> » Je n’ai pas eu le temps de vous raconter que nous avons combattu contre cinq cents Ours-Noirs. </p>
+        <p> – Vraiment. </p>
+        <p> – Nous en avons tué plus de trois cents et blessé beaucoup. </p>
+        <p> Fièrement: </p>
+        <p> – Voyez mes mocassins. </p>
+        <p> » Voyez ceux de nos amis, ceux de nos femmes; seize scalps chacun, moi vingt-deux parce que j’étais le chef. </p>
+        <p> » Vous avez dans l’entrepont, pour éclairer celui-ci, des hublots. </p>
+        <p> » Nous tirerons par là. </p>
+        <p> Il expliqua la puissance du fusil américain. </p>
+        <p> – Allons, dit-il, stoppez après vous être mis par le travers. </p>
+        <p> » Vous allez voir comment nous recevrons ces terribles Caramans. </p>
+        <p> – N’hésitez pas, capitaine! dit La Taupe-Renardière. </p>
+        <p> – Allons, soit! </p>
+        <p> » Risquons le paquet. </p>
+        <p> Il commanda la manœuvre et bientôt le vapeur resta immobile. </p>
+        <p> Déjà La Feuille et ses deux amis avaient endossé leurs habits rouges, comme pour une chasse; avec tout son monde, il était descendu dans l’entrepont dont il avait fait ouvrir les hublots du côté de l’ennemi. </p>
+        <p> – Attention! cria-t-il. </p>
+        <p> » Moi, La Rosée, La Feuille, La Renardière et sa femme, Balle-Franche et la sienne, nous allons tirer. </p>
+        <p> » Les autres en réserve. </p>
+        <p> » Feu lent et ajusté. </p>
+        <p> » Réservez le magasin. </p>
+        <p> » Hausse à quinze cents mètres. </p>
+        <p> Les tireurs désignés ouvrirent le feu en visant bien, les armes posées sur le bord des hublots. </p>
+        <p> On entendit sur le pont le capitaine crier dans l’escalier. </p>
+        <p> – Ça va! </p>
+        <p> » Ça va! </p>
+        <p> » Ils sont touchés! </p>
+        <p> Mais La Feuille dit: </p>
+        <p> – Visez un peu bas. </p>
+        <p> Les décharges firent encore effet, mais les sauvages pagayèrent furieusement et ils avancèrent rapidement. </p>
+        <p> La Feuille commanda: </p>
+        <p> – La hausse à mille mètres. </p>
+        <p> » Visez haut. </p>
+        <p> Et le capitaine, avec son porte-voix, en haut de l’escalier: </p>
+        <p> – Bravo! </p>
+        <p> » Ah! vous en démolissez. </p>
+        <p> La Feuille: </p>
+        <p> – Tirez juste, maintenant. </p>
+        <p> Deux minutes après: </p>
+        <p> – Plus bas! </p>
+        <p> Puis: </p>
+        <p> – Hausse à huit cents mètres. </p>
+        <p> » Même jeu. </p>
+        <p> Mme La Feuille, impatiente: </p>
+        <p> – Mais nous ne tirerons donc pas? </p>
+        <p> Lui avec autorité: </p>
+        <p> – Toi, tais-toi! </p>
+        <p> » Hausse abattue; la trajectoire est tranche. </p>
+        <p> Enfin, il cria: </p>
+        <p> – Cessez le feu! </p>
+        <p> » Tout le monde aux hublots. </p>
+        <p> » Feu de magasin. Apprêtez arme. </p>
+        <p> Les sauvages poussaient des hourrahs indiens. </p>
+        <p> Ils croyaient que leurs adversaires ne tiraient plus, parce que le vapeur allait fuir à toute vitesse. </p>
+        <p> C’était tout ce qu’ils voulaient, n’ayant qu’un but: </p>
+        <p> Empêcher le ravitaillement du fort que leurs camarades assiégeaient. </p>
+        <p> Mais La Feuille cria: </p>
+        <p> – Joue! </p>
+        <p> » Feu! </p>
+        <p> Et la grêle meurtrière cribla les canots, les trouant, les coulant. </p>
+        <p> Les Caramans sautèrent à l’eau et plongèrent. </p>
+        <p> Il en mourut beaucoup qui coulèrent à pic. </p>
+        <p> – Cessez le feu! commanda La Feuille. </p>
+        <p> » Rechargez les armes. </p>
+        <p> Il monta sur le pont. </p>
+        <p> – Eh bien, capitaine? </p>
+        <p> – J’avais confiance, mais je ne me doutais pas que la noyade serait si complète; je fais servir une collation pour boire à vos santés. </p>
+        <p> – Bon! </p>
+        <p> » Mais en route. </p>
+        <p> Le capitaine donna ses ordres au mécanicien et il prit la barre, le vapeur se mit en marche. </p>
+        <p> Une demi-heure après, on collationnait bruyamment. </p>
+        <p> Victoire navale. </p>
+        <p> La gloire des piqueurs français était complète. </p>
+        <p> Mais tout n’était pas fini; il fallait faire lever le siège. </p>
+      </div>
+      <div title="CHAPITRE IX Le fort Nelson." type="chapter">
+        <head> CHAPITRE IX </head>
+        <lb/>
+        <p> On fut bientôt en face du fort, où l’on avait entendu la fusillade. L’inquiétude y était très grande; on attribuait la fusillade aux sauvages et l’on supposait le vapeur pris. </p>
+        <p> Mais quand il parut, le directeur du fort s’écria: </p>
+        <p> – Nous sommes sauvés. </p>
+        <p> » Nous allons être ravitaillés et, plus tard, on nous enverra des renforts. </p>
+        <p> » Je vais pouvoir envoyer un courrier jusqu’à la plus prochaine station télégraphique; notre Société sera prévenue et elle avisera. </p>
+        <p> – Mais, dit un commis, peut-être les Caramans ont-ils pris le vapeur! </p>
+        <p> – Non pas! </p>
+        <p> » Est-ce qu’ils sauraient le diriger? </p>
+        <p> » Le bâtiment fait bonne route. </p>
+        <p> Puis il dit: </p>
+        <p> – Mais on a donc su que nous étions assiégés? </p>
+        <p> – Pourquoi, capitaine? </p>
+        <p> – Je vois des habits rouges à bord. </p>
+        <p> – Des soldats? </p>
+        <p> – Il n’y a qu’eux pour avoir des habits rouges. </p>
+        <p> – C’est vrai. </p>
+        <p> – Des officiers. </p>
+        <p> » Il y a des galons d’or à leur coiffure; mais ce doit être d’un régiment colonial, car cette coiffure à l’air d’un casque de liège couvert de velours. </p>
+        <p> – Mais, s’il y a des officiers, il doit y avoir beaucoup de soldats. </p>
+        <p> – Je ne les vois pas. </p>
+        <p> Les commentaires allaient leur train à mesure que le vapeur approchait. </p>
+        <p> Enfin il stoppa. </p>
+        <p> Le fort avait une de ses faces sur le bord même du lac. </p>
+        <p> Le directeur monta à bord. </p>
+        <p> – Et la flottille indienne? demanda-t-il tout de suite. </p>
+        <p> – Coulée à fond! </p>
+        <p> – Et les Caramans? </p>
+        <p> – Beaucoup sont au fond de l’eau; le reste s’est sauvé à la nage. </p>
+        <p> – Quels sont ces messieurs? </p>
+        <p> – Des chasseurs français qui ont criblé les Caramans de balles. </p>
+        <p> Ici un récit succinct du combat, puis présentations. </p>
+        <p> Le directeur remercia, complimenta, puis d’un air embarrassé: </p>
+        <p> – J’ai pris ces messieurs pour des officiers, et j’ai cru qu’ils amenaient des soldats; je me trompais. </p>
+        <p> » Quand vous repartirez, capitaine, après m’avoir ravitaillé, je resterai bloqué tout comme devant. </p>
+        <p> » Mais je vous prierai d’emmener un courrier et de le mettre à terre à la pointe sud du lac; il gagnera Norvay-House, d’où l’on fera partir un télégramme pour que l’on m’envoie du renfort. </p>
+        <p> – Inutile! </p>
+        <p> C’était La Feuille qui prononçait ce mot, lequel étonna le directeur. </p>
+        <p> – Inutile, dites-vous? </p>
+        <p> – Oui. </p>
+        <p> – Pourquoi? </p>
+        <p> – Je ferai déguerpir les Caramans avant une heure d’ici, si toutefois, du fort, on a vue sur leurs camps. </p>
+        <p> – Oh! belle vue! </p>
+        <p> – À quelle distance? </p>
+        <p> – Mille pas. </p>
+        <p> » Juste hors portée de nos fusils. </p>
+        <p> – Combien de sauvages? </p>
+        <p> – Six cents environ. </p>
+        <p> » Nous ne sommes que trente. </p>
+        <p> – Oh! peu importe. </p>
+        <p> » Débarquons! </p>
+        <p> La Feuille descendit du navre et entra au fort. </p>
+        <p> Le directeur lui montra que, des créneaux, on dominait les trois camps des Indiens; La Feuille dit: </p>
+        <p> – Mais d’un camp à l’autre, ils ne peuvent se voir. </p>
+        <p> – Non. </p>
+        <p> – Alors ça va devenir très amusant, monsieur le directeur. </p>
+        <p> Il indiqua à chacun et à chacune son créneau et dit: </p>
+        <p> – La hausse à neuf cents mètres et nous tirons sur le camp du centre. </p>
+        <p> » Feu de magasin! </p>
+        <p> » Il faut les piler comme des amandes dans un mortier. </p>
+        <p> » Pas trop de presse. </p>
+        <p> Il attendit. </p>
+        <p> Tout le personnel du fort assistait curieusement à cette scène. </p>
+        <p> Des vieux trappeurs se demandaient si les femmes tireraient bien. </p>
+        <p> La Feuille cria: </p>
+        <p> – Commencez le feu! </p>
+        <p> Et la fusillade crépita. </p>
+        <p> Les Indiens tombèrent comme des mouches et ce qui put se sauver s’enfuit en hurlant d’effroi. </p>
+        <p> Tous les gens du fort riaient aux éclats, tant la déroute, pour sanglante qu’elle fût, était comique. </p>
+        <p> Les Indiens des autres camps se demandaient ce que les gens du fort avaient pour tirer ainsi leur poudre aux moineaux; car, dans leur idée, les coups ne portaient pas, ne pouvaient pas porter. </p>
+        <p> Mais le camp de droite fut tout à coup servi comme celui du centre, après que les magasins des fusils eurent été chargés; déroute tout aussi comique que l’autre et tout aussi terrible. </p>
+        <p> Puis ce fut le tour du dernier camp qui fut bouleversé comme les autres en aussi peu de temps. </p>
+        <p> Les gens du fort se tenaient les côtes; les trappeurs étaient dans le ravissement, car ils s’ennuyaient fort du blocus. </p>
+        <p> La Feuille recommanda de nettoyer les fusils. </p>
+        <p> Puis au directeur: </p>
+        <p> – Vous le voyez, ça n’a pas été bien long et les voilà partis. </p>
+        <p> – Ils ne reviendront pas. </p>
+        <p> » Ceux de la flotte leur diront que le vapeur portait de gros renforts armés de fusils de guerre comme ou n’en avait jamais vu, car ils portaient à d’incroyables distances et terriblement juste. </p>
+        <p> Alors les Caramans parlementèrent longtemps entre eux, puis ils décidèrent qu’il fallait demander la paix. </p>
+        <p> Ils envoyèrent un parlementaire. </p>
+        <p> Celui-ci fut reçu courtoisement par le directeur qui lui fit néanmoins des reproches énergiques. </p>
+        <p> Il n’accorda la paix qu’après avoir imposé à la tribu une amende en pelleteries. </p>
+        <p> Puis, l’amende acceptée, les chefs vinrent fumer le calumet de la paix qui, comme toute paix indienne, devait durer jusqu’à l’envoi de la hache de guerre. </p>
+        <p> La loyauté des Indiens est, sous ce rapport, admirable. </p>
+        <p> Ils ne commencent jamais les hostilités sans emplir cette formalité de l’envoi de la hache. </p>
+        <p> Le fort fut ravitaillé promptement et le vapeur retourna au Missiniepy qu’il remonta. </p>
+        <p> Il arriva à cet émissaire du lac Garibou qui met celui-ci en communication avec le fleuve. </p>
+        <p> Il le remonta et entra dans cette charmante petite mer intérieure d’eau douce, au nord-est de laquelle s’élève le fort important du Garibou, que le vapeur ravitailla; puis il traversa, plus au nord, trois autres petits lacs qui déversent leurs eaux dans le grand fleuve par un émissaire, lequel les unit. </p>
+        <p> Sur les rives du dernier lac, le vapeur déposa les ravitaillements destinés aux forts du Mackensie. </p>
+        <p> Car du dernier lac à ce fleuve, il y a portage. </p>
+      </div>
+      <div title="CHAPITREXPieds-Fourchus." type="chapter">
+        <head> CHAPITRE X </head>
+        <lb/>
+        <p> L’on trouva les porteurs rassemblés en un grand convoi. C’étaient des Indiens de la tribu des Pieds- Fourchus. </p>
+        <p> Ils doivent ce nom à la conformation de leur pied. </p>
+        <p> Le pouce en est très allongé et très séparé des autres doigts, serrés au point de paraître soudés. Ces Pieds-Fourchus doivent cette conformation à leur manière de monter à cheval. </p>
+        <p> De chaque côté de la selle pend une corde terminée par un nœud dit ouvert. </p>
+        <p> Le cavalier passe le pouce de chaque pied dans le nœud. </p>
+        <p> Par atavisme, le pouce est devenu gros, puissant, très long, très ouvert, les autres doigts, au contraire, tendent à se lier entre eux. </p>
+        <p> On a prétendu que les Pieds-Fourchus avaient même les doigts palmés et j’ai voulu vérifier le fait. </p>
+        <p> Je puis affirmer que la vérité est qu’ils sont demi-palmés. </p>
+        <p> Ces Pieds-Fourchus ont autant de chevaux qu’ils en veulent. </p>
+        <p> L’entre rivière au partage est couvert de chevaux sauvages, en raison de l’abondance des pâturages et de la qualité de l’herbe fine et aromatique. </p>
+        <p> On sait comment les chevaux sauvages ou domestiques vivent en hiver. </p>
+        <p> La neige couvre le sol. </p>
+        <p> Mais les chevaux s’y creusent des galeries et arrivent à l’herbe très succulente, très nutritive qu’ils broutent. </p>
+        <p> Mais, pour retenir leurs chevaux domestiques attachés à eux, les Indiens récoltent du foin et le conservent. </p>
+        <p> Chaque jour, à la même heure, ils portent ce foin à leurs chevaux qu’ils sifflent et qui accourent. </p>
+        <p> On étonne beaucoup les paysans français en leur expliquant cela. </p>
+        <p> Il n’y a pas besoin d’aller en Amérique pour voir des chevaux passant l’hiver dehors et pourvoyant à leur nourriture. </p>
+        <p> Il suffit d’aller en Hongrie, quand la neige a couvert ses immenses plaines où trouvent à pâturer des milliers de chevaux à demi-sauvages. </p>
+        <p> Mais nous voyageons si peu que tout nous étonne. </p>
+        <p> Ces Pieds-Fourchus sont depuis bien longtemps les porteurs d’entre Caribou et l’Athabaska, père du fleuve Mackensie. </p>
+        <p> Ce sont de très braves gens, très attachés à la Compagnie de pelleteries qui les paie bien. </p>
+        <p> L’hiver ils pêchent, ils chassent, ils trappent. </p>
+        <p> Jamais ni le poisson, ni le gibier ne leur manquent. </p>
+        <p> Ils trouvent de belles martes-zibelines dans les montagnes et tirent bon profit des peaux. </p>
+        <p> Mais ce qui les fait riches, c’est le portage d’été. </p>
+        <p> La Compagnie le leur paie en poudre, balles, objets de quincaillerie, étoffes, armes, outils, etc. </p>
+        <p> Ainsi, ils ont outre le tomahawk (hache de guerre traditionnelle), des cognées de bûcherons, des scies, des limes, des marteaux, des clous, des râpes, des limes, des vrilles, des tarières, des pelles, des bêches, des pioches, des râteaux, etc. </p>
+        <p> Ils font de l’agriculture, du moins leurs femmes en font. </p>
+        <p> Ils sont un objet d’envie pour les autres tribus. </p>
+        <p> Nombreux et prospères, ils ne craignent pas la guerre. </p>
+        <p> Les autres Indiens évitent toutes querelles avec les Pieds-Fourchus. On leur conta ce qui était arrivé aux Caramans. </p>
+        <p> Ils blâmèrent ceux-ci. </p>
+        <p> Qu’auraient-ils gagné ces Caramans en prenant le fort Nelson? </p>
+        <p> Un pillage. </p>
+        <p> Et après? </p>
+        <p> Plus rien. </p>
+        <p> Où acheter de la poudre? </p>
+        <p> Partout les autres forts leur en auraient refusé. </p>
+        <p> On le voit, ces Pieds-Fourchus voyaient plus loin que les Caramans. </p>
+        <p> On fit marché avec eux. </p>
+        <p> Il leur fallait faire trois voyages de va-et-vient. </p>
+        <p> De plus, d’autres voyages en pirogue depuis la source de Mackensie jusqu’à l’entrée de celui-ci dans le lac Athabaska, qui est le point terminus de la navigation des vapeurs du grand fleuve. </p>
+        <p> La Feuille et ses compagnons partirent avec le premier navire. </p>
+        <p> Cinq jours après, ils campaient près du lac Athabaska. </p>
+      </div>
+      <div title="CHAPITRE XI Les chevaux sauvages." type="chapter">
+        <head> CHAPITRE XI </head>
+        <lb/>
+        <p> – Monsieur La Feuille! </p>
+        <p> – Maître La Renardière? </p>
+        <p> – Nous voici arrivés sur l’Athabaska et d’ici à l’embouchure du Mackensie, où nous trouverons M. d’Ussonville, nous n’aurons plus à descendre du bateau. </p>
+        <p> – Vous en concluez? </p>
+        <p> – Que c’est le moment de chasser le cheval sauvage. </p>
+        <p> Il faut monter notre équipage; le vapeur ne sera ici que dans huit ou dix jours; nous avons le temps. </p>
+        <p> – Chassons donc le cheval sauvage, maître La Renardière. </p>
+        <p> – Nous. </p>
+        <p> » Pas vous. </p>
+        <p> – Pourquoi donc? </p>
+        <p> – Il faut forcer les chevaux à pied et faire jusqu’à seize lieues. </p>
+        <p> – Je suis bon pour vingt. </p>
+        <p> – Vous, monsieur La Feuille? </p>
+        <p> – Moi. </p>
+        <p> – Vous ne savez donc pas, monsieur La Feuille, qu’un piqueur qui fait le bois pour trouver un loup et le rembucher doit couvrir de quinze à vingt lieues de terrain? </p>
+        <p> – J’ignorais cela. </p>
+        <p> – Ah! voilà, vous autres trappeurs, vous vous imaginez que nous autres piqueurs, nous ne peinons pas. </p>
+        <p> » Erreur. </p>
+        <p> » Nous faisons un dur métier. </p>
+        <p> – Je commence à le croire. </p>
+        <p> – Quand commençons-nous? </p>
+        <p> – Demain. </p>
+        <p> » Vous viendrez avec moi tous les trois, uniquement pour voir. </p>
+        <p> » Ne sachant pas jeter le lasso, vous ne pouvez prendre le cheval. </p>
+        <p> – Soit! </p>
+        <p> » Nous nous contenterons de voir. </p>
+        <p> Le lendemain, tous partaient, les jeunes Bois-Brûlés comme les autres et armés du lasso. </p>
+        <p> Une corde devant servir de bridon, autour des reins. </p>
+        <p> L’on emportait de l’eau, du rhum et des galettes de maïs avec de la venaison, chacun ayant sa musette. </p>
+        <p> On chercha un troupeau et on le trouva facilement. À la vue des chasseurs, il se mit à détaler. </p>
+        <p> – Ah! fit La Renardière. </p>
+        <p> » Des tourné-à-droite! </p>
+        <p> » C’est rare. </p>
+        <p> – Expliquez-nous ça. </p>
+        <p> – Monsieur La Feuille, presque tous les animaux sauvages fuyant détournent à gauche pour décrire leurs cercles et, quand ils ont commencé d’un côté, ils n’en changent plus. </p>
+        <p> » Or, ceux-ci sont droitiers. </p>
+        <p> – J’ai déjà remarqué qu’un cerf qui a tourné une fois d’un côté, persiste à y tourner, à moins d’un incident de chasse qui le force à changer de manière. </p>
+        <p> – Mais l’homme lui-même, monsieur La Feuille, quand il s’est égaré dans la nuit, tourne sans s’en douter et presque toujours à gauche. </p>
+        <p> » Aussi nous en défions-nous. </p>
+        <p> On marcha. </p>
+        <p> On revit le troupeau. </p>
+        <p> Il était aux écoutes et déjà un peu dispersé. Il s’enfuit par sa droite. </p>
+        <p> Les chasseurs coupèrent le cercle et le malheureux troupeau, très dispersé cette fois, repartit au galop. </p>
+        <p> Alors chacun choisit un animal et s’acharna sur lui. </p>
+        <p> Le cheval, toujours décrivant ses cercles, prend le galop à la vue du chasseur et celui-ci, par sa façon de couper le cercle gagne deux tiers et plus sur le cheval, car il suffit que celui-ci aperçoive le chasseur pour détaler. </p>
+        <p> On croirait que celui-ci est sur un manège immense, tient le cheval par une longue corde et le force à galoper en rond. </p>
+        <p> Enfin le cheval est forcé. </p>
+        <p> « À l’hallali », comme dit La Feuille. On était sur le tard. </p>
+        <p> On put suivre l’animal au pas et l’approcher. La Renardière lui lança son lasso et l’arrêta net. </p>
+        <p> La pauvre bête n’en pouvait plus; tout en la maintenant d’une main par le lasso, le trappeur lui passa des nœuds coulants aux pieds de derrière et tira dessus, ce qui força le cheval à s’asseoir, comme on dit d’un chien, sur son cul, posture que le cheval ne prend jamais de lui-même. </p>
+        <p> Le trappeur prit sa gourde arrosa les narines du cheval, le caressa, puis lui souffla longuement dans le nez. </p>
+        <p> Ceci est assez singulier. </p>
+        <p> Il y a là-dedans du magnétisme, car, à partir de ce moment, le cheval devient l’esclave du maître. </p>
+        <p> On le laisse se reposer pendant une heure, puis on le monte. </p>
+        <p> Il est dompté et docile et obéit aux pressions du pied et au bridon. </p>
+        <p> On retourna au camp. </p>
+        <p> Tous les Bois-Brûlés y rentrèrent avec un cheval. </p>
+        <p> L’avant-veille de l’arrivée du vapeur, on cessa de chasser; l’équipage était complet. </p>
+        <p> Le bateau fut exact. </p>
+        <p> Il vint, au jour fixé. </p>
+        <p> Tout l’équipage de chasse à courre s’embarqua et l’on fit route pour l’embouchure du Mackensie, où l’on devait rejoindre l’expédition d’Ussonville qui était en train de bâtir le premier hôtel polaire. </p>
+        <p> Le lecteur verra que La Feuille et tout son monde y arrivèrent sans encombre. </p>
+        <p> À SUIVRE: « UN MARIAGE POLAIRE » </p>
+      </div>
+      <head/>
+    </body>
+    <back/>
+    <back/>
+  </text>
+</TEI>

@@ -1,0 +1,1853 @@
+<?xml version='1.0' encoding='UTF8'?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> Une française captive chez les Peaux-Rouges. Chez les Sioux </title>
+        <author from="1837" key="" name="Noir, Louis (Salmon, Louis-Étienne)" sex="male" to="1901"/>
+        <edition n=""/>
+        <editor name="Fayard Frères" where="Paris"/>
+      </titleStmt>
+      <publicationStmt>
+        <date type="created" when="1899"/>
+        <date type="issued" when="1899"/>
+      </publicationStmt>
+      <editionStmt>
+        <profileDesc tag="non-canon" type="genre">
+          <textClass>
+            <keywords>
+              <term>roman d'aventures</term>
+            </keywords>
+          </textClass>
+        </profileDesc>
+      </editionStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docAuthor/>
+        <docTitle>
+          <titlePart main="Une française captive chez les Peaux-Rouges. Chez les Sioux"/>
+          <titlePart sub=""/>
+        </docTitle>
+      </titlePage>
+    </front>
+    <body>
+      <lb/>
+      <div type="dedication">
+        <salute>
+          <p> Je dédie ce livre à mon ami Yan d’Argent, très content d’être devenu son voisin. </p>
+          <p> Son tout dévoué, </p>
+          <p> Louis NOIR. </p>
+        </salute>
+      </div>
+      <div type="preface">
+        <head> PRÉFACE </head>
+        <lb/>
+        <p> Pour voir des Peaux-Rouges, il faut se hâter, j’entends de vrais Peaux-Rouges, de ceux de l’Amérique du Nord que Fenimoore Cooper a immortalisés. </p>
+        <p> Peaux-Rouges vivant de chasse et non des aumônes du gouvernement. </p>
+        <p> Peaux-Rouges en liberté. </p>
+        <p> Ils vont se réduisant sans cesse en nombre et en force. </p>
+        <p> C’est une race qui s’en va. </p>
+        <p> Il n’y en a pour ainsi dire plus aux États-Unis, presque plus au Canada. </p>
+        <p> Si ceux du dernier pays durent encore, ils le doivent à la rigueur du climat dans le Haut-Canada, où les froids descendent à trente et quarante degrés. </p>
+        <p> L’Indien, au milieu des forêts, avec bon feu à son foyer, brave dans son wigwam cette rigoureuse température; dehors, couvert de peaux, avec un manteau en peau ressemblant à une chape, il est en état de résister aux temps les plus durs. </p>
+        <p> Ses mocassins de peau cuir en dehors, poil en dedans, protègent ses pieds et ses jambes. </p>
+        <p> Nul n’a chaussure plus douce, plus souple, plus impénétrable à la pluie et à la gelée. </p>
+        <p> Le manteau emprisonne beaucoup d’air, et l’air, mauvais conducteur de la chaleur ou du froid, forme un matelas protecteur. </p>
+        <p> Sans les mocassins, sans le manteau-chape, l’Indien ne saurait passer des hivers de sept mois par des gelées effrayantes. </p>
+        <p> Mais il les supporte assez facilement et voilà pourquoi une partie de ce peuple réfugié dans le Haut-Canada solitaire se survit à lui-même. </p>
+        <p> Mais si le Canada finit par se peupler, le dernier Peau-Rouge disparaîtra. </p>
+        <p> C’est fatal. </p>
+        <p> Toutes les fois que les Anglo-Saxons touchent un peuple sauvage, le contact, pour celui-ci, est mortel. </p>
+        <p> Jamais d’exception. </p>
+        <p> Les Anglais ont fait une loi divine, je l’ai déjà dit, de cette disparition des races inférieures. </p>
+        <p> « Le sauvage ne peut, disent-ils, vivre à côté du civilisé. » </p>
+        <p> C’est un aphorisme pour les Anglais. </p>
+        <p> Mensonge évident! </p>
+        <p> Infâme mensonge! </p>
+        <p> Au Mexique, non seulement les Indiens survivent, se sont transformés, civilisés, mais ils sont d’honorables citoyens jouissant de tous les droits civils et politiques des blancs. </p>
+        <p> Une nouvelle race s’est même formée, mêlant les sangs, race des métis. </p>
+        <p> Dans toutes les républiques de l’Amérique du Sud il en est de même. </p>
+        <p> Voilà le démenti éclatant que donne la race latine aux Anglo-Saxons. </p>
+        <p> Ils n’en continuent pas moins à soutenir que l’anéantissement des Peaux-Rouges est une loi providentielle . </p>
+        <p> La Providence qui tue les Indiens, c’est la race anglo-saxonne. </p>
+        <p> Dès qu’une tribu est signalée comme ne mourant pas assez vite de l’eau-de-feu, on lui envoie des marchandises infectées du virus de la petite vérole; puis, pour aller plus vite, on lui cherche noise, elle se révolte, on l’extermine. </p>
+        <p> Cattelin a raconté cette sinistre histoire des tribus que les États-Unis ont fait disparaître par ces moyens ignobles. </p>
+        <p> Dès que le flot montant de l’émigration approche d’une réserve d’indiens, territoire assigné par le gouvernement à une tribu, si cette tribu ne fuit pas dans les solitudes glacées du Nord, elle est perdue. </p>
+        <p> Parmi celles qui survivent parce qu’elles ont fui le contact des Anglo-Saxons, la plus belle, la plus nombreuse est celle des Sioux. </p>
+        <p> Elle compte encore environ vingt mille âmes divisés en clans plus ou moins nombreux, une quarantaine, d’environ cinq cents hommes chacun, un peu plus, un peu moins. </p>
+        <p> Le nom indien des Sioux est en réalité Dakotas. </p>
+        <p> Chaque bande nomme son chef et celui-ci fait partie du Grand Conseil. </p>
+        <p> C’est le Sénat indien. </p>
+        <p> C’est le système représentatif. </p>
+        <p> Cette tribu, comme le dit Cattelin, est l’une des plus belles, des plus puissantes de l’Amérique du Nord. </p>
+        <p> Elle compte six ou sept mille cavaliers bien montés. </p>
+        <p> Elle est campée sous des tentes et elle est sans cesse en déplacement. </p>
+        <p> Nous allons voyager dans ce volume avec les Sioux. </p>
+        <p> Nous dirons leurs mœurs curieuses. </p>
+        <p> Le lecteur, en nous suivant, verra cette vie bien pittoresque en migration. </p>
+        <p> Elle erre sans cesse. </p>
+        <p> Elle ressemble beaucoup aux tribus arabes du Saraha. </p>
+        <p> Mais elle n’est point pastorale. </p>
+        <p> Elle vit uniquement de chasse. </p>
+        <p> Il nous a paru intéressant, après que Fenimoore Cooper a écrit le Dernier des Mohicans , de décrire les derniers Sioux. </p>
+        <p> Ce peuple, pourtant, mériterait de survivre; mais aura-t-il cette bonne fortune? </p>
+        <p> Hélas non, si c’est la Providence anglo-saxonne qui règle ses destinées. </p>
+      </div>
+      <div title="CHAPITRE PREMIER UN CAMP DE SIOUX" type="chapter">
+        <head> CHAPITRE PREMIER </head>
+        <lb/>
+        <p> Une centaine de tentes s’élevaient au milieu d’une plaine canadienne immense où les forêts alternaient avec les prairies. </p>
+        <p> Ces tentes, très vastes, étaient soutenues chacune par quinze ou vingt montants disposés à ce que l’eau de pluie s’écoulât. </p>
+        <p> Ces tentes sont faites de peaux de bisons cousues ensemble avec les tendons de l’animal; ces peaux forment chacune un tableau délimité par un cadre de broderies. </p>
+        <p> Les femmes obtiennent celles-ci en teignant des tendons dans les sucs de certaines plantes et l’effet est très agréable à l’œil. </p>
+        <p> Les artistes ont des fantaisies charmantes et ces broderies dessinent des arabesques souvent très originales. </p>
+        <p> Dans ces cadres, les femmes ont dessiné d’abord et peint ensuite des scènes de guerre et de chasse avec la grâce naïve, la justesse et la puissance d’expression des primitifs. </p>
+        <p> Ce n’est pas correct au point de vue École des Beaux-Arts, mais combien c’est vrai et comme c’est toujours nature. </p>
+        <p> Des armes, des outils, des ustensiles sont rangés en ordre sous la tente. </p>
+        <p> Des vêtements sont pendus. </p>
+        <p> Les sacs de cuir sont accrochés aux montants; ils contiendront tout ce qui doit être transporté à l’abri de la pluie. </p>
+        <p> On pénètre par une porte basse. </p>
+        <p> En hiver, un feu ardent brûle au milieu de la tente. </p>
+        <p> Comme celle-ci a vingt-cinq pieds de haut, la fumée monte et elle s’échappe par des ouvertures percées aux quatre vents. </p>
+        <p> À terre sont étalées d’épaisses fourrures garnies de leur poil. </p>
+        <p> Lits confortables. </p>
+        <p> Aucune maison n’est plus chaude que ces tentes en hiver. </p>
+        <p> Mais ce n’est pas cette considération qui a fait adopter la tente aux Sioux et à la plus grande partie des Peaux-Rouges. </p>
+        <p> La cause de leur prédilection est la nécessité de s’abriter pendant leurs migrations périodiques du printemps et de l’automne. </p>
+        <p> Au printemps, bisons, rennes, bœufs musqués, daims, montent au nord. </p>
+        <p> Tous ces animaux, le renne surtout, s’accommodent mal des grandes chaleurs. </p>
+        <p> Dès que le thermomètre marque deux degrés au-dessus de zéro, le renne souffre et, s’il est apprivoisé, ne veut plus tirer. </p>
+        <p> Donc question de température. </p>
+        <p> Mais aussi question de nourriture. </p>
+        <p> Tous ces animaux sont très friands des mousses tendres, des lichens délicats, des cochléarias, des herbes fines qu’ils trouvent sous la neige en la grattant du pied. </p>
+        <p> Quand l’été a séché les pâturages, ils sont beaucoup moins attrayants pour les hardes qui se déploient lentement vers le nord précédant toujours un peu la fonte des neiges. </p>
+        <p> Il faut bien que les Sioux suivent le mouvement de leurs grands gibiers. </p>
+        <p> De là leurs migrations. </p>
+        <p> L’Arabe saharien nomadise pour trouver de l’herbe à ses troupeaux. </p>
+        <p> Le Sioux nomadise pour trouver de la viande qui lui est indispensable. </p>
+        <p> À l’approche de l’hiver, migration au retour du gibier et des chasseurs. </p>
+        <p> Mais c’est l’époque des grands massacres, car il faut faire la provision de réserve pour l’hiver, réserve de viande séchée. </p>
+        <p> Chaque famille en met de côté plus de mille kilos! </p>
+        <p> Notez que l’on n’y touche qu’en cas de disette de viande fraîche. </p>
+        <p> Par certains temps, dans certaines circonstances, le gibier s’éloigne du camp. </p>
+        <p> D’autres fois, une tourmente empêche le Sioux de chasser. </p>
+        <p> Alors on a recours à la viande sèche. </p>
+        <p> Les racines, les baies de conserve, les mousses, les lichens, une foule de légumes sauvages, varient l’ordinaire du Sioux. </p>
+        <p> Leurs tribus ignorent le scorbut. </p>
+        <p> Il ne faudrait pas oublier, parmi les ressources du Sioux, la grande et la petite pêche. </p>
+        <p> Un campement d’été présente une très vive animation. </p>
+        <p> Hors des wigwams, les femmes préparent les mets, sèchent les viandes, fabriquent des vêtements avec des peaux travaillées. </p>
+        <p> Ces peaux de bisons ou de daims sont d’une solidité et d’une souplesse, d’une douceur au toucher et d’une légèreté extraordinaires. </p>
+        <p> Aussi valent-elles cher. </p>
+        <p> Voici le secret de leur préparation. </p>
+        <p> On les tend d’abord pendant plusieurs jours sur un châssis que l’on expose au soleil et aux froids de la nuit. </p>
+        <p> La rosée ou la gelée, suivies de l’assèchement du jour et des rudes morsures de la chaleur solaire, produisent leur effet. </p>
+        <p> La peau se raidit. </p>
+        <p> Quand elle est à point, on l’enduit de cervelle d’élan, de buffle ou de daim, du côté charnu, on la pétrit à la main, au pied, puis on la gratte avec un os taillé en doloire.  (2) </p>
+        <p> Elle s’amollit et devient très nette. </p>
+        <p> Alors on creuse un trou de trois ou quatre pieds de profondeur en terre. </p>
+        <p> On l’emplit de poussière de bois aromatique pourri, poussière séchée. </p>
+        <p> On tend la peau par dessus le trou, après avoir allumé la poussière. </p>
+        <p> On couvre le tout d’une tente de peau ad hoc qui ferme hermétiquement. </p>
+        <p> Une fumée âcre, mais odorante, remplit la tente et la peau la pompe pendant six ou huit jours et plus. </p>
+        <p> « Il faut, disent les Indiens, que toute la fumée soit bue. » </p>
+        <p> Quand on enlève la tête, la préparation est terminée et nulle autre n’égale celle-là. </p>
+        <p> Aussi ces peaux sont elles payées très cher aux États-Unis. </p>
+        <p> Les Sioux l’ignorent. </p>
+        <p> Ils les échangent pour des choses de valeur dérisoire. </p>
+        <p> Et cependant les culottes en peau de daim du général Grant lui ont coûté cent dollars… </p>
+        <p> La peau avait été tannée par les Sioux. </p>
+        <p> Tout le travail de ménage revient aux femmes et il est rude. </p>
+        <p> Aussi les Anglo-Saxons affectent-ils une grande indignation contre le Sioux qui fume sa pipe ou aiguise ses armes « pendant que sa femme peine terriblement. » </p>
+        <p> Mais est-ce que nos paysannes ne vont pas comme l’indienne au bois et n’en rapportent pas de lourds fagots. </p>
+        <p> Est-ce que les corvées du lavoir en hiver ne sont pas dures? </p>
+        <p> Est-ce que la couture, la cuisine, les soins aux enfants ne sont pas imposés à nos paysannes comme à l’Indienne, comme à la femme arabe (j’entends la bédouine)? </p>
+        <p> Tout ce qui a été dit au sujet de la misère des Indiennes est du sentimentalisme hypocrite particulier aux Anglais. </p>
+        <p> Ces bêtes féroces ont l’air de s’attendrir sur l’Indienne pour rendre odieux leur gibier, le malheureux Indien. </p>
+        <p> Et le travail de celui-ci est passé sous silence, quoique l’on sache très bien qu’il est très dur et très dangereux. </p>
+        <p> C’est la chasse. </p>
+        <p> La chasse à cheval. </p>
+        <p> Trente heures de selle n’effraient pas le cavalier Sioux. </p>
+        <p> Et, sans cesse, il faut chasser par tous les temps, puisque le fond de la nourriture est la viande et que la consommation en est énorme. </p>
+        <p> Au foyer, le chasseur a ses travaux, des armes à fabriquer, à réparer, et une foule d’ouvrages de patience. </p>
+        <p> Rien de plus absurde que de l’accuser de fainéantise. </p>
+        <p> En pays bédouin, comme en pays indien (je ne parle pas des musulmans des villes), les charges sont aussi bien réparties entre maris et femmes que dans nos villages. </p>
+        <p> Avec cette différence que l’Indien ne bat jamais sa femme. </p>
+        <p> S’il en est mécontent à bon droit, il expose ses griefs devant tout le village, où chacun est apparenté. </p>
+        <p> On approuve sa résolution et la femme rentre dans sa famille. </p>
+        <p> C’est le divorce prononcé par le peuple assemblé, juge infaillible. </p>
+        <p> Voilà l’esquisse rapide d’un village de Sioux. </p>
+        <p> Or, un voyageur blanc venait d’entrer dans le campement d’un chef nommé Taclan-Bi-Tanararon. </p>
+        <p> Cela veut dire Tonnerre Grondant . Le chef est prévenu. </p>
+        <p> Selon les règles de la politesse indienne, il attend le visiteur dans son wigwam. </p>
+        <p> Celui-ci traverse le village sans qu’on paraisse prendre garde à lui. </p>
+        <p> C’est un gentleman, ce que nos paysans appellent un monsieur. </p>
+        <p> Mais ce n’est pas un homme distingué. Tant s’en faut. </p>
+        <p> Son vice, l’ivrognerie, l’a marqué de ses tares, et le visage est dégradé. </p>
+        <p> Cet homme, nos lecteurs habituels le connaissent, c’est Nilson! </p>
+        <p> C’est l’ancien directeur de la factorerie des bords du Mackensie que M. d’Ussonville a cassé et chassé honteusement, comme il en a cassé et chassé plusieurs autres. </p>
+        <p> Et Nilson s’est vengé. </p>
+        <p> À la tête de ses confrères et amis, il a enlevé dans l’île de Banks la nièce de M. d’Ussonville et l’ordonnance de celle ci, Nadali, une ex-amazone de Béhanzin. </p>
+        <p> Et Nilson vient, à ce sujet, négocier avec Tonnerre-Grondant. </p>
+        <p> Il traversa donc le campement sans mot dire, au milieu de l’inattention apparente générale et il arriva devant le wigwam (tente) du sachem. </p>
+        <p> Une demi-douzaine de chiens hargneux se mirent à hurler. </p>
+        <p> Derrière eux, petits garçons et fillettes se tenaient à l’écart avec des airs effarouchés. </p>
+        <p> Le visiteur savait qu’à moins d’excitation de la part du maître, les chiens ne le mordraient pas et il ne s’en occupa point. </p>
+        <p> Il se dirigea vers le centre où brûlait le foyer, car la journée était froide et brumeuse; les habitants étaient ou assis ou couchés, les pieds au feu. </p>
+        <p> Personne ne se dérangea sauf une jeune fille qui déroula, en silence, une natte de jonc. Personne ne regarda le visage du blanc; ç’eût été impoli. </p>
+        <p> Tous les regards étaient fixés sur ses pieds; puis après une contemplation muette des mocassins du visiteur, le sachem dit: </p>
+        <p> – Assieds-toi! </p>
+        <p> Point d’escabeau. </p>
+        <p> Grosse, très grosse difficulté pour un blanc que de s’accroupir à l’indienne. </p>
+        <p> Eux, les Peaux-Rouges, accoutumés à cet exercice, le font sans fatigue, sans efforts, avec beaucoup de souplesse et de grâce. </p>
+        <p> Ils croisent leurs pieds d’abord, portent les mains et la tête en avant et se laissent aller doucement jusqu’à ce que le séant touche en partie le sol, en partie les talons. </p>
+        <p> Ils se relèvent aisément, aussi lentement, sans s’aider de la main pour se donner l’élan. </p>
+        <p> Il y a tant de points de ressemblance entre les Arabes et les Sioux que l’on en est continuellement frappé. </p>
+        <p> Ainsi les Arabes s’accroupissent exactement comme les Peaux-Rouges. </p>
+        <p> Nilson était fait à cette acrobatie et il l’exécuta brillamment. </p>
+        <p> Alors le sachem alluma un calumet, puis il le fit présenter au visiteur. </p>
+        <p> Toujours sans mot dire. </p>
+        <p> C’est à ce moment que l’hôte doit jeter un regard circulaire sur l’ameublement, et, s’il est bien élevé, faire des petites réflexions élogieuses. </p>
+        <p> Le sachem avait une jeune fille déjà bonne à marier et Julie, sa femme, fort belle encore, berçait un enfant dans un berceau d’osier qui était suspendu entre deux montants. </p>
+        <p> Très élégant, ce petit berceau, et sa carcasse d’osier était revêtue d’une peau de porc-épic dont les piquants étaient teints de couleurs diverses. </p>
+        <p> L’utilité de cette peau est d’empêcher les chiens de se dresser, près du berceau, sur leurs pattes de derrière et d’appuyer celles de devant sur le berceau pour lécher l’enfant, ce qui le ferait tomber à terre. </p>
+        <p> Pour porter son enfant derrière son dos la mère dégrafe la peau de porc-épic qui la piquerait. </p>
+        <p> Nilson passa la revue des armes et de l’ameublement. </p>
+        <p> Boucliers renforcés. </p>
+        <p> Il en fut étonné. </p>
+        <p> – Il me semble, dit-il, que voilà des boucliers d’une grande épaisseur. </p>
+        <p> – Och! (oui), dit Tonnerre-Grondant. </p>
+        <p> – Ils sont plus longs que d’habitude et échancrés par le bas. </p>
+        <p> – Pour descendre plus bas que la selle et protéger les jambes jusqu’aux genoux. </p>
+        <p> – Le prolongement en dehors est pour la tête probablement? </p>
+        <p> – Oui. </p>
+        <p> » Il est percé de deux trous pour les yeux, afin de se diriger pendant la charge. </p>
+        <p> » Nous avons aussi augmenté la bosse qu’ils font pour que la balle glisse mieux. </p>
+        <p> – Pourquoi ces changements? </p>
+        <p> – Les fusils des blancs sont devenus trop forts et leurs balles crevaient nos anciens boucliers. </p>
+        <p> » Aujourd’hui nous sommes sûrs de pouvoir arriver sur l’ennemi. </p>
+        <p> » Nous avons des jambières à l’épreuve, et, ce que tu vois là, ce sont des cuirasses pour le poitrail du cheval. </p>
+        <p> – Elles résistent aux balles nouvelles? </p>
+        <p> – Celles-ci glissent, je te l’ai dit. </p>
+        <p> – Et qui vous a donné idée de ce perfectionnement? </p>
+        <p> Le sachem fièrement: </p>
+        <p> – Idée à moi. </p>
+        <p> Nilson réfléchit. </p>
+        <p> Il savait le sachem très intelligent, mais il ne le croyait pas novateur à ce point. </p>
+        <p> Les boucliers sioux sont faits d’une carcasse de bois sur laquelle est étendue une peau de buffle d’abord. </p>
+        <p> Puis on fait fondre des sabots de buffle mélangés avec diverses substances durcissantes et on étend par couche, à l’état tiède, cette gélatine à l’état de pâte tiède. </p>
+        <p> Couche sur couche. </p>
+        <p> On couvre le tout d’une seconde peau. </p>
+        <p> La composition devient dure et sonore comme du fer. </p>
+        <p> L’ancien bouclier était impénétrable à l’ancienne balle. </p>
+        <p> Nilson put se convaincre que le nouveau résistait aux projectiles de son Remington. </p>
+        <p> Il en fut très surpris. </p>
+        <p> Il vit des selles. </p>
+        <p> – Mais, dit-il, c’est encore un nouveau modèle, comme le bouclier. </p>
+        <p> – Oui, dit le sachem. </p>
+        <p> » Le bec du devant se relève haut et large, protégeant le ventre. </p>
+        <p> » Le dos aussi est couvert. </p>
+        <p> – Sachem, c’est très bien. </p>
+        <p> » Tu mérites de commander, mais tes carquois sont bien petits. </p>
+        <p> – Petites aussi mes flèches. </p>
+        <p> – Pourquoi? </p>
+        <p> Le sachem sourit. </p>
+        <p> – Empoisonnées! dit-il. </p>
+        <p> Un trappeur brésilien nous a appris le secret du poison. </p>
+        <p> – Les fers de lances sont coiffés? </p>
+        <p> – Comme les fers de flèches. </p>
+        <p> » Ils sont empoisonnés aussi et nous les coiffons d’un bonnet de bois. </p>
+        <p> » On le retire pour s’en servir. </p>
+        <p> – Alors vos harpons sont empoisonnés aussi, à leur voir un capuchon? </p>
+        <p> – Oui. </p>
+        <p> – Mais vous ne vous en servez pas contre le gibier, je suppose. </p>
+        <p> – Si! </p>
+        <p> » Le poison foudroie, mais la bête reste bonne à manger. </p>
+        <p> – Vraiment? </p>
+        <p> – Oui. </p>
+        <p> » On se contente d’enlever ce qui devient noir autour de la blessure. </p>
+        <p> – Tu as de belles gibecières. </p>
+        <p> – Ma femme sait broder et peindre. </p>
+        <p> » Vois ma tunique. </p>
+        <p> Il portait, en effet, une belle tunique en peau de buffle sur laquelle sa femme avait brodé des cadres d’un joli dessin. </p>
+        <p> Dans les cadres, des peintures représentant les combats de son mari. </p>
+        <p> Les mocassins en peau de daim du sachem étaient ornés de piquants de porc-épic teints; ils étaient brodés et, au dessus du genou, pendaient des scalps, dix à gauche, vingt à droite. C’étaient les chevelures d’autant d’ennemis tués par le chef. </p>
+        <p> Le sachem était coiffé d’une peau d’hermine très précieuse qui, par derrière, formait queue jusqu’à terre. </p>
+        <p> Au sommet de la coiffure, une touffe de plumes d’aigle. </p>
+        <p> D’autres, en couronne. </p>
+        <p> Sur le front, le chef porte une paire de cornes; c’est le signe du commandement. </p>
+        <p> Or, cette paire de cornes était aussi un insigne de chefs chez les juifs. </p>
+        <p> On s’accorde à dire que les Peaux-Rouges ont le type sémite. </p>
+        <p> Ce seraient des tribus sémites indoues qui, traversant le détroit de Behring, auraient peuplé l’Amérique en refoulant des tribus autochtones plus sauvages. </p>
+        <p> Tout plaide en faveur de cette hypothèse, le type et les habitudes. </p>
+        <p> Je l’ai dit, Bédouins sémites et Peaux-Rouges se ressemblent. </p>
+        <p> Il est à remarquer surtout que le teint est le même. </p>
+        <p> Couleur café au lait. </p>
+        <p> C’est le même teint que les Abysinniens, que les Ouhamas et que les tribus Cafres de l’Est Africain. </p>
+        <p> Mais, alors, pourquoi Peaux-Rouges? </p>
+        <p> Parce que les Indiens se teignent, comme les Cafres, avec de l’ocre rouge délayé dans de la graisse. </p>
+        <p> Nilson complimenta le sachem sur la beauté et la variété de ses masques en peau de bison, sur la solidité de ses sacs de déménagement et sur le fort travail de ces gibecières. </p>
+        <p> Puis il admira tout haut les tuniques en peau d’agneau de la mère et de la fille brodées de dessins représentant des lianes encadrant des bouquets de fleurs peintes. </p>
+        <p> Ayant rempli ces devoirs de politesse, Nilson entama la négociation pour laquelle il était venu. </p>
+        <p> – Sachem, dit-il, tu as beaucoup de chevaux, tous très beaux? </p>
+        <p> – Mes jeunes gens, dit Tonnerre-Grondant, savent prendre les chevaux sauvages. </p>
+        <p> » Ils ne lancent le lazzo que sur les plus beaux mustangs. </p>
+        <p> » Nous dédaignons les autres. </p>
+        <p> Nilson passa en revue les richesses du Sioux, puis il lui dit: </p>
+        <p> – Il te manque quelque chose. </p>
+        <p> – Quoi? </p>
+        <p> – Des fusils comme celui-ci. </p>
+        <p> Il montra son Remington. </p>
+        <p> Le sachem poussa un soupir. </p>
+        <p> Nilson demanda: </p>
+        <p> – Combien as-tu de guerriers? </p>
+        <p> – Cent quatre-vingt-trois. </p>
+        <p> – Je te propose un marché. </p>
+        <p> – J’écoute. </p>
+        <p> – Je te donnerai deux cents fusils Remington en bon état. </p>
+        <p> » Ils seront approvisionnés à cinq cents cartouches chacun. </p>
+        <p> » Tu auras un gage en main. </p>
+        <p> » Tu ne livreras le gage que quand je t’aurai livré les fusils. </p>
+        <p> Le sachem réprimant une très vive émotion demanda: </p>
+        <p> – Mais que me faudra-t-il faire? </p>
+        <p> – Presque rien. </p>
+        <p> – Alors je me défie. </p>
+        <p> – Pourquoi? </p>
+        <p> – Tu n’es pas homme à donner beaucoup pour presque rien. </p>
+        <p> Nilson se mit à sourire. </p>
+        <p> – Ta réflexion, dit-il, est d’un esprit judicieux; mais si le service que je te demande n’est rien pour toi, il est beaucoup pour moi. </p>
+        <p> – Que veux-tu? </p>
+        <p> – Je veux t’amener une jeune fille que j’ai enlevée. </p>
+        <p> Le sachem ne protesta pas. </p>
+        <p> L’enlèvement d’une fille par un garçon qui veut en faire sa femme ne choque pas beaucoup les Indiens et le sachem crut que c’était le cas. </p>
+        <p> Il se contenta de demander: </p>
+        <p> – Et après? </p>
+        <p> – Tu donneras à cette fille une tente et des femmes qui la garderont. </p>
+        <p> » Elles l’accompagneront partout. </p>
+        <p> » Si tu la laissais échapper, tu serais à l’amende de vingt peaux de zibeline. </p>
+        <p> » Si tu la fais bien garder, tu me la rendras contre les deux cents Remingtons. </p>
+        <p> – Pourquoi la caches-tu chez moi? </p>
+        <p> » Pourquoi ne l’épouses-tu pas tout de suite? </p>
+        <p> » Ce serait fixé. </p>
+        <p> » Les parents ne te la réclameraient plus. </p>
+        <p> – Mon but n’est pas de l’épouser, mais d’obtenir de sa famille quelque chose qu’elle me refuse, et si tu sais brider les langues des tes femmes, de tes jeunes gens, personne ne saura qu’elle est ici. </p>
+        <p> Le sachem réfléchit longuement. </p>
+        <p> En tous sens, il tourna, retourna la question, puis il dit gravement: </p>
+        <p> – Je vais assembler le conseil. </p>
+        <p> Il appela le crieur public. </p>
+        <p> Celui-ci reçut un ordre, sortit, siffla dans un tibia de daim, puis il appela les guerriers à tenir le conseil. </p>
+        <p> Les guerriers sont ceux qui ont tué plusieurs ennemis ou beaucoup de jaguars. </p>
+        <p> Des braves se mettent volontairement sous leurs ordres. </p>
+        <p> Chacun suit ses sympathies. </p>
+        <p> De droit, les guerriers s’assoient au conseil, ainsi que le médecin ou sorcier. </p>
+        <p> Le mot médecine a une très large signification chez les Indiens. </p>
+        <p> La médecine comprend la religion, les sortilèges, et les remèdes magiques. </p>
+        <p> Car pour les remèdes réels qu’ils emploient, tous les Indiens les connaissent. </p>
+        <p> Le quinquina est une de leurs découvertes et non des moins précieuses. </p>
+        <p> La coca qui rend maintenant de si grands services dans la thérapeutique était connue d’eux depuis longtemps. </p>
+        <p> J’en passe et des meilleurs. </p>
+        <p> Mais cependant je dois dire que l’on vient de découvrir, dans la tête même des vipères, le remède à la piqûre de la vipère. </p>
+        <p> Or, le sauvage, après avoir au-dessus de la piqûre ligaturé le membre atteint, après avoir sucé la plaie, le sauvage écrasait la tête du serpent et l’appliquait avec une compresse sur la blessure. </p>
+        <p> On se moquait de lui. </p>
+        <p> On n’en rit plus aujourd’hui. </p>
+        <p> Mais je le répète, ce qu’il demande au sorcier, c’est une médecine morale. </p>
+        <p> Le sorcier revêt une peau d’ours, prend un caducée enveloppé d’une peau de serpent et piqué dans des corps de rats, de crapauds, de corbeaux et autres animaux, notamment de hiboux. </p>
+        <p> À sa fourrure d’ours, au masques, aux coudes, aux genoux, pendent des sonnettes, des grelots et d’autres objets faisant du bruit, des castagnettes, par exemple, et petits cailloux enfermés dans des étuis. </p>
+        <p> Et il s’en va faire autour du malade des danses, des exorcismes, des conjurations, des passes, des massages et autres pratiques. </p>
+        <p> N’est pas sorcier qui veut. </p>
+        <p> Il faut subir des épreuves extraordinaires, cruelles et bizarres. </p>
+        <p> Une des fonctions du sorcier est de produire la pluie ou de la faire cesser. </p>
+        <p> Il connaît, à certains signes, l’approche du mauvais ou du beau temps. </p>
+        <p> Il refuse toute conjuration jusqu’à ce que ces signes paraissent. </p>
+        <p> Alors il se livre à ses simagrées et le temps demandé se produit. </p>
+        <p> On acclame le sorcier. </p>
+        <p> Pourquoi un peuple qui n’est pas agriculteur demande-t-il pluie ou beau temps. </p>
+        <p> Question de fourrage. </p>
+        <p> Le sorcier est l’homme le plus heureux du village; il a toujours la panse pleine. </p>
+        <p> À lui les meilleurs morceaux, sans qu’il ait besoin d’aller à la chasse. </p>
+        <p> Son pouvoir contrebalance celui du sachem; il est très influent. </p>
+        <p> Au conseil, on l’écoute avec révérence. </p>
+        <p> Le sorcier ne manqua pas de se rendre à l’assemblée avec les guerriers. </p>
+        <p> Parlement en plein air. </p>
+        <p> On s’assit en cercle. </p>
+        <p> Derrière chaque guerrier, ses braves. </p>
+        <p> Derrière eux, les femmes et les enfants. </p>
+        <p> Derrière encore, les chiens. </p>
+        <p> C’est une scène pittoresque. </p>
+        <p> On alluma le calumet et le chef blanc, comme tous les guerriers, en fumèrent une aspiration. </p>
+        <p> Après quoi, la parole fut donnée à Nilson, qui développa sa proposition. </p>
+        <p> Quand il eut terminé, le sorcier dit en langage amphigourique: </p>
+        <p> – Qui se cache derrière une pierre a de mauvais desseins. </p>
+        <p> » Les blancs ont souvent la langue fourchue comme celle des serpents. </p>
+        <p> » Quand on invite un homme à s’approcher d’un feu qui l’éclairera, s’il s’y refuse, c’est qu’il a une arrière-pensée. </p>
+        <p> » Celui qui souffle une torche portée par un autre, veut les ténèbres. </p>
+        <p> » Qui veut les ténèbres est un très mauvais homme. </p>
+        <p> – Och! dirent les guerriers. </p>
+        <p> Alors brusquement le sorcier demanda à Nilson abasourdi par ce flot de phrases tombant en averse: </p>
+        <p> – Que veux-tu de la famille de la jeune fille que tu prétends nous faire garder? </p>
+        <p> – Ça, dit Nilson, c’est mon affaire. </p>
+        <p> – Une affaire que tu ne veux pas éclaircir. </p>
+        <p> Aux guerriers: </p>
+        <p> – Voyez! </p>
+        <p> » Il ne veut pas que nous sachions. </p>
+        <p> Et il se tut. </p>
+        <p> Il se fit un grand silence. </p>
+        <p> Chacun réfléchissait. </p>
+        <p> Nilson dit enfin: </p>
+        <p> – Deux cents Remingtons sont bons à prendre et ils vous rendraient très forts. </p>
+        <p> » Je vous confierai une jeune fille, vous me la rendrez, peu vous importe le reste. </p>
+        <p> Le sachem demanda à un guerrier: </p>
+        <p> – Qu’en pense le Nez-Forcé? </p>
+        <p> – Je pense que du moment où nous aurons la jeune fille, que nous ne la rendrons que contre les fusils, l’affaire est bonne. </p>
+        <p> Le sachem questionna tous les guerriers et tous furent d’avis d’accepter. </p>
+        <p> Mais il fallait savoir si le sorcier approuverait cette décision. </p>
+        <p> Consulté, il répondit toujours en parabolique et amphigourique langage. </p>
+        <p> – Il vaut mieux tenir un poisson par la tête que par la queue. </p>
+        <p> » Toutefois, si vous ne pouvez prendre que la queue, pincez-la avec l’ongle du pouce. </p>
+        <p> » Peut-être retiendrez-vous le poisson. </p>
+        <p> » Puisque le blanc ne veut pas dire ce qu’il attend de la famille de la jeune prisonnière, faisons comme on fait quand on ne peut mieux faire et acceptons les deux cents fusils. </p>
+        <p> – À la bonne heure, dit Nilson, voilà qui est parlé, ô grand médecin. </p>
+        <p> Et il entra dans tous les détails de la convention qui fut proclamée faite et bien faite par le crieur public. </p>
+        <p> La foule ratifia, en criant à pleins poumons et longtemps: </p>
+        <p> – Och! Och! Och!… </p>
+        <p> – Demain, dit Nilson, quand l’enthousiasme se fut calmé, demain je vous amènerai la jeune fille. </p>
+        <p> – Et nous la garderons! dit le sachem. </p>
+        <p> Il reconduisit son hôte dans son wigwam et il lui fit servir un bon repas de venaison que les femmes avaient préparé. </p>
+        <p> Il l’entoura de soins et d’égards et le reconduisit jusqu’au moment où le visiteur monta sur son cheval qu’il avait laissé à l’entrée du village. </p>
+      </div>
+      <div title="CHAPITRE II RAYON-D’OR LE BOIS-BRULÉ" type="chapter">
+        <head> CHAPITRE II </head>
+        <lb/>
+        <p> Le sachem, en rentrant dans celui-ci, trouva le conseil encore assemblé. </p>
+        <p> Il s’en étonna. Il demanda: </p>
+        <p> – Mes frères délibèrent donc encore? </p>
+        <p> – Nous t’attendons! dit un vieillard. </p>
+        <p> La Loutre a quelque chose à nous dire. </p>
+        <p> La Loutre était le sorcier dont le visage malicieux s’éclairait d’un sourire fin et moqueur. </p>
+        <p> – Mes frères, dit-il, je voulais vous demander si l’un de vous savait ce que Nilson veut exiger de la famille de la jeune fille. </p>
+        <p> Personne ne répondait. </p>
+        <p> Mais, parmi les braves, un adolescent de quatorze ans dit: </p>
+        <p> – Je le sais, moi. </p>
+        <p> Le guerrier que suivait ce très jeune brave, dit d’un ton grondeur: </p>
+        <p> – Tais-toi, Rayon-d’Or. </p>
+        <p> » Tu n’as pas le droit de parler. </p>
+        <p> – Je l’ai… </p>
+        <p> Et le jeune homme s’avança. </p>
+        <p> Il était peint en guerre et en armes. </p>
+        <p> – Je venais d’arriver d’une expédition, dit-il, quand j’ai vu le conseil réuni. J’ai écouté. </p>
+        <p> » J’ai entendu. </p>
+        <p> » J’ai compris. </p>
+        <p> » Je n’ai pas réclamé mon droit devant l’étranger pour ne pas troubler l’assemblée; mais, mon droit, je le réclame. </p>
+        <p> Le sachem dit: </p>
+        <p> – Prouve ton droit. </p>
+        <p> Le jeune homme tira de sa gibecière quatre chevelures sanglantes. </p>
+        <p> On poussa des Ochs d’approbation. </p>
+        <p> Il était superbe, Rayon-d’Or, en montrent ces trophées. </p>
+        <p> Il avait une jolie figure, le teint clair, l’air espiègle et hardi, le regard ferme et questionneur, le sourire aimable. </p>
+        <p> Sa tête avait dans les traits, dans l’expression, quelque chose de français. </p>
+        <p> Tous ceux qui le voyaient en étaient frappés et en demandaient l’explication. </p>
+        <p> D’autant plus qu’une splendide chevelure blonde jetait sur son visage des reflets dorés de teinte claire. </p>
+        <p> Ce jeune homme était un métis, fils d’un Bois-Brûlé et d’une Sioux. </p>
+        <p> Son père s’était épris d’une fille de la tribu et l’avait épousée. </p>
+        <p> Grand honneur pour les Sioux. </p>
+        <p> Les Bois-Brûlés sont des descendants de vieux colons français du Canada qui s’étaient mariés avec des indiennes. </p>
+        <p> Ils brûlaient des parties de forêt pour défricher les terres où ils voulaient s’établir; de là leur nom. </p>
+        <p> Cultivateurs en été, bûcherons pendant l’hiver, ils prospérèrent. </p>
+        <p> Ils sont aujourd’hui nombreux et répandus partout, surtout au Nord-Est. </p>
+        <p> Ce sont eux qui ont fait la dernière révolte contre les Anglais. </p>
+        <p> Ils avaient les Peaux-Rouges comme alliés. Le père de Rayon-d’Or fut le chef des Sioux, pendant toute la durée de la guerre, chef suprême. </p>
+        <p> Craignant la vengeance des Anglais, il était resté au milieu d’eux. </p>
+        <p> Mais il mourut jeune, après avoir eu pourtant le temps d’apprendre à son fils le français, l’anglais, à lire, à écrire, à compter. </p>
+        <p> Il s’était procuré dans les factoreries des livres, des journaux, des revues. </p>
+        <p> Les Français des grandes villes françaises du Canada s’occupent beaucoup de l’instruction à répandre parmi les bûcherons et les fermiers disséminés dans les forêts de l’Est et du Nord. </p>
+        <p> Une bonne œuvre, celle de La Lecture , a été fondée; elle recueille tous les journaux, revues, livres qui ayant été lus, lui sont donnés. </p>
+        <p> Elle en charge les vapeurs et les trains pour que les conducteurs de chemin de ter et les mariniers distribuent ces livres, ces périodiques gratuitement et en déposent dans les forts. </p>
+        <p> Les pères, les mères des Bois-Brûlés ne manquent jamais au devoir d’apprendre à lire et à écrire à leurs enfants. </p>
+        <p> Aux livres, la société de La Lecture joint de vieux cahiers scolaires. </p>
+        <p> Les petits Bois-Brûlés écrivent entre les lignes et copient ces lignes. </p>
+        <p> N’est-ce pas très ingénieux. </p>
+        <p> Ce Rayon-d’Or, fils d’un grand chef, instruit et nourri de lectures qui lui avaient fait une assez étrange éducation, était très aimé par toute la tribu. </p>
+        <p> Il exerçait sur tous les jeunes gens une fascination évidente. </p>
+        <p> Il était leur chef par un consentement unanime et tacite. </p>
+        <p> Jusqu’ici, il avait suivi un vieux cousin, homme de grande expérience qui l’avait formé; il brûlait de s’émanciper. </p>
+        <p> Il voulait à son tour être chef. </p>
+        <p> Et maintenant il en avait le droit et il le prouvait. </p>
+        <p> Montrant les chevelures: </p>
+        <p> – J’avais remarqué, dit-il, les traces de quatre guerriers de la tribu des Corbeaux, ces voleurs qui cherchent à nous enlever nos chevaux; je les ai épiés et je les ai surpris pendant le cours de la nuit dernière. </p>
+        <p> » Je les ai tués tous les quatre. </p>
+        <p> » Voilà les scalps. </p>
+        <p> » Suis-je guerrier? </p>
+        <p> – Tu es guerrier . </p>
+        <p> Et toute la tribu d’approuver. </p>
+        <p> – Och! Och! </p>
+        <p> Le jeune homme s’assit alors auprès de son vieux cousin, fier de son élève. </p>
+        <p> Alors le sachem dit: </p>
+        <p> – Puisque tu sais le secret du blanc, dis-le, Rayon-d’Or. </p>
+        <p> Mais lui qui avait pris quelque chose dans sa gibecière le cacha dans le creux de sa main, puis levant son paquet il dit: </p>
+        <p> – Le secret est là-dedans. </p>
+        <p> » Je ne veux pas enlever à notre grand médecin l’honneur de vous le révéler. </p>
+        <p> Mais, quand il aura parlé, j’ouvrirai ma main et vous verrez que j’avais deviné ce que ce Nilson voulait de la famille de la captive. </p>
+        <p> Le sachem dit au sorcier: </p>
+        <p> – Parle, La Loutre. </p>
+        <p> – Mes frères, dit le rusé personnage, ce qu’exigera Nilson, c’est une rançon. </p>
+        <p> Et Rayon-d’Or ouvrant la main, montra une pièce de monnaie. </p>
+        <p> – Voyez! fit-il. </p>
+        <p> J’ai mis cette pièce d’argent dans ma main pour vous prouver que je savais que ce que demanderait Nilson, ce serait de l’argent. </p>
+        <p> Beaucoup beaucoup d’argent. </p>
+        <p> Voilà pourquoi il veut vous donner les deux cent Remingtons. </p>
+        <p> On applaudit. </p>
+        <p> La séance fut définitivement levée et on entoura Rayon-d’Or. </p>
+        <p> Il dut raconter en détail comment il avait tué les Corbeaux. </p>
+        <p> Sa mère et sa sœur l’écoutaient avec une extrême attention. </p>
+        <p> Elles devaient peindre sur son manteau et sur sa tunique cet exploit. </p>
+        <p> Quand il eut terminé, dix ou douze jeunes gens se déclarèrent ses braves. </p>
+        <p> Ainsi devint guerrier Rayon-d’Or le Bois-Brûlé. </p>
+      </div>
+      <div title="CHAPITRE III LES CAPTIVES" type="chapter">
+        <head> CHAPITRE III </head>
+        <lb/>
+        <p> Ce soir-là, Nilson rejoignit-le camp de la bande des directeurs révoqués et de leurs serviteurs indiens. </p>
+        <p> Tout ce monde ivrogne. </p>
+        <p> Les blancs, gens tarés, déclassés, qui s’étaient exilés dans les forts, parce qu’ils étaient dévoyés et rebutés à cause de leurs vices. </p>
+        <p> On doit bien penser que la vie n’est pas gaie dans les forts-factoreries, comptoirs des compagnies de pelleteries. </p>
+        <p> Des hivers de huit mois! </p>
+        <p> Pour compagnie, des agents grossiers, des trappeurs ignorants, des bûcherons sans culture d’esprit et des Indiens. </p>
+        <p> Une ressource! L’ivrognerie. </p>
+        <p> Ces messieurs s’y adonnent ferme. </p>
+        <p> Il yen a qui se finissent en quatre ou cinq ans. </p>
+        <p> Ces ivrognes meurent de consomption, quelquefois de combustion spontanée. </p>
+        <p> Ils allument leur pipe, l’haleine prend feu et la chair, imbibée d’alcool, se consume intérieurement très vite. </p>
+        <p> – Belle mort d’ivrogne! </p>
+        <p> Flamber comme un punch! </p>
+        <p> Et c’était au milieu de si tristes sires que se trouvaient Mlle de Pelhouër et son ordonnance, une jeune fille, ex-amazone de Béhanzin. </p>
+        <p> Très étrangement jolie, la prisonnière de ces bandits de l’Alaska. </p>
+        <p> (J’entends le Haut-Alaska, près de l’embouchure du Mackensie). </p>
+        <p> Oui, je le répète, jolie et étrange. </p>
+        <p> Un profil hardi, un peu bizarre d’oiseau de-mer, de mouette. </p>
+        <p> Et des yeux superbes, faits pour voir dans l’immensité de la mer et du ciel. </p>
+        <p> Des yeux merveilleux. </p>
+        <p> La Dahoméenne était un de ces types de négresse que nos matelots et nos soldats trouvent sinon beaux, du moins séduisants. </p>
+        <p> Figure somme toute agréable, malgré l’épatement du nez et les grosses lèvres. </p>
+        <p> Beau et franc regard. Dents éblouissantes. </p>
+        <p> Et des formes à faire envie à la Vénus de Milo. </p>
+        <p> Nadalie avait, de plus, un air de bravoure décidée. </p>
+        <p> Or, jusque-là, les bandits avaient témoigné de beaucoup d’égards pour leurs prisonnières; MM. les directeurs révoqués s’étaient souvenus qu’ils étaient gentlemen. </p>
+        <p> Mais, il faut dire que Nilson, le Chat-Renard comme l’appelaient les Indiens, leur avait fait comprendre que, s’ils se montraient polis et réservés avec la jeune fille, son oncle serait d’autant plus coulant sur la rançon. </p>
+        <p> Un des directeurs, Chirpick, ex-étudiant de l’Université de Montréal, intelligent, mais jeté hors de sa voie par la noce à outrance, partageait la manière de voir de Nilson. </p>
+        <p> Malheureusement celui-ci s’était absenté pour négocier avec les Sioux. </p>
+        <p> Or, il y avait parmi les directeurs une vraie brute, espèce d’ours, homme colossal, vieillard très robuste, quoique tout blanc. </p>
+        <p> On l’appelait, du reste, l’Ours-Blanc, tant la ressemblance avec cet animal était frappante au moral et au physique. </p>
+        <p> Et, ce soir là, par malheur, l’Ours s’était enivré fortement. </p>
+        <p> Il avait alors des fantaisies et il était d’une gaieté… d’ours. </p>
+        <p> Il plaisantait lourdement, cyniquement; il se mettait à danser la gigue, pendant que ses Indiens sifflaient un air qu’il leur avait appris. </p>
+        <p> Ce n’était pas qu’il fut très méchant homme; il l’était moins que Nilson. </p>
+        <p> Mais quelle brute! </p>
+        <p> Et voilà que comme il dansait la gigue aux grands rires de ses camarades, il aperçut Mlle de Pelhouër et il lui vint une fantaisie. </p>
+        <p> Il s’approcha d’elle et comme il eut fait pour quelque paysanne, un jour de fête de village au bal campagnard, il lui dit: </p>
+        <p> – Allons, la fille, viens que je te fasse danser la danse des ours. </p>
+        <p> Mlle de Pelhouër pâlit. </p>
+        <p> Nadali s’irrita. </p>
+        <p> Elles s’entreregardèrent et prirent sur le champ leur résolution. </p>
+        <p> Mlle de Pelhouër ramassa une pierre et se jetant sur l’Ours le frappa au front pendant que, par derrière, Nadali l’étranglait de ses mains musculeuses. </p>
+        <p> L’Ours tomba assommé. </p>
+        <p> Mlle de Pelhouër s’acharnait. </p>
+        <p> Chirpick et ses amis intervinrent. </p>
+        <p> – Assez! mademoiselle, dit-il. </p>
+        <p> » Assez, je vous prie. </p>
+        <p> » Vous allez le tuer. </p>
+        <p> Mlle de Pelhouër se releva, car elle tenait le colosse sous son genou. </p>
+        <p> – Oh! fit-elle, lui mort, il ne serait qu’un imbécile de moins. </p>
+        <p> Et, avec une énergie sauvage: </p>
+        <p> – Sachez, dit-elle, que je ne crains pas la mort. </p>
+        <p> » Je la subirais plutôt que de subir l’outrage et, moi morte, adieu la rançon! </p>
+        <p> Chirpick s’inclina et dit: </p>
+        <p> – Mademoiselle, quand l’Ours sera en état de nous comprendre, nous le chapitrerons et Nilson, qui a de l’empire sur lui et qui va revenir, le forcera bien à ne jamais recommencer. </p>
+        <p> – Alors très bien ainsi. </p>
+        <p> » Dans ces conditions je consentirai à écrire à mon oncle la lettre que l’on m’a demandée. </p>
+        <p> Et elle congédia les directeurs d’un geste princier. </p>
+        <p> Ceux-ci saluèrent poliment et ils s’éloignèrent, laissant les Indiens de l’Ours-Blanc relever et emporter leur maître. </p>
+        <p> Quand l’Ours revint à lui, il trouva autour de lui ses camarades. </p>
+        <p> Tout près, Nilson. </p>
+        <p> Celui-ci fit donner à l’Ours un grog bien chaud, puis il en attendit l’effet. </p>
+        <p> L’Ours bientôt se mit sur son séant, regarda autour de lui et fit effort de mémoire. </p>
+        <p> Il porta les mains à sa tête et il sentit les linges qui l’entouraient. </p>
+        <p> – Ah! ah! fit-il. </p>
+        <p> » Cette petite Française a profité de ce que j’étais ivre pour m’assommer. </p>
+        <p> – Et vous, dit Nilson, vous avez profité de votre ivresse pour être inconvenant avec elle. </p>
+        <p> – Oh! </p>
+        <p> » Inconvenant! </p>
+        <p> » Une petite invitation à danser! </p>
+        <p> – Par une brute ivre! </p>
+        <p> » En termes grossiers! </p>
+        <p> Chirpick d’un air méprisant: </p>
+        <p> – Mais quelle civilité attendre d’un ours? </p>
+        <p> Nilson: </p>
+        <p> – N’a-t-il pas commencé son invitation par ces mots grossiers: « Eh, la fille! » </p>
+        <p> – Ce sont les termes dont il s’est servi. </p>
+        <p> – Schoking! </p>
+        <p> » Schoking! </p>
+        <p> » L’Ours, vous n’avez que ce que vous méritez! </p>
+        <p> » Et savez-vous ce qui arriverait si vous recommenciez, mon pauvre ami? </p>
+        <p> » Non, vous ne le savez pas. </p>
+        <p> » Je réunirais le conseil et je lui représenterais: </p>
+        <p> » 1° Que vous mettez ma combinaison en péril par votre conduite inqualifiable. </p>
+        <p> » 2° Que cette rançon énorme, si facile à obtenir d’un oncle reconnaissant du respect, des égards accordés à sa nièce, je ne l’obtiendrais plus que très difficilement avec force chicane. </p>
+        <p> » 3° Que vous ne mériteriez pas de la partager avec nos associés. </p>
+        <p> » 4° Que, vous refusant votre part, vous deviendriez un homme dangereux pour nous. </p>
+        <p> Regardant ses amis: </p>
+        <p> – Que tait-on d’un associé dangereux? </p>
+        <p> Chirpick énergiquement: </p>
+        <p> – On le supprime! </p>
+        <p> Et les autres: </p>
+        <p> – Fusillé. </p>
+        <p> » Sans rémission. </p>
+        <p> Nilson: </p>
+        <p> – Vous entendez, l’Ours. </p>
+        <p> » Sur ce, nous vous laissons à vos réflexions et nous espérons qu’elles seront salutaires. </p>
+        <p> Et ils s’éloignèrent tous d’un air digne. </p>
+        <p> Ils croyaient avoir mâté l’Ours. </p>
+        <p> Mais l’animal était indomptable. </p>
+        <p> Quand il fut seul, il se leva. </p>
+        <p> Il se rabroua, s’étira, battit de ses poings sa poitrine qui rendit des sons sourds, poussa des grognements, puis il eut un sourire semblable à un rictus de bête féroce. </p>
+        <p> – Ah! dit-il. C’est ainsi! </p>
+        <p> » Eh bien seul, oui seul, j’aurai la fille et la rançon. </p>
+        <p> Il était homme à tenir parole. </p>
+      </div>
+      <div title="CHAPITRE IV CHEZ LES SAUVAGES" type="chapter">
+        <head> CHAPITRE IV </head>
+        <lb/>
+        <p> Le lendemain, toute la bande levait le camp et se dirigeait vers le village des Sioux; les jeunes filles étaient à cheval. </p>
+        <p> Les Indiens ne sont jamais embarrassés pour capturer des chevaux sauvages. </p>
+        <p> Ceux de la bande en avaient pris deux qu’ils montaient, cédant les leurs, bien dressés, aux deux prisonnières qui étaient bonnes écuyères. </p>
+        <p> On fit le voyage sans encombre. </p>
+        <p> Toute la tribu sortit pour faire bon accueil aux directeurs. </p>
+        <p> Seul, Rayon-d’Or resta très froid. </p>
+        <p> Il se tint à l’écart. </p>
+        <p> – Si, dit-il à ses braves, j’étais le sachem, je les ferais tous attacher au poteau de la torture et je les ferais mourir dans les tortures. </p>
+        <p> – Ils ne nous ont rien fait. </p>
+        <p> – Ce sont des scélérats. </p>
+        <p> » Ils ont volé une jeune fille blanche, leur sœur, et ils exigent une rançon. </p>
+        <p> » Qui de nous voudrait enlever la fille d’un de nos sachems et demander des fourrures de prix pour la rendre à son père? </p>
+        <p> » Ces gens-là ne sont que des brigands. </p>
+        <p> » Et ils tromperont la tribu! Et je dirai que c’est bien fait. </p>
+        <p> » Pourquoi nous associons-nous à leur crime? </p>
+        <p> Les jeunes braves méditèrent ces paroles en dévorant des yeux les capturées. </p>
+        <p> – Mais, disait l’un, la blanche est un oiseau, une mouette. </p>
+        <p> – Oui, une mouette. </p>
+        <p> » C’est à regarder si elle a des ailes. </p>
+        <p> » Elle a l’air d’être prête à s’envoler. </p>
+        <p> – Et l’autre! </p>
+        <p> » La noire! </p>
+        <p> » Ne dirait-on pas qu’elle est teinte. </p>
+        <p> – Elle est belle autrement. </p>
+        <p> (Il voulait dire d’une autre façon que nos indiennes). </p>
+        <p> – Oui, très belle. </p>
+        <p> » Mais elle l’est tout à fait autrement, en effet. </p>
+        <p> » Une biche est belle. </p>
+        <p> » Une femelle de jaguar est belle. </p>
+        <p> » Mais… autrement… </p>
+        <p> Et les réflexions continuèrent. </p>
+        <p> Rayon-d’Or alla trouver sa mère et sa sœur. </p>
+        <p> – Je suis maintenant, leur dit-il, votre maître; puisque je commande à des braves, j’ai le droit de commander à des femmes. </p>
+        <p> » Donc, écoutez ceci. </p>
+        <p> » Je veux que vous gagniez l’amitié de la Française, parce que c’est une fille de ma race. </p>
+        <p> À sa mère: </p>
+        <p> – Ce sera ta fille. </p>
+        <p> À sa sœur: </p>
+        <p> – Ce sera ta sœur. </p>
+        <p> » Moi je suis son frère. </p>
+        <p> Puis il attendit que la réception fût terminée. </p>
+        <p> Elle fut courte. </p>
+        <p> Un échange rapide de paroles pour l’entente des conditions, une simple collation à cheval et un prompt départ. </p>
+        <p> Les bandits avaient hâte de faire parvenir à M. d’Ussonville la lettre que Mlle Pelhouër lui avait écrite, comme elle l’avait promis. </p>
+        <p> Il était bien entendu que toute la bande réunie livrerait les fusils promis et qu’à toute la bande on rendrait la captive. </p>
+      </div>
+      <div title="CHAPITREVLOYAUTÉ SAUVAGE" type="chapter">
+        <head> CHAPITRE V </head>
+        <lb/>
+        <p> Mlle de Pelhouër espérait beaucoup depuis qu’elle se voyait chez les Sioux. </p>
+        <p> Elle croyait que le sachem voudrait, comme on le dit vulgairement, couper l’herbe sous le pied aux directeurs et traiter directement avec M. d’Ussonville pour s’approprier la rançon. </p>
+        <p> Aussitôt que les directeurs furent partis, elle demanda au sachem à lui parler. </p>
+        <p> Celui-ci la reçut aussitôt; Rayon-d’Or servit d’interprète. </p>
+        <p> Mlle de Pelhouër expliqua la situation et elle engagea le sachem à envoyer un courrier à M. d’Ussonville avec une lettre d’elle. </p>
+        <p> Le sachem refusa. </p>
+        <p> – Tu ne connais donc pas les Dako-Tas (Sioux)? dit-il gravement. </p>
+        <p> » Nous n’avons qu’une parole. </p>
+        <p> » Quand nous avons fait une convention, nous la tenons, même au péril de notre vie. </p>
+        <p> » Jamais un Sioux n’a trahi un serment. </p>
+        <p> » Si je t’écoutais, je serais le premier parjure de ma race et je perdrais l’estime de la tribu dans le mépris de laquelle je tomberais. </p>
+        <p> » Je me contenterai donc des deux cents Remingtons, préférant mon honneur à tout. </p>
+        <p> La jeune fille admira cette bonne foi et elle n’insista pas, sentant que c’était inutile. </p>
+        <p> Elle se retira. </p>
+      </div>
+      <div title="CHAPITRE VI MADEMOISELLE DE PELHOUER ET RAYON-D’OR" type="chapter">
+        <head> CHAPITRE VI </head>
+        <lb/>
+        <p> Comme Fara-Karaja, la mère de Rayon-d’Or avait offert de loger la prisonnière dans sa tente et qu’on le lui avait accordé, Rayon-d’Or conduisit la jeune fille à la tente. </p>
+        <p> – Mademoiselle, lui dit-il, vous ne serez pas trop mal chez nous. </p>
+        <p> » Je sais trop bien chasser pour que les fourrures nous manquent. </p>
+        <p> » Vous coucherez sur un lit digne d’une reine, car il se composera de peaux de martre, zibeline, d’hermine et de castor. </p>
+        <p> Mlle de Pelhouër, qui s’était étonnée déjà d’entendre un Indien parler purement le français, s’étonna plus encore de s’entendre appeler mademoiselle. </p>
+        <p> – Où donc, demanda-t-elle, avez-vous appris à parler ainsi le français? </p>
+        <p> – Mais, dit-il, je suis Français. </p>
+        <p> Fièrement: </p>
+        <p> – Je suis un Bois-Brûlé. </p>
+        <p> Il conta son histoire en quelques mots et il remit la jeune fille aux mains de sa mère et de sa sœur qui lui prodiguèrent soins et caresses. </p>
+        <p> Ce qui enchanta Mlle de Pelhouër, ce fut de pouvoir parler français avec Fara-Karadja (Fleur de Juin) et avec Eli-Do-Ta (Petit Oiseau des Bois). </p>
+        <p> Rayon-d’Or ne parlait que français avec sa mère et sa sœur. </p>
+        <p> Il forçait celle-ci à écrire dans les cahiers de la société de La Lecture. </p>
+        <p> – Tu épouseras un Bois-Brûlé! disait-il. </p>
+        <p> » J’ai parmi eux des cousins. </p>
+        <p> » Nous irons les voir. </p>
+        <p> » Il y en a qui t’aimeront et tu choisiras. </p>
+        <p> » Mais tu sauras lire, écrire, compter, et ton mari ne rougira pas de ton ignorance. </p>
+        <p> » Et les autres femmes ne t’appelleront pas la sauvage. </p>
+        <p> Quand Rayon-d’Or jugea que Mlle de Pelhouër s’était rafraîchie, il vint la trouver. </p>
+        <p> – Mademoiselle, dit-il en souriant, c’est le père, non la mère qui fait la tribu. </p>
+        <p> Mon père était Bois-Brûlé; je suis donc, moi, un Bois-Brûlé. </p>
+        <p> Les Sioux sont engagés avec les directeurs; mais moi pas. </p>
+        <p> Je ne me suis pas fait reconnaître guerrier avant que cette canaille de Nilson ne soit parti, pour ne pas m’engager avec lui. </p>
+        <p> Écrivez donc une lettre pour votre oncle et je la porterai. </p>
+        <p> – Et si le sachem le sait? </p>
+        <p> Il sourit. </p>
+        <p> – Qui le lui dira? Pas vous. </p>
+        <p> » Pas votre oncle. </p>
+        <p> » Pas ma mère. </p>
+        <p> » Pas ma sœur. </p>
+        <p> Puis secouant la tête: </p>
+        <p> – Du reste, j’ai une idée. </p>
+        <p> » Mais écrivez vite cette lettre. </p>
+        <p> » Il faut que je me mette sur les traces des directeurs. </p>
+        <p> Mlle de Pelhouër fut très touchée de ce dévouement. </p>
+        <p> Elle l’en remercia. </p>
+        <p> Toutefois, elle trouvait qu’il s’exposait trop pour elle. </p>
+        <p> – Je ne puis accepter! dit-elle. </p>
+        <p> » Pourquoi vous exposer à ce point? </p>
+        <p> » Je ne cours en réalité qu’un seul danger; c’est de payer ma rançon trop cher; mais mon oncle est riche. </p>
+        <p> – Bon! fit Rayon-d’Or. </p>
+        <p> » Il est riche! </p>
+        <p> » Est-ce une raison pour le laisser exploiter par les directeurs? </p>
+        <p> » Et puis, vous êtes Française, votre oncle est Français et je trouve humiliant que vous soyez victime de ces directeurs, tous Anglais. </p>
+        <p> Très énergiquement: </p>
+        <p> – Du reste, ma résolution est prise; si vous ne me donnez pas de lettre, j’irai sans lettre. </p>
+        <p> Mlle de Pelhouër finit par se laisser convaincre. </p>
+        <p> Elle écrivit et remit à Rayon-d’Or une lettre pour M. d’Ussonville. </p>
+        <p> Le jeune homme fit ses provisions, monta à cheval et partit le jour même. </p>
+        <p> Fleur-de-Juin dit alors à Mlle de Pelhouër très doucement: </p>
+        <p> – Il faudra être indulgente pour nous, car tu ne mangeras pas tous les jours de la viande fraîche; notre chasseur est parti. </p>
+        <p> – Mais moi je reste! dit-elle. </p>
+        <p> Fleur-de-Juin ne comprit pas d’abord ce que cela voulait dire et elle ne se rendit compte que le lendemain de la portée de cette parole. </p>
+      </div>
+      <div title="CHAPITRE VII À LA CIBLE" type="chapter">
+        <head> CHAPITRE VII </head>
+        <lb/>
+        <p> Les Sioux sont habiles chasseurs de chevaux et trappeurs très adroits. </p>
+        <p> Aussi ont-ils beaucoup de plomb et beaucoup de poudre. </p>
+        <p> Étant riches, ayant de grasses réserves de munitions, ils tiennent leurs prix. </p>
+        <p> Les factoreries ne les exploitent pas autant qu’elles le voudraient. </p>
+        <p> Et, pour la poudre, elles ne peuvent leur tenir la dragée haute. </p>
+        <p> Ils ont de si belles fourrures qu’on leur échange pour autant de munitions qu’ils en demandent. </p>
+        <p> Aussi ne les épargnent-ils pas. </p>
+        <p> Ils tirent presque tous les jours à la cible; c’est leur jeu favori. </p>
+        <p> Or, le lendemain, on célébrait une fête, celle du Feu ou du Soleil. </p>
+        <p> Je crois que le culte du Feu ou du Soleil est vieux comme le monde. </p>
+        <p> On le retrouve partout. </p>
+        <p> Il ne faut pas croire que seuls les Parsis de l’Inde soient les adorateurs du Soleil. </p>
+        <p> Les druides l’étaient comme eux. </p>
+        <p> La course des cierges, en Italie, est une des cérémonies survivantes de l’antique religion. </p>
+        <p> Dans toute la chrétienté, deux fois par an, on allume les feux de joie aux deux Saint-Jean, sous le patronage duquel on a mis deux cérémonies païennes indéracinables du cœur des peuples et qu’il fallut se contenter de transformer en cérémonies chrétiennes. </p>
+        <p> Dans toute l’Amérique, on retrouva les feux de joie aux époques périodiques. </p>
+        <p> Donc, avant l’aube, les jeunes gens et les jeunes filles firent flamber les bûchers. </p>
+        <p> Toute la tribu se déguisa en ours avec peaux et masques. </p>
+        <p> On dansa la danse de l’ours avec les hurlements de l’animal. </p>
+        <p> C’est un étrange spectacle, une bizarre mascarade très bien imitée. </p>
+        <p> Il y a des scènes très burlesques. </p>
+        <p> Les danses finies, une collation prise, le tir à la cible commença. </p>
+        <p> Un fusil en était le prix. </p>
+        <p> Mlle de Pelhouër s’intéressa beaucoup à cette lutte. </p>
+        <p> Chaque Indien tire une balle et ceux là seuls qui ont touché le but recommencent la lutte entre eux sur un but plus petit. </p>
+        <p> À la fin, il ne reste en concurrence que deux fins tireurs. </p>
+        <p> C’est le moment le plus intéressant. </p>
+        <p> Or, à la grande surprise de tous, Mlle de Pelhouër s’avança avec son amazone. </p>
+        <p> Elle dit au sachem avec Fleur-de-Juin pour interprète: </p>
+        <p> – Fais-nous donner à chacune un fusil; nous voulons disputer le prix. </p>
+        <p> Le sachem sourit de cette prétention. </p>
+        <p> Il ne savait point à qui il avait affaire et il répondit: </p>
+        <p> – Les sqaws (femmes) blanches veulent s’amuser; je ne m’y oppose pas. </p>
+        <p> – Sachem, dit Mlle de Pelhouer, il est juste que nous étudiions votre arme. </p>
+        <p> » Nous allons donc tirer trois coups d’essai si tu y consens. </p>
+        <p> – Votre demande est juste. </p>
+        <p> » Essayez les armes comme vous l’entendrez. </p>
+        <p> Mlle de Pelhouër demanda une braise à Fleur de Juin qui alla en chercher une et qui l’apporta à la jeune fille. </p>
+        <p> Celle-ci traça un rond noir sur le poteau de la torture. </p>
+        <p> Elle recula de cent pas et mit dans le noir à la stupéfaction générale. </p>
+        <p> Mais elle dit: </p>
+        <p> – Maintenant, je connais l’arme. </p>
+        <p> » J’entre en lutte. </p>
+        <p> Son amazone aussi mit dans le noir et se déclara prête pour jouter. </p>
+        <p> Le but? </p>
+        <p> Un caillou de la grosseur d’un œuf placé sur un pieu à cent pas. </p>
+        <p> Un des tireurs le manqua. </p>
+        <p> Les deux amazones touchèrent. </p>
+        <p> Les Sioux, leurs femmes, leurs enfants, poussèrent des cris d’enthousiasme. </p>
+        <p> On remplaça ce caillou par un autre de la grosseur d’une noix. </p>
+        <p> Seule, les amazones touchèrent. Alors la tribu les proclama victorieuses. </p>
+        <p> On donna le fusil à Mlle de Pelhouër qui en fit présent au dernier tireur. </p>
+        <p> Cette générosité lui gagna tous les cœurs; les Indiens sont extrêmement sensibles aux procédés délicats. </p>
+        <p> Sauvages, mais gens de cœur! </p>
+        <p> Cependant Mlle de Pelhouër voulait étonner davantage les Sioux. </p>
+        <p> Elle fit planter un petit fer de flèche, à peine gros comme un clou, dans l’arbre de la torture et, tirant dessus, la balle fit marteau. </p>
+        <p> Son amazone doubla ce coup. </p>
+        <p> À cent pas cela parut prodigieux aux Sioux. </p>
+        <p> Mais ils n’étaient pas au bout de leurs surprises. </p>
+        <p> Mlle de Pelhouër demanda qu’on lui trouvât une pierre percée et un fil fait d’un tendon d’animal; on les lui apporta. </p>
+        <p> Elle attacha le fil à la pierre et son amazone tint, à cent pas, le fil entre les doigts, la pierre pendant. </p>
+        <p> Les spectateurs très émus retenaient leur souffle et regardaient de tous leurs yeux. </p>
+        <p> Mlle de Pelhouër épaula, leva lentement son arme, visa et tira. </p>
+        <p> La pierre tomba! </p>
+        <p> La balle avait coupé la ficelle. </p>
+        <p> Alors les Sioux vociférèrent en trépignant; saisissant des cailloux, ils les frappaient l’un contre l’autre avec frénésie. </p>
+        <p> Mais Mlle de Pelhouër alla prendre la place de l’amazone. </p>
+        <p> Celle-ci coupa le fil avec autant de précision que sa maîtresse. </p>
+        <p> L’admiration des Sioux grandissait toujours et devait grandir encore. </p>
+        <p> Mlle de Pelhouër renouvela pour eux le miracle d’adresse qui immortalisa Guillaume Tell; elle plaça, sur sa tête, un caillou de la grosseur d’un œuf et attendit, les bras croisés, souriante, le feu de son amazone. </p>
+        <p> Elle tira. </p>
+        <p> Le caillou fût jeté très loin… </p>
+        <p> Cette fois, la stupeur rendit les Sioux silencieux et comme atterrés. </p>
+        <p> L’amazone prit la place de sa maîtresse, le même caillou sur la tête. </p>
+        <p> Il fut jeté bas! </p>
+        <p> Alors, Mlle de Pelhouër, se tournant vers la tribu, demanda: </p>
+        <p> – Si je jure par le grand Dieu des blancs que je ne chercherai pas à m’échapper, que je reviendrai fidèlement chaque soir à la tribu, permettrez-vous à une tireuse comme moi de chasser? </p>
+        <p> Ensemble et unanimement: </p>
+        <p> – Och! och! (Oui! oui!) </p>
+        <p> – Eh bien, je jure pour moi et pour ma négresse; vous nous prêterez à chacune un fusil. </p>
+        <p> – Je t’en donne deux! dit le sachem. </p>
+        <p> – Je te les paierai en peau de jaguar. </p>
+        <p> – Tu veux donc chasser le grand chat? </p>
+        <p> – Oui. </p>
+        <p> » Et tu ne trouveras jamais dans la fourrure le trou de nos balles. </p>
+        <p> – Tu tires à l’œil. </p>
+        <p> – Toujours. </p>
+        <p> – Je te donnerai une escorte. </p>
+        <p> Mon vieux cousin Gilk-Neck te servira avec ses onze braves. </p>
+        <p> – Soit! </p>
+        <p> » Mais il me laissera chasser à ma guise? </p>
+        <p> – Tu seras la maîtresse de ton fusil. </p>
+        <p> Mlle de Pelhouër était au comble de la joie; désormais la captivité devait lui sembler douce. </p>
+        <p> La fête continua brillante et animée. </p>
+        <p> Mlle de Pelhouër assista à des danses extraordinaires, danses de caractère, surtout la danse du scalp et la danse de guerre. </p>
+        <p> Quand elle rentra dans sa tente, elle s’endormit aussitôt. </p>
+        <p> Ce long bal sauvage avait fatigué ses yeux. </p>
+      </div>
+      <div title="CHAPITRE VIII FINESSE D’OURS BLANC" type="chapter">
+        <head> CHAPITRE VIII </head>
+        <lb/>
+        <p> L’ours est sournois, défiant et rusé. </p>
+        <p> On cite de lui des traits de finesse auxquels on ne s’attendrait pas de la part de ce lourdaud, de formes si grossières. </p>
+        <p> Mais l’œil petit, pétillant de malice, en révèle long. </p>
+        <p> L’Ours était résolu à s’emparer de Mlle de Pelhouër. </p>
+        <p> Il voulait, pour lui seul, la rançon. </p>
+        <p> Pour cela, il devait rester seul, alors que des camarades se rendraient à l’île de Banks pour négocier. </p>
+        <p> Pour ne pas exciter les soupçons, il se plaignit de douleurs intolérables dans la tête et se coucha, geignant et tremblant la fièvre. </p>
+        <p> Une comédie! </p>
+        <p> De temps à autre, il se levait comme fou et courait en proie au délire. </p>
+        <p> Les deux Indiens parvenaient difficilement à le calmer et à le recoucher. </p>
+        <p> Quand ses camarades le questionnaient, il répondait que la prisonnière lui avait cassé quelque chose dans la tête. </p>
+        <p> Parfois il divaguait si fort que l’on craignait qu’il ne devint fou. </p>
+        <p> Ce massif personnage fut un acteur hors ligne dans ce rôle. </p>
+        <p> Au bout de deux jours, tous les préparatifs de la troupe étant faits, Nilson et les autres commencèrent à s’impatienter. </p>
+        <p> L’Ours ne guérit pas. </p>
+        <p> – Guérira-t-il, l’Ours? </p>
+        <p> – Pour moi il est fou. </p>
+        <p> – Sûr, il lui en restera toujours quelque chose et il ne sera plus qu’une tête fêlée. </p>
+        <p> – Laissons-le ici. </p>
+        <p> – Qu’en ferions-nous. </p>
+        <p> – Intransportable l’Ours. </p>
+        <p> – Nous ne pourrions attendre. </p>
+        <p> – Les Indiens le soigneront. </p>
+        <p> – Nilson, allez lui parler. </p>
+        <p> Nilson accepta la commission. </p>
+        <p> Il se rendit donc auprès de l’Ours. </p>
+        <p> Celui-ci s’attendait à la visite. </p>
+        <p> Il gémissait. </p>
+        <p> – Nilson, ah Nilson! </p>
+        <p> » J’ai dans la tête cent marteaux frappant sur cent enclumes. </p>
+        <p> » Quel vacarme! </p>
+        <p> » Elle se démolit, ma tête. </p>
+        <p> » Si cela continue, d’un bon coup de revolver je la fais sauter. </p>
+        <p> – Pas de bêtise. </p>
+        <p> » Vous guérirez. </p>
+        <p> – Mais quand? </p>
+        <p> » Ça empire, loin d’aller mieux. </p>
+        <p> – Patience! </p>
+        <p> » Vos Indiens vous soigneront bien, du reste. </p>
+        <p> » Au retour, nous vous trouverons guéri. </p>
+        <p> – Vous partez? </p>
+        <p> – Il le faut! </p>
+        <p> » Vous m’abandonnez? </p>
+        <p> – Mais non! </p>
+        <p> » On vous laisse tout ce dont vous avez besoin, chevaux, provisions, etc. </p>
+        <p> » Si vous êtes plus malade, vos Indiens vous conduiront dans un fort. </p>
+        <p> » On vous y recevra. </p>
+        <p> » Jamais on ne repousse un malade. </p>
+        <p> L’Ours s’abîma dans un morne et profond désespoir. </p>
+        <p> – Je me tuerai! gémit-il. </p>
+        <p> » Je ne veux pas survivre à votre abandon; partez donc, je suis un homme mort. </p>
+        <p> – L’Ours, pas d’enfantillage. </p>
+        <p> » Je vous le répète, ce n’est pas un abandon. </p>
+        <p> » Que diable, un homme auquel on laisse trois chevaux, des armes, des vivres, deux serviteurs, n’est pas abandonné à peu de distance d’une tribu et d’un fort. </p>
+        <p> – Partez donc. </p>
+        <p> » Moi, je me ferai porter au fort, lié sur mon cheval, car je tomberais. </p>
+        <p> – Je crois, en effet, que c’est ce que vous avez de mieux à faire. </p>
+        <p> Et Nilson s’éloigna. </p>
+        <p> Il se disait en souriant: </p>
+        <p> – Timbré, l’Ours! </p>
+        <p> » Sûrement quelque chose de dérangé dans la cervelle. </p>
+        <p> » Et ça ne se remettra pas. </p>
+        <p> Mais pourquoi Nilson souriait-il? </p>
+        <p> Parce qu’il pensait que l’Ours ne serait pas en état de réclamer sa part de la rançon, ce qui était autant de gagné. </p>
+        <p> Entre honnêtes gens… </p>
+        <p> Il rendit compte à ses camarades. </p>
+        <p> – Partons! </p>
+        <p> Ce fut le cri commun. On troussa bagages. </p>
+        <p> Cependant, un à un, ils allaient dire adieu à ce pauvre Ours. </p>
+        <p> Lui, grognait. </p>
+        <p> On n’y prenait garde. </p>
+        <p> Simple formalité, cet adieu. </p>
+        <p> Et les voilà partis, enchantés d’être débarrassés du malade. </p>
+        <p> Bon voyage! </p>
+        <p> Au bout d’une demi-heure, l’Ours appela: </p>
+        <p> – Loup-Blanc! </p>
+        <p> » Ici! </p>
+        <p> Un Indien accourut. </p>
+        <p> – Maître? </p>
+        <p> – Monte à cheval! </p>
+        <p> » Va en reconnaissance! </p>
+        <p> » Tu me diras s’ils sont bien partis! </p>
+        <p> Le Loup-Blanc obéit. </p>
+        <p> Parti à fond de train, il revint à fond de train et dit: </p>
+        <p> – Maître, ils sont loin déjà. </p>
+        <p> » Leurs chevaux vont au trot. </p>
+        <p> L’Ours-Blanc, au grand étonnement de ses sauvages, se leva. </p>
+        <p> Il arracha compresses et bandes et se mit à gesticuler et à danser. </p>
+        <p> Il criait: </p>
+        <p> – Partis! </p>
+        <p> » Ils sont partis, les imbéciles! </p>
+        <p> » À moi la fille! </p>
+        <p> » Oh! je l’aurai. </p>
+        <p> » Je sais tendre un piège, moi. </p>
+        <p> » Et je lui en dresserai un dont le plus subtil sauvage ne se défierait pas. </p>
+        <p> » Oui, je la piégerai. </p>
+        <p> Il se mit à dévorer un gigot de daim qu’il mangea tout entier. </p>
+        <p> – Quelle rude diète j’ai dû faire! s’écriait-il en mettant les morceaux doubles. </p>
+        <p> Quand il eut fini, il fit lever le camp à ses Indiens. </p>
+        <p> Ils montèrent à cheval tous les trois, se rapprochant du camp des Sioux. </p>
+        <p> De ce jour, un grand danger planait sur Mlle de Pelhouër. </p>
+      </div>
+      <div title="CHAPITRE IX LES JAGUARS" type="chapter">
+        <head> CHAPITRE IX </head>
+        <lb/>
+        <p> Cependant Mlle de Pelhouër était impatiente d’aller à la chasse. </p>
+        <p> Le lendemain, elle conféra avec le Serpent-d’Eau, son guide, dont nous traduisons le nom indien en français. </p>
+        <p> Le vieux guerrier avait soixante-sept hivers; mais il était encore vigoureux. </p>
+        <p> C’était un grand homme sec, au tempérament de fer, intrépide et de grande réputation; car il avait pris trente-trois scalps en sa vie. </p>
+        <p> Il fut convenu que l’on partirait le lendemain, car il y avait certains préparatifs à faire. </p>
+        <p> Petites tentes de peau d’agneau légères à emporter, fourrures de couchage, outils et vivres, tomahawk à aiguiser, etc., etc. </p>
+        <p> Le lendemain, tout était prêt et l’on se mit en route très gaiement. </p>
+        <p> Une chasse dure plusieurs jours. </p>
+        <p> Mais, dès la première heure, on fut favorisé, car on découvrit une harde de daims. </p>
+        <p> Serpent-d’Eau fit mettre pied à terre à tout le monde. </p>
+        <p> Deux de ses braves tinrent les chevaux. </p>
+        <p> On gagna sans bruit le contre-vent du troupeau qui paissait paisiblement. </p>
+        <p> Pour ces surprises, les mocassins sont d’un grand secours. </p>
+        <p> Pas le plus petit bruit. </p>
+        <p> Le pied foule si moelleusement le sol que l’on n’entend rien. </p>
+        <p> Pour faire leur coup, les malfaiteurs prennent des chaussons de lisière; mais les mocassins seraient cent fois préférables. </p>
+        <p> Donc, on marcha lentement. </p>
+        <p> À cent pas, le guerrier arrêta ses braves et les jeunes filles. </p>
+        <p> Joue! </p>
+        <p> Feu! </p>
+        <p> Cinq daims furent touchés, deux mortellement; on reconnut les balles des jeunes filles qui, entrées dans l’œil, avaient fracassé la cervelle. </p>
+        <p> Les braves sautèrent à cheval, poursuivirent les blessés, les forcèrent facilement et les achevèrent à coups de lance. </p>
+        <p> Ils les rapportèrent. On garda un daim. </p>
+        <p> Pendant qu’on le dépouillait et que l’on en faisait cuire les morceaux, deux braves portaient au village les quatre autres daims. </p>
+        <p> Beau commencement de chasse. </p>
+        <p> Bon augure! </p>
+        <p> En recevant, pour sa part, un daim, Fleur-de-Juin comprit le sourire qu’avait eu Mlle de Pelhouër, lorsque elle, Fleur-de-Juin, avait regretté l’absence de Rayon-d’Or au point de vue chasse. </p>
+        <p> – Vraiment, dit-elle, cette fille vaut un garçon et elle n’aurait pas besoin de se marier pour avoir du gibier frais au sec pendu aux perches de son wigwam; elle en tirerait plus qu’un homme. </p>
+        <p> » Je souhaiterais à Rayon-d’Or une pareille femme; mais elle n’est pas pour lui. </p>
+        <p> – Il est pourtant beau, bon et brave, mon frère! dit Perce-Neige. </p>
+        <p> – Et moi, je te dis qu’elle doit aimer un autre homme. </p>
+        <p> – Qu’en savez-vous? </p>
+        <p> – Rien qu’à la façon dont elle regardait ton frère bien en face, en ami, j’ai vu tout de suite qu’il ne devait plus y avoir de place dans son cœur pour mon garçon. </p>
+        <p> Les mères ont de ces pénétrations qui semblent extraordinaires, mais qui n’en sont pas moins infaillibles. </p>
+        <p> Elles se basent sur de fines remarques qui échappent à d’autres yeux. </p>
+        <p> Cependant les deux cavaliers qui avaient porté les daims au camp en revenaient. </p>
+        <p> Les grillades étaient à point. </p>
+        <p> On leur fit fête. </p>
+        <p> La viande de daim ressemble beaucoup à celle de notre bœuf. </p>
+        <p> Un peu moins grasse. </p>
+        <p> Mais jusqu’à ce que la bête soit entrée dans sa septième année, la chair est très tendre et a une légère saveur de gibier sauvage qui lui donne ce que les gourmets appellent le haut goût. </p>
+        <p> Plus tard, cette viande durcit; mais celle d’un bœuf de huit ans est dure aussi. </p>
+        <p> La daine est un peu moins bonne. </p>
+        <p> Mais le morceau exquis, c’est le foie. </p>
+        <p> Enveloppé d’abord dans la toilette de l’animal, c’est-à-dire dans le péritoine, puis entouré d’herbes aromatiques, cuit ensuite sous la cendre chaude, c’est un mets digne d’une table royale. </p>
+        <p> Le filet et le faux-filet se préparent de la même façon. </p>
+        <p> Les Indiens connaissent beaucoup de feuilles d’arbustes, de fleurs, de baies, notamment le genièvre et le thym, qui donnent du parfum aux rôtis et aux ragoûts qu’ils font. </p>
+        <p> À ce repas, on mangea le filet et le faux-filet; on demi-fuma les côtelettes, on fuma le reste. </p>
+        <p> Cette viande fumée aux herbes aromatiques se conserve bien. </p>
+        <p> Elle surpasse les meilleurs jambons. On repartit après le repas. </p>
+      </div>
+      <div title="CHAPITREXLES JAGUARS" type="chapter">
+        <head> CHAPITRE X </head>
+        <lb/>
+        <p> Bientôt l’on entendit des miaulements effrayants et Serpent-d’Eau prononça ces mots: </p>
+        <p> – Les jaguars en bande! </p>
+        <p> Il prit une autre direction. Mlle de Pelhouër demanda: </p>
+        <p> – Nous évitons donc ces jaguars? </p>
+        <p> Et le vieux Sioux de répondre: </p>
+        <p> – Il y en a trop. </p>
+        <p> – Nous sommes huit. </p>
+        <p> – Il faut des hommes pour tenir les chevaux. </p>
+        <p> – Attachons-les aux arbres que l’on voit près de nous, à gauche. </p>
+        <p> Un seul de tes braves les gardera et nous aurons encore sept fusils. </p>
+        <p> – Et nous aurons affaire à dix, quinze, vingt jaguars peut-être. </p>
+        <p> » C’est la saison où ils s’assemblent, où ils se battent. </p>
+        <p> » Écoute-les rugir. </p>
+        <p> – Approchons-nous au moins. </p>
+        <p> » Voyons-les. </p>
+        <p> » Comptons-les. </p>
+        <p> On gagna le contre vent, on attacha les chevaux et l’on marcha doucement. </p>
+        <p> Bientôt les jaguars furent en vue. </p>
+        <p> Une scène superbe se déroulait au fond d’une dépression de terrain. </p>
+        <p> Des mâles, au nombre de dix-sept ou dix-huit, il était difficile de les compter, se battaient avec une fureur inouïe. </p>
+        <p> Cinq femelles, spectatrices impassibles, regardaient cette lutte enragée. </p>
+        <p> Le lecteur a dû voir des chats aux prises; qu’il grandisse ces chats à la taille d’un jaguar et qu’il les fasse combattre en imagination, il se fera une idée de ce qui se passait. </p>
+        <p> C’était effrayant. </p>
+        <p> Plusieurs de ces animaux, hors de combat, léchaient leurs blessures. </p>
+        <p> Mlle de Pelhouer dit: </p>
+        <p> – C’est sur ceux-ci qu’il faudra tirer d’abord; ne se battant plus, ils verraient d’où partent nos coups de fusils. </p>
+        <p> » Quand ils seront morts, ils ne verront plus rien. </p>
+        <p> Elle se mit à rire. </p>
+        <p> – Les autres, reprit-elle, continueront à se battre, au moins pendant quelques instants. </p>
+        <p> – Tu veux tirer! s’écria Serpent-d’Eau stupéfait de tant d’audace. </p>
+        <p> – Je veux les tuer tous! </p>
+        <p> Les yeux de Mlle de Pelhouër étincelaient et sa figure avait pris un air étrange. </p>
+        <p> Haussée sur la pointe du pied, elle semblait faire effort pour rester à terre. </p>
+        <p> On eut dit qu’elle allait s’envoler et planer au-dessus du combat. </p>
+        <p> – Moi, dit-elle, avec un accent d’autorité irrésistible, et mon amazone, nous tirerons. </p>
+        <p> » Vos fusils, je m’en suis rendu compte, portent encore très juste à trois cents mètres et il n’y a que deux cent cinquante mètres d’ici aux jaguars. </p>
+        <p> » L’un nous passera les armes et les autres rechargeront. </p>
+        <p> » Un homme qui a du sang-froid peut charger trois fusils en une minute. </p>
+        <p> » Vous êtes cinq. </p>
+        <p> » Vous pouvez donc nous fournir quinze fusils rechargés à la minute. </p>
+        <p> » De plus, nous avons les sept qui sont tout prêts à faire feu. </p>
+        <p> » Allons rangez-vous. </p>
+        <p> » Ne vous occupez pas de ce qui se passera et ne songez qu’à recharger. </p>
+        <p> » Toi, Serpent-d’Eau, tu nous passeras les fusils et tu repasseras les vides à tes hommes, sans te hâter. </p>
+        <p> » Surtout que l’on ne se presse pas; nous aurons le temps. </p>
+        <p> Elle parlait avec tant d’énergie calme que personne ne fit d’observation. </p>
+        <p> – Plantez vos lances devant vous! dit-elle. </p>
+        <p> » À tout hasard, bandez vos arcs. </p>
+        <p> Puis, mettant genou terre à côté de son amazone qui en fit autant, elle dit au Serpent-d’Eau: </p>
+        <p> – Entre nous deux! </p>
+        <p> Alors les jeunes femmes tirèrent. </p>
+        <p> Coups superbes! </p>
+        <p> Deux jaguars foudroyés! </p>
+        <p> Il y eut un murmure. </p>
+        <p> Mlle de Pelhouër le réprima: </p>
+        <p> – Silence et chargez! </p>
+        <p> À son amazone: </p>
+        <p> – Prends le dernier blessé! </p>
+        <p> Celui-ci sauta en l’air en recevant une balle dans l’épine dorsale. </p>
+        <p> Mais il ne faisait que bondir verticalement sans avancer. </p>
+        <p> Ça lui était impossible. </p>
+        <p> – Danse! disait Nadali. </p>
+        <p> » Danse, puisque ça t’amuse; mais tu n’en as pas pour longtemps. </p>
+        <p> Ne pouvant le viser à l’œil, elle lui avait cassé la colonne vertébrale. </p>
+        <p> Mlle de Pelhouër avait troué le cœur d’une femelle qui eut une agonie violente. </p>
+        <p> Quelques secondes plus tard, deux autres femelles étaient l’une foudroyée, l’autre évidemment blessée à mort. </p>
+        <p> Les deux autres, enfin, furent tuées après trois coups tirés. </p>
+        <p> Tout ce massacre ne dura pas plus de trente secondes. </p>
+        <p> – Voilà, dit Mlle de Pelhouër, des témoins gênants supprimés. </p>
+        <p> » Et vous voyez! </p>
+        <p> » Ils se battent toujours! </p>
+        <p> » Rechargez toutes les armes! </p>
+        <p> Et souriant au Serpent-d’Eau: </p>
+        <p> – Tu vois bien que j’avais raison en te disant que nous avions le temps! </p>
+        <p> Le vieillard ne répondit rien. </p>
+        <p> Les deux jeunes filles, cependant, épaulèrent de nouveau et tirèrent six coups de fusils sans que l’on pût juger du résultat. </p>
+        <p> Les combattants formaient masse. </p>
+        <p> Tout à coup la lutte cessa. </p>
+        <p> Comme deux balles blessèrent deux d’entre eux, ils s’aperçurent qu’on les canardait et ils virent d’où partaient les coups. </p>
+        <p> Ils chargèrent avec furie. </p>
+        <p> Dès lors, ils se présentaient de face et les jeunes filles visèrent les têtes. </p>
+        <p> Il y en avait qui ne pouvaient suivre les autres qu’à distance. </p>
+        <p> Ceux-là étaient blessés. </p>
+        <p> Mais il y en avait huit encore indemnes à cinquante pas des jeunes filles. </p>
+        <p> Mais elles eurent le superbe calme de ne pas activer le feu. </p>
+        <p> Les trois derniers furent foudroyés presque à bout portant, à tel point même que pour éviter le suprême coup de griffe de l’un d’eux, les jeunes filles se jetèrent qui à droite, qui à gauche. </p>
+        <p> Mais, d’un coup de lance, Serpent-d’Eau finit l’agonie de l’animal. </p>
+        <p> Alors Mlle de Pelhouër regarda le champ de bataille, puis elle dit à Serpent-d’Eau: </p>
+        <p> – Ce n’est pas si beau, si imposant qu’un lion, un jaguar! </p>
+        <p> – Je n’ai jamais vu de lion! dit le Sioux. </p>
+        <p> » Mais je crois que, de ma vie, je n’ai affronté un aussi grand péril. </p>
+        <p> » Il faut croire que le Grand-Esprit te protège et qu’il a charmé tes balles. </p>
+        <p> Les braves cependant causaient gravement entre eux; ils décidaient de quelque chose. </p>
+        <p> Enfin, l’un d’eux parla au Serpent-d’Eau et celui-ci dit à Mlle de Pelhouër: </p>
+        <p> – Désormais, nous, témoins de ton adresse, nous t’appellerons Balle-Enchantée; mes braves le veulent ainsi. </p>
+        <p> » Ce nom, peu d’hommes ont eu l’honneur de le porter. </p>
+        <p> – C’est un baptême de sang! dit la jeune fille en souriant. </p>
+        <p> Mais elle était très contente, car elle la savait les Indiens ne prodiguaient pas ce glorieux surnom, illustré par quelques trappeur et quelques Indiens héroïques, d’une adresse extraordinaire. </p>
+        <p> S’adressant à l’amazone, le Serpent-d’Eau lui dit au nom des braves: </p>
+        <p> – Toi, tu seras désormais Balle-Infaillible. </p>
+        <p> Mais il envoya prévenir la tribu qui accourut au plus vite. </p>
+        <p> Les guerriers à cheval, d’abord! </p>
+        <p> On juge de l’ovation qu’ils firent aux jeunes filles. </p>
+        <p> Assez longtemps après, les femmes et les enfants, avec les chiens. </p>
+        <p> On dépouilla les jaguars. </p>
+        <p> Peaux et viande furent emportées; car la chair blanche du jaguar ressemble à celle du chat et l’on sait combien celle-ci ressemble à celle du lapin. </p>
+        <p> Elle était destinée à être fumée. </p>
+        <p> La rentrée au camp se fit en chantant les louanges des jeunes filles. </p>
+        <p> Tous les peuples primitifs sont improvisateurs, les cannibales du Congo, nos Soudanais, nos Sénégalais, chantent comme les Indiens, les louanges d’un triomphateur. </p>
+        <p> Et, chose bizarre, partout c’est sur le même air de marche. </p>
+        <p> Et cet air est celui de la nigous gous gous , le plus vieux des airs bretons. </p>
+        <p> Un guerrier ou un brave, ou une jeune fille, improvisait un couplet. </p>
+        <p> Tous le reprenaient en chœur. </p>
+        <p> Puis le refrain éclatait: </p>
+        <p> Elles ont vaincu les jaguars. </p>
+        <p> Nous emportons les fourrures. </p>
+        <p> Elles orneront nos wigwams </p>
+        <p> En souvenir des deux sqaws </p>
+        <p> Qui ont vaincu tant de jaguars. </p>
+        <p> Balle Enchantée, Balle Infaillible </p>
+        <p> Dans cent hivers, nos enfants </p>
+        <p> Chanteront encore vos noms. </p>
+        <p> Ce triomphe barbare avait sa splendeur et un très grand caractère. </p>
+        <p> En tête, le vieux Serpent et ses cinq braves, leurs chevaux chargés des fourrures auxquelles on avait conservé les têtes et les pattes. </p>
+        <p> Têtes menaçantes. </p>
+        <p> Têtes auxquelles les dernières fureurs de l’agonie donnaient une expression terrible. </p>
+        <p> Pattes puissantes, armées de longues griffes acérées. </p>
+        <p> Et derrière ces porteurs de dépouilles, les deux jeunes filles souriantes et charmantes personnifiaient deux races. </p>
+        <p> Puis venaient les Sioux à cheval, dans leurs grands manteaux d’apparat brodés et peints, les flammes des lances flottant au vent, les chevaux scandant le chant de leur pas bien cadencé. </p>
+        <p> De temps à autre, l’un d’eux renâclait fortement, en sentant l’odeur des jaguars, et une lutte s’engageait entre le cheval et l’homme, centaure superbe toujours vainqueur. </p>
+        <p> Plus loin, les femmes s’avançaient chargées de quartiers de venaison. </p>
+        <p> Chairs sanglantes! </p>
+        <p> Profits de la victoire. </p>
+        <p> Ça et là, au milieu des mères, les enfants marquant la mesure du chant en frappant des pierres l’une contre l’autre. </p>
+        <p> Puis les chiens, la queue et la tête basse, craintifs aux senteurs des grands fauves. </p>
+        <p> Le chant barbare retentissait rauque, sonore, entraînant. </p>
+        <p> Au refrain où les voix donnaient toute leur ampleur, la meute hurlait lamentablement et l’effet était saisissant. </p>
+        <p> Scène sauvage en sa simplicité guerrière. </p>
+        <p> Dès que l’on fut arrivé au camp, les feux s’allumèrent. </p>
+        <p> Aussitôt les guerriers piquèrent les cœurs des jaguars avec des lances non empoisonnées et ils dansèrent la danse du cœur. </p>
+        <p> Le cœur de l’ennemi, ours ou jaguar. </p>
+        <p> Mais voilà qu’au lieu d’un seul, il y en avait vingt-trois! </p>
+        <p> Et quand la tribu fut fatiguée de hurler et de danser, on termina la cérémonie en grillant et en mangeant les cœurs… pour s’en donner. </p>
+        <p> Ainsi se termina cette chasse au jaguar dont le souvenir se perpétuera chez les Sioux, tant qu’il restera un Sioux. </p>
+        <p> Mais les Anglo-Saxons y mettront bon ordre et les Sioux disparaîtront. </p>
+      </div>
+      <div title="CHAPITRE XI LES BISONS" type="chapter">
+        <head> CHAPITRE XI </head>
+        <lb/>
+        <p> Quand les Sioux sont campés, ils envoient toujours aux quatre coins de l’horizon des coureurs à la découverte des troupeaux de bisons. </p>
+        <p> Les migrations de ces troupeaux sont très irrégulières et très capricieuses; tant qu’ils trouvent de l’herbe en un endroit, ils y restent. </p>
+        <p> Tantôt ils tirent à droite, tantôt à gauche, tantôt directement devant eux. </p>
+        <p> Mais pendant tout l’été ils poussent au nord. </p>
+        <p> Aux premières neiges, ils redescendent toujours capricieusement vers le sud. </p>
+        <p> De ces habitudes, il résulte que les troupeaux de bisons sont les uns en avance, les autres en retard; le lendemain de la chasse aux jaguars, un coureur signala un de ces troupeaux retardataires. </p>
+        <p> C’était une bonne fortune pour la tribu, qui manifesta la joie la plus vive. </p>
+        <p> Le sachem sortit vivement de sa tente au rapport du coureur, poussa le cri de guerre pour mettre ses guerriers sur pied. </p>
+        <p> Ce cri toute l’Amérique le connaît. </p>
+        <p> Ce cri est celui de tous les Indiens, de ceux du Nord, comme de ceux du Sud. </p>
+        <p> Il produit une singulière expression de déchirement sur l’oreille. </p>
+        <p> C’est une sorte de plainte très longue, suraiguë, poussée au plus haut de la voix et rendue vibrante par de très rapides battues de deux doigts sur les lèvres. </p>
+        <p> Ce cri s’entend à des distances inouïes. </p>
+        <p> Il impressionne beaucoup les blancs, et les officiers américains en ont constaté l’effet démoralisateur sur leurs soldats. </p>
+        <p> Comme tout guerrier, le sachem avait son sifflet de guerre. </p>
+        <p> Ce sifflet est fait avec le fémur d’un dindon sauvage, et selon que l’on se sert de l’une ou de l’autre extrémité, les sons sont différents. </p>
+        <p> Une de ces extrémités est consacrée aux signaux en avant . </p>
+        <p> L’autre donne les signaux de retraite. </p>
+        <p> Mais les modulations sont très diverses. </p>
+        <p> Ainsi elles indiquent un mouvement tournant par la droite ou la gauche, en retraite à droite ou à gauche, etc., etc. </p>
+        <p> Tous les guerriers connaissent les signaux de leur sachem. </p>
+        <p> Tous les braves connaissent ceux de leur guerrier . </p>
+        <p> Ce sont, du reste, les mêmes, mais précédés de la modulation particulière au guerrier. </p>
+        <p> Ces coups de sifflet stridents dominent tous les bruits de la bataille. </p>
+        <p> Le sachem siffla, à l’extrémité dite en avant, une modulation qui signifiait: </p>
+        <p> « En selle, pourchasser le bison! » </p>
+        <p> Pas d’ordre plus agréable à recevoir. </p>
+        <p> Aussi quel empressement! </p>
+        <p> C’est que le gibier par excellence est le bison, qui, à lui seul, ferait vivre l’Indien. </p>
+        <p> Ses territoires sont pourtant des paradis de chasse. </p>
+        <p> On y trouve l’élan superbe, le beau cerf vapay, le daim si tendre, l’ours blanc et l’ours grizly, le cygne, l’oie, le canard, la gelinotte, le coq de bruyère, le dindon sauvage, la perdrix et la caille américaines; du petit gibier de plume ou de poil en quantité incroyable. </p>
+        <p> Mais pour l’Indien, rien ne peut surpasser le bison. </p>
+        <p> D’abord il va par troupeaux de cent à mille, deux mille, trois mille têtes. </p>
+        <p> Quelles hécatombes on peut faire. Et tout est bon dans le bison. </p>
+        <p> La peau d’abord. </p>
+        <p> Elle fournit les grandes tentes de stationnement, les petites tentes de chasse. </p>
+        <p> On en fait les grands manteaux et les tuniques chaudes d’hiver. </p>
+        <p> On en fait les mocassins de fatigue. </p>
+        <p> La langue du bison et la bosse, qui sont d’une finesse de goût incroyable, sont fumées et gardées pour l’hiver. </p>
+        <p> Le reste de la viande surpasse celle du meilleur bœuf français, et, fumée, elle vaut celle des jambons d’York. </p>
+        <p> Le mufle et les pieds donnent des pâtés gélatineux délicieux. </p>
+        <p> Les os des jambes brisés, on retire une moelle plus délicate que du beurre de pré-salé et qui, légèrement salée, se conserve aussi longtemps que de l’huile. </p>
+        <p> Avec les tendons, on fait des cordes d’arc et des cordes diverses. </p>
+        <p> Les nerfs sont du fil à coudre. </p>
+        <p> On couvre les boucliers avec les peaux et celles-ci cousues, les coutures recouvertes de colle-forte pour être imperméables, donnent des outres pour transporter les liquides. </p>
+        <p> Enfin, en faisant fondre les sabots, les Indiens obtiennent une colle-forte incomparable. </p>
+        <p> Ils en enduisent leurs boucliers et, après avoir enroulé des tendons de bison autour de leurs arcs, ils recouvrent le tout de colle-forte qui communique à l’arc une solidité et une élasticité extraordinaire. </p>
+        <p> Il est assez étrange que notre industrie ne se soit pas emparée de ce procédé, dont l’excellence est cependant bien connue. </p>
+        <p> En beaucoup de cas, la meilleure gutta-percha ne vaut pas cette colle-forte indienne. </p>
+        <p> Pour aller à la chasse et à la guerre, les Indiens ont un costume et une peinture. </p>
+        <p> Un costume, cela se comprend, puisque ce costume consiste à être vêtu le moins possible pour ne pas être gêné dans ses vêtements. </p>
+        <p> Coiffure complète! </p>
+        <p> Chaussures complètes! </p>
+        <p> Mais le torse nu! </p>
+        <p> Une sorte de caleçon et c’est tout. </p>
+        <p> Et voilà le pourquoi de la peinture. </p>
+        <p> C’est une protection contre le froid et contre le chaud du soleil. </p>
+        <p> Et c’est une preuve de plus de l’origine indo-sémite des Indiens. </p>
+        <p> En effet, on retrouve cette habitude de se peindre chez tous les nègres d’Afrique, qui sont des sémites originaires de l’Inde. </p>
+        <p> Semi-préhistoriques sur lesquels on a publié récemment de curieuses études. </p>
+        <p> Tout l’Est africain, tout le Centre se teint avec de l’ocre rouge mélangé d’huile de palme ou d’éleusine. </p>
+        <p> Au Soudan, le nègre se contente de se masser avec de l’huile, sans peinture. </p>
+        <p> Nos Arabes, en expédition nocturne, vont entièrement nus. </p>
+        <p> Ils ne veulent pas qu’une main, au cours de leurs vols, puisse saisir leurs vêtements. </p>
+        <p> Leurs membres huilés glissent comme des anguilles dans le poignet qui les empoigne. </p>
+        <p> Et tous ces gens-là sont des sémites. </p>
+        <p> Les Indiens, eux, pilent des braises, de l’ocre rouge, de l’ocre jaune, de la craie ou de l’argile blanche et ils mélangent ces ingrédients avec de la graisse d’ours. </p>
+        <p> Après quoi, ils se peignent en observant les coutumes de leur tribu. </p>
+        <p> Les uns ont la moitié du visage noir, l’autre moitié rouge. </p>
+        <p> D’autres ont le fond rouge, le nez et le front blanc. </p>
+        <p> Il ne faut pas oublier, parmi les armes des Indiens, le tomahawk. </p>
+        <p> C’est une hachette, arme dangereuse, qu’ils lancent avec une très grande adresse. </p>
+        <p> Souvent elle termine le combat ou arrête l’ennemi dans sa fuite. </p>
+        <p> Lancée à trente ou quarante pas de distance, elle s’enfonce dans le cou qu’elle entame profondément. </p>
+        <p> La façon dont les Sioux attaquent un troupeau de bisons rend ce genre de chasse très brillant, très animé. </p>
+        <p> Les cavaliers se précipitent sur l’arrière-garde du troupeau en fuite et chacun d’eux attaque un bison à coups de lance. </p>
+        <p> L’animal, pressé par le cavalier, se retourne menaçant. </p>
+        <p> Cornes basses, il fond sur l’ennemi. </p>
+        <p> Avec le plus grand sang-froid, le Sioux fait volter son cheval et il évite le terrible coup de cornes. </p>
+        <p> Un bison, lancé à toute vitesse, ne peut se retourner brusquement. </p>
+        <p> Il faut qu’il décrive un cercle assez grand et c’est ce qui le perd. </p>
+        <p> Le Sioux qui l’a laissé passer et qui le poursuit, le prend en flanc et le larde de sa lance à plusieurs reprises. </p>
+        <p> L’animal tombe épuisé par la perte de son sang. </p>
+        <p> Mais il arrive que plusieurs bisons chargent un seul cavalier. </p>
+        <p> Celui-ci, en très grand danger, évite avec une adresse admirable ses adversaires et il manœuvre au milieu du tourbillon qui l’enveloppe. </p>
+        <p> C’est un spectacle étourdissant, surtout quand il y a en selle trois cents cavaliers, comme c’était le cas. </p>
+        <p> Les enfants, depuis l’âge de huit ans, étaient en selle et s’apprêtaient à flécher les bisons; ils lancent tant de flèches que les animaux sur lesquels ils s’acharnent ressemblent à de gigantesques porcs-épics. </p>
+        <p> Dès qu’un animal est tombé, les femmes, qui suivent à pied, se jettent sur le mort ou le mourant, le saignent en l’égorgeant, le dépouillent et le découpent sur sa peau. </p>
+        <p> Aux chiens qu’elles écartent à coups de bâtons, elles n’abandonnent que la rate et les poumons dont ils font curée. </p>
+        <p> Cette scène de boucherie est des plus mouvementée. </p>
+        <p> Les trois cents cavaliers arrivèrent sur un troupeau de deux mille têtes. </p>
+        <p> Il s’étendait noir sur la prairie qui sonnait sous ses pas, car il était en marche, suivi par une centaine de loups blancs. </p>
+        <p> Les grands mâles, à l’arrière-garde, repoussaient ces loups que, de temps à autre, ils chargeaient et dispersaient. </p>
+        <p> Après quoi, ils regagnaient au galop leur poste, en queue du troupeau. </p>
+        <p> En somme, les loups ne pouvaient étrangler que les bêtes malingres, fatiguées, qui restaient en arrière. </p>
+        <p> En un instant, le retardataire était entouré, coiffé, étranglé. </p>
+        <p> En dix minutes, il était dévoré. </p>
+        <p> Des combats furieux s’engageaient de loups à loups sur les ossements. </p>
+        <p> À la vue du troupeau, le sachem lança un coup de sifflet. </p>
+        <p> Les chevaux prirent le trot. </p>
+        <p> Le troupeau, sentant le danger, hâta l’allure. </p>
+        <p> Mais les cavaliers gagnaient. </p>
+        <p> Alors les bisons s’emballèrent dans une fuite désordonnée. </p>
+        <p> À mesure que l’on se rapprochait, l’on devenait empesté des chaudes émanations de ces énormes bêtes, aux longs poils puant le suint. </p>
+        <p> Cette âcre odeur saisit les chasseurs à la gorge; elle est si pénétrante qu’elle fait jaillir les larmes des yeux. </p>
+        <p> « Elle fait pleurer, comme si l’on épluchait des oignons », disent les trappeurs. </p>
+        <p> Sur un second coup de sifflet du sachem, la troupe prit le galop. </p>
+        <p> La tempête à cheval (selon la magnifique expression biblique), allait fondre sur un tourbillon de chair vivante et palpitante. </p>
+        <p> Près du sachem, la lance en arrêt, Mlle de Pelhouër et Nadali poussaient comme les Sioux des cris sauvages. </p>
+        <p> On atteignit le troupeau. </p>
+        <p> Les petits archers décochèrent leurs flèches dont pas une n’était perdue. </p>
+        <p> Chaque lancier choisit sa victime. </p>
+        <p> Furieuses clameurs! </p>
+        <p> Beuglements assourdissants! </p>
+        <p> Une trombe d’hommes et de chevaux dans le tourbillon du troupeau. </p>
+        <p> Tout à coup, Mlle de Pelhouër, qui n’avait pas l’habitude de cette chasse, eut son cheval éventré. </p>
+        <p> L’animal tomba, elle avec lui et sous lui. </p>
+        <p> Mais le sachem avait l’œil sur elle; il ne chassait pas. </p>
+        <p> Il surveillait les chasseurs. </p>
+        <p> Son coup de sifflet, appel à ses braves à lui, retentit. </p>
+        <p> Cheval et jeune fille furent entourés, défendus; les bisons furent détournés. </p>
+        <p> Deux hommes qui mirent pied à terre dégagèrent Mlle de Pelhouër. </p>
+        <p> Elle remercia, remonta sur un autre cheval et continua à chasser. </p>
+        <p> On parvint à tuer des centaines de bisons; les chevaux lassés, n’en pouvant plus, on renonça à la poursuite. </p>
+        <p> Quant aux loups blancs, ils s’étaient enfuis dès l’apparition des Sioux. </p>
+        <p> On alluma des grands feux et l’on fit des grillades. </p>
+        <p> On laissa paître les chevaux. </p>
+        <p> Ils étaient dans l’herbe jusqu’au ventre et ils s’en donnaient à cœur joie. </p>
+        <p> Ils hennissaient de plaisir. </p>
+        <p> On fit un repas succulent. </p>
+        <p> Rien que des filets. </p>
+        <p> La viande, bien saisie, saignait sous la dent, ayant gardé toute sa saveur. </p>
+        <p> Mlle de Pelhouër racontait plus tard que, sa vie, elle n’avait fait un meilleur repas. </p>
+        <p> Sa chute ne lui avait fait que quelques contusions sans gravité. </p>
+        <p> Elle en était quitte à bon compte. </p>
+        <p> On chargea sur les chevaux les peaux et la viande et l’on retourna au camp à pied. </p>
+        <p> Peu après l’arrivée, on commença à boucaner les chairs. </p>
+        <p> La tribu était heureuse. </p>
+        <p> Ses réserves d’hiver étaient assurées. </p>
+      </div>
+      <div title="CHAPITRE XII LES OURS GRIZLY" type="chapter">
+        <head> CHAPITRE XII </head>
+        <lb/>
+        <p> Mlle de Pelhouër n’était pas complètement satisfaite au point de vue chasse. </p>
+        <p> Il manquait quelque chose à son bonheur; elle n’avait jamais tué d’ours grizly et cet animal est plus redoutable que l’ours blanc par sa férocité. </p>
+        <p> Qu’il ait faim ou non, s’il rencontre un homme il l’attaque. </p>
+        <p> Aucun autre animal, l’homme excepté, n’ose l’attaquer. </p>
+        <p> C’est une terrible brute. </p>
+        <p> Son coup de patte est tellement lourd qu’il aplatit un cheval, s’il en frappe la croupe, et qu’il l’assomme, s’il le touche au crâne. </p>
+        <p> Son soufflet couche un homme à terre les os de la joue brisés. </p>
+        <p> Son étreinte brise les côtes et casse la colonne vertébrale. </p>
+        <p> Sa morsure brise une cuisse et brise le fémur en esquilles. </p>
+        <p> Du reste, fin, défiant, très rusé et très patient comme tous les ours. </p>
+        <p> Mais, sale bête. </p>
+        <p> Désagréable au possible à rencontrer si l’on n’est pas excellent tireur et de beaucoup de sang-froid pour le tirer à l’œil ou au défaut de l’épaule, la balle traversant le cœur. </p>
+        <p> Mlle de Pelhouër brillait de se mesurer avec un pareil adversaire. </p>
+        <p> Le Serpent-d’Eau lui promit de la mettre en présence d’un ours grizly. </p>
+        <p> Elle promit, elle, à Fleur-de-Juin, la langue et les pieds de l’animal. </p>
+        <p> Il y a pourtant un proverbe qui dit qu’il ne faut pas vendre la peau de l’ours avant de l’avoir tué. </p>
+        <p> Mais la jeunesse est imprudente et se moque des proverbes. </p>
+        <p> Donc, Mlle de Pelhouër et Nadali se mirent en campagne contre l’ours avec le Serpent-d’Eau comme guide et ses braves comme escorte, en emportant des petites tentes et le paquetage ordinaire. </p>
+        <p> Le Serpent se dirigea vers une montagne que l’on apercevait au loin. </p>
+        <p> Les ours aiment les montagnes. </p>
+        <p> Pourquoi? </p>
+        <p> Je n’en ai jamais trouvé l’explication, quoique je l’aie cherchée dans les livres des naturalistes, notamment dans ceux de M. de Buffon. </p>
+        <p> En voilà un qui a une réputation surfaite et sur lequel on se trompe. </p>
+        <p> Naturaliste en chambre, décrivant les animaux empaillés, il doit toute sa renommée à sa littérature, à son style noble et élégant. Mais comme naturaliste, il n’est vraiment pas fort. </p>
+        <p> J’ai vu des braves ouvriers, des pauvres employés, des petits bourgeois souscrire aux œuvres complètes de Buffon. </p>
+        <p> Quelle duperie! </p>
+        <p> Que d’idées fausses! </p>
+        <p> Et quelle insuffisance dans sa méthode; car, à vrai dire, il n’en a pas. </p>
+        <p> Bref, M. de Buffon… et les autres n’ayant pas dit pourquoi l’ours aimait les montagnes, je l’ai demandé à mon ami Chastauet, un Basque, chasseur d’ours pyrénéen. </p>
+        <p> – Mais c’est bien simple, m’a-t-il dit, avec conviction. </p>
+        <p> L’ours adore le miel. </p>
+        <p> Il ne trouve des ruches sauvages que dans la montagne. </p>
+        <p> Il habite dans la montagne. </p>
+        <p> Je donne l’explication pour ce qu’elle vaut et je ne garantis rien. </p>
+        <p> En tout cas, le Serpent-d’Eau se dirigea vers le « Pays aux Ours ». </p>
+        <p> Chemin faisant, ils ont eu occasion de tuer deux oies et quelques canards. </p>
+        <p> L’oie et le canard sauvage sont excellents rôtis à la ficelle. </p>
+        <p> Aussi fit-on, le premier soir de marche, un excellent repas. </p>
+        <p> On conserva précieusement la graisse d’oie qui, avec du maïs pilé, forme une pâte de galette délicieuse à cuire sous la cendre. On se remit en route. </p>
+        <p> Dans la journée, bonne chasse. </p>
+        <p> On tua un renne. </p>
+        <p> Comme il n’avait que trois ans, il était excellent et l’on en mangea les filets. </p>
+        <p> Le reste fut fumé. </p>
+        <p> On coucha au pied de la montagne, tout près du Pays aux Ours. </p>
+        <p> Mlle de Pelhouër et Nadali dormaient profondément sous leur petite tente lorsque, dans le lourd sommeil qui les accablaient, elles eurent le sentiment confus qu’elles étaient exposées à un froid assez vif. </p>
+        <p> Mais, de temps à autre, un souffle chaud leur brûlait la figure. </p>
+        <p> Mlle de Pelhouër s’éveilla la première sous un de ces souffles, ouvrit les yeux et vit sur son visage le naseau d’un ours qui la flairait. </p>
+        <p> Elle avait lu, elle avait entendu dire que l’ours n’attaque jamais un homme endormi; elle eut la présence d’esprit de ne pas bouger et elle attendit avec une héroïque résignation. </p>
+        <p> Elle comprit que l’ours ou les ours avec leur habituelle adresse et leur curiosité coutumière, avaient enlevé la tente. </p>
+        <p> Elle voyait le ciel. </p>
+        <p> L’ours s’éloigna pour aller flairer Nadali, Mlle de Pelhouër se leva d’un bond et chercha son fusil. </p>
+        <p> Il était temps. </p>
+        <p> L’ours ayant entendu du bruit venait sur elle. </p>
+        <p> Elle eut le sang-froid de crier: </p>
+        <p> – Nadali! Nadali! </p>
+        <p> » Aux armes! </p>
+        <p> Et elle tira l’ours à l’œil. </p>
+        <p> Il tomba. </p>
+        <p> Mais il n’était pas seul. </p>
+        <p> Cinq autres avaient envahi le campement et ils voulurent l’écharper. </p>
+        <p> Mais Nadali et les Indiens avaient pris leurs fusils et ils tirèrent. </p>
+        <p> Mlle de Pelhouër avait saisi une des lances plantées en terre, comme ont l’habitude de faire les sauvages au bivac. </p>
+        <p> Elle se défendit contre une ourse, lui plantant le fer dans la poitrine. </p>
+        <p> L’ourse, selon l’instinct de sa race, fonçait sur la jeune fille. </p>
+        <p> Elle lâcha la lance, dont le long manche traîna par terre. </p>
+        <p> Butant sur le sol, il arrêtait l’animal qui, de ses deux pattes le saisit, l’enfonçant tellement et de plus en plus que l’arme au lieu de buter par devant, traîna par derrière. </p>
+        <p> Mais Mlle de Pelhouër avait vu à terre un tomahawk. </p>
+        <p> Elle le ramassa et en asséna deux coups si forts sur la tête de son adversaire, que la cervelle jaillit. </p>
+        <p> Sans perdre une seconde, la jeune fille courut au secours de Nadali. </p>
+        <p> Après avoir tiré inutilement, son fusil ayant raté, elle aussi avait enfilé un ours d’un grand coup de lance. </p>
+        <p> Mais l’animal fonçait. </p>
+        <p> Mlle de Pelhouër, l’abordant de côté, lui cassa la tête comme à l’autre. </p>
+        <p> Le combat finissait. </p>
+        <p> Le dernier ours auquel les indiens avaient affaire venait de tomber. </p>
+        <p> Mais Serpent-d’Eau avait un bras cassé d’un coup de patte. </p>
+        <p> Un brave était à demi-étouffé et il avait une oreille mangée. </p>
+        <p> On le fit revenir à lui et on le pansa; mais tel est le caractère indien que le blessé avait l’air enchanté de son accident. </p>
+        <p> Cette oreille qui lui manquait prouvait qu’il avait combattu corps à corps avec un grizly et l’avait vaincu. </p>
+        <p> Peu d’hommes pouvaient en dire autant. </p>
+        <p> On remonta la tente abattue et l’on se coucha, remettant au lendemain pour dépouiller les ours et les dépecer. </p>
+        <p> Mais la nuit devait être fertile en incidents et tout n’était pas fini. </p>
+        <p> Nadali fut éveillée par un sourd grognement; elle entrouvrit la tente et regarda. </p>
+        <p> Deux beaux jaguars, un mâle et une femelle, dévoraient chacun un ours. </p>
+        <p> Nadali éveilla sa maîtresse. </p>
+        <p> – Pas de bruit! lui dit-elle. </p>
+        <p> » Deux jaguars! </p>
+        <p> Elles prirent leurs fusils. </p>
+        <p> – Nous ne pouvons voir leurs têtes, dit Mlle de Pelhouër. </p>
+        <p> » Tirons-les à l’échine. </p>
+        <p> Cette fois, le fusil de Nadali ne rata pas; les deux jaguars, tirés presque à bout portant, eurent la colonne vertébrale coupée. </p>
+        <p> Ils se mirent, comme toujours en pareil cas, à faire des bonds énormes sur place, mais sans pouvoir avancer. </p>
+        <p> Les Sioux, sortis de leurs tentes, eurent la joie de ce spectacle. </p>
+        <p> Le Serpent-d’Eau voulut tirer sur les jaguars mais Mlle de Pelhouër le pria de n’en rien faire. </p>
+        <p> – Qu’ils dansent pour votre amusement! dit-elle en riant. </p>
+        <p> » Je n’ai aucune pitié pour des bêtes aussi féroces. </p>
+        <p> Enfin, les jaguars expirèrent en poussant le dernier râle d’agonie. </p>
+        <p> De dormir, il ne fut plus question; le ciel commençait à pâlir à l’orient. </p>
+        <p> On dépouilla ours et jaguars et on emporta le plus de viande que les chevaux purent en porter. </p>
+      </div>
+      <div title="CHAPITRE XIII LA CÉRÉMONIE DE LA PRISE DU BOUCLIER" type="chapter">
+        <head> CHAPITRE XIII </head>
+        <lb/>
+        <p> Le lendemain, après conseil des guerriers, tenu sous la présidence du sachem, il fut décidé qu’il y aurait prises de boucliers. </p>
+        <p> Un certain nombre d’adolescents s’étant montrés forts et hardis dans les fléchades de la veille, avaient demandé à être reçus au nombre des braves. </p>
+        <p> Les guerriers désignèrent ceux qu’ils jugeaient capables de l’être. </p>
+        <p> Aussitôt ils se préparèrent à prendre le bouclier . </p>
+        <p> Depuis longtemps chacun de ces aspirants a préparé la carcasse de son bouclier et mis en réserve les peaux de bisons et les sabots nécessaires à cette fabrication de grande importance. </p>
+        <p> Les peaux sont prises sur le cou de l’animal, là où le cuir est le plus épais. </p>
+        <p> Une peau recouvre le bouclier tout entier; une autre est taillée moins grande et quinze peaux se superposent ainsi. </p>
+        <p> La dernière n’est pas plus large qu’une pièce de cent sous. </p>
+        <p> Sur la première peau, on étend une couche chaude de colle forte de sabot et par dessus la seconde peau, ainsi de suite jusqu’à la quinzième avec un glacis superficiel de colle forte bien égalisée, bien lisse, qui amalgame le tout. </p>
+        <p> On conçoit que ce bouclier, étant très bombé, les balles glissent sur lui. </p>
+        <p> Les Indiens ornent leurs boucliers de plumes d’aigle et ils y suspendent des ornements très coquets, très originaux et des sacs-médecine, amulettes que leur vendent leurs sorciers. </p>
+        <p> C’est encore une ressemblance avec les sémites de toute race. </p>
+        <p> En réalité, la cérémonie s’appelle: Le fumage du bouclier . </p>
+        <p> Comme une chasse aux bisons est pour les postulants une occasion de se signaler, les villages voisins savent quel jour cette cérémonie aura lieu, et ils accourent. </p>
+        <p> La foule est nombreuse. </p>
+        <p> Elle est rassemblée autour d’un cercle tracé à terre avec un fer de lance. </p>
+        <p> Chez nous, cette démarcation serait bien vite violée. </p>
+        <p> Rien de pareil chez les Indiens. </p>
+        <p> Point de bousculades. Point de poussées. </p>
+        <p> Tout le monde est calme. </p>
+        <p> On parle sans disputer jamais. </p>
+        <p> Toute querelle entraînerait sur-le-champ un duel mortel. </p>
+        <p> Une violence serait immédiatement punie de mort par la foule. </p>
+        <p> Celle-ci attendait patiemment que les jeunes braves eussent fait leur toilette de guerre. </p>
+        <p> Grosse affaire! </p>
+        <p> Les Indiens passent à se peindre le temps qui s’écoule du lever du soleil à midi; le postulant brave qui a longtemps médité sur les dessins et la peinture qu’il adoptera, les dessine et les peint. </p>
+        <p> Toute sa vie il se peindra de même. </p>
+        <p> C’est à se peinture qu’on le reconnaîtra dans le sentier de la guerre. </p>
+        <p> C’est à sa peinture que le grand esprit le reconnaîtra après sa mort. </p>
+        <p> C’est à sa peinture, qu’admis dans les célestes territoires de chasses, il sera reconnu par ses amis et ses parents morts avant lui. </p>
+        <p> Aussi l’Indien est-il désolé s’il se sent mourir sans avoir eu le temps de se peindre. </p>
+        <p> Cependant, chaque aspirant, dans la nuit, avait creusé profondément en terre un foyer. </p>
+        <p> Au fond, du bois sec recouvert de bois vert et de mousses un peu humides. </p>
+        <p> Au-dessus, la première peau de bison tendue au moyen de chevilles enfoncées dans le sol, autour du foyer très creux. </p>
+        <p> Sur la peau, au centre, un gros tas de colle forte de sabots fondus. </p>
+        <p> À midi, les jeunes gens sortirent des wigwams en chantant. </p>
+        <p> Guerriers et braves les saluèrent en brandissant lances et boucliers. </p>
+        <p> Tous étaient peints et armés en guerre, avec le manteau de cérémonie. </p>
+        <p> Les jeunes gens allumèrent les feux. </p>
+        <p> Alors, braves et guerriers formèrent un cercle, les boucliers se touchant et les lances couchées formant comme une voûte d’armes. </p>
+        <p> Cela rappelle la voûte d’acier des cérémonies franc-maçonniques. </p>
+        <p> Or, Monteil, arrivant chez les sémites musulmans du lac Tchad, dut passer sous la voûte d’acier formée par les armes couchées au-dessus de sa tête; encore une preuve que les Indiens sont Sémites. </p>
+        <p> Aussitôt, commença une danse de guerre qui consistait à tourner en cercle, les boucliers se touchant toujours et les pieds exécutant le pas du sentier de guerre . </p>
+        <p> Les danseurs chantent une évocation à l’esprit du feu. </p>
+        <p> Ils l’abjurent de rendre les boucliers très durs et sans défauts. </p>
+        <p> Quand les boucliers sont terminés, les guerriers et les braves défilent devant leurs nouveaux camarades et les saluent du tomahawk et des boucliers, salut rendu aussitôt. </p>
+        <p> C’est la fin de la cérémonie militaire, il ne reste plus qu’à banqueter. </p>
+        <p> J’ai parlé de combats singuliers terminant les querelles; ils ne sont pas très fréquents, mais dès qu’une injure a été prononcée, ils sont inévitables. </p>
+        <p> Les Sioux ont le point d’honneur très susceptible et il faut prendre garde de les irriter, car alors ils vous provoquent. </p>
+        <p> Et il faut se battre. </p>
+        <p> Cette susceptibilité leur vient d’une pointilleuse vanité. </p>
+        <p> Ils sont en admiration devant leur propre personne. </p>
+        <p> À la vérité, leur corps est bien proportionné, les galbes ont d’harmonieux contours et les formes sont admirables. </p>
+        <p> Tout Indien pourrait passer pour l’Apollon du Belvédère. </p>
+        <p> Peut-être doivent-ils cette rectitude à leur berceau. </p>
+        <p> La mère le porte droit derrière son dos, dans cette position verticale, l’enfant tomberait; on le suspend par les bras, les reins et les genoux et de l’avis de Cattellin cela influe en bien sur la formation du corps. </p>
+        <p> Pour mon compte, je ne le crois pas et j’attribue la beauté corporelle des Indiens à leur vie en plein air et à leurs sports. </p>
+        <p> Toujours est-il que l’Indien se trouve tellement beau, qu’il s’estime demi-dieu et qu’il entend qu’on respecte cette demi-divinité. </p>
+        <p> Pourtant il reconnaît la supériorité du blanc, mais pas corporellement, les trappeurs excepté. </p>
+        <p> Mais les blancs lui semblent tous médecins, c’est-à-dire sorciers. </p>
+        <p> Il craint leur science. </p>
+        <p> Les papiers écrits lui semblent, par exemple, choses mystérieuses. </p>
+        <p> Un Indien tourmentera un blanc pour avoir un talisman contre la maladie, et si le blanc lui donne une vieille lettre ou écrit quelque chose sur une feuille blanche, l’Indien la recevra avec respect et la gardera toute sa vie. </p>
+        <p> Mlle de Pelhouër, sous peine de désobliger ses amis, dut tailler un roseau, s’en faire une plume et écrire, avec l’encre fournie par une baie noire, des talismans sur des peaux d’agneau. </p>
+        <p> Mais que d’heureux elle fit. </p>
+      </div>
+      <div title="CHAPITRE XIV FAUX SIOUX" type="chapter">
+        <head> CHAPITRE XIV </head>
+        <lb/>
+        <p> Cependant, l’Ours-Blanc avait trouvé sa combinaison pour la prise des jeunes filles. </p>
+        <p> Il était allé dans un village sioux éloigné et y avait fait acheter trois vêtements indiens complets. </p>
+        <p> Ainsi muni, il s’était déguisé en Sioux ainsi que ces deux Peaux-Rouges. </p>
+        <p> Ces gens-là savaient peindre en guerre et ils connaissaient les dessins auxquels on reconnaît les Sioux. </p>
+        <p> Ils peignirent donc l’Ours-Blanc et se peignirent eux-mêmes. </p>
+        <p> Et, ainsi transformés, ils rôdèrent autour du village, ayant deux chevaux de mains destinés aux prisonnières et munis de tout ce qui était nécessaire pour les lier sur leurs montures. </p>
+        <p> À tour de rôle, un Indien observait les allées et venues, épiant les occasions. </p>
+        <p> Un matin il s’en présenta une. </p>
+        <p> Mlle de Pelhouër voulait faire plaisir à Fleur-de-Juin qui aimait beaucoup le lièvre, et elle le chassait volontiers. </p>
+        <p> Or, l’heure la plus favorable est le très grand matin. </p>
+        <p> À l’aube, le froid piquant de la nuit redouble; le lièvre, pelotonné en son gîte, est engourdi et dort en boule. </p>
+        <p> Le pas du chasseur ne l’éveille pas à ce moment propice. </p>
+        <p> Donc les jeunes filles partirent en chasse, à pied, un peu avant l’aube. </p>
+        <p> Elles s’éloignèrent peu à peu et, quand l’aurore empourpra le ciel, elles avaient déjà tiré cinq ou six pièces. </p>
+        <p> Tout à coup, elles virent venir à elles deux cavaliers Sioux. </p>
+        <p> Ceux-ci, dont elles ne se méfièrent pas, reconnaissant leurs peintures, s’approchèrent. </p>
+        <p> L’un d’eux, en mauvais français, dit: </p>
+        <p> – Notre sachem, un vieux guerrier, est très malade là-bas. </p>
+        <p> » Il vous a vues. </p>
+        <p> » Il a reconnu une blanche et il demande une médecine. </p>
+        <p> – Conduisez-nous! dit Mlle de Pelhouër. Nous ferons ce que nous pourrons. Les Indiens prirent les devants. </p>
+        <p> On arriva près du prétendu sachem, lequel n’était autre que l’Ours-Blanc. </p>
+        <p> Méconnaissable, cet Ours! </p>
+        <p> Il avait coupé sa barbe et ses longs cheveux blancs. </p>
+        <p> Mais de plus, très rusé, il s’était mis un pan d’étoffe sur le visage. </p>
+        <p> Il râlait. </p>
+        <p> Mlle de Pelhouër se pencha pour enlever l’étoffe, deux bras de fer l’enlacèrent. </p>
+        <p> Étreinte de l’Ours. </p>
+        <p> Elle tomba. </p>
+        <p> Il la maintint sous son genou pendant que les deux Indiens, qui s’étaient jetés sur Nadali, la ligottaient. </p>
+        <p> Ils vinrent ensuite ligotter aussi Mlle de Pelhouër. </p>
+        <p> Puis ils les lièrent chacune sur un cheval, montèrent chacun le leur et filèrent grand train, « avec la marchandise », comme disait en riant le vieil Ours-Blanc. </p>
+        <p> Prises encore une fois! </p>
+      </div>
+      <div title="CHAPITRE XV LES TROIS COUPS DE FEU" type="chapter">
+        <head> CHAPITRE XV </head>
+        <lb/>
+        <p> L’Ours-Blanc se dirigeait vers une retraite inconnue. </p>
+        <p> Un pareil homme, qui avait été trappeur, devait connaître quelque repaire. </p>
+        <p> Sans doute celui-ci était assez éloigné, car, le soir venu, on s’arrêta pour camper. </p>
+        <p> Les deux Indiens dressèrent une petite tente pour les prisonnières, une autre pour le maître et eux. </p>
+        <p> L’Ours était d’une humeur charmante; il se voyait propriétaire de toute la rançon et pensait à la tête que feraient les autres, en apprenant qu’il leur avait joué ce bon tour. </p>
+        <p> Énormément d’argent et le plaisir d’avoir roulé des gens très fins. </p>
+        <p> Nilson surtout! </p>
+        <p> Nilson, le renard chat. </p>
+        <p> En route, l’Ours avait fait desserrer les liens des jeunes filles. </p>
+        <p> On les délia tout à fait. </p>
+        <p> Mais elles ne purent se lever, leurs poignets et leurs jarrets refusaient tout service; elles restèrent couchées. </p>
+        <p> L’Ours fit la cuisine. </p>
+        <p> Il aimait ça. </p>
+        <p> C’était un gourmand. </p>
+        <p> Les Indiens s’occupaient des chevaux. </p>
+        <p> C’était leur affaire. </p>
+        <p> Ils les désellèrent, les entravèrent, mais en leur laissant la possibilité de marcher très lentement, puis ils les bouchonnèrent, les firent boire et les laissèrent paître. </p>
+        <p> L’Ours arrosait consciencieusement un cuissot de daim qui rôtissait tout entier, à la ficelle ou, pour mieux dire, à la corde, devant un très grand feu. </p>
+        <p> Il n’y avait plus qu’une demi-heure de jour et l’Ours convoitait amoureusement son énorme gigot, le couvant de son petit œil gris, et, puisant avec une cuillère le jus tombé dans la gamelle, il commençait par en arroser la corde de suspension pour qu’elle ne brûlât pas; puis il humectait toutes les parties du rôti, imprimant à la corde un mouvement de rotation lent. </p>
+        <p> Tantôt le cuissot tournait dans un sens, tantôt dans l’autre. </p>
+        <p> Et un délicieux parfum de viande bientôt rôtie à point se répandait dans l’air. </p>
+        <p> Les Indiens vinrent s’asseoir près du maître qui leur dit: </p>
+        <p> – Mes enfants ma fortune est faite. </p>
+        <p> » Aussi la vôtre. </p>
+        <p> » Vous resterez avec moi. </p>
+        <p> » Vous serez très heureux. </p>
+        <p> » Vous vous marierez! </p>
+        <p> » Je vous nourrirai bien, vous, vos femmes et vos enfants. </p>
+        <p> » Je vous donnerai de bons gages. </p>
+        <p> » Et nous boirons de bons coups. </p>
+        <p> Puis riant: </p>
+        <p> – Croyez-vous que nous les avons adroitement frappées ces jeunes filles. </p>
+        <p> » Mon idée était bonne. </p>
+        <p> » Belle réussite! </p>
+        <p> Et les Indiens d’approuver. </p>
+        <p> Tout à coup une détonation retentit. </p>
+        <p> Coup de feu tiré à cent cinquante mètres, mais dont on ne voyait pas la fumée. </p>
+        <p> Le tireur était masqué par un taillis et invisible. </p>
+        <p> L’Ours tomba la poitrine trouée par une balle. </p>
+        <p> Les deux indiens sautèrent sur leurs fusils; mais sur qui tirer? </p>
+        <p> Une seconde balle frappa un d’eux au bas ventre. </p>
+        <p> Il se roula par terre. </p>
+        <p> Le second Indien prit la fuite. </p>
+        <p> Il fut arrêté par une balle dans les reins. </p>
+        <p> Alors le tireur se leva. </p>
+        <p> C’était Rayon-d’Or. </p>
+        <p> Il s’avança l’arc à la main, une flèche prête à être envoyée, une autre dans les dents, le fusil en bandoulière. </p>
+        <p> Il tira sur le premier Indien agonisant et le perça de deux flèches. </p>
+        <p> Dès lors, courte fut son agonie. </p>
+        <p> L’autre, face contre terre, remuait pourtant encore un peu. </p>
+        <p> Rayon-d’Or lui lança son tomahawk qui sépara à demi la tête du tronc. </p>
+        <p> Il reprit son arme, l’essuya sur l’herbe, la remit à sa ceinture, puis il retira du corps de l’autre Indien les deux flèches dont il essuya les pointes et il les mit en son carquois. </p>
+        <p> Puis il alla voir les prisonnières. </p>
+        <p> – Vous voilà délivrées! leur dit-il. </p>
+        <p> » L’Ours est mort! </p>
+        <p> » Morts ses indiens! </p>
+        <p> » Mais vous ne pouvez marcher. </p>
+        <p> Il les frictionna aux poignets avec du rhum pris dans sa gourde et la circulation se rétablit très vite. </p>
+        <p> – Je vous laisse le rhum! dit-il. </p>
+        <p> » Frictionnez vos jarrets. </p>
+        <p> » Nous causerons tour à l’heure. </p>
+        <p> » Je vais soigner le rôti. </p>
+        <p> Et il alla imprimer à la ficelle un mouvement de rotation. </p>
+        <p> Puis il déposa ses armes, ne gardant que son couteau, et il alla scalper les morts. </p>
+        <p> Rapide opération! </p>
+        <p> Il alla au ruisseau qui coulait près du campement, y lava les scalps, les égoutta et les mit à sécher devant le feu. </p>
+        <p> De temps à autre, il faisait tourner le rôti doucement. </p>
+        <p> Mais quand les scalps furent à peu près secs, il les découpa en lanières garnies de cheveux qu’il enroula autour de ses jambes. </p>
+        <p> Il en portait déjà, je l’ai dit. </p>
+        <p> Il se leva pour voir l’effet que cela produisait et il dit: </p>
+        <p> – Pour un guerrier aussi jeune que moi, voilà des mocassins bien ornés! </p>
+        <p> Les prisonnières étaient parvenues à se lever; elles se donnaient mutuellement le bras pour marcher et elles vinrent s’asseoir au foyer. </p>
+        <p> – Monsieur Rayon-d’Or, dit Mlle de Pelhouër, je vous serai toute ma vie reconnaissante. </p>
+        <p> – Moi aussi! dit Nadali. </p>
+        <p> – Mais comment avez vous su que nous étions prises par l’Ours-Blanc? </p>
+        <p> – Mademoiselle, dit-il, j’ai faim et vous devez être en appétit. </p>
+        <p> » Dînons d’abord! </p>
+        <p> » Après nous causerons. </p>
+        <p> » Le principal est que vous soyez délivrées, le reste est secondaire. </p>
+        <p> Il détacha le rôti, le posa dans la gamelle et coupa. </p>
+        <p> – Tout à fait à point, fit-il en voyant le jus rose jaillir sous le couteau. </p>
+        <p> » Un jeune daim. </p>
+        <p> » Bête de choix! </p>
+        <p> » Troisième tête! </p>
+        <p> Il servit les jeunes filles. </p>
+        <p> Celles-ci mangèrent de bon appétit, malgré le voisinage du corps de l’Ours, sur lequel Bois-Brûlé était assis sans façon. </p>
+        <p> Il offrit d’aller chercher le corps de l’Indien pour en faire un siège aux deux jeunes filles qui acceptèrent sans façon. </p>
+        <p> Nadali, ex-amazone de Béhanzin, avait mangé de la chair fraîche de captifs décapités lors des fêtes des Grandes Coutumes, sous le roi Béhanzin, et elle n’avait pas précisément l’âme très tendre et pitoyable à l’ennemi. </p>
+        <p> Mlle de Pelhouër haïssait comme elle aimait. </p>
+        <p> L’ennemi pour elle était l’ennemi. </p>
+        <p> Elle ne se regardait comme tenue à aucun égard pour un adversaire mort. </p>
+        <p> La faim apaisée, on causa. </p>
+        <p> – Voilà ce qui s’est passé! dit Rayon-d’Or. </p>
+        <p> » Les directeurs avaient été vous enlever à l’île de Bank’s. </p>
+        <p> » Ils y retournaient. </p>
+        <p> » Ils savaient le chemin. </p>
+        <p> » Je n’avais qu’à suivre leur piste. </p>
+        <p> » Et je puis me vanter d’être un bon pisteur; je suis renommé comme tel. </p>
+        <p> » Je me dis donc que je n’avais qu’à suivre les directeurs à un jour de distance. </p>
+        <p> » Bien embusqué, je les surveillais et ils partirent. </p>
+        <p> » Et ils passèrent non loin de moi qui m’étais blotti sous bois, près de leur sentier; et je les ai entendus parler. </p>
+        <p> – Ah! disait l’un, ce pauvre Ours-Blanc est bien malade! </p>
+        <p> – Il est fou! </p>
+        <p> – Sa cervelle est détraquée! </p>
+        <p> – Jamais ça ne se remettra. </p>
+        <p> – Je n’aurais pas cru ses blessures si graves; les coups ont porté. </p>
+        <p> Ici Rayon-d’Or s’interrompit. </p>
+        <p> – Je ne sais qui a frappé l’Ours! dit-il. </p>
+        <p> – Moi, dit Mlle de Pelhouër. </p>
+        <p> Elle conta ce qui s’était passé. </p>
+        <p> Rayon-d’Or en rit. </p>
+        <p> – J’étais, reprit-il, convaincu que l’Ours était très malade. </p>
+        <p> Un des Indiens s’assura au galop que les directeurs s’éloignaient. </p>
+        <p> Au galop, il retourna en prévenir son maître resté au camp. </p>
+        <p> Et l’Ours se leva. </p>
+        <p> Et l’Ours dansa de joie. </p>
+        <p> Je compris qu’il avait trompé les autres et je devinai ses projets. </p>
+        <p> Je l’ai suivi pas à pas et je vous ai délivrées. Voilà l’histoire! </p>
+        <p> – Mais, demanda Mlle de Pelhouër non sans étonnement, pourquoi ne nous avez-vous pas prévenues? </p>
+        <p> – Ne fallait-il pas, dit-il, que l’Ours vous prit? </p>
+        <p> – Pourquoi? </p>
+        <p> Il se mit à rire. </p>
+        <p> – Enfin, dit-il, vous avouerez que je ne suis pas bête, parce que je suis plus fin que vous, une blanche. </p>
+        <p> Il en était enchanté. </p>
+        <p> – De qui donc, demanda-t-il, étiez vous prisonnières? </p>
+        <p> – De l’Ours. </p>
+        <p> – Mais avant? </p>
+        <p> – Des Sioux. </p>
+        <p> – Et les Sioux avaient juré de ne vous rendre qu’aux directeurs. </p>
+        <p> » Et, quand un Sioux a fait serment, c’est sacré! </p>
+        <p> » Il tient parole. </p>
+        <p> » Mais voilà les Sioux déliés du serment qu’ils ont fait. </p>
+        <p> » Du moment où l’Ours vous a enlevées, vous n’êtes plus prisonnières des Sioux. </p>
+        <p> – C’est vrai! </p>
+        <p> – Si, délivrées de l’Ours, vous retourniez chez les Sioux, c’est en amies et non plus en captives, puisque vous avez recouvré votre liberté en tuant l’Ours. </p>
+        <p> – Mais nous ne l’avons pas tué. </p>
+        <p> – Il faut que ce soit vous!… </p>
+        <p> » Je vais scier les faces de ces trois hommes, ça fera comme trois masques. </p>
+        <p> » Je vais chercher une ruche sauvage et l’enfumer. </p>
+        <p> » Outre que nous mangerons du miel, nous enduirons les faces de ces brigands. </p>
+        <p> » Vous les montrerez et vous demanderez si on les reconnaît. </p>
+        <p> » On vous répondra oui. </p>
+        <p> » Alors vous raconterez votre enlèvement. </p>
+        <p> » Puis, vous direz que, dans la nuit, vous avez pu prendre des fusils et tuer ces scélérats qui avaient bu trop de rhum. </p>
+        <p> » Et vous exigerez du sachem et des guerriers qu’ils reconnaissent que vous êtes libres. </p>
+        <p> » Ils le feront. </p>
+        <p> » Mais promettez au sorcier un beau cadeau pour qu’il soit pour nous. </p>
+        <p> Riant: </p>
+        <p> – Ils sont crédules, ces pauvres Sioux, et un sorcier leur fait faire ce qu’il veut. </p>
+        <p> – Nous pourrions emporter les têtes entières! dit Mlle de Pelhouër. </p>
+        <p> – Et les scalps? </p>
+        <p> » Car je les ai scalpées, ces têtes. </p>
+        <p> » On vous demanderait ce que sont devenues les chevelures. </p>
+        <p> – Rayon-d’Or, vous avez toujours raison! </p>
+        <p> » Avec quoi scierez-vous ces têtes? </p>
+        <p> – Oh, il doit y avoir une égoïne dans le bagage des morts. </p>
+        <p> » C’est un instrument indispensable dans les campements et les cavaliers emportent toujours une de ces scies. </p>
+        <p> Il se mit à chercher une égoïne, la trouva et se livra à son travail anatomique en sifflant. </p>
+        <p> Nadali dit: </p>
+        <p> – Ce petit homme est un homme. </p>
+        <p> Elle se sentait pleine de reconnaissance et d’admiration pour ce jeune Bois-Brûlé qui s’était si lestement débarrassé de trois hommes. </p>
+        <p> Quand Rayon-d’Or eut terminé, il dit aux jeunes filles: </p>
+        <p> – Et maintenant, dormons. </p>
+        <p> » Je suis fatigué et j’ai sommeil. Bonne nuit! </p>
+        <p> Il se glissa sous sa tente. </p>
+        <p> Peu après les jeunes filles en firent autant et s’endormirent. </p>
+        <p> Nuit tranquille. </p>
+      </div>
+      <div title="CHAPITRE XVI BON VOYAGE" type="chapter">
+        <head> CHAPITRE XVI </head>
+        <lb/>
+        <p> Le lendemain, il faisait grand jour quand les jeunes filles s’éveillèrent. </p>
+        <p> Elles virent des gâteaux de miel enterrés par piles. </p>
+        <p> Rayon-d’Or avait trouvé et enfumé une ruche où le miel et la cire abondaient, et il était en train d’enduire les faces avec du miel d’abord et de la cire fondue ensuite; il surveillait de l’œil le déjeuner. </p>
+        <p> C’étaient trois lièvres qu’il avait tués et qui rôtissaient à la brochette. </p>
+        <p> Les jeunes filles le saluèrent. </p>
+        <p> Il venait de terminer sa besogne et il se mit à sceller les chevaux pendant que ses amies allaient au ruisseau. </p>
+        <p> Il y en avait cinq. </p>
+        <p> On déjeuna de bon appétit, puis on se mit en route. </p>
+        <p> L’on marcha assez longtemps et l’on vit enfin, au loin, le village. </p>
+        <p> Rayon-d’Or dit aux jeunes filles: </p>
+        <p> – Vous ne pouvez plus vous perdre! Je vous laisse aller. </p>
+        <p> – Comment, vous ne venez pas? </p>
+        <p> – Pour que l’on dise que c’est moi qui vous ai délivrées… </p>
+        <p> » Vous ne vous rappelez donc plus ce que nous avons dit hier? </p>
+        <p> – Et vous allez? </p>
+        <p> – Voir votre oncle. </p>
+        <p> » Porter votre lettre. </p>
+        <p> » Lui donner la nouvelle de votre délivrance pour qu’il ne traite pas avec les directeurs qui seront bien attrapés. </p>
+        <p> » Et maintenant, au revoir. </p>
+        <p> Mlle de Pelhouër tendit sa main au jeune homme et lui dit: </p>
+        <p> – Vous saurez, Monsieur Rayon-d’Or, que nous sommes toujours vos amies et que nous voulons que vous nous teniez pour telles. </p>
+        <p> » Quant à vous récompenser, j’en laisse le soin à mon oncle. </p>
+        <p> – Eh bien non! </p>
+        <p> » C’est vous, mademoiselle, qui me récompenserez vous-même. </p>
+        <p> Et il piqua des deux. </p>
+        <p> Elles lui crièrent: </p>
+        <p> – Bon voyage. </p>
+        <p> Sur ce, elles se dirigèrent vers le village. </p>
+      </div>
+      <div title="CHAPITRE XVII RÉFLEXIONS" type="chapter">
+        <head> CHAPITRE XVII </head>
+        <lb/>
+        <p> – N’as-tu pas remarqué, Nadali, que Rayon-d’Or avait un air bizarre et comme embarrassé en me disant que je le récompenserais? </p>
+        <p> – Oui! </p>
+        <p> » Il doit avoir une arrière-pensée. </p>
+        <p> – Je le crois. </p>
+        <p> – Mais laquelle? </p>
+        <p> » Je ne la devine pas. </p>
+        <p> Nadali avec un soupir: </p>
+        <p> – Je devine, moi! </p>
+        <p> » Il veut se marier avec vous! </p>
+        <p> Elle, le sourcil froncé, l’œil plein d’éclairs, avec un geste énergique: </p>
+        <p> – Pour ça, jamais… </p>
+        <p> Nadali ne dit plus mot. </p>
+        <p> Mais elle se plongea dans un océan de réflexions. </p>
+        <p> Ni elle, ni sa maîtresse ne desserrèrent les dents jusqu’au village. </p>
+        <p> On juge de la joie des Sioux en les revoyant saines et sauves. </p>
+        <p> Sur leur demande, le conseil s’assembla; mais Mlle de Pelhouër avait parlé au sorcier et l’avait chargé d’être leur avocat. </p>
+        <p> Il gagna son procès. </p>
+        <p> À l’unanimité, les guerriers déclarèrent que les jeunes filles étaient libres. </p>
+        <p> Elles restèrent au village, mais en amies. </p>
+      </div>
+      <div title="CHAPITRE XVIII EXÉCUTÉS !" type="chapter">
+        <head> CHAPITRE XVIII </head>
+        <lb/>
+        <p> M. d’Ussonville venait avec sa troupe sur les directeurs et eux sur lui, ni l’un ni les autres ne s’en doutant. </p>
+        <p> Quand on se dirige à la boussole, on coupe autant que possible au plus court; on a grande chance, allant l’un contre l’autre, de se rencontrer, et ce fut ce qui arriva au cours d’une marche. </p>
+        <p> Les directeurs s’abouchèrent aussitôt avec M. d’Ussonville. </p>
+        <p> Celui-ci lut la lettre de sa nièce longuement et il l’étudia en silence. </p>
+        <p> Enfin, hautement et plein de mépris pour ces maîtres-chanteurs, M. d’Ussonville leur demanda: </p>
+        <p> – À combien la rançon? </p>
+        <p> Mais, en ce moment, Rayon-d’Or fit irruption dans la tente du commandant. </p>
+        <p> Celui-ci eut le pressentiment que c’était là un courrier de sa nièce. </p>
+        <p> – Que voulez-vous? demanda-t-il. </p>
+        <p> – Un entretien! </p>
+        <p> » Nouvelles intéressantes et pressées. </p>
+        <p> – Messieurs, dit le commandant, attendez-moi! </p>
+        <p> » Ce ne sera pas long. </p>
+        <p> Il sortit avec Rayon-d’Or. </p>
+        <p> Celui-ci tendit la lettre de sa nièce et lui apprit la situation nouvelle. </p>
+        <p> Le commandant sourit. </p>
+        <p> Il fit ranger dix hommes devant la tente, dix hommes armés du terrible fusil américain (cinquante balles explosibles à la minute), et il leur commanda de faire feu continu. </p>
+        <p> Un seul directeur parvint à sortir de la tente, mais il tomba roide mort. </p>
+        <p> Justice était faite! </p>
+      </div>
+      <div title="CHAPITRE XIX SCÈNE D’AMOUR" type="chapter">
+        <head> CHAPITRE XIX </head>
+        <lb/>
+        <p> Md’Ussonville, après cette sanglante exécution, voulut rejoindre sa nièce au plus vite. </p>
+        <p> On partit donc. </p>
+        <p> En traîneaux ou en voitures légères attelés de chiens, on fila avec une rapidité extraordinaire; aussi, arriva-t-on à la tribu des Sioux en peu de jours. </p>
+        <p> Le sachem reçut M. d’Ussonville avec de très grands honneurs. </p>
+        <p> Le commandant, en passant dans les forts-factoreries où, comme on le sait, il était le maître, avait pris cinq cents fusils, de la poudre et des balles et il les apportait. </p>
+        <p> On juge de la joie de la tribu et de son sachem. </p>
+        <p> Rayon-d’Or, auquel tout le monde rendait justice, reçut les plus vifs compliments; mais il avait son idée. </p>
+        <p> Il voulait parler à Mlle de Pelhouër et celle-ci évitait les occasions. </p>
+        <p> Mais Rayon-d’Or n’était pas un jeune homme à se payer des fuites, refuites, feintes et habiletés d’une personne qui ne tenait pas à lui parler, ce qui devenait évident. </p>
+        <p> Donc, il écrivit sur une belle peau d’agneau bien blanche: </p>
+        <p> « Mademoiselle, </p>
+        <p> « Il faut absolument que j’aie un entretien avec vous. </p>
+        <p> « Naturellement, vous pourrez avoir auprès de vous qui vous voudrez, excepté Mlle Nadali ou Mme Taki-Data et Taki-Nadou. </p>
+        <p> « Je ne vous tiendrai pas longtemps et je plaiderai ma cause en quelques mots. </p>
+        <p> « Je vous prie d’agréer l’assurance de mon respectueux dévouement. </p>
+        <p> « Votre serviteur, </p>
+        <p> « RAYON-D’OR ». </p>
+        <p> Au reçu de cette lettre, Mlle de Pelhouër fut très perplexe. </p>
+        <p> Que lui voulait-il, ce Rayon-d’Or? </p>
+        <p> Hélas! </p>
+        <p> Elle le devinait. </p>
+        <p> Mais jamais elle ne consentirait à devenir Mme Rayon-d’Or. </p>
+        <p> Oh! pour cela, non. </p>
+        <p> Jamais! </p>
+        <p> Jamais! </p>
+        <p> Mais enfin il fallait en finir. </p>
+        <p> Elle se flanqua de sa tante mistress Mortonet fit dire à Rayon-d’Or qu’elle était prête à l’écouter. </p>
+        <p> Rayon-d’Or ce présenta d’un air embarrassé qui ne lui était pas habituel. </p>
+        <p> Mlle de Pelhouër en augura mal et se tint sur ses gardes. </p>
+        <p> Rayon-d’Or salua la tante d’abord, puis la nièce. </p>
+        <p> Après quoi, il dit: </p>
+        <p> – Mademoiselle, j’ai une nouvelle à vous donner; votre oncle m’a engagé à son service. </p>
+        <p> – Ah! fit-elle. </p>
+        <p> Lui, souriant: </p>
+        <p> – Ça change tout. </p>
+        <p> – En quoi? </p>
+        <p> – Ça rend possible un mariage que j’ai projeté, mademoiselle. </p>
+        <p> Mlle de Pelhouër prit un air sévère, pendant que sa tante, vieille colombe attendrie, roucoulait maladroitement: </p>
+        <p> – Ah! vous voulez vous marier, monsieur Rayon-d’Or? </p>
+        <p> » Vous avez raison. </p>
+        <p> Mlle de Pelhouër, irritée: </p>
+        <p> – Qu’en savez-vous, ma tante! </p>
+        <p> Et brusquement au Bois-Brûlé: </p>
+        <p> – En quoi donc, monsieur, ce mariage me regarde-t-il? </p>
+        <p> – Mademoiselle, il faut bien que je demande la main de Mlle Nadali à quelqu’un et vous êtes sa maîtresse. </p>
+        <p> Mlle de Pelhouër, radieuse: </p>
+        <p> – Ah! c’est Nadali que vous avez en vue? </p>
+        <p> – Vous devez bien vous en douter un peu, je crois, mademoiselle. </p>
+        <p> – Oui! oui! fit-elle. </p>
+        <p> Mais ce n’était pas vrai. </p>
+        <p> – Elle était enchantée de la tournure que prenaient les choses. </p>
+        <p> – C’est bien! reprit-elle. </p>
+        <p> » Je ne pense pas que vous soyez indifférent à Nadali; mais il y a un obstacle. </p>
+        <p> » Elle a juré, sur l’autel de ses dieux, de ne jamais se marier. </p>
+        <p> Rayon-d’Or dit: </p>
+        <p> – Je le sais! </p>
+        <p> » Mais je lui ai demandé, un jour, si notre Dieu ne valait pas les siens. </p>
+        <p> » Elle m’a répondu que c’était le Dieu de sa maîtresse. </p>
+        <p> » Elle se convertirait très volontiers si vous vouliez vous en mêler. </p>
+        <p> Mlle de Pelhouér se mit à rire. </p>
+        <p> – Allons, dit-elle, pour qu’une amazone pût se marier, j’ai déjà fait le missionnaire et j’ai réussi. </p>
+        <p> » J’espère qu’il en sera de même cette fois et je vais m’en occuper. </p>
+        <p> – Mademoiselle, mille fois merci. </p>
+        <p> Et Rayon-d’Or prenant la main de Mlle de Pelhouër, la baisa respectueusement et saluant mistress Morton, il lui dit en riant: </p>
+        <p> – Madame, j’ai bien vu tout à l’heure que vous étiez pour le mariage. </p>
+        <p> » Je remets aussi ma cause, entre vos mains. </p>
+        <p> Il se retira. </p>
+      </div>
+      <div title="CHAPITRE XX L’AMOUR MISSIONNAIRE" type="chapter">
+        <head> CHAPITRE XX </head>
+        <lb/>
+        <p> Il était très séduisant, Rayon-d’Or, et très brave. </p>
+        <p> Une grande qualité aux yeux d’une amazone de Béhanzin. </p>
+        <p> De plus, il était un guerrier très intelligent, très rusé. </p>
+        <p> Nadali l’avait en haute estime. </p>
+        <p> Elle se laissa convaincre… facilement. </p>
+        <p> Elle s’était fait raconter par Mlle de Pelhouër la vie de Jésus qui l’avait prodigieusement intéressée. </p>
+        <p> Elle était comme toutes les Dahoméennes, friande de légendes religieuses. </p>
+        <p> Elle connaissait les sacrements, dont elle s’était entretenue avec sa maîtresse; elle apprit le credo, l’ave, le pater, les commandements de Dieu et de l’Église. </p>
+        <p> Tant et si bien que quand le missionnaire catholique, que l’on était allé quérir chez les Iroquois, arriva, il interrogea Nadali et n’hésita pas à la baptiser et à la marier en grande pompe. </p>
+        <p> Les Sioux et les compagnons de M. d’Ussonville firent beaucoup parler la poudre, ce jour-là. </p>
+        <p> Ce fut une belle fête. </p>
+        <p> Trois jours de banquets et de danses arrosés de rhum. </p>
+      </div>
+      <div title="CHAPITRE XXI DÉNOUEMENT" type="chapter">
+        <head> CHAPITRE XXI </head>
+        <lb/>
+        <p> Enfin tout le monde de M. d’Ussonville monta dans les voitures légères et l’on repartit vers le pôle. </p>
+        <p> La mère et la sœur de Rayon-d’Or le suivirent, abandonnant leur tribu pour toujours. </p>
+        <lb/>
+        <p> À SUIVRE: « AU PÔLE ET AUTOUR DU PÔLE » </p>
+      </div>
+      <head/>
+    </body>
+    <back/>
+    <back/>
+  </text>
+</TEI>
