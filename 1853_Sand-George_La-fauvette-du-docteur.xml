@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF8'?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>La fauvette du docteur</title>
+        <author from="1804" key="" name="Sand, George" sex="female" to="1876"/>
+        <edition n="">""</edition>
+        <editor name="Blanchard" where="Paris"/>
+      </titleStmt>
+      <publicationStmt>
+        <date type="created" when="1844"/>
+        <date type="issued" when="1853">""</date>
+      </publicationStmt>
+      <editionStmt>
+        <profileDesc tag="canon" type="genre">
+          <textClass>
+            <keywords>
+              <term>nouvelles</term>
+            </keywords>
+          </textClass>
+        </profileDesc>
+      </editionStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docAuthor/>
+        <docTitle>
+          <titlePart main=""/>
+          <titlePart sub=""/>
+        </docTitle>
+      </titlePage>
+    </front>
+    <body>
+      <head>La fauvette du docteur</head>
+      <p>Nous avions pour hôte à la campagne, il y a quelques années, un vieux docteur que nous aimions, bien qu’il fût insupportable, parce qu’il avait du bon malgré ses manies. Entre autres maussades habitudes, il fuyait la société des femmes. On eût dit qu’il les haïssait, et pourtant la cause de leur émancipation avait en lui un défenseur opiniâtre. Il semblait qu’il se réservât pour le temps où elles seraient dignes d’être admises à l’égalité sociale, car il ne voulut jamais se marier, et lorsque, pour le taquiner, on le lui conseillait, il répondait avec un sérieux admirable : « Plus tard, plus tard ; il n’est pas encore temps pour moi. » Or il avait quatre-vingt-deux ans. Huit jours avant sa mort, il nous parut tout gai, tout rajeuni, et comme nous en faisions la remarque, il nous déclara, d’un air enjoué, qu’il avait enfin trouvé la compagne de sa vie, et qu’il se sentait véritablement épris, d’autant plus qu’il se croyait parfaitement aimé. Comme rien dans sa vie de cénobite ne nous parut changé, nous prîmes cet excès de fatuité pour une des rares facéties qui déridaient, une ou deux fois par an, son front chagrin. Un matin, il ne vint pas déjeuner, nous allâmes le chercher, et nous le trouvâmes penché et comme assoupi sur ses livres. Un petit oiseau voltigeait dans sa chambre, dont la fenêtre ouverte laissait tomber sur son vieux crâne les rayons joyeux du soleil de juin. Il était mort.</p>
+      <p>En rangeant et en examinant ses papiers, nous trouvâmes les pages suivantes, qui étaient restées éparses sur sa table.</p>
+      <p>24 juin 1837. – « Pauvre petite misérable fauvette, grosse comme une mouche, pesante comme une plume, tombée de ton nid hier soir avant que tes ailes soient poussées, et déjà installée dans le creux de ma main, becquetant mes doigts, et te traînant vers mon sein quand je t’appelle, qui te donne cette confiance, et quel amour comptes-tu donc trouver en moi pour supporter et secourir ta faiblesse ? Ce pli de ma manche où tu te réfugies n’est pas ton nid. Tu ne peux pas te tromper si grossièrement ; tu n’as pas déjà perdu le souvenir de ta famille ; tu entends encore ta mère éplorée qui t’appelle et te cherche sur toutes les branches de l’arbre voisin. Si elle osait, elle volerait jusqu’à ma fenêtre ; si tu pouvais, tu irais la rejoindre : car, je le vois, tu reconnais ses cris ; ton bel œil noir semble prêt à répandre des larmes, ta petite tête, encore chauve, se tourne de tous côtés avec inquiétude, et de ton sein tremblant s’échappent de faibles plaintes. Pauvre enfant, créature si frêle, que la nature semble s’être jouée d’elle en lui donnant l’être !</p>
+      <p>« ... Il y a pourtant, dans cet atome emplumé, une parcelle d’intelligence et d’amour. Il y a de la divinité en toi, fauvette de huit jours ! tu regrettes ta mère, et tes frères, et ton père, et ton nid, et ton arbre, et une pâture plus agréable, mieux appropriée à ton organisation délicate que celle que je puis te donner. Tu regrettes, car tu es triste ; tu te souviens, car tu réponds à la voix de ta mère ; tu aimes, par conséquent ! – Et pourtant, tu te soumets ; ta faiblesse intelligente se réfugie dans ma bonté. Tu acceptes mes soins et tu sais les solliciter par un air de confiance et d’abandon qui désarmerait le cœur le plus dur.</p>
+      <p>« Tu n’es pas belle, hélas ! ta robe cendrée n’a ni éclat ni variété. Ton duvet inégal, hérissé, les pennes de ta queue encore roulées dans un étui de pellicule, te donnent une si pauvre apparence, que le premier mouvement que tu provoques en t’approchant, c’est une chiquenaude. Mais la nature a voulu départir l’intelligence à ceux-ci, la beauté à ceux-là. Tandis que mon vanneau promène sans but et sans volonté, d’un air fier et stupide, sa robe d’émeraude et son noir panache, toi, avorton, quasi sans forme et sans couleur, tu sais donner à ton regard et à tes attitudes naïves une expression qui me fait deviner tes besoins et tes désirs. »</p>
+      <p>26 juin. – « Voici le Docteur amoureux pour tout de bon. Il était bien temps. Le voilà pris. Il n’a pas pu écrire trois lignes aujourd’hui. L’objet de son amour n’a fait que gambader sur son papier, sautiller sur sa plume et salir ses manuscrits. Le Docteur s’est levé sept fois de son lit ce matin pour lui attraper des mouches et les lui faire avaler proprement. Enfin, il est stupide comme un vieillard amoureux. Pauvre docteur ! où diable as-tu été placer tes affections ? Ton idole ne pèse pas un gramme. Il ne faut qu’une antenne d’insecte un peu trop forte pour lui donner une indigestion et la faire descendre au tombeau. Une amante âgée de dix jours ! Ses plumes sont si rares et si courtes, que, si tu ne la tenais toute la nuit dans ton sein, elle serait morte de froid en plein été. Vieux cœur ! il te reste donc encore assez de feu pour réchauffer une fauvette ?</p>
+      <p>« Il y a longtemps que je ne m’étais attaché aux bêtes comme cela m’arrive cette année. Cela signifie quelque chose. Est-ce que j’aurais, pour la centième et dernière fois, déserté le culte de l’intelligence ? Est-ce que celui de la force me serait devenu si odieux, que je voudrais irrévocablement retourner à la sollicitude pour les petits ?</p>
+      <p>« Pourquoi cette bête menue te semble-t-elle si adorable ? – C’est qu’elle vient à ta voix se blottir dans ta main ; c’est qu’elle te connaît ; c’est qu’elle t’aime ; c’est qu’elle te sent bon, secourable et nécessaire. c’est que dix jours ont suffi pour qu’elle s’abandonnât sans retour et sans réserve. – C’est qu’elle ne connaît et n’aime que toi sur la terre aujourd’hui. De qui, Docteur, pourrais-tu en dire autant ?</p>
+      <p>« N’est-ce pas une chose sainte, une loi divine, que cet amour de la faiblesse pour la force, et réciproquement de la force pour la faiblesse ? C’est ainsi que la compagne de l’homme chérit ses petits ; c’est ainsi que l’homme devrait chérir sa compagne. Mais il a imaginé de consacrer par des lois de servitude l’inévitable dépendance de la femme, et, dès lors, adieu la douceur et la liberté de l’amour ! Quelle femme réclamerait exclusivement la vie de l’esprit, si on lui donnait celle du cœur ? Il est si bon d’être aimé ! Mais on les maltraite ; on leur reproche l’idiotisme où on les plonge, on méprise leur ignorance, on raille leur savoir. En amour, on les traite comme des courtisanes ; en amitié conjugale, comme des servantes. On ne les aime pas, on s’en sert, on les exploite ; et on espère ainsi les assujettir à la loi de fidélité ! Quelle erreur ! Si je te maltraitais, ma fauvette, tu irais bientôt sur le plus haut des arbres du jardin, car dans huit jours tu auras de bonnes ailes et l’amour seul te retiendra près de moi. »</p>
+      <p>George Sand.</p>
+      <p></p>
+      <p>Nous avons voulu savoir quel était le docteur octogénaire en question ; mais, parmi les amis de George Sand, personne ne l’a connu. Seulement nous avons ouï dire qu’autrefois l’auteur, dans l’intimité, avait reçu de ses amis le sobriquet de vieux docteur.</p>
+      <p>Node de l’éditeur.</p>
+    </body>
+    <back/>
+  </text>
+</TEI>
