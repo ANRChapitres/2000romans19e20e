@@ -1,0 +1,996 @@
+<?xml version='1.0' encoding='UTF8'?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> Le Médaillon </title>
+        <author from="1816" key="" name="Eyma, Xavier" sex="male" to="1876"/>
+        <edition n=""/>
+        <editor name="" where=""/>
+      </titleStmt>
+      <publicationStmt>
+        <date type="created" when="1840"/>
+        <date type="issued" when="1840"/>
+      </publicationStmt>
+      <editionStmt>
+        <profileDesc tag="non-canon" type="genre">
+          <textClass>
+            <keywords>
+              <term>nouvelles</term>
+            </keywords>
+          </textClass>
+        </profileDesc>
+      </editionStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docAuthor/>
+        <docTitle>
+          <titlePart main="Le Médaillon"/>
+          <titlePart sub=""/>
+        </docTitle>
+      </titlePage>
+    </front>
+    <body>
+      <div title="UN MÉCHANT HOMME." type="nouvelle">
+        <p> UN MÉCHANT HOMME. </p>
+        <lb/>
+        <div title="I" type="chapter">
+          <p> I. </p>
+          <lb/>
+          <p> M. Joseph Düraner était le chef d’une des maisons de commerce les plus riches et les mieux famées de Nantes. </p>
+          <p> C’était un homme de distinction, parfaitement instruit et d’un jugement remarquablement sain. Son front chauve qu’ombrageaient à peine quelques mêches de cheveux blonds encore, son visage pâle et osseux portaient des traces de souffrances qu’avaient dû combattre un courage et une force morale rares. </p>
+          <p> A travers la douceur et le calme de sa physionomie perçait une singulière énergie, on reconnaissait facilement en lui l’homme qui sait souffrir longtemps et beaucoup sans ployer sous la douleur, mais que la douleur peut briser tout d’un coup — Quelque chose de semblable au chêne de la fable. Il était grand, mince, un peu voûté, vêtu toujours d’un habit marron, et ne faisait pas deux pas sans être escorté d’une canne de jonc qu’il portait sous le bras ; cette canne était tout ce qui restait d’un frère que la fièvre jaune avait dévoré aux Antilles, il la conservait religieusement. Quiconque a passé à Nantes en 1824, doit avoir rencontré dans les rues M. Joseph Düraner, salué par tout le monde ; le préfet comme le chef militaire, aussi bien que les pauvres se découvraient devant lui. </p>
+          <p> Plus d’un petit commerçant florissait grâce à ses façons libérales d’agir. </p>
+          <p> Ses sentiments honnêtes, généreux, élevés, lui avaient acquis une grande influence dans la ville sans qu’il ait jamais pour cela été maire, pas même adjoint. Sa délicatesse en affaires lui avait assuré la sympathie de ses confrères qui lui en donnèrent les preuves les plus marquées, chose miraculeuse ! dans des circonstances graves et difficiles qui avaient entravé la marche de ses opérations commerciales. J’ai dit que c’était chose miraculeuse, parce que nulle part je n’ai vu ces deux hideuses plaies du cœur humain, l’envie et l’égoïsme plus profondes et plus infectes que dans cette classe d’hommes qu’on appelle gens d’argent. Un confrère ruiné, d’habitude est pour eux une proie à dévorer, des dépouilles à se partager. </p>
+          <p> Pardieu ! la commission du voisin est à envier quand elle rapporte dix pour cent. </p>
+          <p> Il fallait vraiment pour que M. Düraner rencontrât un tel appui, que les vertus de l’homme fussent COTÉES à un bien plus haut chiffre encore que les spéculations et les commissions du négociant. </p>
+          <p> Étrangers et parens, tous ceux qui avaient eu besoin de l’honnête Düraner, l’avaient rencontré prêt toujours à s’imposer des sacrifices pour accourir à leur secours. </p>
+          <p> S’il n’était pas devenu banal de parler de l’ingratitude des hommes, je dirais qu’il n’apprit guère d’eux ce que c’était que la reconnaissance, </p>
+          <p> Sur ma foi la qualité d’homme de bien est un cruel supplice. </p>
+          <p> Ne criez pas au paradoxe, car je vous affirme qu’il ne doit pas y avoir au monde torture plus horrible que l’ingratitude dont ils e voit payer à chaque heure. </p>
+          <lb/>
+        </div>
+        <div title="II" type="chapter">
+          <p> II. </p>
+          <lb/>
+          <p> M. Düraner avait recueilli dans sa maison un pauvre enfant qu’il ramassa dans les rues, en guenilles et mendiant son pain. Le bel air du petit Anatole, l’intelligence qui perçait dans ses yeux, les pleurs que ce malheureux versait abondamment lorsqu’il le rencontra, par une soirée d’hiver, appuyé contre une borne ; les souffrances dont il portait encore les traces sur tout le corps, touchèrent le bon négociant. Au lieu de faire un valet de cet enfant, il le mit en pension et plus tard le plaça devant un pupitre dans ses magasins. Anatole devint un des commis les plus intelligents et les plus studieux de M. Düraner. </p>
+          <p> Cela allait à merveille, sans que le bienfaiteur s’aperçut que les beaux dehors de ce jeune homme, ses manières affectueuses et presque séduisantes cachaient l’âme la plus corrompue et la plus noire qu’il se puisse trouver. A vrai dire, il ne cessait de parler de sa reconnaissance et de son dévouement ; son respect pour madame Düraner n’avait pas de bornes ; nous verrons plus tard ce que nous devrons en croire. </p>
+          <p> Aux yeux de cet homme excellent, Anatole avait le cœur doté des qualités les plus brillantes. </p>
+          <p> Jamais masque d’hypocrisie n’avait mieux représenté la vertu. Jusque là M. Düraner ressemblait on ne peut plus, au pauvre Orgon, et le moderne Tartufe lui avait travaillé l’esprit non moins bien que son modèle dont il s’efforçait, on eût dit, à perfectionner les vices. Il connaissait aussi admirablement le terrain sur lequel il allait bâtir son échafaudage d’infamies. </p>
+          <p> Anatole avait retrouvé en sortant de pension un camarade nommé Gustave Valant, que la débauche avait noyé dans son gouffre, un de ces hommes dont le souffle corrompt. Gustave avait facilement entraîné et bientôt enrôlé son jeune ami dans une bande de méchans drôles dont il était comme le chef. Les mauvais penchans d’Anatole se développèrent d’une manière effrayante sous cette atmosphère infecte qui souillerait à la longue les plus belles âmes : horrible puissance du mal ! si jamais le moindre symptôme de vertu avait trouvé place dans ce cœur, je dirais que la dernière trace en était disparue et que le vice y trônait hideusement. </p>
+          <p> Anatole, au moment où nous commençons cette histoire, était devenu un homme capable de tout ; c’était un scélérat qui se dressait pour le bagne ou pour l’échafaud. </p>
+          <lb/>
+        </div>
+        <div title="III" type="chapter">
+          <p> III. </p>
+          <lb/>
+          <p> M. Düraner n’habitait pas la ville, il possédait, à une lieue de Nantes, une délicieuse maison de campagne. Consacrant toute la journée à ses affaires, il ne retournait à Treillis que le soir, quand la bourse était fermée. Quoique bon et sensible, il revenait rarement avec cette liberté d’esprit qui lui permettait d’offrir à sa femme un amour affectueux et ces tendresses dont un cœur de vingt ans a besoin autant que les fleurs de la rosée. Ses affaires le préoccupaient jusqu’au fond de sa retraite et l’absorbaient encore. Les spéculations du lendemain ne lui laissaient pas le temps de songer à cette solitude à laquelle il abandonnait Amélie sa femme. </p>
+          <p> Si je voulais décrire les sites, les vallées, les beaux points de vue qui entouraient cette charmante habitation, on me dirait sans doute que cela ressemble à toutes les descriptions faites ou à faire sur les maisons de campagne de tous les pays ; aussi je m’en dispense. Toutefois je ne passerai pas sous silence une ravissante vallée qui s’étendait à droite de la maison, non pas par amour de la description, mais parce que cette vallée joue une sorte de rôle dans mon histoire. Elle se prolongeait au moins d’une lieue, et se terminait par une colline aux pieds de laquelle coulait un bras de la Loire. A cette distance, cette eau blanche dont l’œil ne devinait pas le cours ressemblait aux rayons argentés de la lune qui viennent se poser sur la terre et apportent avec eux la mélancolie et les douces rêveries du soir. Cette vallée était semée par intervalle de groupes d’arbres d’une vigoureuse nature, telle qu’elle m’a frappé dans ce magnifique pays de Bretagne, et dont l’ombre étendue sur la plaine et se mêlant par portion, de distance en distance, y jetait une sorte de mélancolique tristesse. Vous voyez d’après ce croquis imparfait, qu’il pourrait y avoir quelques pages à écrire là-dessus ; mais si je me laissais aller, je ferais faute à mes résolutions ; — et puis, je vous avoue, je ne me sens pas la force même de compléter le tableau, aussi bien je me désespérerais de vouloir rendre avec la plume un de ces poétiques et vaporeux paysages de Bonnington, dont cette vallée avait toutes les teintes brunes et mélancoliques. </p>
+          <p> Madame Düraner s’était longtemps consolée de cet isolement où l’avait réduite la vie activement commerciale de son mari, en se nourrissant l’âme des poétiques et douces rêveries qu’éveillait en elle le voisinage de la vallée. Mais bientôt les tièdes émanations qui s’en exhalaient, le parfum qui s’échappait brûlant des fleurs et embaumait tous ses sens, cet accouplement de toutes les choses qu’elle avait sans cesse sous les yeux, cette volupté complète de la nature, qui se trahissait dans le calme des objets et lui paraissait d’autant plus profonde, qu’ils embrassaient l’immensité, emplirent son cœur de sentiments nouveaux, et sa solitude commença de lui peser. </p>
+          <p> Anatole vivait chez M. Düraner comme son enfant ; la maison de son bienfaiteur était la sienne. Une fois de retour à Treillis, où il revenait également chaque soir mais libre, lui, de ces calculs d’affaires dont M. Düraner ne se débarrassait jamais, il avait été plus à même de s’apercevoir de la tristesse et des langueurs d’Amélie. Il l’avait surprise souvent les larmes aux yeux dans une sorte de recueillement, devant la vallée. Il devina facilement la cause de ces larmes et de cette tristesse, et la pensée lui vint de combler le vide qui s’était creusé dans ce jeune cœur. </p>
+          <p> C’était moins à l’amour qu’à un désir mauvais qu’il obéissait. Il suffisait qu’il y eût un crime à accomplir, pour qu’il se laissât irrésistiblement emporter à entraîner cette jeune femme dans un adultère qu’il n’était pas susceptible même de couvrir du voile spécieux dont on l’habille d’habitude. C’était de sa nature de méchant homme. </p>
+          <p> Mais il ne comprit pas que chez cette femme l’amour avait dû s’infiltrer à l’aide de longues méditations, que cet isolement dans lequel elle vivait, que ces continuelles rêveries auxquelles elle était en proie, avaient dû exalter le sentiment de poésie qui avait enveloppé son âme, que cet amour était empreint d’un caractère particulier, à franchement parler, que c’était un amour romanesque, un besoin exagéré de l’âme et non point un désir des sens. </p>
+          <p> Les aveux d’Anatole avaient été accueillis avec dédain, et ses instances taxées d’impertinence. Amélie avait bien des motifs pour agir de cette façon, je ne sais quel instinct lui avait révélé la petitesse de cœur d’Anatole, et ses devoirs d’épouse, un moment avaient parlé assez haut chez elle pour étouffer tous les autres sentiments qui y murmuraient déjà, Mais un abîme s’ouvrait sous ses pas chaque jour plus profond ; elle devait y tomber poussée par une main qu’elle ne voyait pas, toujours derrière elle cachée dans l’ombre. </p>
+          <p> Anatole se regarda comme humilié de n’avoir point été agréé par Madame Düraner ; il s’aigrit des paroles sévères qu’il avait rencontrées dans ses discours ; la rage lui dévorait le cœur en s’imaginant que cette jeune femme avait voulu le rabaisser en lui reprochant son origine, en lui parlant sans cesse des bienfaits de son mari, de la reconnaissance qu’il oubliait d’en conserver, et en lui rappelant ses devoirs. Il releva un matin ce front qu’il traînait dans la poussière aux pieds d’Amélie ; la foudroya d’un regard menaçant, et des cris de vengeance débordèrent de sa bouche ! C’était à la suite d’un dernier effort qu’il venait de tenter ! C’en était fait d’elle ; blessé dans son amour propre, trompé dans ses espérances, il avait résolu de la perdre. </p>
+          <p> Anatole était un de ces hommes qui avaient la conscience de leur méchanceté, comme d’autres de leurs vertus. — Il savait qu’il avait une destinée de malheur à accomplir, qu’il était une de ces embûches cachées et auxquelles viennent se heurter les bons infailliblement. Le mal ne l’étonnait pas ; il l’avait accepté comme une des conditions de son existence ; et sur l’honneur je n’exagère pas en disant qu’il s’étudiait à y arriver. L’enfer seul, prétendait-il, pouvait l’avoir vomi sur la terre, pour lutter contre les créatures que le ciel y avait jetées de son côté ; — il n’était pas de même source que celles-là ; c’étaient autant d’ennemis à combattre ! L’occasion s’offrait belle ; car il se doutait qu’un rival avait été plus heureux que lui auprès d’Amélie. Il fit serment ce jour-là de les surprendre. — Après cela, la réputation de cette femme était entre ses mains ; il savait bien comment en user. </p>
+          <p> Il ne se trompait pas. </p>
+          <p> Il, sortit précipitamment de la maison, se plaça en enbuscade derrière un mur, et attendit. </p>
+          <lb/>
+        </div>
+        <div title="IV" type="chapter">
+          <p> IV. </p>
+          <lb/>
+          <p> Dans une des chambres de la maison, précisément dans celle dont les croisées avaient vue sur la vallée, une jeune et belle femme, pâle, avec de grands yeux noirs, était nonchalamment accoudée sur un sopha. Sur son front blanc et poli comme l’ivoire brillait une étoile de bonheur, et de ses lèvres entr’ouvertes s’échappait un souffle tiède, empreint de toute l’ivresse dont brûlait son cœur. </p>
+          <p> Cette femme était madame Amélie Düraner </p>
+          <p> Plus d’une fois elle s’était levée pour parcourir des yeux un chemin qui faisait coude sur un des côtés de la vallée, et en revenant s’asseoir, elle avait regardé avec impatience la pendule. Elle attendait quelqu’un. </p>
+          <p> Elle attendait le comte Alfred de Montarlier, ce rival heureux qu’Anatole épiait, et qui pour la seconde fois seulement allait franchir le seuil de cette maison comme amant. </p>
+          <p> Amélie avait lutté longtemps contre ces assauts de l’amour qui ébranlaient son cœur ; mais c’est là un combat auquel, homme ou femme, nous succombons souvent quand nous entrons en lice avec un si rude adversaire. </p>
+          <p> Si madame Düraner avait rejeté avec autant d’indignation les prétentions d’Anatole, c’est qu’à côté de ses devoirs d’épouse qu’elle fit hautement valoir un moment avec sincérité, je veux bien le croire, il y avait une passion qui germait dans l’ombre ; c’est que si l’amour d’Anatole lui avait répugné d’abord, elle avait senti tout à coup son cœur s’épanouir aux premières paroles pleines de tendresse et de respect qui étaient tombées de la bouche d’Alfred. Elle s’était prise à aimer en secret, dans les solitudes de son âme, l’image de ce jeune homme qu’elle caressait comme une chimère. Imprudente, qui ne savait pas que ce miel de l’amour si doux qu’il soit, lorsqu’il a effleuré le bout des lèvres, empoisonne...... </p>
+          <p> Madame Düraner possédait la conscience de ses devoirs, il faut l’avouer ; elle frémissait de la pensée de commettre une action honteuse, elle avait repoussé Anatole parce qu’elle ne l’aimait point, elle résistait à Alfred parce qu’elle sentait là sa faiblesse, mais elle luttait de tout son courage et de tout ce qui lui restait de force. </p>
+          <p> Pourtant elle l’aimait. </p>
+          <p> Cette passsion brisa tout à coup la faible enveloppe qui la recouvrait et s’épancha d’elle-même au dehors comme un fruit trop mûr qui se détache de l’arbre et tombe par son propre poids. </p>
+          <p> Un jour que le cœur d’Amélie débordait, qu’elle était enivrée par une sorte de délire, elle oublia devant Alfred que jamais un mot un geste, un regard n’avaient trahi son secret, et quand le jeune comte lui parla d’amour elle répondit sans cette timidité qui gêne et charme pourtant sans un premier aveu, des paroles pleines de feu, comme si depuis longtemps elle était habituée à un pareil langage, puis tout à coup la raison lui revint ; elle se leva rouge de honte, se dégagea des bras du jeune homme qui l’avaient enlacée avec force, et se sauva en poussant un grand cri. </p>
+          <p> Quelques instants après elle revint et trouva M. de Montarlier à genoux le visage appuyé sur le chaise qu’elle avait occupée. </p>
+          <p> Quelle scène se passa entr’eux ? vous la devinez, une scène à laquelle je ne veux rien retirer de ce qu’elle avait pourtant de sérieux en vous la racontant dans toute sa vérité, — la voici ; </p>
+          <p> Amélie en rentrant fit un geste plein de terreur et se recula comme pour sortir, quoiqu’elle n’en eût pas la moindre envie. </p>
+          <p> Alfred toujours à genoux devant la chaise tourna vers elle des yeux rayonnants d’amour et l’implorait les deux mains jointes. </p>
+          <p> Ils se regardèrent longtemps ainsi, Amélie s’approcha lentement — Alfred lui épargna la moitié du chemin en se traînant sur ses genoux jusqu’à ce qu’il fût devant elle. </p>
+          <p> Amélie éclata en sanglots — Alfred saisit pour les embrasser ses deux mains qu’elle retira une première fois, mais qu’elle lui abandonna facilement à la récidive. </p>
+          <p> — Vous êtes encore ici, MONSIEUR, s’écria Amélie feignant l’étonnement ; mais elle savait fort bien qu’il n’était point parti, car si elle l’avait entendu sortir, elle serait accourue à temps pour l’en empêcher. </p>
+          <p> — Oui, AMÉLIE ! s’écria M. de Montarlier ; je ne puis quitter cette chambre, mon cœur a besoin de respirer cette atmosphère d’amour. </p>
+          <p> Amélie baissa les yeux en rougissant, — Alfred la dévora du regard, </p>
+          <p> Elle paria de remords, lui d’extase. Elle de folie, lui d’ivresse. </p>
+          <p> — Vous partirez n’est-ce pas, MONSIEUR ! vous ne reviendrez plus jamais ? vous oublierez quelques paroles irréffechies qui sont sorties je ne sais comment de ma bouche mais que désavoue mon cœur. </p>
+          <p> — Je TE jure, mon ange, que je n’oublierai jamais cette heure de ravissement où TU m’as dit que TU m’aimais. </p>
+          <p> — Monsieur je vous l’ordonne. </p>
+          <p> — Pourrai-je obéir ? </p>
+          <p> Ce fut un singulier dialogue un échange de gestes et de regards qui ne se termina que quand ils se trouvèrent dans les bras l’un de l’autre, dénouement infaillible que tous deux attendaient avec une impatience égale. </p>
+          <p> Leurs lèvres n’eurent pas le temps de prononcer le mot de bonheur qui se trouva étouffé sous une infinité de baisers. </p>
+          <p> Puis, il y eut un serment solennellement prononcé à la suite d’un traité par lequel M. le comte Alfred de Moutardier s’engageait à respecter l’honneur de Madame Amélie Düraner, — Mais, vous le pensez bien, rendez-vous fut donné pour le lendemain. </p>
+          <p> Cette scène se passait la veille du jour où Anatole avait, résolu la perte des deux amans. </p>
+          <p> Et nous savons qu’Amélie attendait Alfred. </p>
+          <p> Lorsque le jeune homme entra, Madame Düraner était accoudée sur le sopha où nous l’avons vue au commencement de ce chapitre. </p>
+          <p> Ils se jetèrent dans les bras l’un de l’autre, et en poussant une exclamation de joie ; une exclamation échappée à deux cœurs qui se rencontraient, séparés qu’ils étaient depuis longtemps. </p>
+          <p> — Oh ! viens ici, sécria la jeune femme en entraînant son amant vers la fenêtre ; viens montrer à cette belle nature qui se raillait de moi, comme je suis heureuse dans tes bras, à ce magnifique soleil que j’ai maintenant dans le cœur des rayons aussi brûlants que les siens, à ces fleurs, que mon âme épanouie peut exhaler autant de parfums qu’elles en ont dans leurs calices ; à ces oiseaux qui passent dans l’air accouplés deux à deux que je ne suis plus seule maintenant ; viens oh ! viens te dis-je ; cette brise embaumée m’apportait comme une insulte, le bruit de leurs roucoulements d’amour qu’elle leur apporte en retour, l’écho de nos baisers ; — ah ! je suis fière devant cette vallée ! devant cette vallée qui m’arrachait tant de pleurs ! je ne suis plus seule maintenant ! je presse sur mon cœur, un cœur plein d’amour ; — donne-moi, donne-moi des milliers de baisers ! je veux que les lèvres répandent sur mon front en un jour, tous ceux dont je suis sevrée depuis si longtemps ! </p>
+          <p> Il y avait une sorte de délire dans ses paroles, que je ne puis atteindre ; étreignant Alfred dans ses bras avec transport, elle promena sur toute la vallée des regards triomphants qui voulaient dire à chaque chose : voyez, je suis aimée, je suis heureuse !... </p>
+          <p> Elle appuya sa charmante tête sur l’épaule du jeune homme, et tous deux demeurèrent quelques instants ainsi, dans un véritable recueillement. </p>
+          <p> Je ne sais quelle auréole de bonheur semblait envelopper dans son cercle ces deux têtes ainsi rapprochées ; et en vérité il y avait tant de calme sur ces deux fronts, tant d’extase, de ravissement et d’amour dans leurs regards qu’on aurait voulu qu’ils ne se séparassent jamais, et qu’il était permis de se demander à les voir, s’il est possible de rencontrer le repos et le bonheur dans le crime plutôt que dans l’accomplissement de nos devoirs ! horrible pensée ! </p>
+          <p> — Quel est donc l’Ange qui t’a conduit vers moi, s’écria Amélie, béni soit-il ? </p>
+          <p> — Nul ange ne m’a conduit, répliqua le jeune homme, c’est toi l’ange qui m’as attiré ; sois bénie... </p>
+          <p> Et à propos de ce mot d’ange, ils s’oublièrent dans des développements incroyables sur les amours probables des Séraphins, c’était à qui des deux s’essayait à prouver par les plus subtils raisonnements que toutes les voluptés de l’amour consistaient dans un regard, dans un baiser, dans une pression de main ! ils le croyaient fermement alors, je vous le jure ; et ils firent le serment de ne jamais s’aimer autrement ! </p>
+          <p> Pauvres enfants ! ils n’eurent pas le temps de faillir à ce serment ; et au moins les anges en cette occasion, triomphèrent ! </p>
+          <p> Les deux amants se dirent bien des fois toutes les choses qu’on se dit en amour, ou plutôt la seule chose l’unique phrase que tous les amoureux, depuis que l’amour existe, se renvoient l’un à l’autre ; à laquelle chose, à laquelle phrase pour avoir été si souvent répétées, le temps et la vétusté n’ont rien ôté d’ailleurs de leurs grâces et de leur fraîcheur — Nous savons bien aussi que le centième baiser que nous cueillons sur des lèvres aimées, a pour nous autant de charmes que le premier que nous y avons savouré. — Ce sont pourtant toujours des baisers, les mêmes baisers ! </p>
+          <p> La jeune femme souleva tout à coup la tête, posa ses deux mains sur les tempes d’Alfred, puis comme à regret : </p>
+          <p> — Alfred, lui dit-elle, nous nous oublierions éternellement dans notre amour !.... mais le temps est impitoyable, l’heure est venue de nous séparer... il faut partir... nous quitter jusqu’à demain. </p>
+          <p> — Tais-toi, Amélie, devrais-tu jamais prononcer ce mot !.. </p>
+          <p> — Mot cruel, je le sais ... mais qu’y faire. </p>
+          <p> — Ne jamais le dire, et m’ordonner de rester toujours... </p>
+          <p> — Enfant ! </p>
+          <p> Et ils se regardèrent en souriant. Les yeux d’Alfred semblaient l’implorer et lui demander à demeurer. Les regards d’Amélie avaient bien envie d’en dire autant. </p>
+          <p> — Oh ! ne me chasse pas, laisse-moi m’enivrer encore de tes regards, baiser ces beaux cheveux te dire encore combien je t’aime. </p>
+          <p> — Moi, je voudrais te garder à mes côtés, tenir ainsi ton cœur pressé contre le mien... nous avons si peu de temps peut-être à nous aimer !... </p>
+          <p> — Si peu de temps ! Pourquoi ?... </p>
+          <p> — Tu n’as donc pas songé, en m aimant, qu’un jour nous serions obligés de nous séparer pour toujours. </p>
+          <p> — Pour toujours ? qui l’a dit ? </p>
+          <p> — Ni toi, ni moi jusqu’à présent... mais peut-être un jour toi ou moi... </p>
+          <p> — Jamais moi — mais ne parle pas ainsi Amélie, tu me ferais croire que lu as oublié les serments ou que tu n’as pas plus de confiance dans les miens que dans les paroles d’un enfant. </p>
+          <p> — Et la mort ! s’écria la jeune femme en tressaillant de tout son corps. </p>
+          <p> — La mort ? — doit-on songer à la mort quand on s’aime... </p>
+          <p> Le baiser d’adieu qu’ils se donnaient fut interrompu par un bruit de pas qui se fit entendre à la porte et par trois coups frappés avec le doigt sur la serrure. </p>
+          <p> Les deux amants se levèrent pâles et Tremblants. </p>
+          <p> — Oh ! mon mari ; je suis perdue ! je vous l’avais bien dit, Alfred pourquoi n’êtes-vous pas parti ?... </p>
+          <p> — Calme toi, Amélie — je vais me cacher dans cette armoire — calme toi, que ton émotion ne trahisse rien... </p>
+          <p> On frappa de nouveau. </p>
+          <p> — Au nom du ciel allez donc. !... </p>
+          <p> M. de Montarlier se blottit dans l’armoire — et Amélie se jeta sur un fauteuil la tête dans les deux mains pour laisser passer la première émotion et donner au sang qui s’était reflué au cœur le temps de reprendre son cours. </p>
+          <p> On frappa une troisième fois avec impatience. </p>
+          <p> Alors elle se leva, et courut ouvrir la porte. </p>
+          <lb/>
+        </div>
+        <div title="V" type="chapter">
+          <p> V. </p>
+          <lb/>
+          <p> Disons quelques mots d’Alfred. Jusqu’à présent nous l’avons présenté simplement comme amoureux ; mais qu’on entende bien qu’il n’était pas un amoureux ordinaire, par cette raison qu’il n’était point un homme ordinaire. </p>
+          <p> De même que certaines fleurs choisies ont le privilège, quand elles embaument, d’épandre toujours les senteurs les plus pures et les plus suaves, — ainsi tous les sentiments qui émanent des cœurs nobles et élevés, emportent avec eux un rayon empreint de cette beauté interne. Or l’amour, nous le déclarons, non pas le premier mais avec bien d’autres, l’amour est un des parfums les plus exquis que le cœur puisse exhaler. </p>
+          <p> Alfred était un de ces hommes rares qui ne savent et ne peuvent apprendre de la vie que ses plus beaux côtés. — Il n’avait que vingt-six ans, mais en eût-il vécu cent, que c’eût été de même ; bonnes natures qui ne prennent les déceptions inévitables qu’elles subissent que comme des erreurs faciles à réparer. Il était capable des plus grands dévouements, et il l’avait prouvé. — Citons : </p>
+          <p> Une des plus grandes douceurs de sa vie était une amitié qu’il cultivait depuis l’enfance, charmante fleur qui avait crue, arrosée par toutes les grâces de son cœur. </p>
+          <p> Son Euryale était un pauvre jeune homme orphelin, que sa mère avait fait élever avec lui, lés confondant tous deux dans la même tendresse. Habitué à partager avec cet enfant les caresses de sa mère, ce pain de l’âme, il l’avait accepté comme un frère et non pas comme un étranger qui venait lui ravir une moitié de son bien. </p>
+          <p> Plus d’une fois, dans leurs espiègleries d’écoliers, Alfred avait eu soin d’épargner à son ami les plus dures punitions, s’écriant toujours : « meadsum qui feci. » — Au collège, on les citait comme modèle d’amitié ; plus tard, dans le monde, on les admira, et on parla longtemps d’une blessure grave qu’Alfred avait reçue au bras pour soutenir l’honneur attaqué de son ami. </p>
+          <p> A la mort de la comtesse de Montarlier, tous les droits de succession réglés entre Alfred et sa sœur, le jeune héritier offrit part égale de sa fortune à l’orphelin, comme il l’eût fait à l’égard d’un frère déshérité. — Nous passons rapidement sur cette amitié, qui ne sert qu’à faire connaître le cœur de notre héros. </p>
+          <p> En amour, il devait donc apporter cette exaltation et cet infini dévouement. — Nous le verrons, — Aucun de ces mouvemens naturels à un homme, d’honneur ne lui étaient impossibles, et il se regardait comme obligé à se brûler la cervelle pour sauver la réputation de Madame Düraner, dans le cas où sa présence dans le monde aurait pu la compromettre. </p>
+          <p> C’était, au demeurant, un fort beau garçon, qui avait soulevé des orages dans le cœur de plus d’une femme ! il n’en était pas à son coup d’essai, et il avait prêté terriblement de sermens d’amour. Il avait déjà juré fort SOUVENT n’avoir aimé QU’UNE FOIS ; mais c’est là une chose que les hommes croient aussi sincèrement que les femmes auxquelles ils le disent. Eh ! bon Dieu ! mesdames, ce sont pourtant des sermens inutiles que vous nous forcez à commettre. Voulez-vous que je vous explique comment ? </p>
+          <lb/>
+        </div>
+        <div title="VI" type="chapter">
+          <p> VI. </p>
+          <lb/>
+          <p> Vous auriez droit de m’en vouloir si ce que je vais vous dire prétendait à être une théorie de l’inconstance ; mais il n’en est rien, c’est peut-être un paradoxe. — j’en conviens ; écoutez toujours. </p>
+          <p> Un écrivain fort spirituel, dernièrement dans un livre charmant, a dit ceci : que toute femme se croit volée de l’amour qu’on accorde à une autre femme. </p>
+          <p> Voilà tout le secret ; si ce n’est que je prendrai la liberté de retourner ainsi son aphorisme à savoir que : « toute femme se croit volée aussi de l’amour qu’on A ACCORDÉ à une autre femme. » </p>
+          <p> Et pourtant, il n’en est rien, je vous le jure. </p>
+          <p> Les enfans de dix-huit ans disent qu’on ne peut aimer qu’une fois dans la vie ; les vieillards prétendent tous avoir aimé infiniment souvent. </p>
+          <p> Moi, qui suis loin encore d’être un vieillard, bien que mes dix-huit ans soient hélas ! sonnés, pour me faire une opinion, j’ai examiné. </p>
+          <p> Or, voici ce que j’ai trouvé. </p>
+          <p> 1° Que le cœur de l’homme, en ce qui touche l’amour, a autant de nuances diverses qu’il y a de femmes au monde ! </p>
+          <p> 2° Que le cœur est si vaste et les nuances si multiples, qu’il est de toute impossibilité qu’une seule femme les embrasse toutes. </p>
+          <p> D’où j’ai conclu que chaque femme peut jouir de la part qui lui revient de ce cœur, sans avoir le droit de rien exiger de plus. </p>
+          <p> Ainsi, vous avez indubitablement rencontré des hommes qui, après avoir perdu une compagne adorée, jurent de ue jamais plus aimer. Qui ose croire à ces sermens-là ?.... Aussi, au bout de peu de temps, se prennent ils à aimer une autre femme comme si de rien n’était. Pour cela, ils ne renoncent pas au culte qu’ils avaient voué à l’objet tant regretté, et ne font pas tort d’un baiser pourtant à leur nouvelle divinité. Pas un n’oserait dire le contraire. </p>
+          <p> Donc, mesdames, vous exigez un serment faux, complétement faux, que dans notre obéissance pour vous, nous n’osons refuser en nous faisant jurer que vous êtes la seule femme qui ayez été aimée. Pardieu ! on ne se fera jamais faute de vous le dire. </p>
+          <p> Ce que vous avez droit d’exiger, par exemple, c’est qu’on vous jure que nulle autre ne partage votre amour pour le moment. </p>
+          <p> Ce que vous avez droit de demander, c’est que cette part d’amour dont vous jouissez dans le moment, soit aussi copieuse qu’elle ne puisse finir, en admettant que quelque chose ne doive pas finir. </p>
+          <p> Une femme est certaine d’être trompée quand elle s’entend jurer qu’on n’a aimé qu’elle ! Laissez donc ! on en a peut-être aimé dix ou douze avant elle ; on les à aimées, ces dix ou douze autant qu’on l’aime ; ce qui n’empêchera pas qu’elle soit adorée jusqu’à l’exaltation. </p>
+          <p> Je vous offre mon héros bâti sur ce modèle là. — Prenez-le tel, et en toute confiance croyez que madame Düraner pour n’avoir pas été la première aimée par lui, avait une large part d’adoration dans son cœur. </p>
+          <p> Quand vous voudrez faire l’expérience de ce que je vous dis-là, prenez à part un homme qui vous soit indifférent ; et priez-le de vous faire confidence de son cœur ; — il n’y a qu’une chose à craindre, c’est que si vous avez de trop beaux yeux, madame, cet homme ne soit assez esclave de l’habitude pour vous avouer qu’il n’a jamais aimé que vous. </p>
+          <p> Ce sera un effronté menteur !... mais vous êtes femme... et capable de le croire !.... </p>
+          <lb/>
+        </div>
+        <div title="VII" type="chapter">
+          <p> VII. </p>
+          <lb/>
+          <p> Lorsqu’Amélie eut ouvert la porte, elle recula avec un geste d’horreur et de colère. </p>
+          <p> Ce n’était pas son mari, c’était Anatole qu’elle avait devant les yeux ! — L’indignation qui couvrait le visage de madame Düraner ne déconcerta pas le jeune homme. Il entra avec calme et ne manqua pas de promener autour de la chambre un œil inquiet et scrutateur. Amélie restait devant lui pâle et immobile, ne sachant plus dissimuler son trouble. </p>
+          <p> — Vous paraissez souffrante, madame lui dit Anatole. </p>
+          <p> — Que vous importe ? monsieur, répondit-elle sèchement. </p>
+          <p> — Il me semble que je n’ai pas pour habitude d’être indifférent... </p>
+          <p> — Laissez-là toutes ces belles paroles, et veuillez me dire ce qui vous amène. </p>
+          <p> — Je venais vous avertir, madame, que M. Düraner ne serait de retour ici que fort tard aujourd’hui. Des affaires importantes le retiendront quelques heures de plus en ville. Je voulais vous éviter des inquiétudes bien naturelles... </p>
+          <p> — Vous m’avez vue il y a une heure, vous pouviez vous acquitter alors de cette commission... </p>
+          <p> — Près de vous, madame, l’on oublie si vite toute chose !... </p>
+          <p> — C’est vrai, monsieur, même ses devoirs. Mais vous avez sans doute oublié aussi mes ordres. Ne vous avais-je pas signifié de ne vous présenter ici qu’en présence de mon mari. Vous auriez pu charger mon domestique ou ma femme de chambre de cette commission. </p>
+          <p> — Je ne les ai rencontrés ni l’un ni l’autre madame. </p>
+          <p> — Maintenant veuillez me laisser seule, je vous remercie. </p>
+          <p> Amélie ne s’était pas aperçue qu’Anatole, en entrant avait fermé la porte. </p>
+          <p> Nous avons dit que ce méchant jeune homme avait épié M. de Montarlier, et qu’il l’avait vu entrer. Il avait conçu l’infâme idée de perdre Amélie, et c’est cette idée qu’il venait mettre à exécution, en s’apprêtant à jouer une atroce comédie. N’apercevant pas Alfred dans la chambre, il se douta bien qu’il était caché ; pour que le crime fut avéré, il fallait que le jeune comte se présentât à ses yeux ; — il commença donc son rôle. — Comme il demeurait toujours immobile à sa place malgré l’ordre que lui avait donné Amélie de se retirer, elle lui enjoignit de nouveau qu’il eût à sortir. </p>
+          <p> — Vous êtes d’une rigueur, madame.. </p>
+          <p> M’avez-vous entendue, monsieur, répondit Amélie en se levant et lui montrant la porte du doigt. — Sortez d’ici. </p>
+          <p> — Serez-vous donc toujours inflexible et inexorable, continua-t-il, de l’air le plus hypocrite ; — un jour enfin ne prendrez-vous pas pitié de mes pleurs et de mes tourmens. </p>
+          <p> En disant ces mots, il s’était rapproché et assis non loin d’Amélie. </p>
+          <p> — Ce langage est celui de l’amour le plus pur et le plus passioné, Amélie, c’est à vos genoux que je vous demande de m’écouter. </p>
+          <p> Oh ! si vous saviez toutes les pensées qui remplissent mon cœur ; si vous connaissiez toutes mes souffrances... Amélie, si vous vouliez m’entendre, </p>
+          <p> Amélie s’éloignait de lui à mesure, comme on s’écarte d’une bête venimeuse. </p>
+          <p> — Cette opiniâtreté, reprit-il ; devrait vous prouver assez la profondeur, la vérité de mon amour. Croyez-vous, Amélie que si Je ne vous aimais avec une ardeur sincère, depuis six mois que je vous poursuis de mes aveux, je subirais toutes ces humiliations, toutes ces tortures que vous m’imposez.... Amélie !... Amélie !... de grâce ? vous ne savez donc pas ce que c’est que de souffrir... </p>
+          <p> — Je ne puis en entendre davantage, Monsieur, je vous réitère l’ordre que je vous ai donné déjà, sortez d’ici. </p>
+          <p> — Oh ! non, pas avant que vous n’ayez calmé votre courroux, pas avant que vous n’ayez adouci vos regards, pas avant que vous ne m’ayez donné vos mains à baiser... </p>
+          <p> Et le misérable pleurait comme un honnête homme ! </p>
+          <p> — Monsieur, sortez sur-le-champ, ou je vous dénonce à mon mari, s’écria de nouveau Amélie d’une voix tremblante de colère. </p>
+          <p> Anatole n’avait joué encore qu’une partie de sa comédie sans obtenir le dénoûment qu’il cherchait. Alors il se leva l’œil en feu et le visage contracté. Amélie, effrayée, se rapprocha de l’armoire. — Sortir ! non madame, je ne sortirai pas, s’écria-t-il ! c’est assez comme cela ! je suis humilié, je me relève maintenant. Je vous ai long-temps imploré bassement, me traînant à vos pieds, souffrant et pleurant ; vous m’avez chassé comme un chien. Oh ! je suis las de tant d’humiliations !... Sachez que j’ai sur vous des projets infâmes, je les avoue, ils sont dignes de moi, je n’en rougis point. </p>
+          <p> — Monsieur ! </p>
+          <p> — Votre mari est loin d’ici, il n’y a personne dans la maison, il faut que vous m’apparteniez... ah ! vous avez cru pouvoir vous jouer de moi, vous avez cru que vous seriez déshonorée d’être la maîtresse d’un enfant trouvé... Il faut que vous m’apparteniez de gré ou de force. </p>
+          <p> — Que dites-vous là... O mon Dieu ! mon Dieu !.... </p>
+          <p> — Il n’y a pas de cris ni de larmes qui y fassent — je l’ai juré.... </p>
+          <p> — Lâche !.... </p>
+          <p> — De quelque nom que vous me nommiez Je serai inflexible, je suis habitué d’ailleurs à vos mépris... </p>
+          <p> Alors, je vous supplie à genoux, s’écria la pauvre femme... Grâce ! Grâce !... </p>
+          <p> — Je ne sais pas non plus ce que c’est que d’écouter des prières et des supplications.... </p>
+          <p> — Oh ! non, vous n’oserez pas.. Monsieur, je suis seule ici.... </p>
+          <p> — Assez de pleurs comme cela ; suivez moi ou je vous entraîne... </p>
+          <p> — Non, non.... </p>
+          <p> — Venez.... </p>
+          <p> Et il la saisit par le bras comme pour l’entraîner. </p>
+          <p> — Au secours !... </p>
+          <p> Ce cri s’échappa de la poitrine d’Amélie, malgré elle.... </p>
+          <p> — Vous aurez beau crier ! Madame, il n’y a personne ici pour vous défendre </p>
+          <p> — Vous vous trompez, misérable, s’écria Alfred en se précipitant hors de l’armoire. </p>
+          <p> Et saisissant Anatole à la gorge, il le traîna jusqu’à la porte sans que celui-ci fit la moindre résistance. </p>
+          <p> — Merci, mon sauveur, dit Amélie, en se jetant dans les bras d’Alfred, merci !... </p>
+          <p> Puis revenant de sa première émotion elle le quitta, alla tomber sur un fauteuil, et d’une voix pleine de terreurs et d’angoisses : </p>
+          <p> — Mais cela me perd, je suis une femme perdue maintenant ! Ce misérable vous a vu ici, il va vous dénoncer à mon mari ! Fuyez, car si mon mari venait ici... Oh ! partez donc !... </p>
+          <p> — Il n’osera pas, s’il ouvrait la bouche il se perdrait lui-même. </p>
+          <p> — Le croyez-vous ?... mais le monde ? cet homme a une langue de vipère, il parlera sans aucun doute vous voyez donc que de toute manière je suis perdue ?... Mon Dieu ! mon Dieu ! que c’est affreux ! cet homme !... </p>
+          <p> Les mots ne sortaient de sa bouche qu’étouffés par les sanglots. Alfred employait carresses et paroles de douceur pour la calmer, c’était en vain. Puis, par un retour fort naturel, elle s’en prit à lui et l’accabla de reproches. </p>
+          <p> — Mais pourquoi vous être montré ? </p>
+          <p> — Cet homme avait des projets infâmes sur vous !... </p>
+          <p> — Avant qu’il ait eu le temps de les accomplir, je me serais précipitée par la fenêtre, mais au moins j’aurais sauvé ma réputation !... Vous m’avez perdue, c’est votre faute !... </p>
+          <p> — Ecoutez, ce misérable doit trop à votre mari, il se taira, par respect pour lui... calmez-vous. </p>
+          <p> Amélie accueillit ces paroles avec cette avidité d’espérance qui saisit le cœur de toute personne en danger. </p>
+          <p> — Vous croyez cela dit-elle, cela est vrai, peut-être... </p>
+          <p> Puis la réflexion lui vint qu’Anatole avait l’âme trop basse et trop corrompue pour s’arrêter devant une considération aussi légitime ;il était évident pour elle qu’un homme qui avait conçu le projet atroce qu’il voulait exécuter, ne pouvait pas avoir le moindre respect pour son mari. Aussi, chassa t-elle promptement cette pensée qui avait un moment séduit son cœur. </p>
+          <p> — Oh ! non, c’est impossible, monsieur, il est capable de tout, rien ne l’arrêtera, pas plus mes larmes que ses devoirs envers mon mari. Déjà tout Nantes connaît cette malheureuse aventure ; je vois M. Düraner montré au doigt dans les rues ; j’entends les rires et la joie de toute la ville attendant un scandale. Oh ! c’est horrible ! je suis une femme perdue, une femme condamnée à mourir de honte et de désespoir ! </p>
+          <p> — Eh bien ! il est temps encore peut-être, s’écria tout-à-coup Alfred, d’un ton décidé, — je cours arrèter ce misérable, et les chances d’un combat.... </p>
+          <p> — Insensé ! où allez-vous ? </p>
+          <p> Et Amélie se jeta au devant de lui, au moment où il franchissait le seuil de la porte ; et changeant de ton, on vit qu’à l’idée du danger, tout son amour se réveillait en elle !... </p>
+          <p> — Où vas-tu ? Oh ! non, n’ajoute pas de nouvelles larmes à toutes celles que j’ai à verser le reste de mes jours ! Reste ici, s’il te tuait ! mon dieu ! Y songes-tu ? s’il te tuait !.... </p>
+          <p> Elle l’enlaça alors de toute la force de ses bras de crainte qu’il ne s’échappât ; — il y avait du délire dans ses paroles. </p>
+          <p> — Non, tu ne t’en iras plus !.... Oh ! ta vie m’appartient ! je ne veux pas que tu te battes ! Jure-moi que tu ne te battras point ! Et puis, y penses-tu ? quelle que soit l’issue de ce duel, c’est le moyen d’ébruiter une aventure qui, avec la grâce de Dieu, peut rester inconnue ! Toi, mort ! qui empêchera cet homme de parler ! Si tu le tuais, on rechercherait la cause de ce fatal combat !.... Tu vois donc bien que je ne puis échapper au des honneur ! Peut-être, comme tu me le disais, Anatole se taira ; mais pars, éloigne toi, ou qu’on te croie parti pour l’Angleterre, pour l’Italie, depuis hier, depuis huit jours... </p>
+          <p> — Et je reviendrai n’est-ce pas ? quand tu le voudras, un seul mot de toi, et je reviendrai à tes pieds vivre heureux de ton amour... </p>
+          <p> — Jamais ! </p>
+          <p> — Jamais ? </p>
+          <p> — Je l’avais bien dit que cet amour était criminel et que nous en serions punis. </p>
+          <p> — Vivre sans toi ! est-ce possible ? </p>
+          <p> — Oh ! c’est fini ! Pars, du moins certain d’avoir été aimé, et emporte avec toi ce dernier baiser !.... Il me restera ton souvenir pour me consoler dans ma tristesse... Aime moi toujours... </p>
+          <p> — Je reviendrai ! s’écria le jeune homme, avec un accent plein de larmes et d’émotion. </p>
+          <p> — Encore un baiser ! que tout mon amour s’épanche dans cet adieu. Seigneur ! que c’est payer cher un peu de bonheur. </p>
+          <p> Ils restèrent long-temps enlacés, et enfin Alfred s’arracha avec douleur de ses bras, en lui répétant toujours : </p>
+          <p> — Je reviendrai, je reviendrai. </p>
+          <p> Lorsque Alfred fut sorti, Amélie se mit à genoux et pria sincèrement, si la prière qui s’exhale d’un cœur coupable peut être sincère. </p>
+          <lb/>
+        </div>
+        <div title="VIII" type="chapter">
+          <p> VIII </p>
+          <lb/>
+          <p> C’était un terrible drame qui venait de se nouer et dont la catastrophe ne pouvait se se faire attendre ; le méchant triomphait, et tenait dans ses hideuses mains trois victimes dont il combinait le genre de mort. Elles ne pouvaient lui échapper, il ne s’agissait plus que de s’assurer une victoire éclatante. </p>
+          <p> Anatole était sorti de la maison, non pas honteux et confus, mais dissimulant l’affront qu’il venait d’essuyer et s’en consolant le plus facilement, car après tout c’étaient des armes qu’on lui donnait pour l’accomplissement de ses projets, Il avait lui-même et à dessein, provoqué cet affront, il ne s’en embarrassait guère, ce n’était pas là une affaire qui l’inquiétât. </p>
+          <p> Il s’achemina vers Nantes, rêvant aux moyens d’assouvir sa vengeance, dont il tenait tous les élémens. </p>
+          <p> — Madame Düraner, se disait-il ne me dénoncera pas à son mari. Il y a un crime qui plane sur la tête de chacun de nous ; elle se condamne en voulant me perdre. Nous sommes plus sûrs l’un de l’autre que deux complices. Il me serait facile de commencer mon ouvrage, en soufflant l’aventure, arrangée à ma façon, discrètement à l’oreille de quelques personnes, en la leur confiant comme un secret qu’elles me jureront inviolable ; ce serait un sûr moyen d’en répandre le bruit par toute la ville : dans deux jours tout le monde le saurait. Ces choses là gagnent avec la rapidité d’un incendie. Mais il se rencontrera de bonnes et charitables âmes qui crieront à la calomnie. Et puis parler moi-même, ce serait me noircir dans l’opinion publique, on m’appellerait ingrat, et l’on ne me croirait pas. </p>
+          <p> Anatole s’assit sur le bord d’un fossé, car il n’était plus qu’à quelque distance de la ville, et il n’y voulait entrer qu’avec son projet bien mùri. — Il s’abandonna à un moment de réflexion puis reprit : — Me servir de l’intermédiaire de Gustave Valent... Bast ! c’est un vaurien qui ne connaît que des drôes comme lui, chanteurs de mauvais lieux, coureurs d’estaminets. — En admettant que leurs voix arrive jusque dans le monde, on dira qu’ils en ont menti comme d’effrontés coquins qui ne savent ce que c’est que l’honneur d’une femme, qu’ils ont inventé celle calomnie au milieu d’une orgie, qu’ils ont trouvé cette histoire au fond d’un verre de punch. — Cela ne fait pas mon affaire, ajouta-t-il en se levant brusquement, et en se frappant le front avec colère ; il me faut de l’éclat, un scandale public, au grand jour, irrécusable. </p>
+          <p> C’est cela ! s’écria-t-il soudain, le moyen est sûr cette fois, et le coup sera plus terrible. Mais ils vont jouer de prudence, le comte n’osera plus se présenter à Treillis, de peur même que je n’aie parlé, et pour donner le change, il sera parti ou aura feint un voyage en se cachant. Qu’importe ! dans ce dernier cas, je saurai tout avant peu. Si non, j’en serai quitte pour attendre ; il reviendra. — Je vais rejoindre M. Düraner, et lui demander la permission de m’absenter pendant quelques jours, ce qu’il me faudra de temps pour bien dresser mes machines. </p>
+          <p> Après avoir ainsi arrêté son plan, Anatole gagna promptement la ville, et bientôt après il arriva aux bureaux de M. Düraner. </p>
+          <p> Il entra dans le cabinet de l’honnête et bon négociant, qu’il trouva attentivement occupé à faire manœuvrer des colonnes de chiffres. M. Düraner ne leva seulement pas la tête au bruit des pas du jeune homme ; mais étendand la main gauche vers lui, il lui fit un signe de silence, tandis que sa droite noircissait toujours le papier. Il ne savait même pas qui venait d’entrer ses yeux ne s’étaient pas détachés de ce champ de bataille où se livraient sans doute des combats du plus haut intérêt. Au bout de quelques minutes il jeta sa plume sur son bureau, se leva et se frottant joyeusement les mains ; à en juger par le bruit énorme que faisaient ses doigts osseux, sa joie devait être bien grande. Il s’avança vers Anatole, qui était demeuré immobile devant lui. </p>
+          <p> — Ah ! c’est toi, mon ami ! Excellente affaire, ajouta-t-il en lui frappant sur l’épaule ; excellente affaire... et il se prit de nouveau à se frotter les mains. </p>
+          <p> — Quelle affaire ? demanda le jeune homme. </p>
+          <p> — Superbe affaire ! superbe affaire !... Il eût répété éternellement ce mot là. </p>
+          <p> — Je vous en félicite. </p>
+          <p> — Deux cent mille francs d’un coup. </p>
+          <p> — Je m’en réjouis ; mais expliquez-vous. </p>
+          <p> — Mes deux navires viennent d’arriver des Indes ; trois jours avant leur départ, l’ANNA et l’AMÉLIE avaient mouillé sur rade ; une hausse prodigieuse et inattendue sur les denrées. — Tout calcul fait, bien pesé, bien raisonné, les résultats sous les yeux, deux cent mille francs, viens voir. — C’est un coup du ciel ! </p>
+          <p> M. Düraner fit suivre à son jeune commis tous les détours, tous les labyrinthes de ses calculs et de ses chiffres, appuyant chaque raisonnement, chaque preuve d’une exclamation de triomphe. Et quand il fut arrivé au bout : Eh bien, lui dit-il, qu’en penses-tu ? </p>
+          <p> — Je pense que c’est admirable et surtout fort heureux. </p>
+          <p> — Il m’est bien advenu, n’est-ce pas d’être resté en ville cette après dîner ? Je n’aurais appris cette nouvelle que demain, tandis que je vais l’annoncer à Madame Düraner tout à-l’héure. A propos, reprit-il, tu as averti Amélie de mon absence, car elle pourrait s’inquiéter. </p>
+          <p> — J’ai rempli mon message. </p>
+          <p> Depuis bien long-temps peut-être il n’était pas arrivé à M. Düraner de songer à sa femme si loin d’elle ; — mais deux cent mille francs peuvent bien rendre la mémoire et réveiller quelques sentimens endormis. </p>
+          <p> — Le négociant et le commis firent ensemble quelques pas dans la pièce où ils se trouvaient sans se dire une seule parole, tous deux livrés à des réflexions bien différentes : l’un songeant à une belle action qu’il allait faire, l’autre méditant sur l’issue probable d’un crime, qui était toute sa pensée. </p>
+          <p> Düraner rompit ce silence. </p>
+          <p> — Anatole, dit-il, tu sais toute mon amitié, tout mon dévoûment pour toi ; je t’ai recueilli dans ma maison parce que tu étais pauvre, orphelin et sans ami ; je t’ai chéri à l’égal d’un fils, parce que tu étais bon et honnête, parce que tu avais le cœur noble et éclairé. </p>
+          <p> — Vous savez, mon père (car il l’appelait toujours ainsi), répliqua l’hypocrite jeune homme, si j’ai payé vos soins et votre amitié par une tendresse profondément sincère... </p>
+          <p> — À toute épreuve, répliqua avec bonté le pauvre Orgon ; mais je cherchais avec empressement l’occasion de t’être utile ; vraiment je ne crois pas avoir fait encore assez pour toi, mon enfant. </p>
+          <p> — Où voulez-vous en venir ? </p>
+          <p> — A ceci : que la moitié de cette somme si heureusement gagnée aujourd’hui t’appartient ; — c’est la dot que je donne à ma belle-sœur, qui n’aura pas d’autre époux que loi ; la femme est jolie, la dot est ronde cela te convient-il ? Qu’en dis-tu. </p>
+          <p> — Oh ! merci !.... merci !... mon père. </p>
+          <p> — Ce n’est pas tout : à partir de ce moment tu es mon associé dans] ma maison de commerce ; tu commences sous une belle étoile, nos chances de succès sont brillantes. Eh bien ! à ton tour d’amasser fortune, et puisse le ciel te faire rencontrer un jour sur ton chemin quel qu’enfant malheureux comme tu l’as été et à qui tu rendes ce que je te donne aujourd’hui. Oh ! tu verras alors combien le cœur bat saintement et avec fierté dans la poitrine !... </p>
+          <p> — Vous êtes mon ange tutélaire ! s’écria l’infâme, en se jetant dans les bras que lui ouvrait son bienfaiteur ; et il osa pleurer sur ce sein qu’il devait empoisonner. Larmes in- — fernales qui coulaient comme un poison ! </p>
+          <p> — Écoutez, ajouta-t-il en prenant un air mystérieux : un aussi grand bienfait ne peut se payer que par un service égal. Je vous de mande à m’absenter trois jours, et je reviens vous dévoiler un secret de la plus haute importance. </p>
+          <p> — Ce secret ?... </p>
+          <p> — Patience, vous le saurez. </p>
+          <p> — Eh bien ! qu’il soit fait comme tu l’entends. Adieu donc, je retourne à Treillis. </p>
+          <p> Ils se séparèrent en se serrant la main. </p>
+          <p> Vous voyez que l’idée de son crime n’avait pas abandonné Anatole d’une minute ; l’éclatante générosité de M. Düraner lé trouva insensible, et n’éteignit pas dans son cœur cette pensée de vengeance qu’il nourrissait et qu’il s’apprêtait à faire briller au grand jour. Avec son esprit de méchant homme, il conclut que cet acte de générosité était une amorce, une tentation dont le ciel cherchait à l’éblouir. Mais il ne s’y laissait pas prendre il avait ce qu’il appelait sa mission à accomplir, rien ne devait l’en détourner. </p>
+          <p> Il y a des gens qui persévèrent avec tant d’acharnement et de conviction, pour ainsi dire, dans le mal qu’on est vraiment tenté de croire comme le prétendait Anatole, qu’ils ont une véritable mission à accomplir, tant ils mettent de calculs et une sorte de conscience à arriver à l’accomplissement des des plus infâmes combinaisons, et à tendre pièges continuels à la vertu. Anatole avait en cela raison de dire, que les hommes de bien étaient des ennemis qu’il leur fallait combattre sans cesse, et renverser. </p>
+          <p> Il ne pouvait s’empêcher de se croire un de ces prédestinés, lorsque lui si méchant et si pervers, si plein de pensées mauvaises, avait été recueilli par un homme probe, honnête et généreux qui passait sa vie à imaginer de nouveaux bienfaits pour l’en accabler et, lorsqu’il fouillait dans son cœur, il n’y rencontrait pas un sentiment de reconnaissance, pas un battement qui ne fût corrompu et souillé d’infamie. </p>
+          <p> Évidemment, à ses yeux, il y avait là lutte entre le ciel et l’enfer ; à qui resterait la victoire ? il n’en savait rien ; mais il était du devoir de chacun de s’essayer à triompher. Ce qu’il appelait un cœur faible eût succombé à cette dernière attaque de l’homme de bien ; mais il s’était senti assez fort pour résister, et il avait grandi dans sa pensée. Il ne voyait pourtant pas encore le bon génie qui devait sauver Amélie, et se demandait si sa victoire ne serait pas trop facile. </p>
+          <p> Amélie ne put s’empêcher de laisser tomber quelque larmes en aperçevant la voiture de son mari s’arrêter dans la cour ; mais elle voila aussitôt cette émotion sous un sourire charmant. </p>
+          <p> Deux cent mille francs sont chose propre à nous jeter la joie dans le cœur. Aussi M. Düraner n’était pas plus triste que d’habitude, et de plus il avait la conscience d’une bonne action qu’il venait de consommer ; il était rayonnant de bonheur ! Il embrassa sa femme avec effusion et lui parla immédiatement de ses deux cent mille francs. </p>
+          <p> — Mais ce n’est pas tout, ajouta-t-il en prenant la main d’Amélie et en s’asseyant à ses côtés. </p>
+          <p> — Quoi donc ? demanda la jeune femme. </p>
+          <p> — Une chose qui te fera bien plaisir, j’en suis sûr. </p>
+          <p> — Mais encore !... </p>
+          <p> — Je remercie le ciel de m’avoir envoyé ce surcroît de fortune pour me permettre de réaliser un de mes plus beaux rêves. </p>
+          <p> — Lequel, mon ami ? </p>
+          <p> On devinait facilement à l’accent avec lequel Amélie adressait cette question à son mari, qu’elle redoutait, qu’aveuglé toujours par son amitié pour Anatole, il n’eût trouvé moyen d’enrichir cet infâme au moment où, il venait de commettre une action si basse. </p>
+          <p> — Eh bien ! reprit Düraner, j’ai destiné la moitié de celte somme à la dot de ta sœur, je veux qu’elle tienne son bonheur de moi. </p>
+          <p> — Oh ! que je te remercie, mon ami : je ne regrette pas cette part de ma fortune qui m’est enlevée puisqu’elle est destinée à une sœur chérie... </p>
+          <p> — Et sais-tu que j’ai déjà un mari pour elle ! </p>
+          <p> — Déjà ? demanda Amélie avec une curiosité mêlée de crainte. </p>
+          <p> Elle était effrayée, à chaque parole de son mari de voir tomber le nom d’Anatole comme un poison au milieu de ce bonheur qu’elle éprouvait. </p>
+          <p> — Un homme jeune, bon, qui l’aimera ; pauvre, mais qui deviendra riche, parce qu’il a du courage, l’amour du travail, et que de ce soir il est mon associé... </p>
+          <p> Les craintes d’Amélie allaient toujours croissant. </p>
+          <p> — Son nom ? </p>
+          <p> — Tu ne le devines pas ? </p>
+          <p> — Du tout. </p>
+          <p> — Anatole... </p>
+          <p> — Anatole ! s’écria Amélie. Elle devint pâle comme la mort. </p>
+          <p> Düraner ne s’aperçut pas de l’émotion de sa femme, et ne comprit pas que ce cri était une exclamation du désespoir qui lui échappait du cœur. </p>
+          <p> Il y eut un moment de silence pendant lequel mille émotions horribles torturèrent cette pauvre femme. Le bonheur qu’elle avait entrevu pour sa sœur n’était plus à ses yeux qu’un supplice affreux, cette jeune fille une victime immolée ! Tous ses membres tremblaient encore au souvenir du danger qui l’avait menacée. Et cet homme qui, quelques heures auparavant, avait conçu sur elle les plus criminels projets, cet homme allait devenir l’époux de sa sœur. Elle eut un instant la pensée généreuse, au risque de se perdre, de tout révéler à M. Düraner et de sauver ainsi l’avenir de sa sœur ; mais elle s’arrêta à temps. </p>
+          <p> — Est-ce M. Anatole lui-même qui a sollicité la main d’Anna ? demanda-t-elle. </p>
+          <p> — Non, ma chère amie, c’est moi qui l’ai choisi comme l’homme le plus digne de faire son bonheur ; ce choix te convient-il ? </p>
+          <p> — As-tu annoncé cette nouvelle à M. Anatole ? </p>
+          <p> — Oui, je l’ai vu ce soir en ville, mais il est absent pour trois jours. </p>
+          <p> — Et as-tu fixé l’époque de ce mariage ? </p>
+          <p> — Non, pas encore ; je veux m’entendre avec toi là-dessus. Ce sera le plutôt possible, n’est-ce pas ? </p>
+          <p> — Puisse le ciel nous donner le temps de dévoiler les horribles trames de cette lugubre histoire, dit Amélie à part. Je sauverai ma sœur, je la sauverai ! </p>
+          <p> Düraner prit la main de sa femme, la baisa tendrement, et ils sortirent ensemble pour se promener dans le jardin. </p>
+          <lb/>
+        </div>
+        <div title="VIII" type="chapter">
+          <p> VIII. </p>
+          <lb/>
+          <p> Anatole, en quittant le négociant, avait rejoint son ami Gustave Valant, et tous deux s’étaient dirigés vers la campagne, aux environs de Treillis, et non loin du château de Montarlier. Ils campèrent chez une vieille paysanne qui leur offrit un gîte pour trois jours. </p>
+          <p> Il y avait quelque chose d’effrayant à contempler ces deux hommes, l’un méchant par philosophie , l’autre faisant le mal brutalement, par instinct et sans raisonnement. </p>
+          <p> — Enfin, dit Gustave en arrivant, vas-tu m’expliquer ce que tu comptes faire de moi, avec ton air farouche et tes yeux de conspirateur ? </p>
+          <p> — Tu es un ami sincère, n’est-ce pas ? un ami dévoué, prêt à tout entreprendre pour m’aider. </p>
+          <p> — Un ami digne de toi, je m’en flatte et m’en glorifie. Entre gens qui se valent et s’entendent comme nous, c’est à la vie à la mort : qu’y a-t-il à faire ? </p>
+          <p> — Peut-être une mauvaise action </p>
+          <p> — Enchanté de te rendre ce service, mais cela vaut-il la peine que tu m’aies arraché à mon estaminet. </p>
+          <p> — Oui. </p>
+          <p> — C’est donc un service étrange. </p>
+          <p> — Étrange, comme lu dis. </p>
+          <p> — Parle donc. </p>
+          <p> — Tu n’as pas de scrupules ? </p>
+          <p> — Des scrupules ? pour qui me prends-tu donc ? Est-ce un meurtre ? un duel ? un vol, peut-être ? </p>
+          <p> — Rien de tout cela, mon ami, ni vol, ni meurtre, ni duel. Un duel ; oh peut se faire tuer, c’est vilain. </p>
+          <p> — Tant mieux, donc. </p>
+          <p> — Assassiner quelqu’un ou le voler, ce n’est pas honorable ; mais je préférerais encore cela ; on a des chances d’avoir la vie sauve, ou de s’enrichir. </p>
+          <p> — Tant pis donc alors. </p>
+          <p> Anatole raconta de point en point à son digne ami toute son aventure, sans en omettre la prise au collet, et l’exclusion tant soit peu rude de la chambre. Gustave avait ouvert de grands yeux, et saisissant tout à coup le bras d’Anatole il s’écria avec indignation : </p>
+          <p> — Et lu ne tues pas cet homme-là ? Un drôle qui se permet de prendre un garçon comme toi au collet. Tu me fais honte. </p>
+          <p> — Il mourra, calme-toi, mais ce ne sera pas de ma main. </p>
+          <p> — A la bonne heure, touche là, je te reconnais. Mais comment t’y prendras-tu ? </p>
+          <p> J’avais conçu divers projets : celui entre autres, de perdre la réputation de Madame Düraner, en répandant par toute la ville que je l’avais surprise en tête-à-tête avec un amant ; mais je n’avais à ma disposition que des drôles comme toi, des vauriens qui n’ont pas de relations dans le monde et qu’on ne croirait pas s’ils osaient avancer une pareille chose. </p>
+          <p> — Triste effet d’une mauvaise conduite, dit Gustave en soupirant ; si j’avais prévu ce cas, je me serais réservé des connaissances dans le monde, exprès pour l’occasion, quant à loi, il ne t’est pas possible de parler, je comprends bien cela ; alors ? </p>
+          <p> — Voici ce que j’ai trouvé : lu vas prendre un habit de paysan, nous en aurons un facilement, aller au château de Montarlier, t’informer si le comte y est ; on te répondra peut être qu’il est absent, car je suppose bien qu’il s’est caché ; alors tu entraîneras un de ses gens, n’importe lequel, au cabaret ; grisele, et fais ensorte qu’il te dise où est son maître. </p>
+          <p> — Pour ce qui est de le griser fie-toi à moi. Après ? </p>
+          <p> — Quand il t’aura dit où est le comte, tu iras le trouver, fut-ce à dix lieues d’ici, tu lui remettras cette lettre ; il le demandera d’où elle vient : lu lui répondras que c’est un domestique qui le l’a donnée et qui attend la réponse ; tu éviteras qu’on te suive, et tu me rapporteras la réponse. </p>
+          <p> — Cette lettre, que signifie-t-elle ? </p>
+          <p> — Un rendez-vous, donné par madame Düraner à son amant. Lis... </p>
+          <p> Le billet était ainsi conçu : </p>
+          <lb/>
+          <p> « Grâces à Dieu, toute cette affaire est encore un mystère ; je suis allée en ville rien ne transpire ; ainsi je vous attends chez moi, à Treillis, jeudi à midi ; ne manquez pas de venir. » </p>
+          <p> AMÉLIE. » </p>
+          <lb/>
+          <p> Comment t’es-tu procuré celle lettre ? </p>
+          <p> — C’est moi qui l’ai écrite. </p>
+          <p> — Toi ?... </p>
+          <p> — Regarde, jamais écriture fût-elle mieux imitée ? </p>
+          <p> En effet, à en juger par une lettre d’Amélie qu’Anatole mettait, sous les yeux de Gustave à côté de la sienne, on eût dit que la même main les avait écrites toutes les deux. </p>
+          <p> — Et viendra-t-il à ce rendez-vous ? </p>
+          <p> — Il y viendra, sois-en sûr. Tu comprends maintenant. </p>
+          <p> — A merveille. Tu es un homme de génie, par tous les diables ! </p>
+          <p> Comme la nuit était avancée, les deux amis se séparèrent. Gustave alla se coucher, et au point du jour il était en route. </p>
+          <p> Anatole ne s’était point mis au lit ; il passa la nuit dehors à se promener : </p>
+          <p> Une belle nuit du mois d’août, pleine de calme et de magnificence. Mais le dôme étoilé qui rayonnait sur sa tête, les fraîches brises parfumées qui effleuraient son front, la douceur mélancolique de la lune qui descendait sur la terre et frisait rêver la nature ; rien de toute cette splendeur du ciel, à une pareille heure, ne porta le moindre baume à son cœur. C’était pourtant une de ces nuits que nous autres nous payerions bien cher, pour en respirer la poésie rien qu’une heure ; une de ces nuits où l’âme s’épure en se faisant grande, comme l’immensité qui l’entoure, chaste comme les étoiles qui nous jettent leurs précieux rayons, riche de cet éclat qui déborde de toutes parts et nous inonde. Anatole, lui, s’imagina facilement que la nature s’était ainsi parée de ses plus belles lumières pour faire fête à ses hideux projets, et il osa élever son crime jusqu’à la poésie ; le jour l’avait surpris dans la contemplation de sa pensée, et au moment où Gustave s’était mis en route il lui avait recommandé de nouveau la prudence et la célérité. </p>
+          <p> Avec quelle anxiété il attendit le retour de son messager, vous le devinez ! Comme les heures lui parurent lentes à s’écouler, vous vous en rendez compte. Il dévorait le temps avec la même impatience que le coursier ronge son frein. Par instant il lui prenait des accès de rage en songeant que tout cet échafaudage pouvait s’écrouler et disparaître comme une illusion ; il savait bien que sa vengeance ne serait qu’ajournée, mais il avait hâte de l’assouvir, et il se plaignait déjà qu’elle n’eût pas encore éclaté. On croirait volontiers que le ciel favorise les méchans dans leurs projets, et qu’il ne les arrête par aucun obstacle, tant ils trouvent de facilité à les exécuter ; mais il faut penser que cela est ainsi parce qu’il a ses desseins arrêtés, et que plus tôt le mal s’accomplit, plus tôt il est puni ! </p>
+          <p> Gustave ne se fit pas attendre, à deux heures de l’après-midi il était de retour à la cabane de la vieille. Du plus loin qu’Anatole l’aperçut, il courut à lui. </p>
+          <p> — Eh bien ! lui cria-t-il. Et il l’écouta avec anxiété. </p>
+          <p> — Eh bien ! répéta Gustave en le regardant d’un air goguenard. </p>
+          <p> — Parle vite ; je suis au supplice ; parle vite. </p>
+          <p> — Un moment, pardieu ! laisse-moi me reposer ; la route est longue, et je suis fatigué ; à boire donc, j’ai le gosier sec, il y a deux heures qu’une goutte de vin n’a passé par là... Merci ! A présent, écoute-moi bien : M. de Montarlier n’est pas à son château. </p>
+          <p> — Malédiction ! </p>
+          <p> — Tu t’y attendais. </p>
+          <p> — Est-ce là tout ce que tu as à me dire ? </p>
+          <p> — Patience donc ! ne t’emporte pas. M. le comte est absent, c’est ce que m’a répondu un grand laquais en livrée, un gaillard plus grand que toi et moi. Alors j’ai rôdé aux environs du château, et j’ai rencontré son garde-chasse, le visage rouge et tout en sueur ; cet homme-là me fit l’effet d’avoir soif ; je l’accostai, et après quelques minutes de conversation, je l’engageai à prendre un verre devin, proposition qui lui sourit on ne peut plus. Mais il m’a fallu terriblement vider de bouteilles et remplir terriblement de verres avant de lui faire battre la campagne ; c’est un rude joûteur, foi d’ivrogne ; néanmoins, je le grisai de main de maître, et sans faire usage de grande diplomatie, je finis par apprendre que le comte avait enmené hier son valet de chambre avec lui en disant qu’il partait pour Paris et en recommandant à tout le monde de dire qu’il était absent depuis trois jours déjà. Mais, a ajouté ce grand coquin, je sais bien moi qu’il n’est pas à Paris, car je l’ai rencontré dans le petit chemin qui conduit chez madame la baronne... </p>
+          <p> — Sa sœur ? </p>
+          <p> — Tout juste. Et ce matin encore, un des domestiques de la maison est allé lui porter des paquets et des lettres chez la dite baronne, preuve qu’il n’en est pas parti. J’étais satisfait de l’explication et laissant mon homme ivre sous la table, je m’acheminai vers le château de la baronne de Forsène : es-tu content, et suis-je un ami comme il te les faut, hein ? </p>
+          <p> — Achève, achève au plus vite. </p>
+          <p> — J’arrivai donc au terme de mon voyage et remis le billet ; on m’interrogea passablement ; je fus discret, comme tu penses, et le diable m’enlève, s’ils ont été capables de me suivre à travers tous les détours que j’ai pris pour arriver ici. </p>
+          <p> — Qu’a-t-il dit en recevant la lettre ? </p>
+          <p> — Il l’a baisée sept, huit ou quinze fois, en la portant alternativement de son cœur à ses lèvres ; puis il m’a rendu celle-ci en échange. </p>
+          <p> — Donne, donne-donc ; pourquoi tout ce long récit ?... </p>
+          <p> Anatole arracha des mains de son ami un billet tout parfumé, plein de passion et de douces tendresses, dont les délicates et chaudes expressions arrachèrent de sa bouche des milliers d’imprécations et d’anathèmes. </p>
+          <p> — Il viendra ! s’écria-t-il en embrassant Gustave, il viendra ! </p>
+          <p> — A demain ! jusqu’à demain encore, et cette femme verra lequel de nous deux était le plus fort. A midi demain tu pourras jaser tant que tu voudras, proclamer à son de trompes le déshonneur de madame Düraner, mais jusque-là, silence ! </p>
+          <p> — Oh ! Parbleu ! répliqua Gustave, aujourd’hui comme demain, j’aurais beau parler, tu sais bien qu’on ne m’écouterait pas ; je crierais pardessus les toits que madame Düraner a un amant, que je m’égosillerais inutilement ; ainsi, mon ami, je ne me donnerai pas celte peine ; d’ailleurs je m’en inquiète fort peu. Maintenant que j’ai fait tout ce que j’avais à faire, je vais rentrer paisiblement à mon estaminet, comme un sol dans ses foyers ; or, tu sais qu’une fois que j’y suis, je n’en sors pas facilement ; si tu veux me voir plus tard, c’est là que tu me trouveras ; j’estime plus un verre de punch ou une partie de billard, vois-tu, que l’honneur et la réputation de toutes les femmes de Nantes ; qu’elles trompent leurs maris, ou qu’elles leur restent fidèles, peu m’importe ! je n’en retire aucun profit : ce n’est pas par ma faute qu’il leur arrivera malheur. Ainsi donc, adieu ! je ne sais plus même le nom de la femme dont lu m’as parlé. Je le noie dans ce verre de vin Adieu ! </p>
+          <p> Après ce long et triste discours, que Gustave prononça du ton le plus grotesque et le plus naturel en même temps il mit son chapeau serra la main de son ami et regagna au plus vite son estaminet, où bientôt l’ivresse et l’abrutissement lui laissèrent à peine souvenir de tout ce qu’il avait fait une heure auparavant ; il avait oublié le nom même d’Anatole. Ces sortes d’amitiés ont cela de particulier, qu’elles ne vivent que durant le temps qu’on se voit, le cœur ne leur prêtant aucune aide. Une minute suffit pour les effacer. Gustave ne pouvait donc pas être, en aucun cas, un ennemi dangereux à la réputation de madame Düraner ; ce qu’il savait, ce qu’il avait vu n’existait plus pour lui. </p>
+          <lb/>
+        </div>
+        <div title="IX" type="chapter">
+          <p> IX </p>
+          <lb/>
+          <p> Le moment de la catastrophe approchait. </p>
+          <p> Le matin du jour assigné pour le rendez-vous, Anatole était à six heures aux bureaux de M. Düraner qui vint l’y rejoindre peu d’instans après. </p>
+          <p> Anatole avait déguisé l’indicible joie dont il était possédé sous les dehors les plus sombres et les plus tristes. — L’acteur venait de quitter la coulisse et il entrait en scène. — Il avait le visage d’un homme profondément accablé, si bien qu’il était impossible de deviner que son cœur nageait dans la joie ; mais vous connaissez cette consolante vérité, que la joie des méchans est toujours empoisonnée d’un peu d’amertume ; il ne lui était donc pas difficile de se grimer si bien. </p>
+          <p> — Quel air fatal tu as, mon cher ? lui dit M. Düraner en entrant. </p>
+          <p> — Lorsqu’on a des nouvelles tristes et douloureuses à annoncer... </p>
+          <p> — Des nouvelles tristes et douloureuses ! interrompit le négociant en pâlissant, songeant plutôt à un malheur qui pût le menacer dans l’exploitation de ses affaires qu’à l’horrible aveu qu’Anatole allait lui faire. </p>
+          <p> — Des nouvelles épouvantables !... reprit l’infâme. </p>
+          <p> — C’est donc enfin ce secret ?... J’aime mieux ne pas l’apprendre. Il sera temps de le savoir quand le ciel voudra me frapper : je suis prêt à tout. </p>
+          <p> — Écoutez, Monsieur Düraner. — Je ne dois pas vous laisser attendre plus longtemps. </p>
+          <p> — Il m’en coûte de vous faire un pareil aveu : mais je le dois... </p>
+          <p> — Tais-toi. — Je ne veux rien entendre, te dis-je. </p>
+          <p> Anatole ne prit pas garde, on pense, à ces supplications, et il jeta ces mots : « Vous êtes dupe. » avec un sang-froid imperturbable puis il en attendit l’effet. </p>
+          <p> Le négociant demeura silencieux, comme s’il n’avait rien entendu. </p>
+          <p> — Vous êtes dupe, répéta-t-il, vous êtes dupe. </p>
+          <p> Même silence. </p>
+          <p> Anatole s’impatienta de cette obstination, et lui cria de nouveau : </p>
+          <p> — Vous êtes dupe !... </p>
+          <p> — Dupe ? — Et de qui donc ? demanda enfin Düraner avec calme. </p>
+          <p> Anatole n’hésita pas, et lui répondit d’une voix ferme : </p>
+          <p> — Votre femme vous trompe !... </p>
+          <p> Düraner s’était laissé aller à toutes sortes de conjectures jusque-là ; mais sa pensée ne s’était pas arrêtée un moment sur Amélie, on le devine aisément. Ces paroles furent un coup de foudre pour lui. </p>
+          <p> — Ma femme me trompe ! s’écria-t-il, d’une voix altérée. </p>
+          <p> — Oui. </p>
+          <p> — C’est impossible ; vous mentez.... </p>
+          <p> — Je vous le jure... </p>
+          <p> — Vous mentez, vous dis-je ; cela est impossible. — Qui vous l’a dit ? On s’est joué de vous. </p>
+          <p> — Personne ne s’est joué de moi. — J’ai vu. </p>
+          <p> — Des preuves... Il me faut des preuves ; on ne lance pas ainsi en l’air de ces mots qui vous tuent... Il ne suffit pas de me dire que ma femme me trompe... et me jeter le poison dans le cœur... Il me faut des preuves... Il me les faut... </p>
+          <p> — Vous les aurez répondit froidement Anatole. </p>
+          <p> — Donnez-les moi sur l’heure... Où sont elles ?... </p>
+          <p> — Sur l’heure ; c’est impossible !... Mais plus tard, aujourd’hui même... </p>
+          <p> — Plus tard !... Vous auriez le temps d’ourdir quelque trame d’ici là... Je ne vous crois pas... Allez vous-en. </p>
+          <p> — Aujourd’hui même, à midi, venez aux environs de Treillis ; quand il sera temps, je vous avertirai... et si vous ne trouvez pas le comte de Montarlier aux pieds de votre femme... </p>
+          <p> — C’est faux, s’écria de nouveau Düraner, en saisissant le bras d’Anatole d’une main, et lui fermant la bouche de l’autre ; c’est faux ! entendez-vous. Et moi qui vous écoute ainsi, sans vous chasser !... </p>
+          <p> Anatole savait bien que le négociant n’en ferait rien : la jalousie s’était emparée de lui, et pour tout au monde il n’aurait pas voulu ne pas entendre quelles preuves l’infâme allait lui donner, fussent-elles illusoires, sauf à les vérifier. Aussi Anatole ne bougea pas. </p>
+          <p> — Venez là où je vous dis, reprit-il, et si vous ne trouvez-pas M. de Montarlier aux pieds de votre femme, je consens à passer pour un misérable et un calomniateur ! </p>
+          <p> — Vous avez dit le mot... vous êtes condamné d’avance... car cela est impossible !... </p>
+          <p> — Je vous jure que j’ai dit la vérité... et d’ailleurs vous verrez... </p>
+          <p> — Je n’irai point... </p>
+          <p> Anatole fut déconcerté un moment. Il comptait davantage sur la jalousie. </p>
+          <p> — Il le faut, ne serait-ce que pour moi ; car je ne puis rester sous le poids de l’accusation dont vous m’accablez. </p>
+          <p> — Je n’irai point. </p>
+          <p> — Eh bien ! alors, vivez avec une femme adultère ; allez recevoir ses baisers empoil Quand à moi, je m’éloigne... misérable et calomniateur à vos yeux... Je ne puis demeurer chez un homme qui me méprise... Adieu. </p>
+          <p> Un éclair de raison traversa soudain l’esprit de Düraner, et il arrêta Anatole sur le seuil de la porte. </p>
+          <p> — J’irai, lui dit il, mais sortez et que je ne vous revoie que quand il le faudra. A onze heures et demie vous me trouverez à cent pas de la maison, et le mystère s’éclaircira. Oui j’irai ! s’écria-t-il quand Anatole fut parti. </p>
+          <p> Le pauvre Düraner n’avait montré devant le jeune homme qu’une colère concentrée ; quand il fut parti, il se jeta dans un fauteuil et fondit en larmes. C’était un coup terrible dont il venait d’être frappé. Toutes ses fibres étaient brisées, toute son organisation boule-versée. Cet homme, malgré son caractère froid et calculatif, aimait sa femme à l’adoration. Quand les spéculations commerciales faisaient place à ses affections (chose fort rare, il est vrai) on découvrait dans le cœur de Düraner les nuances les plus délicates de sentiment. Nous en avons la preuve dans son aveugle amitié pour Anatole, et dans l’amour que je vous garantis qu’il avait pour sa femme. </p>
+          <p> Si le crime était avéré, son bonheur, sa vie peut-être étaient compromis ; si c’était une calomnie, l’idée d’une atteinte portée à la réputation de sa femme empoisonnait son cœur. Il résolut donc, quoiqu’il en pût être, de sauver à tout prix l’honneur d’Amélie aux veux du monde. </p>
+          <lb/>
+        </div>
+        <div title="X" type="chapter">
+          <p> X </p>
+          <lb/>
+          <p> L’heure fatale avait sonné. Anatole fit bonne garde et au moment où il aperçut Alfred entrer par l’allée qui conduisait à la maison, il courut avertir Düraner. </p>
+          <p> — Venez, Monsieur, il est chez vous. </p>
+          <p> Le mari s’achemina promptement, et lorsqu’il ne fut plus qu’à quelque distance de la maison, restez ici, dit-il à Anatole, et veillez bien à ce qu’il ne s’évade pas. </p>
+          <p> Puis il monta droit à la chambre de sa femme. </p>
+          <p> Il y avait une circonstance qui favorisait singulièrement le projet d’Anatole, et qui explique l’empressement naturel avec lequel Alfred accepta le prétendu rendez-vous qu’Amélie lui donnait. </p>
+          <p> En sortant de Treillis, il avait écrit immédiatement à madame Düraner pour lui apprendre qu’il se retirait pendant quelques jours au château de la baronne de Forsène, sa sœur, et qu’il avait donné chez lui les ordres nécessaires pour qu’on annonçât qu’il était parti pour Paris depuis trois jours, et qu’il attendait avec impatience qu’elle le rappelât à Treillis. </p>
+          <p> Rien donc n’avait pu laisser supposer à M. de Montarlier qu’il y eût une infâme machination dans toute cette affaire. </p>
+          <p> Mais Amélie était demeurée stupéfaite en voyant Alfred entrer chez elle. </p>
+          <p> — Malheureux imprudent ! qui vous amène, s’écria-t-elle ; y songez-vous ? </p>
+          <p> — Cette lettre. </p>
+          <p> — Quelle lettre ? </p>
+          <p> — Cette lettre que vous m’avez écrite... </p>
+          <p> — Moi ? </p>
+          <p> — Elle est bien de vous ! cette écriture fine et délicate peut-elle avoir été tracée par une autre main que par cette main charmante que je baise et presse tendrement sur mon cœur. </p>
+          <p> — Moi ! jamais, je le jure ! Alfred, sur mon âme, je n’ai point écrit cette lettre </p>
+          <p> — Voyez ! </p>
+          <p> — Mais c’est une horrible trahison. C’est bien mon écriture, mais la lettre n’est pas de moi. </p>
+          <p> — Et celle que je vous ai envoyée ? </p>
+          <p> — Je ne l’ai point reçue... </p>
+          <p> — Comme vous dites il y a une trahison là-dedans ! Qui donc a pu tramer cet atroce complot ! </p>
+          <p> — Anatole ! s’écria Amélie épouvantée, Anatole ! ce ne peut être que lui. Allons, nous sommes perdus. Sauvez-vous !.... </p>
+          <p> Elle achevait à peine ces mots, que la porte se brisa et que M. Düraner apparut sur le seuil, pâle et défait. Alfred s’avança vers lui et fit un geste comme pour se servir d’un poignard qu’il tenait à la main. </p>
+          <p> Amélie était tombée à genoux aux pieds de son mari. </p>
+          <p> — Cachez cette arme, monsieur, dit le plus froidement qu’il put, M. Düraner. Vous voyez que je suis inoffensif. Je n’ai pas une arme sur moi. Je viens seulement sauver mon honneur et la réputation de madame. </p>
+          <p> — Grâce ! s’écria Amélie, qui se traînait sur le plancher, grâce ne le tuez pas ; tout ceci est une trahison ! Je ne suis point coupable, votre honneur n’est point attaqué. </p>
+          <p> — Ce n’est point de cela qu’il s’agit maintenant, reprit le négociant. Tenez, Monsieur, entrez dans cette armoire. Cachez-vous, n’hésitez pas... Ne craignez rien... Je ne vous y ferai pas murer, je vous le jure... Je veux seulement éviter un scandale. Il y a quelqu’un en bas qui l’attend et qu’il faut confondre. Il y va de mon honneur et de celui de madame... Comprenez-vous ?.. </p>
+          <p> Alfred entra dans l’armoire où M. Düraner l’enferma en retirant la clé. </p>
+          <p> — Maintenant, Madame, relevez-vous, asseyez-vous là, et pour un moment, je vous demande du calme. Votre état, me fait pitié. </p>
+          <p> Il s’approcha d’une table plia une feuille de papier sous forme de lettre, et sonna violemment un domestique. </p>
+          <p> — Faites venir M. Anatole, qui est là bas au bout de l’avenue ; et vous allez sur le champ, sans perdre une minute, porter cette lettre chez M. le comte de Montarlier. Vous voyez, Madame, ajouta-t-il, en se retournant vers Amélie, que je prends soin de cacher votre honte ; ce domestique était le seul qui restât dans la maison ; j’ai déjà écarté tous les autres. </p>
+          <p> Au nom d’Anatole. Amélie fit un mouvement convulsif. Elle avait l’assurance enfin qu’il était l’auteur de cet affreux malheur. </p>
+          <p> — Tenez, dit-elle à son mari voici la lettre qu’il a écrite en mon nom à M. de Montarlier, la lettre qui est cause de ce qui se passe aujourd’hui. — Je ne sais plus sur quoi vous jurer, car pour vous je n’ai plus d’honneur ! mais je vous jure que je ne l’ai point écrite ; comme je vous jure aussi que je ne suis point aussi coupable que vous le croiriez.... Oh ! c’est une triste et lugubre histoire que je vous dirai... </p>
+          <p> A ce moment Anatole entra et il demeura stupéfait en n’apercevant pas sa victime. </p>
+          <p> — Eh bien ! monsieur, lui dit sévèrement M. Düraner, vous avez fait bonne garde, j’espère, vous n’avez pas vu M, de Montarlier s’évader, je pense, et pourtant il n’est point ici. Ah ! monsieur, ce matin, je vous disais bien que vous vous étiez condamné vous-même, lâche et misérable qui vous jouez de la vie d’un homme et de la réputation d’une femme ! </p>
+          <p> En disant cela il s’était rapproché d’Amélie et l’avait entourée de ses bras comme pour la protéger. </p>
+          <p> — Où est M. de Montarlier, continua-t-il, où est cet amant de ma femme ? </p>
+          <p> — Dans cette armoire, répliqua Anatole. </p>
+          <p> — Impossible, monsieur, j’en avais la clef sur moi, la voici : êtes-vous convaincu maintenant ?... Sortez, infâme ! </p>
+          <p> — Non, je ne suis pas convaincu ; et cette lettre, dit-il en présentant à Düraner le billet écrit la veille par Alfred. </p>
+          <p> — Ce billet est faux : il doit avoir été écrit par vous, vous en êtes capable, s’écria M, Düraner, en le lui arrachant des mains, et il le déchira en morceaux. </p>
+          <p> Il ne restait plus rien à Anatole de tout cet échafaudage d’infamies qu’il avait si habilement construit. Il n’avait plus une seule preuve en main. Mais il faut avouer qu’il dut être bien déconcerté de rencontrer le bon ange d’Amélie, dans celui-là même dont il voulait se servir comme instrument pour la perdre. </p>
+          <p> — L’enfer vous protège, madame, lui dit il en passant ; puis il sortit en jetant un regard de malédiction sur elle. </p>
+          <p> Alors, M. Düraner ouvrit l’armoire. </p>
+          <p> — Vous êtes libre maintenant, monsieur, dit-il à Alfred ; mais si vous êtes un homme de cœur... et d’honneur, vous garderez dans votre sein un terrible secret ; mais je tremble que vous n’ayez pas la force de le porter longtemps, car c’est un lourd fardeau, et vous êtes jeune... </p>
+          <p> — Assez, monsieur. — Je vous comprends, et je cours achever de sauver votre honneur, c’est à moi que ce devoir appartient. </p>
+          <p> Düraner n’eut pas le temps d’adresser le moindre reproche à sa femme ni même d’entendre le récit des infâmes machinations, d’Anatole. — Tant d’émotions, tant de colère, tant de violences concentrées lui avaient rompu un vaisseau, dans la poitrine ; il se prit à vomir le sang, et L’hémorrhagie ne s’arrêta que le soir lorsqu’il mourut, </p>
+          <p> Alfred avait rejoint Anatole à la porte de la ville ; il le força de monter dans sa voiture, et le ramena chez lui. Là ils s’enfermèrent dans une chambre, et pour ne point laisser à ce misérable les chances d’un combat dont il pouvait tirer avantage, ils se placèrent chacun un pistolet sur la gorge, et la détonnation annonça la mort de tous les deux. </p>
+          <p> Le domestique que M. Duraner avait envoyé chez Alfred rapporta la lettre avec cette nouvelle, au moment où le négociant expirait. </p>
+          <p> Il n’existait plus un seul témoin de ce drame, et la réputation d’Amélie était sauvée. Il se fit bien quelque bruit sur la mort subite de M. Düraner, et sur ce singulier duel, mais on ne savait que penser ; il n’était possible de rien affirmer. L’opinion la plus générale fut que c’était le duel qui avait porté le coup de la mort à Düraner, d’autant qu’il s’était écrié : Pauvre jeune homme ? en apprenant la nouvelle de cet événement. C’était le domestique lui-même qui l’affirmait ; il n’y avait plus à en douter. </p>
+          <p> Quant à Amélie, elle alla pleurer dans un couvent sa faute et les trois morts dont elle était la cause. Sa sœur Anna hérita de toute cette immense fortune, et peu de temps après elle épousa un énorme baron allemand qui avait trouvé son titre de noblesse au fond d’un coffre vide, qu’il avait vidé à cet effet, comme font beaucoup d’autres. </p>
+        </div>
+      </div>
+      <div title="HISTOIRE D’UN PRÉTENDU SONNET." type="nouvelle">
+        <p> HISTOIRE D’UN PRÉTENDU SONNET. </p>
+        <p> OU  DIX ANS D’AMOUR. </p>
+        <lb/>
+        <div title="I" type="chapter">
+          <p> I </p>
+          <lb/>
+          <p> J’ai connu Edmond de Bervé, il y a dix ans ; un bon, joyeux et assez spirituel garçon, dépensant follement la vie, ne lui trouvant d’absynthe que celle qu’il buvait au café, aimant les plaisirs à la passion, et les femmes à l’égal des plaisirs. Pour elles il avait peut être un degré de tendresse de plus, et n’était que souvent un cheval anglais où une orgie se jetaient à la traverse de ses rêves féminins il eût été capable d’aimer sérieusement à cette époque. </p>
+          <p> Tout à coup Edmond devint grave et sérieux, au dire de ses autres amis, fou selon moi ; il lui était passé par la tête un éclair d’ambition, et à la lueur de cet éclair, il avait entrevu la gloire ! Quelle route suivre pour y arriver. Il tâtonna de tous côtés et enfin le fil auquel il se confia pour marcher à travers les dédales de ce labyrinthe, fut... devinez quoi ?... la poésie. </p>
+          <p> — La poésie ! s’écria-t-il, cela est bien ; mais quel genre de poésie ?... Les vers religieux ne me vont guère, en fait de religion je ne connais que mon Pater noster et encore... des vers cavalins ? en souvenir de mes anciens goûts ; mais il faudrait alors, en bonne justice, commencer par en adresser à Pégase, et cela est diablement rococo . Des vers, bachiques ? Je devrai alors, par logique, fêter Bacchus ; mais le vin me fait mal, j’ai l’estomac délabré, et je vois qu’au bout du compte je n’aurai sacrifié que ma santé à cette ivrogne divinité. Ma foi, s’écria-t-il en se frappant le front, je connais les femmes, je les adore, j’ai longtemps et beaucoup cultivé ces charmantes fleurs qui parfument l’existence, faisons de la poésie érotique ; on est toujours poète quand on adresse des vers aux femmes !OParny, ô Bertin, ô Catulle ! soufflez les tisons d’amour qui charbonnent dans mon cœur, vous serez mes maîtres, mes dieux ! Rien n’est plus facile que de coudre deux rimes ensemble ; aimer est chose encore plus facile ; et je me sens pour cela surtout, les meilleures dispositions du monde. Rimons-donc, aimons-donc ! Allons il me faut aussi mon Éléonore, il me faut ma Lesbie à illustrer, je les illustrerai, Apollon et l’amour aidant ! Heureuse la beauté que le poète adore ! je le crois bien... Perenne monument um ! plus de doutes, plus d’hésitations ! </p>
+          <p> Et sur ce, Édmond s’enferma immédiatement sous clé, ne vivant que d’eau fraîche, de pain et de fruits ; ses rêves d’ailleurs comblaient le vide de son estomac. Après bien des semaines de méditations et de rêveries profondes, il accrocha dans le vide quelque chose de creux qu’il appela une pensée , se tortura l’esprit en tous sens, et un beau jour écrivit de sa plus belle écriture, sur un morceau de papier satiné et parfumé ce premier vers d’un sonnet qui devait ouvrir sa série ; d’élégies, de soupirs, de baisers et de madrigaux : </p>
+          <p> Avec les premiers feux du jour, </p>
+          <p> Quand il s’agit de trouver le second vers la patience lui manqua un peu, et il s’aperçut avec douleur que le dictionnaire des rimes ne contenait que quarante mots en our. Il s’arrêta un moment sur calembourg , mais passa outre. Cela avait été le travail de quelques mois, croyez-le bien. </p>
+          <p> — Au fait, se dit-il un soir de carnaval qu’il y avait bal à l’Opéra, à qui adresser ce sonnet ? (Jamais raisonnement n’avait été plus logique.) Le ciel ne prodigue pas en vain sa sainte flamme. La graine ne germe que dans les sillons que nous avons creusés pour d’y semer ! Ayons d’abord une maîtresse, et certes le premier baiser qui se posera sur mes lèvres sera comme l’étincelle qui fera jaillir de mon âme ardente des torrens de poésies. Il y a bal ce soir à l’Opéra, allons-y, l’aventure sera piquante d’y faire quelque conquête sous le masque : le mystère a son charme et.... mais qui me dit que la femme sera à mon gré, digne enfin d’un poète ! non, restons ici... par le monde il doit se rencontrer quelqu’âme passionnée et délaissée dont je m’emparerai ; cherchons-là, nous la trouverons. </p>
+          <p> Alors il songea à se mettre en quête d’un cœur libre, avisa aux moyens de triompher, et relut deux fois l’art d’aimer de Gentil-Bernard. Il se prit à rêver une femme capable de tenir tête à l’allure des sentimens qui bouillonnaient en lui, ils étaient terribles ! Il n’y avait pas de cheveux assez noirs et assez lisses pour elle, pas un de ces yeux qu’il avait rencontrés n’était assez flamboyant où assez langoureux ! enfin je vous laisse le soin de deviner tout ce qu’il demandait, et avec art il achevait cette statue qu’il s’édifiait. </p>
+          <p> Mon pauvre. Edmond en était toujours à son premier vers et ses rêves avaient rongé déjà une année de son existence. Facilement alors il se laissa aller à croire que le ciel faisait éclore sur la terre certaines femmes exprès pour les poètes, comme il a donné de préférence la fraîcheur et le parfum à certaines fleurs. Or il n’avait pas fait ses preuves. Un vers de sonnet joint à 1a meilleure volonté du monde n’était pas un diplôme de poésie ! Il résolut : donc de poursuivre son œuvre si péniblement commencée, et un soir il écrivait la dernière syllabe de ce second vers : </p>
+          <p> Les premiers rayons de l’aurore, </p>
+          <p> Lorsqu’un ami, grand coureur d’aventures et raffiné passablement en tous genres de plaisirs entra chez lui. Les rèveries continuelles d’Edmond, sa maigrur, son pâle visage qui avait remplacé une face réjouie, sa barbe, le dictionnaire des Rimes qui ne quittait plus sa table, et sa vie claustrale et laborieuse en apparence, le faisaient passer parmi ses camarades pour un homme important, un poète d’avenir, une des gloires futures de la France ; et c’était à qui le pressait de mettre au jour des ouvrages attendus par le public avec impatience. Son premier tort fut de ne pas se défendre assez ouvertement de cette renommée qu’il ne méritait pas, mais la vanité et l’espérance voilaient sa raison ; la vanité de paraître quelque chose, l’espérance d’être un jour ce qu’il paraissait être alors ; il avait cette confiance dans l’avenir qu’ont tous les poètes avortés. </p>
+          <p> — Encore des vers s’écria le visiteur en voyant sur le papier ces deux malheureuses phrases alignées. </p>
+          <p> — C’est là ma vie, répliqua Edmond, en levant les yeux au ciel, </p>
+          <p> — Voyons Pindare, Anacréon, ou Virgile le choix du nom te regarde, (Edmond sourit) descends un peu de ton Parnasse pour traîner tes pas sur le pavé de nos rues, écarte de tes lèvres, la coupe d’ambroisie pour daigner sabler avec nous de l’excellent Champagne. Il y a juste dix-huit mois que tu n’as soupé avec nous. Nous avons respecté ta solitude et tes méditations, c’est très-bien, mais aujourd’hui ton œuvre doit toucher à sa fin (au lieu d’éclater de rire, Edmond se rengorgea.) Brouille-toi pour ce soir avec les Séraphins tes nouveaux amis, fais infidélité pour une nuit aux Muses tes maîtresses, nous t’offrons en échange des créatures de la terre, d’assez ravissantes femmes sur ma foi ! </p>
+          <p> Tout ce discours sérieusement prononcé avec la conscience, la bonne foi d’un payer adorant un faux-dieu ; fut accueilli par notre poète comme un encens pur lui était dû. Maître Edmond n’avait pas de grands efforts à faire pour se brouiller avec les esprits d’en haut ; l’amour des muses ne lui tenait pas tant au cœur qu’il n’acceptât avec empressement l’offre de son ami. Le pauvre garçon commençait à en avoir assez de jeûne, de solitude, de privations, un bon souper pour se refaire du pain et des fruits dont il se nourrissait ! L’air du boulevard en échange des quatre murs de sa chambre ! à tout cela il se trouva agréablement surpris. Et puis à ce mot de femmes, il avait bondi sur son divan ! Il savait, aussi bien que le fameux soir du bal de l’opéra, que ce n’était pas dans un souper de garçons qu’il trouverait la femme rêvée, divinité du poète ; n’importe ! cette fois la tentation était trop forte, il n’y put résister et partit. </p>
+          <lb/>
+        </div>
+        <div title="II" type="chapter">
+          <p> II </p>
+          <lb/>
+          <p> Edmond l’érotique en entrant au café anglais, trouva attablés quatre de ses amis entourés de bon nombre de bouteilles et de six délicieuses nymphes de l’Opera. </p>
+          <p> Un houra général fut poussé à l’arrivée d’Edmond, on monta sur les chaises pour le voir ; il fut présenté à ces dames comme le premier poète de la France et recommandé tout particulièrement à l’une d’elles nommée Fanny dont toutes ses compagnes envièrent le glorieux sort. Le bienheureux poète ne chercha pas à se trop garantir des manières accortes de sa voisine, il se laissa prendre comme un pauvre oiseau aux filets des blonds cheveux de Fanny ; et pourtant la femme qu’il rêvait depuis deux ans devait être brune, il la voulait pâle et langoureuse, et les joues de Fanny s’épanouissaient de bonheur et de santé. C’était au demeurant une fort grâcieuse créature, et la fumée du vin aidant, je comprends qu’il ait mêlé blonde et brune dans son cœur ! Bref, Fanny devint sa maîtresse. Il voyait éclore d’innombrables élégies dans le feu de ses regards ; il comptait déjà ses sonnets par brins de cheveux, ses chansons par baisers ! hélas ! il passa bien des mois à se dire cela, s’occupant fort de là petite, guère de la poésie. C’est d’ailleurs le train dont vont les choses sur le terrain d’amour assez généralement, et plus que jamais elles allèrent ainsi pour notre Érotique. </p>
+          <p> Il passait donc sou temps à se répéter les deux vers de son sonnet mais s’arrêtait forcément devant le troisième comme devant un abîme qui s’ouvrait béant sous ses pieds. Pour dire vrai, il avait brisé avec sa solitude, ses rêveries, ses méditations : il courait bals, spectacles et fêtes de toutes sortes, sans que toute fois l’idée du sonnet ne l’abandonnât une minute ! C’était la plus belle illusion qui eût jamais lui dans son cœur ! Il lui semblait qu’il ne vivait qu’à la seule condition d’achever ce sonnet, et pourtant il ne faisait rien pour mener sa tâche à bout. </p>
+          <p> En résumé, depuis que Fanny était sa maîtresse, il n’avait pas ajouté une seule syllabe de plus à ce malheureux sonnet. </p>
+          <p> — Prenons une belle et grande résolution, se disait souvent Édmond ; je vais m’enfermer dans la solitude de mon cabinet ! Puis quelques instans après, il se levait en appelant Fanny de toutes ses forces, accusant son absence de jeter le trouble dans ses esprits et sa pensée était sans cesse entraînée vers elle. Alors il volait à ses côtés où l’appelait à lui. Mais quel sonnet au monde, quel long poème même pouvait valoir les tendres caresses dont son amour l’étreignait, les grâces dont elle brillait, le sourire charmant qui s’éveillait sur ces lèvres mignonnes. Oh ! vous comprenez qu’Edmond ne trouvait pas plus ce qu’il cherchait à ses côtés que loin d’elle. </p>
+          <p> Survint un grand événement : Une nuit le miracle du roman de la Rose faillit se renouveler : l’Érotique allait rêver son sonnet. Il en avait en effet écrit ces deux vers dans son sommeil : </p>
+          <p> Faibles comme eux, tremblans encore,  Oh ! reçois mes soupirs d’amour. </p>
+          <p> Il entamait son cinquième vers dont le premier mot était le nom de Fanny ; mais il avait prononcé ce nom à haute voix ; et il fut tout à coup éveillé par une exclamations de joie et un énorme baiser qui lui tomba sur les lèvres. </p>
+          <p> — Tu penses donc à moi, même en dormant s’écria Fanny qui pressa voluptueusement dans ses bras la tète du poète ! </p>
+          <p> Edmond répondit à ses caresses par un cri de malédiction. C’est que ce réveil était pour lui là perte de je ne sais combien d’années ! Jugez si ce désappointement dût être grand au pauvre diable ! Il perdit ce jour-là son vers... et le lendemain Fanny, qui malgré ses tendres caresses, (que les femmes sont trompeuses !) se rendant aux propositions d’un jeune lord, emporta Outre-Manche et le cœur et le rêve du poète. </p>
+          <lb/>
+        </div>
+        <div title="III" type="chapter">
+          <p> III </p>
+          <lb/>
+          <p> Dans un certain monde, Edmond passait pour rien moins qu’un grand-homme ; à ce point qu’une dame dé haute volée, élégante et sensible marquise fort éprise des natures rêveuses et poétiques, se laissa aller à une telle admiration pour son beau talent , que cette admiration se changea bientôt en un amour passionné ; c’était toujours son beau talent qui lui valait cela ; en fait de talent la marquise, elle, possédait des cheveux d’un noir admirable, des yeux humides et veloutés, des mains ravissantes, le pied on ne peut plus coquet ; en un mot mille amorces d’amour. Le poète y mordit gloutonnement. </p>
+          <p> La marquise devint pour lui la femme rêvée, c’était dans tous les cas une femme. Il espéra de nouveau que son sonnet allait s’achever. Mais ce fut un phénomène singulier chez lui que l’amour ne s’accorda jamais avec la poésie, l’un vivait aux dépens de l’autre ; il passait des journés entières à ses pieds, amoureux et non poète. </p>
+          <p> Fanny l’avait aimé comme elle eût aimé tout jeune homme riche et bien tourné, sans fierté aucune pour cette couronne qu’on avait placée sur la tête de notre poète, et qui le faisait ressembler passablement à un bourgeois vêtu de pourpre et monté sur un trône, une sorte de chouette apprivoisée en guise de perroquet. Le rôle était facile à soutenir vis à vis de la danseuse. Mais la marquise s’était attachée à lui, éblouie par ses prétendus talents, frappée du prestige de sa gloire. </p>
+          <p> Ici Edmond était sur ses gardes. </p>
+          <p> Quel affront si le masque tombait ! A voir les grands yeux de la marquise continuellement fixés sur le jeune homme, son attention sans cesse éveillée à ses moindres paroles, on devinait qu’elle s’attendait chaque fois que sa bouche s’ouvrait, à voir des flots de poésie couler de ses lèvres ; elle demeurait comme étonnée qu’il n’eût que des phrases en prose à sa disposition pour lui parler d’amour. </p>
+          <p> Pauvre marquise ! Elle prétendait lire sur le front d’Edmond toutes les pensés de poésie qui germaient dans sa tête, et il y avait quatorze mois qu’ils s’aimaient sans qu’il fut question du sonnet, lors qu’un jour pressant tendrement sa main pendant qu’il était à ses genoux, elle lui dit avec une cajolerie caressante : </p>
+          <p> — Cher Edmond ! combien doivent être nombreuses les fleurs de poésie écloses sous les rayons de notre amour ! vous ne me les avez jamais offertes. </p>
+          <p> Le rouge de la honte monta au visage du poète. La marquise attribua son embarras à toute autre motif. </p>
+          <p> — La modestie sied bien aux grands poètes, lui dit-elle. </p>
+          <p> — Je vous jure, répondit Edmond en balbutiant... </p>
+          <p> — Oh ! ne craignez rien, reprit-elle, je n’ai pas même besoin de vous parler d’indulgence ; ces vers doivent être charmans, sortis d’un amour tel que le nôtre. </p>
+          <p> Edmond rougissait toujours et protestait à demi-mots. L’impatience s’en mêla. La marquise donna ordre à son amant de lui montrer sur le champ les vers composés pour elle depuis quatorze mois, et lui enjoignit de les publier au plus vite afin qu’elle pût s’enorgueillir à la face de la France entière (c’étaient ses expressions) de la gloire de son poète. </p>
+          <p> De ce moment Edmond n’eut plus devant lui qu’une femme vaniteuse, et qui voulait satisfaire une gloriole, un amour-propre furieux. C’était là un solide argument en faveur du poète, et l’occasion se présentait belle de se tirer d’une pareille position avec tous les honneurs de la guerre ; mais incontestablement une brouille s’en suivrait ; or Edmond ne redoutait rien tant qu’une rupture, car il aimait la marquise passionnément ; l’amour triompha du dépit et de la colère. </p>
+          <p> Il eut recours à un autre moyen. </p>
+          <p> — Oh ! ange de ma vie, s’écria-t-il avec exaltation, pouvais-je penser à autre chose qu’au bonheur de vous aimer. Aimer, c’était là toute ma poésie, elle emplit mon cœur ; vous qui savez si bien lire dans ce cœur, voyez ! Et il laissa tomber sa tète sur les genoux de la marquise. Le coup fit effet ; il fut sauvé. </p>
+          <p> La marquise sourit, releva doucement la tète de son amant, et déposant un tendre baiser sur son front : </p>
+          <p> — Je pardonne tout en faveur de cet amour, dit-elle. </p>
+          <p> — Vous-même, répondit Edmond, que de reproches n’aurais-je pas à vous faire ! Cette belle voix qui me ravissait, depuis combien de temps me l’avez-vous fait entendre ? vous me la dérobez, et c’est dans l’ombre, loin de moi, que vous élevez ces notes suaves et harmonieuses qui font taire les oiseaux. J’aurais droit d’être jaloux aussi et de vous gronder, madame, qu’en pensez-vous ? </p>
+          <p> Edmond s’assurait de cette manière une victoire éclatante, et la marquise savait bien qu’il avait droit de se plaindre. Elle s’était fait entendre dans un salon où notre poète ne se trouvait pas. De tous temps les amans ont eu le droit d’être les gens du monde les plus exigeans. Chanter sans qu’il fût là, était chose sans doute bien innocente ; mais il était de son intéret de crier bien haut, il relevait ainsi la tête. </p>
+          <p> Ils étaient quittes pour le moment. Mais la marquise lui donna dix jours pour lui offrir au moins un sonnet, et jusque-là ils ne devaient plus se revoir. </p>
+          <p> Notre poète reprit avec ardeur la suite du malheureux sonnet, mais comme son esprit était troublé et agité ! Maintenant il savait bien à n’en pas douter, que s’il faisait défaut à de pareils ordres, il y aurait séparation entre lui et la marquise. Les dix jours étaient expirés, et il les avait consumés à méditer sur le malheur qui le menaçait, sans parvenir à ajouter à son sonnet plus de quatre vers que voici : </p>
+          <p> Respire-le, charmante femme,  Cet encens qui brûle en mon âme,  Le doux parfum de cette fleur  Que tu fis naître dans mon cœur. </p>
+          <p> La marquise fut exacte au rendez-vous ; le dixième jour elle arriva chez le poète qui tomba à ses genoux en protestant de son amour et de ses tourmens. La marquise fut intraitable comme un créancier un jour d’échéance, elle toisa Edmond avec dédain et sortit. </p>
+          <p> Une heure après, il reçut un billet dans le quel on le traitait de fat et d’ingrat et qui se terminait par ces mots : </p>
+          <p> « Vous me rendez malheureuse pour le reste de mes jours. » </p>
+          <p> Cette lettre fut un coup de foudre pour Edmond, il écrivit à la marquise, elle ne lui répondit pas, il ne la revit jamais. Le bruit courut même qu’elle s’était retirée du monde ! C’est pousser bien loin l’amour..... de la gloire. </p>
+          <lb/>
+        </div>
+        <div title="IV" type="chapter">
+          <p> IV </p>
+          <lb/>
+          <p> Edmond conclut de fout ce qui lui était arrivé jusqu’alors que ce n’était pas aux genoux d’une femme qu’on pouvait faire des vers ; que MM. les poètes en avaient tous effrontément menti, qu’ils avaient inventé leurs maîtresses, chanté à froid. Quand on doute, il faut-être conséquent, et n’admettre pas la foi chez les autres. </p>
+          <p> Il essaya donc de mettre son esprit en mouvement pendant que le cœur était au repos. Mais le souvenir de la Marquise le préoccupait trop vivement, il lui était impossible de s’en affranchir. Il eut un moment l’illusion de croire qu’il se consolerait de ses langeurs en adressant ses vers à la marquise, mais plus il songeait à elle plus le cœur lui déchirait. La plume tombait de ses doigts, sa pensée volait vers elle, et il se surprit maintes fois les larmes aux yeux. Vous croirez facilement que pendant six mois que dura ce veuvage, il ne put achever que le premier tier cet de son sonnet : </p>
+          <p> Toute chose suave et pure,  Toute chose qui passe ou dure  Tu l’attires, l’amour aussi. </p>
+          <lb/>
+        </div>
+        <div title="V" type="chapter">
+          <p> V </p>
+          <lb/>
+          <p> Edmond partit pour l’Italie, non pas en artiste, mais en voyageur espérant que les distractions effaceraient de son cœur l’image de la marquise ; il traversa Rome, Naples, Venise, s’arrêtant comme un anglais devant les chefs-d’œvre qu’il contemplait, sans les voir, sans les admirer, ce qui nécessitera un second voyage, </p>
+          <p> Il se jeta tète basse dans tous les plaisirs d’où il sortait parfaitement ennuyé. Au fond de chaque chose il retrouvait le souvenir de la marquise. Il revint à Paris où le hasard lui fit rencontrer, chez un de ses parens, une femme charmante et riche. </p>
+          <lb/>
+        </div>
+        <div title="VI" type="chapter">
+          <p> VI </p>
+          <lb/>
+          <p> Le voyage d’Edmond, avait eu aux yeux de ses amis un tout autre prétexte que Celui dont je vous ai parlé ; on l’accusa d’avoir été chercher sur la terre des arts de grandes et antiques inspirations. On le salua avec acclamation, on le caressa comme un poète rapportant d’Italie un rayon de la poésie de Virgile. </p>
+          <p> La dame en question, veuve à dix-neuf ans, avait, comme toutes les femmes, un faible pour les poètes dans la famille desquels on introduisait toujours Edmond. Caroline lui plut fort, et il s’aperçut bientôt que la marquise était oubliée. Il ajouta ce vers au sonnet, en son honneur : </p>
+          <p> Au feu de tes chastes prunelles. </p>
+          <p> Il ne fut capable que de cela. </p>
+          <p> Mais il eut alors la plus heureuse idée qui lut fût venue de sa vie ; il songea à s’unir à Caroline par des liens indissolubles. Il était certain ainsi, de posséder la femme et d’avoir devant lui tout le temps nécessaire pour achever son sonnet, dont la destinée était de trouver sa fin dans le mariage, comme c’est d’habitude pour les folies de jeunesse. </p>
+          <p> En effet, à peine il sortait de l’église, en prenant le bras de madame de Bervé il trouva ses deux derniers vers comme si elle les lui avait apportés dans les plis de sa robe et dans le sourire de bonheur qu’elle laissa éclore sur ses lèvres en le regardant. </p>
+          <lb/>
+        </div>
+        <div title="VII" type="chapter">
+          <p> VII </p>
+          <lb/>
+          <p> C’est le lendemain de son mariage qu’Edmond racontait à quelques amis l’histoire de sa vie par l’histoire de ce sonnet. Il en était là lorsque la porte s’ouvrit, et que Caroline l’appela. </p>
+          <p> — Les deux derniers vers du sonnet, s’écrièrent ses amis, ne les emportez pas. </p>
+          <p> Un jour naîtront des fleurs plus belles,  Soleil de mon ciel éclairci ! </p>
+          <p> Et il déposa un baiser sur le front de sa, femme. </p>
+          <p> — Que leur contiez-vous donc là ? demanda-t-elle. </p>
+          <p> — Rien... je leur disais un sonnet que j’ai composé pour vous. </p>
+          <p> — Déjà ?... fit-elle ; c’est charmant, à la bonne heure ! </p>
+          <p> — Oui, déjà , répondit Edmond, </p>
+          <p> — Voyons, récitez-le moi. </p>
+          <p> Edmond étouffa un sourire et déclama sérieusement cette informe pièce qui est tout le pendant du sonnet d’Oronte : </p>
+          <p> Avec les premiers feux du jour,  Les premiers rayons de l’aurore,  Faibles comme eux, tremblans encore,  Oh ! reçois mes soupirs d’amour !  Respire-le charmante femme  Cet encens qui brûle en mon âme,  Le doux parfum de cette fleur  Que tu fis naître dans mon cœur...  Toute chose suave et pure  Toute chose qui passe ou dure  Tu l’attires — l’amour aussi.  Au feu de tes chastes prunelles  Un jour naîtront des fleurs plus belles  Soleil de mon ciel éclairci ! </p>
+          <p> Caroline l’embrassa avec fureur. Il n’y avait certes pas de quoi. </p>
+          <p> —OAlceste ! où es-tu ? s’écria Edmond en se retournant vers ses amis. </p>
+          <p> Edmond ne fit plus un seul vers, et il eut raison ; il doubla et tripla sa fortune par des spéculations, il n’eut pas tort. </p>
+        </div>
+      </div>
+      <div title="LOUISE." type="nouvelle">
+        <p> LOUISE. </p>
+        <lb/>
+        <div title="I" type="chapter">
+          <p> I. </p>
+          <lb/>
+          <p> Il y a quelques mois nous nous trouvions, mon ami le docteur Joseph et moi au château de J***, chez un ancien camarade. Chaque matin tout le monde partait pour la chasse ; mais comme nous préférions la causerie, à cet exercice, nous nous mettions en marche, allant tout droit notre chemin, devisant de mille choses. </p>
+          <p> Mon ami Joseph est un grand philosophe, plutôt un docteur de l’âme qu’un docteur du corps ; nous causions d’un livre profond et savant qu’il compte publier incessament, et moi de ce modeste Médaillon que vous avez sous les yeux ; je lui communiquais quelques observations plus ou moins bizarres, dont il aura bien soin, j’espère, de ne pas déparer son œuvre ; il me contait de son côté plusieurs histoires, et entre autres, celle-ci dont je m’empresse de faire usage. Il m’en a garanti l’authenticité, ayant parfaitement connu tous les personnages, et surtout l’héroïne qu’il a soignée comme folle après l’horrible catastrophe qui termina le roman de sa vie. </p>
+          <p> — C’est, me dit Joseph, un de ces sales et dégoûtans épisodes, comme le monde en regorge. Il s’en passe terriblement de semblables dans notre société, parce que notre pauvre société est affreusement gangrenée. L’immoralité déborde... </p>
+          <p> — Mon pauvre ami, répondis-je, vous savez, aussi bien que moi, que le monde est incorrigible ; et que toutes les déclamations toutes les vérités que vous lui jeterez à la face ne le redresseront pas. </p>
+          <p> — Vous avez parfaitement raison, reprit Joseph ; j’en gémis sans espoir et je gourmande sans compter sur la guérison ; si la gangrène encore n’était que dans une partie du corps, on amputerait le membre et tout serait dit ; mais hélas ! il n’est pas la plus petite partie qui ne soit attaquée. Aussi dans l’histoire que je vais rapporter, je ne laisserai pas échapper la moindre parole d’amertume ; je vous révèle un fait qui s’est passé sous mes yeux. Vous, romancier, si vous vous permettiez d’inventer quelque chose de pareil, on vous courrait sus ; mais au besoin, assignez-moi comme témoin, moi et dix autres personnes. </p>
+          <p> Ce préambule m’avait fait frémir ; pour vous, cher lecteur ; et sur la garantie de la parole de Joseph, je me décidai à ne rien oublier de son histoire, et à vous la raconter telle que telle. Si d’ailleurs quelqu’un de vous doute de la vérité, j’en appellerais à Joseph auquel je vous renverrai, mais à la condition que vous le prendrez pour médecin ; vous ne vous en trouverez pas si mal ! </p>
+          <lb/>
+        </div>
+        <div title="II" type="chapter">
+          <p> II. </p>
+          <lb/>
+          <p> A quinze ans, Mademoiselle Louise Berrune fut jetée dans les bras du comte de Valeaure ; sa mère poussée par une ambition qu’excitaient les espérances éloignées d’une fortune à venir, l’attrait d’une brillante position dans le monde et le titre de comtesse pour sa fille, en échange de sa roture, n’avait pas hésité à livrer cette enfant, comme elle eût fait d’une marchandise. Elle conservait encore un reste d’habitude de son ancienne profession de marchande de toiles, et dans sa retraite, comme elle n’avait plus rien à vendre, il fallait bien qu’elle vendit sa fille ! Semblable à ces vieux militaires qui, à la vue d’une troupe d’enfans jouant au soldat, se rappellent qu’ils ont eu jadis un fusil, et se reprennent à faire l’exercice avec leur canne le plus sérieusement du monde. </p>
+          <p> Madame Berrune n’avait été guère bien accueillie dans le monde nouveau où elle se présentait ; c’était à qui plaisanterait sur son aune, à qui sur son origine. Au demeurant, c’était une femme hargneuse, insolente comme son argent, despote, grosse et courte, au visage rouge, aux sourcils noirs et durs, portant des faux tours, et ne manquant jamais de s’essuyer les yeux quand elle prononçait le nom de défunt son époux. </p>
+          <p> On ne pouvait s’expliquer comment cette femme avait pu mettre au jour une créature aussi douce et aussi charmante que Louise. Quand il fut question de la marier à M. de Valeaure, Madame Berrune chassa de la maison, avec une fierté risible, cinq ou six amoureux que la beauté de sa fille avait attirés ; et les larmes de la pauvre enfant n’adoucirent en rien l’ordre impérieux que lui avait signifié sa mère. Il fallut se soumettre. Ce beau front de vierge, inondé de blonds cheveux, ce beau front qui ne s’était pas encore plissé au moindre souci, ces chastes et limpides yeux noirs qui n’avaient encore versé que des larmes de bonheur, ces lèvres mignonnes qui ne s’étaient entr’ouvertes que pour prier et dire des choses charmantes, ce visage rose et plein de santé, tout cela allait être flétri. </p>
+          <p> M. le comte Eugène de Valeaure était un de ces libertins qui se convertissent à trente ans, quand ils sont ruinés, et qui cherchent en se mariant, n’importe comment, quelque fortune à manger. La sienne y avait passé, et de plus il avait anticipé sur une belle part qui lui revenait à la mort d’une tante. Pour avoir de l’argent, il s’était bien adressé : Louise avait six cent mille francs de dot ! L’affaire était excellente et se conclut au plus vite. Eugène ne tarda pas à reprendre ses anciennes habitudes ; et après trois ans, la fortune de Louise était réduite de moitié. Et cette pauvre femme avait essuyé toutes les tribulations qui pouvaient lui venir d’un mari libertin, joueur, brutal, qui s’en allait partout disant qu’il n’avait épousé sa femme que pour avoir de l’argent, l’avouant sans pudeur, stupidement, devant elle, à la faire rougir de honte ! </p>
+          <p> M. de Valeaure, poursuivi pour dettes, fut forcé de quitter la France, et Louise resta seule avec son désespoir, ne trouvant pas la moindre consolation auprès d’une mère qui l’accusait de tout ce mal, prétendant qu’un homme comme M. le comte de Valeaure était incapable d’user, sans motif, de pareils procédés à son égard. Pauvre Louise ! elle faisait pitié à voir ! tant ces épreuves du malheur avaient altéré tout son trésor de grâces, de beauté et de fraîcheur ! Il lui restait encore ce que rien ne peut enlever, une âme noble et résignée. </p>
+          <p> Cette jeune femme, livrée à elle même, privée de tout appui et de tout conseil, se trouva en butte aux tentations des muguets de salons ; elle triompha de leurs embûches, et dérouta les plus fameux coureurs d’aventures. Plus la défense était forte, et bien combinée, plus les assiégeais déployaient de ruses et d’adresse ! Sa vertu fit bruit ; on eût dit la chose nouvelle ! </p>
+          <p> Elle succomba pourtant ! Et, 3e jour où l’on apprit que M. de Mons avait accompagné madame de Valeaure aux Tuileries, il y eut joie chez les uns, les méchans ne manquaient pas ; dépit chez les autres, les jaloux étaient nombreux : étonnement chez presque tous. </p>
+          <p> M. de Mons était digne d’un tel bonheur ! C’était un homme qui. à vrai dire, avait frayé d’assez près avec la vie licencieuse, mais que des sentimens honnêtes avaient ramené au calme et à la tranquillité. Nous verrons plus loin quelles circonstances l’avaient arraché des bras de la débauche ! affirmons seulement que sa conversion avait été sincère, sauf à éclaircir ce que nous y rencontrerons de bizarre et de défectueux peut-être. De tous les adorateurs de Louise, dont le cercle se renouvelait sans cesse, seul il resta fidèlement attaché, luttant contre des obstacles qui semblaient invincibles. C’est qu’il y avait delà vérité dans cet amour, expression d’une âme belle et pure. M. de Mons n’avait pas aimé madame de Valeaure parce qu’elle était une femme mariée abandonnée, il n’avait pas vu en elle une conquête dont il pourrait se vanter, une vanité à satisfaire : il l’avait aimée pour ses qualités, pour sa beauté, pour sa grande âme ! Il l’avait aimée femme comme il l’eût aimée fille, s’il avait pu la — connaître avant son funeste mariage. </p>
+          <p> — Vous m’aimiez donc bien Gustave, lui dit un jour Louise, que mes dédains ne refroidissaient pas votre cœur ? </p>
+          <p> Il lui répondit : </p>
+          <p> — J’avais attendu jusqu’à ce jour pour rencontrer une femme comme vous ; j’avais trouvé ce que mon âme cherchait ! que m’importaient vos dédains ? Je savais que je vous aimais, j’étais glorieux d’avoir pu m’élever jusqu’à vous ! c’était assez ! Vivre dans le même air que vous, entendre le son de votre vois, puiser la flamme dans le feu de vos regards ! sentir mon cœur s’épurer à vos côtés ! c’était le bonheur pour moi ! c’était assez, Louise, que de nager dans celte volupté ! </p>
+          <p> — Qu’ai-je donc pu ajouter à votre félicité en vous donnant mon cœur ? </p>
+          <p> — Le ciel ! tout ce qui existe de grand, de beau, d’idéal, et que l’homme ne peut pas espérer ! La liberté pour l’innocent plongé au fond d’un cachot, que sa conscience console, mais à qui l’air rend la vie ! </p>
+          <p> Louise avait épanché dans cet amour tout un trésor de tendresse, de douceurs infinies, de suaves illusions qu’elle avait puisées au fond de son cœur ; avec cet amour lui revint le bonheur, et avec le bonheur toutes ses beautés perdues ! Monsieur de Valeaure s’était fort peu soucié de l’abandon de sa femme ; il trouvait par ailleurs des consolations. Rien donc ne pouvait troubler la sérénité qui régnait entre Gustave et Louise ! Ils s’étaient retirés du monde, et ils coulaient dans la solitude des jours que le bruit du dehors ne devait pas altérer ! Depuis deux ans ils vivaient ainsi ! Le seul événement qui traversa ces existences y amena une catastrophe terrible. M. de Mons apportait parfois, au milieu de son bonheur, une sorte de préoccupation dont vainement Louise avait essayé de lui arracher la cause. Et dans ces momens là, précisément, il était plus assidu, plus tendre, plus aimant que jamais ! </p>
+          <p> La pauvre femme avait tenté tous les moyens : caresses, cajoleries, larmes, elle ne pouvait obtenir de lui que cette réponse : </p>
+          <p> — Ne faites pas éclater ce secret, Louise, vous me maudiriez ! Peut-être un jour l’apprendrez-vous, et alors vous vous applaudirez de ne l’avoir point appris plus tôt ! Que mus importe ? puisque je vous aime ; puisque mon cœur est tout à vous, que vous importe ?.. Au nom du ciel ! ne me parlez jamais de cela. Croyez-moi, Louise, jouissons de notre félicité et ne la troublons point. </p>
+          <p> Ce secret, nous allons le savoir. </p>
+          <lb/>
+        </div>
+        <div title="III" type="chapter">
+          <p> III. </p>
+          <lb/>
+          <p> Dix jours s’étaient écoulés sans que M. de Mons eût paru chez Louise, sans qu’une lettre de lui fût venue expliquer cette absence inaccoutumée. Madame de Valeaure ne savait à quoi attribuer une pareille conduite. Elle se rappelait bien que le jour où elle avait vu Gustave pour la dernière fois, il était plus triste et plus préoccupé que jamais ! Quand il sortit il la baisa tendrement, et il tremblait en lui serrant la main. </p>
+          <p> Devait-il se passer quelqu’événement ? Ce baiser était-il un adieu ? Cette main froide semblait dire que c’était pour toujours. La pauvre enfant se perdait dans les conjectures les plus folles. L’idée de ce secret infernal lui revenait en tête. Qu’en était-il résulté ? la mort peut-être ! Un suicide c’était horrible ! Puis elle se laissait aller à des pensées de jalousie, elle voyait Gustave dans les bras d’une autre femme, lui prodiguant les mêmes sermons d’amour qu’il lui faisait à elle ! lui jurant qu’il ne l’avait point aimée !... </p>
+          <p> Et c’étaient des larmes à n’en plus finir un désespoir affreux ! </p>
+          <p> — Mais non ! s’écriait-elle soudain ; il m’aime trop ! non, il ne me trahit point, ce ne peut être que la mort !... </p>
+          <p> Elle écrivit une première lettre, puis une seconde, point de réponse ; elle se présenta elle-même chez M. de Mons. Le concierge lui dit qu’on ne savait point où était M. de Mons. </p>
+          <p> Un mois se passa ainsi, un mois qui avait coûté bien des larmes et bien des veilles, un mois d’angoisses et de douleurs qui avait soulevé un cruel orage dans le cœur de la jeune femme ! Elle tenta un dernier moyen, le seul espoir qui lui restait ; elle alla dans le monde ; peut-être l’y rencontrerait-elle ? Vainement. Il y avait un grand bal chez lady Landcastle ; Gustave était un des habitués de cette maison, elle y fut. Cette dernière illusion s’évanouit ! c’en était fait. Elle ne passa pas une heure dans le salon. Sa beauté attira à elle les plus élégans danseurs, mais elle refusa toutes leurs offres ; ce n’était point le plaisir qu’elle venait chercher, c’était le bonheur, et elle ne le rencontrait point ! </p>
+          <p> Elle promena ses yeux sur tous les groupes de jeunes gens, rien !... Elle parcourut avec inquiétude ce cercle de femmes, dont les épaules rivalisaient d’éclat avec les lumières ; elle ne vit point ce qu’elle cherchait parmi tous ces papillons qui voltigeaint de femme en femme ! Alors elle sortit l’œil en pleurs, le cœur gros de désespoir ! Le lendemain elle partit pour la campagne et s’abandonna à la douleur la plus violente. Quelle que fût la cause de cette brusque séparation, elle ne pouvait la supporter. Le bonheur qu’elle avait goûté était si profond, qu’il lui semblait devoir être éternel ! Elle ne pouvait y renoncer, et elle serait morte de douleur si, un matin, elle n’eût reçu cette lettre qu’elle n’osait ouvrir et qu’elle baigna de larmes. Elle avait reconnu les armes et l’écriture, une lettre de Gustave ! Elle ne renfermait que ces mots : </p>
+          <lb/>
+          <p> « Louise, je suis de près cette lettre. Pardon, mille baisers d’amour. </p>
+          <p> GUSTAVE. » </p>
+          <lb/>
+          <p> Un éclair de joie illumina les yeux de la jeune femme, son front pâle se couvrit d’une subite rougeur, tout son beau visage s’épanouit comme une fleur sous la rosée ! </p>
+          <p> Peu d’instans après, le bruit d’une voiture se fit entendre dans la cour, M. de Mons se trouva aux pieds de Louise. </p>
+          <p> Ils s’embrassèrent en pleurant sans proférer une parole, Louise rompit la première ce silence, qui dura quelque minutes. </p>
+          <p> — Que j’ai souffert, Gustave ! </p>
+          <p> — Louise, je viens aujourd’hui vous dévoiler ce secret terrible, mais jurez-moi que vous me pardonnerez d’avance, et que chacune des paroles qui frappera votre oreille tombera dans l’oubli aussitôt ! </p>
+          <p> — Vous savez bien, Gustave, que mon pardon vous est assuré. Je jure de tout oublier... </p>
+          <p> — Vous ferez bien, Louise : car, voyez-vous, si vous vous souveniez de quelque chose, et si vous m’aimiez encore après, vous seriez trop grande et trop noble à mes yeux ; moi, je ne pourrais plus vous aimer... mon cœur ne serait pas assez vaste pour contenir mon adoration et mon respect. </p>
+          <p> Puis il s’approcha d’elle et la baisa au front en lui disant : </p>
+          <p> — Je n’ose plus te toucher de peur de te souiller. </p>
+          <p> Gustave marcha à grands pas dans la chambre, la tête baissée, s’arrêta devant une croisée, leva les yeux aux ciel et demeura quelques instans dans cette attitude, puis revint vers Louise. </p>
+          <p> — L’air est sombre et triste aujourd’hui, dit-il ; il y a de l’orage dans Se ciel. Pauvre enfant, puisse l’orage qui est dans mon cœur ne pas éclater sur ta tête ! </p>
+          <p> — Je ne sais, répondit Louise, si c’est l’excès de ma joie qui m’attriste, je ne sais si c’est la pesanteur de l’atmosphère qui m’accable, mais mon âme est lugubre. </p>
+          <p> — Pauvre amie ! et il lui baisa les mains. </p>
+          <p> Gustave fit de nouveau quelques tours dans la chambre, puis revint s’asseoir près de Louise. </p>
+          <p> — Écoutez-moi, j’ai des choses terribles à vous apprendre. </p>
+          <p> — Vous m’effrayez. </p>
+          <p> — Écoutez, puisse le ciel vous donner, la force de tout entendre. </p>
+          <lb/>
+        </div>
+        <div title="IV" type="chapter">
+          <p> IV. </p>
+          <lb/>
+          <p> Louise le regarda avec étonnement Gustave commença ainsi : </p>
+          <p> — Quand je quittai les bancs de l’école et que j’entrai dans le monde, mes sens débordaient de passions et mon cœur éprouvait un besoin plus vif encore, celui d’aimer. Je crus, pauvre écolier que j’étais, je crus qu’il me suffirait de me présenter dans un salon, de choisir parmi toutes les femmes qui se présenteraient à moi, une femme belle, douce, jeune, qui se livrerait au premier regard langoureux qui allait s’échapper de mes yeux, qui répondrait immédiatement à la première lettre passionnée que je lui écrirais ; je crus qu’il me suffirait d’une valse, d’un galop, d’une contredanse, où j’aurais pu presser dans mes bras une taille charmante, toucher des doigts ravissans, pour faire passer dans quelque âme toute l’ardeur de la mienne. Hélas ! j’écrivis bien des lettres, j’inventai toutes sortes de regards et de roulemens d’yeux, je dansai bien des galops, bien des valses inutilement. </p>
+          <p> — Vous aviez toute la fatuité d’un enfant de dix-huit ans, dit Louise. </p>
+          <p> — Fatuité, non ; c’était simplement une illusion. J’avais cru que l’amour était dans l’air, partout, que l’amour attirait l’amour. Mais je commençai à comprendre que je m’étais bien trompé. Parmi toutes ces femmes, il y en eut bon nombre qui rirent de moi, quelques unes qui me traitèrent de fat et d’insolent, d’autres qui mère gardèrent comme un niais. </p>
+          <p> — Pauvre ami, fit Louise, que vous avez dû souffrir, car l’homme attache tant d’importance à ses rêves d’enfance, qu’il ne se sépare jamais qu’avec douleur de ses illusions. </p>
+          <p> — Je souffris tellement, Louise, que je résolus dès-lors de faire comme la plupart de mes amis, je laissai de côté le monde et mes espérances, et je me jetai dans une vie de dissipation, ne songeant plus à ces amours du cœur qui m’avaient arraché tant de larmes ; je ne cherchai plus dans la débauche que le moyen d’assouvir l’ardeur de mes sens. Il m’en coûta cher, et cela ne dura pas longtemps ! Je sortis de ce gouffre criblé de dettes exposé à la juste indignation de mon père, et malheureux de, tous les chagrins que j’avais causés à ma pauvre mère. Je portai un regard de tristesse et de remords sur des jours si indignement dépensés. Je ne me rendais pas compte de ma folie, et je maudissais le mauvais génie qui m’avait précipité au fond de l’abîme. Le mal m’avait servi : j’en avais tiré de terribles leçons. </p>
+          <p> Pendant mes rares apparitions dans le monde, je rencontrai une femme belle et spirituelle ; je ne dirai pas qu’elle captiva mon cœur, car je ne me sentais plus de cœur, mais elle avait excité en moi des désirs d’un ordre plus élevé que les honteuses passions dont j’étais alors la proie ; et puis mon amour propre se flattait d’avoir une femme dont la possession me fît honneur. Elle fut moins rebelle que les autres à accepter mes aveux, et j’en tirai des conclusions toute favorables à ma fatuité. Néanmoins, ce fut un bien pour moi : c’est alors que je rompis avec mes habitudes, et que j’obtins de mon père grâce pour toutes mes fautes : J’étais réhabilité ! Je vous avouerai que du moment où je pus apprécier la différence qui existait entre les turpitudes dégoûtantes de mon ancienne vie et le bien-être réel de celle où j’entrais, un autre sentiment s’éveilla en moi pour cette femme, celui de la reconnaissance ; je ne l’avais jamais aimée, je ne l’aimais pas : mais je la regardais comme un ange sauveur, et quels que soient les événemens qui traversèrent mon existence depuis, je ne changeai pas à son égard. </p>
+          <p> Louise ne pouvait dissimuler la crainte qui l’agitait ; elle avait pâli à cet endroit du récit de Gustave ; elle s’évanouit presque en entendant prononcer ces mots ; Je ne l’ai jamais aimée, je ne l’aimais pas ? » Elle avait reculé son fauteuil par un mouvement subit, et avait laissé tomber son front dans ses deux mains, en pleurant. M. de Mons vit les larmes qui coulaient à travers les doigts de Louise. Ne devinant pas la cause d’une pareille émotion, il se jeta à ses pieds en lui disant : </p>
+          <p> — Non je ne l’ai jamais aimée ! </p>
+          <p> — Quelle était cette femme ? lui demandât-elle, d’une voix pleine de terreur. </p>
+          <p> — Madame de Gardani ! </p>
+          <p> Alors Louise, relevant la tête, prit dans ses mains les mains de Gustave, les baisa avec force, puis les pressa sur son cœur. </p>
+          <p> — Merci Gustave, vous me rendez la vie ! Vous dirai-je que j’avais cru que vous parliez de moi !, .. </p>
+          <p> — De vous ! </p>
+          <p> — Pardon, je t’ai accusé ! Oui, je craignais... je suis bien excusable : pardonne moi ! </p>
+          <p> Gustave reprit : </p>
+          <p> — Cette liaison dura deux mois sans que rien l’altérât. Mais mon cœur ayant passé par ce creuset s’était épuré ; je commençais à sentir que j’avais besoin d’amour, et je n’étais pas satisfait : j’hésitais cependant ; mon attachement pour madame de Gardani était devenu à mes yeux un devoir que je croyais coupable de violer. Il fallût que ce fût vous, Louise, vous, un ange de douceur et de beauté, qui vinssiez vous jeter au devant de moi, pour m’arracher à cette incertitude où flottait mon cœur ! Ai-je besoin de vous répéter tout ce que je trouvai d’amour et de dévoûment au fond de mon âme pour tous ? Vous le savez, Louise, combien de temps et avec quelle constance vous m’avez vu poursuivre l’idée démon bonheur ?... Il se passait en même temps de singulières choses entre madame de Gardani et moi ; vous allez apprendre ce que vous ignorez peut-être et ce qui vous fera frémir. Madame de Gardani devint la maitresse de votre mari ; cette femme je l’avais appris bientôt, était incapable d’aucun sentiment grand et pur. Elle s’était livrée à moi, comme à bien d’autres, par caprice ; elle ne tarda pas à se fatiguer de ma présence, et elle m’eût repoussé bien vite si mon attachement sincère et cette reconnaissance dont je lui exaltais la puissance, ne l’avaient touchée et n’avaient changé en une véritable amitié ses faux semblans d’amour, et sa passion éphémère ! Elle eut assez de franchise et de bonne foi pour m’avouer sa nouvelle passion, mais me conjura au nom du ciel et les larmes aux yeux de demeurer son ami, de ne point m’écarter d’elle, me demanda grâce pour la mobilité de ses affections, et me jura un dévoùment éternel, en dehors des sentimens de l’amour. C’était une femme bizarre, vous voyez. Le ciel avait beaucoup fait pour elle ; elle était belle, généreuse, bonne, les qualités de l’esprit ne lui manquaient pas ; mais tout cela était gâté par une goutte de poison qui avait brûlé le meilleur de son cœur. </p>
+          <p> — Elle est bien belle, en effet, reprit Louise. Avoir ses grands yeux bleus limpides et chastes, sa longue et blonde chevelure et sa pâle blancheur, on lui donnerait une âme candide et angélique : menteuse écorce qui renferme un venin perfide. </p>
+          <p> Louise avait affecté un air d’indifférence en prononçant ces mots ; mais ses lèvres trahissaient, malgré elle, un certain dépit qui tenait quelque peu de la jalousie. </p>
+          <p> — Ainsi, continua-t-elle, vous êtes resté son ami ? </p>
+          <p> — Pendant six mois, je ne la vis point. C’est alors que je vous rencontrai sur ma route, et le nouveau sentiment qui me dominait avait trop de charmes et trop de puissance pour me laisser le loisir de songer à d’autres qu’à vous. J’étais trop ivre de l’amour que vous m’inspiriez, pour donner mon tems à l’amitié. Ici, Louise, j’ai besoin de votre indulgence pour l’aveu que je vais vous faire. Un soir, je rencontrai madame Gardani au théâtre ; elle était seule, c’était à l’époque où votre mari avait été obligé de s’éloigner. Elle m’accueillit avec bonté, me gronda avec bienveillance de l’avoir négligée si longtemps, et soit qu’une longue séparation eût réveillé en elle de nouveaux désirs, soit qu’elle conservât encore le souvenir de nos anciennes relations.... Oh ! pardon, Louise, vous pâlissez, l’indignation perce dans vos traits ; pardonnez-moi, je fus bien coupable, je le sais. Je devais respecter assez votre belle âme pour ne pas la souiller et la profaner ; mais le cœur de l’homme est si pétri de vices ! il aspire toujours à la vertu, nous avons les yeux levés vers elle, mais nos pieds trempent toujours dans la fange ! de ce moment, je redevins pour madame de Gardani plus qu’un ami.... J’éprouvai une sorte de honte et de remords à poursuivre cette liaison, mais je n’eus pas le courage de la rompre. J’étais dominé d’une part, par la puissance de ma passion pour vous, et de l’autre, par par la crainte de blesser madame de Gardani. Faiblesse humaine ! c’était un sentiment bien excusable cependant, qui me guidait ? toujours cette reconnaissance ; je savais qu’elle haine eût succédé, dans le cœur de cette femme, à cette bienveillance dont elle m’entourait. Je ne pourrais vous exprimer tout ce que ma pauvre âme souffrait quand je m’arrachais des bras de cette femme pour accourir à vos pieds. Il me semblait que j’entrais tout souillé dans un temple sacré ! je rougissais de moi ; plus d’une fois, je résolus de ne plus mettre les pieds chez elle ; puis quand j’avais persévéré deux jours dans ma résolution, je recevais une lettre pleine de tendres reproches et d’amitié ; alors je partais, me promettant de tout lui avouer, de la supplier de me rendre ma liberté, et de garder comme jadis, mon amitié, une simple amitié. Hélas ! je trouvais une femme si pleine de passion, si exaltée, que je redoutais une rupture, calculant l’excès de sa haine à l’excès de sa passion. Par une bizarrerie inexplicable la jalousie était entrée dans le cœur de cœur de cette femme. Mais Louise, avant que je n’aille plus loin, dites-moi que vous me pardonnez : vous écoutez toutes ces choses avec un calme qui m’effraie ; pourtant vous savez si je vous aime !. </p>
+          <p> — Voilà pourquoi je ma tais répondit, froidement Louise ; si je ne vous avais pas connu bon, si je n’avais pas reçu de vous les preuves d’un véritable amour, croyez-bien que vous ne seriez pas ici à me faire de pareils aveux, et moi encore moins à vous écouter ; poursuivez.... </p>
+          <p> — Merci ange de grâce et de douceur ! s’écria Gustave en baisant Louise au front. Puis il reprit : </p>
+          <p> — Il y a plus d’un mois que je ne vous ai vue, Louise ! </p>
+          <p> — Plus d’un mois, Gustave, vous le savez donc ? </p>
+          <p> — Un long mois dont j’ai compté les jours les heures, les minutes ; un long mois pendant lequel j’ai fait une rude pénitence. Le ciel devait me punir tôt ou tard ; le châtiment ne se fit pas attendre : le soir du jour où je vous quittai pour la dernière fois j’allai chez madame de Gardani, je la trouvai tout en larmes et les cheveux en désordre. La chambre était remplie de débris de vases et de porcelaines. Sitôt qu’elle m’aperçut, elle s’élança vers moi en me criant : </p>
+          <p> — Gustave, fuyez, au nom du ciel ! fuyez, on vous êtes perdu.... </p>
+          <p> — Qu’arrive-t-il ? lui demandai-je </p>
+          <p> — M. de Valeaure !... Il est de retour d’Angleterre ; il sort d’ici, il a trouvé sur ma table le billet que vous m’écriviez ce matin sa colère est au comble... regardez il m’a frappée au front ; s’il vous voyait ici ! fuyez je vous en supplie Gustave, fuyez !... </p>
+          <p> A peine elle achevait, que la porte s’ouvrit avec force, et M. de Valeaure entra pâle et grinçant des dents... </p>
+          <p> — Je vous ai suivi, s’écria-t-il, je vous trouve ici !... Monsieur, n’était-ce pas assez d’être l’amant de ma femme, il fallait encore m’enlever ma maîtresse ; vous m’en voulez donc bien ? </p>
+          <p> — Je trouvai assez étrange que cet homme qui avait pris si peu à cœur nos relations, se trouvât outragé de me surprendre chez sa maîtresse. Une altercation assez vive s’engagea entre lui et moi ; il m’insulta grièvement tu, ne rencontre fut arrêtée pour le lendemain. </p>
+          <p> — Un duel ! ce mot s’échappa comme un cri d’angoisse du sein de la jeune femme. </p>
+          <p> Elle demeura interdite un moment : ses lèvres étaient pâles et tremblantes. Puis comme revenant à elle : </p>
+          <p> — Qui fut blessé ? demanda-t-elle avec une sorte de terreur. </p>
+          <p> — Moi !... </p>
+          <p> — Toi !... blessé ?... </p>
+          <p> Et des larmes étouffèrent ces mots sur ses lèvres. Elle se jeta dans les bras du jeune homme, appuya sa tête sur sa poitrine, le baisant au front et répétant sans cesse : </p>
+          <p> — Blessé ! toi, blessé ! mon pauvre Gustave ! mon ami ! blessé ! </p>
+          <p> — 11 y avait du délire dans le langage et l’expression de Louise ; elle avait oublié son dépit et sa jalousie : tout cela s’était écoulé de son cœur avec les larmes dont elle inondait le visage de Gustave et elle répéta : </p>
+          <p> — Blessé ! et tu ne m’en as rien dit, rien écrit... A moi, qui aurais passé toutes mes nuits près de ton lit à te soigner, à sucer ta plaie pour la guérir !... Mais elle s’écarta tout-à-coup du jeune homme, comme si elle était en proie à une sombre pensée. </p>
+          <p> — C’est vrai, vous n’aviez pas besoin de moi ; vous aviez à vos côtés madame de Gardani ! </p>
+          <p> — Ne m’accablez pas ainsi, Louise, s’écria Gustave en se jetant à ses pieds. De grâce, ayez pitié de moi ! Je ne vous ai rien écrit, rien dit, mon Dieu ! c’est vrai, mais je n’osais pas encore vous avouer ma faute, U, aurait fallu tout ; vous expliquer ; et puis, j’espérais après quatre ou cinq jours, être en état d’aller vous voir ; mais la blessure était plus grave qu’on ne pensait : la pointe de l’épée s’était brisée sur la clavicule, il y avait du danger. Je suis resté un mois ainsi, et un mois sans vous voir ! Et vous avez cru, Louise, que je vous avais abandonnée, que mon amour s’était éteint !... Pauvre et douce amie, que je t’ai regrettée pendant ces longues nuits d’insomnie que je passais seul, sans personne à mes côtés que la douleur et la soffrance !... Pas un mot de consolation, pas un baiser pour calmer la fièvre brûlante qui me dévorait... que de fois je t’ai appelée dans mon délire ! que de fois, quand le sommeil fermait un peu mes paupières, je t’ai vue à mon chevet comme un bon ange visiteur ; et quand je n’évaillais, je ne trouvais à mon côté que ma garde-malade ou le docteur !. Oh ! Louise, j’ai payé bien cher ma faute ! </p>
+          <p> — Et cette femme ? dit Louise. </p>
+          <p> — Madame de Gardani ?... Je ne l’ai revue qu’une fois ; elle est venue me reprocher ce qu’elle appelait ma perfidie et mon ingratitude. Ce que je redoutais arriva ; car cette femme m’a donné sa malédiction elle m’a dit que le ciel la vengerait avant peu ; ce sera plutôt l’enfer, car ce sera d’elle-même que viendra la vengeance ; je crains tout de sa part... </p>
+          <p> — -Femme abominable ! s’écria Louise avec indignation. </p>
+          <p> — Je suis assez puni, Louise, pardonnez moi ; maintenant que je suis à vous seule, je vous appartiens tout entier ; vous n’aviez pas perdu de mon cœur le moindre battement, vous y trôniez en reine ; mon affection pour cette femme ne vous l’avait pas plus ravi que mon amour pour ma mère ! C’était quelque chose à part, quelque chose qui n’avait pas de nom, si vous voulez, mais qui n’était nullement éclairé par cette vive lumière qui brillait dans mon âme pour vous. 0 Louise ! vous seule aviez mon amour, vous seule l je le jure ici devant Dieu, au nom de cette sainte union de nos âmes, je n’aimais que toi, je n’aime que toi ! Si j’ai souillé ta pureté, pardonne ; mais je n’ai jamais terni ton amour. Quand je m’approchais de cette femme, ce n’était qu’en tremblant ; car je songeais toujours à toi... Je laissais à la porte toute pensée d’amour, je me dépouillais de mon âme, pour ainsi dire, et ce n’était plus que le corps qui entrait... Louise, vous ne me répondez pas... comment traduire vôtre silence ? Qu’un moi de consolation tombe de vos lèvres ! Louise, Louise !... chassez loin dé vous toute pensée jalouse. </p>
+          <p> — Cette femme, vous ne l’avez point aimée, n’est-ce pas ? vous le jurez ?... </p>
+          <p> — Je le jure, Louise... </p>
+          <p> Alors la jeune femme appuya sa tête sur l’épaule de Gustave, qui devina son pardon dans cette tendre expansion. </p>
+          <p> — Merci, mon ange, lui dit-il après un moment, merci ! </p>
+          <p> — Relève-toi, Gustave, viens t’asseoir et aies côtés... </p>
+          <p> — Non, je veux rester à tes pieds ; nulle place n’est plus faite pour moi ! </p>
+          <p> — Tu ne reverras plus jamais cette femme ? </p>
+          <p> — Jamais !.. Mon Dieu, que j’étais donc fou ! Mêler tant de bonheur au dégoût ! tant de grâces, tant de douceur à l’indifférence, à une froide habitude ! Souiller cette âme si pure et si belle au souffle de la corruption ! Louise, je ne veux plus songer à ce sombre passé ; je ne vis que pour toi, toi ! mon adoration, ma souveraine, ma bien-aimée... </p>
+          <p> — Ne me quitte jamais, Gustave ; jette un voile épais sur ta faute, que je sois toujours pour toi une amie bonne et douce... </p>
+          <p> — Un trésor inépuisable de bonheur et de tendresse ! s’écria le jeune homme enlevant Louise dans ses bras et la pressant sur son cœur. Maintenant, je me sens grand et pur ; je n’ai jamais joui avec tant d’extase de ma félicité. Oh ! je n’ai plus cette infernale passion qui empoisonnait l’idéal de mon bonheur ! Je n’ai plus de honte à te sentir sur mon cœur ; mes lèvres ne tremblent plus en te baisant, car nulle femme ne les a pressées avant loi, nulle femme ne les touchera après. Oh ! je suis comme un prisonnier à qui l’on rend la liberté. L’air me semble plus léger, tout me paraît plus beau, mon cœur bat plus saintement... Oh ! ce n’était pas comme cela quand je savais que j’étais coupable... un nuage épais obscurcissait le beau ciel de mes amours... maintenant... </p>
+          <p> — Maintenant, continua Louise, tu seras heureux comme j’étais heureuse, en te croyant tout à moi. Ami, c’est une félicité suprême que tu vas goûter ! </p>
+          <p> — Que les années qui vont s’écouler pour nous soient un long jour de bonheur et de ravissement ! </p>
+          <p> — Gustave, aimons-nous toujours !... </p>
+          <p> — Toujours ! Louise... </p>
+          <p> — Pas longtemps ! s’écria une voix formidable en dehors. </p>
+          <p> Les deux amans tressaillirent. </p>
+          <p> La porte se brisa, et le comte de Valeaure entra ; madame de Gardani le suivait. </p>
+          <p> — Monsieur… ; dit madame de Valeaure en s’avançant jusqu’à lui. </p>
+          <p> — Ce n’est pas vous que je viens chercher ici, madame. Monsieur, vous croyez donc que je laisserais impunément commettre un adultère ? Vous savez quel droits a un mari qui rencontre un amant aux pieds de sa femme.... </p>
+          <p> — Monsieur, lui répondit Gustave, aurez vous la lâcheté de tuer de sang-froid un homme sans armes. Votre vie ou la mienne sur l’heure ? </p>
+          <p> — Ma vie ! non, monsieur, je ne veux pas que vous ayez la chance de me tuer : c’est votre vie qu’il me faut ; alors je serai vengé ! </p>
+          <p> Gustave eut assez d’adresse pour détourner un pistolet qui flaira sa poitrine ; la balle alla frapper Madame de Gardani à la tête !.. </p>
+          <p> — Vous ne m’échapperez pas, s’écria le comte avec rage, et il se jeta sur Gustave. </p>
+          <p> Une lutte s’engagea corps à corps entre ces deux hommes. M. de Valeaure glissa ces mots horribles à son adversaire : « Ce n’est pas de ma femme que je me venge ; c’est pour m’avoir volé ma maîtresse que je vous tue. » La lutte ne fut pas longue, Gustave tomba avec un large coup de poignard au cœur. </p>
+          <p> Louise entendit cette chute, et voyant le sang dont était couvert son mari : </p>
+          <p> — Vous l’avez tué ! s’écria-t-elle, et elle tomba évanouie... </p>
+          <p> — Femme adultère, dit alors le mari, à vous le soin de ce cadavre maintenant ; celui-ci me regarde. Et il sortit emportant dans ses bras le corps de madame Gardani. </p>
+          <lb/>
+        </div>
+        <div title="V" type="chapter">
+          <p> V. </p>
+          <lb/>
+          <p> A quelque temps de là, continua Joseph, je fus chargé de donner mes soins à une pauvre folle qui n’était autre que Louise. Sa raison était perdue à tout jamais. Quelque vigilance qu’on lui accordât, on ne put empêcher qu’une nuit, elle ne se jetât par une fenêtre. Elle s’était brisé la tête. </p>
+        </div>
+      </div>
+      <div title="LA MÈCHE DE CHEVEUX." type="nouvelle">
+        <p> LA MÈCHE DE CHEVEUX. </p>
+        <div title="I" type="chapter">
+          <lb/>
+          <p> I. </p>
+          <lb/>
+          <p> La belle frégate la Terpsichore était entrée à Cove de Cork en Irlande, poussée par une furieuse tempête, il y a tantôt trois ans de cela ; je ne rappellerai pas ici tous les détails de cette catastrophe que j’ai écrite à mon arrivée à Paris. </p>
+          <p> Quelques officiers de marine, des passagers et moi, nous avions laissé la frégate et pris passage à bord du Steamer anglais, la Junon pour rentrer en France. Ce fut une douleur pour nous d’abandonner cette magnifique frégate couchée sur le flanc, et battue par les vagues qui semblaient s’étonner qu’elle eût si bien résisté à leur fureur ! C’était comme le corps d’une belle femme morte ! Il ne lui restait plus rien ; ses soixante canons avaient disparu dans les flots, ses grands mâts qui semblaient se perdre dans l’air, étaient rasés, un vrai cadavre ! </p>
+          <p> Quand nous eûmes quitté la magnifique baie de Cork, parsemée d’îles, comme un un petit Océan, où quatre cent cinquante vaisseaux de guerre avaient trouvé place, après avoir descendu la petite rivière le Lee dont les bords sont cent fois plus ravissans que les sept lieues de la Tamise tant vantée, nous nous trouvâmes en pleine mer, passablement secoués parles restes d’une seconde tempête plus affreuse encore que la première, et qui s’était appaisée depuis deux ou trois jours seulement. C’était au mois de Mars ; une pluie froide couvrait le pont de verglas, la mer était forte, le vent soufflait frais. Nous qui en avions assez du spectacle étrange et curieux que peuvent offrir des lames monstrueuses, grosses de tempêtes, nous descendîmes au plus vite dans la chambre. Notre soin le plus empressé fut de vérifier sur la carte combien de jours nous avions à passer en butte encore peut-être aux chances d’une mauvaise navigation, tant nous avions hâte, même mes compagnons, gens bien aguerris pourtant, de mettre enfin le pied sur le plancher des vaches , comme disent les marins en parlant de la terre ferme. </p>
+          <p> Nous eûmes beau mesurer le plus exactement avec les compas les mieux organisés, en nous basant sur le premier loch qui venait d’être jeté et qui nous promettait une vitesse de quatre lieues à l’heure, nous ne pûmes trouver moins de cinq jours pleins. Que faire pendant cinq jours ? pas un livre à bord ! mais il y avait nombreuse compagnie sur le Steamer et parmi les passagers un ancien officier de la marine française, camarade d’un de mes compagnons, bon homme vraiment, spirituel, causant bien. Quelques observations qu’il avait eu l’imprudence d’entamer à haute voix sur les Anglais, furent mal accueillies par une douzaine d’entre eux qui parlaient français aussi bien que nous. C’était fâcheux vraiment ; il y avait tant à dire, et notre compatriote le disait si spirituellement ! alors il fallut faire trêve à notre gaieté, et nous mettre à l’unisson de nos voisins, c’est-à-dire boire du thé et nous composer des visages ennuyés. Nous en eûmes bientôt assez avec une demi-heure de spleen et une douzaine de tasses de thé ; d’autant que nos Anglais pour prendre leur revanche et faire fête à l’habit de nos marins s’étaient mis à raconter en françaises méchans !) les exploits de l’amiral Nelson. </p>
+          <p> Il fallait nous tirer de cette position, nous eûmes recours à notre ancien officier qui proposa de raconter quelques histoires. Sa proposition fut accueillie, même par les Anglais, qui exigèrent d’abord le récit de notre naufrage. Je me rappelle avoir raconté quatre-vingt-quatorze fois l’aventure de la Ter- psychore ; je n’en étais alors qu’à mon trente troisième récit, je le fis de bonne grâce, et je fus ravi des éloges que ces Anglais accordèrent au courage et à l’énergie de nos officiers. </p>
+          <p> Après moi, le lieutenant Robin prit la parole et commença par cette histoire </p>
+          <p> — En 1813, dit-il, le brick le Trasas était en station aux Antilles. Le second avait parmi ses canotiers, un jeune matelot de vingt-trois ans. De mémoire de marin on n’avait vu matelot aussi discipliné ; il avait nom Robin, il s’appelait comme moi. Robin savait lire et écrire, et une fois son quart terminé, il ne comprenait d’autre plaisir que de se livrer à l’étude ; il avait eu l’idée d’apprendre les mathématiques, et les officiers du bord volontiers l’aidaient de leurs conseils. Quelques-uns de ses camarades l’avaient surnommé le savant ; et d’autres moins délicats baptisé de certaines épithètes qui sentaient de loin le goudron. Robin était rêveur et pleurait même souvent, chose miraculeuse, n’est-ce pas ? pour un matelot. Aussi souffrait il beaucoup des quolibets et des plaisanteries dont il était le plastron continuel. Vous qui savez, messieurs, ce que vaut un matelot lâché à terre, vous serez bien étonnés quand je vous dirai que Robin, ne quitta pas une fois le canot de son lieutenant ; jamais chien à l’attache ne fut plus docile et plus résigné à garder la niche. </p>
+          <p> — Je devine, monsieur l’officier, dit un vieil anglais en interrompant notre compatriote, que votre matelot était quelque peu parent avec le compagnon de Lara, et j’entrevois une nature féminine sous le paletot et les mains goudronnés de votre canotier. </p>
+          <p> — Je vous réponds que non, monsieur ; car Robin savait aussi bien que ses camarades le goût de l’eau-de-vie, et sa bouche roulait tout aussi bien qu’eux n’importe quel juron. Sa voix forte se faisait trop bien entendre du pont au haut du grand mât pour qu’elle sortît d’une poitrine de femme, et ce verre de brandy que je bois à votre santé lui eût chatouillé le gosier trop agréablement pour qu’il le repoussât de ses lèvres. </p>
+          <p> L’anglais répondit à notre compatriote par deux rasades ; l’exemple fut suivi à la ronde. </p>
+          <p> — Robin était tout bonnement ambitieux, et son désir de parvenir avait un mobile puissant, l’amour. Pour parvenir, il fallait qu’il conquit la bienveillance et l’estime de ses chefs, il en prenait le bon chemin ; pour réaliser le rêve de ses amours, il fallait qu’il fût quelque chose de plus qu’un simple matelot, vous comprenez maintenant ; Robin avait, de son côté, la volonté qui lui donnait de l’espoir. Il ne songeait qu’au jour où le brick recevrait l’ordre de faire voile pour Brest. </p>
+          <p> Il y avait deux ans que Robin n’avait vu sa fiancée ; il était bien excusable de désirer si ardemment son retour ! Et puis, qui de vous, messieurs, n’aurait pas soupçonné, au moins une fois en deux ans, la fragilité du cœur d’une femme ? Mariette ne savait pas écrire, ni son père ni sa mère ne savaient écrire ; comme toute femme, Mariette ne se souciait pas de confier ses élans d’amour à une plume étrangère ; or, elle ne voulait pas que Robin reçût une lettre d’elle sans qu’elle lui parlât d’amour. </p>
+          <p> Depuis deux ans, le pauvre matelot n’avait pas de nouvelles de Mariette. </p>
+          <p> Quel beau jour ce fut pour lui, que le jour où enfin le Trasas leva l’ancre et fit voile pour Brest ! Si c’était possible, je vous dirais que Robin mit dix fois plus d’activité à la manœuvre ; il regrettait que ces voiles blanches qui se déployaient ne fussent pas des ailes qui emportassent le brick rapide comme le vol d’un oiseau. Un navire, parti huit jours avant lui, s’était chargé d’une lettre de Robin pour Mariette qui lui annonçait sa prochaine arrivée. Le bâtiment arriva en trente jours et le Trasas pris d’un coup de vent resta soixante-dix-huit jours en mer. Qu’on dise que les amoureux ne sont pas les plus malheureuses gens du monde ! </p>
+          <lb/>
+        </div>
+        <div title="II" type="chapter">
+          <p> II. </p>
+          <lb/>
+          <p> Mariette était une belle fille de dix-sept ans, grande, svelte, avec de longs cheveux blonds et de grands yeux noirs ; ses pieds un peu larges et ses mains passablement rouges et épaisses étaient seuls dignes d’un matelot. Aussi, quand elle voulait bien enfoncer ses mains dans les poches de son tablier, et qu’on ne la regardait que jusqu’aux genoux, Mariette était une fille ravissante. L’œil s’arrêtait avec délices sur les contours de sa taille de ses épaules, et de... </p>
+          <p> — Je poussai le coude de mon compatriote qui s’arrêta tout court dans la description des beautés et des formes de Mariette, à la vue d’un shocking bien articulé qui s’était dessiné escorté de quelques grimaces sur les lèvres d’une demi douzaine de nos voisines, de jolies Anglaises. </p>
+          <p> Il passa outre. </p>
+          <p> — Je puis dire, reprit-il, que Robin se regardait comme un heureux gaillard de posséder cette perle des filles de Recouvrance, et l’on s’explique qu’il fût si docile à la mériter. </p>
+          <p> De son côté, Mariette aimait éperduement le jeune matelot. Le lendemain du jour où le Trasas avait quitté Brest, elle ne détacha pas les yeux de l’horizon pour s’assurer que le brick fût bien parti, et le surlendemain elle guetta pour voir s’il ne revenait pas déjà ; et, pendant deux ans que Robin resta absent, tous les jours elle interrogeait ai i la rade. Et son petit cœur faisait bien des vœux, poussait bien des soupirs qu’elle confiait au vent pour qu’il les apportât à son ami. Et quand elle recevait une lettre de Robin, elle pleurait de ne pouvoir pas lui répondre ; elle aurait eu tant de choses à lui dire qu’elle entendait murmurer dans son cœur ; et elle les lui aurait dites avec tant de passion ! Elle allait jusqu’à avoir honte de son ignorance, à se reprocher d’aimer Robin, parce qu’il la mépriserait bien certainement lui qui était un savant ! </p>
+          <p> — Mais pourquoi, observa très judicieusement an old maid , n’apprenait-elle pas à écrire, la petite sotte ? </p>
+          <p> — Parce que, répliqua l’officier, elle travaillait jour et nuit pour vivre, et que dans ses momens de liberté, elle songeait plus à son amour qu’à s’instruire ! Voilà comme sont faits les cœurs de quinze ans ! Or, imaginez tout ce que vous pourrez de plus passionné, de plus profond, de plus dévoué, et vous aurez à peu près l’équivalent de l’amour de Mariette ! Dans l’âme de cette pauvre fille du peuple aimant un grossier matelot, se pressaient les plus ravissans et les plus délicieux rêves d’amour, à faire envier le sort de Robin par les plus grands seigneurs ! Oh ! messieurs, c’était à jeter bas ses épaule ! tes d’officier et à endosser volontiers la casaque du matelot pour se sentir effleuré par les lèvres de Mariette ! </p>
+          <p> — A la santé de Mariette ! s’écria un jeune dandy anglais ; monsieur, c’est à nous faire oublier ces dames, ajouta-t-il par manière de galanterie, en s’inclinant devant le cercle des Anglaises, dont les joues roses se colorèrent encore davantage. </p>
+          <p> — Oui, messieurs, Mariette était belle à ce point, reprit le narrateur et je vous jure que de ma vie je n’ai vu fille plus attrayante. </p>
+          <p> — Vous l’avez donc connue ? demanda le susdit dandy. </p>
+          <p> — Oui monsieur. </p>
+          <p> — Et vous ne buvez pas à sa santé ! votre verre est resté vide. </p>
+          <p> — Parce que, monsieur, je ne fête pas de tristes souvenirs avec du vin, et si je m’écoutais, vous me verriez pleurer devant vous comme une femme ! </p>
+          <p> — Les parens de Mariette qui croyaient que son amour pour Robin n’était qu’une fantaisie d’enfant, une fois le brick en mer songèrent à la marier avec le fils d’un gros fermier des environs. C’était un bon parti, et il y avait dans les terres du fermier plus d’argent à recueillir que sur le pont du plus gros vaisseau ! Mais Mariette pleura tant et menaça si sincèrement de se noyer le jour où on la forcerait à se marier, qu’ils renoncèrent à leur projet, et promirent à la pauvre fille d’attendre le retour de Robin. Mariette objecta une multitude de beaux raisonnemens, à savoir qu’il valait mieux vivre dans la pauvreté avec l’objet qu’on aime que dans la richesse avec un mari imposé ; cet éternel argument de tons les amoureux, chimère que trop souvent la réalité fait disparaître ! Mais Mariette parlait vrai quand elle disait cela ; et l’amour lui donnait de l’éloquence ; elle affirmait que plus d’une grande dame et plus d’un beau seigneur envieraient, au milieu de leurs richesses, le sort du pauvre Robin et de la pauvre Mariette ! Enfin que sais-je, ce que vous rabâcheriez tous demain, si vous étiez amoureux, messieurs et mesdames. </p>
+          <p> Toute jeune fille, de cette classe, quand elle est belle et quand elle est pauvre, a traversé dans sa vie de ces momens où les tentations la cernent de toutes parts, où elle rencontre sur sa route de mauvaises et lâches passions qui lui jettent un hameçon avec de l’or et de faux semblans d’amour pour amorces. Peu échappent à cette pêche ; mais Mariette se réfugia avec une sorte de terreur dans les bras de sa mère, un matin qu’elle avait rencontré un beau jeune homme de Paris qui lui avait offert des calèches, des robes de soie, de riches chapeaux pour le suivre et être sa maîtresse : de ce moment elle n’osa plus passer par cette endroit de peur d’y rencontrer le jeune homme dont la voix tintait à son oreille, comme un mauvais songe nous poursuit encore au réveil. </p>
+          <p> Mariette avait reçu la lettre de Robin, et depuis ce moment elle ne songeait plus à rien qu’à bondir de joie sitôt qu’elle apercevait au plus loin une voile blanche ; bien souvent la barque de pêcheur de son père s’était changée pour elle en un gros bâtiment. Mais je vous ai dit que le Trasas avait tenu la mer soixante-dix huit jours, d’autres bâtimens partis à la même époque ou après lui, étaient arrivés depuis longtemps. Le bruit courut que le T rasas avait péri. Quel coup de foudre pour la pauvre Mariette ! son pauvre Robin qu’elle ne devait plus revoir, mort loin d’elle, sans qu’elle lui ait donné un baiser d’adieu ! Mariette passait ses jours et ses nuits à prier et à pleurer, quelquefois elle venait malgré elle à l’endroit d’où elle avait l’habitude de parcourir la rade pour y chercher le Trasas. Puis elle se souvenait tout-à-coup de son malheur qu’elle semblait avoir oublié, et s’en retournait triste, les yeux et le cœur gonflés de larmes. Au lieu de ses chansonnettes gaies et pleines d’amour qu’elle fredonnait tous les jours, elle chantait les prières des morts qu’elle avait entendues à l’église. Pauvre Mariette ! oh ! comme ses joues rebondies s’étaient desséchées, comme ses yeux vifs et rayonnans semblaient usés par les pleurs et éteints ! c’était pitié. </p>
+          <p> On la rencontra plusieurs fois dans le cimetière dont elle faisait le tour, s’arrêtant à chaque instant comme si elle cherchait une tombe pour s’y agenouiller et prier ; il n’y en avait pas. Le pauvre Robin était noyé, l’Océan lui servait de tombeau ! alors elle planta une croix sur le bord de la mer, et là, elle allait exhaler toutes les douleurs de son âme. </p>
+          <p> Pardonnez-moi de prétendre mêler quelque chose de poétique à ce récit, mais ne vous semble-t-il pas que ce murmure des vagues qui, répondant ainsi aux lamentations de la jeune fille, était comme une voix qui sortait du fond de la tombe, et lui parlait aussi. </p>
+          <p> Mariette, dans l’exaltation de son chagrin, avait perdu la tête, et la folie la gagnait ; aussi crut-elle, en effet, souvent entendre la voix de Robin, et une fois elle s’était jetée à la mer, se figurant que son ami l’avait appelée. Heureusement son frère, qui la surveillait dans sa folie, l’avait suivie ce jour-là, et la retira de l’eau. </p>
+          <p> Enfin un matin à six heures, le Trasas fit son entrée à Brest. Une lueur rougeâtre, pareille à celle d’un incendie, dessinait une longue bande de feu du côté de Recouvrance. C’était en effet un incendie. Le pauvre Robin accourut supplier en grâce son lieutenant de le laisser aller à terre avec un canot et des hommes pour aider à éteindre le feu. La fiancée de Robin habitait Recouvrance, un vague pressentiment lui disait que la maison de Mariette était la proie des flammes. Il se fût plutôt jeté à la nage que de manquer le canot. Il partit. </p>
+          <p> C’était Mariette elle-même qui, la nuit, dans un accès de folie, avait allumé l’incendie. On eut le temps de retirer des flammes les habitans de la maison : Mariette, la première, avait pris la fuite, et, s’étant placée en face du feu, elle poussait des éclats de rire en regardant les progrès de l’incendie. Puis, tout à coup, son visage se rembrunit, elle devint triste, fit entendre un cri de désespoir, et sans qu’on eût pu l’arrêter, s’élança dans les flammes. </p>
+          <p> Robin, en partant, avait échangé avec sa fiancée une mèche de cheveux, précieux gage d’amour que tous deux portaient sur leurs cœurs. Dans sa folie Mariette persuadée qu’on voulait lui enlever ces cheveux de son amant, avait creusé dans le mur un trou où elle les avait cachés. </p>
+          <p> Une lueur de raison lui était revenue tout à-coup ; elle se rappela qu’elle avait oublié de sauver la mèche de cheveux, et c’est alors qu’elle se précipita au milieu des flammes. </p>
+          <p> L’officier commandant l’embarcation se laissa guider par Robin qui conduisit la corvée précisément à la maison de Mariette. Là un spectacle déchirant s’offrit à lui. Au moment où il arriva, la jeune fille apparut à une des fenêtres, les vêtemens et les cheveux brûlés, étendant au milieu des flammes ses bras mutilés pour implorer du secours. Robin n’eut pas le temps de faire deux pas vers la maison qu’elle s’écroula avec un horrible fracas. Un cri perçant domina le bruit. Robin reconnut la voix de Mariette qui s’était engloutie dans les décombres. </p>
+          <p> Avec un courage et une force que lui donnait le désespoir, il écarta les poutres enflammées, fouilla au milieu des décombres pour y trouver le cadavre de Mariette ; il ramena bientôt un corps mutilé et à moitié consumé. Il pressa sur son cœur et baisa avec frénésie cette tète fracassée et sanglante, puis jeta le cadavre entre lès bras de son vieux père et regagna le bord. </p>
+          <p> — Messieurs, nous dit l’officier, en essuyant une larme qui roulait dans ses yeux, voilà l’histoire de Mariette. </p>
+          <p> — Et Robin, que devint-il ? le pauvre matelot. </p>
+          <p> — Robin raconta ses chagrins à son lieutenant, et lui demanda de faire son possible pour qu’on l’embarquât immédiatement sur une frégate qui levait l’ancre le sur lendemain. </p>
+          <p> — Tu es destiné à passer à la timonnerie, Robin, lui répondit le lieutenant, tu es un brave gaillard, tu pourras faire ton chemin. </p>
+          <p> — N’importe en quelle qualité, mon lieutenant ; mais il faut que je parte, je ne dois plus revoir de longtemps le port de Brest, répondit le jeune matelot. </p>
+          <p> Robin passa à la timonnerie, selon la promesse que lui avait faite son lieutenant ; il resta cinq ans dans la mer des Antilles ; son zèle et son intelligence qui ne s’étaient pas démentis, lui valurent à la longue le grade d’officier. </p>
+          <p> Sans l’amour de Mariette, Robin eût peut être été un matelot batailleur et ivrogne ; son esprit altier et indépendant s’était fait docile pour l’amour ! Robin ne goûta que la moitié de la douceur que cette passion lui promettait. </p>
+          <p> Le narrateur porta la main à son cœur et en retira un papier qu’il ouvrit. </p>
+          <p> — Voyez, dit-il, si Mariette avait de beaux cheveux ! et il tint, suspendue à ses doigts, une longue mèche de cheveux qui touchait à terre ! </p>
+          <p> — Les cheveux de Mariette ! s’écrièrent tous les auditeurs ensemble. </p>
+          <p> — Oui, messieurs, reprit-il en les baisant et les remettant sur son cœur. </p>
+          <p> — L’avez-vous donc connue beaucoup ? </p>
+          <p> — Mais ne voyez-vous pas que je sais le matelot Robin, aujourd’hui le lieutenant Robin ? </p>
+          <p> Il quitta la chambre et remonta sur le pont. Nous le suivîmes tous, même les Anglaises qui le regardaient avec une sorte d’admiration ! </p>
+          <p> Le lieutenant nous raconta quelques autres histoires que je vous dirai peut-être bien un jour, </p>
+        </div>
+      </div>
+      <div title="UNE IDÉE D’ONCLE." type="nouvelle">
+        <p> UNE IDÉE D’ONCLE. </p>
+        <lb/>
+        <div title="I" type="chapter">
+          <p> I. </p>
+          <lb/>
+          <p> Le ciel ou plutôt l’enfer, en jetant dans le monde la première semence de ce vice horrible qu’on appelle l’avarice, a du le faire germer tout d’abord dans la tète des oncles riches ayant pour héritiers des neveux dissipateurs et pauvres, bien entendu. Les oncles ! classe d’individus indispensables après tout ! Source féconde où tant de comédie de vaudevilles, drames et romans ont puisé leurs dénoûmens. Rayez les oncles du monde, et vous verrez combien d’existences ne sauraient où aboutir ; combien plus de suicides vous compterez ; combien moins d’usuriers ! Voyez tout ce qui se rattache aux oncles ! </p>
+          <p> C’est en me lançant à brûle-pourpoint ces réflexions passablement saugrenues, qu’un ami m’accosta avant-hier sur le boulevard. </p>
+          <p> — Mais ce que je t’en dis ne me regarde nullement, ajouta-t-il ; je suis né pauvre et pauvre mourrai ; car tous mes oncles ont des enfans ; un tas d’ennemis qui m’ont été donnés par ma famille elle-même. </p>
+          <p> — A qui en as-tu donc ? lui répondis-je. </p>
+          <p> — Connais-tu Gabriel de Rojan ? </p>
+          <p> — Oui, ce beau lion à la noire crinière ? </p>
+          <p> — Eh bien ! il vient d’hériter d’un oncle ; trois cents mille livres de rente. </p>
+          <p> Je me mordis les lèvres jusqu’au sang ; car je n’aime pas à entendre parler d’héritages, moi qui n’en ai pas le moindre à faire ; la chose serait souhaitable pour vous et pour moi, car certes s’il en était ainsi, je ne vous ennuirais pas du récit de celte histoire ; où bien je partirais en chaise de poste à quatre chevaux pour vous la raconter, elle en vaut la peine. </p>
+          <p> — Et la façon dont-il vient d’hériter, continua mon ami, est la plus singulière et la moins méritée que je sache. Tu n’ignores pas que Gabriel possédait pour oncle le plus avare bonhomme qu’il soit possible de rencontrer ; je ne veux te dire que deux traits de sa vie qui te dessineront à merveille l’individu. L’oncle et le neveu habitaient la même maison : Gabriel au premier étage se prélassait dans les plus beaux et les plus splendides appartemens ; l’oncle chenillait dans un misérable trou surnommé chambre, au sixième au dessus de quatre entresol. Mde Rojan, deson plein gré, n’accordait que dix mille francs de pension à son neveu, qui suppléait au reste de la manière que tu devines ; or, il menait un train de millionnaire ; chez lui dîners et soupers tous les jours. L’oncle le savait parfaitement, aussi chaque matin il descendait clandestinement à la cuisine de Gabriel. </p>
+          <p> — Eh bien ! mon garçon, disait-il au chef ; il y a gala chez le fou aujourd’hui ? </p>
+          <p> — Dam ! monsieur, il faut bien qu’on vive, répondait le cuisinier. </p>
+          <p> — Le diner est-il considérable ! </p>
+          <p> Huit, dix, douze couverts, cela dépendait. </p>
+          <p> — Quel est le menu ? </p>
+          <p> Alors le cuisinier le lui expliquait. </p>
+          <p> — Oh ! oh ! s’écriait le bonhomme ; mais c’est delà folie, cela ; tant de plats d’entrée, tans de rôtis ! je n’entends pas que mon neveu se ruine ; c’est mon enfant, c’est mon héritier, je veux qu’il ménage son bien. </p>
+          <p> A la suite de ces propos, l’oncle emportait lui-même une pièce de veau, quelques cotelettes, un faisan, du gibier un peu de tout, depuis le dessert jusqu’au vin, remontait chez lui, et dinait ainsi tous les jours sans dépenser un liard, sous prétexte d’économiser pour son neveu. </p>
+          <p> — Que penses-tu du tour ?OHarpagon ! pends-toi, tu ne l’avais pas deviné. Pour le tailleur c’était de même. </p>
+          <p> — Combien de pantalons apportez-vous à mon neveu ? </p>
+          <p> — Trois, monsieur ; trois habits et une quantité de gilets. </p>
+          <p> — C’est bien ! donnez moi un pantalon, un habit et quatre gilets </p>
+          <p> Puis M. de Rojans’en allait chez un revendeur à la toilette... </p>
+          <p> Ce manège dura cinq ans et Gabriel qui le savait, n’avait garde d’en dire un mot ; toutefois ils finirent par se séparer ; ils logèrent aux deux bouts de Paris. </p>
+          <p> — Et l’héritage ? demandai-je à mon ami. </p>
+          <p> — Le voici venir. </p>
+          <lb/>
+        </div>
+        <div title="II" type="chapter">
+          <p> II. </p>
+          <lb/>
+          <p> Un matin, dans un appartement de la rue des Postes, se trouvaient réunies deux personnes, un jeune homme et un vieillard. L’appartement était celui du vieillard ; il était haut, il était sale, et fort mesquinement petit. Sa toilette à lui était à l’avenant : une redingote en castorine devenue à l’état de drap poli, des chaussons en lisières dont les épaisses semelles étaient inusables, comme si des chaussons s’usaient jamais, un bonnet de soie noire neuf, par exemple, qui la veille en avait remplacé un, comptant au moins dix années de service. Probablement cette nouvelle dépense avait excité la mauvaise humeur du vieux et provoqué de sa part la visite du jeune homme, dont la toilette exquise et du meilleur goût annonçait un des lions les plus féroces du café de Paris. Gabriel avait été reçu d’une façon fort brusque par son oncle. Celui-ci examina d’un air scrutateur et moqueur la toilette du neveu, depuis les bottes vernies jusqu’aux cheveux frisés, puis il fit une grimace des lèvres et hocha la tête. </p>
+          <p> Il se leva de son fauteuil, fit quelques tours dans la chambre et revint s’asseoir. </p>
+          <p> — Savez-vous pourquoi, Gabriel, je vous ai fait venir chez moi ? </p>
+          <p> — Pour essuyer quel qu’un de vos sermons, mon oncle, c’est assez votre habitude, comme c’est aussi la mienne. </p>
+          <p> — En conscience, ne le méritez-vous pas ? Plus je vous regarde, et plus je m’étonne ; en vérité vous êtes vêtu et chamarré comme un millionnaire ; et, Dieu sait vous avez je gage, un coupé à ma porté ; votre nom figure sur la liste des concurrens aux courses du Champ de-Mars, côte à côte avec celui des plus riches personnages ; vous avez des chevaux dans votre écurie, des laquais galonnés et mieux mis que moi, des meutes de chiens dans toutes les pensions, des maîtresses dans tous les théâtres ; des appartenons magnifiques, m’a-t-on dit, car je n’ai voulu jamais les voir, de peur d’y mourir de colère : des petits et des grands salons, des boudoirs chinois, Louis XV, moyen-âge, et de tous les âges ; tendus de soie, de satin, de mousseline, de damas ; et un des premiers, m’a-t-on dit encore, vous avez foulé des tapis de velours où les pieds enfoncent comme dans la vase ! C’est bien, c’est fort bien ! Mais vous devez tout cela ! vous devez plus encore ; je parie que vous n’avez pas payé cette redingote pincée ni cet élégant pantalon ! et je parie encore que vous n’avez pas même payé le souper que vous avez fait cette nuit à Tortoni en compagnie de vos amis ou de vos maîtresses.... Moi monsieur, je ne loge pas rue du Heider, je n’ai pas de tapis, pas de tentures, pas de salons ; je n’ai qu’une chambre carrelée, le papier collé aux murs s’en va par lambeaux ; quand j’ai besoin de sortir, je marche à pieds, je dîne à dix-huit sous, déjeune avec un petit pain, et je n’ai que ma portière pour domestique ; je porte depuis six ou sept ans la même redingote ; au moins, monsieur, je ne dois pas un sol à qui que ce soit ! </p>
+          <p> A voir l’air parfaitement tranquille avec lequel Gabriel écoulait la sortie furieuse de son oncle, on jugeait qu’il était habitué à de pareils emportemens, et qu’il ne s’en inquiétait guère. Tout le temps que dura le discours du vieillard, et ce fut assez long, parce que sa parole était dure, saccadée, et interrompue par la colère, Gabriel, l’œil baissé à terre, frappait de sa canne le bout de ses boites vernies, ou caressait ses moustaches ; toutefois si les mots ne lui allaient pas au cœur, ils lui frappaient au moins les oreilles aussi quand il fut assuré que l’exorde, la narration et la péroraison étaient afin, il leva négligemment la tête, et avec un imperturbable sang-froid, il répondit à son oncle : </p>
+          <p> — D’abord mon cher oncle, dit-il, je vous observerai deux choses : primo, qu’il est de fort mauvais goût, pour un homme qui a plusieurs voitures, de sortir en coupé à dix heures du matin ; c’est mon cabriolet qui m’attend en bas ; secondement, mon cher oncle, on ne soupe pas à Tortoni, j’ai soupe, c’est vrai, mais ailleurs. J’ai de magnifiques appartenons, vous m’en faites un reproche, c’est un tort ; vous devriez venir les voir, vous qui aimez les belles peintures, vous y trouveriez de quoi satisfaire vos goûts, j’y possède aussi des chinoiseries adorables, les magots les plus burlesques et les plus drolatiques, des tentures riches et fines ; on ne vous a pas trompé. J’ai huit chevaux dans mes écuries, deux d’entre eux doivent courir et je fonde beaucoup d’espérance sur Windfeet. Sur l’article des maîtresses, on a dit également la vérité. Je suis un des élégans de Paris les plus recherchés, c’est vrai ; mais mon oncle, ne suis-je pas l’héritier de votre nom et de vos 100,000 francs de rente, eh bien ! je soutiens l’honneur du nom et de la fortune par avance, attendu les vœux sincères que je forme pour que le jour soit bien loin où la jouissance de l’un et de l’autre me tombera en partage ; mais je vous jure, mon oncle, que je ne dépense pas un soi de plus, vous m’avez si souvent répété que vous viviez de peu de chose, 2000 francs vous suffisent comme à un pauvre commis, moi, je dépense les 98,000 autres ; je les dois par exemple, car de votre plein gré vous ne m’en accordez que 10, 000. J’ai des créanciers qui ont assez de bon sens, (chose rare,) pour comprendre ma position, ils veulent bien attendre, à l’exception d’un seul, c’est pourquoi je terminerai en vous demandant si vous avez 1000 francs à me prêter. </p>
+          <p> En achevant cette dernière phrase, Gabriel tendit la main pour recevoir le billet, mais le vieillard ne bougea pas. Il n’avait point interrompu par un seul mot l’impertinent discours de son neveu ; il suffoquait de colère, et serait mort d’apoplexie sur son fauteuil s’il avait eu la moindre infirmité, mais ses soixante ans étaient cuirassés contre toute maladie ; il était aussi bien portant que l’héritier futur ; il se leva et cène fut pas sans intention qu’il se dressa dans sa haute stature et raidit son jarret sur lequel il était aussi ferme qu’un vieux chêne sur ses racines. Gabriel suivit du regard un à un tous les mouvemens que fit son oncle, s’attendant à le voir ouvrir enfin quelque cachette pour en tirer le bienheureux billet. Il frappa même le carreau du talon de sa botte à plusieurs endroits autour de lui, croyant à la possibilité d’un secret, qui dénoncerait quelque caveau où étaient enfouis tous les trésors de 100,000 francs de rentes entassés les uns sur les autres depuis bon nombre d’années ! </p>
+          <p> A sa grande douleur, l’oncle ne lira pas la main de ses poches, or ce n’était pas là certes que se trouvait enfoui le magot ; et nulle trappe ne s’ouvrit sous ses pieds. Il se décida à renouveler sa demande : </p>
+          <p> — Eh bien ! mon oncle ? </p>
+          <p> — Eh bien ! mon neveu ? </p>
+          <p> — Le billet de 1000 francs en question, que mon intrétable créancier attend chez moi. </p>
+          <p> Le vieillard s’arrêta tout-à-coup devant Gabriel, croisa les bras sur sa poitrine, et le regarda en face : </p>
+          <p> — Vous êtes un impertinent, Gabriel ; ou bien il vous reste dans la tête quelque chose du souper que vous avez fait cette nuit, je ne sais plus où, puisqu’on ne soupe pas à Tortoni. </p>
+          <p> — Au café Anglais, reprit froidement Gabriel. </p>
+          <p> — Vos paroles ne sont pas celles qu’on adresse à un homme de mon âge, et à un oncle. Cela m’afflige profondément. Vous m’avez écrit hier pour me demander mille francs, et je vous ai fait venir chez moi ce matin, non pas pour vous les donner, mais pour vous faire part d’une résolution que je viens de prendre. </p>
+          <p> — De doubler ma pension, peut-être ?.. </p>
+          <p> — Nenni, de la réduire de moitié... </p>
+          <p> — Mon oncle !... que dites-vous ? Y songez vous ? </p>
+          <p> — J’y ai beaucoup songé, et je le répète de nouveau. </p>
+          <p> — Au fait, qu’importe, murmura Gabriel, je ferai cinq mille francs de dettes de plus, voila tout. </p>
+          <p> — Si cela vous plait, soit, répondit le vieillard, mais ce ne sera pas mon argent qui les paiera J’aurais pu et j’aurais dû vous déshériter, je ne l’ai pas pas fait ; à l’unique enfant de mon frère je voulais laisser ma fortune intacte et de quoi soutenir son nom. J’ai enduré toutes vos folies, toutes vos extravagances ; aujourd’hui c’est fini. Je ne veux pas que vous puissiez dire que j’ai signé un acte d’exhérédation. Or, voici le moyen que j’emploie, je me marie cela vous étonne, mais je suis encore assez jeune et assez frais, et d’ailleurs je trouverai qui voudra de moi ; j’ai même déjà trouvé. </p>
+          <p> — Vraiment ! fit Gabriel en souriant. </p>
+          <p> — Vous avez l’air de douter... mais je puis vous nommer la personne... c’est mademoiselle de Rayval ; </p>
+          <p> — Mademoiselle de Rayval ! s’écria Gabriel en pâlissant, Idoine de Rayval !... </p>
+          <p> — Mais je le crois ; elle me fera honneur ; et de plus, mon cher neveu, afin de vivre longtemps et jouir avec usure de mon bonheur, je me relire à Coarazze. </p>
+          <p> — Qu’est-ce que Coarazze ? </p>
+          <p> — C’est un village où l’on observe que les longévités sont très fréquentes ; on cite l’exemple de personnes qui sont mortes à cent trente ans ; cela me va. Encore avant-hier le journal parlait d’une femme de ce pays qui avait cent quatorze ans, et sa petite-fille soixante dix ans. En me mariant et en me retirant à Coarazze, ma fortune vous est enlevée sans que vous avez été déshérité, d’une façon toute naturelle, j’aurai des enfans qui jouiront de mon bien je vous assurerai seulement cinq mille francs de rente. </p>
+          <p> — Mais, mon oncle, vous avez soixante ans, mademoiselle de Rayval en a dix-neuf, et moi vingt quatre.. </p>
+          <p> — Monsieur mon neveu, je crois vous comprendre ; Mademoiselle de Rayval ne voudra pas d’un garnement comme vous d’abord, et ensuite, avec le train de vie que vous menez il est impossible que vous arriviez à trente-cinq ans ; moi je vous verrai mourir... </p>
+          <p> — Et quand partez-vous ? demanda le jeune homme. </p>
+          <p> — Dans trois jours. </p>
+          <p> — Et Mademoiselle Rayval vous accompagne-t-elle ? </p>
+          <p> — Elle partira le lendemain. </p>
+          <p> — Et vous vous mariez ? </p>
+          <p> — Huit jours après notre arrivée. </p>
+          <p> — Et mes dettes ? </p>
+          <p> — Les paiera qui voudra. </p>
+          <p> — Mais les 1000 francs que je vous ai demandés et qu’un créancier attend chez moi. </p>
+          <p> — Faites-le attendre comme les autres. </p>
+          <p> — Mais mon oncle... </p>
+          <p> — Allons... j’espère vous revoir avant mon départ. </p>
+          <p> — C’est à dire que vous me congédiez... dit Gabriel en prenant fièrement le chemin de la porte... et si je vais à Sainte-Pélagie !.. </p>
+          <p> — Vous y resterez... </p>
+          <lb/>
+        </div>
+        <div title="III" type="chapter">
+          <p> III. </p>
+          <lb/>
+          <p> Sur cette réponse, Gabriel avait tiré ru dément la porte à lui, et quand il se trouva dehors, il resta un moment debout et immobile sur la première marche de l’escalier, les deux bras croisés sur la poitrine et la tête penchée. Ce qui se passait en lui, je puis vous le dire : Gabriel venait d’entendre deux choses qui l’avaient bouleversé : d’abord le refus de l’oncle de payer les dettes, puis son projet de mariage avec mademoiselle Idoine de Rayval. </p>
+          <p> Gabriel en était arrivé déjà à ce point que sa vie de dissipation et de débauches lui pesait. Il avait passé par tous les degrés que peut faire franchir une existence consumée sur les tapis du Jockey-Club, sur l’asphalte du boulevard de Gand, au café de Paris, au aux soupers du café anglais, au balcon de l’Opéra et ailleurs. Arrivé au sommet comme il y était, il avait jeté un regard effrayé sur le passé ; il avait cherché toutes les belles émotions de son âme et ne les avait plus trouvées, ou elles étaient usées ; il se jugea lui-même, et se demanda compte de ce qu’il avait fait de son intelligence et de son cœur, depuis cinq ou six ans qu’il vivait ainsi. Il se prit à pleurer ses jeunes années dépensées et follement gaspillées au jeu, en toilettes, en admiration pour les chevaux, en crapuleuses amours ! à vingt-quatre ans !... Il eut horreur. Mais par cela même qu’il lui restait assez de sentiment pour avoir raisonné ainsi, il retrouva au fond des cendres de son cœur un reste de flamme que l’amour devait attiser ! Gabriel demeura quelque temps étranger à cette vie de débauches, puis il se prit à aimer sérieusement, qui ? mademoiselle de Rayval. </p>
+          <p> Ainsi, vous jugez quels coups mortels les deux résolutions de son oncle lui avaient porté, et quelles réflexions Gabriel dut faire en sortant de la chambre. Il descendit très lentement les quatre escaliers et monta tout pensif dans son cabriolet ; sa main laissa flotter les rênes sur le col d’un beau cheval gris-pommelé, lequel, au contraire des coursiers d’Hippolyte, ne se conformant nullement à la triste pensée de son maître, brûlait le pavé d’une façon effrayante, et sans le secours du groom, la seule garde dont Gabriel fût entouré et qui, loin d’imiter son silence, criait Gare ! de toute la force de ses poumons d’enfant, il eût fait plus d’un malheur. </p>
+          <lb/>
+        </div>
+        <div title="IV" type="chapter">
+          <p> IV. </p>
+          <lb/>
+          <p> En arrivant chez lui, Gabriel se plaça immédiatement devant un bahut de bois tourné, pompeusement et sans raison appelé bahut de travail, car jamais il n’avait servi à un parei usage ; il écrivit une lettre de trois pages ; à qui ? je l’ignore, ce qu’elle contenait je ne le sais pas plus, car après l’avoir relue, il la froissa violemment, puis la déchira en faisant quelques tours dans la chambre... — Cela vaut mieux, s’écria-t-il, tout-à coup, Je verrai Idoïne ce soir, je lui parlerai, je parlerai à sa mère ! à sa mère, mais elle est d’une ambition et d’une voracité effrayantes, cette femme ! Elle n’aura pas d’oreilles pour écouter mes plaintes, pas de cœur pour comprendre mes souffrances. De toutes manières, mon avenir est perdu, mon oncle est dans l’âge où l’on a quelquefois des enfans ; il n’a qu’à vivre dix ans encore et il atteindra celui où l’on en a toujours ! ainsi ma fortune est flambée Allons, s’écria-t-il, pas de méchanceté... Idoïne est une femme incapable... Mais je prends une grande résolution. Je me réforme ! Cinq mille francs pour vivre ! adieu donc, mes beaux tapis, mes riches tentures ! Mes chevaux adieu ! plus de courses, plus de voitures ! C’en est fait ! mes tableaux, nous allons nous quitter ; mes vases, mes porcelaines, mes chinoiseries, mes antiques armures, salut ! Vous n’êtes plus à moi ! vous me servirez à apaiser la faim de mes créanciers, qui vont surgir de tous les coins de Paris ; adieu ! </p>
+          <p> Et il se laissa choir mollement sur une causeuse : il se cacha la tête dans ses deux mains, et resta quelque temps dans cette attitude, puis se levant : </p>
+          <p> — Au reste, j’ai du courage, dit-il ; j’ose croire qu’il me reste un peu d’intelligence ! je travaillerai ! à quoi ? je n’en sais encore rien... Mais nous verrons, quand nous serons au pied du mur, nous inventerons un moyen pour le franchir... En attendant, avertissons nos créanciers ; qu’ils viennent se partager tout ce qu’il y a ici. 0 mon Murillo... o mon Rembrandt !... Allons, secouons notre tristesse... Comme cela m’allait de faire le fanfaron devant mon oncle ! Mais je ne savais pas encore ce projet de mariage ; cette nouvelle a été comme un coup de massue pour moi ! Voilà ce que vaut l’amour, d’un dépensier il fait un homme rangé. De cent mille francs de rente, il me ramène à cinq mille, et je me console. </p>
+          <p> Alors Gabriel examina une à une les munificences de ses appartenions, toucha à tout, descendit à l’écurie, caressa de la main la croupe de chacun de ses chevaux, jeta un regard de tristesse à ses voitures en poussant un gros soupire en manière de résignation, puis il prit la plume et écrivit à tous ses créanciers. </p>
+          <lb/>
+        </div>
+        <div title="V" type="chapter">
+          <p> V. </p>
+          <lb/>
+          <p> Gabriel s’était séparé avec ennui et mauvaise humeur de son oncle, avec douleur d’Idoine ; tous deux étaient partis. </p>
+          <p> Il avait supplié madame de Rayval, faisant valoir auprès d’elle les plus beaux raisonnemens de logique ; il la trouva inflexible. </p>
+          <p> — Votre oncle, est votre oncle, répondait l’ambitieuse, nous n’êtes que son neveu, demain d’un trait de plume, il peut vous enlever cette fortune sur laquelle vous comptez ; et puis ce n’est que dans l’avenir, tandis que d’autre part c’est du présent, du comptant, du solide ; des calèches, des chevaux, des appartemens, des toilettes le lendemain des noces ; avec vous, mon cher enfant, il faudrait attendre quelques années encore, bien longtemps peut-être ; or, je rougis de me trouver dans des voitures de places cela m’humilie de demeurer à un quatrième étage, et les toilettes me vont assez bien encore pour que je sois ennuyée de n’en pas avoir à ma guise... </p>
+          <p> — Et le bonheur de votre fille ? objecta Gabriel. </p>
+          <p> — Mais ma fille sera indubitablement heureuse, puisque je le serai, moi, répondit la mère. </p>
+          <p> Raisonnement égoïste, que plus d’une mère se fait à part soi, sans scrupule, sans pitié, sans honte. </p>
+          <p> — Mon oncle est un vieillard.. </p>
+          <p> — Il est si riche, </p>
+          <p> — Moi, je suis jeune, et je le serai... </p>
+          <p> — Lui, il l’est déjà... </p>
+          <p> Gabriel alors s’adressa à Idoïne ; il n’eût pas besoin de grands efforts pour lui persuader qu’il avait raison ; il fit sans peine résonner chez elle toutes les fibres du cœur et de l’amour ; mais il trouva la pauvre fille impuissante. </p>
+          <p> — Ma mère le veut, avait-elle répondu. A cela, rien à objecter, rien à dire, mon bonheur pèse peu dans la balance. Madame de Rayval est sans fortune, n’ayant pour tout bien que sa pension de veuve de général, et un très petit patrimoine. Elle se rappelle son temps de splendeur et le regrette comme une illusion : elle fait de moi un marchepied pour arriver à la richesse, aux honneurs ; une arme pour reconquérir ses palais perdus ; c’est une femme gorgée de vanité et d’ambition, qui se rit de moi quand je lui parle d’amour et d’avenir ! Je suis sacrifiée, je me résigne... Il n’est aucune puissance qui m’arrache à ma destinée. </p>
+          <p> — Le ciel aura pitié de vous. Mon oncle est un vieillard ; il a beau vouloir aller chercher l’éternité au fond d’un village ; quand son heure aura sonné... mais je prends Dieu à témoin que ce n’est pas sa fortune que j’envie, mais le plus cher de mes biens qu’il m’a volé, vous, mon amie, la femme que j’aime et que j’aimerai toujours ; la seule que j’aie aimée, je puis le dire sans mensonge et sans blasphème, car, au milieu de mes débauches, je n’ai jamais rencontré l’amour, ne l’ayant jamais cherché. Allez Idoïne, soyez à lui, mais par devant Dieu, vous m’appartenez comme je vous appartiens ; nous attendrons l’un et l’autre. Un jour nous serons réunis. </p>
+          <lb/>
+        </div>
+        <div title="VI" type="chapter">
+          <p> VI. </p>
+          <lb/>
+          <p> Un matin, vingt-cinq ou trente individus se trouvaient rassemblés dans l’appartement de Gabriel, convoitant le meilleur morceau d’une proie qu’ils s’apprêtaient à dévorer. Ces gens-la étaient des créanciers, tous de mauvaise humeur, grommelant et maudissant. Gabriel était au milieu d’eux, les exhortant à la résignation, ne sachant pas que c’est une vertu dont se prévalent peu les gens à Mémoires. Ces messieurs allaient procéder à la vérification et à la collation des comptes, lorsqu’un domestique remit à Gabriel une lettre timbrée de Coarazze. Il reconnut l’écriture de madame Rayval, et brisant le cachet noir, il lut ce qui suit : </p>
+          <p> « En arrivant ici, nous avons trouvé votre oncle mourant ; à l’heure où je vous écris, il n’est plus de ce monde. Au moment d’entrer dans Coarazze, la voiture a versé, et M. de Rojana eu la tète brisée contre une des roues. Il venait ici chercher de longs jours, il y a trouvé la mort. Nous vous attendons pour que vous nous rameniez à Paris. » </p>
+          <p> — Arrêtez, Messieurs, s’écria Gabriel. Je suis héritier d’au moins 150,000 francs de rentes. Mon oncle vient de mourir. Permettez moi d’aller verser quelques larmes sur sa tombe, et je reviens vous payer. Monsieur Gordon, suspendez mon Murillo, je vous prie... </p>
+          <p> Tous les visages se ranimèrent. Gabriel reçut force salutations et complimens de condoléance. Et le soir il était en roule pour Coarazze. </p>
+          <p> Il n’y a que les oncles pour avoir de ces idées-là ! </p>
+          <p> Je continuai à me mordre les lèvres jusqu’au sang, toujours par le même système. </p>
+          <p> Eu ce moment, une élégante calèche passa sur le boulevard, Gabriel nous jeta un gracieux bonjour et les chevaux filèrent comme le vent. </p>
+          <lb/>
+          <p> FIN. </p>
+        </div>
+      </div>
+      <head/>
+    </body>
+    <back/>
+    <back/>
+  </text>
+</TEI>
