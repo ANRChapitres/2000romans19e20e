@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF8'?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> Salvette et Bernadou </title>
+        <author from="1840" key="" name="Daudet, Alphonse" sex="male" to="1897"/>
+        <edition n=""/>
+        <editor name="" where=""/>
+      </titleStmt>
+      <publicationStmt>
+        <date type="created" when="1873"/>
+        <date type="issued" when="1873"/>
+      </publicationStmt>
+      <editionStmt>
+        <profileDesc tag="canon" type="genre">
+          <textClass>
+            <keywords>
+              <term>nouvelles</term>
+            </keywords>
+          </textClass>
+        </profileDesc>
+      </editionStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docAuthor/>
+        <docTitle>
+          <titlePart main="Salvette et Bernadou"/>
+          <titlePart sub=""/>
+        </docTitle>
+      </titlePage>
+    </front>
+    <body>
+      <div title="I" type="chapter">
+        <p> I </p>
+        <p> C 'est la veille de Noël, dans une grosse ville de Bavière. Par les rues blanches de neige, dans la confusion du brouillard, le bruit des voitures et des cloches, la foule se presse, joyeuse, aux rôtisseries en plein vent, aux baraques, aux étalages. Frôlant avec un bruissement léger les boutiques enrubannées et fleuries, des branches de houx vert, des sapins entiers chargés de pendeloques passent portés à bras, dominant toutes les têtes, comme une ombre des forêts de Thuringe, un souvenir de nature dans la vie factice de l'hiver. Le jour tombe. Là-bas, derrière les jardins de la Résidence, on voit encore une lueur de soleil couchant, toute rouge à travers la brume, et il y a par la ville une telle gaieté, tant de préparatifs de fête que chaque lumière qui s'allume aux vitres semble pendre à un arbre de Noël. C'est qu'aujourd'hui n'est pas un Noël ordinaire ! Nous sommes en l'an de grâce mil huit cent soixante-dix, et la naissance du Christ n'est qu'un prétexte de plus pour boire à l'illustre Von der Than et célébrer le triomphe des guerriers bavarois. Noël ! Noël ! Les juifs de la ville basse eux-mêmes sont en liesse. Voilà le vieil Augustus Cahn qui tourne en courant le coin de la Grappe bleue . Jamais ses yeux de furet n'ont relui comme ce soir. Jamais sa petite quouette en broussaille n'a frétillé si allègrement. Dans sa manche usée aux cordes des besaces est passé un honnête petit panier, plein jusqu'aux bords, couvert d'une serviette bise, avec le goulot d'une bouteille et une branche de houx qui dépassent. </p>
+        <p> Que diable le vieil usurier compte-t-il faire de tout cela ? Est-ce qu'il fêterait Noël, lui aussi ? Aurait-il réuni ses amis, sa famille, pour boire à la patrie allemande ?… Mais non. Tout le monde sait bien que le vieux Cahn n'a pas de patrie. Son Vaterland à lui, c'est son coffre-fort. Il n'a pas de famille non plus, pas d'amis ; rien que des créanciers. Ses fils, ses associés plutôt, sont partis depuis trois mois avec l'armée. Ils trafiquent là-bas derrière les fourgons de la landwehr, vendant de l'eau-de-vie, achetant des pendules, et, les soirs de bataille, s'en allant retourner les poches des morts, éventrer les sacs tombés aux fossés des routes. Trop vieux pour suivre ses enfants, le père Cahn est resté en Bavière, et il y fait des affaires magnifiques avec les prisonniers français. Toujours à rôder autour des baraquements, c'est lui qui rachète les montres, les aiguillettes, les médailles, les bons sur la poste. On le voit se glisser dans les hôpitaux, dans les ambulances. Il s'approche du lit des blessés, et leur demande tout bas en son hideux baragouin : « Afez-fus quelque jôsse à fentre ? » </p>
+        <p> Et tenez ! en ce moment même, si vous le voyez trotter si vite avec son panier sous le bras, c'est que l'hôpital militaire ferme à cinq heures, et qu'il y a deux Français qui l'attendent là-haut dans cette grande maison noire aux fenêtres grillées et étroites, où Noël n'a, pour éclairer sa veillée, que les pâles lumières qui gardent le chevet des mourants… </p>
+      </div>
+      <div title="II" type="chapter">
+        <p> II </p>
+        <p> C es deux Français s'appellent Salvette et Bernadou. Ce sont deux chasseurs à pied, deux Provençaux du même village, enrôlés au même bataillon et blessés par le même obus. Seulement Salvette avait la vie plus dure, et déjà il commence à se lever, à faire quelques pas de son lit à la fenêtre. Bernadou, lui, ne veut pas guérir. Dans les rideaux blafards de son lit d'hospice, sa figure paraît plus maigre, plus languissante de jour en jour ; et quand il parle du pays, du retour, c'est avec ce sourire triste des malades, où il y a bien plus de résignation que d'espérance. Aujourd'hui cependant il s'est animé un peu, en pensant à cette belle fête de Noël qui dans nos campagnes de Provence ressemble à un grand feu de joie allumé au milieu de l'hiver, en se rappelant les sorties des messes de minuit, l'église parée et lumineuse, les rues du village toutes noires, pleines de monde, puis la longue veillée autour de la table, les trois flambeaux traditionnels, l'aïoli, les escargots et la jolie cérémonie du cacho fio (bûche de Noël) que le grand-père promène autour de la maison et arrose avec du vin cuit. </p>
+        <p> « Ah ! mon pauvre Salvette, quel triste Noël nous allons faire cette année !… Si seulement on avait eu de quoi se payer un petit pain blanc et une fiole de vin clairet !… Ca m'aurait fait plaisir, avant de passer l'arme à gauche, d'arroser encore une fois le cacho fio avec toi… » </p>
+        <p> Et en parlant de pain blanc et de vin clairet, le malade a ses yeux qui brillent. Mais comment faire ? Ils n'ont plus rien, les malheureux, ni argent, ni montre. Salvette garde bien encore dans la doublure de sa veste un bon de poste de quarante francs. Seulement c'est pour le jour où ils seront libres, et la première halte qu'on fera dans une auberge de France. Cet argent-là est sacré. Pas moyen d'y toucher…. Pourtant ce pauvre Bernadou est si malade ! Qui sait s'il pourra jamais se remettre en route pour retourner là-bas ? Et puisque voilà un beau Noël qu'on peut encore fêter ensemble, est-ce qu'il ne vaudrait pas mieux en profiter ? </p>
+        <p> Alors, sans rien dire à son pays Salvette a décousu sa tunique pour prendre le bon de poste, et quand le vieux Cahn est venu comme tous les matins faire sa tournée dans les salles, après de longs débats, des discussions à voix basse, il lui a glissé dans la main ce carré de papier, raide et jauni, sentant la poudre et taché de sang. </p>
+        <p> Depuis ce moment, Salvette a pris un air de mystère. Il se frotte les mains et rit tout seul en regardant Bernadou. Et maintenant que le jour tombe, il est là à guetter, le front collé aux vitres, jusqu'à ce qu'il ait vu dans le brouillard de la place déserte le vieil Augustus Cahn tout essoufflé, qui arrive, un petit panier au bras. </p>
+      </div>
+      <div title="III" type="chapter">
+        <p> III </p>
+        <p> C e minuit solennel, qui sonne à tous les clochers de la ville, tombe lugubrement dans la nuit blanche des malades. La salle d'hospice est silencieuse, éclairée seulement par les veilleuses suspendues au plafond. De grandes ombres errantes flottent sur les lits, les murs nus, avec un balancement perpétuel qui semble la respiration oppressée de tous les gens étendus là. Par moment, il y a des rêves qui parlent haut, des cauchemars qui gémissent, pendant que de la rue montent un murmure vague, des pas, des voix, confondus dans la nuit sonore et froide comme sous un porche de cathédrale. On sent la hâte recueillie, le mystère d'une fête religieuse traversant l'heure du sommeil et mettant dans la ville éteinte la lueur sourde des lanternes et l'embrasement des vitraux d'église. </p>
+        <p> – « Est-ce que tu dors, Bernardou ?… » </p>
+        <p> Tout doucement, sur la petite table, près du lit de son ami, Salvette a posé une bouteille de vin de Lunel, un pain rond, un joli pain de Noël où la branche de houx est plantée toute droite. Le blessé ouvre ses yeux cernés de fièvre. A la lumière indécise des veilleuses et sous le reflet blanc des grands toits où la lune s'éblouit dans la neige, ce Noël improvisé lui semble fantastique. – « Allons, réveille-toi, pays… Il ne sera pas dit que deux Provençaux auront laissé passer le réveillon, sans l'arroser d'un coup de clairette… » Et Salvette le redresse avec des soins de mère. Il emplit les gobelets, coupe le pain ; et l'on trinque, et l'on parle de la Provence. Peu à peu Bernadou s'anime, s'attendrit. Le vin blanc, les souvenirs… Avec cette enfance que les malades retrouvent au fond de leur faiblesse, il demande à Salvette de lui chanter un Noël provençal. Le camarade ne demande pas mieux : « Voyons, lequel veux-tu ? Celui de l' Hôte ? ou les Trois Rois ? ou Saint Joseph m'a dit ? </p>
+        <p> – « Non ! j'aime mieux les Bergers . C'est celui que nous chantions toujours à la maison… » </p>
+        <p> Va pour les Bergers ! A demi-voix, la tête dans les rideaux, Salvette commence à fredonner. Tout à coup, au dernier couplet, quand les pâtres, venant voir Jésus dans son étable, ont déposé sur la crèche leur offrande d'œufs frais et de fromageons et que, les congédiant d'un air affable, Joseph leur dit : </p>
+        <p> Allons ! soyez bien sages, </p>
+        <p> Tournez-vous-en et faites bon voyage. </p>
+        <p> Bergers, </p>
+        <p> Prenez votre congé… </p>
+        <p> Voilà le pauvre Bernadou qui glisse et retombe lourdement sur l'oreiller. Son camarade, pensant qu'il s'endort, l'appelle, le secoue. Mais le blessé reste immobile, et la petite branche de houx en travers sur le drap rigide semble déjà la palme verte que l'on met au chevet des morts. </p>
+        <p> Salvette a compris. Alors, tout pleurant, un peu ivre de la fête et d'une si grande douleur, il reprend à pleine voix dans le silence du dortoir le joyeux refrain de Provence : </p>
+        <p> Bergers, </p>
+        <p> Prenez votre congé. </p>
+      </div>
+      <head/>
+    </body>
+    <back/>
+    <back/>
+  </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF8'?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> Le Père Achille </title>
+        <author from="1840" key="" name="Daudet, Alphonse" sex="male" to="1897"/>
+        <edition n=""/>
+        <editor name="" where=""/>
+      </titleStmt>
+      <publicationStmt>
+        <date type="created" when="1872"/>
+        <date type="issued" when="1872"/>
+      </publicationStmt>
+      <editionStmt>
+        <profileDesc tag="canon" type="genre">
+          <textClass>
+            <keywords>
+              <term>nouvelles</term>
+            </keywords>
+          </textClass>
+        </profileDesc>
+      </editionStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docAuthor/>
+        <docTitle>
+          <titlePart main="Le Père Achille"/>
+          <titlePart sub=""/>
+        </docTitle>
+      </titlePage>
+    </front>
+    <body>
+      <p> LE PERE ACHILLE </p>
+      <p> Midi sonne aux cloches des fabriques ; les grandes cours silencieuses s'emplissent de bruit et de mouvement. </p>
+      <p> La mère Achille quitte son ouvrage, la fenêtre où elle était assise, et se dispose à mettre son couvert. L'homme va monter pour déjeuner. </p>
+      <p> Il travaille là tout près dans ces grands ateliers vitrés qu'on aperçoit encombrés de pièces de bois, et où grincent du matin au soir les instruments des scieurs de long… La femme va et vient de la chambre à la cuisine. Tout est soigné, tout reluit dans cet intérieur d'ouvrier. Seulement la nudité des deux petites pièces est plus frappante à ce jour éclatant du cinquième étage. On voit des cimes d'arbres, les buttes Chaumont tout en haut, et çà et là de longues cheminées de briques noircies au bord, toujours actives. Les meubles sont cirés, frottés. Ils datent du mariage, comme ces deux bouquets de fruits en verre qui ornent la cheminée. On n'a rien acheté depuis, parce que, pendant que la femme tirait courageusement son aiguille, l'homme dépensait ses journées dehors. Tout ce qu'elle a pu faire, ç'a été de soigner, d'entretenir le peu qu'ils avaient. </p>
+      <p> Pauvre mère Achille ! encore une qui en a eu des tristesses dans son ménage. Les premières années surtout ont été bien dures. Un mari coureur, ivrogne, pas d'enfants, obligée par son métier de couturière à vivre toujours enfermée, toujours seule dans le silence et l'ordre monotone d'une maison sans enfants où il n'y a pas de petites mains pour brouiller les pelotons, ni de ces petits pieds qui font tant de poussière et de joli train. C'est cela surtout qui l'ennuyait ; mais, comme elle était très-courageuse, elle s'est consolée en travaillant. </p>
+      <p> Peu à peu le mouvement régulier de l'aiguille a calmé son chagrin, et l'intime contentement du travail fini, d'une minute de repos au bout d'une journée de peine, lui a tenu lieu de bonheur. D'ailleurs, en vieillissant, le père Achille a bien changé. Il boit tout de même toujours plus que sa soif ; mais après il se reprend mieux à son travail. On sent qu'il commence à la craindre un peu, cette brave femme qui a pour lui des tendresses et des sévérités de mère. Quand il est ivre, il ne la bat plus jamais ; et même de temps en temps, honteux de lui avoir fait une jeunesse si triste, il l'emmène promener le dimanche aux Lilas ou à Saint-Mandé. </p>
+      <p> Le couvert est mis, la chambre en ordre. On frappe. « Entre donc !… La clef est sur la porte ». </p>
+      <p> On entre, mais ce n'est pas lui. C'est un grand beau garçon d'une vingtaine d'années, en bourgeron d'ouvrier. </p>
+      <p> La mère Achille ne l'a jamais vu ; pourtant il y a pour elle dans l'expression de ce jeune et franc visage quelque chose d'intimement connu, et qui la trouble : « Qu'est-ce que vous demandez ? </p>
+      <p> – Le père Achille n'est pas là ? </p>
+      <p> – Non, mon garçon, mais il va rentrer bientôt. Si vous avez quelque chose à lui dire, vous pouvez l'attendre. </p>
+      <p> Elle avance une chaise ; puis, comme il lui est impossible de rester inactive, elle se remet à coudre dans l'embrasure de la croisée. </p>
+      <p> Celui qui vient d'entrer regarde curieusement tout autour de la chambre. Il voit une photographie au mur, s'approche et l'examine avec attention : – C'est le père Achille, ça ?… </p>
+      <p> La femme est très-étonnée : – Vous ne le connaissez donc pas ? </p>
+      <p> – Non, mais ce n'est pas l'envie qui m'en manque. </p>
+      <p> – Mais, enfin, qu'est-ce que vous lui voulez ? Est-ce pour de l'argent que vous venez ? Il me semblait pourtant qu'il ne devait plus rien à personne, nous avons tout payé. </p>
+      <p> – Non, non, il ne me doit rien. C'est même assez singulier qu'il ne me doive rien, puisque c'est mon père. </p>
+      <p> – Votre père ? </p>
+      <p> Elle se lève toute pâle, son ouvrage lui glisse des mains. </p>
+      <p> – Oh ! vous savez, madame Achille, ce n'est pas pour vous faire affront, ce que je vous dis là… Je suis d'avant votre mariage. C'est moi le fils de Sidonie ; vous avez peut-être entendu parler de ma mère ? </p>
+      <p> En effet, elle connaît ce nom. Dans le commencement du ménage, ça l'a même rendue bien malheureuse. On lui disait que cette Sidonie, une ancienne de son mari, était une très-jolie fille et qu'à eux deux ils faisaient le plus joli couple du pays. Ces choses-là sont toujours dures à entendre. </p>
+      <p> Le garçon continue : </p>
+      <p> – Ma mère est une brave femme, allez ! D'abord, on m'avait mis aux Enfants-Trouvés ; mais, à dix ans, elle m'a repris. Elle a travaillé ferme pour m'élever, me faire apprendre un état… Ah ! je n'ai rien à lui reprocher, à elle ! Mon père, lui, c'est autre chose ; mais je ne suis pas venu pour cela… Je suis venu seulement pour le voir, pour le connaître. C'est vrai, ça m'a toujours taquiné, cette idée de ne pas connaître mon père. Tout petit, ça me tourmentait déjà et j'ai bien souvent fait pleurer ma mère avec mes questions : « Je n'ai donc pas de père, moi ? où est-il ? Qu'est-ce qu'il fait ? » Enfin un jour elle m'a avoué la vérité, et tout de suite je me suis dit : Il est à Paris, eh bien ! j'irai le voir. Elle voulait m'en empêcher. « Puisque je te dis qu'il est marié, que tu ne lui es plus rien, qu'il ne s'est jamais informé de toi ». Ca n'a rien fait. Je voulais le connaître à toute force, et ma foi ! en arrivant à Paris, j'avais son adresse, et je suis venu tout droit. Il ne faut pas m'en vouloir, c'était plus fort que moi… </p>
+      <p> Oh ! non, elle ne lui en veut pas ! Mais au fond du cœur elle est jalouse. Elle pense en le regardant qu'il y a de bien mauvaises chances dans la vie ; qu'il aurait dû être pour elle, cet enfant-là. </p>
+      <p> Comme elle l'aurait bien soigné, bien élevé !… C'est qu'en vérité, c'est tout le portrait d'Achille ; seulement il a en plus un air d'effronterie, et elle ne peut pas s'empêcher de penser que son fils à elle, ce fils tant désiré, aurait eu quelque chose de plus posé, de plus honnête dans le regard et dans la voix. </p>
+      <p> La situation est un peu embarrassante. Ils se taisent tous les deux. </p>
+      <p> Chacun songe de son côté. Tout à coup on entend des pas dans l'escalier. C'est le père. Il entre, long, voûté, avec la démarche traînante de l'ouvrier qui a passé beaucoup de lundis à flâner par les rues. </p>
+      <p> « Tiens, Achille, dit la femme, voilà quelqu'un qui veut te parler », et elle s'en va dans la pièce à côté, laissant son mari et le fils de la belle Sidonie en face l'un de l'autre. Au premier mot, Achille change de figure, l'enfant le rassure : « Oh ! vous savez, je ne vous demande rien ; je n'ai besoin de personne pour vivre ; je suis seulement venu vous voir, pas plus ». </p>
+      <p> Le père balbutie : « Sans doute, sans doute… Tu as… vous avez très-bien fait, mon garçon ». </p>
+      <p> C'est égal, cette paternité subite le gêne un peu, surtout devant sa femme. Il regarde du côté de la cuisine, et baissant la voix : « Tenez, descendons, il y a un marchand de vin en bas, nous serons mieux pour causer… Attends-moi, la mère, je reviens ». </p>
+      <p> Ils descendent, s'attablent devant un litre, et on cause. </p>
+      <p> – Qu'est-ce que vous faites ? demande le père, moi je suis dans la charpente. </p>
+      <p> Le fils répond : « Moi dans la menuiserie ». </p>
+      <p> – Est-ce que ça va bien, chez vous, les affaires ? </p>
+      <p> – Non, pas fort. </p>
+      <p> Et la conversation continue sur ce ton. Quelques détails de métier, c'est par là seulement qu'ils se tiennent. Du reste, pas la moindre émotion de se voir. Rien à se dire, rien. Pas un souvenir commun, deux vies complètement séparées qui n'ont jamais eu la moindre influence l'une sur l'autre. </p>
+      <p> Le litre fini, le fils se lève : « Allons, mon père, je ne veux pas vous retarder davantage ; je vous ai vu, je m'en vais content. A revoir. </p>
+      <p> – Bonne chance, mon garçon ». </p>
+      <p> Ils se serrent la main froidement, l'enfant part de son côté, le père remonte chez lui ; ils ne se reverront jamais. </p>
+      <head/>
+    </body>
+    <back/>
+    <back/>
+  </text>
+</TEI>
