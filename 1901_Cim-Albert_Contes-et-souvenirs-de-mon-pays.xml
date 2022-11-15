@@ -1,0 +1,851 @@
+<?xml version='1.0' encoding='UTF8'?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> Contes et souvenirs de mon pays </title>
+        <author from="1845" key="" name="Cim, Albert" sex="male" to="1924"/>
+        <edition n=""/>
+        <editor name="" where=""/>
+      </titleStmt>
+      <publicationStmt>
+        <date type="created" when="1901"/>
+        <date type="issued" when="1901"/>
+      </publicationStmt>
+      <editionStmt>
+        <profileDesc tag="non-canon" type="genre">
+          <textClass>
+            <keywords>
+              <term>nouvelles</term>
+            </keywords>
+          </textClass>
+        </profileDesc>
+      </editionStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docAuthor/>
+        <docTitle>
+          <titlePart main="Contes et souvenirs de mon pays"/>
+          <titlePart sub=""/>
+        </docTitle>
+      </titlePage>
+    </front>
+    <body>
+      <div title="Chapitre 1 Mon petit chien Fidelis" type="nouvelle">
+        <p> Chapitre 1 </p>
+        <lb/>
+        <p> Mon petit chien Fidelis </p>
+        <p> J ’AVAIS DIX ANS LORSQUE la mort du curé de notre paroisse, du bon abbé Montardey, me fit héritier et propriétaire de son chien, un petit lévrier noir comme un corbeau, à qui il avait donné le nom latin de Fidelis – Fidèle en français – que j’eus soin de lui conserver. </p>
+        <p> Tout d’abord, c’était à la servante de M. Montardey, à Mlle Catherine, que Fidelis était échu en partage ; mais Catherine jugea le cadeau trop gênant pour elle. </p>
+        <p> « Un animal qu’il faut nourrir, surveiller, avoir toujours à ses côtés, pour lequel il faut payer des impositions, ce qui est le comble ! </p>
+        <p> — C’est peu de chose, ces impositions. </p>
+        <p> — Et puis, il faut vous dire, mam’zelle Victorine, j’ai l’intention de me retirer dans mon village. Que ferais-je ici, à Bar, maintenant que notre pauvre cher monsieur le curé n’est plus ? Je ne peux songer à me replacer : je suis trop vieille. J’ai acheté une petite maison à Haironville, mon pays natal… </p>
+        <p> — Oui, vous me l’avez dit. Et une très jolie maison, paraît-il. </p>
+        <p> — Oh ! ce n’est pas riche, c’est loin d’être un palais ! Ce n’est qu’une chaumière, mais située au bon air, tout entourée d’arbres, tapissée de verdure, avec un grand pré par derrière pour mes deux vaches, car j’ai aussi deux vaches. Je vivrai là tranquille avec ma sœur Pélagie, dont le mari vient précisément d’avoir sa retraite. </p>
+        <p> — M. Berniquet, le facteur rural, le facteur de Saudrupt, si je ne me trompe ? </p>
+        <p> — C’est cela même, mam’zelle Victorine. Depuis trente-sept ans qu’il use ses souliers sur les routes et grimpe et descend tous les jours les côtes – et Dieu sait s’il y en a de fameuses dans ce pays-là ! – il a bien le droit de se reposer, lui aussi, n’est-ce pas donc ? </p>
+        <p> — Certainement. Un bien digne homme, votre beau-frère, ajouta ma tante. Il est très aimé dans tous les alentours de Saudrupt. </p>
+        <p> — Oui, mam’zelle, et je ne doute pas d’être heureuse auprès de ma sœur et de lui. Or, imaginez-vous, ils possèdent justement un chien de garde, un magnifique terre-neuve, appelé Carabi. C’est assez d’un ! </p>
+        <p> — Soit ! Je comprends. Mais, objecta ma tante, ne pourriez-vous confier Fidelis à votre neveu ? </p>
+        <p> — À « not’ Elphège » ? Il a bien d’autres choses à faire, d’autres chiens à fouetter, c’est le cas de le dire, que de s’occuper de celui-là ! Vous savez, mam’zelle Victorine, qu’Elphège vient d’entrer en apprentissage chez M. Forgeot, le sculpteur ? </p>
+        <p> — Je sais, Catherine ; mais cela ne l’empêcherait pas… </p>
+        <p> — Puis, je dois vous l’avouer, il n’aime pas les chiens, not’ Elphège, celui-là en particulier : il le trouve capricieux, paresseux, gourmand, ah ! gourmand ! » </p>
+        <p> C’était lui-même, mais sans comparaison, un singulier type que mon camarade Elphège Courtelot. Je dis : mon camarade, bien qu’il fût mon aîné de plusieurs années. Mais, quoique vigoureux de corps, grand, élancé, bien découplé, Elphège avait comme l’esprit en retard, l’intelligence comprimée et mal éveillée. Il bégayait, en outre, et ce défaut n’était sans doute pas étranger à ces lenteurs de compréhension et de jugement. </p>
+        <p> L’abbé Montardey s’était de son mieux efforcé de remédier à ce vice de prononciation. Il avait conduit Elphège à Paris, l’avait fait examiner et traiter par des médecins spécialistes, mais sans le moindre résultat : le neveu de Mlle Catherine bégayait toujours et de plus belle. </p>
+        <p> Ce bégaiement présentait deux particularités curieuses, et qui, assure-t-on, sont assez fréquentes chez les personnes affligées de cette infirmité. </p>
+        <p> Elphège Courtelot, quand il chantait, – et il avait une très belle voix, à tel point que, les jours de fête, M. le curé le faisait « chanter aux orgues » avec le fils de l’organiste, M. Serval, un ex-élève du Conservatoire, – cessait de bégayer : ses hésitations et embarras de langue ne se produisaient que lorsqu’il parlait ; et, plus il était ému et pressé de parler, moins il parvenait à s’exprimer, plus sa langue résistait, s’alourdissait et se paralysait. </p>
+        <p> Aussi arrivait-il parfois que Mlle Catherine ou M. le curé, en voyant Elphège ainsi ânonner et barguigner, lui suggérait l’idée de chanter pour se faire comprendre. Il entonnait alors sur un air quelconque ce qu’il avait à dire, et les mots lui sortaient des lèvres sans aucune difficulté et coulaient de source. </p>
+        <p> Je me souviens qu’un dimanche matin, après la messe, ma grand’mère m’ayant envoyé porter une corbeille de fruits, de nos belles reines-claudes, à M. le curé, qui avait justement ce jour-là du monde à déjeuner, je fus témoins d’une scène bien drôle et qui amène encore le rire dans mes yeux, quand je me la représente. </p>
+        <p> Occupée aux préparatifs du festin, Catherine allait, venait, se démenait dans sa cuisine, et était, comme on dit, dans tous ses états. </p>
+        <p> « Aide-moi donc un peu ! Rends-toi utile ! criait-elle à Elphège. Tiens, descends vite à la cave, et va tirer le vin. </p>
+        <p> — Ou… ou… oui, ma… ma… ma tante ! » </p>
+        <p> Il se munit du panier à bouteilles et partit au galop. </p>
+        <p> J’allais me retirer, dans la crainte très plausible de gêner Catherine, quand survint M. l’abbé Hériot, le premier vicaire, qui m’arrêta pour me demander des nouvelles de ma grand’mère. </p>
+        <p> Il était en train de me faire son éloge, de me parler de sa proverbiale charité, de son dévouement envers tous les malheureux de la paroisse, lorsque soudain nous vîmes accourir Elphège tout essoufflé, haletant, bouleversé. </p>
+        <p> « Ma… ma… ma… ma tante ! Le… le… le… ro… ro… ro… ro… </p>
+        <p> — Chante donc, nigaud ! Chante, puisque tu ne peux pas parler ! » interrompit Catherine avec impatience. </p>
+        <p> Immédiatement Elphège obéit, et voici ce que nous entendîmes fredonné sur l’air de : Il pleut, il pleut, bergère : </p>
+        <p> « L’robinet du tonneau </p>
+        <p> Vient d’se casser, ma tante ! </p>
+        <p> Le vin coul’ dans la cave </p>
+        <p> Et se répand partout ! » </p>
+        <p> † </p>
+        <lb/>
+        <p> Catherine se débarrassa donc de Fidelis en l’offrant à ma tante Victorine, qui, à défaut d’Elphège, l’accepta sans se faire prier davantage. Elle aurait eu trop gros cœur de voir errer à travers les rues de notre ville de Bar, abandonné de tous, sans pâtée et sans niche, le chien de notre défunt pasteur. </p>
+        <p> Ma tante Toto demeurait, ainsi que moi, chez ma grand’mère, dans notre vieille maison de la rue du Tribel, proche du chevet de l’église Saint-Étienne, et, un soir d’avril, en revenant de la prière, elle nous arriva, suivie tant bien que mal de M. Fidelis. </p>
+        <p> « J’ai pensé à toi, m’annonça-t-elle. C’est pour toi, ce petit chien-là. » </p>
+        <p> À l’opposé d’Elphège, je raffolais des chiens, et ce fut par un cri de joie que je répondis à ma tante. </p>
+        <p> « Quel bonheur ! Moi qui en désirais un depuis si longtemps ! Oh ! merci, merci, Toto ! </p>
+        <p> — Oui, mais c’est à une condition ! </p>
+        <p> — Laquelle ? </p>
+        <p> — Nous n’aurons pas à nous occuper de cet animal. Toi seul en auras la garde, seras chargé de le promener, de le soigner… </p>
+        <p> — Et je te promets qu’il le sera, soigné ! Tu verras, Toto, tu verras ! » </p>
+        <p> J’étais dans le ravissement, et, sur-le-champ, je m’appliquai à me montrer digne de la preuve de confiance qui m’était donnée, à remplir de mon mieux mon rôle de protecteur et de maître. </p>
+        <p> Malheureusement, en dépit de son nom, Fidelis était bien le moins constant, le moins reconnaissant, le plus « infidèle » et le plus ingrat de tous les lévriers, voire de tous les représentants passés et actuels de la race canine. </p>
+        <p> Ainsi que l’avait remarqué et déclaré Elphège Courtelot, il n’obéissait qu’à un seul penchant : la gourmandise. </p>
+        <p> Comme nous ne menions pas grand train chez nous, qui vivions surtout de laitage, d’œufs et de légumes, et que la viande était son régal, à lui, il ne tarda pas à connaître les bonnes maisons du quartier, celles où l’on faisait grasse et copieuse chère, et à s’y faufiler et s’y implanter. </p>
+        <p> Petit à petit, il nous délaissa de la sorte, s’installa chez nos voisins les Marson ou les Baudelot : j’avais beau le rappeler, beau crier et beau faire ; il m’échappait toujours. </p>
+        <p> « Fais donc attention à Fidelis ! </p>
+        <p> — Mais, ma tante, ce n’est pas ma faute… </p>
+        <p> — Il est défendu de laisser les chiens errer dans les rues en ce moment : il y en a d’enragés ; si le nôtre – le tien – est rencontré par la police, il risque fort d’être conduit à la fourrière. » </p>
+        <p> C’est ce qui finit par lui advenir un jour d’été. </p>
+        <p> Frédéric de Marson, qui achevait alors ses classes au lycée, ayant eu vent de la chose, s’empressa d’aller réclamer M. Fidelis et le ramena à ma grand’mère. Mais elle refusa de le reprendre, alléguant ma continuelle négligence et mon incurie notoire. </p>
+        <p> « Puisque tu as eu la complaisance de te déranger tout exprès pour ce chien, je t’en fais cadeau, dit-elle à Frédéric. Il est d’ailleurs continuellement chez vous, bien plus à vous qu’à moi… </p>
+        <p> — C’est vrai, madame Curel. </p>
+        <p> — Eh bien ! garde-le tout à fait, Frédot ! » </p>
+        <p> Mais, avant de se séparer de nous, M. Fidelis fut le héros d’une aventure que je veux vous conter. </p>
+        <p> † </p>
+        <lb/>
+        <p> Mon infidèle Fidelis se montrait très familier avec tout le monde. Volontiers il allait flairer les jambes des passants, les suivait, les cajolait, comme s’il eût attendu d’eux quelque aubaine. Apercevait-il une porte ouverte ? Vite il entrait, pour voir sans doute s’il n’y avait rien à croquer, lécher ou ronger par là. </p>
+        <p> À l’extrémité de notre rue du Tribel, près de la terrasse dite des Grangettes, habitait à cette époque un officier en retraite, M. le commandant Péchoin, qui vivait très retiré, et sortait à peine. Je me souviens cependant de l’avoir deux ou trois fois rencontré, et je me rappelle encore ses longues redingotes noires, à la boutonnière ornée d’un large ruban rouge, et surtout sa haute taille, une taille exceptionnelle et vraiment gigantesque. </p>
+        <p> M. Péchoin avait un ami, un ancien compagnon d’armes, le commandant Berlurot, qui, étant devenu sourd, avait, lui aussi, pris sa retraite, et s’était installé dans une propriété qu’il possédait aux environs de Nancy. </p>
+        <p> Il y avait cinq ans que ces deux braves ne s’étaient vus, quand une affaire de succession appela M. Berlurot à Paris ; il écrivit sur-le-champ à son ami Péchoin qu’il profiterait de ce voyage pour s’arrêter à Bar-le-Duc entre deux trains : – « le temps de te serrer la main, mon bon vieux ! » </p>
+        <p> M. Péchoin de répondre aussitôt que cela ne suffisait pas, et qu’on renouvellerait bien mieux connaissance à table. </p>
+        <p> « Tu arrives justement à onze heures, l’heure du déjeuner : je compte sur toi sans faute. » </p>
+        <p> Au jour fixé et à l’heure dite, le commandant Berlurot arrivait à Bar, et se dirigeait vers la rue du Tribel et les Grangettes, au sommet de la Ville-Haute. </p>
+        <p> Il venait d’atteindre la demeure de M. Péchoin, et allait tirer le pied de biche de la sonnette, lorsque mon petit chien Fidelis, qui rôdait dans ces parages, s’approcha gentiment de ce visiteur en sautillant, se courbant et dodelinant de la tête, comme pour le saluer et lui faire bon accueil. </p>
+        <p> M. Berlurot répondit à ces avances par quelques caresses : </p>
+        <p> « Ah ! le bon toutou ! comme il est gentil ! » </p>
+        <p> Et ils étaient déjà tous les deux dans les meilleurs termes, quand Fanchette, la servante de M. Péchoin, accourut ouvrir la porte. </p>
+        <p> Fidelis, selon la coutume de ses pareils, eut soin d’entrer le premier, et le commandant Berlurot ne douta pas un seul instant que ce chien n’appartînt à l’ami Péchoin. </p>
+        <p> Celui-ci, de son côté, ainsi que sa domestique, ayant vu M. Berlurot arriver en compagnie de ce petit lévrier noir, furent convaincus qu’il en était le maître. </p>
+        <p> Quant à Fidelis, comme il flairait partout autour de lui de tièdes et délicieuses émanations, les irrésistibles fumets d’un plantureux festin, il n’avait garde de demander à s’en aller ; au contraire, il attendait avec la plus vive impatience le moment de prendre part au régal. </p>
+        <p> Il arriva, ce bienheureux moment ; et voilà mon Fidelis assis sur ses pattes de derrière, tout près de la table, aux pieds des deux convives, et les regardant tour à tour d’un œil avide, anxieux, suppliant… </p>
+        <p> M. Berlurot, le premier, se laissa attendrir. </p>
+        <p> « Cela fera plaisir à Péchoin, pensa-t-il ; cela lui prouvera que je m’intéresse à son chien : il a l’air de tant l’aimer ! » </p>
+        <p> Et il passa à Fidelis l’os de sa côtelette. </p>
+        <p> Un instant après, Fidelis, ayant croqué et expédié cet os, reprit sa place et renouvela ses muettes, mais éloquentes supplications. </p>
+        <p> « Tiens, mon toutou ! » dit M. Péchoin, en lui présentant à son tour les restes de sa côtelette. </p>
+        <p> « Cela fera plaisir à Berlurot, ajouta-t-il en lui-même. Il faut qu’il soit positivement entiché de son chien pour l’emmener ainsi avec lui en voyage, le traîner partout !… C’est cependant bien incommode en chemin de fer !… » </p>
+        <p> Aux débris de côtelette succédèrent des os de poulet, des morceaux de pain trempés dans la sauce, voire des languettes de viande, quantité de succulents reliefs, dont l’insatiable et fortuné Fidelis se délectait et se pourléchait. </p>
+        <p> Jamais il ne s’était trouvé à pareille fête. </p>
+        <p> À mesure qu’il se voyait ainsi bien traité, il s’enhardissait, devenait plus quémandeur et plus entreprenant. Il ne se bornait plus à implorer du regard ses deux maîtres ; il allait de l’un à l’autre, du bout de sa patte leur grattait le mollet, ou bien se dressait contre leurs jambes, s’appuyait sur leurs genoux, afin de se rappeler sans relâche à leur généreux et compatissant souvenir. </p>
+        <p> C’est ce qui le perdit : qui veut trop avoir... </p>
+        <p> « Allons, à bas ! à bas ! » finit par crier le commandant Péchoin. </p>
+        <p> Et comme Fidelis ne tenait pas compte de l’injonction et continuait à se hausser et à manœuvrer la patte : </p>
+        <p> « À bas ! reprit le commandant. Eh mais ! il est bien familier, ton chien ! </p>
+        <p> — Tu dis ? demanda M. Berlurot, qui avait toujours l’oreille dure. </p>
+        <p> — Je dis que tu as bien mal élevé ton chien. </p>
+        <p> — Quel chien ? Je n’en ai pas ! riposta l’ami Berlurot en écarquillant les yeux. </p>
+        <p> — Eh bien… et celui-ci ? fit M. Péchoin en indiquant Fidelis. </p>
+        <p> — C’est le tien ! </p>
+        <p> — Mais non, il n’est pas à moi ! Il est entré avec toi… Je l’ai bien vu ! Comment ! Il ne t’appartient pas ? </p>
+        <p> — Pas du tout ! Je croyais qu’il était à toi ! » </p>
+        <p> Sans plus discourir, M. Péchoin se leva, allongea un vigoureux coup de pied à cet intrus de Fidelis, et le chassa à coups de serviette hors de la maison. </p>
+        <p> « Ouste ! Ouste ! À la porte ! S’introduire comme ça… C’est un peu violent ! Effronté ! Vilaine bête ! Allons, dehors ! Ouste ! » </p>
+        <p> Tout en rampant et en s’enfuyant, Fidelis dut se dire qu’on ne peut jamais se fier aux hommes, qu’ils changent d’opinions et de manières vraiment sans rime ni raison, tournent à tout vent comme des girouettes. </p>
+        <p> Mais qu’importe ! Il était repu à éclater, avait merveilleusement déjeuné. </p>
+        <p></p>
+      </div>
+      <div title="Chapitre 2 Le bon Maginot" type="nouvelle">
+        <p> Chapitre 2 </p>
+        <lb/>
+        <p> Le bon Maginot </p>
+        <p> Rencontre imprévue </p>
+        <p> A LFREDMAGINOT – UN des plus obligeants, des plus dévoués et des meilleurs de mes camarades du lycée de Bar-le-Duc – passait pour n’avoir pas de chance, et était journellement victime de quelque accident ou de quelque mystification. Sans cesse, il lui arrivait des aventures ou mésaventures, à ce bon Maginot. </p>
+        <p> Un jour, une après-midi de jeudi, voulant franchir une haute palissade qui bordait le canal, il prit si mal ses mesures qu’il s’accrocha par l’extrémité de son pantalon au sommet d’un des pieux de cette palissade, et demeura ainsi suspendu, la tête en bas, les jambes en l’air, jusqu’à ce qu’un passant survînt – les passants étaient peu fréquents dans ces parages – et le tirât de cette très critique position. </p>
+        <p> Une autre fois, comme il pêchait à la ligne dans ce même canal, près du pont-levis de Triby, je ne sais comment il fit son compte, mais, en lançant sa ligne, il réussit à se lancer en même temps qu’elle dans le canal, et, sans le père Kessler, le pontier, qui accourut à ses cris, Maginot n’en serait très probablement pas sorti vivant. </p>
+        <p> Une autre fois encore, il devait assister au mariage d’un de ses parents, à Vitry-le-François ; il s’endormit durant le trajet, dans son coin de wagon, et ne se réveilla qu’à Château-Thierry, ce qui l’empêcha de prendre part à cette fête de famille, où il devait, je crois bien, remplir le rôle de garçon d’honneur. </p>
+        <p> Enfin, continuellement et partout, ce pauvre Maginot n’effectuait rien comme tout le monde et était le héros de contretemps ou de catastrophes. </p>
+        <p> Ajoutez à cela que Maginot, peut-être même précisément à cause de sa bonté et de sa douceur, était très fréquemment en butte à nos malices et à nos farces, et nous servait – il faut bien l’avouer, hélas ! – de souffre-douleur et de « tête de Turc ». </p>
+        <p> Je me souviens encore du mauvais tour que lui joua un de ses voisins de classe, Edmond Garnier. </p>
+        <p> Maginot portait, ce jour-là, des bottines neuves ; gêné par l’une d’elles, qui était trop étroite, il ne put résister à l’envie de l’ôter, et d’alléger ainsi sa souffrance. C’était en été, durant une leçon d’histoire de M. Jamont. Garnier ayant aperçu sous la table cette bottine vide, isolée et comme égarée, se baissa, la ramassa, et… On ne sut jamais bien exactement ce qu’elle devint et par où elle s’envola. Comme la fenêtre de la classe était ouverte, il paraît à peu près certain que ladite bottine fut lancée dans la rue. </p>
+        <p> Tant il y a qu’au roulement de tambour annonçant la fin de la séance et l’heure de la sortie, Maginot voulut se rechausser et ne trouva plus… </p>
+        <p> « Oh ! ! ! » </p>
+        <p> Ce fut toute une affaire, et qui se termina – lorsqu’on eut procuré à Maginot le moyen de rentrer chez lui autrement qu’à cloche-pied – par des éclats de rire et par cette singulière question que lui décocha un élève de seconde-sciences, Noël Toussaint, un des plus espiègles de la bande : </p>
+        <p> « Mais d’abord es-tu bien sûr que tu l’avais au pied en arrivant, ta bottine ? Es-tu bien sûr d’être venu avec ? » </p>
+        <p> C’est ce même Noël Toussaint, appelé vulgairement Nono, et célèbre alors par ses facéties et diableries, qui obligea une autre fois Alfred Maginot à traverser toute la ville vêtu d’une longue blouse sale et coiffé d’un chapeau à haute forme. </p>
+        <p> Voici comment. </p>
+        <p> Maginot, qui, à seize ans, possédait déjà la taille d’un homme, avait été jugé digne par sa mère de porter des chapeaux d’homme, et il ne sortait plus qu’en couvre-chef de cérémonie, en « haute forme » de soie, bien lissé, luisant, éblouissant et superbe. </p>
+        <p> Ah ! les prématurés « tuyaux de poêle », les gigantesques « tromblons » d’Alfred Maginot, à combien de tours, de niches et de plaisanteries ils ont donné lieu ! Ils ont fait nos délices, en ce temps-là ! </p>
+        <p> Maginot et Toussaint se destinaient tous les deux à l’École Centrale, et chaque jeudi matin ils allaient prendre une leçon de dessin linéaire et de lavis chez M. Rauch, le professeur du lycée et des cours industriels, alors domicilié rue d’Entre-Deux-Ponts. Cette leçon durait trois heures, de neuf heures à midi, et, pour ne pas tacher leurs vêtements avec l’encre de Chine, le bleu de Prusse, la gomme-gutte ou le carmin, nos futurs ingénieurs enlevaient jaquettes ou vestons, et s’affublaient d’amples blouses grises, qu’ils laissaient chez M. Rauch, et qui finissaient par être zébrées de coups de pinceaux ou de tire-lignes, tigrées de toutes les couleurs, dans le plus étrange et le plus pitoyable état. </p>
+        <p> Un jour, sous prétexte qu’il y avait du monde à déjeuner chez lui et qu’on l’attendait, Nono Toussaint abrégea la séance et partit à onze heures et demie, en emportant la jaquette de son condisciple. Quand ce dernier voulut s’en aller à son tour et tout d’abord reprendre son vêtement de ville, il eut beau chercher et fouiller partout… </p>
+        <p> Plus de jaquette ! </p>
+        <p> Il lui fallut se mettre en route tel quel, suivre la rue d’Entre-Deux-Ponts, la plus fréquentée de Bar, surtout à cette heure de midi, où les ouvriers quittent les usines et ateliers ; longer toute la rue Rousseau, gravir la côte de l’Horloge et la rue des Ducs… Et tout le monde le regardait, le dévisageait. </p>
+        <p> « Nous ne sommes cependant pas déjà en carnaval ! » se disait-on. </p>
+        <p> Des gamins, une troupe de polissons, lui avaient emboîté le pas et chantaient en chœur : </p>
+        <p> Mardi gras, </p>
+        <p> N’t’en va pas ! </p>
+        <p> Mardi gras ! </p>
+        <p> .................. </p>
+        <p> D’autres ajoutaient à ce refrain des locutions du pays, d’ironiques exclamations : </p>
+        <p> « Ô lequel ! ô lequel ! » </p>
+        <p> Et Nono Toussaint, embusqué tantôt ici, tantôt plus loin, jouissait du spectacle, le savourait en passionné dilettante, en gourmet connaisseur et génial inventeur. </p>
+        <p> † </p>
+        <lb/>
+        <p> Mais le plus mémorable épisode de la jeunesse de ce bon Maginot fut certainement la rencontre qu’il fit dans les bois de Véel, un jeudi du mois de mai, en compagnie de son inséparable camarade Nono Toussaint. </p>
+        <p> Les ours n’abondent pas dans nos forêts de l’Argonne et du Barrois, pas plus que dans toute la Champagne et la Lorraine ; je ne pense pas que, de mémoire d’homme, on ait jamais constaté la présence d’un de ces redoutables plantigrades en ces contrées, où les loups mêmes deviennent de plus en plus rares. Alfred Maginot, lui, trouva moyen d’en rencontrer un, un ours véritable, bien vivant, perché sur un chêne des bois de Véel, à une portée de fusil des dernières maisons de Bar. </p>
+        <p> Maginot avait passé l’après-midi à jouer aux quilles avec Toussaint dans un jardin que son grand-père possédait au-dessus des vignes de Caurotte, et tous deux s’en revenaient par les bois, comptant regagner la route par la rapide descente de la côte Morée, lorsque, non loin de cette côte, ils aperçurent une grosse masse noire qui se balançait dans les branches d’un arbre. </p>
+        <p> « Qu’est-ce que c’est que cela ? » </p>
+        <p> À leur approche, cette masse noire, ce fantastique animal, avait cessé de se mouvoir et s’était mis à les considérer. </p>
+        <p> « Mais c’est un ours ! » s’exclamèrent-ils ensemble. </p>
+        <p> Et les voilà de prendre, comme on dit, leurs jambes à leur cou et de dévaler la côte au triple galop, en criant : « Au secours ! Au secours ! » </p>
+        <p> Plus grand, mieux découplé et plus dégagé que son camarade, Nono Toussaint eut bientôt distancé Maginot, qui, selon sa constante habitude, jouait de malheur. </p>
+        <p> L’ours, en effet, n’avait pas voulu laisser partir ces promeneurs sans présenter ses civilités à l’un des deux tout au moins ; il s’était lancé à leur poursuite, et l’infortuné Maginot le sentait déjà sur ses talons. </p>
+        <p> Pour comble, il trébucha soudain contre une pierre et alla choir de tout son long dans le fossé. </p>
+        <p> C’était le cas de suivre l’exemple d’un de ces chasseurs d’ours célébrés par La Fontaine, de ce compagnon qui, </p>
+        <p> ... plus froid que n’est un marbre, </p>
+        <p> Se couche sur le nez, fait le mort, tient son vent, </p>
+        <p> Ayant quelque part ouï dire </p>
+        <p> Que l’ours s’acharne peu souvent </p>
+        <p> Sur un corps qui ne vit, ne meut, ni ne respire. </p>
+        <p> Mais Maginot, qui possédait cependant mieux qu’aucun de nous ses fables de La Fontaine et de Florian, et avait obtenu deux années de suite le premier de récitation, ne songeait guère alors à se remémorer ces sages conseils. Il s’était remis debout, tout anxieux, tout tremblant, s’était adossé au talus, et quoique ne pouvant plus échapper aux attaques de l’ours, il avait machinalement, comme pour s’en garer, levé son bras, qui était armé d’une forte canne. </p>
+        <p> À ce geste, l’ours s’arrêta net, se dressa sur ses pattes de derrière et se mit à danser. </p>
+        <p> Maginot, dont l’effroi commençait à faire place à l’ébahissement, laissa retomber son bras, et l’ours aussitôt de cesser sa valse et de se remettre à quatre pattes. </p>
+        <p> C’était un ours apprivoisé, un ours savant ! </p>
+        <p> Il suffisait de lever la canne pour le voir se lever lui-même immédiatement et se livrer à des ébats chorégraphiques, interrompus dès que la canne s’abaissait. </p>
+        <p> Parvenu au bas de la côte, à l’angle de la grand’route, Nono Toussaint se retourna pour se rendre compte du sort de son malheureux camarade. </p>
+        <p> Jugez de sa stupeur : Maginot marchait à reculons, brandissant sa canne, comme un tambour-major, devant maître Martin, qui s’avançait en se dandinant, tournant sur lui-même de distance en distance, ou s’inclinant, puis se redressant et se rengorgeant. </p>
+        <p> Ainsi escortés de cette plaisante bête, Toussaint et Maginot arrivèrent devant le bureau de l’octroi. </p>
+        <p> En les apercevant, l’employé sortit de son poste : </p>
+        <p> « C’est l’ours des Lamberti ! s’écria-t-il. On le cherche partout ! </p>
+        <p> — Je l’ai trouvé là-haut, dans les bois, répliqua Maginot tout fier et radieux. Il n’est pas méchant, n’ayez pas peur ! Nous sommes déjà comme une paire d’amis nous deux ! </p>
+        <p> — Ah ! c’est au théâtre des Lamberti qu’il appartient ? fit Nono. </p>
+        <p> — Oui ; ils sont venus de Saint-Dizier pour prendre part à la foire de la Pentecôte, et, en débarquant sur la place, ce matin, ils ont constaté la disparition de leur ours, dont la cage était mal fermée. Ils ont aussitôt avisé la police, et tout à l’heure, j’entendais le père Sans-Façon, le tambour de ville, annoncer la chose et recommander aux habitants de faire attention. Deux des frères Lamberti sont même passés devant mon bureau, il y a un moment… Tenez ! je les aperçois encore dans les vignes, là-haut… Les voyez-vous ? Ils sont toujours en quête de leur pensionnaire. » </p>
+        <p> Et le préposé de l’octroi poussa un retentissant : </p>
+        <p> « Ohé ! Houp ! Houp ! » </p>
+        <p> Ce cri fit tourner la tête aux deux hommes. Ils étaient près d’atteindre le sommet du coteau de Caurotte ; mais, malgré l’éloignement, ils distinguèrent sans peine au-dessous d’eux, dans le fond de l’étroite vallée, l’objet de leurs recherches, et se hâtèrent de rebrousser chemin. </p>
+        <p> Les Lamberti étaient une famille de saltimbanques très populaire à Bar-le-Duc en ce temps-là. C’étaient de braves gens, que tout le monde estimait, et qui ne manquaient jamais de venir s’installer sur la place Reggio, lors de la foire de mai. </p>
+        <p> Les deux frères furent bientôt au bas des vignes, près de l’octroi, et tout d’abord ils passèrent une corde dans le collier de maître Martin, pour l’empêcher de prendre de nouveau la poudre d’escampette, s’il en eût éprouvé l’envie. Par un excès de précaution qui semblait inutile, vu la docilité et la douceur de l’animal, ils l’affublèrent même d’une solide muselière. </p>
+        <p> « Ah ! vagabond ! coureur ! C’est ainsi que tu nous brûles la politesse ! » disaient-ils en caressant l’épaisse et noire fourrure de l’ours, qui, à présent, comme s’il eût craint une correction justement méritée, courbait la tête devant ses maîtres et semblait tout penaud. </p>
+        <p> « Quel est celui de vous à qui nous devons d’être rentrés en possession de ce fuyard ? demanda l’un des frères Lamberti. </p>
+        <p> — C’est moi, m’sieu ! dirent à la fois les deux lycéens. </p>
+        <p> — Non, m’sieu, ce n’est pas lui, rectifia Maginot ; c’est moi seul qui ai ramené votre ours en le faisant danser comme ça avec ma canne. </p>
+        <p> — C’est moi qui l’ai aperçu le premier ! riposta Toussaint. </p>
+        <p> — Mais tu t’es vite sauvé ! </p>
+        <p> — Toi aussi ! </p>
+        <p> — Non, c’est… </p>
+        <p> — Enfin, interrompit l’aîné des Lamberti, nous vous remercions bien tous les deux, et, pour vous témoigner notre reconnaissance, vous n’aurez qu’à vous présenter à notre théâtre : vous aurez vos entrées gratuites chaque soir pendant toute la durée de la foire. </p>
+        <p> — Oh ! merci, m’sieu Lamberti ! </p>
+        <p> — Merci, m’sieu ! </p>
+        <p> — Nous en profiterons ! </p>
+        <p> — Je l’espère bien, et tant que vous voudrez, jeunes gens ! » </p>
+        <p> Jamais aucune aventure de Maginot ne s’était aussi agréablement terminée. </p>
+        <p></p>
+      </div>
+      <div title="Chapitre 3 La fée Parlemaille emphou À quelque chose malheur est bon" type="nouvelle">
+        <p> Chapitre 3 </p>
+        <lb/>
+        <p> La fée Parlemaille  emphou  À quelque chose malheur est bon </p>
+        <p>CHAQUE MATIN, NOTRE VOISIN, le père Hussenot, passait sous nos fenêtres, en conduisant à l’école sa petite-nièce Thérèse.  Le père Hussenot, alors âgé de soixante-quinze ans, demeurait dans notre rue du Tribel, presque en face de notre maison. Il avait élevé bien des neveux et nièces, sans compter ses propres enfants, et, arrivé à ce grand âge, n’avait pas hésité à se charger encore d’une petite orpheline, Thérèse Pellegrin, que le ciel lui envoyait. </p>
+        <p> C’était la fille d’un de ses neveux, ouvrier tisseur, emporté en quelques jours par une fièvre typhoïde. Elle entrait alors dans ses cinq ans. L’année précédente, Thérèse avait perdu sa mère ; depuis longtemps tous ses oncles, tantes et cousins avaient quitté le pays ; elle ne possédait donc plus que son grand-oncle Hussenot pour lui tenir lieu de famille et chez qui se réfugier. </p>
+        <p> Le pauvre vieux, qui était tout dévouement et tout cœur et portait à sa petite Thérèse une maternelle tendresse, s’efforça d’avoir pour elle toutes les attentions, les menus soins et les exquises délicatesses d’une vraie mère. </p>
+        <p> Tous les matins, après l’avoir lui-même gentiment peignée, proprement habillée, il la menait à l’école communale, installée dans l’ancien château, et je les vois encore passer ensemble devant chez nous, la main dans la main, lui, le visage bruni et ridé, le dos voûté ; elle, avec ses cheveux blonds bouclés et son teint rose et blanc, éblouissant de fraîcheur. </p>
+        <p> Thérèse faisait l’admiration des habitants de notre quartier, et souvent ma tante Victorine ou notre vieille servante Julie m’appelait pour contempler la grâce, l’élégance et la bonne mine de cette fillette. </p>
+        <p> « Viens donc voir notre petite voisine ! La voilà qui sort avec son oncle… Comme elle est jolie ! Comme elle est avenante et pimpante ! Et elle est sage, elle ; elle obéit toujours bien ! » </p>
+        <p> Sans cesse on me la citait comme exemple. </p>
+        <p> Si l’on s’extasiait devant l’enjouement et les charmes de l’enfant, on n’oubliait pas l’oncle, on ne méconnaissait pas ses grandes qualités, son courage, sa vaillance, l’affection et l’abnégation dont il avait toute sa vie fait preuve envers les siens. Il était renommé dans toute notre Ville-Haute pour sa loyauté et sa probité. </p>
+        <p> « Un digne homme que le père Hussenot ! » </p>
+        <p> C’était le mot par lequel chacun résumait son opinion sur lui. </p>
+        <p> Il travaillait encore, et ferme, malgré son âge : car, dans sa vie de luttes, de tracas et de privations, il n’avait jamais trouvé le loisir de se réserver quelque chose pour lui, un peu de pain pour ses vieux jours, et tous ses maigres gains s’en étaient allés de-ci de-là, avaient servi à élever et soigner, aider ou établir cette séquelle de neveux et de nièces que les circonstances avaient à présent éloignés de lui, ou que la mort lui avait ravis. </p>
+        <p> Il était employé chez un gros marchand de ferraille et de chiffons de la rue de Véel, chez M. Gomel, et, lorsqu’il n’était pas occupé à ranger et trier dans le magasin de ce négociant, il parcourait les rues de la ville avec sa voiture à bras, et chargeait et transportait les marchandises achetées ou vendues par son patron. </p>
+        <p> Si jusqu’alors le père Hussenot s’était peu ému de sa pauvreté et l’avait allègrement supportée, il n’en était plus de même depuis que sa petite-nièce vivait auprès de lui et qu’il fallait penser à son avenir et assurer son sort. </p>
+        <p> « Que deviendra-t-elle après moi ? se demandait-il souvent. À qui la confier ? J’ai bien mes deux neveux, Julien et Martial – ses oncles – qui habitent Paris : mais ils sont surchargés tous les deux de famille et crient sans cesse misère. Il en est de même de ma nièce Léonie… Ah ! si j’étais moins âgé, si je pouvais espérer encore douze ou quinze ans d’existence, de bonne santé et de travail, je n’aurais pas ce terrible souci de m’en aller sans avoir élevé et casé cette chère petite ! » </p>
+        <p> C’était là la constante préoccupation, le continuel tourment de l’excellent homme. </p>
+        <p> † </p>
+        <lb/>
+        <p> Un soir d’été, qu’il avait une course à faire avec sa voiture à bras, il résolut d’aller en même temps chercher Thérèse à l’école. </p>
+        <p> Il était cinq heures, c’était justement l’heure de la sortie de la classe ; il prit l’enfant et la mit dans la voiture afin d’aller plus vite, car de lourds nuages voilaient le ciel et des gouttes d’eau commençaient à tomber. Pour que Thérèse ne fût pas mouillée, il étendit une bâche au-dessus d’elle, et, grâce au mouvement cadencé du véhicule, aussi bien qu’à l’accablante chaleur de la température, la fillette ne tarda pas à s’endormir. Près d’elle étaient empilées des bouteilles vides, que le père Hussenot avait reçu mission d’aller quérir. </p>
+        <p> Comme il atteignait le petit pont situé au bas de la côte du Roal, à quelques pas de la mairie, un tourneur et fabricant de chaises, en train de travailler dans son atelier, l’aperçut et l’appela. </p>
+        <p> « Père Hussenot ! J’aurais une commission à vous donner pour M. Gomel. Entrez donc une minute. » </p>
+        <p> La minute dura près d’un quart d’heure, et lorsque le père Hussenot sortit, – quels ne furent pas son étonnement et son émoi ! – la voiture n’était plus où il l’avait laissée, dans l’angle du pont : elle avait disparu, et Thérèse avec elle. </p>
+        <p> Il eut beau regarder de tous côtés, dans toutes les rues et ruelles adjacentes, s’informer auprès de tous les voisins et passants, il ne découvrit nul indice, n’obtint aucun renseignement, capables de le mettre sur la trace du voleur. </p>
+        <p> Car on lui avait volé sa voiture, il n’y avait pas de doute. </p>
+        <p> « Elle n’est pas tombée dans le canal : elle n’aurait pu franchir d’elle-même le parapet ! s’écriait-il avec désespoir. Elle ne s’est pas envolée toute seule ! Ah ! mon Dieu ! mon Dieu ! </p>
+        <p> — C’est peut-être simplement une plaisanterie que des gamins vous ont faite, père Hussenot, insinua le fabricant de chaises. </p>
+        <p> — Une plaisanterie ? </p>
+        <p> — Oui, c’est mon avis. </p>
+        <p> — Drôle de plaisanterie ! Mais, en admettant, une voiture n’est pas facile à cacher ! Où l’auraient-ils mise ? Cela ne se fourre pas dans la poche ! Non, c’est bien un voleur, allez ! » répliqua le père Hussenot, de plus en plus anxieux et affolé. </p>
+        <p> Il ne se trompait pas. </p>
+        <p> Un garnement, passant par là, avait aperçu cette voiture privée de conducteur et chargée de bouteilles. L’occasion lui avait paru propice : il s’était imaginé que toutes ces bouteilles étaient pleines de bon vin ou de liqueurs, et il s’était vite attelé aux brancards et avait filé grand’erre. </p>
+        <p> Ce n’est qu’arrivé hors de la ville, dans la partie que l’on nomme le faubourg de Marbot, qu’il osa s’arrêter et vérifier le contenu de la carriole. </p>
+        <p> Les bouteilles étaient vides. </p>
+        <p> « Volé ! s’exclama le voleur avec colère. Ah ! c’était bien la peine… Et, sous cette bâche, qu’y a-t-il ? » </p>
+        <p> En découvrant la petite fille qui dormait là comme dans son lit, il n’en demanda pas davantage, et, sans se préoccuper de ce que deviendrait cette enfant, il se hâta de déguerpir. </p>
+        <p> † </p>
+        <lb/>
+        <p> Il faisait nuit lorsque Thérèse s’éveilla. </p>
+        <p> L’orage menaçait de plus en plus. Des éclairs sillonnaient le ciel à tout instant ; des roulements de tonnerre emplissaient de leur fracas l’étroite vallée ; mais la pluie ne tombait toujours que goutte à goutte, comme à regret, et sans parvenir à rafraîchir l’air. </p>
+        <p> Thérèse eut peur au milieu de ces ténèbres, presque sans cesse traversées par de fulgurantes lueurs, et au milieu de ces retentissants et sinistres grondements. Elle se mit à pleurer, à appeler son oncle ; puis essaya de descendre de voiture. Elle y réussit ; mais, comme elle posait le pied à terre, le chargement bascula, et toutes les bouteilles vinrent se briser avec un bruit terrible contre un mur qui bordait la route. </p>
+        <p> Les pleurs de l’enfant redoublèrent, toujours entrecoupés par ses cris : </p>
+        <p> « Mon oncle ! Mon oncle ! » </p>
+        <p> Une porte, percée dans le mur, tout près de là, s’ouvrit, et une voix de femme se fit entendre. </p>
+        <p> « Qu’y a-t-il ? » </p>
+        <p> Ne recevant pas de réponse, la femme s’avança et aperçut Thérèse. </p>
+        <p> « Que fais-tu donc là toute seule, petite ? » </p>
+        <p> Thérèse alors de geindre et de sangloter de plus belle. </p>
+        <p> « À qui cette voiture ? Comment te trouves-tu ici, à cette heure ? Où sont tes parents ? Est-ce que tu as mal, dis ? Tu es tombée ? » </p>
+        <p> Une autre voix de femme vint interrompre ces questions, auxquelles l’enfant ne répondait que par ses soupirs et ses larmes. </p>
+        <p> « Perrine ! Où êtes-vous donc ? Que se passe-t-il ? </p>
+        <p> — Madame, c’est une petite fille qui est sur la route. </p>
+        <p> — Une petite fille ? Mais ce vacarme que nous avons entendu ? </p>
+        <p> — Sans doute cette voiture qui s’est renversée… Je ne distingue pas très bien… Il y a des bouteilles cassées, tout un monceau de bouteilles… </p>
+        <p> — Et cette petite fille est seule ? </p>
+        <p> — Oui, madame, comme si on l’avait abandonnée. </p>
+        <p> — Amenez-la, Perrine, faites-la entrer ! Ce n’est pas un temps à rester dehors. </p>
+        <p> — Viens, ma mignonne. » </p>
+        <p> La femme prit Thérèse par la main, lui fit traverser une cour, puis un vestibule, et l’introduisit dans un petit salon en rotonde luxueusement meublé, à demi éclairé par une lampe placée sur un guéridon de marbre. </p>
+        <p> C’était la demeure de la comtesse de Parlemaille. </p>
+        <p> Veuve, sans enfant, et alors âgée d’une cinquantaine d’années, Mme Lydie de Parlemaille se consolait de son isolement par la pratique des bonnes œuvres, et était considérée comme la providence du rustique faubourg de Marbot. </p>
+        <p> Pour la désigner, les pauvres gens de ce quartier disaient volontiers « la bonne dame » ; cela suffisait, on savait de qui il était question. Dans la ville, on l’avait baptisée « la reine de Marbot » ou encore « la fée Parlemaille ». </p>
+        <p> Sa maison, une élégante villa, une sorte de petit château, que son mari avait fait construire, s’élevait au delà du faubourg, devant un joli jardin, auquel attenait une immense prairie arrosée par le ruisseau de Naïves ou Naveton. </p>
+        <p> Mme de Parlemaille entreprit à son tour d’interroger Thérèse, mais ses questions n’obtinrent guère meilleur résultat que celles de sa servante. </p>
+        <p> « J’étais avec mon oncle… Il m’avait assise dans la voiture… </p>
+        <p> — Que fait-il, ton oncle ? demanda Mme de Parlemaille. </p>
+        <p> — Sais pas… madame, bégaya Thérèse. </p>
+        <p> — Où demeure-t-il, ma chérie ? </p>
+        <p> — Là-bas… derrière l’église. </p>
+        <p> — Quelle église ? </p>
+        <p> — L’église ! </p>
+        <p> — Comment t’appelles-tu ? </p>
+        <p> — Thérèse. </p>
+        <p> — Et ton papa ? Dis, mon trésor, comment se nomme-t-il, ton papa ? Réponds donc, mon petit chou, n’aie pas peur ! » reprit Mme de Parlemaille, qui adorait les enfants et avait toujours pour eux de tendres caresses et de gentils noms. </p>
+        <p> « C’est… c’est mon oncle ! » </p>
+        <p> Voyant qu’elle ne pouvait tirer rien de bien clair de cette pauvre petite, Mme de Parlemaille remit au lendemain la suite de l’interrogatoire et changea de discours. </p>
+        <p> « As-tu soupé, ma mignonne ? » </p>
+        <p> Thérèse remua la tête en signe de négation. </p>
+        <p> « Tu as faim ? </p>
+        <p> — Oui, fit-elle d’une voix nette, et en hochant la tête de haut en bas. </p>
+        <p> — Eh bien, Perrine, vous allez servir à manger à cette enfant, puis nous la coucherons. » </p>
+        <p> Le lendemain, en sortant de la messe de sept heures, à laquelle elle avait coutume d’assister chaque matin hiver comme été, la bonne dame de Marbot, la fée Parlemaille, se rendit au commissariat de police pour faire sa déclaration, relativement à l’enfant trouvée la veille devant sa porte. </p>
+        <p> Le commissaire, M. Poustor, devina sur-le-champ et sans peine de qui il s’agissait : le soir précédent, avant de regagner sa demeure, le père Hussenot, bouleversé, désespéré, était allé se plaindre à lui de la disparition de sa voiture et de ce qu’elle contenait, de sa petite-nièce, sa chère petite Thérèse, qui s’y était endormie, blottie sous une bâche. </p>
+        <p> M. Poustor envoya aussitôt un de ses agents chez le père Hussenot pour le tranquilliser, et midi n’était pas sonné, que l’alerte vieillard, accourant de toute la vitesse de ses jambes, arrivait chez Mme de Parlemaille. </p>
+        <p> Celle-ci le connaissait tout au moins de vue et de nom, pour l’avoir maintes fois aperçu dans les rues et ouï appeler par les clients de son patron, du riche marchand de chiffons de la rue de Véel. </p>
+        <p> « Alors c’est à vous cette petite fille-là, père Hussenot ? dit-elle, après les premiers moments d’effusion entre l’oncle et la nièce. </p>
+        <p> — Oui, madame ; c’est la fille de mon neveu Louis Pellegrin, qui est mort en avril dernier, juste un an après sa femme… La pauvre gamine n’a plus que moi, hélas ! </p>
+        <p> — Et elle ne vous aime pas du tout, j’en suis sûre, ajouta en badinant Mme de Parlemaille. Elle ne tient nullement à s’en aller avec vous et ne demande qu’à rester ici.. N’est-ce pas, Thérèse ? » </p>
+        <p> En guise de réponse, la fillette se suspendit au cou de son oncle. </p>
+        <p> « Oh ! que nenni ! répliqua le père Hussenot, tout rayonnant, avec une larme d’attendrissement dans le coin de l’œil. Oh ! mais si, elle m’aime bien ! </p>
+        <p> — Alors tu ne veux pas demeurer avec moi ? reprit Mme de Parlemaille. C’est bien décidé ? Tu préfères t’en retourner avec ton oncle ? » </p>
+        <p> Thérèse acquiesça énergiquement. </p>
+        <p> « Eh bien, je consens à te laisser partir, continua Mme de Parlemaille ; mais à une condition : tu reviendras me voir. Tu voudras bien revenir me voir ? </p>
+        <p> — Oui, madame, murmura l’enfant. </p>
+        <p> — Vous entendez, père Hussenot ? Il faudra m’amener de temps à autre cette petite. Le jeudi, par exemple, quand elle ne va pas à l’école, elle pourrait venir passer la journée chez moi. Si cela vous dérange de la conduire vous-même, je l’enverrai chercher par ma domestique, son amie Perrine, car elles sont déjà ensemble dans les meilleurs termes. » </p>
+        <p> † </p>
+        <lb/>
+        <p> À dater de cette époque, en effet, Thérèse devint la protégée de la bonne dame de Marbot. Tous ses jours de congé se passaient au château de Parlemaille, tantôt à coudre ou à jouer auprès de la maîtresse du lieu, tantôt à aider la servante Perrine dans ses menus travaux, à aller avec elle donner à manger aux poules et aux lapins, étendre le linge au grenier, préparer ensuite la pâtée de M. Mimi, ou bien s’occuper de la volière où Mme de Parlemaille s’était plu à renfermer quantité de canaris, de chardonnerets, de bouvreuils et de linots. </p>
+        <p> Quand, dix-huit mois plus tard, le père Hussenot dut s’aliter, atteint d’une fluxion de poitrine, et vit la mort approcher, il eut du moins, en expirant, la suprême consolation de ne pas laisser sa petite Thérèse seule au monde, de se dire que Mme de Parlemaille était là pour veiller sur elle, la recueillir, comme elle l’avait fait naguère, durant cette nuit d’orage. </p>
+        <p> Ainsi la coupable action de ce vaurien, qui, en dérobant la voiture du père Hussenot, s’était leurré de l’espoir d’une misérable aubaine, eut un contrecoup inattendu, le plus salutaire et le plus précieux résultat. À quelque chose malheur fut bon. </p>
+        <p> La petite orpheline quitta donc notre rue du Tribel pour aller vivre à Marbot, chez la comtesse de Parlemaille. Élevée près d’elle et sous sa direction, elle s’attacha de plus en plus à cette excellente dame, à qui elle s’efforçait sans relâche de témoigner sa reconnaissance, sa tendresse et son dévouement. </p>
+        <p> À son tour, Mme de Parlemaille se sentait de plus en plus attirée vers cette enfant, la considérait peu à peu comme sa fille adoptive, et la traitait en conséquence. Elle ne se borna pas à faire de Thérèse une jeune personne instruite et distinguée, elle l’associa à ses bonnes œuvres, l’emmenant avec elle dans ses visites aux indigents, lui apprenant à la seconder dans ses soins aux vieillards et aux malades. </p>
+        <p> Thérèse Pellegrin a non seulement hérité de la fortune de sa bienfaitrice, elle lui a succédé dans sa charitable et généreuse mission : c’est elle aujourd’hui qu’on nomme « la providence de Marbot », elle qui est devenue « la fée Parlemaille ». </p>
+        <p></p>
+      </div>
+      <div title="Chapitre 4 La robe de chambre" type="nouvelle">
+        <p> Chapitre 4 </p>
+        <lb/>
+        <p> La robe de chambre </p>
+        <p> A PRÈS AVOIR APPARTENU PENDANT trente-huit ans à l’administration des Contributions indirectes, où il avait conquis le grade de Directeur départemental, M. Hyacinthe Bigornot avait été autorisé à faire valoir ses droits à une pension de retraite, et était venu s’installer près de son gendre, M. de Miraucourt, dans la paisible petite ville de Ligny-en-Barrois. </p>
+        <p> M. Charles de Miraucourt, qui remplissait les fonctions d’inspecteur des forêts, habitait, avec sa femme et sa fille Marceline, âgée de dix-neuf ans, un verdoyant cottage, ayant des apparences de château, et qu’entourait un vaste jardin, bordé à son extrémité par notre rivière de l’Ornain. </p>
+        <p> M. Bigornot, qui avait toujours eu la passion de la pêche à la ligne, se trouvait ainsi tout porté pour se livrer à son passe-temps favori. Entouré des soins de sa fille et de sa petite-fille, il ne pouvait qu’être heureux dans ce calme coin de province, et sa vie devait y ressembler au beau soir d’un beau jour. </p>
+        <p> On était au mois d’octobre, et la fraîcheur des matinées et des nuits inquiétait tant soit peu l’ex-directeur des Contributions, qui avait toujours redouté les rhumatismes. </p>
+        <p> « Il me faudrait une bonne robe de chambre, dit-il un jour à sa fille. J’aurais bien dû m’en acheter une, lorsque j’ai traversé Paris ! Je ne l’ai pas fait, et je le regrette fort. » </p>
+        <p> Le surlendemain Mme de Miraucourt arrivait près de son père avec une superbe robe de chambre de molleton gris bordée et soutachée de bleu. </p>
+        <p> « Tu vois, papa, qu’il n’est pas besoin d’aller jusqu’à Paris ? Nous passions ce matin devant la halle avec Marceline : il y avait justement un grand « déballage » de vêtements d’homme… des occasions magnifiques ! J’en ai profité. » </p>
+        <p> M. Bigornot déplia la robe de chambre, l’étala, l’examina sur toutes ses faces : </p>
+        <p> « Elle est vraiment belle ! C’est tout à fait ce que je voulais ! » </p>
+        <p> Puis il l’essaya. Par malheur, elle était trop longue, bien trop longue : elle traînait même à terre. </p>
+        <p> « Que c’est contrariant ! s’écria Mme de Miraucourt. Je croyais si bien avoir les mesures ! </p>
+        <p> — Ne pourrais-tu la reporter et l’échanger contre une autre ? </p>
+        <p> — Hélas, trop tard ! C’est à un « déballage » que je l’ai achetée, comme je te l’ai dit. Les marchands ambulants qui viennent au marché ne restent pas… Ils sont sûrement déjà partis. Il aurait fallu courir tout de suite… Ah ! que c’est donc ennuyeux ! </p>
+        <p> — Mais, maman, dit Marceline, il ne sera pas difficile de raccourcir les pans… </p>
+        <p> — C’est bien aussi ce que je compte faire, interrompit Mme de Miraucourt. Nous allons mesurer bien exactement… » </p>
+        <p> Après un sérieux et très minutieux examen, on décida qu’il fallait diminuer la robe de chambre de vingt centimètres. </p>
+        <p> « Oui, comme cela elle sera parfaite ! » conclut M. Bigornot. </p>
+        <p> † </p>
+        <lb/>
+        <p> Dès le soir même, profitant de ce que son père s’était couché de bonne heure, Mme de Miraucourt tailla et rogna les pans de la robe de chambre, et la réduisit aux dimensions voulues. Ce travail était terminé quand M. de Miraucourt et Marceline, qui étaient allés passer la soirée chez des voisins, rentrèrent au logis. </p>
+        <p> Le lendemain, Marceline venait de se lever et de s’habiller, elle respirait à sa fenêtre l’air frais du matin, quand, toujours pleine de tendresse pour son grand-père et aux petits soins pour lui, il lui vint une délicate et généreuse pensée : </p>
+        <p> « Bon papa doit aller à la pêche aujourd’hui ; il est sans doute déjà parti… Si je mettais son absence à profit en raccourcissant sa robe de chambre ? Cela fera plaisir aussi à maman ; ce sera pour elle une peine de moins. » </p>
+        <p> Aussitôt dit, aussitôt fait. </p>
+        <p> Marceline court chez « bon papa », prend la robe de chambre, et s’empresse de la diminuer de vingt centimètres, ce qui, avec les vingt centimètres précédemment enlevés par Mme de Miraucourt, faisait une diminution totale de quarante centimètres. </p>
+        <p> Quand, à son retour de la pêche, M. Hyacinthe Bigornot voulut se mettre à son aise, et endossa son costume d’intérieur, il poussa un long cri de stupeur, suivi de soupirs de désolation. </p>
+        <p> « Oh ! Oh ! Oh ! » </p>
+        <p> À ces lamentations, Mme de Miraucourt, puis Marceline, accoururent, tout inquiètes, se demandant ce qu’il y avait. </p>
+        <p> « Mais qu’est-ce que vous avez donc fait, mes enfants ? Mais voyez donc ! Regardez donc ! Hier elle était trop longue, mais aujourd’hui… Elle est bien trop courte ! Elle me va à peine aux genoux ! </p>
+        <p> — C’est vrai ! murmurait Mme de Miraucourt atterrée. J’ai cependant bien mesuré. Tu étais là, Marceline, tu as remarqué ? </p>
+        <p> — Oui, maman. </p>
+        <p> — C’est extraordinaire ! </p>
+        <p> — Vous avez coupé et enlevé au moins le double de ce qu’il fallait ! reprit M. Bigornot. </p>
+        <p> — Ah ! maman ! s’écria Marceline, qui eut un soudain trait de lumière et comprit ce qui s’était passé. C’est que nous avons fait toutes les deux la même besogne l’une après l’autre ! </p>
+        <p> — Comment ?… </p>
+        <p> — Oui, moi après toi ! </p>
+        <p> — Oh ! Mais tu aurais dû t’assurer… Voilà ce que c’est que de vouloir faire des surprises ! </p>
+        <p> — C’est vrai, hélas ! </p>
+        <p> — Que c’est donc fâcheux ! </p>
+        <p> — Ne vous lamentez pas, mes chéries, repartit le grand-père, qui avait fini par s’apaiser. Allons, du calme ! C’est un petit malheur ! Vous n’aurez, si vous le voulez bien, qu’à rogner encore d’un ou deux travers de main ce malencontreux vêtement – mais l’une ou l’autre et non pas toutes les deux ! – et il me servira de veston, me fera un très coquet, très gentil petit veston. Puis, au prochain « déballage » que tu verras, Amélie, tu m’achèteras une autre robe de chambre. C’est bien plus simple ! </p>
+        <p> — Seulement, cette fois, conclut Mme Amélie de Miraucourt, j’aurai soin de bien prendre les mesures… Et toi, Marceline, j’espère que tu ne feras plus rien sans me prévenir ? </p>
+        <p> — Oh ! non, maman, je te le promets ! » </p>
+        <p></p>
+      </div>
+      <div title="Chapitre 5 Dangereux prisonnier" type="nouvelle">
+        <p> Chapitre 5 </p>
+        <lb/>
+        <p> Dangereux prisonnier </p>
+        <p>PAR UNE HUMIDE SOIRÉE d’automne, M. Philippot, l’aubergiste de la Croix-Blanche, était debout sur le seuil de sa porte, le dos au mur, et il fumait tranquillement sa pipe en promenant son regard au loin, sur les coteaux encore tout parsemés de vendangeurs, et sur les vieux ormes de la route que la brume commençait à estomper. Soudain il vit surgir, au premier tournant de cette route, une masse terne et confuse, mais qui, peu à peu, en s’avançant, devint plus distincte et se profila nettement. </p>
+        <p> C’était un homme, un vieillard à demi courbé, qui poussait devant lui une étroite petite voiture. Deux chiens l’escortaient, et, au lieu de vagabonder, selon la coutume de leurs pareils, à droite et à gauche, sur les talus du chemin et dans les champs d’alentour, ils se tenaient prudemment, comme pour se garer de la fine pluie qui s’était mise à tomber, derrière leur maître, marchaient sur ses talons, tête basse et du même invariable menu pas. </p>
+        <p> L’auberge de la Croix-Blanche était la première maison du village. En apercevant l’enseigne, qui se balançait à une tringle de fer, à l’angle du bâtiment, le vieillard fit un geste, qu’on aurait pu traduire par cette phrase : « Voilà mon affaire ! » et, présumant que le fumeur était le maître du logis, il s’approcha de lui et le salua. </p>
+        <p> « Vilain temps ! ajouta-t-il. Puis-je m’arrêter chez vous et y passer la nuit, moi et mes bêtes, en payant, bien entendu ? </p>
+        <p> — Mais très volontiers, repartit M. Philippot. C’est mon métier d’héberger le monde… Entrez, mon brave, entrez ! » </p>
+        <p> Pendant que les deux toutous, deux caniches, allaient, d’un commun accord, se blottir de chaque côté du foyer, le patron débattait ses conditions avec son hôte, et ce dernier exhibait de sa poche son livret d’identité. </p>
+        <p> Le voyageur avait nom Vincenzo, était natif de Suse (Italie), et exerçait la profession de « montreur d’animaux savants ». </p>
+        <p> De taille moyenne, vigoureux et trapu, il portait de longs cheveux gris, qui tombaient en boucles sur le col de sa veste de drap marron, et sa barbe, frisée et presque blanche, lui descendait jusqu’au creux de l’estomac. </p>
+        <p> « Alors ce sont ces deux chiens qui composent toute votre troupe ? demanda M. Philippot. </p>
+        <p> — Pardon, j’ai aussi M. Beauvisage, le premier de mes sujets. Je l’enferme dans ma voiture, afin qu’il ne prenne pas froid et ne soit pas mouillé. Je vais vous l’amener, si vous le permettez ? </p>
+        <p> — Faites ! Faites ! C’est un chien aussi que ce monsieur Beauvisage ? </p>
+        <p> — Non, vous allez voir… » </p>
+        <p> C’était un singe, un joli petit singe, habillé en mousquetaire, galonné d’or sur toutes les coutures, et qui se drapait tant bien que mal, frileusement, dans une vieille loque de drap rouge. Il fit son entrée sur le bras de son maître, pelotonné contre lui, et ne tarda pas à se faufiler sous sa veste pour se réchauffer. </p>
+        <p> L’auberge de la Croix-Blanche était trop modeste, trop médiocrement achalandée, pour comporter un nombreux personnel. Le patron, sa femme et une jeune servante suffisaient à toute la besogne. Pendant que Mme Philippot surveillait la cuisine, Pélagie, ladite servante, dressa le couvert, et elle apporta bientôt sur la table la soupière fumante. </p>
+        <p> Les deux caniches, MM. Pompon et Turco, qui sommeillaient devant l’âtre, se réveillèrent alors, et, toujours de concert, vinrent se poster auprès de M. Vincenzo, l’un à droite, l’autre à gauche. Mais, en chiens bien élevés, ils ne poussaient aucun jappement, ne risquaient aucune plainte, ne demandaient rien, ne bronchaient point, et, le museau en l’air, les yeux infatigablement braqués sur leur maître, calmes, stoïques, impassibles, ils attendaient que celui-ci leur présentât à tour de rôle une languette de pain, qui disparaissait d’un seul coup et instantanément. </p>
+        <p> Quant à M. Beauvisage, il s’était peu à peu ragaillardi à la tiède chaleur de la pièce ; il avait quitté son refuge, s’était assis sur le coin de la table, et il mangeait de son côté ce qu’on voulait bien lui octroyer, grignotait avec délices notamment les carottes crues que Mlle Pélagie s’amusait à lui offrir. </p>
+        <p> « Une drôle de petite bête que vous avez là, et qui a l’air bien intelligent ! remarqua l’aubergiste. </p>
+        <p> — Et qui l’est, monsieur, qui l’est plus qu’on ne saurait dire, répliqua M. Vincenzo. J’ai déjà dressé beaucoup de singes dans ma vie, je n’en ai jamais eu d’aussi adroit, d’aussi futé, de meilleur que celui-ci. Pas besoin de répéter la leçon deux fois, d’insister, de le gronder… Il suffit de faire une chose devant lui pour qu’il l’exécute immédiatement. Tenez, vous allez voir : je vais éternuer, et il éternuera aussitôt. Attention, monsieur Beauvisage ! Attchi ! ! </p>
+        <p> — Attchi ! Attchi ! fit sur-le-champ l’animal, comme s’il venait d’être pris d’un violent rhume de cerveau. Attchi ! Attchi ! Attchi ! </p>
+        <p> — Assez, mon garçon ! N’abusons pas… Maintenant, reprit M. Vincenzo, il faut nous moucher, comme le fait toute personne enrhumée. Avez-vous un mouchoir de poche au moins, monsieur Beauvisage ? » </p>
+        <p> Et le singe de tirer bien vite des basques de son habit de mousquetaire un microscopique mouchoir, qu’il se mit à secouer triomphalement, et dont il se servit ensuite d’une façon fort congrue. </p>
+        <p> « Donnez-lui un tire-bouchon et une bouteille, et il comprendra tout de suite ce que vous attendez de lui », poursuivit M. Vincenzo. </p>
+        <p> En effet, ces objets apportés, la bouteille fut débouchée en un tour de main. </p>
+        <p> « M. Beauvisage sait sauter à la corde, danser le menuet et la gavotte, battre le tambour, faire l’exercice comme un vieux troupier, jouer aux quilles et au bilboquet ; – et si je ne lui apprends pas le besigue et l’écarté, c’est dans la crainte qu’il ne triche… N’est-ce pas, monsieur Beauvisage ? » </p>
+        <p> Et, comme s’il eût compris, M. Beauvisage se mit à hocher la tête et à faire une grimace qui ressemblait à un large rire. </p>
+        <p> † </p>
+        <lb/>
+        <p> Le lendemain matin, M. Vincenzo se rendit à la mairie de l’endroit, pour solliciter des « autorités » la permission d’exhiber sa troupe, c’est-à-dire de faire travailler en public MM. Beauvisage, Pompon et Turco. </p>
+        <p> Dans le cas actuel, les « autorités » se résumaient en une seule et unique personne, le maire du village, M. Théodule-Désiré Piédeleu, qui accorda sans difficulté la permission demandée. </p>
+        <p> « Seulement, je doute fort, mon brave homme, ajouta-t-il, que vous fassiez beaucoup d’argent ici. Nous sommes en pleine vendange, et quand on a travaillé et trimé toute la journée, surtout sous une pluie battante, et qu’on rentre le soir moulu de fatigue, on songe plutôt à se glisser dans les draps qu’à courir au spectacle . Enfin, bonne chance tout de même ! » acheva le digne magistrat en reconduisant jusque sur le seuil de la maison commune le chétif impresario. </p>
+        <p> Les pronostics de M. Piédeleu ne se vérifièrent que trop exactement. </p>
+        <p> À cause du mauvais temps, M. Vincenzo ne pouvait penser à donner ses représentations au dehors, sur la place du village. Il dut s’entendre avec le propriétaire du principal café et lui demander abri. Mais, le soir venu, et malgré les deux grandes affiches apposées sur la devanture et annonçant les mirifiques prouesses de M. Beauvisage et de ses acolytes, la salle resta vide. Le lendemain, de même. Pour comble, le surlendemain la pluie tomba plus dru que jamais et sans discontinuer. M. Vincenzo n’osait se mettre en route pour gagner une localité plus propice : il se trouvait contraint de rester à l’auberge de la Croix-Blanche, et, ne possédant pas d’économies, vivant au jour la journée, il ne savait comment régler son compte avec M. Philippot et se libérer avec lui. </p>
+        <p> Il se décida cependant à aborder cette très délicate question, et, dès la première éclaircie du ciel, annonça à l’aubergiste son intention de partir, de se rendre à quelques lieues plus loin, dans la petite ville de Ligny-en-Barrois, « où certainement et comme on me l’assure, je ferais mes frais, ajouta-t-il. </p>
+        <p> — Ligny, qui compte plus de cinq mille habitants, offre sans aucun doute bien plus de ressources que nous, dit M. Philippot, et vous avez grande raison d’y aller. » </p>
+        <p> Mais quand M. Vincenzo lui avoua qu’il était sans argent et dans l’impossibilité de solder sa note de dépense, il refusa d’entendre de cette oreille et se fâcha. </p>
+        <p> « Vous faire crédit ? Mais je ne vous connais pas ! objecta M. Philippot, qui passait à juste titre pour l’homme le plus intéressé, le plus timoré et le plus méfiant du village. Vous êtes sans domicile, toujours par monts et par vaux… Où vous retrouverais-je ? » </p>
+        <p> M. Vincenzo eut beau se prévaloir de son honorabilité et affirmer qu’il s’acquitterait dès qu’il le pourrait, l’aubergiste de la Croix-Blanche exigea quelque chose de plus solide que des promesses : il voulait de bonnes espèces sonnantes et dûment trébuchantes, ou, à leur défaut, une garantie, un gage : une montre, par exemple, un objet de valeur… </p>
+        <p> Mais le pauvre artiste ambulant ne possédait que sa piètre voiture à bras, ses loques et ses trois bêtes. </p>
+        <p> « Eh bien, je garde votre singe ! s’écria M. Philippot, furieux de cette déconvenue. Il me répondra de vous et de votre dette. </p>
+        <p> — Oh ! </p>
+        <p> — Je ne puis pourtant pas loger et nourrir les gens gratis pro Deo , voyons, convenez-en ! Il faut être raisonnable ! » </p>
+        <p> M. Vincenzo dut se résoudre à laisser entre les mains de son inflexible créancier l’incomparable monsieur Beauvisage, qui faisait bien triste mine en voyant son maître s’éloigner en compagnie de MM. Pompon et Turco. </p>
+        <p> « Ayez-en bien soin au moins ! suppliait le vieillard en poussant de gros soupirs. Je reviendrai le dégager aussitôt que j’en aurai le moyen, je n’ai pas besoin de vous le jurer ! » </p>
+        <p> † </p>
+        <lb/>
+        <p> Le soir même, la fortune sourit à M. Vincenzo. Comme s’ils eussent deviné qu’il s’agissait de délivrer leur infortuné camarade, Pompon et Turco accomplirent des prodiges, dans le café de Ligny où leur maître avait reçu asile. Jamais les cerceaux intérieurement garnis de pipes de terre n’avaient été franchis avec autant d’agilité ; jamais le jeu de dominos, où il fallait découvrir le double-six et le double-blanc, n’avait été aussi prestement remué ; jamais on n’avait aussi vite fait d’annoncer à coups de patte l’heure exacte que marquait la pendule, puis le nombre de points inscrits sur les deux dés projetés devant les « artistes » par un des honorables « assistants ». </p>
+        <p> « Bravo ! Bravo ! criait-on de toutes parts. C’est inouï, étonnant, merveilleux ! » </p>
+        <p> Aussi le lendemain, avant l’aube, M. Vincenzo reprenait le chemin du village de X…, où il avait laissé en gage le plus cher de ses élèves et pensionnaires, et s’empressait d’aller payer la rançon du prisonnier. </p>
+        <p> Lorsqu’il arriva à l’auberge de la Croix-Blanche, patron, patronne, servante, tout le monde était en émoi. </p>
+        <p> « Ah ! c’est vous ? Vous tombez juste à point ! exclama M. Philippot à la vue de son débiteur. Venez contempler un peu la belle besogne de votre maudit singe ! » </p>
+        <p> Et il entraîna M. Vincenzo vers le fond de la cuisine, là où s’ouvrait la porte du cellier-cave. </p>
+        <p> C’était dans ce réduit, bien clos et à l’abri des intempéries de l’air que l’aubergiste avait eu l’idée d’enfermer et d’attacher M. Beauvisage. Celui-ci, qui était doué au suprême degré du talent d’imitation, ayant vu M. Philippot venir « tirer une bouteille de vin », n’avait rien eu de plus pressé, dès qu’il s’était retrouvé seul, que de faire ce qu’on venait d’accomplir devant lui, c’est-à-dire de tourner le robinet du tonneau. Un second tonneau, placé tout contre le premier et pareillement muni d’un robinet, avait éprouvé le même sort, puis un troisième ; et si M. Beauvisage s’était arrêté là, c’est que la chaînette qui le retenait ne lui avait pas permis de continuer le cours de ses exploits. </p>
+        <p> Juché près de la porte, au sommet d’une haute futaille, sur laquelle il s’agitait victorieusement, il semblait enchanté de lui et de son œuvre, et vous convier à admirer. </p>
+        <p> Il se démena bien davantage encore à l’aspect de son maître, se mit à pousser des cris de joie, et aussitôt que M. Vincenzo fut à sa portée, il s’élança sur son épaule et lui fit maintes et maintes caresses. </p>
+        <p> M. Vincenzo répondait de son mieux à ces affectueuses démonstrations, et tout d’abord il délivra M. Beauvisage de la chaînette qui entravait ses mouvements. </p>
+        <p> « Non, non ! Ne vous hâtez pas de l’emmener ! s’écria l’aubergiste. Vous pensez bien que les choses ne peuvent se terminer de la sorte ! Ah ! mais non ! Qui m’indemnisera de ce dégât ? Qui en est responsable ? C’est vous, vous, le maître de l’animal ! </p>
+        <p> — Pardon, interrompit M. Vincenzo. Si vous n’aviez pas tenu, malgré moi, à garder mon singe… </p>
+        <p> — Si vous aviez payé les dépenses faites par vous dans mon établissement… </p>
+        <p> — J’avais bien l’intention de m’en acquitter. Vous en avez la preuve, puisque me voici de retour. Je ne vous demandais que quelques jours de délai… </p>
+        <p> — Et pourquoi vous les aurais-je accordés ? Pourquoi vous aurais-je fait du crédit, à vous inconnu dans le pays, à vous sans domicile ? </p>
+        <p> — Mais… </p>
+        <p> — J’en suis fâché : nous irons devant le juge de paix ; c’est lui qui prononcera ! déclara péremptoirement l’aubergiste. </p>
+        <p> — Nous irons, soit ! Je ne demande pas mieux ! J’espère bien qu’il comprendra que je n’y pouvais rien, puisque… </p>
+        <p> — Mais vous êtes responsable, encore une fois, responsable comme chacun l’est des animaux qu’il possède ! Oui ou non, est-il à vous, ce singe ? </p>
+        <p> — Vous me l’aviez pris ! riposta M. Vincenzo. Il n’était plus sous ma gouverne, donc plus à moi, pendant que vous le reteniez et l’emprisonniez. C’était à vous de le surveiller… </p>
+        <p> — Comment, à moi ! Mais… </p>
+        <p> — Évidemment, c’est de votre faute, Philippot », articula une troisième voix, celle de M. Piédeleu, le maire de la commune, qui, passant devant l’auberge, et, attiré par le bruit de la discussion, était entré pour tâcher d’apaiser ce conflit. « J’ai tout entendu, je suis au courant de l’affaire… Vous avez tort. </p>
+        <p> — Mais, monsieur le maire… </p>
+        <p> — Il n’y a pas de « monsieur le maire » qui tienne, mon ami. Vous étiez certainement dans votre droit en exigeant de cet homme, qui vous est inconnu, une garantie de ce qu’il vous doit, un gage de sa dette envers vous. Mais, ce gage, c’est vous-même qui l’avez choisi, Philippot : rien ne vous obligeait à garder le singe, plutôt qu’un des chiens… </p>
+        <p> — Il est vrai que j’aurais pu… </p>
+        <p> — Vous en convenez ? Et si c’était à refaire, vous choisiriez autrement ? </p>
+        <p> — Pour sûr, monsieur Piédeleu ! </p>
+        <p> — Ne vous plaignez donc pas du dommage que vous éprouvez : vous-même en êtes l’auteur, puisque c’est la conséquence du choix, du choix imprudent et maladroit que vous avez fait. Si vous vous obstinez à mettre le public dans la confidence de l’aventure, si vous en appelez aux gendarmes ou au juge de paix, ainsi que vous en menaciez tout à l’heure votre adversaire, on rira de vous dans tout le village, Philippot. </p>
+        <p> — Vous croyez, monsieur le maire ? </p>
+        <p> — Je fais mieux que de le croire, mon ami, j’en suis absolument certain : tout le monde se gaussera de vous. On vous sait quelque peu intéressé, passablement regardant ; avec cela aisément soupçonneux, volontiers méfiant… </p>
+        <p> — Ô monsieur le maire ! Peut-on dire ! </p>
+        <p> — Eh ! oui, on peut dire, et on le dit, on le dit partout ! On ne s’en prive nullement. Ne riez donc pas, Philippot : vous seriez le seul à vous méconnaître. Suivez mon conseil, allez ! Gardez le silence le plus complet… Chut ! Pas un mot de la farce désastreuse que ce singe vous a jouée, comme tout exprès pour vous punir de l’avoir retenu prisonnier et venger son maître ! Et tâchez de profiter de la leçon, si possible ! » </p>
+        <p> C’est à ce judicieux parti que se résolut, mais non sans longuement maugréer et pester en lui-même, l’aubergiste de la Croix-Blanche. </p>
+        <p></p>
+      </div>
+      <div title="Chapitre 6 L’explorateur" type="nouvelle">
+        <p> Chapitre 6 </p>
+        <lb/>
+        <p> L’explorateur </p>
+        <p> L ’HISTOIRE DE M.BEAUVISAGE, le singe de l’Italien Vincenzo, me remet en mémoire une aventure que j’ai ouï maintes fois conter jadis, et que des farceurs – il y en a partout, même à Bar-le-Duc, dans notre brave et placide Ville-Haute – s’amusaient à attribuer à un de leurs concitoyens de la place Saint-Pierre, à M. Agénor Paillotin, surnommé « l’Explorateur », en raison des longs voyages d’outre-mer effectués par lui. </p>
+        <p> De bonne heure, paraît-il, Agénor et sa sœur Estelle s’étaient trouvés orphelins et lancés dans la vie. Plus âgée que son frère d’une couple d’années, Estelle avait réussi à se placer comme sous-maîtresse dans le pensionnat des demoiselles Harmand, le mieux réputé et le plus en vogue de toute la contrée. Agénor, lui, avait eu recours à un sien cousin, son parrain, nommé Barastol, commis voyageur en vins et spiritueux, et représentant d’une maison de vin de Champagne d’Épernay. Victorin Barastol avait dirigé Agénor dans la même voie que lui ; seulement, au lieu du commerce des liquides, c’était dans celui de la rouennerie et de la bonneterie qu’il l’avait casé. </p>
+        <p> À dix-sept ans, Agénor Paillotin, commis au Grand Colbert , un des principaux magasins de Reims, gagnait trente francs par mois, outre sa nourriture et son logement ; mais, actif, entreprenant, audacieux, avide de mouvement et d’imprévu, il rêvait de plus hautes destinées. Il avoua un jour à son parrain qu’il avait envie de s’expatrier, d’aller tenter fortune au loin ; et le parrain, qui constatait aussi que les affaires ne marchaient pas, encouragea son filleul dans cette résolution. </p>
+        <p> La semaine suivante, Agénor allait embrasser sa sœur et lui faire ses adieux. </p>
+        <p> « Tu aurais bien pu me consulter ! Moi, qui suis ton aînée ! se récria Estelle dès les premiers mots. </p>
+        <p> — C’est vrai ! Pardonne-moi… Je craignais tes objections et tes reproches, et… comme je… </p>
+        <p> — Comme tu es décidé à n’en faire qu’à ta tête, tu n’admets aucune objection et ne veux aucun reproche, n’est-ce pas ? À quoi bon d’ailleurs ! </p>
+        <p> — Estelle, ne me gronde pas ! Je t’aime bien, je t’assure ! </p>
+        <p> — Que Dieu t’accompagne ! dit la grande sœur en essuyant ses yeux, où roulaient de grosses larmes. Écris-moi surtout, écris-moi souvent… » </p>
+        <p> † </p>
+        <lb/>
+        <p> Plusieurs années s’écoulèrent. </p>
+        <p> La fortune avait moins souri à Agénor Paillotin qu’il ne l’avait espéré ; mais il avait amplement satisfait son goût de locomotion : il connaissait Rio-de-Janeiro et Buenos-Ayres, Sydney, Melbourne, Ceylan et Bombay ; il avait acquis de l’expérience, pris des forces et gagné de l’embonpoint. En revanche, et sans doute par suite des températures tropicales qu’il avait supportées, il avait perdu ses cheveux : à vingt-six ans, il était entièrement chauve. </p>
+        <p> Il n’avait pas encore eu occasion de visiter l’Afrique ; cela lui manquait, et un beau jour il décida de réparer cette omission, et s’embarqua pour la colonie anglaise du Capi, où l’attirait d’ailleurs l’exploitation des mines d’or. </p>
+        <p> « Sûrement, se disait-il, les affaires doivent prospérer là-bas. Il y a un fort mouvement de population, et cette population n’est pas pauvre… Mes fournitures sont presque de première nécessité : il faut bien des tricots de laine et des couvertures pour parer aux grandes fraîcheurs des nuits. J’ai donc toute chance possible de réussir. » </p>
+        <p> La chance effectivement favorisa Agénor. Dès son arrivée à Cape-Town, il avait acheté à bon compte un petit âne et une voiture, dans laquelle il avait empilé une partie de sa marchandise, et il s’était mis en route, allant de village en village, et débitant ses articles avec de gros bénéfices. </p>
+        <p> Ce qu’il vendait le plus, c’étaient des bonnets de coton. </p>
+        <p> Tous les indigènes en voulaient ; à tel point que notre commis voyageur dut se hâter d’écrire en France pour s’en faire expédier une nouvelle provision. </p>
+        <p> Lui-même portait volontiers cette coiffure, qui lui était d’autant plus nécessaire qu’il avait le crâne dénudé et luisant comme une bille d’ivoire. </p>
+        <p> Il venait de s’arrêter, une après-midi, à l’ombre d’une forêt de cèdres et de palmiers, quand, fatigué de sa marche et aussi de la lourde chaleur qui régnait, sentant ses paupières s’appesantir, il ne put résister au plaisir de la sieste. Il enfonça son bonnet de coton jusque sur ses yeux et ne tarda pas à s’endormir à poings fermés, au pied de l’arbre où il s’était étendu. </p>
+        <p> À peine commençait-il à goûter ce repos salutaire et bien mérité, qu’un singe, perché dans les branches, descendit de son poste en un clin d’œil, et s’approcha de la voiture, où bientôt, deux, trois, dix, vingt, trente de ses congénères et camarades, gîtés comme lui dans les arbres, vinrent le retrouver. Instantanément et comme d’un commun accord, tous se précipitèrent sur les étoffes, cotonnades et lainages rangés dans la voiture, et l’un d’eux ayant mis la patte sur une pile de bonnets de coton, s’empara de l’un de ces couvre-chefs, et fit ce qu’il avait vu faire une seconde auparavant à celui qui maintenant dormait si bien, se l’enfonça de son mieux sur la tête. Tous ses camarades de l’imiter aussitôt, chacun de se saisir d’un bonnet de coton et de s’en coiffer. Puis, voilà toute la troupe, ainsi attifée, de se mettre à courir et gambader, grimper aux arbres et s’y pourchasser. </p>
+        <p> Lorsque notre marchand ambulant s’éveilla, il ne fut pas peu surpris, comme bien on pense, de tout le dégât commis dans sa boutique roulante. </p>
+        <p> « Il n’y a que des singes qui aient pu venir… », murmura-t-il. </p>
+        <p> Et en même temps il leva la tête, et aperçut au-dessus de lui les voleurs, ayant chacun son casque à mèche en tête. </p>
+        <p> « Oh ! » </p>
+        <p> Et tous avaient l’air de le narguer, de le provoquer, lui faire des grimaces. </p>
+        <p> « Viens donc les reprendre, les bonnets de coton ! Allons, arrive ! Grimpe ! Cours après nous ! » </p>
+        <p> Agénor ne riait pas, lui ; il fronçait les sourcils, serrait les lèvres. </p>
+        <p> « Ah ! les maudites bêtes ! Comment faire pour rentrer en possession ?… Pas moyen ! Voilà tout un assortiment de perdu ! Ah ! les brigands ! Ah ! gredins ! Ah ! si je vous tenais ! » </p>
+        <p> Et, de rage, Agénor, à défaut de cheveux qu’il ne pouvait s’arracher, saisit son bonnet de coton, et le jeta violemment à ses pieds. </p>
+        <p> « Ah ! misérables bandits ! » s’écria-t-il. </p>
+        <p> Mais, à ce moment, comme par enchantement, voilà une véritable pluie de bonnets de coton qui se met à tomber : ce sont les singes qui, fidèles imitateurs de l’homme, se sont empressés d’ôter leurs couvre-chefs et de les lancer à terre, de toutes leurs forces. </p>
+        <p> C’est ainsi, se plaisait-on à raconter, qu’Agénor Paillotin, que ses concitoyens devaient gratifier plus tard du glorieux surnom de « l’Explorateur », put réintégrer sa marchandise dans sa voiture et reprendre sa route sans plus d’encombre ni de dommages. </p>
+        <p></p>
+      </div>
+      <div title="Chapitre 7 L’héritage de M. Grégoire" type="nouvelle">
+        <p> Chapitre 7 </p>
+        <lb/>
+        <p> L’héritage de M. Grégoire </p>
+        <p> M.GRÉGOIRE, QUI REMPLISSAIT dans ma petite ville les doubles fonctions de carreleur de souliers et de sonneur de cloches à la paroisse de Notre-Dame, habitait tout près de cette église, au rez-de-chaussée d’une étroite maison de la rue de Couchot. Il travaillait devant sa fenêtre, presque toujours ouverte, quelle que fût la saison ; en sorte que, en nous rendant au lycée ou à notre retour, nous l’apercevions, occupé à tirer le ligneul, à battre la semelle ou manœuvrer l’alène et le tranchet, pendant que sa voisine, Mme Cabossel, allait et venait derrière lui et soignait le ménage. </p>
+        <p> « Bonjour, m’sieu Grégoire ! </p>
+        <p> — Bien le bonjour, mes enfants ! » nous répondait-il de sa bonne grosse voix qui résonnait comme un cuivre. </p>
+        <p> Sans vouloir médire de lui, il n’était pas beau. Il avait un nez arrondi comme une truffe, et qui, par sa couleur rouge foncé, tirant sur le violet, ressemblait quelque peu à une aubergine ; sa barbe et ses cheveux poussaient sans soins, très drus et tout embroussaillés ; en outre, il était borgne, borgne de l’œil droit. Mais cette laideur et cette infirmité n’altéraient en rien sa joviale humeur, sa verve, ses lazzis ni ses ritournelles. </p>
+        <p> Comme son ancêtre, le savetier célébré par La Fontaine, il chantait du matin jusqu’au soir, et </p>
+        <p> C’était merveilles de le voir, </p>
+        <p> Merveilles de l’ouïr... </p>
+        <p> Il ne s’illusionnait du reste pas sur ses défauts physiques et vous en parlait lui-même tout le premier sans la moindre honte ni amertume. </p>
+        <p> « Évidemment, j’aimerais mieux posséder deux bons yeux comme vous, mes petits amis, nous disait-il un jour. Cela ne fait pas de doute ! N’empêche qu’avec mon seul œil, mon seul et unique œil, je vois plus de choses que vous n’en voyez avec vos deux yeux ! </p>
+        <p> — Comment cela, m’sieu Grégoire ? Ce n’est pas possible ! </p>
+        <p> — Ah ! ah ! Cela vous étonne ! Cela vous interloque ! Vous vous figurez que je plaisante, que je mens ? </p>
+        <p> — Non, m’sieu ; mais… nous ne comprenons pas. </p>
+        <p> — C’est pourtant bien facile, clair comme eau de roche ! Moi, avec mon seul œil, je vous vois deux yeux, n’est-ce pas ? Tandis que vous, avec vos deux yeux, vous ne m’en voyez qu’un. Est-ce vrai, cela ? Oseriez-vous contester ?… » </p>
+        <p> Eh bien, tout cet enjouement et cette gaieté disparurent, après un modique héritage que fit M. Grégoire à la mort d’une lointaine cousine. Diverses mésaventures lui survinrent, il perdit le repos ; </p>
+        <p> Le sommeil quitta son logis : </p>
+        <p> Il eut pour hôtes les soucis, </p>
+        <p> Les soupçons... </p>
+        <p> On eût dit que notre personnage voulait ressembler en tout à son homonyme, le savetier de la fable. </p>
+        <p> † </p>
+        <lb/>
+        <p> Cette cousine, décédée sans descendance, avait laissé une centaine de mille francs, que le notaire Robinot, par une belle matinée d’hiver, partagea entre quatre héritiers. Pour son compte, M. Grégoire reçut une vingtaine de mille francs – une fortune pour lui. Néanmoins, dans sa prudence et sa sagesse, il décida de ne rien changer à son genre de vie, et de continuer à exercer de son mieux ses deux métiers. </p>
+        <p> Il n’y avait pas trois jours qu’il était entré en possession de sa quote-part et avait pris cette louable résolution, quand les habitants de la ville furent éveillés en pleine nuit, un peu avant une heure du matin, par les sinistres tintements du tocsin. </p>
+        <p> « Au feu ! Au feu ! » </p>
+        <p> Ces cris retentissaient de toutes parts. Cependant on avait beau regarder, on n’apercevait aucune lueur, nul indice d’incendie ; et quand on interrogeait les gens qui couraient et clamaient à travers les rues, ils vous répondaient par les renseignements les plus contradictoires et les plus baroques. </p>
+        <p> Selon les uns, le feu était dans le faubourg de Couchot ; selon d’autres, dans celui de Marbot ; pour d’autres encore, à l’hôtel de la préfecture, ou du côté des casernes ; d’autres enfin répondaient tout franchement qu’ils n’en savaient rien. </p>
+        <p> « Alors pourquoi criez-vous ? </p>
+        <p> — Parce que j’entends tout le monde crier ! C’est pour faire comme les autres ! » </p>
+        <p> C’était notre ami Grégoire qui était cause de cet émoi et de cette perturbation générale. </p>
+        <p> Après avoir dîné et passé la soirée en compagnie de ses cohéritiers, amplement fêté avec eux l’aubaine qui leur advenait, il avait regagné ses pénates et s’était aussitôt couché et endormi. </p>
+        <p> Mais ce sommeil n’avait pas été de longue durée : à minuit et demi Grégoire s’était réveillé, avait frotté une allumette et regardé sa montre, où il avait cru lire sur le cadran six heures trois minutes. Comme l’angelus se sonnait à six heures en cette saison, il sauta aussitôt à bas du lit, maugréant contre son retard, et s’empressa de s’habiller, d’allumer sa lanterne et de courir à l’église. </p>
+        <p> Le sacristain de Saint-Antoine, paroisse voisine de celle de Notre-Dame, entendant tinter ces trois coups réitérés, s’imagina ouïr le tocsin, bondit hors de sa couche et alla bien vite mettre en branle le battant de sa plus grosse cloche. </p>
+        <p> À son tour, le sacristain de Saint-Étienne, l’église de la Ville Haute, se hâta d’entrer en scène et de faire chorus. </p>
+        <p> Le vrai tocsin, celui qui se trouvait dans la tour de l’Horloge, au beffroi de la ville, ne pouvait tarder longtemps, dans de telles conditions, à lancer, de sa formidable voix, ses appels les plus sonores et les plus impérieux. </p>
+        <p> L’inconscient promoteur de tout ce vacarme, le père Grégoire, finit par prêter l’oreille… </p>
+        <p> Il venait justement de terminer sa sonnerie accoutumée ; il se hâta de la reprendre en la transformant, de sonner, lui aussi, le tocsin, non sans se demander, comme ses confrères des autres paroisses et comme tout chacun : </p>
+        <p> « Où donc est-il, cet incendie ? C’est probablement de l’autre côté, derrière l’église, se répondait-il. Voilà pourquoi je ne puis rien voir. » </p>
+        <p> Mais qu’on juge de la surprise du brave homme, lorsque, le lendemain, après enquête sur le tapage et l’algarade de la nuit, le père Grégoire se vit dresser procès-verbal par M. le commissaire de police Poustor, « pour avoir, à une heure indue, gravement troublé le repos public ». </p>
+        <p> Il fut condamné à une forte amende, et, de plus, perdit sa place de sonneur de Notre-Dame. </p>
+        <p> † </p>
+        <lb/>
+        <p> C’était l’usage alors dans cette région de France, même parmi les pauvres gens, de posséder aux abords de la ville un jardin avec ou sans maisonnette, le plus souvent clos de murs ou entouré d’une haie vive – ce qu’on appelait un terrain . Chaque famille allait là passer ses jours de fête et ses soirées d’été, on y travaillait, on y jouait, on y mangeait au frais, sous une tonnelle de houblon, un chambret de clématite ou de charmille. </p>
+        <p> Depuis longtemps M. Grégoire caressait le projet d’avoir, lui aussi, son terrain ; et, son héritage à peine en poche, il songea à réaliser ce rêve. </p>
+        <p> Il découvrit, à peu de distance de chez lui, à un tournant de la côte de Behonne, une jolie propriété à vendre, un jardin de rapport et d’agrément, flanqué d’une vigne et terminé par un hectare de bois. Le site, très abrupt, était des plus pittoresques. De cet endroit on embrassait du regard toute la ville ; on avait à ses pieds le canal d’abord, puis la route dite de l’Ormicé, le chemin de fer et la rivière ; on dominait toute la vallée. Il n’y avait qu’un inconvénient, – mais où n’y en a-t-il pas ? – la pente du sol était des plus rapides, au point que, par les grosses pluies d’orage, les terres risquaient d’être entraînées et de rouler jusqu’au bas du coteau. </p>
+        <p> Son acquisition faite, M. Grégoire, qui entendait en profiter, se mit sans retard à bêcher, planter, tailler, sarcler ; il avait totalement délaissé son tire-pied et son alène ; il s’efforçait d’oublier pareillement ses cloches, de se consoler de sa révocation ; il arrivait à son terrain dès l’aube, n’en partait qu’à la nuit ; volontiers il s’y serait établi à demeure et n’en fût plus sorti. </p>
+        <p> Il imaginait quantité de modifications et d’embellissements : ici il voulait une pelouse, là un parterre, plus loin un berceau de verdure, un banc rustique… </p>
+        <p> C’est précisément pour construire ce banc, qu’il eut l’idée de se servir de blocs de roche qui séparaient le jardin du petit bois et émergeaient à demi du sol. </p>
+        <p> Il entreprit de déterrer plusieurs de ces blocs et de les transporter, les faire glisser jusqu’au rond-point où il avait dessein d’établir son banc. </p>
+        <p> Une de ces roches, la plus volumineuse et qui ne mesurait pas moins d’un mètre cube, l’avait particulièrement séduit par sa forme originale et gracieuse ; il était parvenu, après un travail acharné, à la faire sortir de terre, et il s’apprêtait à la diriger vers son nouveau poste, quand elle partit toute seule. Elle s’inclina d’abord doucement sur le flanc du coteau, décrivit une première révolution sur elle-même, puis une seconde, accéléra de plus en plus son mouvement de rotation et de descente, se mit bientôt à bondir et tournoyer comme un énorme ballon, brisant, écrasant ou arrachant tout sur son passage, et elle finit par plonger dans le canal et en crever la digue, à quelques pas d’un bateau qui sortait de l’écluse. L’eau s’enfuit par cette crevasse, alla inonder toute la contrée de l’Ormicé, située en contre-bas du canal : en peu d’instants le bateau fut à sec, le bief vide d’un bout à l’autre. </p>
+        <p> Il fallut, bien entendu, payer tous ces dégâts. </p>
+        <p> M. Grégoire eut beau protester, affirmer que ce n’était pas de sa faute, qu’il n’avait pu empêcher… </p>
+        <p> « Pardon ! Vous n’aviez qu’à ne pas toucher à vos roches, lui répliquait-on ; si vous les aviez laissées tranquilles, celle qui est tombée serait encore en place, et le désastre n’aurait pas eu lieu. » </p>
+        <p> Tout son héritage s’en alla en indemnités et dommages-intérêts, et il se retrouva aussi pauvre qu’avant. </p>
+        <p> Par bonheur, M. le curé de Notre-Dame eut pitié de lui. Le successeur qu’on lui avait donné s’acquittait mal de ses obligations ; s’il ne réveillait pas les gens au milieu de la nuit par d’intempestives sonneries, il s’abstenait aussi de les avertir lorsqu’il l’aurait dû ; il se levait trop tard, oubliait qu’à telle heure il devait se trouver au clocher… </p>
+        <p> Mieux valait le père Grégoire, d’ordinaire si attentif, si exact et scrupuleux, qui n’avait failli qu’une fois. </p>
+        <p> On le réintégra dans sa charge, on lui rendit son titre de sonneur de Notre-Dame, ce qui fut pour lui la meilleure des consolations, et effaça peu à peu de sa mémoire le souvenir de ce malencontreux héritage, qui ne lui avait rapporté que soucis, tracas et déboires. </p>
+        <p></p>
+      </div>
+      <div title="Chapitre 8 La bougie magique" type="nouvelle">
+        <p> Chapitre 8 </p>
+        <lb/>
+        <p> La bougie magique </p>
+        <p>LE COMTE DELOUPPY, un des seigneurs les plus en vue de la cour du roi Stanislas, à Nancy, possédait dans le Barrois, non loin des confins de la Champagne, un château où il se rendait chaque année à l’époque de la chasse. Le parc du château attenait à de grands bois qui allaient rejoindre l’immense forêt d’Argonne, et toute cette contrée était alors des plus giboyeuses. </p>
+        <p> Parmi les invités que le comte de Louppy recevait le plus volontiers, et avec qui il se livrait avec le plus d’entrain au plaisir de la chasse, se trouvait un de ses cousins, le duc de Beaulieu, qui avait longtemps appartenu à la diplomatie et rempli les fonctions d’ambassadeur extraordinaire du roi de France en plusieurs mémorables occasions. </p>
+        <p> Les deux cousins avaient l’un pour l’autre une très vive amitié, et les quelques semaines qu’ils passaient ensemble chaque année au château de Louppy étaient des plus agréables et formaient les meilleurs jours de leur existence. </p>
+        <p> Un soir d’automne, ils revenaient tous les deux d’une battue faite sur les bords du grand étang de Morinval, quand, au moment de prendre place à table pour dîner, le comte de Louppy s’aperçut que sa bourse, d’ordinaire placée dans une poche intérieure de son habit, lui manquait. </p>
+        <p> « Où l’aurai-je laissée ? fit-il. </p>
+        <p> — Tu ne l’as pas perdue en route ? demanda M. de Beaulieu. </p>
+        <p> — Non, sûrement. Je l’avais tout à l’heure, lorsque nous sommes rentrés. </p>
+        <p> — Peut-être est-elle restée dans ton vêtement de chasse ? </p>
+        <p> — Je me rappelle l’en avoir retirée, l’avoir mise sur la cheminée de ma chambre… </p>
+        <p> — Combien renfermait-elle donc, ta bourse ? interrompit le duc. </p>
+        <p> — Quelques louis seulement. Là n’est pas la question. C’est à la bourse même que je tiens. Elle a été brodée à mon intention par ma sœur, ma pauvre Annette ; c’est le seul souvenir qui me reste d’elle, et il ne me quittait jamais. </p>
+        <p> — Tu as regardé sur la cheminée ? </p>
+        <p> — J’ai commencé par là, car je suis certain de l’y avoir déposée ; mais je croyais l’avoir reprise, l’avoir sur moi, et pas du tout ! </p>
+        <p> — Tu es sûr de tes gens ? </p>
+        <p> — Sûr de mon valet de chambre, de Bourgogne, oui ; mais les autres ! Je ne sais pas, je ne puis pas savoir… Évidemment, on me l’a volée, cette bourse ! Je ne l’ai pas perdue à la chasse, puisque, il y a un instant, je l’avais encore… Mais qui me l’a dérobée ? Ce n’est pas Bourgogne, je le connais de longue date, et j’ai toute confiance en lui. Quelqu’un a dû entrer dans ma chambre… Tu ne saurais croire, mon cher, combien je suis contrarié, peiné de cette disparition ! </p>
+        <p> — Eh bien, fais venir les domestiques. Donne l’ordre qu’on les rassemble tous dans une salle du château. J’ai un moyen de découvrir ton voleur, un moyen que je n’ai pas inventé, je te le déclare, que j’ai vu employer à la cour de Naples, lors de ma dernière ambassade. Tu verras ! Laissez-moi faire. » </p>
+        <p> † </p>
+        <lb/>
+        <p> Tout le personnel du château fut bientôt réuni dans le vestibule, au pied du large escalier. Le comte de Louppy et le duc de Beaulieu se tenaient debout sur les premières marches. </p>
+        <p> Le duc expliqua en quelques mots à l’assemblée de quoi il s’agissait. </p>
+        <p> « Un larcin a été commis ; nous en avons, mon cousin et moi, l’absolue certitude. Nous ne soupçonnons aucun de vous spécialement ; nous n’accusons personne ; mais – et ici le duc tira de sa poche une bougie déjà entamée, et qu’il y avait glissée une seconde auparavant – voici une bougie, composée avec une cire spéciale, des ingrédients mystérieux et magiques, et qui a la propriété, lorsqu’elle est allumée, de ne pouvoir être éteinte par aucun souffle, si ce n’est par le souffle du larron de l’objet qu’on recherche. Vous allez donc venir l’un après l’autre dans la salle à manger, et vous subirez cette épreuve en présence de M. le comte et de moi – de nous deux seulement. » </p>
+        <p> Ainsi fut fait. </p>
+        <p> Le premier domestique qui se présenta – c’était Bourgogne, le valet de chambre du comte – se sachant innocent, ne craignit point de souffler de toutes ses forces sur la flamme de la bougie. Confiant dans les paroles du duc de Beaulieu, il croyait se justifier ainsi ; mais, à sa grande surprise, la mèche s’éteignit. </p>
+        <p> « Pourtant, je ne suis pas coupable, je vous le jure ! s’écria-t-il. </p>
+        <p> — Ne t’inquiète pas, mon ami, répliqua le duc ; ne t’inquiète pas ! Seulement tout cela doit rester entre nous, et il n’en faut rien dire. Nous allons t’enfermer là, dans l’office, et appeler un de tes compagnons. » </p>
+        <p> Bourgogne parti, le duc ralluma sa bougie et manda un autre des domestiques. Celui-ci, convaincu également de son innocence, souffla avec force sur la flamme, qui s’éteignit comme tout à l’heure, au grand étonnement et désespoir du souffleur. </p>
+        <p> « Sois sans inquiétude, mon ami, dit de nouveau le duc, et passe là ; va rejoindre ton camarade Bourgogne. Surtout ne sortez pas, ne bougez pas de l’office. » </p>
+        <p> La bougie rallumée, un troisième domestique fut appelé, puis un quatrième, un cinquième, un sixième, un septième… Toujours la bougie, qui ne possédait aucun sortilège pour résister à l’effet du vent, qui n’avait rien de merveilleux ni de surnaturel, qui n’était qu’une simple bougie, tout ordinaire, enlevée par le duc à l’un des candélabres du salon – toujours la bougie s’éteignait. </p>
+        <p> Enfin un des derniers appelés, un piqueur appartenant jadis au prince d’Hénin, et qui se trouvait depuis huit jours seulement au service du comte de Louppy, souffla si doucement que la flamme ne fit que vaciller. « Recommençons cela, dit le duc de Beaulieu. Allons, hardiment, mon garçon ! Puisque tu n’es pas coupable, tu ne dois rien craindre. » </p>
+        <p> Mais le piqueur qui, au contraire, se savait coupable, retenait le plus possible son souffle, ne soufflait que du bout des lèvres, afin de ne pas éteindre la bougie. </p>
+        <p> « N’allons pas plus loin, dit le duc. C’est toi qui as dérobé la bourse de ton maître ! </p>
+        <p> — Oui, monsieur le duc… La voilà ! » bégaya l’autre tout confus et atterré, en plongeant la main dans sa poche et en en tirant le mignon objet. </p>
+        <p> — Nous ne te dénoncerons pas, ajouta le comte de Louppy ; ton aveu ne sera connu que de M. le duc et de moi ; mais demain même tu quitteras ma maison pour aller te faire pendre ailleurs ! » </p>
+        <p></p>
+      </div>
+      <div title="Chapitre 9 À la recherche de sa mère" type="nouvelle">
+        <p> Chapitre 9 </p>
+        <lb/>
+        <p> À la recherche de sa mère </p>
+        <p> AURETOUR DU CIMETIÈRE, où il venait, en compagnie de ses sœurs et de quelques voisins, de conduire son père, brusquement emporté par une congestion cérébrale, le petit Guillaume Menaucourt annonça à sa grand’maman, sa « bonne maman », qui était paralysée et ne bougeait plus de son fauteuil, qu’il était décidé à partir pour Paris et à se mettre à la recherche de sa mère. Trois semaines auparavant celle-ci avait quitté son chétif logis de la rue des Grangettes, sur les hauteurs de Bar-le-Duc, et s’en était allée, d’après les conseils d’un médecin du quartier, demander aux docteurs parisiens, aux « princes de la science », un allégement à d’intolérables douleurs : des maux d’estomac causés, croyait-on, par un cancer. </p>
+        <p> Mme Menaucourt avait laissé ses trois enfants, Guillaume, l’aîné, âgé de onze ans, et ses deux sœurs, Alice et Léontine, sous la garde de son mari, alors en excellente santé, robuste, alerte et vaillant ; – et voilà que la mort avait traîtreusement et d’un seul coup fait son œuvre, que les trois enfants étaient soudainement devenus orphelins. </p>
+        <p> « Il faut que j’aille chercher maman ! » </p>
+        <p> Telle est l’idée qui s’empara de l’esprit de Guillaume, et la résolution qu’il annonça à sa grand’mère. </p>
+        <p> Que pouvait la pauvre vieille impotente pour s’opposer à ce dessein ? Elle-même comprenait combien la présence de sa fille était plus que jamais nécessaire à la maison, et s’alarmait et se lamentait de son silence : depuis quinze jours on n’avait reçu d’elle aucune nouvelle. </p>
+        <p> † </p>
+        <lb/>
+        <p> Le lendemain, dès l’aube, Guillaume se mit en marche, emportant, pour toutes provendes, la moitié de la miche de pain qui restait dans l’armoire. Une voisine, une malheureuse tisserande, dévideuse de bobines ou caribaris , avait obligeamment promis de veiller sur la grand’maman et les deux fillettes. </p>
+        <p> La route, au départ de Bar tout au moins, courait à proximité du chemin de fer, et Guillaume n’avait qu’à la suivre – à suivre pendant soixante lieues. Elle portait d’ailleurs un numéro sur les plaques indicatrices et les poteaux de carrefour : c’était, au début, la Route départementale no 1 , et notre jeune voyageur savait lire et possédait bon œil aussi bien que bon pied. </p>
+        <p> Toute la journée il marcha sans s’arrêter, et, la nuit venue, – on était en automne, en octobre, – il avisa sur la chaussée une baraque de cantonnier, ce qu’il appelait une cabourette , en son patois lorrain ; et, ayant constaté que la porte de ce réduit n’était que poussée, il y pénétra, tâta sous ses pieds et trouva une couche de paille qui lui servit de lit. </p>
+        <p> Au petit jour, il reprit sa marche ; mais il n’avait pas seulement bon pied et bon œil, il avait aussi de bonnes dents, un fringant et vigoureux appétit, que le grand air excitait encore ; et la veille, tout en cheminant, il avait dévoré son chanteau de pain, épuisé toutes ses munitions. </p>
+        <p> La faim commença bientôt à se faire sentir, à l’obséder et à le tourmenter de plus en plus. </p>
+        <p> « Au premier village que je traverserai, je me déciderai à demander du pain », murmura-t-il. </p>
+        <p> Mais, ce village venu, il ne se décidait pas, il n’osait pas ; et fermes et hameaux, bourgs et villes se succédaient, sans qu’il eût le courage de heurter à une porte ou d’accoster un passant pour implorer secours. </p>
+        <p> Vers le soir, il se trouva à bout de forces ; il avait des éblouissements, la tête lui tournait. Pour comble, la pluie, une pluie fine, drue et pénétrante, s’était mise à tomber. Il s’assit sur l’herbe du talus, se blottit contre un arbre. </p>
+        <p> Si quelqu’un se fût alors montré, oh ! sûrement il se serait enhardi, l’aurait abordé, aurait fait appel à sa pitié… Mais il était en rase campagne, n’entendait aucun bruit de voiture, n’apercevait aucune lumière. </p>
+        <p> Rien que la pénombre partout, le silence, le froid et la pluie. </p>
+        <p> Il se leva et repartit. </p>
+        <p> Une masse confuse de murailles et de toits apparut peu après à ses regards : c’était une ferme, construite à peu de distance de la route. Il se dirigea à travers champs vers cette habitation, et, remarquant une sorte d’appentis en planches adossé au mur extérieur, au pied de la tourelle d’un pigeonnier, il songea à s’abriter sous ce hangar. Mais en ce moment des aboiements éclatèrent de l’autre côté du mur : le chien de la ferme avait flairé sa présence. </p>
+        <p> Il s’éloigna bien vite, craignant d’être découvert, pris pour un malfaiteur, et ne se sentant décidément pas le courage de demander, de mendier. </p>
+        <p> La pluie, qui tombait plus fort, le contraignit à essayer encore de se rapprocher de l’abri qu’il avait entrevu, de s’en rapprocher tout doucement, à menus pas. </p>
+        <p> Mais le maudit chien connaissait son devoir et son métier, faisait bonne et soigneuse garde, et il se remit à japper de plus belle, sans discontinuer, jusqu’à ce que l’intrus eût levé le camp et gagné le large. </p>
+        <p> Une troisième tentative n’eut pas plus de succès et fut accueillie par le même assourdissant vacarme. </p>
+        <p> Cette fois la porte de la ferme s’ouvrit et une voix d’homme cria : </p>
+        <p> « Qui est là donc ? Qui là ? » </p>
+        <p> En même temps Guillaume vit venir à lui un fort gaillard, nu-tête, qui l’interpella : </p>
+        <p> « Que fais-tu là, toi, mauvaise graine ? Allons, décampe ! Et rondement ! » </p>
+        <p> Derrière l’homme une femme s’avançait. </p>
+        <p> « Quel est ce gamin ? demanda-t-elle. </p>
+        <p> — Je ne sais pas, répondit l’homme. Quelque jeune traînard, un de ces maraudeurs qui se figurent toujours avoir oublié quelque chose quand ils n’ont rien volé. » </p>
+        <p> Mais Guillaume s’était fait violence, armé de tout son courage : </p>
+        <p> « Madame, je… je vous en prie,… murmura-t-il. </p>
+        <p> — Parle, mon enfant. </p>
+        <p> — Oui, et dis-nous un peu qu’est-ce que tu as à rôder à c’t’heure-ci sur nos terres ? repartit le paysan. </p>
+        <p> — Claudon, ne rudoyez pas ce p’tiot ! Rentrez ; vous lui faites peur ! ordonna la femme. Tu n’es pas du pays ? reprit-elle. Comment te trouves-tu là ? </p>
+        <p> — Je… Un peu de pain, madame ! implora Guillaume. </p>
+        <p> — Tu as faim ? Entre, p’tiot ! Viens manger d’abord ; nous causerons après. </p>
+        <p> — Vous avez de la bonté de reste, m’ame Lhéry, de vous occuper de ce vaurien, et si vot’ homme était là… </p>
+        <p> — Taisez-vous, Claudon ! Si mon mari était de retour, il serait le premier à… Arrive, mon enfant ! Assieds-toi ! » </p>
+        <p> Et la fermière, Mme Lhéry, ayant ainsi imposé silence à son domestique, installa Guillaume devant la table de la cuisine, à proximité de la haute cheminée, où flambait un clair feu de fagots, et apporta à l’enfant une pleine assiettée de soupe toute fumante. </p>
+        <p> « Mange, mon fi… Ne te presse pas ! Pas si vite ! Tu nous raconteras ensuite comment tu te trouves à la nuit dans nos parages… Pas si vite ! Tu vas t’étouffer ! » </p>
+        <p> † </p>
+        <lb/>
+        <p> Le lendemain, Guillaume Menaucourt, reposé et réconforté, reprenait sa route. </p>
+        <p> Après avoir un instant pensé à dissuader l’enfant de sa téméraire entreprise, Mme Lhéry s’était ravisée ; elle avait embrassé le vaillant petit homme, lui avait insinué sous sa blouse un énorme croûton de pain renfermant une tranche de lard, avait glissé dans sa main quelques sous – on n’est pas riche au village : </p>
+        <p> « Et bon courage, p’tiot ! Que Notre Seigneur t’accompagne, et qu’il te rende vite ta mère ! </p>
+        <p> — Merci, madame ! Oh merci ! » avait répondu Guillaume. </p>
+        <p> Et, comme il s’éloignait, la fermière lui cria encore : </p>
+        <p> « Adieu ! Bon courage, p’tiot ! Et bonne chance ! » </p>
+        <p> Quand, après trois jours encore d’efforts, de fatigues et de souffrances, Guillaume arriva à Paris et se présenta à l’adresse qu’avait laissée aux siens Mme Menaucourt – rue de Crimée, 82, à la Villette – la concierge lui apprit que la malade avait quitté la maison, l’amie chez qui elle était d’abord descendue, et était entrée à l’hôpital Necker. </p>
+        <p> Elle lui indiqua la direction de cet établissement. </p>
+        <p> « Nous n’en sommes pas tout près, mon petit ami. Tu te renseigneras en route… Adresse-toi toujours de préférence aux sergents de ville… Ne crains pas de les questionner ! » </p>
+        <p> Guillaume remercia la brave femme, en lui promettant de se conformer à ses prudentes recommandations. </p>
+        <p> Il longeait le canal Saint-Martin et cheminait sur le quai, près du bord, quand, devant une passerelle, il hésita, voulut rétrograder ; mais à ce moment il se sentit violemment heurté par un passant et il tomba dans l’eau. </p>
+        <p> Lorsqu’il revint à lui, il se trouvait au milieu d’une grande salle, étendu sur un lit de camp, dévêtu et enveloppé de couvertures. Plusieurs hommes, des sergents de ville principalement, étaient rassemblés au fond de la pièce. On parlait, on discutait. </p>
+        <p> « J’ai droit à la prime de sauvetage, m’sieu le commissaire, – à mes vingt-cinq francs ! Je connais le tarif ! clamait un individu sordidement accoutré et de vilaine mine. </p>
+        <p> — Vous ne le connaissez même que trop bien, le tarif ! » riposta le personnage, accoudé sur son bureau, qu’on venait de qualifier de « m’sieu le commissaire ». Vous êtes bien Jupillart Ernest, surnommé le Rabouilleur ? </p>
+        <p> — Lui-même, en chair et en os, m’sieu le commissaire. </p>
+        <p> — Déjà le mois dernier vous êtes venu réclamer cette prime… C’était encore un enfant que vous aviez sauvé… </p>
+        <p> — Je me promène souvent sur le quai du canal… Faut vous dire que j’aime à prendre l’air… </p>
+        <p> — Il y a trois mois, vous retiriez une petite fille de l’eau, je me rappelle… </p>
+        <p> — Moi aussi ! J’ai même failli y rester, sous l’eau ! </p>
+        <p> — Vous opérez trop de sauvetages, Jupillart, pour qu’il n’y ait pas là quelque chose de louche… Je n’ai pas confiance, quoi ! </p>
+        <p> — Pas confiance ? </p>
+        <p> — Non ! </p>
+        <p> — La preuve que vous êtes dans le vrai, monsieur le commissaire, dit un agent de police qui venait d’entrer, c’est que j’ai là deux particuliers qui justement ont assisté à la scène. Ils étaient en train de décharger un bateau, et ils affirment avoir vu le Rabouilleur – ils le connaissent ! – pousser le petit garçon, le jeter à l’eau, puis aller le retirer… </p>
+        <p> — Afin de pouvoir ensuite réclamer la prime, acheva le commissaire. C’est cela même ! Brigadier, amenez donc ces deux témoins. » </p>
+        <p> Ceux-ci, introduits sur-le-champ, confirmèrent de point en point le récit du brigadier. </p>
+        <p> « Vous entendez, Jupillart ? Ce n’est donc pas vingt-cinq francs que vous allez toucher, c’est autre chose… Je vous garde : vous vous expliquerez devant la justice. Reste à savoir à présent, ajouta le commissaire, si ce gamin n’est pas votre complice. Oh ! je ne garantis rien ! Vous faisiez peut-être de moitié ensemble ! » </p>
+        <p> Mais le magistrat ne tarda pas à être édifié sur la complète innocence de Guillaume. Non, le pauvre petit ne « faisait pas de moitié » avec ce sacripant ; il n’avait avec lui aucune relation, ne l’avait jamais vu. </p>
+        <p> « J’allais à l’hôpital… chercher maman,… je ne savais quelle rue prendre… » </p>
+        <p> Un sergent de ville apporta à Guillaume ses vêtements, qu’on avait étalés devant le feu. Il se rhabilla. </p>
+        <p> « Tu es libre, mon enfant, lui dit le commissaire, et comme tu ne connais pas Paris, je vais te faire mettre sur ta voie… » </p>
+        <p> Lorsque Guillaume arriva à l’hôpital et s’enquit de sa mère, Mme Menaucourt : </p>
+        <p> « Mme Menaucourt, née Broises Louise-Anna, de Bar-le-Duc, Meuse ? fit l’employé. </p>
+        <p> — Oui, monsieur. </p>
+        <p> — Décédée avant-hier. » </p>
+        <p></p>
+      </div>
+      <div title="Chapitre 10 Monsieur Martin-Pêcheur" type="nouvelle">
+        <p> Chapitre 10 </p>
+        <lb/>
+        <p> Monsieur Martin-Pêcheur </p>
+        <p>LE MENSONGE EST UN bien vilain défaut, qui joue souvent à ceux qui en sont affligés de fort désagréables tours. C’est leur punition, et quand un menteur est ainsi pris au piège, nul ne le plaint d’ordinaire, et chacun en glose et s’en amuse. </p>
+        <p> J’en vis un exemple il y a de longues années, près de quarante ans, mais le souvenir de l’aventure m’est encore aussi présent à l’esprit que si elle datait d’hier. </p>
+        <p> J’avais à cette époque la passion de la pêche à la ligne, et, malgré la grande différence d’âge qui existait entre nous, je m’étais lié avec un de nos voisins, un aimable et placide rentier, qui professait les mêmes goûts que moi, et, comme moi, ne quittait pour ainsi dire pas les bords de notre rivière de l’Ornain ou le talus du canal. C’était là d’ailleurs que nous nous étions rencontrés et avions peu à peu fait ample connaissance. </p>
+        <p> Il s’appelait M. Martin ; mais, pour le distinguer de ses homonymes, assez nombreux dans la ville, on n’avait pas tardé à adjoindre une épithète à son nom et à le baptiser, d’après la plus constante de ses occupations, M. Martin-Pêcheur. </p>
+        <p> Il pouvait avoir alors une soixantaine d’années. C’était un homme de taille moyenne, bien pris, vert et vigoureux encore, aux cheveux grisonnants, aux joues couleur de brique et toujours très méticuleusement rasées. Quoique n’ayant guère l’apparence martiale, il sortait de l’armée, où il avait rempli dans les bureaux – intendances ou ambulances – je ne sais quel emploi, et il vivait de sa pension de retraite. </p>
+        <p> Tant il y a qu’aussitôt hors de fonctions, à peine installé dans notre voisinage, au sommet de la Grand’Rue ou rue des Ducs, M. Martin se consacra tout entier – sauf, bien entendu, durant le temps prohibé – à la pêche à la ligne. Ce goût et cette ardeur pouvaient sembler d’autant plus étonnants qu’ils n’étaient encouragés par rien et que presque toujours notre pêcheur rentrait bredouille. </p>
+        <p> Mais quels beaux coups il avait manqués ! Que de superbes brochets, de magnifiques truites, d’admirables perches, d’incomparables carpes avaient toujours happé ses amorces, rompu ses lignes, emporté ses hameçons ! </p>
+        <p> « Ah ! il s’en est fallu de bien peu !… » </p>
+        <p> C’était plaisir de l’entendre narrer ses quotidiennes prouesses et ses non moins continuelles déceptions. Il y mettait un accent de vérité qu’on ne pouvait méconnaître, tout à fait persuasif, émouvant et entraînant : comme beaucoup de ses pareils, M. Martin-Pêcheur finissait par être convaincu tout le premier des mensonges qu’il débitait, par croire que « c’était arrivé ». </p>
+        <p> Plus que personne Mme Martin – une petite femme toute courte et toute ronde, qui ne sortait jamais qu’en chapeau et endimanchée, et était toujours prête à se remuer, à se trémousser et à sautiller, malgré ses cinquante printemps et son obésité – était accoutumée aux fantasques récits de son mari, et elle ne riait et s’en gaudissait sans scrupule, à son nez, sinon à sa barbe. </p>
+        <p> « En attendant, tu ne nous rapportes jamais rien ! Pas même une petite friture ! concluait-elle volontiers. </p>
+        <p> — Mais, ma bonne, ce n’est pas ma faute, répliquait-il invariablement. Ah ! si je ne les laissais pas échapper, tu verrais ! tu verrais ! » </p>
+        <p> Un matin de septembre, M. Martin-Pêcheur reçut une lettre d’un de ses neveux, juge de paix dans le nord du département, du côté de Montmédy, qui l’informait de son arrivée pour le lendemain et de son intention d’aller lui demander à déjeuner. Les deux époux se firent fête de recevoir ce parent, qu’ils affectionnaient beaucoup et n’avaient pas vu depuis plusieurs années. Sur-le-champ, Mme Martin composa le menu du déjeuner en question et se promit de le soigner. </p>
+        <p> « Nous aurons, dit-elle, un poulet rôti à la broche : je commanderai un pâté chez Gromaire, un de ces succulents pâtés… </p>
+        <p> — Et moi, je vais aller à la pêche ! s’écria M. Martin. Les truites abondent entre Savonnières et Longeville, assure-t-on ; si je pouvais en attraper une d’une livre ou deux… </p>
+        <p> — Ce serait trop beau ! acheva madame avec un de ses fins sourires habituels. </p>
+        <p> — Oui, moque-toi de moi ! À ton aise ! riposta monsieur sans se fâcher. Je vais m’efforcer de te convaincre que je ne suis pas si maladroit… </p>
+        <p> — Il est temps, mon ami ! » </p>
+        <p> Jusqu’à quatre heures de l’après-midi, M. Martin-Pêcheur erra, ligne en main, le long de la rivière, entre les saules qui la bordent au-dessus du village de Savonnières, notamment autour des belles fosses, réputées si poissonneuses, qu’on rencontre dans ces parages. </p>
+        <p> Il n’avait encore capturé qu’un chétif goujon et venait de se poster à un tournant, près de la fosse dite « la Grande-Brèche », quand il vit venir à lui un braconnier et maraudeur – un bribeur en patois local – célèbre dans la contrée, et qui répondait au nom de Coquillard. </p>
+        <p> Tisserand de son métier, mais métier qu’il n’exerçait que par intermittence et rarement, Ulysse Coquillard passait le plus clair de son temps à rôder dans les bois, à plonger dans les biefs du canal et les trous de la rivière, et ne vivait guère que du produit de ses chasses illicites et de ses pêches clandestines. Il avait du reste, à cette époque, de nombreux imitateurs et concurrents, les Garnerot, les Jean le Malabre, etc… qui trouvaient, comme lui, dans nos forêts de Massonges et du Haut-Juré, aussi bien que dans l’Ornain, la Saulx et le canal, leurs moyens d’existence préférés. </p>
+        <p> Coquillard s’approcha de M. Martin, le salua poliment et lui demanda s’il était content de sa pêche, « si cela mordait ». </p>
+        <p> « Pas fort ! répondit l’autre tristement, en exhibant son unique et piètre capture. Voilà tout ce que j’ai pris, tenez, Coquillard, et je suis ici depuis ce matin ! </p>
+        <p> — Diantre ! En effet, vous n’avez pas de chance, m’sieu Martin. Il y a cependant du poisson de ces côtés ! </p>
+        <p> — C’est ce que tout le monde prétend, et je serais très désireux d’en avoir aujourd’hui la preuve par moi-même. J’ai demain mon neveu à déjeuner, et je voudrais lui offrir une jolie pièce, un beau brochet, par exemple, ou une truite… </p>
+        <p> — Je comprends cela ! C’est tout naturel. Allons, il ne faut pas désespérer, m’sieu Martin, ça viendra peut-être. Bon courage ! » </p>
+        <p> Et Coquillard continua sa marche, et disparut bientôt derrière les saules trapus, échelonnés le long des méandres de l’Ornain. </p>
+        <p> Mais son souhait ne se réalisa point : la nuit tombait, l’heure de plier bagage sonna, M. Martin-Pêcheur n’avait pour tout butin que son infortuné goujon. </p>
+        <p> Il s’en retournait mélancoliquement, et néanmoins se disposait sans doute déjà à conter à sa femme, comme toujours, ses mirifiques exploits, inaccomplis et ratés comme toujours aussi, lorsqu’il s’entendit appeler derrière lui : « M’sieu Martin ! M’sieu Martin ! » </p>
+        <p> C’était Coquillard, qui accourait, tout essoufflé. </p>
+        <p> « J’ai votre affaire, m’sieu Martin ! Deux belles truites !… » </p>
+        <p> Et il ouvrit un sac de toile, où l’on entrevoyait deux poissons enveloppés d’herbe. </p>
+        <p> « Elles pèsent bien deux livres chacune. </p>
+        <p> — Une livre tout au plus, rectifia M. Martin, empressé déjà de déprécier la marchandise pour la payer moins cher. Et combien en voulez-vous ? ajouta-t-il. </p>
+        <p> — Dix francs, m’sieu Martin. </p>
+        <p> — Vous plaisantez, Coquillard. À ce prix, mon garçon, vous pouvez les garder pour vous, vos truites ! » dit M. Martin-Pêcheur en tournant les talons. </p>
+        <p> Mais Coquillard le ressaisit. </p>
+        <p> « Combien en offrez-vous ? </p>
+        <p> — Quatre francs, pas un liard de plus. </p>
+        <p> — Oh ! Vous n’auriez pas le cœur… Regardez-les donc. </p>
+        <p> — Je les ai bien vues. </p>
+        <p> — Soupesez-les un peu. </p>
+        <p> — Inutile, je me rends bien compte… Je vous en donne quatre francs, Coquillard, et c’est plus cher encore que je ne les paierais chez un marchand de la ville. </p>
+        <p> — Vous n’êtes pas raisonnable, m’sieu Martin. </p>
+        <p> — C’est vous, Coquillard, qui ne l’êtes pas ! </p>
+        <p> — Vous qui avez du monde à recevoir demain ! </p>
+        <p> — Précisément ! Vous abusez de la situation… </p>
+        <p> — Mais non, m’sieu Martin, mais non, je n’abuse pas. Je ne me permettrais pas avec vous… La preuve, donnez-moi cinq francs, et l’affaire est conclue. Osez dire que je ne suis pas accommodant ! </p>
+        <p> — Allons, tenez », fit M. Martin-Pêcheur, décidé à en finir, en tirant de sa poche une pièce de cent sous qu’il glissa dans la main du braconnier. </p>
+        <p> Il reçut en échange les deux truites, les enferma précieusement dans son panier, puis reprit son chemin et ne tarda pas à réintégrer sa demeure. </p>
+        <p> † </p>
+        <lb/>
+        <p> Il était tout fier, tout joyeux et radieux. </p>
+        <p> À peine entré, il appela sa femme, et, clignant malicieusement de l’œil, frappa du plat de la main sur son panier, qu’il portait en bandoulière. </p>
+        <p> « Ah ! ah ! tu vas voir ! tu vas voir ! </p>
+        <p> — Qu’y a-t-il donc ? </p>
+        <p> — Tu vas voir ! » répéta-t-il triomphalement. </p>
+        <p> Et il étala les deux poissons sur la table de la cuisine. </p>
+        <p> « Sont-elles belles, hein ? » </p>
+        <p> Mme Martin n’en croyait pas ses yeux et demeurait tout interdite. Jamais elle n’avait assisté à pareille fête. </p>
+        <p> « Deux… deux truites ! </p>
+        <p> — Oui, deux ! Et de taille, de poids ! Soupèse-les un peu », ajouta-t-il, comme venait de lui dire à lui-même Coquillard quelques minutes auparavant. </p>
+        <p> « Comment as-tu fait ? bégaya-t-elle. </p>
+        <p> — Imagine-toi, j’étais près de revenir il y a une couple d’heures, je n’avais encore autant dire rien pris, quand je m’avisai de pêcher à l’amorce vive… tu sais ? avec du fretin, un véron, pour appât. À peine avais-je lancé ma ligne à l’eau… j’étais à la Grande-Brèche… je sens une très forte résistance, je pique ferme, crac ! et je retire… celle-ci, tiens ! Je regarnis mon hameçon, je rejette ma ligne… » </p>
+        <p> Ici l’orateur, qui, habitué à mentir et à se duper lui-même, s’exprimait avec toute l’assurance que donne la vérité, fut interrompu par un violent coup de sonnette. </p>
+        <p> « Qui peut venir nous déranger si tard ? » murmura Mme Martin en se dirigeant vers la porte. </p>
+        <p> C’était Ulysse Coquillard. </p>
+        <p> « Madame, m’sieu votre mari s’est trompé. Il m’a donné une pièce fausse… On vient de me la refuser à la minute… </p>
+        <p> — Une pièce ?… </p>
+        <p> — Fausse, oui, madame. J’étais allé chez Tissopin, le marchand de tabacs du bas de la Grand’Rue ; mais il s’en est aperçu aussitôt… Je viens d’essayer de la glisser à l’épicier du coin, là, au père Lorain ; mais, lui aussi a reconnu tout de suite… Pas mèche !… Elle est en plomb, madame ! Examinez-la ! </p>
+        <p> — Je ne sais ce que vous me chantez, interrompit Mme Martin en congédiant ce vagabond. Il y a erreur. Mon mari ni moi ne vous avons rien donné. » </p>
+        <p> Mais Coquillard ne lâchait pas ainsi la partie, et il se mit à riposter si vivement et à crier si fort, que toutes les fenêtres d’alentour s’ouvrirent bientôt, et les passants commencèrent à s’attrouper devant la maison. </p>
+        <p> « Erreur ? Erreur ? Vous prétendez… Non, madame, il n’y a pas erreur ! C’est bien m’sieu Martin qui m’a remis cette pièce il y a un instant… Nous étions dans la côte de Polval… Appelez-le ! Demandez-lui ! Je n’ai pas d’autre monnaie sur moi, pas d’autre pièce que la sienne. Donc impossible de confondre ! Et elle est bien en plomb : voyez vous-même ! Tenez, je vais appeler le père Lorain… Il ne faut pas nier ! Si m’sieu votre mari était là… » </p>
+        <p> Quand M. Martin-Pêcheur se décida à se montrer, ce fut, je vous prie de le croire, avec la plus penaude et piteuse mine qu’on puisse imaginer. </p>
+        <p> « Donne-lui cinq francs, dit-il tout bas à sa femme, et qu’il nous débarrasse… </p>
+        <p> — Mais pourquoi cet argent ? </p>
+        <p> — C’est pour les truites, madame ! hurla Coquillard, c’est moi qui les ai vendues à m’sieu votre époux… </p>
+        <p> — Que me parliez-vous plus tôt ! s’exclama Mme Martin. Tout s’explique à présent ! Voici une autre pièce, ajouta-t-elle en remettant cinq francs au braconnier, et elle est bonne, celle-ci, je vous le garantis. Vérifiez-la de près… </p>
+        <p> — Oui, madame, merci bien. </p>
+        <p> — Et bien le bonsoir, ajouta Mme Martin en refermant l’huis. Ah ! c’était pour les truites que tu as si dextrement prises à l’amorce vive ? continua-t-elle en toisant son mari et en éclatant de rire. Je me disais aussi : « C’est drôle ! Lui qui rentre toujours avec son panier vide… Enfin, le hasard est si grand ! » Ah ! c’était pour ces deux truites ! Mais, à ce prix-là, mon ami, j’en aurais trouvé de bien plus belles au marché. Une autre fois, je t’en supplie, laisse-moi les acheter moi-même. » </p>
+        <p></p>
+      </div>
+      <div title="Chapitre 11 Les cent francs de Madame Ragé emphou Réfléchir avant d’agir" type="nouvelle">
+        <p> Chapitre 11 </p>
+        <lb/>
+        <p> Les cent francs de Madame Ragé  emphou  Réfléchir avant d’agir </p>
+        <p>MMERAGÉ NE FUT pas peu surprise, en descendant de wagon, à la gare de Bar-le-Duc, de constater qu’il ne pleuvait pas.  Elle arrivait de Revigny, gentille bourgade située à quatre lieues de Bar, et, pour aller prendre le train, trois quarts d’heure auparavant, il lui avait fallu marcher, une bonne partie du chemin, courbée sous son parapluie tout ruisselant d’eau. Elle avait même songé un instant à différer son départ, tant la rafale faisait rage, à regagner la demeure de son frère, d’où elle sortait. Heureusement encore qu’elle avait rencontré sur sa route le père Léchaudel, le commissionnaire de Revigny, qui lui avait offert une place dans sa carriole et l’avait ainsi menée, abritée tant bien que mal, jusqu’à la station. </p>
+        <p> Et maintenant le vent s’était apaisé, des coins de ciel bleu apparaissaient, le soleil recommençait à briller. </p>
+        <p> « Ah ! on voit bien que nous sommes en plein mois de mars, dans la saison des giboulées ! » se disait-elle. </p>
+        <p> Mme Ragé était d’ailleurs enchantée de son voyage à Revigny. Elle était allée conduire sa fille Herminie chez son frère, bourrelier-sellier sur la place de la Mairie, et en même temps toucher, dans l’étude de Me Didelin, le notaire de l’endroit, une créance sur laquelle elle ne comptait plus, une centaine de francs dus jadis à son mari et réclamés en vain depuis plus de dix ans. Ces cent francs, elle les avait reçus en pièces d’or, cinq belles pièces toutes neuves, toutes luisantes et étincelantes, qu’elle avait aussitôt et précieusement renfermées dans son porte-monnaie. </p>
+        <p> Et, en évoquant ce tout récent souvenir, Mme Ragé glissa machinalement la main dans sa poche pour s’assurer que ledit porte-monnaie s’y trouvait toujours. </p>
+        <p> Mais non, il n’y était plus ! </p>
+        <p> Elle s’arrêta net, fouilla de nouveau… </p>
+        <p> Ne l’aurait-elle pas laissé tomber dans le wagon ? </p>
+        <p> Vite elle rebroussa chemin, et, pendant que les voyageurs se dirigeaient vers la sortie, elle regagna en courant le compartiment qu’elle venait de quitter. </p>
+        <p> Il était vide. Mme Ragé l’explora d’un bout à l’autre dans tous les sens, se baissa pour regarder sous les deux banquettes… </p>
+        <p> Rien ! </p>
+        <p> « Mon porte-monnaie a dû tomber là cependant, ruminait-elle ; ce n’est que là que je puis l’avoir perdu. Je l’avais encore tout à l’heure, en quittant Revigny, je me le rappelle parfaitement. Après l’avoir ouvert pour payer mon billet, je l’ai gardé dans ma main… Quelqu’un ne l’aurait-il pas ramassé ? Sûrement on a dû le ramasser ! Un voyageur est descendu derrière moi, un individu de petite taille, qui boitait… J’ai même cru un moment qu’il trébuchait, je me suis retournée… Pas du tout ! Il s’était courbé, avait étendu le bras, tenait quelque chose… C’était mon porte-monnaie ! Mais certainement ! J’y suis ! </p>
+        <p> « Le chef de gare ! Je voudrais parler au chef de gare ! » conclut à haute voix et impérieusement Mme Ragé. </p>
+        <p> Dès qu’il comprit de quoi il s’agissait, le chef de gare invita la plaignante à renouveler sa déposition devant le commissaire de surveillance, qui se trouvait d’ailleurs à quelques pas de là, dans son bureau. </p>
+        <p> « Vous êtes bien sûre de ce que vous avancez, madame ? demanda le commissaire. Vous avez bien vu cet homme se baisser dans le wagon, puis se relever, un porte-monnaie à la main ? </p>
+        <p> — Vu de mes deux yeux, monsieur ! Comme je vous vois ! </p>
+        <p> — Et cet homme est de petite taille, boiteux ? </p>
+        <p> — Boiteux, oui, monsieur. </p>
+        <p> — Vêtu comment ? </p>
+        <p> — Vêtu très pauvrement. Son paletot est tout râpé et a un col de velours éraillé et graisseux ; son chapeau, un ancien chapeau melon gris souris, n’a plus de forme ni de couleur… </p>
+        <p> — Cela suffit, madame, nous allons faire des recherches. J’ai bien votre adresse : Madame veuve Séraphine Ragé, rentière, rue du Jard, 5, à la Ville-Haute ? </p>
+        <p> — C’est bien cela, monsieur. » </p>
+        <p> † </p>
+        <lb/>
+        <p> Mme Ragé, qu’on désignait couramment sous le nom de « Mme Enragée » ou « la mère Enragée », habitait au rez-de-chaussée d’une modeste maison de cette rue du Jard, non loin de l’épicerie Lorain et presque en face de l’entrée du pâquis. On appelait et on appelle encore ainsi une ancienne esplanade plantée de tilleuls et d’ormes, située sur les hauteurs de la ville, sorte de jardin public abandonné, dédaigné des promeneurs élégants, qui lui préfèrent de beaucoup les bords du canal ou le boulevard de La Rochelle, mais que tous les gamins d’alentour connaissent bien et qui leur sert de lieu de récréation, de champ de course et de quartier général. Ah ! les bonnes parties qu’on y faisait, dans ce vieux pâquis ! Que de poursuites, de galopades endiablées, de jeux de cache-cache, de chat perché ou de dialoupe ! Que de cris, de querelles et de batailles ! </p>
+        <p> Toute cette jeunesse et ce vacarme causaient le désespoir de Mme Ragé, l’énervaient, l’affolaient, la rendaient vraiment « enragée ». Sans cesse on la voyait, son balai à la main, s’escrimer contre ces garnements ; on l’entendait les apostropher : </p>
+        <p> « Mauvais sujets ! Polissons ! Ah ! si je vous attrapais ! Si j’en tenais un seulement ! Toi surtout, Varnerot ! C’est toi le plus mauvais, c’est toi qui entraînes toujours les autres ! Oui, je le remarque bien… Je le disais encore hier à ton papa… Méfie-toi ! je te tirerai les oreilles quand je te rencontrerai, mon fi ! » </p>
+        <p> Mme Ragé était célèbre alors dans toute notre Ville-Haute par sa brusquerie, ses quintes d’humeur, ses violences de langage, ses incartades et bourrasques perpétuelles. </p>
+        <p> La modération et la circonspection n’étaient nullement son fait ; elle ne savait ce que c’était que réfléchir, observer et peser ses paroles ; pour employer une expression locale qu’on lui appliquait encore volontiers : c’était une évallonnée. </p>
+        <p> De retour au logis, elle s’empressa de compter à tous ses voisins et voisines, au cordonnier Husson, à l’épicier Lorain, à Vosgien le boulanger, au tambour de ville Pichancourt, dit Sans-Façon, à M. Juminel, le suisse de la paroisse, à la sacristine, Mlle Sophie Cabaillot, à tous les passants, à tout chacun, le vol dont elle avait été victime, et naturellement elle ne manquait pas de délayer et enjoliver son récit. </p>
+        <p> « Oser commettre un tel larcin en plein jour, publiquement, à votre nez, en quelque sorte ! Il faut une audace ! Car autant dire qu’ il me l’a arraché de force, mon porte-monnaie, c’est tout comme ! Il y a vraiment sur terre des êtres bien dangereux, des criminels, qu’on ne saurait trop châtier ! </p>
+        <p> — Mon Dieu, madame Ragé, répliquait doucement et avec son air placide le brave père Lorain, attendez au moins que la culpabilité de votre voleur soit démontrée ! </p>
+        <p> — Si ce n’était pas lui ? ajoutait de sa voix nasillarde, traînante et solennelle, le tambour de ville Sans-Façon. </p>
+        <p> — Comment ! Vous doutez ?… Ah ! par exemple ! </p>
+        <p> — Mais, madame Ragé, il ne cesse de nier, lui ! objectait M. Sans-Façon. </p>
+        <p> — Il proteste sans relâche, de toutes ses forces ! » ripostait M. Lorain. </p>
+        <p> La police n’avait pas tardé, en effet, à mettre la main sur le voyageur suspect, le petit boiteux, si nettement et véhémentement dénoncé par Mme Ragé. </p>
+        <p> C’était un ouvrier tailleur qui, n’ayant pu se procurer d’ouvrage à Châlons ni à Vitry, était venu en chercher à Bar-le-Duc. </p>
+        <p> On l’avait découvert dans une chétive auberge de la rue de Saint-Mihiel, À la descente des Mariniers , et, comme on avait trouvé sur lui une somme de quatre-vingts francs en pièces d’or, en pièces neuves précisément, on l’avait arrêté. </p>
+        <p> Cette somme, s’obstinait-il à déclarer, provenait de ses économies. C’était tout son avoir, ses seules ressources. Il avait amassé ce modeste pécule à Reims, en travaillant spécialement pour des ouvriers de fabrique, qui lui donnaient leurs vêtements à ravauder ; malheureusement la besogne avait fini par manquer. C’est alors qu’il était parti. </p>
+        <p> Mais, en présence des énergiques assertions de Mme Ragé, le juge qui avait mission d’instruire l’affaire, M. Houzelot, crut devoir retenir le petit tailleur – Jean-Gaspard Sloot, natif de Delft – et on le conduisit en prison, en attendant la continuation de l’enquête. </p>
+        <p> « Monsieur, ne cessait-il de répéter dans son baragouin, où il mélangeait à plaisir le hollandais, le flamand et un semblant de français ; – monsieur le juge, je vous jure, je suis innocent ! Ce n’est pas moi qui ai dérobé le porte-monnaie de cette dame : j’étais bien avec elle dans le wagon, je me le rappelle, je la reconnais ; je suis bien descendu derrière elle ; mais je n’ai rien ramassé par terre ni ailleurs, absolument rien ! Elle se trompe, monsieur le juge ! </p>
+        <p> — Mais cet argent, ces quatre pièces d’or ? </p>
+        <p> — Je les ai gagnées à Reims, mises petit à petit de côté. </p>
+        <p> — Je vous ferai observer qu’elles sont toutes neuves, que la plaignante déclare que ce sont celles-là mêmes qu’elle a reçues de Me Didelin, le notaire de Revigny. </p>
+        <p> — Ce n’est pas possible, monsieur le juge, je vous l’affirme, je vous le jure ! Elles sont bien à moi. Je suis un honnête homme, qui n’ai jamais fait de tort à qui que ce soit ! » protestait sans relâche l’infortuné petit tailleur. </p>
+        <p> † </p>
+        <lb/>
+        <p> Or, le dimanche suivant, vers les neuf heures et demie du matin, Mme Ragé s’apprêtait à se rendre à la messe paroissiale, quand M. Lorain lui apporta diverses fournitures d’épicerie qu’elle avait commandées la veille. </p>
+        <p> « Dépêchons-nous, monsieur Lorain, je suis déjà en retard, et par ce mauvais temps… Quelle pluie, hein ? Ça tombe à verse. C’est fâcheux pour un dimanche, surtout que depuis mon retour de Revigny, depuis mercredi dernier, il a fait si beau ! </p>
+        <p> — Effectivement, on aurait cru l’hiver fini… Et voilà les giboulées qui recommencent. </p>
+        <p> — Posez tout sur la table, interrompit Mme Ragé. C’est cela ! Attendez ! Je sors avec vous : je n’ai que mon parapluie à prendre. » </p>
+        <p> Et comme, après avoir fermé sa porte, et au moment de s’engager dans la rue, notre loquace et remuante dame ouvrait son parapluie, le même qu’elle avait emporté à Revigny, quelque chose s’en échappa, qui vint choir aux pieds de M. Lorain. </p>
+        <p> « Qu’est-ce que c’est que cela ? fit celui-ci en se baissant. Un porte-monnaie ! </p>
+        <p> — Mais c’est le mien ! </p>
+        <p> — Celui que vous réclamiez ?… </p>
+        <p> — C’est… c’est vrai ! » balbutia-t-elle. </p>
+        <p> Et comme elle l’entr’ouvrait : </p>
+        <p> « Voici vos cent francs ! Ils y sont bien… Vos cinq pièces d’or ! </p>
+        <p> — Oui, je… c’est… </p>
+        <p> — Heureusement qu’il a plu aujourd’hui, madame Ragé, continua le père Lorain, et que vous êtes obligée de sortir, autrement vous ne vous seriez pas encore aperçue de la chose, et vous continueriez à accuser ce pauvre diable… Votre porte-monnaie – c’est bien facile à comprendre – a glissé dans l’intérieur de votre parapluie l’autre jour, votre parapluie que vous veniez de fermer en montant en wagon, et que vous teniez entrebâillé contre vous. Vous n’avez pas eu besoin de le rouvrir en arrivant à Bar, puisqu’il faisait beau temps, comme vous venez de le rappeler, et, sans la pluie de ce matin, vos cent francs seraient encore cachés là ! » </p>
+        <p> Ces cent francs, il fallut, sur le conseil même de M. le juge Houzelot, les verser au petit tailleur pour l’indemniser du préjudice que lui avait causé Mme Ragé avec ses accusations aussi imméritées qu’acharnées. </p>
+        <p> « Il m’avait pourtant bien semblé le voir… </p>
+        <p> — Ah ! vous dites « semblé » à présent, tandis qu’auparavant vous n’hésitiez pas, vous prétendiez formellement et affirmiez mordicus l’avoir vu, vu de vos propres yeux, ramasser votre porte-monnaie. Je vous engage, madame, acheva M. Houzelot, à vous montrer une autre fois plus circonspecte et mieux avisée, à ne pas oublier l’antique devise de notre contrée : Plus penser que dire , et, par suite, surtout quand il s’agit de l’honneur d’un de vos semblables, à mûrement réfléchir avant d’agir. » </p>
+        <p></p>
+      </div>
+      <head/>
+    </body>
+    <back/>
+    <back/>
+  </text>
+</TEI>

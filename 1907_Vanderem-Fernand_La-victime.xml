@@ -1,0 +1,786 @@
+<?xml version='1.0' encoding='UTF8'?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> La victime </title>
+        <author from="1864" key="" name="Vandérem, Fernand" sex="male" to="1939"/>
+        <edition n="2"/>
+        <editor name="Librairie Paul Ollendorff" where="Paris"/>
+      </titleStmt>
+      <publicationStmt>
+        <date type="created" when="1907"/>
+        <date type="issued" when="1907"/>
+      </publicationStmt>
+      <editionStmt>
+        <profileDesc tag="non-canon" type="genre">
+          <textClass>
+            <keywords/>
+          </textClass>
+        </profileDesc>
+      </editionStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docAuthor/>
+        <docTitle>
+          <titlePart main="La victime"/>
+          <titlePart sub=""/>
+        </docTitle>
+      </titlePage>
+    </front>
+    <body>
+      <div type="dedication">
+        <salute>
+          <p> A  G. LENOTRE </p>
+          <p></p>
+          <p> EN TOUTE AFFECTION </p>
+          <p></p>
+          <p> F. V. </p>
+        </salute>
+      </div>
+      <p></p>
+      <div title="I" type="chapter">
+        <head> I </head>
+        <p> Comme on menait «Gégé» au Nouveau-Cirque, Jacques Taillard avait dit qu'on commençât à dîner sans lui, tandis qu'il s'habillerait. </p>
+        <p> —Naturellement!—s'était récriée Mme Taillard, en passant à table avec Gégé. </p>
+        <p> Et il n'en avait pas fallu plus pour que celui-ci se sentît envahi par les plus noirs pressentiments. </p>
+        <p> Non pas que, d'ordinaire, Roger Taillard en fût encore à s'alarmer d'une dispute éventuelle entre son père et sa mère. Malgré ses onze ans et demi, depuis le temps qu'il assistait à leurs querelles presque quotidiennes, il avait fini par n'y plus prendre garde. Il s'y était habitué peu à peu, comme on se fait graduellement aux obligations domestiques, aux charges de famille. Elles lui causaient toujours un profond ennui. Elles ne lui inspiraient plus jamais ni réflexion, ni curiosité, ni crainte. </p>
+        <p> Mais, les soirs où on le conduisait au théâtre, ce détachement coutumier l'abandonnait soudain. Du coup, Gégé devenait comme un loup de mer sur le point d'embarquer. Les moindres indices d'orage le bouleversaient. Il savait combien deux époux qui tiennent une bonne dispute ont peine à lâcher prise. Et il redoutait sans cesse qu'au dernier moment une scène engagée mal à propos ne vînt compromettre le départ ou ne le fît ajourner à une date indéterminée. Cette catastrophe s'était déjà produite l'année précédente, une fois qu'on devait le mener au Châtelet. Crève-cœur qui marque dans une vie d'enfant et qui ne s'oublie pas de sitôt! </p>
+        <p> Roger n'avait donc pas noté sans appréhension le petit retard de son père, puis l'adverbe plein d'aigreur dont sa mère avait apprécié ce retard. </p>
+        <p> Et la figure de Mme Taillard, qu'il surveillait à la dérobée, n'était guère d'aspect à le rassurer. Même pour un physionomiste moins exercé que lui, elle offrait les signes de la plus sombre préoccupation. Mais qu'est-ce qui pouvait affecter si fort Mme Taillard? Sûrement pas une question de coquetterie. Jamais elle n'avait été plus jolie que ce soir avec sa robe de dentelle noire et cette minuscule capote de tulle qui planait sur ses cheveux cannelle comme une gentille fumée bleu pâle. Le retard de son mari peut-être? Non, puisque, sous un prétexte ou sous un autre, Jacques s'arrangeait toujours pour ne figurer qu'aux deux tiers du repas, soit qu'il n'arrivât qu'au second plat, soit qu'il sortît de table, le dessert à peine servi. Il devait donc y avoir autre chose. Quoi donc? </p>
+        <p> Oh! un accident bien banal, que Gégé avait mille excuses pour ignorer et d'où naît souvent tout le souci de beaucoup de femmes: Mme Taillard n'était pas contente de son dernier rendez-vous avec Alcide Barbier. Et il n'y avait là de sa part ni douilletterie sentimentale, ni folles exigences. </p>
+        <p> En cédant, six mois avant, à Alcide Barbier, Lucie Taillard ne croyait pas plonger dans ce tourbillon de délices où vous emportent les grandes passions. Elle obéissait plutôt à l'usage qui veut qu'une femme ne se laisse pas tromper indéfiniment sans représailles. Et, sur une nouvelle fredaine de Jacques, elle s'était alors décidée pour Alcide Barbier, qui se trouvait de son entourage, et, justement, ne demandait pas mieux. </p>
+        <p> Du reste, retenu chaque jour jusqu'à cinq heures par l'importante raffinerie de pétroles que sa femme lui avait apportée en dot, bon musicien, la poitrine large, un souple carré de barbe rousse sous une figure sans âpreté, loyal, docile et très épris, Alcide constituait un choix pratique autant qu'honorable. Mais en amour, la première flambée morte, les qualités cessent de briller. On ne distingue plus que les lacunes. Or si tendre, si délicat que se montrât le jeune usinier, il manquait vraiment de fantaisie et d'esprit à un point qui n'est pas permis. Les caresses, les attentions, la musique ne sont pas tout. Une femme souhaite qu'on l'amuse. Et, cet après-midi, Mme Taillard s'était tellement ennuyée que des remords lui venaient presque avec de vagues idées de rupture. </p>
+        <p> Elle s'imposa pourtant un effort en faveur de son fils, et, la voix distraite, le regard ailleurs: </p>
+        <p> —Eh bien! mon chéri,—demanda-t-elle,—tu es content d'aller là-bas? </p>
+        <p> —Bien sûr, maman!—fit Roger. </p>
+        <p> Puis ce fut tout. Mme Taillard était rentrée dans sa mélancolie comme dans une cabine. Gégé commença à s'inquiéter sérieusement. Pour peu que son père fût dans des dispositions analogues, voilà qui promettait! </p>
+        <p> Cependant l'entrée de Jacques Taillard lui rendit quelque espoir. </p>
+        <p> Ainsi que d'habitude, il s'était assis vis-à-vis de sa femme sans lui adresser la parole et, à présent, il mangeait en hâte pour rattraper. A son tour, il interrogea: </p>
+        <p> —Eh bien! Roger! tu es content d'aller là-bas? </p>
+        <p> —Oh! oui, papa,—fit Gégé. </p>
+        <p> Cet échange de propos ne donna pas plus de résultat que le précédent. Jacques, sans insister, s'était remis à manger. Mais, à l'inverse de Mme Taillard, il y avait sur tout son visage comme un vernis de bonne humeur. Ne venait-on pas avant dîner de le présenter à Nelly Jelly, la petite danseuse américaine des Ambassadeurs, que depuis un temps infini il voulait s'offrir, sans trouver l'occasion? Une veine inespérée, quoi! Avec ça, pas l'ombre de manières: le rendez-vous dans les vingt-quatre heures. Et, en se rappelant cet accord si facile, si rondement conclu, Taillard ne pouvait se défendre de sourire tour à tour à tous les objets qui couvraient la table... </p>
+        <p> Devant tant de symptômes favorables Gégé poussa un soupir rassuré. </p>
+        <p> Mais, par malheur, dans l'état de ses nerfs, Mme Taillard n'était pas femme à supporter longtemps le spectacle de cette songerie joyeuse. Tant de gaieté quand elle était si triste lui semblait de la provocation. Sans compter qu'elle connaissait son bonhomme sur le bout du doigt: certainement, il y avait de la femme là-dessous. Et comme Jacques venait encore d'adresser au compotier de droite le sourire le plus bienveillant, elle n'y tint plus. Coûte que coûte, elle avait besoin de soulever un incident, et, se ramassant: </p>
+        <p> —A propos!—fit-elle d'une voix acérée,—tu as bien téléphoné avenue Marceau le numéro de la loge? </p>
+        <p> —Totalement oublié!—avoua Jacques en levant la main dans un geste de regret sommaire. </p>
+        <p> —Comment! Tu savais que papa se faisait une fête d'aller au Cirque avec cet enfant! Et tu oublies de le prévenir! Non, c'est fantastique! </p>
+        <p> Jacques ne répondit pas. Le petit nez droit de Mme Taillard s'était tout aminci de colère, ce qui précisait sa ressemblance avec un crayon bien taillé. Gégé, au comble de l'angoisse, ne quittait plus du regard les deux adversaires. </p>
+        <p> —D'ailleurs,—poursuivit Lucie,—je m'explique que tu aies oublié... Un homme qui a tant à faire!... </p>
+        <p> En toute autre circonstance, cette ellipse eût déchaîné une scène infernale, Mme Taillard sachant mieux que personne les mille occupations qui encombrent la vie d'un désœuvré. Mais rien ne rendait Jacques conciliant comme d'avoir de la dame sur la planche; et, au lieu de se fâcher, au lieu même d'invoquer les deux heures qu'il allait de temps en temps passer sur les marches de la Bourse ou à la charge de son oncle Ernest, il observa modestement: </p>
+        <p> —Eh bien, il n'y a qu'à faire téléphoner à ton père maintenant... </p>
+        <p> Puis, se tournant vers le valet de chambre: </p>
+        <p> —Joseph, posez ce plat et téléphonez tout de suite à M. Lecherrier que nous l'attendons ce soir au Nouveau-Cirque, loge 30. </p>
+        <p> Après trois minutes qui semblèrent à Roger en durer au moins dix, Joseph reparut et dit: </p>
+        <p> —M. Lecherrier était sorti... Il ne dîne pas là et on ne sait pas où il dîne. </p>
+        <p> Mme Taillard déclara: </p>
+        <p> —C'était à prévoir!... Papa sera désolé! </p>
+        <p> —Ce qui ne l'empêchera pas d'avoir passé aujourd'hui une soirée excellente!—remarqua Jacques sans acrimonie. </p>
+        <p> —Qu'en sais-tu? </p>
+        <p> —Effectivement, je n'en sais rien... Mais je connais ton père... Il n'est pas dans ses us de dîner tout seul... Alors je suis en droit de supposer que ce soir il ne s'ennuiera pas. </p>
+        <p> —Papa fait ce que bon lui semble et il n'a pas de comptes à te rendre. </p>
+        <p> —Est-ce que je lui en demande? </p>
+        <p> —Non, mais tu te permets à son sujet des insinuations du plus mauvais goût, surtout en présence de cet enfant. Tu ferais bien mieux de t'excuser de ton égoïsme et de ta négligence sans nom. </p>
+        <p> —Dis-moi, en as-tu encore pour longtemps comme cela?—questionna Jacques, chez qui la colère effaçait peu à peu l'image apaisante de Nelly Jelly. </p>
+        <p> —Pour aussi longtemps que je voudrai. Si cela te déplaît, je regrette. Tu n'avais qu'à ne pas commettre cette goujaterie. </p>
+        <p> Le terme était excessif, impropre, mais la soulageait. Elle se tut. Jacques tirait sur sa fine moustache dorée, qu'on eût dite tracée à la plume, puis il laissa simplement tomber ces mots: </p>
+        <p> —C'est curieux comme une femme peut devenir bête, à fréquenter les imbéciles! </p>
+        <p> —Je ne comprends pas!—fit Lucie qui frémissait de comprendre. </p>
+        <p> —Mettons «raseurs», et n'en parlons plus! </p>
+        <p> —Si, parlons-en! De qui s'agit-il? </p>
+        <p> —Devine! </p>
+        <p> L'allusion crevait les yeux. Elle ne concordait que trop avec les souvenirs de l'après-midi. Et ce n'était d'ailleurs pas la première fois que Jacques contestait la qualité d'amuseur à Alcide Barbier, dont les assiduités auprès de Lucie, sans l'émouvoir, l'agaçaient. </p>
+        <p> Mme Taillard cependant cherchait une réponse venimeuse, terrible, et, ne trouvant pas: </p>
+        <p> —Tiens, tu avais raison... Finissons!... Il y a des gens avec qui il vaut mieux ne pas discuter. </p>
+        <p> Jacques, satisfait par la faiblesse de cette réplique, haussa les épaules. Joseph rentrait portant le café. Roger profita de la diversion pour demander si on lui permettait un canard. </p>
+        <p> —Oui, mon chéri!—firent en même temps M. et Mme Taillard d'une voix soudainement angélique. </p>
+        <p> Puis, le canard pris, Lucie ajouta du même ton: </p>
+        <p> —Maintenant Gégé, il faut aller achever ta toilette... </p>
+        <p> —Oui, va t'habiller, mon petit!—approuva non moins suavement Taillard. </p>
+        <p> Roger glissa à bas de sa chaise; mais cet accent si doux ne lui laissait aucune illusion. Dès le début, il avait eu la nette impression que son Nouveau-Cirque était dans l'eau. Et maintenant, pour un connaisseur tel que lui, il n'y avait nulle chance que la dispute en demeurât là. </p>
+        <p> Ce fut donc d'une allure nonchalante qu'il regagna sa chambre, comme quelqu'un qui va accomplir le geste inutile et la formalité superflue. Pourtant quand il aperçut bien étalés, au travers du lit, le smoking des galas, les gants blancs, le pardessus clair,—ce résidu d'espoir qui survit aux pires désastres lui souffla que peut-être tout n'était pas perdu. Qui sait, si en se dépêchant, il ne pourrait pas rejoindre ses parents avant une reprise des hostilités, puis étouffer la querelle en précipitant le départ? Et il commanda à la vieille femme de chambre qui cousait sous une lampe, le menton au genou: </p>
+        <p> —Annette! Nous sommes très en retard! Vite, mes affaires! Vite, vite! </p>
+        <p> —«S'il vous plaît, mon chien!»—réclama protocolairement Annette, qui tenait à achever le point commencé. </p>
+        <p> —S'il vous plaît! concéda avec révolte Gégé. </p>
+        <p> En un instant, il eut revêtu le smoking. Il trépignait tandis qu'Annette lui nouait, sous le petit col carcan, sa correcte cravate de soie noire. Puis, son paletot jeté sur le bras, il s'élança vers la salle à manger comme un jeune pompier qui court au feu. </p>
+        <p> Mais, dès le seuil de l'antichambre, partant de la pièce voisine, des vociférations frénétiques l'arrêtèrent sur place. Trop tard! La scène avait repris, faisait rage! </p>
+        <p> Roger hésita. Peut-être qu'attendre une accalmie serait plus malin. Baste! autant en finir tout de suite. Et, comme on ouvre la porte d'un malade, avec de pieuses précautions, il tourna le bouton de la salle à manger. Il n'avait risqué que la tête. Les clameurs cessèrent du coup. </p>
+        <p> —Une minute, Gégé!—dit Taillard qui était debout, livide. </p>
+        <p> —Oui, tout à l'heure, mon chéri!—confirma de sa place Mme Taillard avec un geste dilatoire. </p>
+        <p> Évidemment, on les dérangeait. Ils en voulaient encore. Roger comprit. Il retira sa tête, referma la porte sans bruit, puis, lentement, il se hissa sur la haute banquette Henri II qui, avec un maigre régulateur Louis XIII, était la gloire de l'antichambre. </p>
+        <p> Il se mit à enlever un à un les doigts de ses gants. Pendant un moment, l'orgueil de voir ses prévisions si exactement réalisées et aussi une sorte d'amour-propre l'avaient soutenu. Mais à présent, il n'éprouvait plus que de l'accablement. Il se demandait ce qu'il dirait, le lendemain, à son vieux Pierre de Ribermont, quand celui-ci l'interrogerait sur les détails de la soirée. Il essayait de se remémorer tous les numéros du Nouveau-Cirque, étudiés la veille sur l'affiche illustrée: et il était contraint à d'extraordinaires clignements pour se conserver les yeux secs. </p>
+        <p> L'apparition de Joseph, qui allait chercher Annette toujours en retard pour dîner, le rappela à la dignité. </p>
+        <p> Il se retrouva la force de chantonner un petit air gaillard en tambourinant du talon sur les précieux bas-reliefs du siège. </p>
+        <p> Puis quand, au retour, Annette s'écria avec compassion: «Eh bien! mon pauvre petit Gégé, pas encore parti!...» il se domina assez pour répondre: </p>
+        <p> —Ça m'est bien égal! </p>
+        <p> Mais il était à bout de vaillance. Et, sitôt les domestiques dans le couloir, ses larmes lui échappèrent et il s'en donna, à tout cœur, de sangloter tant qu'il pouvait. </p>
+        <p> Dans l'ombre, avec son chapeau de travers, ses jambes pendantes contre la banquette, et cette désolation sans frein, il présentait assez l'aspect d'un petit garçon égaré sur la voie publique. Jamais il n'avait ressenti une détresse pareille. Ce n'était plus seulement sur le Nouveau-Cirque qu'il pleurait, c'était aussi sur un tas de choses qu'il évoquait confusément: la tristesse des repas toujours silencieux, la physionomie de ses parents toujours en embuscade, l'incertitude de ses joies toujours menacées. </p>
+        <p> Il existait pourtant des enfants chez qui cela se passait autrement. Chez beaucoup de ses camarades, chez les Ribermont, chez les Thomas, chez les Bachicourt, par exemple, on ne se querellait jamais, ou pour ainsi dire jamais. Gégé ne l'ignorait pas, les ayant questionnés là-dessus. Alors pourquoi chez lui la dispute était-elle à demeure? Et puis à quoi bon être mariés si c'est pour se faire tout le temps des scènes? </p>
+        <p> Il allait peut-être, entre deux sanglots, trouver la solution de ces problèmes, quand la porte de la salle à manger livra passage à Mme Taillard. Elle avait les yeux rouges, le nez dépoudré et une grimace oblique qui s'efforçait d'être un sourire. Elle s'approcha de Roger, et, les deux mains à ses épaules: </p>
+        <p> —Mon cher petit,—dit-elle,—il va falloir être un homme!... </p>
+        <p> —Bon, ça y est!—pensa Gégé, qui savait tout ce qu'il en coûte aux enfants chaque fois qu'on fait appel à leur virilité. </p>
+        <p> —Il va falloir être très raisonnable... Nous n'irons pas ce soir au Nouveau-Cirque... D'abord, il serait trop tard... Ensuite, ton père et moi nous avons encore à... </p>
+        <p> Elle chercha son mot: </p>
+        <p> —Nous avons encore à causer... Alors, à la place, nous irons la semaine prochaine. Maintenant tu vas te coucher gentiment, et d'ici peu, tu verras, je te promets une jolie compensation... Tu es content comme cela? </p>
+        <p> —Oui, maman!—répliqua Roger, sentant la vanité de toute dénégation. </p>
+        <p> Mme Taillard le souleva dans ses bras avec ferveur en murmurant: </p>
+        <p> —Tu es un bon petit Gégé! </p>
+        <p> Puis, le remettant à terre: </p>
+        <p> —Va dire bonsoir à ton père! </p>
+        <p> Elle le poussa doucement vers la salle à manger. Taillard virait autour de la table, comme occupé à établir un record. Des serviettes en boule traînaient sur le tapis. Un verre renversé avait fait à travers la nappe une large tache couleur d'améthyste. Roger tendit la joue à son père qui, d'instinct, tendit aussi la sienne. Les deux joues se heurtèrent mollement et, après ce baiser rudimentaire, Taillard déclara: </p>
+        <p> —Allons, je vois que nous sommes un brave petit Gégé, mais avec moi, tu sais, on ne perd rien pour attendre! </p>
+        <p> Roger hocha la tête en signe d'assentiment et sortit sans en réclamer plus. </p>
+        <p> Dans sa chambre, Annette, sonnée par Mme Taillard, voulut l'aider à se déshabiller. Il déclina froidement ses offres de service. Mais comme, en rangeant ses vêtements, elle commençait à lui prodiguer des consolations grossières, Gégé l'interrompit: </p>
+        <p> —Laissez-moi donc tranquille! Je vous ai déjà dit que ça m'est bien égal! </p>
+        <p> —Oh! mon Dieu! ce qu'il est méchant!—se récria Annette, démontée. </p>
+        <p> Roger, dans ses couvertures, ne daigna pas répondre. Il n'avait plus qu'une idée: s'endormir, oublier. Il ferma les yeux. Sous le noir des paupières il revit, durant quelques instants, des acrobates en caleçon de satin pailleté, des chevaux galopant sur un tapis fauve, une piste remplie d'eau. Puis tout se brouilla et bientôt il n'y eut plus dans la chambre que le faible bruit de sa respiration, coupé, de temps à autre, par le hoquet d'un restant de sanglot. Gégé dormait. </p>
+        <p> Plus tard, beaucoup plus tard, il lui sembla qu'une forme qui avait le parfum de sa mère se penchait sur lui en chuchotant des paroles de pitié. Mais, stoïque jusque dans le sommeil, il balbutia encore: </p>
+        <p> —Ça m'est bien égal! </p>
+        <p> Un peu après, il crut sentir à son front le baiser léger d'une autre ombre qui ressemblait à son père. Et quoique l'ombre n'eût rien dit, Gégé fièrement bégaya tout de même: </p>
+        <p> —Ça m'est bien égal! </p>
+      </div>
+      <div title="II" type="chapter">
+        <head> II </head>
+        <p> Le lendemain, vers neuf heures et demie, M. Lecherrier était en train de recevoir la dégelée de coups de poing et de coups de savate, que, moyennant trois cents francs par mois, un petit homme trapu venait chaque matin lui allonger à domicile, quand une sonnerie de téléphone interrompit brusquement ces voies de fait. </p>
+        <p> —Vous m'excusez!—dit M. Lecherrier au professeur, en arrachant vivement sa moufle de boxe. </p>
+        <p> —Faites donc! </p>
+        <p> M. Lecherrier était déjà à l'appareil: </p>
+        <p> —Allô!... C'est toi Lucie?... Eh bien! vous m'avez joliment fait poser hier soir? </p>
+        <p> —Oui, il y a eu malentendu... Je t'expliquerai,—chevrota au loin la voix de Mme Taillard.—Mais, en ce moment, il ne s'agit pas de ça... Peux-tu me recevoir ce matin? </p>
+        <p> —Certainement... Mais pourquoi? </p>
+        <p> —J'ai à te parler... Des choses à ne pas dire par téléphone. </p>
+        <p> —Rien de mauvais? </p>
+        <p> —Non! non!—protesta tièdement Lucie. </p>
+        <p> —Alors, je t'attends... A quelle heure seras-tu là? </p>
+        <p> —Tout de suite... Je saute en fiacre et j'arrive. </p>
+        <p> M. Lecherrier, qui saisissait toujours avec empressement les moindres prétextes pour abréger sa leçon de boxe, se tourna vers le professeur: </p>
+        <p> —C'est ma fille, Mme Taillard... Elle sera ici dans cinq minutes. Donc aujourd'hui, si vous voulez bien, nous nous en tiendrons là... </p>
+        <p> —A votre disposition, monsieur!—fit le petit athlète, non moins enchanté de couper à la fin de la séance. </p>
+        <p> Mais, le maître de chausson parti, au lieu de savourer, comme de coutume, les douceurs de la délivrance, M. Lecherrier ne tarda pas à s'égarer dans les conjectures les plus alarmantes. </p>
+        <p> Que pouvait bien signifier cette visite de Lucie, d'habitude si peu matinale? Quoi qu'elle en dît, sans doute pas grand'chose de bon. Et rien que l'idée d'avoir une fois de plus à flétrir la conduite de son gendre combla M. Lecherrier d'écœurement. </p>
+        <p> D'ailleurs, depuis qu'il s'était retiré des soieries avec deux cent mille francs de rente, il se considérait comme ayant droit à une félicité sans mélange. Riche, veuf, libre, décoré, choyé des petites femmes auxquelles il le rendait bien,—hormis sa moustache qui tournait au blanc, ses favoris qui grisonnaient trop, et ce commencement de ventre que la boxe ne bridait qu'à demi, il ne voulait pas entendre parler de soucis. Sa crainte des tracas était même si vive, qu'à la mort de Mme Lecherrier il s'était résigné à garder pour lui seul son vaste hôtel de l'avenue Marceau, aimant mieux en laisser tout un étage vide, que de subir les tribulations d'un déménagement. C'est dire avec quelle mollesse il avait pris les mésaventures de Lucie. D'abord révolté, puis attendri, il finissait par être blasé. Ces querelles sans variété, pour des méfaits toujours pareils, lui paraissaient à la longue fastidieuses. Il ne pouvait s'expliquer qu'après dix ans de ce régime, le coupable ne montrât pas plus de bonne humeur et l'innocente plus de philosophie. Aussi, sans Gégé dont il raffolait, ce n'eût pas été tous les jours qu'on l'aurait vu dans ces bagarres. </p>
+        <p> —Ah! mais non!—conclut-il amèrement, tout haut. </p>
+        <p> Puis, ayant passé un léger costume d'intérieur en flanelle beige, il alla s'accouder au balcon pour guetter l'arrivée de Lucie. </p>
+        <p> En dépit de l'heure, la température était accablante. Au milieu de la chaussée, un arroseur découragé faisait de place en place des flaques éphémères. Les marronniers de l'avenue semblaient suffoquer sous leurs lourds falbalas de verdure. Et quoiqu'on fût à peine au début de juin, certaines feuilles, roussies des contours, avaient déjà très mauvais teint. </p>
+        <p> Du haut de son balcon, M. Lecherrier les examinait avec sympathie. Mais le bruit d'une voiture raclant le trottoir l'arrêta sur la voie de l'élégie. Lucie descendit du fiacre. Elle était tout en piqué blanc, avec une souple voilette crème pleurant autour de son chapeau rose. De la main elle fit à son père un signe d'amitié, puis, rapidement, marcha vers la porte. </p>
+        <p> —Eh bien, que se passe-t-il?—demanda M. Lecherrier, après avoir embrassé sa fille. </p>
+        <p> Lucie retroussa sa moustiquaire, et, se carrant dans un fauteuil: </p>
+        <p> —C'est toute une histoire... Voilà, hier soir, à propos de ce Nouveau-Cirque,—où, soit dit en passant, nous avons fini par ne pas aller,—Jacques et moi, nous avons eu une scène effroyable... </p>
+        <p> —Pour changer!—fit M. Lecherrier. </p>
+        <p> —Oh! je t'en prie, papa, grâce des commentaires! Ou je n'en sortirai jamais... Donc, scène terrible. Nous nous sommes dit, de part et d'autre, des choses atroces, irréparables... Et, finalement, nous avons décidé de divorcer... </p>
+        <p> —Ce n'est pas la première fois!—objecta M. Lecherrier. </p>
+        <p> —Peut-être, mais ce sera la bonne... Et, du reste, pour ne pas revenir sur notre décision, il a été convenu que ça se ferait aujourd'hui même... </p>
+        <p> —Quoi? qu'est-ce qui se fera? </p>
+        <p> —Mais notre rupture, l'incident qui pour les tribunaux et le public la justifiera... Tout à l'heure, à midi, quand je rentrerai, il y aura la chaîne de sûreté à la porte... Et Jacques me refusera, comme on dit, l'accès du domicile conjugal... Nous avons même pris soin de nous munir de deux témoins: le tapissier sera là dans l'antichambre, avec un ouvrier, à réparer le store dont justement les cordons ne marchent plus depuis trois jours... Jacques a accepté cette combinaison qui nous dispensera, dans le procès, de nous traîner réciproquement dans la boue... </p>
+        <p> —Ah çà! vous devenez fous!—s'écria M. Lecherrier, qui commençait à s'agiter.—Vous croyez que vous trouverez des juges pour donner dans ces balivernes? </p>
+        <p> —Parfaitement! D'abord, pourvu qu'on ait bien envie de divorcer, les juges n'y regardent pas de si près... Et puis, devant une expulsion en due forme, ils n'auront pas le choix... Aubineau, notre avoué, que j'ai consulté autrefois sans avoir l'air, est formel là-dessus. </p>
+        <p> —Admettons... Mais Gégé? </p>
+        <p> —Pour le moment, il continuera à aller dans la journée chez son professeur M. Beaujoint. Le reste du temps, il habitera huit jours avec moi, huit jours avec son père, les dimanches et vacances partagés de même par moitié... </p>
+        <p> —Et où comptes-tu loger?... Ici? </p>
+        <p> —Dame!—fit Lucie en courant à M. Lecherrier. </p>
+        <p> Elle lui enlaça câlinement le bras, tandis qu'il se raidissait un peu contre l'étreinte. </p>
+        <p> —Mais oui, mon pauvre papa, ici! Tu ne voudrais pas que je donne à d'autres la préférence?... Ah! évidemment, dans tout cela, c'est toi qui vas pâtir, c'est toi qui seras la victime! </p>
+        <p> —Non!—fit avec force M. Lecherrier.—La victime, ce ne sera pas moi... La victime, ce sera Gégé... </p>
+        <p> —Écoute, papa!—supplia Lucie. </p>
+        <p> —Je n'écoute rien... Je n'ai rien à écouter... Si tu ne sens pas ces choses-là de toi-même, tout le monde te le dira: dans le divorce, la vraie victime, la grande victime, c'est l'enfant... Voilà la règle... Et notre petit Gégé, hélas! n'y échappera pas... Du jour au lendemain, pour votre commodité personnelle, vous allez faire de lui une espèce d'orphelin, de déclassé, d'abandonné, sans famille régulière, sans foyer fixe, sans intérieur. Vous allez bouleverser sa vie, gâcher toutes ses joies, détruire tout son bonheur... Alors, dans ces conditions, moi, mes aises, mes habitudes, tu t'imagines si ça pèse lourd!... </p>
+        <p> M. Lecherrier se tut, car des larmes lui barraient la gorge. Probablement, malgré ses dires, dans cette affliction, il entrait un peu le chagrin de voir pour des mois sa quiétude chavirée, son indépendance en péril, les petites femmes à vau-l'eau. Mais la sincérité dominait. Il adorait son petit-fils, et la pensée des mille souffrances classiques dont ce divorce menaçait Gégé lui paraissait intolérable. </p>
+        <p> Lucie avait tendrement retenu sa main, puis, quand il donna des signes d'apaisement: </p>
+        <p> —Je t'assure, papa, que ce que tu me dis là, depuis des années je me le répète... Sans Roger, il y a longtemps que j'aurais fui l'enfer de mon ménage... C'est pour notre enfant que je suis restée, pour lui que j'ai patienté... Tant qu'il n'aurait pas fait sa première communion et renouvelé, je m'étais juré de tout subir... et j'ai tout subi... Mais maintenant je suis à bout... Il ne faut pas m'en demander plus! </p>
+        <p> Elle avait débité cela sans colère, sans désespoir, comme une femme excédée qui a pris son parti. Devant cette lassitude résolue, M. Lecherrier se sentit plus faible que devant de la violence. Il embrassa longuement sa fille, puis, avec simplicité: </p>
+        <p> —Alors, quand t'installes-tu chez moi? </p>
+        <p> —Tantôt. </p>
+        <p> —Tantôt? </p>
+        <p> —Oui, papa, puisque c'est à midi que Jacques me refuse sa porte. Après quoi, selon nos conventions, il me permettra de rentrer pour faire mes malles. Je pourrai être ici vers cinq heures et demie. </p>
+        <p> —Et le temps d'aménager les chambres? </p>
+        <p> —C'est l'affaire d'une heure... Pour Gégé, un lit dans mon ex-petit salon... Moi, je reprendrai ma chambre de jeune fille... </p>
+        <p> —Très bien! Je vois que je n'ai plus qu'à exécuter tes ordres. </p>
+        <p> —Mes conseils pratiques, tout au plus! </p>
+        <p> —Si tu veux!... Cependant si d'ici là tu découvrais, par hasard, quelque chose de plus pratique encore, comme, par exemple, d'épargner à ton fils ce drame et de rester avec ton mari, ne te gêne pas. Je n'en serais nullement froissé. </p>
+        <p> Mme Taillard eut un hochement de tête incrédule. Mais, comme elle se levait et rabaissait le rideau de son voile, M. Lecherrier protesta: </p>
+        <p> —Où vas-tu donc? Tu n'es pas pressée... </p>
+        <p> —Si, je t'assure; il me reste une ou deux courses urgentes avant déjeuner. J'aurai tout juste le temps. </p>
+        <p> Et, s'appuyant d'une main à l'épaule de son père: </p>
+        <p> —C'est égal, papa! C'est effrayant ce que je te fais là... Toi qui aimais tant ta bonne liberté! </p>
+        <p> —Ne t'occupe pas de moi!—dit avec conviction M. Lecherrier.—Moi, je ne suis plus intéressant... Maintenant, dans notre vie, il n'y a plus que Gégé qui compte... tu entends, rien que Gégé!... </p>
+        <p> Ces paroles sonnaient encore dans l'oreille de Mme Taillard quand sa voiture l'arrêta devant le rez-de-chaussée de la rue Washington où Alcide Barbier, mandé par télégramme, l'attendait depuis vingt minutes déjà. </p>
+        <p> Mis en quelques mots au courant, Alcide Barbier eut une attitude médiocre. Opposé pour lui-même au divorce en vertu de ses principes, dont le premier était de ne rien faire qui pût nuire à son industrie, il n'avait pu d'abord réprimer le petit mouvement d'envie que lui inspirait la résolution de Lucie. Quand l'intérêt vous cloue au port, il est toujours pénible de voir les autres gagner le large. Et sa grimace fut telle que Lucie s'en formalisa: </p>
+        <p> —Tiens, vous avez l'air contrarié?... Moi qui croyais que vous sauteriez de joie!... </p>
+        <p> —Mais, ma chérie, du moment que cette solution vous plaît, vous pensez bien que je n'ai pas à y redire. </p>
+        <p> —Non!... Seulement, vous faites une tête!... Voyons, si vous étiez garçon, je m'expliquerais encore... Mais, dans votre situation d'homme marié, d'homme établi, qu'est-ce que vous redoutez?... </p>
+        <p> Alcide Barbier, durant cette réplique, avait ramené entre ses dents la base de sa barbe rousse, ce qui marquait chez lui le summum du souci et donnait à sa figure ronde l'aspect d'une grosse éponge à tub. Puis, faute de mieux, il simula un grand élan, et, saisissant Lucie dans ses bras: </p>
+        <p> —Méchante! méchante! méchante!—murmura-t-il sans vérité. </p>
+        <p> —Vous aurez beau m'appelez «méchante» jusqu'à demain, mon observation subsiste. </p>
+        <p> Alors Alcide Barbier, rassemblant toutes ses ressources d'esprit: </p>
+        <p> —Mais pourtant, ma chérie, vous ne vouliez pas que j'accueille en badinant une nouvelle de cette gravité!... Et puis il y a votre fils!... Malgré moi, je songeais à ce pauvre innocent, à cette pauvre petite victime qui demain... </p>
+        <p> Lucie l'interrompit: </p>
+        <p> —Oh! je vous en prie, je sors d'en prendre... </p>
+        <p> Et, s'asseyant au bord du divan: </p>
+        <p> —C'est étrange comme les hommes, dans certains cas, n'ont pas l'intuition des choses à dire... Vous, aussi bien que papa, vous savez que dans ce divorce Gégé est mon remords, mon point douloureux... Et c'est à qui y insistera, élargira cette plaie!... </p>
+        <p> Elle pleurait d'énervement. Alcide Barbier s'assit près d'elle, sans plus oser la moindre remarque. Enfin, les yeux séchés, elle se leva: </p>
+        <p> —Quand reviendrez-vous?—demanda-t-il. </p>
+        <p> —Je ne sais pas... Je vais être, quelque temps, beaucoup moins libre, vous comprenez... Je vous écrirai. </p>
+        <p> —Vous m'en voulez? </p>
+        <p> Elle fit l'effort d'une caresse, et, lui tendant ses lèvres: </p>
+        <p> —Pas le moins du monde... A bientôt! </p>
+        <p> Jamais cependant la gaucherie d'Alcide ne l'avait tant indisposée. Pourquoi un garçon doué de si belles qualités était-il tellement dépourvu de charme?... Elle ne quitta cette méditation qu'aux approches de l'avenue d'Antin. Deux maisons, une maison encore, elle serait arrivée! Qu'allait-il se passer? Jacques n'aurait-il pas changé d'idée? </p>
+        <p> Mais non! Tout se déroula selon le programme. Puis, par l'entre-bâillement de la porte où scintillaient les ondulations de la chaîne, Jacques déclara: </p>
+        <p> —Soit! Je consens à ce que vous rentriez faire vos malles. </p>
+        <p> Il détacha la chaîne. Lucie entra. Sur une échelle, près du store, le tapissier et son aide, très amusés, simulaient, l'œil de côté, une activité fiévreuse. A la vue de ces complices inconscients, Mme Taillard ne put retenir un sourire. Jacques, malgré lui, riposta par un sourire pareil. </p>
+        <p> C'était le premier qu'ils échangeaient depuis cinq ans! </p>
+      </div>
+      <div title="III" type="chapter">
+        <head> III </head>
+        <p> Quand, vers six heures trois quarts, au sortir de l'institution Beaujoint, Joseph annonça à son jeune patron qu'on dînait chez M. Lecherrier, Roger ne dissimula pas son contentement: </p>
+        <p> —Chic, alors!... Mais pourquoi? </p>
+        <p> —J'ignore... C'est madame qui m'a dit de conduire monsieur... </p>
+        <p> Gégé n'en demanda pas plus. L'essentiel était de ne pas dîner chez lui. Les lendemains de scène y avaient la tristesse des lendemains de fête. Au tumulte de la veille succédait le morne silence. On se serait cru à un repas de deuil. Et puis, avec le théâtre et le foot-ball , Roger ne connaissait pas de meilleur plaisir que d'aller chez son grand-père. Quoiqu'on doive avant tout aimer son père et sa mère, il ne passait guère de jour sans faire à ses parents quelque secrète infidélité de cœur avec M. Lecherrier. Il ne l'avait avoué à personne, pas même à son vieux Ribermont; mais c'était plus fort que lui, il ne pouvait s'empêcher de préférer un peu ce grand-papa si brave homme, toujours de bonne humeur, et chez qui on ne se disputait jamais. </p>
+        <p> —Chic! chic! chic!—scandait-il, en gambadant au bras de Joseph. </p>
+        <p> Et, sitôt arrivé avenue Marceau, il grimpa d'un saut au fumoir, où M. Lecherrier avec Lucie prenaient le frais au près du balcon. Tous deux l'embrassèrent avec fougue. </p>
+        <p> —Et papa? </p>
+        <p> —Il dîne à son cercle. </p>
+        <p> Mme Taillard avait répondu en détournant les yeux. Roger, de même qu'à son grand-père, lui trouvait un air drôle. Elle avançait le menton, comme sur le point de pleurer. Sans doute, du chagrin en retard, des restes de la veille. Pourtant Gégé ne se sentait pas rassuré. </p>
+        <p> Mais à table, peu à peu, sa mauvaise impression s'effaça. M. Lecherrier s'était mis à conter de ces histoires roulantes dont il avait le secret et qui faisaient pouffer aux larmes. On s'amusait fièrement. Tout le monde jubilait, jusqu'à Firmin, le jeune valet de chambre, qui dut soudain lâcher un plat pour aller rire dans la cuisine. </p>
+        <p> Aussi, rentré au fumoir, Roger n'hésita pas à proposer comme de coutume la partie de dames à son grand-père. </p>
+        <p> —Tout à l'heure, mon petit!—fit M. Lecherrier en posant sur un guéridon voisin de son fauteuil la tasse de café qu'il venait d'achever. </p>
+        <p> Puis, attirant Gégé et le calant droit entre ses genoux: </p>
+        <p> —Tout à l'heure, mon chéri... D'abord j'ai à te parler. </p>
+        <p> Roger, dans son étau, essaya vers Mme Taillard un regard d'appel à l'aide. Mais, d'une petite claque affectueuse, M. Lecherrier lui remit la tête en place, et, avec une voix de vieil acteur, comme Gégé n'en avait entendu qu'au Théâtre-Français: </p>
+        <p> —Par ici, mon chéri! Ne t'occupe pas de ta mère. J'ai besoin de toute ton attention... Écoute-moi bien, mon enfant... Tu vas bientôt avoir douze ans... Tu es déjà presque un homme... </p>
+        <p> «Encore!» pensa Gégé, plus en méfiance que jamais contre ce genre de flagornerie. </p>
+        <p> —Tu es presque un homme, et c'est donc comme à un homme que je vais te parler... Mon cher enfant, il t'arrive un grand malheur... Tes parents divorcent, tes parents vont divorcer... Sais-tu ce que c'est que de divorcer? </p>
+        <p> Roger riposta, en s'inspirant de remarques personnelles: </p>
+        <p> —C'est quand une femme n'a plus de mari et que son mari n'est pas mort. </p>
+        <p> —En effet,—approuva M. Lecherrier,—et vice versa . Autrement dit, tes parents ne sont plus d'accord, ils n'ont plus les mêmes goûts. En conséquence, ils ont décidé de renoncer à la vie commune. Et ils habiteront désormais chacun de son côté. Pour l'instant, et probablement aussi dans l'avenir, ta mère habitera ici avec toi... Ton père, je présume, gardera son appartement. </p>
+        <p> Roger s'écria, un peu pâle: </p>
+        <p> —Alors, je ne verrai plus papa? </p>
+        <p> —Certainement que si, tu le verras! Et pas plus tard que demain soir vous devez dîner tous les deux ensemble. Seulement, jusqu'à nouvel ordre, tu habiteras tantôt avec ta mère, tantôt avec ton père, huit jours avec l'un, huit jours avec l'autre. Saisis-tu? </p>
+        <p> —Oui! oui!—déclara Gégé, qui supputait en dedans les suites de cette combinaison. </p>
+        <p> —Bien entendu,—ajouta non moins onctueusement M. Lecherrier,—il faudra continuer à aimer tes parents autant l'un que l'autre... Dans ce malheur, il faudra même les aimer plus qu'avant... Tu me le promets, mon petit? </p>
+        <p> —Oui, grand-papa!—fit Roger sans discuter ce surcroît d'exigences.—Mais aujourd'hui, où est-ce que je coucherai? </p>
+        <p> — Ici, au second, près de l'ancienne chambre de ta mère. </p>
+        <p> —Et maman couchera à côté de moi? </p>
+        <p> —Oui, mon chéri. </p>
+        <p> Passer la nuit chez son grand-père, avec sa mère comme voisine à la place d'Annette, Gégé n'avait jamais rêvé pareille fête. Il sauta au cou de M. Lecherrier. </p>
+        <p> —Oh! veine!... Merci, grand-papa! Chic et veine! </p>
+        <p> Un bruit de sanglots lui fit retourner la tête, et il vit sa mère qui pleurait, un mouchoir plaqué aux yeux. </p>
+        <p> Alors, sentant l'inconvenance de son enthousiasme, il s'élança vers Mme Taillard, grimpa sur ses genoux, se blottit contre elle. Mais plus il l'embrassait, plus elle pleurait fort. Que faire? Lui aussi, par sympathie, aurait bien voulu pleurer. Seulement, il avait beau presser ses paupières, se contracter le thorax, rien ne venait. Enfin, sous une poussée plus énergique, deux petites larmes daignèrent paraître. Gégé les égoutta sur la nuque de sa mère avec un peu d'ostentation. </p>
+        <p> —Ne pleure pas, mon amour!—murmura Mme Taillard en l'écartant doucement.—Tu verras, nous t'aimerons bien... Moi, si je pleure, ce sont les nerfs. </p>
+        <p> Et M. Lecherrier intervenant: </p>
+        <p> —Allons, Gégé... Tu as été très sage... Maintenant, je suis à tes ordres... Va dans le salon chercher le jeu de dames. </p>
+        <p> —Est-ce que tu sais l'heure?—objecta Lucie. </p>
+        <p> —Bah! il en sera quitte pour faire demain grasse matinée. Tu l'excuseras à la pension. </p>
+        <p> Puis, sitôt Roger dehors, M. Lecherrier ajouta plus bas: </p>
+        <p> —Que veux-tu! le pauvre petit... nous ne pouvions pourtant pas le laisser sur ces tristesses! </p>
+        <p> On convint de trois parties. Roger les gagna coup sur coup. Après quoi, M. Lecherrier monta avec Mme Taillard l'accompagner jusqu'à sa chambre. </p>
+        <p> C'était une pièce spacieuse, avec des tentures bleu de lin encadrées de boiseries blanches. Un petit lustre Louis XVI reflétait dans ses cristaux la lumière discrète de trois lampes dépolies. A chaque côté du lit de cuivre, qu'un tapissier avait loué, deux bergères en satin pâle offraient leurs gros coussins prêts à défaillir. Sur une table Louis XV, on avait disposé une garniture de toilette crème bordée d'or et des flacons pleins de parfums. La porte de communication avec la chambre de Mme Taillard était largement ouverte. </p>
+        <p> Gégé, en entrant, faillit encore manifester sa joie. Mais l'expérience précédente l'avait instruit: il s'abstint de tout commentaire. Puis, une fois au lit, il rappela sa mère et M. Lecherrier, qui causaient dans la pièce voisine. </p>
+        <p> —Là, maintenant, il s'agit de dormir, dit Mme Taillard en achevant de reborder le lit.—Onze heures et demie! Si ce n'est pas honteux!... </p>
+        <p> M. Lecherrier se pencha vers son petit-fils: </p>
+        <p> —Eh bien, comment trouves-tu ta chambre? </p>
+        <p> —Gentille! fit prudemment Gégé, en se soulevant pour un baiser. </p>
+        <p> Mme Taillard tourna le bouton du lustre, et sortit, suivie de son père. </p>
+        <p> Par-dessus le haut des rideaux, la lune glissait un frêle rayon de la couleur des tentures. Il venait aussi un peu de lumière jaune sur le tapis par l'entrebâillement de la porte. </p>
+        <p> Mais, même dans l'obscurité complète, Roger n'aurait pas tout de suite cherché le sommeil. L'orgueil d'avoir gagné les trois parties l'enfiévrait. Il se sentait le cœur gonflé de plaisir, si près de sa mère, si près de son grand-père. Enfin, quelle chambre délicieuse! </p>
+        <p> Par exemple, il aurait préféré avoir plus de chagrin en apprenant le divorce. Puisque c'était un grand malheur, pourquoi n'en éprouvait-il pas plus de peine? Il essaya encore de s'attendrir, de se désoler, de pleurer. Il songea exprès aux choses les plus tristes, à sa soirée de la veille, au Nouveau-Cirque manqué. </p>
+        <p> Mais les larmes ne se laissèrent pas prendre à cette manœuvre rétrospective et refusèrent de se déranger. </p>
+        <p> Alors Gégé, las de les provoquer, ferma honnêtement les yeux et s'endormit du plus doux sommeil. </p>
+      </div>
+      <div title="IV" type="chapter">
+        <head> IV </head>
+        <p> Après une nuit exempte de rêves, Gégé qu'on n'avait réveillé qu'à huit heures, procéda sans hâte aux soins de sa toilette. Et vers neuf heures moins le quart, étant prêt, il descendit dans la salle à manger, où M. Lecherrier et Mme Taillard, près de la fenêtre ouverte, finissaient de déjeuner. </p>
+        <p> Sans aucun parti pris, Roger préférait de beaucoup le chocolat qu'on buvait chez son grand-père à celui qu'on buvait chez lui. L'arôme en était plus délicat, la facture plus mousseuse. Il se régala. Puis il avait cette sensation si amusante pour les enfants d'être en excursion, en voyage, presque à l'hôtel. Et tout lui en semblait meilleur: le ciel d'un bleu tranquille, la fraîche haleine de l'air matinal et cette fine odeur d'été qu'on ne trouve chez aucun parfumeur. </p>
+        <p> Jusqu'à l'institution Beaujoint, de l'avenue Marceau à la rue de Longchamp, le long de l'avenue du Bois, par ce beau temps, la route serait délicieuse! </p>
+        <p> Il fit à sa mère et à M. Lecherrier des adieux sans déchirement. Mais, la porte à peine close, il reparut pour recommander qu'on n'oubliât pas de lui envoyer à la boîte son complet gris numéro un, sa cravate bleu marine et ses souliers vernis. </p>
+        <p> —Puisque c'est convenu, mon chéri!—dit Lucie.—Seulement, tu te rappelles ce que tu m'as promis: tu seras raisonnable! Tu ne mangeras pas trop... Et tu diras bien à ton père que je t'ai prié de ne pas rentrer trop tard. </p>
+        <p> —Pour sûr!—répliqua Gégé, avec l'arrière-projet de s'acquitter loyalement de la commission, mais sans insistance superflue. </p>
+        <p> Et il rejoignit dans le vestibule Firmin qui l'attendait pour le conduire. </p>
+        <p> Les trois caractéristiques de l'institution Beaujoint étaient l'exiguïté du petit hôtel bourgeois qu'elle occupait rue de Longchamp, le prix relativement onéreux de la pension, qui ne montait pas à moins de quatre cent cinquante francs par mois, et le nombre restreint des élèves, invariablement fixé à dix. M. Beaujoint, quand il s'agissait de séduire les parents, s'attardait plus volontiers sur cette dernière particularité, qui donnait à son établissement comme un aspect de petite académie. Mais, à vrai dire, ces trois caractéristiques se commandaient, la quantité des élèves étant en raison directe des faibles dimensions du local et le chiffre de la pension en rapport avec le nombre réduit des élèves. </p>
+        <p> M. Beaujoint ne manquait pas non plus de signaler aux clients deux autres spécialités de sa maison: à savoir l'éducation mondaine et la perfection culinaire. </p>
+        <p> Sur le reste, il concédait que, dans les autres établissements privés ou dans les lycées de l'État, il n'y avait trop rien à dire. Mais pour la pratique des bonnes façons et pour l'hygiène alimentaire, il n'admettait pas de rival. Chez lui, l'enfant apprenait à «se tenir» comme nulle part, et, en ce qui concernait la table, on n'avait qu'à consulter les menus: viandes de premier choix et toujours rôties, lait de provenance contrôlée, vin de propriétaire. Aussi, à chaque repas, ne fût-ce qu'en manière de commémoration, M. Beaujoint avait bien soin de s'extasier devant ses élèves sur l'exceptionnelle qualité des mets. «Oh! oh!—s'écriait-il,—voilà un rôti de veau qui n'est pas précisément exécrable!» ou bien: «Voilà un bœuf en daube dont vous me demanderez la recette!» ou: «Voilà, si je ne m'abuse, un gigot de tout premier ordre!»—et cette variété dans les formules ajoutait encore à l'éloge un je ne sais quoi de plus persuasif. </p>
+        <p> Lorsqu'il eut parcouru la lettre de Mme Taillard excusant Gégé, il appliqua sur la nuque de celui-ci une tape bienveillante: </p>
+        <p> —Parfait, mon petit ami! Allez rejoindre vos camarades salle B. La leçon d'histoire vient de commencer. </p>
+        <p> Roger monta sans précipitation à la salle B, un ancien cabinet de toilette qui, par les jours d'été, fleurait la peau d'Espagne et l'eau dentifrice. Le professeur était occupé à narrer devant la division élémentaire, composée des deux Thomas—Thomas (Achille), Thomas (Antoine)—et de Pierre de Ribermont, les fastes de l'Assyrie. </p>
+        <p> Gégé l'écouta peu. Que lui importaient Téglath-Phalazar et Assourbanipal? Sa pensée était toute au dîner du soir. En aucune occasion, l'idée de revoir son père ne lui avait inspiré tant d'émoi et d'impatience. Était-ce la brusquerie, l'imprévu de cette séparation? il lui semblait qu'elle durait depuis des éternités. En outre, d'habitude, quand M. Taillard revenait d'une absence, le plaisir de Roger était à l'avance gâté par l'évocation des scènes d'intérieur dont ce retour allait infailliblement être le signal. Tandis que, pour ce soir, nulle crainte pareille. Ce n'est pas lui, Gégé, n'est-ce pas? qui se disputerait avec son père! Alors on dînerait tranquillement ensemble, sans doute au restaurant et peut-être même qu'après on irait à un théâtre quelconque. Bref, de toutes façons, cela finirait très bien. </p>
+        <p> Gégé continua ces pronostics optimistes durant toute la leçon d'histoire, puis durant toute l'étude subséquente. Et, à la récréation de dix minutes qui précédait le repas de midi, il rayonnait d'un tel contentement que Pierre de Ribermont ne put s'empêcher de lui en faire la remarque: </p>
+        <p> —Tu as l'air joliment content, mon vieux! </p>
+        <p> —Tu parles!—répliqua Gégé, qui maintenant considérait comme définitivement réglées toutes les phases de sa soirée.—Je dîne avec papa au restaurant, et, après, nous allons au théâtre... </p>
+        <p> Il s'était bien proposé de confier à Ribermont la nouvelle du divorce. A son meilleur ami doit-on rien cacher? Mais le récit de ces événements compliqués lui parut un effort pénible, et il l'ajourna à un autre moment. </p>
+        <p> D'ailleurs, la cloche sonnait pour le déjeuner. On descendit à la salle à manger où, devant un plat d'œufs brouillés, M. Beaujoint occupait déjà sa place de président. </p>
+        <p> Les œufs, quoique douteux, arrachèrent à M. Beaujoint des exclamations de volupté. Par contre, il eut de sérieuses difficultés avec le rosbif qu'on servit ensuite. Trois fois le cube de viande résista au couteau trois fois aiguisé. Tous les élèves se regardaient en dessous. Gégé, emporté par la belle humeur, ne sut pas se contenir, et, du ton le plus convaincu: </p>
+        <p> —Oh! oh!—s'écria-t-il,—voilà, si je ne m'abuse, un rosbif de tout premier ordre! </p>
+        <p> Un éclat de rire général répondit à cette parodie. De stupeur, M. Beaujoint, cramoisi, avait gardé son couteau en l'air: </p>
+        <p> —Taillard! Vous serez en retenue de dîner ce soir... Vous dînerez ici! </p>
+        <p> Les rires tombèrent, comme foudroyés. La retenue de dîner était une des punitions les plus redoutées à la pension Beaujoint. Comptée quatre francs aux parents, une fois donnée, elle ne se reprenait plus. C'était le châtiment sans rémission et sans appel. </p>
+        <p> —Oui,— poursuivit M. Beaujoint,—vous dînerez ici, et, qui plus est, je vous engage fortement à vous surveiller, si vous ne désirez pas aussi y passer demain votre dimanche... A ma table, je ne veux pas de macaques! </p>
+        <p> Quelques lâches sourires de complaisance accueillirent cette injure facile. Mais Gégé ne les aperçut même pas. Il était abîmé de chagrin. Toutes les tristesses des jours derniers s'amalgamaient en lui avec cette déception suprême. Pourquoi la malchance s'acharnait-elle ainsi contre sa quiétude, ses rêves et ses plaisirs? Les paroles de M. Lecherrier lui revinrent à la mémoire. Il songea à son père, à sa mère, séparés, ennemis. Il mêlait dans le même regret sa soirée perdue et le ménage de ses parents désuni. Il se sentait abandonné, persécuté, et, pour la première fois de sa vie, malheureux. Comment garder pour soi tout cela? Et, sitôt levé de table, entraînant à part Pierre de Ribermont: </p>
+        <p> —Dis donc, mon vieux, tu sais, il m'arrive un grand malheur—déclara-t-il, les regards à terre. </p>
+        <p> —Bah! fit Ribermont, résigné,—tu dîneras au restaurant un autre jour! </p>
+        <p> —Tu n'y es pas du tout... Je te dis qu'il m'arrive un grand malheur: mes parents divorcent! </p>
+        <p> —Ah!—fit Ribermont. </p>
+        <p> Puis, après une brève réflexion: </p>
+        <p> —En quoi est-ce que c'est un grand malheur pour toi? </p>
+        <p> Roger, pris de court par cette question, expliqua tant bien que mal: </p>
+        <p> —Comment! tu ne comprends pas?... C'est pourtant pas malin à comprendre! Mes parents sont fâchés. Ils ne vont plus vivre ensemble... Alors, moi, tu comprends, je vais me trouver entre eux comme ça... tiraillé... Je serai tiraillé tout le temps. </p>
+        <p> —Je ne dis pas,—accorda Ribermont,—je ne dis pas!... C'est très embêtant... Mais ce n'est pas un grand malheur! </p>
+        <p> Roger, vexé, riposta: </p>
+        <p> —Alors qu'est-ce que tu appelles un grand malheur? </p>
+        <p> —Je ne sais pas... Si tes parents mouraient... ou si ils étaient ruinés... ou si tu te cassais quelque chose... </p>
+        <p> —Eh bien, merci!—se récria Gégé, suffoqué à l'énumération de tant de catastrophes.—Enfin, moi, je te dis que c'est un grand malheur... Du reste, mon grand-père me l'a dit, et il s'y connaît un peu mieux que toi!... </p>
+        <p> Ribermont haussa les épaules et maintint: </p>
+        <p> —Peut-être qu'il s'y connaît mieux que moi... Mais ça n'est pas un grand malheur! </p>
+        <p> Devant une telle obstination, toute controverse devenait impossible. Gégé s'éloigna froidement. Quelle journée! Jusqu'à son vieux Pierre qui le lâchait et refusait de compatir! De dégoût, après déjeuner, au Bois, il bouda pendant toute la partie de foot-ball et resta assis sur un banc près du maître d'études, en prétextant une crampe à la cuisse. </p>
+        <p> Au retour, la classe de calcul n'atténua pas sa mélancolie, et quand, sur les quatre heures et demie, l'institution Beaujoint, au complet, s'achemina vers le gymnase Capdemas, le cœur de Gégé restait aussi morne et désemparé. </p>
+        <p> Non qu'en principe la gymnastique lui répugnât. Le trapèze, les anneaux, les barres lui avaient, au contraire, valu les plus jolis succès. Mais, avec M. Capdemas, on n'était jamais sûr que la leçon ne commencerait pas par une séance d'assouplissements; et Gégé, tout en enfilant son maillot bleu paon, pariait avec lui-même qu'aujourd'hui ça ne raterait pas. </p>
+        <p> Effectivement, les dix Beaujoint à peine alignés, M. Capdemas commanda, de sa voix méridionale qui ne faisait tort à aucune voyelle: </p>
+        <p> —Allons, mes petits... Aux massues! </p>
+        <p> Les massues! Gégé ne connaissait rien de plus ennuyeux que cette façon d'assommer en cadence et sans haine des adversaires absents. Il se dirigea lentement vers le râtelier et empoigna deux vieilles massues où quelques traces de vernis vert indiquaient encore la couleur de leur jeunesse. </p>
+        <p> —Taillard, au temps!... Taillard, gare à vous!... Taillard, ça va barder! </p>
+        <p> Les avertissements pleuvaient sur Gégé insensible. Comment exécuter en mesure et arriver à point, quand vos parents divorcent? Le père Capdemas pouvait s'époumonner tant qu'il voudrait. Avec une telle tristesse à l'âme, pas moyen de faire mieux. </p>
+        <p> —Taillard!—tonna enfin M. Capdemas, et si fort, cette fois, que le chétif écho de la salle s'en émut,—Taillard! deux heures de retenue, demain dimanche! </p>
+        <p> A ce nouveau trait du sort Gégé n'opposa qu'un ricanement amer. La retenue du dîner, la retenue du dimanche, le divorce, tout cela se tenait, rentrait dans la même série noire: il n'y avait qu'à s'incliner. </p>
+        <p> Mais comme, les yeux un peu voilés par les larmes, il prenait ces conclusions fatalistes, le commandement de: «Halte!» arrêta brusquement dans leurs assommades les dix petits hercules. </p>
+        <p> En arrière, les soieries d'une robe bruissaient sur le parquet. Dans la sèche odeur de sciure un frais parfum de white-rose passa. Roger, en louchant un peu, reconnut sa mère, au-devant de laquelle M. Capdemas s'avançait avec des sourires. Tous deux échangèrent quelques mots. Et M. Capdemas ordonna: </p>
+        <p> —Taillard, sortez des rangs... Pour les autres, repos! </p>
+        <p> Gégé s'était approché sans fierté. Sa mère l'embrassa. Puis M. Capdemas, lui collant à l'épaule sa main noueuse: </p>
+        <p> —Taillard, madame votre maman est venue me dire la situation spéciale et particulière qui existe chez vous... Elle vous recommande à mon indulgence... Alors, vu cette situation spéciale et particulière, je vous lève votre retenue. </p>
+        <p> Et désignant Roger à Mme Taillard: </p>
+        <p> —C'est que, quand il veut, le drôle, il fait comme un ange! </p>
+        <p> Gégé baissa modestement la tête, en raclant le sol avec le bout de son pied. Il se demandait si, par la même occasion, et sous le même prétexte, il ne pourrait pas envoyer sa mère chez M. Beaujoint pour obtenir la même grâce. Une espèce de pudeur le retint: si novice qu'il fût dans la situation «spéciale et particulière», charger sa mère d'intercéder pour qu'il dînât avec son père lui semblait peu gentil. Il préféra se borner à de chaleureux remerciements. </p>
+        <p> —Tu n'es donc plus fâché, serin?—lui demanda tout bas Ribermont, vers qui, en rentrant dans le rang, il avait hasardé un sourire de paix. </p>
+        <p> —Mais non!—chuchota Gégé. </p>
+        <p> Ils firent côte à côte le chemin du retour. Roger conta à Ribermont l'heureuse intervention de sa mère. Ribermont, par distraction, sans doute, enregistra sans triompher. </p>
+        <p> Mais, au moment où l'on arrivait, M. Beaujoint fit appeler dans son cabinet le jeune Taillard. </p>
+        <p> —Fermez la porte, mon ami,—dit-il avec une aménité insolite. </p>
+        <p> Puis, se grattant familièrement le mollet sous son pantalon: </p>
+        <p> —Vous avez vu votre père? </p>
+        <p> —Non, monsieur!—répliqua Gégé, la voix aussi ferme qu'il pouvait. </p>
+        <p> —Il sort d'ici et pensait vous retrouver chez M. Capdemas auquel il voulait vous recommander. Enfin, peu importe! J'ai reçu aujourd'hui d'abord la visite de madame votre mère; ensuite, à peu d'intervalle, la visite de M. Taillard... Vous devinez, je suppose, la pensée d'affection qui les avait guidés vers moi... Ils voulaient, chacun de son côté, m'apprendre la situation particulièrement touchante et intéressante qui vous est créée par le malheur que vous savez... Je leur ai promis de ne vous ménager, dans la circonstance, ni mes soins, ni mon bon vouloir... Et, pour première preuve, sur la prière de votre père, j'ai consenti à lever votre retenue de dîner... </p>
+        <p> —Oh! monsieur... merci bien!—balbutia Roger, étourdi par cette succession de coups de théâtre. </p>
+        <p> —Mais n'allez pas prendre ma bienveillance pour de la faiblesse... Et même, dorénavant, mon jeune ami, si j'ai un conseil à vous donner, méfiez-vous d'un certain esprit caustique auquel vous n'auriez que trop de tendance!... </p>
+        <p> Gégé remonta vers l'étude, au cri de plusieurs fois répété de: «Chic et veine!... Veine et chic!...» Il avait cette allégresse puissante et sans pensée des petits garçons sauvés par deux fois de la retenue. La joie le poussait comme un ascenseur, et il ne songeait plus du tout au divorce de ses parents. </p>
+        <p> —Eh bien?—murmura Ribermont, pressé de savoir. </p>
+        <p> —C'est papa qui est venu causer au père Beaujoint pour moi. On me lève ma retenue de dîner. </p>
+        <p> —T'en as une veine!—fit Ribermont, surtout frappé par la chance de son camarade. </p>
+        <p> —Tu parles!—confirma Gégé. </p>
+        <p> Il était habillé, paré, ganté, depuis une demi-heure, lorsqu'on lui annonça que son père l'attendait en automobile. Il dégringola, trois par trois, les marches de l'escalier. Et, après qu'on se fut embrassé tout son saoul: </p>
+        <p> —Où dînons-nous?—questionna Taillard.—M'est avis qu'il vaudrait mieux dîner aux environs du Nouveau-Cirque, où j'aurais l'intention d'aller ce soir, si tu n'y vois pas d'inconvénient. </p>
+        <p> —Oh! papa!—se récria gauchement Roger. </p>
+        <p> —Alors, chez Voisin!—dit Taillard au chauffeur. </p>
+        <p> Au restaurant, Roger s'assit en face de son père. Puis, tous deux, instinctivement, s'adressèrent un long sourire, presque un sourire d'amoureux. Taillard se sentait un peu ému en contemplant ce cher petit être dont maintenant il n'allait plus posséder que la moitié. Et Gégé, après tant de traverses, goûtait la molle béatitude de l'arrivée au port. </p>
+        <p> —Tu m'aimes bien?—interrogea tendrement Taillard. </p>
+        <p> —Oh! oui, papa!—fit avec élan Roger. </p>
+        <p> Le dîner lui parut un enchantement. Jamais, les soirs de théâtre, il n'avait éprouvé cette impression de parfaite sécurité, cette certitude solide que rien désormais ne le priverait du plaisir projeté. Au dessert, Taillard lui permit une coupe de champagne mêlée d'eau. Roger ne se rappelait pas l'avoir vu si jovial. Un autre homme tout à fait! Il ne s'assombrit qu'un instant, en entendant décrire les splendeurs de la chambre bleue. Mais, aussitôt, une étincelle malicieuse palpita au fond de ses yeux, et il déclara doucement: </p>
+        <p> —Cela ne m'étonne pas de la part de ton grand-père, qui est la bonté même. Ta mère aussi est une femme pleine de qualités... Et tu vois que ce n'est pas ce divorce qui nous empêchera de t'aimer! </p>
+        <p> —Oui... oui!—fit vivement Gégé, qu'un si brusque rappel aux choses du foyer avait d'abord décontenancé. </p>
+        <p> Par bonheur, c'était le moment de partir. Sans insister sur ce sujet épineux, qui ne le divertissait pas plus que son fils, Taillard solda l'addition et, à petits pas, on s'achemina vers le Cirque... </p>
+        <p> A la sortie, près du contrôle, Roger, qui s'était princièrement amusé, réfléchit que l'instant arrivait peut-être de faire sa commission concernant l'heure du retour. Mais, justement Taillard lui demanda: </p>
+        <p> —Es-tu fatigué? </p>
+        <p> —Pas du tout. </p>
+        <p> —Veux-tu que nous allions prendre quelque chose? </p>
+        <p> —Oh! oui! </p>
+        <p> Gégé, sitôt ces mots prononcés, les regretta. Tant pis! Déjà l'automobile les emportait par la nuit claire, le long des rues silencieuses. Et puis une demi-heure de plus ou de moins, le mal ne serait pas grand. </p>
+        <p> Une bavaroise au chocolat et un panier de brioches eurent vite raison de ce restant de remords. Il y avait dans la salle une foule de jolies dames en peau, avec des colliers de perles, des rubis, des diamants, des émeraudes et d'immenses chapeaux à panaches. Des tziganes ponceau jouaient des valses mélancoliques à en pleurer ou des marches américaines à vous rendre ivre de gaieté. La lumière ruisselait des lustres sur les fleurs qui jonchaient les tables. Comme M. Beaujoint, comme M. Capdemas, comme Mme Taillard elle-même étaient loin! De sa vie, Gégé n'avait passé une aussi bonne soirée. </p>
+        <p> Enfin Taillard lui fit signe de se lever. L'automobile les ramena avenue Marceau. Tout le long de la route, Taillard tint dans sa main la main de son fils. Sur le seuil, il dit: </p>
+        <p> —A samedi, alors... Du reste, d'ici là, je viendrai te voir chez M. Beaujoint. </p>
+        <p> Ils s'embrassèrent de deux forts baisers. Puis, comme la porte se refermait sur Gégé, Taillard regrimpa en voiture et se fit conduire à un restaurant de la rue Royale où Nelly Jelly l'attendait dans un cabinet. </p>
+      </div>
+      <div title="V" type="chapter">
+        <head> V </head>
+        <p> La semaine qui suivit compta pour Gégé parmi les plus douces de son existence. </p>
+        <p> Par un affectueux complot, malgré les premiers ennuis de la procédure ouverte, M. Lecherrier et Mme Taillard ne cessaient de montrer au pauvre enfant des visages immuablement souriants. Et, à la sérénité de cette vie nouvelle, sans disputes, sans scènes, il mesurait peut-être vaguement combien l'ancienne avait été amère et tourmentée. </p>
+        <p> Pour Taillard, il ne passait guère d'après-midi sans rendre visite à son fils. Au lieu de la mine soucieuse et revêche que Gégé lui connaissait jusque-là, il avait toujours l'air d'arriver à une partie de plaisir ou d'en revenir. </p>
+        <p> Tantôt il surgissait à l'heure du goûter, avec un assortiment de friandises qui faisaient les délices de la division élémentaire. Tantôt il venait vers l'heure de la sortie pour reconduire Gégé à pied ou en auto. </p>
+        <p> Quelquefois il s'était rencontré avec Lucie, qu'une même sollicitude poussait presque quotidiennement chez M. Beaujoint. Il y avait eu de la gêne et pléthore de gâteaux. Alors, par une entente tacite, ils se réservèrent chacun son jour. Roger ne coula donc plus un après-midi sans voir l'un ou l'autre de ses parents. Jamais il ne les avait tant vus ni si bien disposés. </p>
+        <p> Quant à M. Lecherrier, il jugeait avoir assez fait pour son petit-fils en ne découchant plus que dans la journée. Se cloîtrer en outre à domicile, par ces belles soirées d'été, lui paraissait un sacrifice au-dessus de ses moyens. </p>
+        <p> Dès le lendemain de l'installation de Gégé, il organisa donc, sous prétexte d'hygiène, une série de promenades nocturnes. </p>
+        <p> A huit heures, le cocher avait ordre d'atteler la victoria, et tout de suite après dîner, on partait vers le Bois au grand trot des deux bai-brun. </p>
+        <p> La grille franchie, l'équipage prenait le pas. Dans toutes les avenues les voitures foisonnaient. A ne distinguer ni leurs formes ni leurs chevaux, on eût dit une fête de lanternes. Un air rafraîchi et moite tombait du ciel bleuâtre. Souvent des victorias avaient leur capote baissée: sans le blanc d'une robe ou d'un chapeau se détachant sur le fond noir, on aurait pu les croire vides. Et Gégé se demandait quelle drôle d'idée les gens avaient de se calfeutrer ainsi par une température pareille. </p>
+        <p> —Respire bien, mon enfant!—disait M. Lecherrier pour détourner son attention.—Respire! </p>
+        <p> Et Gégé respirait de tous ses poumons comme sous l'oreille d'un ausculteur. </p>
+        <p> Par exemple, quant à étudier ses leçons pour le lendemain, depuis l'institution des promenades nocturnes, force lui avait été d'y renoncer. Il ne les savait plus que par exception et par bribes. Mais M. Beaujoint avait tenu sa promesse. Que les leçons fussent bien ou mal sues, une consigne générale d'indulgence, allant du plus rigoureux des maîtres au plus débonnaire des pions, préservait Gégé de toute atteinte. Chacun semblait connaître son malheur, le divorce de ses parents. C'était tout juste si, pour le principe, on osait discrètement gronder la sympathique petite victime. </p>
+        <p> Rien ne troublait donc son infortune. A peine un scrupule de probité l'avait-il incommodé quelques heures, quand, le même jour, respectivement, M. Lecherrier, puis son père, lui avaient annoncé que désormais dix francs lui seraient alloués chaque semaine pour ses dépenses de poche. Devant un aussi fort total, Gégé, d'abord fasciné, ne protesta pas. Mais, vers le soir, la conscience lourde, il consulta Ribermont. Celui-ci, toujours à court avec ses vingt sous par semaine, conseilla de laisser les choses en l'état. On donnait: pourquoi refuser? Et le surlendemain, sans doute comme rémunération de ses conseils, il priait Roger de lui avancer cinq francs, qu'il devait depuis des mois à Thomas (Achille), pour des billes. </p>
+        <p> Le jeune Taillard consentit à cet emprunt avec la bonne grâce du capitaliste que l'on tape pour la première fois. </p>
+        <p> Au reste, son esprit était ailleurs. Il ne voyait pas approcher sans plaisir le jour de son départ pour l'avenue d'Antin. Si choyé qu'il fût avenue Marceau, il s'attendait, chez son père, à des surprises nouvelles; et, par la force des choses, le goût du changement lui venait. </p>
+        <p> Les surprises escomptées commencèrent dès la veille, mais avenue Marceau. En rentrant, Roger, découvrit, au beau milieu de sa chambre, une magnifique malle en peau de truie, avec des coins de cuivre et les initiales R. T. imprimées en grosses lettre rouges. Et comme, abasourdi, il en faisait le tour, M. Lecherrier apparut, la moustache troussée par un sourire de vanité: </p>
+        <p> —Oui, c'est pour toi,—proclama-t-il en s'avançant.—Tu vas faire continuellement la navette entre ici et l'avenue d'Antin. J'ai voulu que tu aies une malle à toi, comme un homme! </p>
+        <p> Cette fois, la comparaison n'inquiéta pas Gégé. Il eut seulement un peu de honte en se rappelant la sorte de hâte qu'il éprouvait à quitter un grand-père si bon. Et cet embryon de remords s'accrut encore aux adieux du lendemain matin. M. Lecherrier, les lèvres molles, avait laissé éteindre sa pipe; Mme Taillard affectait un entrain visiblement factice. Gégé, très ému, leur fit promettre de venir le voir tous les jours chez M. Beaujoint; et, comme prévoyant l'objection: </p>
+        <p> —Je n'aurai qu'à dire à papa que vous venez à l'heure du goûter. </p>
+        <p> Devant ce gentil trait de sens pratique, M. Lecherrier et sa fille échangèrent un regard d'admiration. </p>
+        <p> —Tu es un ange!—déclara Mme Taillard en étreignant Roger tout fier de son succès. </p>
+        <p> C'était pour lui une manière d'absolution. Et il avait complètement oublié ses torts, quand, vers sept heures du soir, il parvint avenue d'Antin. La malle, venue par une autre voie, arrivait aussi. Mais Roger fut le premier en haut: </p>
+        <p> —Qu'est-ce que c'est que cette malle?—questionna dédaigneusement Taillard, qui du balcon l'avait aperçue. </p>
+        <p> —C'est ma nouvelle malle!—fit délibérément Gégé. </p>
+        <p> A cette explication, Taillard s'était un peu rembruni, comme chez Voisin, l'autre semaine, à l'occasion de la chambre bleue. Ç'avait été dans ses yeux le même nuage d'ombre, aussitôt chassé par la même étincelle narquoise. </p>
+        <p> —Très bien!—dit-il.—Maintenant il s'agit d aller vite t'habiller, parce que nous dînons au Bois. </p>
+        <p> Et, Roger tournant à droite: </p>
+        <p> —Non, pas par ici... Ta chambre était trop loin de la mienne; je t'ai installé à côté de moi, dans le fumoir.. </p>
+        <p> Il ouvrit la porte. Gégé exhala un «oh!» de ravissement. Ses pressentiments ne l'avaient pas trompé. Pour une «surprise», c'en était une! </p>
+        <p> En huit jours, de ce fumoir maussade, le tapissier, talonné par Taillard, avait fait la chambre la plus pimpante, la plus confortable qu'ait conçue le génie anglais. Tout y était harmonieux, tout s'y accordait en des tons parfaits, la nuance claire des meubles en bois d'olivier avec le net dessin des cretonnes britanniques, le papier d'un rose discret avec le cuir grenat des fauteuils. Aux murs, des gravures de chasse, serties de pitchpin vert, rehaussaient l'ensemble par leurs teintes crues. Près de la fenêtre, un «Sandow» laissait pendre ses minces serpents bariolés. Taillard n'avait pas commis un oubli. Mais quelle revanche aussi! Enfoncée, la chambre bleu de lin! Pour s'en convaincre, il n'y avait qu'à regarder Gégé. </p>
+        <p> Il ne se lassait pas de marcher à travers la pièce, d'examiner chaque meuble, d'inventorier son nouveau domaine. Taillard dut le bousculer pour qu'il se mît en tenue; et l'on ne parvint à Armenonville que sur le coup de huit heures et demie. </p>
+        <p> Gégé y retrouva avec satisfaction les charmantes dames décolletées, endiamantées, empanachées, qu'il avait tant appréciées, la semaine précédente, au sortir du Cirque. Ou, du moins, si ce n'étaient les mêmes, elles leur ressemblaient tellement que le plaisir des yeux demeurait pareil. Des tziganes, bleus cette fois, jouaient des airs identiques; et des fleurs pâmaient également sur les nappes. </p>
+        <p> A une table voisine, Roger remarqua une jolie jeune fille blonde à qui ses yeux myosotis, sa fine figure en triangle, et l'encadrement de ses boucles d'or, faisaient une tête de poupée anglaise. Vis-à-vis d'elle mangeait une sorte de vieille gouvernante bougonne et ventrue. </p>
+        <p> La jeune fille, presque à chaque bouchée, ramenait son regard en coin vers Gégé, qui se sentait intimidé et flatté. </p>
+        <p> Ces dames se retirèrent vers neuf heures et un monsieur, à côté, murmura pour son camarade: </p>
+        <p> —C'est la petite Nelly Jelly, des Ambassadeurs, avec sa mère. </p>
+        <p> Taillard prit un air détaché. Nelly Jelly intriguait depuis quelques jours, pour connaître, fût-ce de loin, Gégé. Mais, cette scabreuse faveur accordée, la plus grande correction s'imposait. </p>
+        <p> Roger reconnut encore la jeune fille blonde, le lendemain, aux courses d'Auteuil, où son père s'était décidé à l'emmener. Avant de partir, Taillard lui avait même fait présent d'une ancienne lorgnette qui était toute neuve. L'étui jaune en bandoulière, la carte au veston, Gégé paradait dans le pesage, comme un sportsman de vieille date. Pendant les épreuves, il regrimpait dans les tribunes, et, au rush final, il hurlait avec son père le nom du cheval qu'ils avaient joué. Il rentra avec deux louis de participation sur les bénéfices de Taillard et le ferme projet de devenir plus tard gentleman-rider ou jockey. </p>
+        <p> Ce soir-là, on dîna à la maison. La vieille Annette, restée au service de Taillard, multipliait les prévenances envers Gégé. Elle, jadis si exigeante sur la politesse, semblait maintenant quêter les regards de son petit maître pour mieux devancer ses désirs. Roger nota avec étonnement cette transformation. </p>
+        <p> —Vraiment, il fait trop chaud chez soi!—déclara Taillard à la fin du repas. </p>
+        <p> Aussi, les autres soirs de la semaine, dîna-t-on dehors. Armenonville alternait avec Madrid, Madrid avec les Ambassadeurs. Gégé ne quittait plus son smoking et s'amusait prodigieusement. </p>
+        <p> Il ne ressentait de malaise qu'aux visites quotidiennes de son grand-père et de sa mère. Il avait observé chez eux, quand il leur rendait compte de son existence, la même grimace de mécontentement que chez son père à la description de la chambre bleue ou à l'arrivée de la malle en truie. Alors, machinalement, il éteignit le ton enflammé de ses récits. Quelquefois même, par un raffinement d'égards, il feignait de ne pas tant s'amuser que cela et contait ses soirées d'une voix distraite, quasi dégoûtée. </p>
+        <p> —J'espère que tu es sage, que tu ne fais pas d'excès!—disait Mme Taillard, les lèvres pincées. </p>
+        <p> —Sois tranquille!—assurait Roger. ... J'ai pas envie de tomber malade, moi. Merci bien! </p>
+        <p> Le soir de son retour avenue Marceau, quoiqu'il fût sincèrement joyeux de rejoindre sa mère et son grand-père, il exagéra à dessein. Il sautait sur les canapés, sur les fauteuils, en criant: </p>
+        <p> —Ce que je suis content! Ce que je suis content!... </p>
+        <p> Mais tout l'effet de cette manifestation croula quand Gégé narra l'emploi de l'après-midi. </p>
+        <p> Taillard, le matin, avait informé son fils que ces emballages perpétuels lui semblaient oiseux, cette grosse malle encombrante et superflue: une double garde-robe serait bien plus pratique. </p>
+        <p> Et, là-dessus, après un mot d'excuse à M. Beaujoint, on avait passé la journée chez les fournisseurs, chez le chemisier de Taillard, chez son tailleur, chez son bottier. Tout une garniture de lingerie chez le premier, trois costumes et deux pardessus chez le second, quatre paires de souliers divers chez le troisième,—jusqu'au soir, les commandes s'étaient accumulées sans trêve. </p>
+        <p> —Il te faut un trousseau complet!—affirmait Taillard à chaque acquisition nouvelle. </p>
+        <p> Le «trousseau complet»! Qui, dans l'enfance, n'a souhaité un instant d'être pensionnaire, rien que pour posséder ce que les catalogues appellent un «trousseau complet»? Et Gégé ne pouvait se rappeler ces événements sensationnels sans un regain d'exaltation. </p>
+        <p> Malgré lui, il omit la réserve adoptée. Il entra dans des détails minutieux, vanta la forme des vestons, la couleur des étoffes, ne fit grâce de rien. Il n'en voyait même plus les coups d'œils sévères dont M. Lecherrier marquait chacune de ses phrases. </p>
+        <p> —C'est bon, mon petit!—dit celui-ci glacialement, quand Roger eut achevé. ... Maintenant laisse-nous... Ta mère et moi nous avons à causer. </p>
+        <p> Gégé sortit, avec la pesante impression d'avoir peut-être été trop loin. </p>
+        <p> Demeurés seuls, M. Lecherrier se carra les bras croisés, devant sa fille: </p>
+        <p> —Eh bien! qu'est-ce que je te disais? Le plan de ce monsieur est bien simple: il veut nous prendre le petit! </p>
+        <p> —Crois-tu?... Moi, je verrais plutôt dans tout cela de l'égoïsme. Il a besoin de la fête... Il y emmène Gégé... Il ne regarde pas plus loin... </p>
+        <p> —Et la malle?—s'écria M. Lecherrier.—Ce qu'il a dit de la malle, est-ce que c'est de l'égoïsme aussi?... Non, il y a là un ensemble de circonstances qui ne supporte pas la discussion. Ton mari n'a qu'une idée: débiner ce que nous faisons et persuader à Gégé qu'il fait mieux... Or un enfant, hélas! n'est qu'un enfant... Du jour où Roger pensera qu'il a plus d'avantages chez son père, c'est lui qu'il aimera, et pas nous... Voilà la vérité!... </p>
+        <p> —Soit, mais comment nous défendre? </p>
+        <p> —Je ne sais pas... La situation est très difficile... Il faudrait frapper un grand coup, inventer quelque chose d'équivalent au trousseau... Saisis-tu? </p>
+        <p> —Oui... seulement, quoi? </p>
+        <p> —Nous chercherons! </p>
+        <p> Au bout de trois jours, il avait trouvé. La riposte était ingénieuse, mais terriblement compliquée. </p>
+        <p> Elle consistait en une bicyclette du dernier style, avec un enchevêtrement de chaînes et de contre-chaînes, de freins et de contre-freins, trois changements de vitesse, un système de rétropédalage, mille perfectionnements diaboliques qui permettaient de marcher à reculons comme en avant, de gravir les côtes aussi vite qu'on allait en plaine, et dont la description seule n'avait pas pris au marchand moins d'une demi-heure. On appelait ce modèle «l'Alouette-extra». </p>
+        <p> Sur un fervent cycliste tel que Roger, un pareil bijou ne pouvait manquer de produire un gros effet. </p>
+        <p> —Mais à propos de quoi lui donner cela?—demanda judicieusement Lucie quand un peu avant le dîner, on apporta la machine. </p>
+        <p> M. Lecherrier hésita: </p>
+        <p> —Je verrai... Tiens je lui dirai que c'est pour ses vacances!... </p>
+        <p> Firmin avait reçu ordre de presser le service. </p>
+        <p> En vingt-cinq minutes on eut dîné, et on remonta dans le salon, au centre duquel, sous un vaste drap blanc, la bicyclette avait l'air d'une statue à inaugurer. </p>
+        <p> —Qu'est-ce que c'est que cela?—s'écria Roger dès le seuil. </p>
+        <p> —Regarde!—dit solennellement M. Lecherrier, en tirant à lui le vélum avec un noble geste de vieux magicien. </p>
+        <p> L'enthousiasme de Roger passa toutes les prévisions. Il obtint comme faveur de ne pas sortir: il voulait lier connaissance avec sa merveilleuse machine. On dut la lui porter dans sa chambre pour la nuit. Et, bien entendu, le lendemain, il eut la permission d'en user, escorté de Firmin sur un mauvais «clou», pour se rendre à la pension. </p>
+        <p> Auprès des neuf Beaujoint, le succès de l'Alouette-extra toucha à l'apothéose. Bon enfant, Gégé avait autorisé tous ses petits camarades à l'essayer, et il attendait avec impatience le suffrage de son père, qui devait venir, comme presque chaque jour, vers l'heure du goûter. </p>
+        <p> Taillard pourtant se montra tiède, et, après un coup d'œil sommaire à l'Alouette: </p>
+        <p> —Ça tombe à pic!—déclara-t-il.—J'ai justement en vue, pour le moment de tes vacances chez moi, un assez gentil petit poney... Alors tu pourras varier tes sports... </p>
+        <p> —Un vrai poney, pour moi seul?—s'exclama Gégé, encore incrédule. </p>
+        <p> —Oui!—fit négligemment Taillard. ... Une très jolie petite bête, ma foi, qui manque peut-être un peu de dressage... Mais d'ici septembre, nous avons grandement le temps de te la mettre en main! </p>
+        <p> —Oh bien! ça, c'est trop!—proclama Gégé, à bout de formules reconnaissantes. </p>
+        <p> Et, la visite terminée, il courut incontinent à Ribermont pour l'informer de l'heureuse nouvelle. </p>
+        <p> —J'espère!...—se contenta de répliquer Ribermont, qui commençait à être excédé des aubaines de son camarade. </p>
+        <p> —Crois-tu, hein!...—surenchérit Roger, feignant de ne pas remarquer cette froideur. </p>
+        <p> Cependant, elle lui inspira, du coup, une peur délicate. Si Ribermont prenait ainsi la chose, qu'en dirait-on avenue Marceau? Sûrement, le jour même de la bicyclette, ce poney leur ferait de la peine. Peut-être bien aussi que ça aurait l'air de leur demander un cadeau encore plus beau?... </p>
+        <p> Mais le scrupule n'est souvent qu'une première étape dans la mauvaise voie. Et, sans le vouloir, Gégé se mit à chercher ce qu'on pourrait lui donner de plus beau que le poney et l'Alouette. Son imagination s'emballa. Il rêvait de jouets extraordinaires, d'inventions féeriques, et Aladin n'était pas son cousin. </p>
+        <p> Si bien qu'il ne sut d'abord que répondre, lorsqu'au dessert M. Lecherrier questionna: </p>
+        <p> —Eh bien, Gégé, comment ton père a-t-il trouvé ta machine? </p>
+        <p> —Papa?...—fit-il, pour se ressaisir. </p>
+        <p> Mais aussitôt, d'eux-mêmes, ses bons sentiments lui soufflèrent: </p>
+        <p> —Papa? Il l'a trouvée épatante! </p>
+        <p> Et comme, la semaine d'après, en revenant de chez son père, il n'annonçait nulle gâterie nouvelle, le match de présents prit fin. Des deux parts, on croyait s'être maté. M. Lecherrier triomphait de son Alouette; Taillard, de son poney. On s'en tint désormais à des escarmouches, aux menus projectiles de rencontre: gants, cravates, un petit bijou de-ci, de-là. La guerre d'argent avait cessé. Ce ne fut plus qu'un tournoi de tendresse. </p>
+        <p> L'ardeur de la concurrence ne perdit pas au change. Rien ne développe le sentiment paternel comme le divorce. D'abord on se disputait l'enfant comme l'enjeu d'une partie dont la galerie est juge; puis l'amour-propre cède à l'instinct. A la pensée de se voir ravir le petit de son sang, on se découvre pour lui ces élans de cœur, cette ferveur d'affection que donne seule la crainte des départs éternels: on l'aime comme on ne l'a jamais aimé; on l'aime comme quelqu'un qui va peut-être mourir. </p>
+        <p> Et bientôt même la contagion ne tarda pas à atteindre Gégé. Sans se l'expliquer, il éprouvait pour ses parents une espèce d'attachement ému qui lui paraissait tout nouveau. Leur fréquentation n'était plus le plaisir banal qu'a émoussé la satiété. Les quitter, ne fût-ce que du matin au soir, lui semblait à présent une vraie privation; les revoir, une vraie réjouissance. Certes il les trouvait bien gracieux d'inviter si fréquemment à dîner ou à des promenades Ribermont et d'autres petits amis. Pour peu qu'on l'en priât, il s'avouait l'enfant le plus gâté de Paris. Mais surtout il leur savait gré de leur tendresse toujours grandissante. Souvent un baiser de son père, une étreinte de sa mère, une caresse de M. Lecherrier lui laissaient de la joie pour toute la journée, comme un cadeau reçu, comme un plaisir promis. Alors, à l'étude, en classe, tout à coup, l'envie lui venait de leur écrire des gentillesses, et il ne se retenait que par peur des plaisanteries. </p>
+        <p> D'ailleurs, depuis quelque temps, partout, c'était à qui se montrerait bon pour lui. Même au dehors, dans les relations de sa famille, chez les parents de ses camarades on ne l'appelait plus autrement que: «Mon pauvre petit Gégé!... Mon pauvre petit ami!...» Quand on l'embrassait, des soupirs effleuraient sa joue. Mais cette pitié ne l'attristait pas; elle lui faisait plutôt plaisir. Il se sentait intéressant, important, comme lorsqu'on est malade ou en deuil. </p>
+        <p> Il y avait cependant un point sur lequel, sans savoir pourquoi, il eût bien voulu être fixé. Quand le divorce serait-il terminé? Là-dessus les réponses de sa mère et de M. Lecherrier étaient toujours de plus en plus évasives: on ne pouvait rien affirmer, on ignorait,—et pour cause. </p>
+        <p> Tant qu'il ne s'était agi que de la division des biens, de l'attribution des torts, des prestations légales, l'affaire avait marché à grande vitesse. Mais, dès qu'on avait abordé le partage de l'enfant, tout s'était soudainement brouillé. Le statu quo ne plaisait plus. Les exigences des adversaires croissaient chaque jour avec la recrudescence de leur tendresse. Des deux côtés on se prétendait lésé, on chicanait sur la part de l'autre, on réclamait pour soi plus de Gégé. Tellement qu'à la fin, écœurés, les avoués avaient suspendu leurs pourparlers. </p>
+        <p> De temps en temps seulement, pour la forme, ils causaient du procès, au hasard d'une rencontre à l'audience ou d'une bavette aux Pas-Perdus. </p>
+        <p> Gimblet, l'avoué de Jacques, en voulait principalement à Roger. </p>
+        <p> —Vous verrez,—disait-il sans respect pour la situation du pauvre enfant,—vous verrez, c'est ce crapaud qui fera tout rater! </p>
+        <p> Mais Aubineau en avait plutôt à M. Lecherrier: </p>
+        <p> —Non, mon cher, pour moi, le pire, là dedans, c'est le vieux! </p>
+        <p> Et le fait est que, dans ce débat, M. Lecherrier témoignait d'un mauvais vouloir qui n'avait d'égal que sa mauvaise foi. Maintenant que son existence était à base de Gégé, il n'admettait pas qu'on lui en retirât une parcelle. Ah! non, assez de changements comme cela! Il tenait son petit-fils. Il n'en lâcherait pas un pouce, pas un millimètre. Et, par moments, dans la fougue de la lutte, on l'eût dit rajeuni de vingt ans, alors qu'il discutait, des heures durant, avec les clients, sur le tissu d'une pièce de soie. </p>
+        <p> A l'étude Aubineau, où l'on ne voyait plus que lui, pour tout le monde, du maître clerc au saute-ruisseau, il était devenu un objet de terreur. Mais on avait beau lui ménager les accueils les plus froids, le faire attendre, l'éconduire, il revenait le lendemain, chaque fois plus acharné et plus intransigeant. </p>
+        <p> Enfin un matin, comme on touchait aux derniers jours de juillet, Aubineau, qui depuis une quinzaine lui fermait sa porte, consentit à le recevoir et désignant un siège: </p>
+        <p> —Je suis d'autant plus heureux de vous voir, mon cher monsieur Lecherrier, que j'avais une communication pressante à vous faire... Voici... Hier, Gimblet et moi, nous sommes tombés d'accord que, nos pourparlers étant épuisés, il n'y avait plus qu'à plaider. Toutefois. comme dans deux semaines les vacances judiciaires vont s'ouvrir et que nous risquerions fort d'être remis à la rentrée d'octobre, nous avons pensé que, retard pour retard, on pourrait au besoin laisser tranquillement sommeiller l'affaire jusqu'à cette époque... D'ici là, peut-être que des concessions... peut-être qu'un peu d'apaisement se sera produit dans vos esprits et que nous découvrirons ensemble la solution satisfaisante... Voilà... Qu'en dites-vous? </p>
+        <p> M. Lecherrier demanda le temps de réfléchir. Mais, au fond, il commençait à être las de se démener ainsi sans aboutir, dans ce Paris brûlant et comateux d'où fuyaient une à une toutes ses petites camarades. Et l'offre d'Aubineau lui avait tout de suite souri. </p>
+        <p> Il n'en prit pas moins le ton le plus indifférent pour soumettre à Lucie le projet de l'avoué. </p>
+        <p> —Cela me paraît très bien!—approuva Mme Taillard. </p>
+        <p> Elle aussi ne souhaitait que de partir. La semaine d'avant, elle venait de rompre avec Alcide Barbier qui, décidément, ne lui procurait plus aucune espèce de plaisir. Elle avait hâte de quitter cette ville de désillusion où nul charme ne la retenait plus. </p>
+        <p> Restait à choisir la plage, car le docteur ordonnait à Roger la mer. M. Lecherrier penchait pour Trouville, dont le tumulte cacherait, à l'occasion, ses frasques; mais Lucie affirmait l'endroit trop mondain, sans ajouter qu'il était trop près d'Houlgate, où villégiaturaient les Barbier. </p>
+        <p> Gégé proposa Dieppe. Les Ribermont y possédaient une villa avenue Aguado, et ne demanderaient pas mieux que de s'entremettre pour la location. </p>
+        <p> On se rallia à Dieppe. En trois télégrammes, un joli cottage , sur la route d'Arques, fut signalé, décrit, loué. </p>
+        <p> Et, quatre jours plus tard, après de tendres adieux à son père, Gégé débarquait en gare de Dieppe, avec toute la maisonnée de l'avenue Marceau. </p>
+      </div>
+      <div title="VI" type="chapter">
+        <head> VI </head>
+        <p> Septembre approchait, et Gégé commençait à compter les jours sans savoir si c'était plus par joie de revoir son père ou regret de quitter sa mère. </p>
+        <p> Comme ce mois d'août avait filé! Quelles vacances! Non, dans tous ses souvenirs, Gégé ne s'en rappelait pas de si paisibles chez lui, ni au dehors de si étourdissantes. </p>
+        <p> Dès l'arrivée, d'abord, Ribermont l'avait affilié à une coterie ultra-fermée de petits garçons de bonne famille, qui faisaient, sur la plage, la pluie et le beau temps. A ceux du «groupe», comme on disait, tous les privilèges et toutes les faveurs. A eux les baigneurs les plus demandés, les premiers rangs aux bals d'enfants, la maîtrise de la terrasse, la suprématie sur le galet, les préférences des plus jolies petites filles. Mais quiconque n'appartenait pas au «groupe» était tenu pour nul et non avenu. </p>
+        <p> Annoncé par Ribermont comme un «chic type», Roger avait rapidement pris dans cette élite une forte situation. Son agilité, son entrain y aidaient, et aussi son Alouette-extra. Fastueux avec cela, grâce à ses semaines doubles, payant partout à gousset ouvert, il n'y avait plus de partie, plus d'excursion sans lui. Et dans tous les jeux, il était bien rare qu'on ne l'élût pas chef de camp. </p>
+        <p> Vers le milieu du mois, pourtant, les délices de cette popularité avaient failli être gâtées par un accident de correspondance au sujet d'un certain Bousingot, dont le nom revenait dans toutes les lettres de Taillard à son fils. «Bousingot t'envoie ses meilleures amitiés... Bousingot devient de plus en plus gentil...» A la troisième lettre, intrigué, M. Lecherrier s'était enquis du personnage. Et Gégé, comme une faute, avait dû confesser que le nommé Bousingot n'était autre qu'un petit poney alezan acheté en juillet, à son intention, par Taillard. </p>
+        <p> Mais, M. Lecherrier, aguerri maintenant à ces manœuvres, avait paru trouver la chose toute naturelle. </p>
+        <p> —C'est parfait. Seulement, il faut t'entraîner, mon garçon... Que dirais-tu, par exemple, de quelques sorties à cheval avec le maître de manège?... </p>
+        <p> Puis, le lendemain, il rapportait à Roger un cachet de douze promenades «accompagnées». </p>
+        <p> Le prestige du jeune chef de camp s'en accrut encore auprès de ses petits camarades du groupe. Quand il passait à cheval, avec l'écuyer en culotte mastic, c'était à qui le hélerait pour faire parade de son amitié ou le complimenter de sa monture. Entre temps, on avait appris que, pour la rentrée, son grand-père lui promettait un petit «tonneau»; et, dans toutes les villas du groupe, à tous les repas de famille, il n'était bruit que de Gégé Taillard, de son Alouette, de son poney et de son tonneau à venir. </p>
+        <p> Parmi tant de distractions, comme on pense, ses devoirs de vacances avaient cruellement pâti. </p>
+        <p> Un matin, saisissant le prétexte du départ prochain, Mme Taillard acheva de l'en libérer: </p>
+        <p> —Bah! tu travailleras en septembre, chez ton père... </p>
+        <p> Ce que Gégé ne se fit pas répéter deux fois. </p>
+        <p> Et dès lors, chaque après-midi, le déjeuner fini, au lieu de se morfondre dans les froides analyses logiques ou les funestes règles de trois, il partait avec sa mère en promenade. </p>
+        <p> Tendrement, bras dessus bras dessous, on s'en allait soit vers la campagne voisine, soit vers la plage, déserte à cette heure. Lucie s'asseyait sur un talus et tirait son ouvrage, tandis que Roger feuilletait auprès d'elle quelque journal illustré. Ou bien, si l'on avait gagné la plage, il cherchait pour Mme Taillard un pliant, et, accoté contre elle, le dos à ses genoux, il jetait devant lui des galets secs qui cabriolaient vers la mer comme dans une frénésie de suicide. </p>
+        <p> On ne disait presque rien. On allait se quitter. On y songeait. Et, dans le tourbillon de ses plaisirs, Gégé aimait beaucoup ces haltes de mélancolie qui ne l'empêchaient pas, une heure après, de s'amuser tant et plus. </p>
+        <p> Malheureusement pour Mme Taillard, sa tristesse durait bien au delà. En réalité même, depuis l'arrivée à Dieppe, cette tristesse n'avait pas cessé, et, chaque jour, se faisait plus obsédante. </p>
+        <p> Parmi les douleurs de la jeune femme, le départ de Roger n'était qu'une blessure prévue. Ses vrais soucis allaient plus loin, vers la vie incertaine et trouble qui s'ouvrait à présent pour elle. </p>
+        <p> Comment finirait ce divorce? Que lui laisserait-on de Gégé? Et ensuite, sans mari, sans amant, peut-être sans fils, que devenir?... Se remarier? Avec qui et dans quel intérêt?... Se risquer à une liaison nouvelle? Pour combien de temps et sur quelles garanties?... Ses chagrins passés la mettaient en méfiance, ses déboires récents en révolte. Et, pardessus tout, le mystère de tant de questions sans réponses l'affolait. </p>
+        <p> La pire infériorité des femmes, c'est de ne pas savoir attendre. Au bonheur même, leur impatience ne tolère pas la plus légère inexactitude: s'il n'arrive pas à l'heure dite, les voilà hors d'elles, perdues. Ou bien, danger plus grave, elles se mettent à sa recherche. Dans tout monsieur qui passe elles croient le reconnaître, quittes à tâter d'un autre, en cas d'erreur sur la personne. Et ainsi Lucie en était venue à se demander si le plus simple encore ne serait pas d'accepter sans façon, les offres de service que lui réitérait chaque matin, au Casino, Germain Chavanne, un assez joli garçon à moustache brune, camarade de cercle de M. Lecherrier, bien élevé, plutôt spirituel, et présentant, comme flirt, le maximum des qualités requises. </p>
+        <p> Cependant une autre solution la tentait. Mais si difficile, si aléatoire que rien que l'aborder lui faisait peur. Il fallut, pour l'y enhardir, la nécessité du dernier moment, juste la veille du jour où Roger s'en allait. </p>
+        <p> C'était après déjeuner au jardin. M. Lecherrier était remonté faire la sieste. Et comme Roger se disposait à le suivre, pour finir sa malle, Mme Taillard, dans un élan de courage le retint: </p>
+        <p> —Reste un peu, mon petit... Tu emballeras plus tard... Viens ici... J'ai à te dire un grand secret... </p>
+        <p> Elle attira Gégé sur ses genoux, et, la tête contre sa tête: </p>
+        <p> —Écoute bien, mon chéri... Ni moi ni ton grand-père nous ne t'avons jamais soufflé mot de ce divorce, parce que ce sont des choses qui ne regardent pas les enfants... Seulement de toi-même, tu as dû remarquer combien cette affaire s'éternisait!... </p>
+        <p> —Oh! oui, maman!—fit par politesse Gégé, à qui pourtant le temps n'avait pas semblé long. </p>
+        <p> —Et sais-tu pourquoi cela dure tellement? C'est à cause de toi... Note bien, je ne dis pas: «par ta faute», je dis: «à cause de toi...» Oui, tous les ennuis viennent de ce que ton père et moi nous ne parvenons pas à nous entendre à ton sujet... Nous voudrions chacun te garder entièrement, ou du moins t'avoir plus... Il en résulte des difficultés interminables... Et c'est pour cela que souvent tu me vois si triste, si préoccupée... </p>
+        <p> Sa voix fléchissait. </p>
+        <p> —Maman! Maman! tu ne vas pas pleurer!—fit Roger avec énergie. </p>
+        <p> —Eh bien!—reprit Mme Taillard en se dominant,—il y aurait peut-être un moyen de mettre fin à cette situation désolante: ce serait que, pendant le mois que tu vas passer là-bas, à Courteuil, tu tâches de me raccommoder avec ton père... </p>
+        <p> Gégé, inconsciemment, détourna les yeux. </p>
+        <p> —Regarde-moi bien, mon chéri,—continua Mme Taillard.—Naturellement il faudra y aller avec beaucoup de prudence. Ainsi, il serait de la dernière maladresse de dire à ton père que c'est moi qui propose cette réconciliation. Cela lui donnerait une trop grande opinion de ses droits sur toi, de ses chances dans le procès. Et après, s'il refusait, je serais trop humiliée... Non, il faudrait, au contraire, présenter l'idée comme venant de toi: une idée que tu aurais eue, tu comprends?... Tu dirais, je suppose: «Moi je suis sûr que si tu voulais te réconcilier avec maman, elle accepterait très bien...» Et s'il te questionnait, tu ajouterais que je t'ai toujours parlé gentiment de lui, que tu t'engages à tout arranger, que ça te ferait un plaisir énorme... La vérité, quoi! </p>
+        <p> —Oui, oui!—approuva Roger qui n'écoutait plus que d'une oreille bourdonnante. </p>
+        <p> —Je t'explique tout cela en gros... Je ne peux pas te mâcher tous les mots... Mais, une fois en route, je suis persuadée que tu t'en acquitterais à merveille... Voyons, ça te va-t-il? Puis-je compter sur toi? </p>
+        <p> —Oh! oui, maman!—répliqua faiblement Gégé. </p>
+        <p> Mme Taillard le rassujettit, car il glissait un peu de ses genoux, puis le pressant plus fort contre son buste: </p>
+        <p> —Seulement, dis-toi bien, mon petit, que ce que je te demande là, c'est pour toi, uniquement pour toi... Sans toi, crois-tu que la vie d'autrefois me referait envie?... Et il y aura aussi des gens qui se moqueront, qui prétendront que je ne sais pas ce que je veux... Mais moi, je le sais, et c'est l'essentiel... Je veux te garder... Je ne veux pas te perdre, mon cher petit, mon bon trésor... </p>
+        <p> Gégé, les paupières mi-closes, le nez dans le cou de sa mère, se laissait bercer sans défense. Par les mille petits trous du corsage ajouré, une tiède odeur de white rose et de chair s'exhalait vers lui. Il aurait aimé rester indéfiniment dans cette pénombre parfumée, n'avoir plus jamais de gestes à faire, ni de paroles à prononcer. Mme Taillard cependant le posa à terre. </p>
+        <p> —Là,—dit-elle, après un dernier baiser,—va achever ta malle, mon chéri... Et, je t'en supplie, pas un mot de tout cela à ton grand-père!... Si notre petit complot échouait, ce serait des histoires à n'en plus finir... Donc, tu me promets bien le secret? </p>
+        <p> —Je te le promets, maman!—fit Gégé, de profil, les yeux en biais vers la maison. </p>
+        <p> Maintenant, dans la pleine lumière, sous les regards de sa mère, il préférait cesser la conversation. Il gravit au galop l'étage qui menait à sa chambre et, la porte refermée, il commença, d'un geste machinal, à empiler ses livres. Mais aussitôt il dut s'arrêter pour essuyer une larme qui lui chatouillait l'aile du nez. Puis, c'en fut une autre, une autre encore. Alors, lâchant les empaquetages, il s'assit sur le bord du lit, les poings aux yeux pour pleurer à son aise. </p>
+        <p> Quel coup! Quel écroulement! </p>
+        <p> Deux ou trois fois, dans des mauvaises nuits, il avait rêvé que l'existence de jadis reprenait. Il se revoyait avec effroi entre ses parents aux prises. Il entendait les cris, les injures. Dans le brouillard du songe, il apercevait les verres brisés, les nappes souillées, les visages défigurés par la rage, les feux de la haine aux prunelles. Et ensuite il se retrouvait brusquement dans sa petite chambre, au fond du couloir, avec la rigoureuse Annette cousant en silence près de la lampe, tandis qu'au loin les portes battaient comme sous l'ouragan... </p>
+        <p> Mais, au réveil, il oubliait vite ces angoisses. Les rêves, est-ce que ça arrive? Et voici que tout de même ça arrivait! </p>
+        <p> Le cauchemar se faisait réalité. Bien pis, c'était lui, Gégé, qu'on chargeait de la métamorphose! </p>
+        <p> Adieu les dîners calmes et les journées de paix! Finies, les gâteries, les cajoleries, les surprises! Plus de petits voyages entre les deux maisons! Plus de regains de tendresse! Plus de changements! Plus de joies! </p>
+        <p> Et, à cette lugubre liquidation, Gégé, pour la première fois, sentait aussi clairement tout son bonheur depuis trois mois. </p>
+        <p> Certes, la minute d'avant, il ne s'estimait pas à plaindre; mais il ne se serait jamais jugé si heureux. Cette catastrophe était pour lui une vraie révélation. </p>
+        <p> Il n'y pouvait pas croire. Alors, quoi! véritablement, cela allait recommencer? Il faudrait replonger dans la tourmente, redevenir un pauvre petit diable, ballotté au gré des scènes, des querelles, et que personne n'aimerait plus! Car, lorsque les parents se détestent, est-ce qu'ils ont le temps de vous aimer? On les gêne, ils vous renvoient pour se disputer tranquillement: «Tout à l'heure, Gégé!» </p>
+        <p> A ce souvenir amer, il eut une nouvelle crise de larmes. Oh! pour qu'ils continuent à l'aimer bien fort comme ils faisaient depuis le divorce, qu'il aurait de bon cœur donné et l'Alouette et le poney et tous les plus beaux cadeaux du monde!... Mais voilà, il n'avait pas le choix! Dans les affaires de ce genre, on ne demande pas leur avis aux petits garçons. Il ne leur reste qu'à se taire et à obéir. Voilà!... Si seulement encore, il avait été hardi, et débrouillard comme certains de ses camarades, comme Ribermont, par exemple, peut-être bien s'en serait-il tiré, eût-il découvert un remède... D'ailleurs, au fait, pourquoi ne pas aller le consulter, ce malin de Ribermont? Il aurait sûrement une idée, lui!... Et Gégé cessant incontinent de pleurer ne songea plus qu'à effacer les traces de ses larmes. Puis, bien lotionné, bien séché, les paupières normales, le sourire aux lèvres, il redescendit. </p>
+        <p> —Où vas-tu donc?—demanda Mme Taillard, qui était restée à broder dans le jardin. </p>
+        <p> —Chez Ribermont, maman. </p>
+        <p> —Comment! ce n'est pas l'heure de son travail? </p>
+        <p> Gégé, qui n'avait pas prévu la question, trouva d'emblée son premier mensonge: </p>
+        <p> —Oh! je vais simplement chercher un livre que je lui ai prêté... </p>
+        <p> En entrant chez son camarade, il dut renouveler la même justification à Mme de Ribermont, qui traversait le vestibule. </p>
+        <p> —Très bien, mon petit ami!—fit celle-ci avec cette nuance de compassion qui se devait à Gégé.—Pierre est là-haut dans sa chambre. Il travaille. </p>
+        <p> Un travail très confidentiel, sans doute, car, à peine Roger ouvrait-il la porte, Ribermont précipita dans un tiroir le livre placé sous ses yeux. </p>
+        <p> —Eh bien! tu m'en as fait une peur!—s'écria-t-il en reconnaissant l'intrus. </p>
+        <p> —Qu'est-ce que tu lisais donc?—interrogea le jeune Taillard, qui savait le talent de Ribermont pour chiper chez son père des livres défendus. </p>
+        <p> —Un chouette bouquin, va!... Rudement chouette, même: Bélisaire , par Marmontel. </p>
+        <p> —C'est amusant?—questionna Gégé. </p>
+        <p> —Un peu!—dit avec fierté Ribermont, qui, malgré l'ennui écrasant de cette lecture, ne voulait pas diminuer l'importance de son larcin. </p>
+        <p> Gégé, distraitement, parcourut quelques lignes, puis, posant le livre: </p>
+        <p> —Dis donc, vieux, tu ne sais pas ce qui m'arrive? Voilà maintenant maman qui veut se raccommoder avec papa! </p>
+        <p> Et, sans omettre un mot, il conta en détail toute la scène du jardin. </p>
+        <p> Ribermont écoutait, partagé entre deux mauvais sentiments. Cette déconvenue de son ami, après une série de veine aussi prolongée, lui paraissait assez plaisante. Mais il en considérait avec moins de faveur les conséquences personnelles. En somme, jusque-là il avait largement bénéficié de ce qui advenait de bon à Gégé. Il était de toutes ses parties, de toutes ses promenades, de tous ses plaisirs. Sans parler des menus services pécuniaires, qui chaque mois montaient bien à une quarantaine de francs, Roger ayant pris l'habitude de se laisser taper en douceur. Ribermont se sentait donc directement menacé dans la débâcle de son camarade. </p>
+        <p> —Et alors?—fit-il, quand Gégé se fut tu. </p>
+        <p> —Alors, moi, je ne sais pas comment faire... Franchement, à ma place, qu'est-ce que tu ferais? </p>
+        <p> Ribermont, qui ne se distinguait pas par la suite dans les idées, répondit à côté: </p>
+        <p> —Et toi qui me disais que ce divorce était un grand malheur! </p>
+        <p> Roger ne put dissimuler un geste d'impatience: </p>
+        <p> —Je ne te demande pas ce que je t'ai dit. Je te demande ce qu'il faut faire!... </p>
+        <p> —Attends alors que je réfléchisse!—fit Ribermont avec aigreur. </p>
+        <p> Puis, sans réfléchir, à mesure que cela lui venait, il déclara: </p>
+        <p> —Moi, voilà, je ne sais pas... Ça dépend... D'abord, tu n'as pas besoin de te presser pour dire la chose à ton père... </p>
+        <p> —Ça, c'est vrai!—accorda Gégé. </p>
+        <p> —Et puis, tiens, à ta place, moi, je ne suis pas sûr, mais peut-être bien que je ne dirais rien du tout... </p>
+        <p> En entendant formuler tout haut l'ultime secret de ses arrière-tentations, Gégé eut un recul de pudeur: </p>
+        <p> —Oh! non... Ce serait trop mal... Pense donc! Moi qui ai promis!... </p>
+        <p> —Je ne dis pas que sûrement je ne dirais rien... Je te dis: «Peut-être...» Enfin, tu verras!... </p>
+        <p> Gégé, sans répliquer, tournait autour de la chambre, la tête basse, les mains enfoncées à la faire craquer dans les poches de sa culotte. </p>
+        <p> —Il faut que je m'en aille!—conclut-il. J'ai pas fini d'emballer. </p>
+        <p> Ribermont, à la fenêtre, le suivit du regard, tandis qu'il remontait l'avenue Aguado. Il marchait lentement au bord du trottoir, avec l'allure de la plus déchirante perplexité. </p>
+        <p> —Pauvre type!—prononça Ribermont, en repoussant la croisée. </p>
+        <p> Mais le lendemain, à la gare, pendant que M. Lecherrier faisait enregistrer les bagages, Gégé entraîna son ami dans un coin de la salle d'attente, et, du ton le plus résolu: </p>
+        <p> —Eh bien! tu sais... Je suis décidé... Je ne me presserai pas! Seulement, je le dirai... Y a vraiment pas moyen de ne pas le dire. </p>
+        <p> —Comme tu voudras!—fit Ribermont avec une moue d'adhésion sceptique. </p>
+      </div>
+      <div title="VII" type="chapter">
+        <head> VII </head>
+        <p> Depuis son arrivée à Courteuil, Gégé gardait la plus complète réserve sur les propositions de paix dont on l'avait chargé. </p>
+        <p> Non qu'il voulût éluder son mandat ou qu'il nourrît des illusions sur le dénouement. A ses yeux, désormais, c'était une affaire réglée, sans appel. </p>
+        <p> Mais raison de plus pour jouir tranquillement des dernières bonnes heures. </p>
+        <p> Et d'abord, fidèle à sa promesse de ne pas se presser, il s'était, d'autorité, octroyé une semaine de répit total. Puis la date des ouvertures venue, il avait continuellement trouvé d'autres motifs pour la proroger: une excursion, la présence d'étrangers, des signes de nerfs chez son père, tout lui servait. Et, bref, à bout de prétextes, il s'était rejeté sur la météorologie: pourquoi ne pas profiter pleinement de ces admirables journées? On aurait bien le temps, quand il ferait mauvais! Gégé n'attendait donc plus pour parler que le premier jour de pluie ou de bourrasque. </p>
+        <p> Mais, au fond, rien ne permettait de prévoir cette intempérie. Jamais septembre n'avait étalé plus insolente splendeur. On eût dit un jeune mois d'été. De l'aube au couchant, le soleil flambait grossièrement dans une atmosphère sans brise. Les nuits étaient mauves et tièdes comme des nuits de juillet. Et Gégé, en se levant, avait fini par ne plus même consulter le ciel, toujours d'un bleu à toute épreuve. </p>
+        <p> Du reste, sitôt debout, d'autres occupations le réclamaient, si nombreuses, si rapprochées, qu'avec l'assentiment de Taillard les devoirs de vacances leur avaient été, une bonne fois, sacrifiés. </p>
+        <p> Primo , en guise d'apéritif, un tour dans le parc, fort négligé par le propriétaire précédent et où des jardiniers se partageaient à retracer les allées, à émonder les arbres, à replanter les parterres. </p>
+        <p> Après quoi, le chocolat; puis, vite en selle! Et l'on partait vers la forêt de Chantilly, qu'on gagnait en quelques foulées. Venceslas, le cob rouan de Taillard, avait l'air du frère aîné de Bousingot, le poney alezan de Roger. Crinière rase, queue courte, toilettés, trapus et râblés, ils ressemblaient extraordinairement à ces petits chevaux grecs que Gégé avait vus dans son livre d'histoire. Bousingot, plus jeune, avait plus de fantaisie que Venceslas. Dès la porte, il décochait à la Nature deux ou trois solides saluts d'amitié avec ses sabots de derrière: </p>
+        <p> —Il est gai!—disait Taillard à Gégé, devenu subitement grave. </p>
+        <p> Car souvent la gaieté des bêtes fait la mélancolie des hommes. </p>
+        <p> Mais Bousingot, à peine en forêt, reprenait tout son sérieux, et il n'y avait pas d'animal plus sage, malgré sa vaillance. </p>
+        <p> Deux heures durant, on galopait, on voguait à travers ces larges canaux de terre grasse et brune qui font de la forêt de Chantilly comme la Venise des chevaux. On stoppait quelques instants dans un carrefour pour regarder les charges des pur sang à l'exercice, ou d'autres qui rentraient à la file en ricanant sous leur camail. On revenait au pas. On déjeunait. Et tout de suite, jusqu'au soir, dehors! Explorations aux environs en auto, visites aux châtelains d'alentour, tennis ou sauteries dans d'autres maisons, Gégé ne chômait pas une minute. Il s'était promptement créé des relations dans tout le voisinage, n'y comptait pas moins de trois vrais petits amis du sexe mâle, plus une petite fiancée très jolie, Janine de Royse. Et, le dîner achevé, il avait bien trop sommeil pour se reprocher l'oubli de sa mission. </p>
+        <p> Parfois cependant des scrupules venaient le taquiner au beau milieu de ses plaisirs. Ou bien, quand il écrivait à sa mère, il sentait comme des gros flots de vergogne lui monter du cœur au visage. Au fond, ce qu'il faisait là, ce n'était pas très chic. </p>
+        <p> La pluie s'obstinait à ne pas tomber. Huit jours seulement le séparaient de la rentrée. D'une façon ou d'une autre, il fallait en finir. </p>
+        <p> Enfin, à force de chercher, il eut une trouvaille. Non, il ne gâcherait pas inutilement cette dernière semaine de vacances; il la savourerait jusqu'au bout. Mais, par exemple, quoi qu'il arrivât, le jour de son départ, en allant à la gare, il dirait tout. </p>
+        <p> «Ça suffit bien!» conclut-il avec indulgence. </p>
+        <p> Et, du coup, il recouvra toute sa belle humeur. Elle ne s'atténuait qu'aux promenades du matin, où Taillard, depuis quelque temps, ne cessait de maugréer contre le pays, les environs, sa propriété. Décidément, il ne s'y plaisait pas du tout, oh! mais pas du tout. Il avait loué cette sacrée bâtisse avant ces diables d'histoires. Et maintenant elle devenait trop grande. A quoi bon ce second étage inhabité, ces chambres d'amis sans amis, avec leurs fenêtres aveugles, leurs volets toujours clos? A rien qu'à attrister encore la façade. Sûrement qu'il n'allait pas moisir dans cette sinistre bicoque! Gégé reconduit à Paris, il rentrerait au trot. Et, ouste! les malles, les chevaux, les voitures, un écriteau à la grille. Ensuite sous-louerait qui voudrait. Parce que, lui, il en avait par-dessus la tête. </p>
+        <p> Ces doléances quotidiennes assommaient Gégé, non sans l'étonner. Il lui semblait revoir son papa d'autrefois, avec la figure méchante, les bougonneries perpétuelles, le mécontentement chronique. Voyons, la maison, les environs, tout le reste, ne paraissaient pas si mal! Certainement qu'il y avait là-dessous d'autres raisons, pour se mettre dans un tel état. </p>
+        <p> En quoi Roger ne jugeait pas trop faux: car ce dont Taillard avait par-dessus la tête, ce n'était ni Courteuil, ni la bicoque, ni la contrée avoisinante. Son aigreur venait de bien ailleurs. </p>
+        <p> Au début, le retour à la vie de garçon, la noce en liberté, Nelly Jelly, les visites chez l'avoué, tout cela lui avait donné l'illusion d'une existence refaite et organisée. Pourtant les charmes de l'accent anglais n'ont qu'un temps, la fête à outrance lasse, les joies de la procédure sont limitées; et, Nelly Jelly, congédiée avec une honorable soulte, les plaidoiries ajournées, sitôt installé à Courteuil, Jacques avait soudain perdu l'assurance. Non qu'il fût de ces empruntés qui frémissent devant des comptes de cuisinière, et, au surplus, quant à la tenue de la maison, Annette y pourvoyait amplement. Mais quelque chose manquait à ses instincts bourgeois: une base d'attache, un contrepoids, ce qui vous retient sans vous lier, en un mot: le ménage. Il se sentait déséquilibré, dépareillé, voué fatalement au ridicule d'un mariage nouveau, sinon à la chute dans le collage. Sans oublier ce procès douteux où il risquait de laisser son fils, de se diminuer un peu plus!... Et, la présence de Roger aidant, graduellement, jour par jour, il avait pris le dégoût de son divorce. En somme, malgré un affreux caractère, cette Lucie était une bonne fille, une maîtresse de maison hors ligne, une mère exceptionnelle. Avant de se fâcher, elle en avait subi de toutes les couleurs. Ah! si elle voulait encore y mettre un peu du sien, voir les choses en face, se rendre compte de la situation, comme ce procès s'arrangerait vite! Et dix fois Jacques avait été sur le point de demander à Gégé l'auxiliaire de ses bons offices. </p>
+        <p> Mais le 30 septembre arriva, qu'il hésitait toujours. </p>
+        <p> Ce matin-là, depuis l'aube, la pluie tombait sans relâche. Le ciel étendait à perte de vue un désert gris de fer. Les arbres, avec des contorsions de désespoir, pleuraient leurs feuilles sous la rafale. Les vitres ruisselantes tremblaient de froid. </p>
+        <p> C'était bien le temps que Gégé attendait depuis près d'un mois, tout à fait le temps qui convenait au dernier jour d'un condamné. </p>
+        <p> —Quelle sale pluie!—murmura-t-il malgré lui, en regardant à travers la fenêtre le parc lamentable avec ses allées jaunies par l'averse et ses pelouses noircies de branches mortes. </p>
+        <p> Puis, le cœur pesant, les mains sans élan, il procéda mollement à ses apprêts de voyage. </p>
+        <p> «Plus que neuf heures!... Plus que huit!... Plus que sept!... Plus que six!...»—songeait-il, à chaque tintement de la pendule. </p>
+        <p> Il se répétait ces chiffres avec moins de crainte que d'impatience. Il aurait souhaité être déjà en voiture, seul à côté de son père, et que tout fût dit et accompli. </p>
+        <p> Mais comme, après goûter, on montait en coupé pour se rendre à la gare, M. de Royse, le propre père de la petite fiancée, ayant à faire dans Chantilly, demanda à Taillard un abri jusque-là. </p>
+        <p> Gégé en éprouva une sorte de soulagement. Si pressé qu'il fût de parler, ce sursis imprévu ne le contrariait pas tant qu'il aurait cru. Il le prolongea même au delà de la Grande-Rue, où l'on avait posé M. de Royse, car, en wagon, pour causer, on serait beaucoup mieux avec tout le laps nécessaire. </p>
+        <p> Mais, au sifflet de départ, bien que dans le compartiment il n'y eût que lui et son père, il recula encore. Il voulait, une dernière fois, contempler au passage les étangs de la Reine-Blanche, et, pour ne pas les manquer, il s'agenouilla contre la vitre. On sortait des bois. Le train passa au-dessus de la vallée. En bas, dans leurs impuissants remparts de feuillages, les étangs avaient cet air désarmé des pièces d'eau que l'ondée mitraille. Sous le vent, les roseaux du bord ne savaient plus où donner de la tête. Seule la petite chapelle romantique gardait son impassibilité de presse-papier. Puis, brusquement la vision cessa. Le moment était venu. Gégé se retourna avec un soupir, et, tout en balançant par contenance la sangle brodée de la portière: </p>
+        <p> —Papa!—fit-il,—je voudrais... </p>
+        <p> Mais, au même instant, Taillard, lâchant son journal, lui coupa la parole: </p>
+        <p> —Dis-moi un peu, mon petit... Tu es un grand garçon... Je n'ai pas à me gêner avec toi... Eh bien! entre nous, je vais te confier une chose... J'en ai assez de cette existence de bohème. J'en ai assez de ce divorce, de tes randonnées perpétuelles entre les deux maisons, de ce procès qui n'en finit pas et dont personne ne sait comment il finira... Les juges peuvent très bien te donner complètement à ta mère ou complètement à moi... Et alors nous serions jolis!... Tu sais que je n'aime pas à faire de l'attendrissement inutile... Mais si, par malheur, je perdais, si c'était à moi qu'on t'enlevait, tu vois d'ici ma vie... Elle serait impossible, intolérable... Eh bien! pour nous tirer de là, il n'y a que toi... Il faut absolument que tu essayes de me remettre avec ta mère... </p>
+        <p> Puis, saisissant la main de Gégé, il continua, d'une voix moins saccadée, l'exposé de son plan. C'était le même que celui de Lucie, avec les mêmes conseils de prudence, les mêmes recommandations d'habileté, les mêmes ruses naïves, les mêmes mots presque, et Gégé, les cils baissés, l'écoutait pétrifié. </p>
+        <p> D'abord, immédiatement, il avait eu l'élan d'arrêter net son père, de lui débiter d'un jet tous les vœux de Mme Taillard, si pareils. Mais dix questions prévues l'avaient aussitôt muselé: «Pourquoi ne l'avoir pas dit plus tôt? Pourquoi avoir attendu tout ce mois? Pourquoi ne s'être décidé qu'à la dernière minute?...» Voilà ce qu'infailliblement on allait lui demander. Et qu'y répondre? </p>
+        <p> —Naturellement, ce ne sera pas commode,—acheva Taillard.—Ta mère n'a pas toujours eu à se louer de moi... J'ai été souvent un peu dur à son égard... Pour commencer, elle fera peut-être des difficultés... Mais, si tu insistes, si tu y reviens avec fermeté, je suis convaincu que tu la persuaderas... </p>
+        <p> Et comme Gégé, écartelé entre la honte, l'angoisse, l'indécision, se butait dans son silence, Taillard le secoua affectueusement: </p>
+        <p> —Voyons, mon petit, dis quelque chose... Tu restes là avec un air ahuri... Est-ce que, par hasard, cette commission t'ennuierait? </p>
+        <p> —Pas du tout!—parvint à prononcer Roger. </p>
+        <p> —Alors, c'est entendu, tu essaieras? Je puis compter sur toi? </p>
+        <p> —Mais oui, papa!—affirma Gégé presque en larmes. </p>
+        <p> —Allons, bon! voilà que tu pleures, à présent! Il n'y a pas de quoi, bêta: si tu ne réussissais pas, crois-tu que je t'en voudrais? Pas du tout! </p>
+        <p> Et il détourna la conversation sur Bousingot, qu'on ramènerait incessamment à Paris, sur l'institution Beaujoint, qui rouvrait le lendemain, sur certain pardessus d'hiver, qu'il se proposait de commander à Roger. Mais celui-ci ne répondait qu'avec apathie. Ses yeux égarés semblaient considérer à l'intérieur un défilé de rêveries cruelles. Et, en effet, plus il y réfléchissait, plus sa situation lui apparaissait effrayante et inextricable. </p>
+        <p> De toutes parts il avait l'impression d'être bloqué, traqué, sans issue ni refuge. Il ne lui restait même pas la ressource de réparer en transmettant les offres de son père. Car, sitôt joints, en quelques mots, ses parents se révéleraient son premier silence, sa première faute. Et comment la leur expliquer? Comment leur dire la vérité? </p>
+        <p> Rien qu'à imaginer de si horribles aveux, Gégé se sentait le cœur en déroute. Après, que penseraient de lui son père, sa mère, M. Lecherrier? Est-ce qu'ils pourraient l'aimer encore, avoir encore confiance en lui? Non! Tout, plutôt que d'en tomber là! Même persister à se taire, même mentir au besoin, même se charger des pires remords... </p>
+        <p> —Allons! mon garçon,—s'écria Taillard.—Ne sois donc pas si absorbé: tu n'as pas besoin de te créer un monde de cette commission... Tu la feras demain, après-demain, quand ça se rencontrera!... </p>
+        <p> Et, tirant son sac du filet, car on approchait de Paris: </p>
+        <p> —Pourvu qu'à la fin de la semaine tu aies parlé, c'est largement... Je ne rentrerai pas avant samedi... Ainsi, cela te fait six grands jours devant toi... </p>
+        <p> Hélas! ce n'était pas ce qu'il avait devant lui qui inquiétait Gégé, c'était ce qu'il avait derrière: tout cet amas de demi-silences, de demi-mensonges, de demi-calculs, toute cette vase de vilaines choses où chaque effort pour se dépêtrer le faisait enfoncer davantage... </p>
+        <p> Un farouche sifflement de la locomotive lui donna une commotion. Le train courait dans un ravin charbonneux, bastionné de maisons jaunâtres et tristes. Des linges de couleur terne pavoisaient les croisées. A sa fenêtre, une grosse femme en camisole embrassait un homme en bourgeron bleu. On arrivait. </p>
+        <p> Sur le quai, Roger aperçut Firmin, qui l'attendait pour le conduire avenue Marceau. Puis, les bagages délivrés, Taillard mit son fils en fiacre: </p>
+        <p> —Au revoir, mon petit!... A samedi prochain, chez moi, avenue d'Antin... </p>
+        <p> Et, comme la voiture démarrait, il ajouta avec un clin d'œil confidentiel: </p>
+        <p> —A moins que, d'ici-là, il n'y ait eu du nouveau! </p>
+      </div>
+      <div title="VIII" type="chapter">
+        <head> VIII </head>
+        <p> —Comme ça, monsieur Roger s'est bien amusé! </p>
+        <p> —Très bien! </p>
+        <p> —Monsieur Roger a bien monté à cheval? </p>
+        <p> —Oui! </p>
+        <p> —Monsieur Roger a joliment profité... C'est madame qui va être contente! </p>
+        <p> —Oui, oui... </p>
+        <p> La conversation rendait peu. Firmin, à sec d'inventions, se retourna vers la portière de droite, tandis que Gégé regardait par l'autre. </p>
+        <p> Dehors, sous la pluie, les becs de gaz allumés commençaient leur faction de nuit dans le crépuscule. A travers la rue Lafayette, montait, descendait, pataugeait la bousculade des gens affairés, avec leurs vêtements médiocres, leurs mines soucieuses, leurs chapeaux hauts de forme,—toute la cohue du labeur parisien, si étrange, si nouvelle quand on revient des champs. Les tramways fonçaient lâchement sur les fiacres qui se garaient avec dédain et mauvais vouloir. Au carrefour Montholon, deux grisettes, sous un parapluie, sourirent gentiment à Gégé en lui lançant une plaisanterie. Plus loin, un apprenti nu-tête lui tira la langue. </p>
+        <p> Mais Gégé ne voyait pas, n'entendait pas. Il était tout à ses préparatifs. Quoi qu'en eût dit Taillard, il n'y avait pas une seconde à perdre. Dès l'arrivée, au saut de la voiture, on pouvait le questionner sur sa commission, lui demander des comptes; et il fallait savoir quoi répondre. </p>
+        <p> Rude tâche qu'un grand mensonge pour qui n'en a pas le génie ou l'habitude. C'est toute une œuvre à créer, à monter, à mettre en scène. Telle version risque de faire rire, telle autre s'expose aux grosses objections. Certaines répliques sont à couper alors qu'ailleurs des trous fâcheux gâtent l'ensemble. Le ton de voix importe aussi, comme le regard, le maintien, le choix des détails. Et Roger, tout neuf dans le métier, s'affolait parmi ces combinaisons, ne sachant plus à laquelle se vouer, jetant à bas les scénarios aussitôt que dressés, et désespérant d'aboutir. </p>
+        <p> Si bien que la voiture tourna dans l'avenue Marceau, sans qu'il eût rien arrêté. Du reste, la tête congestionnée, avec une oppression persistante qui lui courait de la gorge aux entrailles, il était à bout d'efforts. Et lorsque le cheval du fiacre pénétra sous la voûte de l'hôtel en faisant nonchalamment claquer ses fers, il éprouva une sensation de délivrance. Tant pis! Trop tard pour trouver maintenant. Il parlerait comme il pourrait, comme ça lui viendrait sur le moment. </p>
+        <p> Cependant, après les premières effusions, le malaise le reprit avec violence. En défaisant ses colis, en dînant, en jouant aux dames ensuite, il sentait, à toute minute, des émotions qui lui traversaient le cœur vivement, comme des petites aiguilles très fines: et, un instant, son grand-père l'ayant laissé seul avec Mme Taillard, pour chercher un cigare, il s'était cru perdu. Au jeu, il ne suivait pas, accumulait les fautes. Les meilleures plaisanteries ne lui arrachaient pas un sourire. A la troisième partie, M. Lecherrier finit par s'étonner: </p>
+        <p> —Ah çà! mais tu m'as l'air d'être devenu bigrement sérieux là-bas!... On dirait, ma foi, que tu n'es pas content d'être revenu ici? </p>
+        <p> —Moi!... Ah ben, vrai!—protesta Gégé.—Seulement je me suis levé tôt et je suis un peu fatigué. </p>
+        <p> —Ce n'est que cela? Il fallait l'avouer tout de suite, mon petit... Va te coucher au galop; nous terminerons la partie un autre jour... </p>
+        <p> Gégé, sans se faire prier plus, repoussa sa chaise et vint tendre la joue à son grand-père, puis à sa mère. Mme Taillard l'embrassa sommairement: </p>
+        <p> —Sauve-toi, mon chéri... Je monterai tout à l'heure te redire bonsoir dans ton lit... </p>
+        <p> Sous la surcharge de cette bonne promesse, Gégé gravit lourdement l'escalier. Cette fois, plus à reculer! Ce serait pour ce soir! Dans quelques minutes il faudrait mentir, mentir tout haut, mentir pour de bon, mentir! Il se répétait machinalement à mi-voix le mot abominable, sans même plus chercher quels mensonges il ferait ni comment il les accorderait: «Mentir! Mentir!» </p>
+        <p> Il se déshabilla d'une main tâtonnante. Et, comme il grimpait dans son lit, il entendit sur le palier des pas légers, puis des étoffes soyeuses frôlant le tapis du couloir. </p>
+        <p> Sa mère approchait. Elle allait entrer. Que lui dire? </p>
+        <p> —Eh bien, mon pauvre Gégé!—soupira Mme Taillard en se penchant sur le lit.—J'ai compris, n'est-ce pas?... Ta fatigue n'était qu'un prétexte... La vérité, c'est que tu m'apportes des mauvaises nouvelles? </p>
+        <p> Roger, étendu sur le dos, le regard en fuite, approuva de la tête. </p>
+        <p> —Voyons, comment ça s'est-il passé? Quand lui as-tu parlé? </p>
+        <p> Gégé, la voix chancelante, improvisa: </p>
+        <p> —La semaine dernière, un matin, à cheval, dans la forêt... </p>
+        <p> —Et qu'est-ce qu'il a répondu? </p>
+        <p> —Rien. </p>
+        <p> —Comment, rien? </p>
+        <p> Gégé, au supplice, corrigea: </p>
+        <p> —Enfin, il a dit: «C'est bon! je verrai!» </p>
+        <p> —Pas autre chose? </p>
+        <p> —Non maman! </p>
+        <p> —Mais quel air avait-il en disant cela? </p>
+        <p> —Je n'ai pas vu... Papa était plus haut que moi... Son cheval est plus grand que le mien... </p>
+        <p> —Mais son ton, ses gestes? Paraissait-il fâché, énervé? </p>
+        <p> —Il me semble... </p>
+        <p> —Et tu n'as pas renouvelé ton essai? </p>
+        <p> —Non, j'ai pas osé... </p>
+        <p> Mme Taillard posa au front de son fils un baiser prolongé, et, avec un accent de grande lassitude: </p>
+        <p> —Que veux-tu, mon pauvre enfant! Tu as fait ce que tu pouvais; nous n'avons plus qu'à laisser aller les choses... </p>
+        <p> Elle redressa l'oreiller, rajusta le drap sur la couverture de satin bleu pâle: </p>
+        <p> —Là, maintenant, dors, mon chéri... Ne te fais pas de souci. Dans tout cela, hélas! tu n'es pour rien! </p>
+        <p> Puis, tournant le bouton de l'électricité, elle se dirigea vers sa chambre, dont elle repoussa la porte jusqu'au chambranle. </p>
+        <p> Gégé, dans l'obscurité, appuyé sur les coudes, écoutait de tout son être. Un moment, il crut percevoir des sanglots. Mais la porte presque jointe ne laissait échapper que des bruits confus. </p>
+        <p> Il retomba sur son traversin. Un peu de sueur lui mouillait les tempes. Quelle torture! Quelle honte! Quelles minutes terribles!... Et, la semaine suivante, avec son père, il faudrait encore inventer d'autres mensonges, passer par les mêmes transes, subir les mêmes questions. Dans ces conditions, Gégé commençait à trouver que les douceurs du divorce se payaient bien cher. </p>
+        <p> Jamais il n'avait éprouvé pour lui-même un pareil dégoût. A plat ventre, la figure contre son oreiller, il chuchotait désespérément: </p>
+        <p> —Ah! c'est du propre! Ah! c'est du beau!... </p>
+        <p> Et, par-dessus le marché, personne à qui se confier. Pas même Ribermont qui, dans les derniers temps, par son cynisme, avait perdu aux yeux de Roger toute espèce de prestige moral. Personne! </p>
+        <p> Mais soudain, dans ce noir abandon, un nom jaillit comme une lueur de sauvetage: l'abbé Moussoir. </p>
+        <p> C'était un vieil ecclésiastique cévenol qui remplissait chez M. Beaujoint des fonctions analogues à celles d'aumônier. Un peu aigri par sa carrière sans éclat, impitoyable au catéchisme, pourtant, à certains mots, à certains regards attendris sous ses gros sourcils de laine grise, on le devinait capable de bonté. Pourquoi ne pas s'adresser à lui? La semonce serait sévère, mais le conseil prompt et direct. </p>
+        <p> Gégé, seulement, se donnait jusqu'à la fin de la semaine pour essayer de sortir sans aide de ses mensonges. Passé ce délai, l'abbé saurait tout. </p>
+        <p> Cette perspective d'un refuge possible dans le désastre lui rendit du calme. A côté, la lumière s'était éteinte, rien ne bougeait plus. Gégé, exténué, s'endormit progressivement. </p>
+        <p> Et, le lendemain matin, quand il vint dire au revoir à sa mère, il se sentait tout ragaillardi, tant par cette nuit de bon sommeil que par ses vues sur l'abbé Moussoir. </p>
+        <p> Mme Taillard, en peignoir de soie vert mousse, examinait des dentelles, près de la fenêtre. </p>
+        <p> —Déjà levée, maman!—s'écria Gégé. </p>
+        <p> —Oui, mon chéri, j'ai un tas de courses à faire ce matin. </p>
+        <p> Elle aussi paraissait reposée, le teint frais sous une couche de poudre légère, les paupières nettes, sans cernures, et dans les yeux comme une clarté de vaillante humeur. </p>
+        <p> —A propos, mon enfant!—fit-elle, pendant que Roger enfilait son paletot. ... Nous avons oublié un détail important... C'est bien samedi prochain que tu revois ton père?... Mais où cela? A Paris ou à Courteuil? </p>
+        <p> —A Paris donc! Papa rentre de Courteuil samedi matin. </p>
+        <p> —Tiens! je croyais qu'hier il était revenu avec toi? </p>
+        <p> —Oui, mais il ne reste qu'une journée à Paris et il rentre là-bas ce soir pour surveiller le déménagement. </p>
+        <p> —C'est très bien... Alors à tantôt, mon chéri! </p>
+        <p> Elle savait ce qu'elle voulait savoir. Sitôt Gégé parti, elle sonna la femme de chambre: </p>
+        <p> —Vite, Julie, mon costume tailleur gris... Mon grand chapeau avec des roses... </p>
+        <p> Et, une heure plus tard, au bureau de télégraphe de la rue Clément-Marot, elle demandait un petit bleu. Puis, ayant libellé l'adresse: «Monsieur Jacques Taillard, 108, avenue d'Antin», elle écrivit ces quelques lignes: </p>
+        <div>
+          <p> Je voudrais vous parler. Je vous attendrai, ce soir, à six heures, en voiture, avenue du Bois, côté gauche, entre le 19 et le 21. Si, vraiment, vous ne me haïssez pas trop, venez. </p>
+          <p> LUCIE. </p>
+        </div>
+        <p> Avant de glisser le télégramme sous la languette de cuivre, elle eut une dernière hésitation. C'était peut-être une énorme bêtise que cette lettre, une maladresse sans nom que cette démarche. Mais quand l'incertitude n'est plus tenable, quand on veut à tout prix reconquérir son fils, qu'importent les petits risques d humiliation ou de ridicule? Est-ce que ces choses-là doivent compter pour une mère? Et, d'une héroïque chiquenaude, elle lança dans la boîte son projectile de papier bleu. </p>
+        <p> Une fois rentrée, elle s'était bien promis de sortir dès le déjeuner et de multiplier les achats, les commandes, les courses, jusqu'à la nuit, pour se distraire. Cependant, au moment de se rhabiller, le courage lui manqua. A quoi bon traîner de force dans les magasins ses inquiétudes et ses espoirs dont rien ne la détournerait? Pourquoi gaspiller là des énergies dont elle n'allait avoir que trop besoin? Elle demeura donc toute la journée dans sa chambre, comme une malade qui se ménage avant l'opération. Elle ne pouvait, du reste, ni lire, ni broder, ni se mouvoir, engourdie au fond de sa bergère par dix questions, toujours les mêmes, dont le bourdonnement ne cessait pas. Jacques viendrait-il? S'il venait, que lui dire? S'il refusait le retour à la vie commune, quel parti adopter? Le supplier sans orgueil? Ou renoncer avec dignité? Et s'il ne venait pas, quelle riposte choisir? Le silence méprisant? Ou la lettre cruelle? </p>
+        <p> Elle s'interrogeait encore, que le jour commença à baisser. Alors, vivement, elle s'apprêta: une toilette très simple, un vaste voile noir formant cloche, beaucoup de son mélange au white rose. </p>
+        <p> Puis, à peine dehors, ayant rencontré un fiacre fermé, elle se fit mener au rendez-vous. </p>
+        <p> Quoique en avance, elle n'eut pas à s'impatienter. De loin, au bord du trottoir, sous un bec de gaz, elle avait immédiatement reconnu Jacques, sa cape en feutre beige posée un peu de côté, sa svelte et vigoureuse stature sanglée dans un complet de cheviotte marron. </p>
+        <p> —Eh bien?—questionna-t-il gaiement, après avoir ordonné au cocher de les conduire vers le Bois. </p>
+        <p> —D'abord merci, mon ami... Mais savez-vous seulement pourquoi je vous ai prié de venir? </p>
+        <p> —En voilà une question! C'est pour nous remettre ensemble, je suppose. </p>
+        <p> Elle murmura, d'une voix qui tremblait: </p>
+        <p> —C'est vrai?... Vous voudriez bien?... </p>
+        <p> —Dame! sans cela, pourquoi serais-je ici? </p>
+        <p> —Mais ce que vous avez dit à Gégé?... </p>
+        <p> —Gégé aura mal fait ma commission, mal répété mes paroles... Et puis à quoi bon épiloguer sur tout cela? Grâce à ce brave enfant, nous voilà réunis pour nous entendre, pour causer... Si tu veux, causons, ma petite... </p>
+        <p> Il corroborait ce tutoiement d'une tendre pression de la main. Lucie retira pudiquement ses doigts; mais, comme il n'insistait pas, tout en parlant, peu à peu, d'elle-même, elle ramena sa main dans la main de Jacques. Au bout d'un instant, d'ailleurs, abdiquant toute grandeur tragique, elle s'était remise d'instinct à le tutoyer aussi. Et l'on s'occupa rapidement de régler l'avenir. D'abord, on n'habiterait plus avenue d'Antin, où planaient trop de mauvais souvenirs. On louerait autre part; et, en attendant que le logis fût prêt, on irait avec Gégé s'installer une pièce de deux mois à Courteuil, histoire de refaire connaissance et de se pardonner dans l'intimité ses petits méfaits respectifs. </p>
+        <p> Puis, alors, n'ayant plus rien à se dire ils passèrent naturellement du silence aux baisers. Dans l'ombre du fiacre qui allait au pas, Lucie avait la malicieuse impression qu'un amant nouveau la pressait dans ses bras, et Jacques, partageant sans doute l'illusion, faisait tout ce qu'il fallait pour la fortifier. Néanmoins, durant une pause, il demanda la permission de consulter sa montre, et, grattant une allumette: </p>
+        <p> —Bon sang!—dit-il.—Sept heures moins le quart!... J'ai raté mon train. </p>
+        <p> —Pauvre chou!—s'écria Lucie distraitement.—Où vas-tu dîner? </p>
+        <p> —Dans un cabaret quelconque... </p>
+        <p> —Viens donc plutôt dîner à la maison chez papa. </p>
+        <p> Jacques la considéra, stupéfait: </p>
+        <p> —Non? </p>
+        <p> —Oh! puisque tôt ou tard, il faudra le mettre au courant, pourquoi pas ce soir? </p>
+        <p> —Tu crois? C'est peut-être une idée... </p>
+        <p> Et, se penchant par la portière, il cria au cocher l'adresse de l'avenue Marceau. </p>
+        <p> Au même moment, en compagnie de Firmin, Gégé quittait à pied l'institution Beaujoint. Dans le brouhaha de la reprise scolaire, son secret lui avait semblé moins lourd que la veille. Et, sans y renoncer absolument, le recours à l'abbé Moussoir ne lui paraissait plus si indispensable. En manière de mortification, toute la journée, il s'était appliqué à ses devoirs et à ses leçons comme jamais il ne l'avait fait. Il rapportait un carnet de correspondance criblé de mentions excellentes: grammaire française, très bien ;— histoire, très bien ;—conduite, bien ;—récitation, très bien ; le reste à l'avenant. Alors, de tant de bonnes notes, sa culpabilité ne devait-elle pas être un peu amoindrie? Qui sait même si, en continuant dans cette voie, il n'arriverait pas à liquider entièrement ses comptes de conscience? Il se voyait déjà premier dans toutes les branches, raflant tous les prix de fin d'année, réhabilité par le travail. Et il en oubliait tout à fait Firmin, qui cheminait tristement derrière sans pouvoir s'expliquer cette nouvelle disgrâce. </p>
+        <p> Il daigna cependant lui adresser la parole, en apercevant, au porte-manteau du vestibule, près du large chapeau de M. Lecherrier, un élégant melon de feutre beige. </p>
+        <p> —Tiens, qui dîne ici? </p>
+        <p> —Je ne sais pas, monsieur!—répliqua Firmin sur un ton de froide réserve. </p>
+        <p> Gégé, très intrigué, n'en monta pas moins vers sa chambre pour y faire le bout de toilette réglementaire. </p>
+        <p> Mais à l'entresol, il entendit dans le fumoir une rumeur de causerie si animée que, malgré lui, il s'arrêta. Qui pouvait bien être là? Bah! on n'avait qu'à regarder. Et, sa casquette aux doigts, comme par étourderie, il ouvrit d'un seul trait la porte. </p>
+        <p> Grand Dieu! Pas possible!... Mais si!... Là-bas, au fond de la pièce, sur le divan, la main dans la main, c'était bien son père et sa mère qu'il voyait, et en face d'eux, dans un fauteuil, M. Lecherrier qui, le binocle au nez, parcourait tranquillement le Temps . </p>
+        <p> Au bruit de la porte, tous s'étaient retournés. </p>
+        <p> —Ah! voilà votre petite victime!—annonça M. Lecherrier avec bonhomie. </p>
+        <p> —Dites plutôt notre petit sauveur!—rectifia Taillard. </p>
+        <p> Et avant que Roger, blême d'épouvante, eût pu se retourner, proférer un mot, on l'enlevait du sol, on l'étouffait de baisers, on se le repassait de bras en bras, avec accompagnement d'apostrophes passionnées: «Mon bon loup, mon amour, mon ange, mon trésor!...» On recommençait, on ne se lassait pas. Enfin Taillard arracha son fils à ce maelstrom de caresses, et, le reposant à terre: </p>
+        <p> —Hein, mon garçon, ça n'a pas traîné! Tu ne t'attendais pas à celle-là? </p>
+        <p> —Oh! non!—exhala sincèrement Gégé. </p>
+        <p> —Mais regarde-moi donc, mon chéri!—fit Lucie.—Tu es tout pâle... Qu'est-ce que tu as? </p>
+        <p> —Ce qu'il a?—interrompit fort à propos M. Lecherrier.—Tu demandes ce qu'il a? Il est bouleversé, ce petit... On le serait à moins... N'est-ce pas, Gégé, l'émotion t'a donné un coup? </p>
+        <p> —Oui, grand-papa, c'est ça! </p>
+        <p> —Parbleu!... Alors, va vite te passer de l'eau sur la figure pour te remettre... Et tu nous rejoindras en bas, parce que, moi, je commence à avoir une faim peu commune! </p>
+        <p> Roger sortit d'un pas automatique et, pour grimper, empoigna la rampe. La dépression maintenant l'accablait. Des tremblements vibraient dans ses jambes. Il avait le cerveau brouillé et endolori, comme si on lui eût mis la tête à l'envers... Quelle histoire! C'était positivement à devenir fou! Comment! Ses parents se réconciliaient, les adversaires fraternisaient. Et, au lieu de reproches, d'outrages, de mépris, on l'embrassait, on le fêtait, il était le petit sauveur!... Plus tard, sans doute, l'énigme s'éclaircirait. Mais, pour le moment, il ne fallait pas essayer de comprendre. </p>
+        <p> Par contre, peu à peu, il éprouvait une étrange sensation d'allégement. Il ne croyait pas à son amnistie totale, il se savait toujours sous le coup de sa faute. Pourtant il lui semblait que toutes ses hontes, toutes ses craintes, s'en allaient par une fuite cachée, tandis qu'un bien-être nouveau montait doucement à leur place. Il se sourit dans le miroir de la toilette avec sympathie. En somme, tout cela ne s'arrangeait pas si mal! </p>
+        <p> Mais il achevait à peine cette constatation qu'un choc brutal lui heurta le cœur. Et, de chagrin, il lâcha sa brosse à ongles, qui coula à pic au fond de la cuvette... </p>
+        <p> Il venait de revoir brusquement la réalité que depuis deux jours lui masquaient ses remords: le divorce abandonné, le divorce rompu, c'est-à-dire ce qu'en secret il redoutait le plus, ce qu'il avait d'instinct tout fait pour retarder indéfiniment!... </p>
+        <p> Voilà qui devenait autrement grave que de simples problèmes de conscience. A présent, plus à compter sur les remises possibles, sur les silences, sur les hasards! La paix était signée. Le bon temps finissait. C'était bien le triste retour à jadis. C'était la rentrée! </p>
+        <p> Gégé, avant d'éteindre, parcourut encore d'un coup d'œil d'adieu la petite chambre bleu de lin, où, à côté de sa mère, à deux pas de son grand-père, il avait dormi tant de nuits heureuses, passé tant de journées bienfaisantes. </p>
+        <p> Puis, mélancoliquement, marche à marche, il descendit l'escalier. </p>
+        <p> Dans la salle à manger, on terminait presque le potage. </p>
+        <p> Roger s'assit vis-à-vis de son père, entre sa mère et M. Lecherrier. Tous trois lui souriaient d'un air de connivence. </p>
+        <p> —Eh bien, mon petit!—demanda Taillard,—j'espère que tu es content? </p>
+        <p> —Je te crois!—riposta Gégé, avec un flegme fort au-dessus de son âge. </p>
+        <p> FIN </p>
+        <p> ÉVREUX, IMPRIMERIE DE CH. HÉRISSEY ET FILS </p>
+        <p> LIBRAIRIE OLLENDORFF </p>
+        <p></p>
+      </div>
+      <head/>
+    </body>
+    <back/>
+    <back/>
+  </text>
+</TEI>

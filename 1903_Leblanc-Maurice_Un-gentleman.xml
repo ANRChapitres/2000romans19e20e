@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF8'?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> Un gentleman </title>
+        <author from="1864" key="" name="Leblanc, Maurice" sex="male" to="1941"/>
+        <edition n=""/>
+        <editor name="L'Auto" where="Paris"/>
+      </titleStmt>
+      <publicationStmt>
+        <date type="created" when="1903"/>
+        <date type="issued" when="1903"/>
+      </publicationStmt>
+      <editionStmt>
+        <profileDesc tag="non-canon" type="genre">
+          <textClass>
+            <keywords>
+              <term>nouvelles</term>
+            </keywords>
+          </textClass>
+        </profileDesc>
+      </editionStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docAuthor/>
+        <docTitle>
+          <titlePart main="Un gentleman"/>
+          <titlePart sub=""/>
+        </docTitle>
+      </titlePage>
+    </front>
+    <body>
+      <div title="Un gentleman" type="nouvelle">
+        <lb/>
+        <p> Un gentleman </p>
+        <p> JE N’AI JAMAIS RENCONTRÉ un homme plus distingué, d’une correction plus avenante, et qui inspirât à la fois plus de sympathie et de déférence involontaire.  C’est dans le train de Paris au Havre que nous fîmes connaissance et que nous liâmes conversation. Entretien délicieux dont je garderai un souvenir durable, dont j’ai toutes les raisons pour garder un souvenir durable ; son accent étranger donnait à sa voix un charme infini et en quelque sorte musical : grand seigneur dans toute l’acception du mot, homme de sport comme j’ai rarement eu l’occasion d’en fréquenter, il avait sur les choses qui me tiennent le plus à cœur des idées précises, justes et raisonnables. </p>
+        <p> Quelle fut ma surprise lorsque, lui ayant dit incidemment que je cherchais à vendre ma 24 CV pour en acheter une plus rapide, je l’entendis me répondre qu’il n’avait jamais fait d’automobile ! </p>
+        <p> — Et ce n’est pourtant pas le désir qui m’en manque, ajoutait-il ; je vous avouerai même que j’ai été sur le point d’en acquérir une à Paris, mais c’est un tel apprentissage, cela me semble si compliqué… </p>
+        <p> — Mais non, mais non, lui dis-je, venez voir la mienne un de ces jours, je vous expliquerai le mécanisme en quelques mots, vous verrez combien c’est simple, pratique… Cela vous décidera peut-être. </p>
+        <p> — Ma foi, je ne dis pas non. </p>
+        <p> Au Havre, son domestique qui avait voyagé dans le même train que nous se trouvait déjà à la portière de notre compartiment. C’était un monsieur que ce domestique, bien habillé, ganté de frais, chaussé de bottines vernies. Il traita son maître d’Excellence et lui tendit le poing pour l’aider à descendre. </p>
+        <p> Mon compagnon de voyage tira de son portefeuille une carte de visite et me la tendant il me dit : </p>
+        <p> — Eh bien c’est entendu, dans deux jours j’irai vous voir à Montivilliers, villa des Ifs, n’est-ce pas ? et vous tâcherez de me persuader. </p>
+        <p> L’ayant quitté, je lus sa carte : Prince Metcherski. </p>
+        <p> — Allons, pensai-je, l’affaire est faite. </p>
+        <p> Et je me frottai les mains, car, en vérité, si l’affaire n’avait pas été faite, je ne sais trop comment j’en serais sorti. Dépenses exagérées, pertes aux courses et au baccara ; enfin, folies de jeunesse… J’étais, comme on dit, à la côte. Aussi le prince Metcherski m’apparaissait-il comme un sauveur. Quant à employer la somme que me rapporterait la vente de ma 24 CV à l’achat d’une 50 CV, comme je l’avais laissé entendre, inutile de dire que je n’y songeais même point. </p>
+        <p> Et j’attendis. Un jour se passa, puis deux, puis trois. Je commençais à être inquiet. Mais le quatrième jour, une voiture s’arrêta devant la villa des Ifs. </p>
+        <p> Le prince en descendit, accompagné de son domestique. </p>
+        <p> Il paraissait fort bien disposé et, après un tour dans le jardin, dont il ne sembla point remarquer le mauvais état, il admira beaucoup ma demeure, ce qui m’embarrassa, car elle avait beaucoup perdu à mes yeux depuis qu’elle était hypothéquée. Enfin le prince s’écria : </p>
+        <p> — Si on allait la voir ? </p>
+        <p> Et nous allâmes la voir. </p>
+        <p> Un hochement de tête et un petit claquement de langue me prouvèrent que, si le prince ignorait les rouages d’une machine, il en savait du moins apprécier à leur juste valeur l’élégance, la finesse et les proportions harmonieuses. </p>
+        <p> — Faites-moi comprendre, dit-il après un moment. </p>
+        <p> Je commençai l’explication en termes aussi clairs que possible. Mais tout de suite j’eus l’impression qu’il ne comprenait pas et qu’il ne comprendrait jamais. J’usai de mots encore plus simples et ne lui parlai que des organes essentiels. Peine perdue. Son regard interrogateur me révélait un esprit absolument rebelle aux notions les plus élémentaires de la mécanique. </p>
+        <p> En désespoir de cause, il appela son domestique : </p>
+        <p> — Viens ici, Jean, peut-être seras-tu moins stupide que moi. </p>
+        <p> Jean fut aussi stupide que son maître. Le prince éclata de rire. </p>
+        <p> — Non, décidément, tu ne me seras d’aucun secours. Après tout, est-il bien nécessaire de comprendre ? Un bon mécanicien, c’est encore ce qui sera le plus pratique. </p>
+        <p> Mais du moins la commodité de la voiture lui importait. </p>
+        <p> Il escalada donc le marchepied et s’assit à la place du conducteur. Il eut l’air de s’y trouver fort bien. </p>
+        <p> — Parfait, parfait, disait-il, on est à l’aise et moelleusement. Mais le dais, il y a un dais ? </p>
+        <p> — Comment donc ! </p>
+        <p> Jean et moi nous installâmes le dais, non sans mal. Mais il fallut tous les accessoires, les paniers, le porte-parapluies, les phares. </p>
+        <p> — Et à deux, l’on n’est pas gêné ? Monte près de moi, Jean. À merveille, les coudées sont franches. </p>
+        <p> Il examina le volant, les freins, les manettes et me demanda : </p>
+        <p> — Alors, pour partir, vous dites qu’il faudrait faire ceci… et cela… ? </p>
+        <p> — Ceci d’abord, puis cela, répondis-je. </p>
+        <p> Il fit ceci d’abord, puis cela. La voiture s’ébranla, effectua un virage savant où se reconnaissait l’habileté d’un chauffeur émérite, et s’enfuit à toute allure, me laissant sur place, pétrifié. </p>
+        <p> Je n’ai jamais revu le prince Metcherski et pas davantage ma 24 CV. </p>
+        <p></p>
+      </div>
+      <head/>
+    </body>
+    <back/>
+    <back/>
+  </text>
+</TEI>

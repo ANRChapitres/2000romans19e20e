@@ -1,0 +1,989 @@
+<?xml version='1.0' encoding='UTF8'?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> Amyntas </title>
+        <author from="1869" key="" name="Gide, André" sex="male" to="1951"/>
+        <edition n=""/>
+        <editor name="" where=""/>
+      </titleStmt>
+      <publicationStmt>
+        <date type="created" when="1906"/>
+        <date type="issued" when="1906"/>
+      </publicationStmt>
+      <editionStmt>
+        <profileDesc tag="canon" type="genre">
+          <textClass>
+            <keywords>
+              <term>récit de voyage</term>
+            </keywords>
+          </textClass>
+        </profileDesc>
+      </editionStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docAuthor/>
+        <docTitle>
+          <titlePart main="Amyntas"/>
+          <titlePart sub=""/>
+        </docTitle>
+      </titlePage>
+    </front>
+    <body>
+      <p> André Gide </p>
+      <p> AMYNTAS </p>
+      <p> (1906) </p>
+      <lb/>
+      <div type="dedication">
+        <salute>
+          <p> à M. A. G. </p>
+        </salute>
+      </div>
+      <p> Mopsus </p>
+      <p> AVRIL 1899 </p>
+      <lb/>
+      <div type="dedication">
+        <epigraph>
+          <p> Incipe, Mopse, prior… </p>
+          <p> Virgile. </p>
+        </epigraph>
+      </div>
+      <div title="Mopsus" type="part">
+        <p> Mopsus </p>
+        <div title="I" type="chapter">
+          <p> I </p>
+          <p> El-Kantara. </p>
+          <p> … Le rocher qui depuis le matin se prolongeait à notre côté enfin s’ouvre. Voici la porte ; on la franchit. </p>
+          <p> C’est le soir ; on marchait dans l’ombre ; la plénitude du jour finissant reparaît. – Beau pays désiré, pour quelle extase et quel repos vas-tu répandre ah ! ton étendue, sous la chaude lumière dorée. </p>
+          <p> On s’arrête ; on attend ; on regarde. </p>
+          <p> Un monde différent apparaît ; étrange, immobile, impassible, décoloré. – Joyeux ? non ; triste ? non : tranquille. </p>
+          <p> On s’approche ; comme en une trouble eau tiède, sous l’ombre des palmiers, craintif et pas à pas l’on avance… Un bruit de flûte ; un geste blanc ; une eau doucement chuchotante ; un rire d’enfant près de l’eau – puis, rien ; plus une inquiétude et plus une pensée. Ce n’est même pas du repos : ici jamais rien ne s’agite. Il fait doux. – Qu’ai-je voulu jusqu’à ce jour ? De quoi m’étais-je inquiété ? </p>
+        </div>
+        <div title="II" type="chapter">
+          <p> II </p>
+          <p> Le soir vient ; les troupeaux rentrent ; ce qu’on croyait le calme n’était qu’engourdissement et torpeur ; un instant l’oasis étonnée frémit et voudrait vivre ; un souffle infiniment léger touche les palmes ; une fumée bleue monte de chaque maison de terre et vaporise le village qui, les troupeaux rentrés, se dispose au sommeil et s’enfonce dans une nuit douce comme la mort. </p>
+        </div>
+        <div title="III" type="chapter">
+          <p> III </p>
+          <p> Que la vie indiscontinue se prolonge. Le vieillard meurt sans bruit et l’enfant grandit sans secousse. Le village reste le même, où nul être désireux de quelque mieux n’apporte la nouveauté de quelque effort. </p>
+          <p> Village aux rues étroites ; aucun luxe ici n’oblige aucune pauvreté de se connaître. Tout repose et sourit dans sa félicité frugale. – Simple travail des champs, âge d’or ! Puis sur le pas des portes, le soir, occuper à des chants et des contes le loisir de la lente soirée… </p>
+        </div>
+        <div title="IV" type="chapter">
+          <p> IV </p>
+          <p> Là, entre les lourds piliers sans style de la salle peu éclairée, des femmes dansent, grandes, non point tant belles qu’étranges, et excessivement parées. Elles se meuvent avec lenteur. La volupté qu’elles vendent est grave, forte et secrète comme la mort. Près du café, sur une cour commune pleine de clarté de lune ou de nuit, chacune a sa porte entreclose. Leur lit est bas. On y descend comme dans un tombeau. – Des Arabes songeurs regardent sinuer la danse qu’une musique, constante comme le bruit d’une onde coulante, conduit. – Le cafetier apporte le café dans une très petite tasse où l’on croirait boire l’oubli. </p>
+        </div>
+        <div title="V" type="chapter">
+          <p> V </p>
+          <p> De tous les cafés maures, j’ai choisi le plus retiré, le plus sombre. Ce qui m’y attire ? rien ; l’ombre ; une forme souple qui circulait ; un chant ; – et n’être pas vu du dehors ; le sentiment du clandestin. </p>
+          <p> J’entre sans bruit ; je m’assieds vite, et pour ne rien troubler, je fais semblant de lire ; je verrai… </p>
+          <p> Mais non ; rien. – Un vieil Arabe dort dans un coin ; un autre chante à voix très basse ; sous le banc un chien ronge un os ; et l’enfant cafetier, près du foyer, remue les cendres pour retrouver un peu de braise où chauffer mon café saumâtre. – Le temps qui coule ici n’a plus d’heures ; mais, tant l’inoccupation de chacun est parfaite, ici devient impossible l’ennui. </p>
+        </div>
+        <div title="VI" type="chapter">
+          <p> VI </p>
+          <p> Qu’ai-je voulu jusqu’à ce jour ? Pourquoi peinais-je ? – Oh ! je sais maintenant, hors du temps, le jardin où le temps se repose. Pays clos, tranquille, Arcadie !… J’ai trouvé le lieu du repos. </p>
+          <p> Ici le geste insoucieux cueille chaque instant sans poursuite ; l’instant, inépuisablement se répète ; l’heure redit l’heure et le jour la journée. </p>
+          <p> Bêlements des troupeaux dans le soir ; chants flottants des pipeaux sous les palmes ; roucoulements sans fin des ramiers ; – ô nature sans but, sans deuil et non changée, – telle tu souriais au plus doux des poètes, telle, à mon œil pieux, tu souriras… </p>
+          <p> J’ai vu ce soir, pour étancher la soif des plantes, l’eau captée s’épandre, rafraîchir le jardin. Pieds nus dans le canal, un enfant noir dirigeait à son gré l’irrigation bien ménagée. Dans l’argile il ouvrait ou fermait de petites écluses. Chacune, à chaque arbre affectée, au tronc de l’arbre versait l’eau. </p>
+          <p> J’ai vu dans les creux craquelés cette eau monter, lourde de terre, tiède et qu’un rayon de soleil jaunissait. Puis, à la fin, l’eau débordée, profusante de toutes parts, vint inonder tout un pré d’orges… </p>
+          <p> Claudite jam rivos, pueri ; sat prata biberunt. </p>
+        </div>
+        <div title="VII" type="chapter">
+          <p> VII </p>
+          <p> Le soleil trop ardent a presque séché la rivière. Mais ici, sous la voûte que lui fait le feuillage, l’Oued roule et s’approfondit ; plus loin, il remonte au soleil languir sur la grève de sable. </p>
+          <p> … Ah ! ah ! tremper ses mains dans cette eau blonde ! y boire ! y baigner ses pieds nus ! y plonger tout entier… ah ! bien-être ! Dans l’ombre, là, cette onde est fraîche comme le soir. Un rayon mouvant perce l’entrelacs du feuillage, crève l’ombre, vibre et, comme une flèche, bondit ; il s’enfonce, pénètre aux profondeurs de l’onde, la fait rire, et tout au fond, mais sans insister, touche un peu de sable qui bouge… Ah ! nager ! </p>
+          <p> Je veux m’étendre nu sur la grève ; le sable est chaud, souple, léger. – Ah ! le soleil me cuit, me pénètre ; j’éclate, je fonds, je m’évapore, me subtilise dans l’azur. Ah ! délicieuse brûlure ! – Ah ! ah ! tant de lumière absorbée puisse-t-elle donner un aliment neuf à ma fièvre, plus de richesse à ma ferveur, plus de chaleur à mon baiser ! </p>
+        </div>
+        <div title="VIII" type="chapter">
+          <p> VIII </p>
+          <p> Défaisant nos souliers qui s’emplissaient de sable, nous pûmes gravir, en un énorme effort, la dune que nous avions atteinte, et qui nous fermait l’horizon. </p>
+          <p> Dune mouvante ; nous savions, pour y arriver, quel pays rauque, quels ravins sans eau, quelles ronces sans fleurs. Le sable, que le vent chassait vers nous, nous aveuglait. Quand nous dûmes gravir la dune, il cédait, se supprimait sous nos pas ; le pied entrait, il semblait que nous demeurassions immobiles, ou que la dune entière se reculât. Et, bien qu’elle ne fût pas haute, il nous fallut beaucoup de temps pour la gravir. </p>
+          <p> De l’autre côté de la dune le pays était plus vaste encore, sinon exactement pareil. Exténués, dans un pli d’ombre nous nous assîmes, et un peu abrités du vent. Tout en haut de la dune, le vent qui soulevait et repoussait le sable en modifiait incessamment la crête. </p>
+          <p> Autour de nous, sur nous, sur chaque chose, léger comme un silence, on entendait la chute imperceptible du sable. Nous en fûmes bientôt couverts… Nous repartîmes. </p>
+        </div>
+        <div title="IX" type="chapter">
+          <p> IX </p>
+          <p> La route d’ombre et de mi-jour serpente entre les jardins clos. </p>
+          <p> Murs d’argile ! je vous louerai, car la profusion des jardins vous déborde ; murs bas ! la branche de l’abricotier n’en a cure ; elle passe outre ; elle s’élance ; elle flotte sur mon sentier. Murs de terre ! au-dessus de vous les palmiers inclinés se balancent ; les palmes ombragent mon sentier. D’un jardin à l’autre, à travers mon sentier, sans crainte de vous, murs croulants ! les ramiers voletants se visitent. – Par une brèche un pampre glisse ; se redresse et sur le fût du palmier bondit ; il s’enroule, l’entoure, le presse ; gagne un abricotier, s’y établit ; s’y balance, s’y replie, s’y divise ; y étend sa ramure élargie. Oh ! dans quel mois brûlant, quel svelte enfant grimpé dans l’arbre, tendra-t-il vers ma main, pour ma soif, une lourde grappe cueillie ? </p>
+          <p> … Murs d’argile, sans me lasser, espérant qu’enfin vous cédiez, je vous longe. </p>
+          <p> Une séghia  {1}  suit le mur d’argile ; elle coule le long du sentier. Le mur emplit le sentier d’ombre. Dans le jardin j’entends sourire et bruire des propos charmants… ô beau jardin ! </p>
+          <p> Soudain l’eau fuit ; perçant le mur, elle entre ; elle s’avance dans le jardin ; au passage un rayon la perce ; – le jardin est plein de soleil. </p>
+          <p> Murs de terre ! murs détestés ! mon désir incessant vous assiège ; je finirai bien par entrer. </p>
+        </div>
+        <div title="X" type="chapter">
+          <p> X </p>
+          <p> Enfoncée dans le mur de terre se dissimule une petite porte de bois. </p>
+          <p> Nous arriverons devant cette petite porte basse dont un enfant aura la clef ; on se baissera ; on se fera petit pour entrer. Oh ! dirons-nous, – oh ! c’est ici un lieu tranquille. Oh ! nous ne savions pas qu’on pût si bien se reposer, trouver un lieu si calme sur la terre… Apportez-nous des flûtes et du lait – nous nous étendrons sur des nattes ; du vin de palme et des dattes ; nous resterons ici jusqu’au soir. – Un vent léger fuit dans les palmes ; l’ombre hésite ; le soleil rit ; sous les abricotiers géants bleuissent les fossés d’eau jaunâtre ; les figuiers rampent ; mais ce qui nous charme surtout c’est la grâce des lauriers-roses. </p>
+          <p> Ne bougeons plus ; laissons le temps se refermer comme une onde, comme une onde où l’on jette un caillou ; le trouble que nous avons fait en entrant s’écarte comme la ride de l’onde : laissons se refermer sur ce monde la surface égale du temps. </p>
+        </div>
+        <div title="XI" type="chapter">
+          <p> XI </p>
+          <p> Nous nous étions levés ce matin-là de très bonne heure, pour, avant la chaleur, avoir pu nous avancer très loin. – Oh ! comme l’oasis interminablement se prolonge ! Jusques à quand marcher, pris entre les murs des jardins ? – Je sais que vers l’extrémité de l’oasis tous ces murs cessent, que le sentier hésite entre les libres troncs des palmiers. – Les palmiers peu à peu s’espacent ; on dirait qu’ils s’attardent, ou qu’ils se sont découragés. – Plus désolément leur fût moins entouré se balance… Quelques rares encore. Entre eux le pays s’ouvre. – L’oasis est finie. Plus rien ne sépare de notre œil l’horizon dégarni. – </p>
+          <p> Arrêtons-nous ! Le grand désert ici déferle. </p>
+          <p> – Arrêtons-nous. – </p>
+          <p> Vois ! sur la rousse mer immobile flotter, semblables à des îles, les immobiles oasis. </p>
+          <p> Derrière nous, le pan de roc ardent où les souffles du nord s’arrêtent ; parfois un nuage passe, flocon blanc ; il hésite, se défait, s’échevèle, se laisse absorber par l’azur. </p>
+          <p> Plus loin, au-dessus du mur chaud, derrière nous, la montagne où l’azur ruisselle. </p>
+          <p> Devant nous, rien ; – le vide nuancé du désert. </p>
+        </div>
+        <div title="XII" type="chapter">
+          <p> XII </p>
+          <p> Mopsus à Ménaïque. </p>
+          <p> Si Damon pleure encore Daphnis, si Gallus Lycoris – qu’ils viennent ; je guiderai leurs pas vers l’oubli. – Ici nul aliment à leur peine ; un grand calme sur leur pensée. – Ici, plus voluptueuse et plus inutile est la vie, et moins difficile la mort. </p>
+        </div>
+      </div>
+      <div title="Feuilles de route" type="part">
+        <p> Feuilles de route </p>
+        <p> MARS-AVRIL 1896 </p>
+        <p> À l’automne d’il y a trois ans, notre arrivée à Tunis fut merveilleuse. C’était encore, bien que déjà très abîmée par les grands boulevards qui la traversent, une ville classique et belle, uniforme harmonieusement, dont les maisons blanchies semblaient s’illuminer au soir, intimement, comme des lampes d’albâtre. </p>
+        <p> Dès qu’on quittait le port français, on ne voyait plus un seul arbre ; on cherchait l’ombre dans les souks, ces grands marchés voûtés ou couverts d’étoffes et de planches ; il n’y pénétrait plus qu’une lumière réfléchie les emplissant d’une atmosphère spéciale ; ces souks paraissaient, souterraine, une seconde ville dans la ville, – et vastes à peu près comme un tiers de Tunis. – Du haut de la terrasse où P. L. allait peindre, on ne voyait jusqu’à la mer qu’un escalier de blanches terrasses coupées de cours comme des fosses où s’étirait l’ennui des femmes. Au soir, tout le blanc était mauve et le ciel était couleur de rose thé ; au matin, le blanc devenait rose sur un ciel légèrement violet. – Mais après les pluies de l’hiver, les murs végètent ; des mousses vertes les couvrent et le bord des terrasses semble celui d’une corbeille de fleurs. </p>
+        <p> J’ai regretté la blanche, sérieuse, classique Tunis de l’automne, qui me faisait penser, le soir, errant dans ses rues régulières, à l’Hélène du second Faust, ou à Psyché, « la lampe d’agate à la main », errant dans une allée de sépultures. </p>
+        <p> On plante des arbres dans les rues larges et sur les places. Tunis en sera plus charmante, mais rien ne la pouvait autant défigurer. Il y a deux ans, la rue Marr, la place des Moutons étaient encore telles qu’on ne s’y savait où transporté, et que l’Orient le plus extrême, l’Afrique la plus secrète n’eussent pas eu, je crois, goût d’ étrange plus stupéfiant. Une forme de vie différente et que tout réalise au-dehors, très pleine, antique, classique, établie ; pas de compromis encore entre les civilisations de l’Orient et la nôtre qui paraît laide surtout quand elle veut réparer. – Des plaques de tôle ou des feuilles de zinc remplacent peu à peu les claies de roseau, toitures des souks, et des réverbères répartissent par sursauts la lumière, sur les murs où naguère l’égale clarté des nuits s’épandait, – sur cette grande place des Moutons, sans trottoirs, silencieuse, merveilleuse, où, il y a deux ans, dans la tiédeur des nuits de pleine lune, auprès des troupeaux de chameaux, des Arabes venaient dormir. </p>
+        <p> – On a fait des trottoirs dans les souks. De l’une des plus belles allées, la base des colonnettes qui soutiennent la voûte est enfouie. Des colonnettes torses, vert et rouge, au chapiteau massif ouvragé. La voûte est blanc de chaux, mais à peine éclairée. Même par les plus splendides journées, ces souks sont toujours demi-sombres. </p>
+        <p> L’entrée des souks est merveilleuse ; je ne parle point du portique de la mosquée, mais de cette autre entrée, étroite, retirée – abritée par un jujubier qui se penche et fait un préambule d’ombre à la petite allée ténébreuse, tournant court et qu’aussitôt l’on perd de vue. Mais le jujubier, couvert de feuilles à l’automne, n’en a pas encore au printemps. – C’est le souk des selliers qui commence ; l’allée tourne, puis interminablement continue. </p>
+        <p> Au souk des parfums, Sadouk-Anoun est toujours assis en savetier dans sa boutique, petite comme une niche, au plancher à hauteur d’appui, encombrée de fioles ; mais les parfums qu’il vend sont aujourd’hui falsifiés. J’ai donné à P. V., en rentrant à Paris, les deux derniers flacons authentiques, que j’ai vu Sadouk-Anoun lui-même remplir avec une pipette, d’essence de pomme et, goutte à goutte, d’ambre précieux. Il ne les entoure plus aujourd’hui, demi-pleins d’une marchandise plus commune, si minutieusement de cire vierge et de fil blanc, et ne me les fait plus payer si cher. Il y a trois ans, sa minutie nous amusait ; elle semblait donner du prix aux choses. À chaque enveloppe surajoutée, le parfum devenait plus rare. Enfin, nous l’arrêtâmes ; notre bourse n’y eût pas suffi. </p>
+        <p> – J’ai vainement aussi cherché ce café sombre, où ne venaient que les grands nègres du Soudan. Certains avaient l’orteil coupé en signe de servitude. Ils portaient, la plupart, piquée sous leur turban, une petite touffe de fleurs blanches, de jasmins odorants ; cette touffe revient contre la joue comme une boucle de cheveux romantique et donne à leur visage l’expression d’une langueur voluptueuse. Ils aiment le parfum des fleurs tellement que parfois, ne les respirant ainsi pas assez fortement à leur gré, ils en entrent des pétales froissés dans leurs narines. – Dans ce café, l’un d’eux chantait, un autre contait des histoires ; et des colombes voletaient et se posaient sur leurs épaules. </p>
+        <lb/>
+        <p> Tunis, 7 mars. </p>
+        <p> Des petits enfants voient cela, rient, se répètent les obscènes mimiques de Caracous  {2}  . – Difficile gymnastique de l’esprit : qu’il se réforme jusqu’à retrouver cela naturel… Le public d’enfants, rien que d’enfants, la plupart tout petits, qu’en pense-t-il ? </p>
+        <p> Les Français ne vont pas là ; ils ne savent pas y aller ; ce sont de petites boutiques sans aspect ; on s’y faufile par une porte basse. Les Français vont régulièrement à des paradeurs à côté, qui font grand train et n’attirent que des touristes ; les Arabes savent à quoi s’en tenir et que c’est vraiment peu de chose, ce cheval de carton, qui danse, ce chameau de bois et d’étoffe, qui danse aussi, très drôlement certes, mais d’une manière toute foraine. Il y a là, auprès, une boutique de Caracous traditionnelle, classique, simple, on ne peut plus simple, d’une convention scénique admirable, – où Caracous se cache au milieu de la scène, entre deux gendarmes qui le cherchent, simplement parce qu’il baisse la tête et ne peut plus les voir ; – et les enfants acceptent, comprennent et rient. </p>
+        <lb/>
+        <p> Caracous. – Petite salle longue, boutique-échoppe dans la journée, que le soir on défonce ; une petite scène, au rideau de transparente toile, s’établit au fond pour les ombres. Perpendiculaires à la scène, deux bancs le long des murs. Là sont les places de faveur. Le milieu de la salle s’emplit d’enfants très jeunes qui s’assoient à terre et se bousculent. On mange quantité de graines de melon séchées dans du sel, friandise si provocante que ma poche chaque soir s’en vide, qu’au matin pour deux sous j’ai remplie. Il est vrai que j’en donne aux enfants. </p>
+        <p> L’amusant ici, ce sont ces niches dans le mur, sortes de très incommodes couchettes, de nids d’hirondelles de mer, où l’on ne grimpe qu’à la force des bras et d’où l’on ne descend pas – d’où l’on tombe, – qui ne se louent que pour tout le soir, à de jeunes aficionados. Ici je suis revenu bien des soirs ; c’était presque toujours le même public, aux mêmes places, écoutant les mêmes pièces, et riant aux mêmes endroits – comme moi. </p>
+        <lb/>
+        <p> Caracous. – Autre boutique ; des Soudanais. Où sont les Soudanais, les Arabes ne vont pas volontiers. Donc ici l’on ne voit que des nègres. Mais ce soir j’y retrouve aussi mon ami R. </p>
+        <p> La pièce n’est pas commencée. (Les entr’actes sont toujours beaucoup plus longs que la pièce ; celle-ci ne dure pas un quart d’heure.) Un nègre secoue des crotales, un autre tape sur un tambour oblong, et le troisième, énorme, se dodeline et se trémousse devant R. ; presque assis à nos pieds, il chante, improvisant une complainte monotone, où il est dit, autant que je peux le comprendre, qu’il est très pauvre, que R. est très riche et que les nègres ont toujours besoin d’argent. Et comme il a l’air un peu féroce et que les Arabes prétendent que ni au chameau, ni au nègre, ni au désert l’on ne peut se fier longtemps, nous ne tardons pas à devenir très charitables. </p>
+        <lb/>
+        <p> Caracous. – Autre boutique. Ici la pièce n’est que le prétexte des rendez-vous. Toujours les mêmes habitués, de soir en soir, sous l’œil bienveillant du patron. Un enfant étrangement beau joue de la cornemuse : on se rassemble autour de lui ; les autres sont ses galants. L’un joue de ce bizarre tambour en forme de vase, dont le fond est en peau d’âne. Lui, le joueur de cornemuse, fait la fortune du café, semble sourire à tous et ne favoriser aucun. Certains lui récitent des vers, les chantent ; il y répond, s’approche, mais tout se borne, je crois, à quelques flatteries devant tous ; cette boutique n’est pas un bouge, c’est plutôt une cour d’amour. Parfois un se lève et danse, parfois deux ; la danse devient alors une sorte de mimique assez libre. </p>
+        <p> La pièce, ailleurs tout comme ici, reste presque toujours obscène. Je voudrais savoir l’histoire du Caracous. Il doit être très vieux. On m’a dit qu’il venait de Constantinople et que partout ailleurs qu’à Constantinople et Tunis, la police aurait interdit sa montée sur les scènes ; il ne se voit qu’en temps de Rhamadan. On jeûne durant quarante jours du lever du soleil jusqu’au soir ; jeûne absolu ; ni nourriture, ni boisson, ni tabac, ni parfums, ni femmes. Tous les sens, châtiés le jour, la nuit prennent une revanche, et l’on s’amuse tant qu’on peut. Il est certes aussi des Arabes très religieux, dont la nuit de Rhamadan, après un repas très frugal, se passe en méditations et en prières ; comme il en est d’autres aussi qui continuent de s’amuser même le jour ; mais cela n’est fréquent que dans les grandes villes qu’ont dépravées les roumis ; les Arabes sont à l’ordinaire et presque tous très scrupuleusement pratiquants. </p>
+        <p> Ce dernier soir j’ai voulu revoir, avant de fuir, tout ce que Tunis m’avait montré de plus rare et de plus étrange. Je me souviendrai d’avoir suivi longtemps cette musique militaire qui regagnait son quartier – très sonore, juste, belle et victorieuse – tandis que par places, sur la marine et les boulevards français, des feux de bengale faisaient du feuillage des faux-poivriers un douteux filigrane rose. </p>
+        <p> À peine quelques Arabes se détournaient à ce passage ; la grêle musique de leurs cafés continuait. </p>
+        <p> Beaucoup se rappellent, je pense, le jour où pour la première fois cette musique, en triomphale, entra dans leur ville vaincue. Je m’inquiétais de savoir si leur pensée n’avait toujours pour les Français que de la haine. </p>
+        <p> J’ai cherché le plaisir le long de la rue Marr ; mais je regrettais l’Halfaouïne  {3}  . Un café maure était assez vaste, assez beau, mais l’on ne m’y supportait qu’à peine. Les Français ne viennent jamais là. L’animation de l’Halfaouïne les attire ; les autres quartiers restent silencieux. Un vieux nègre s’est mis à danser grotesquement aux sons de la cornemuse, au rythme du tambour. </p>
+        <p> Par les boulevards sombres, j’ai regagné l’Halfaouïne. Pas grande foule ; rien de particulier. Vers la fin du soir, j’ai retrouvé R. dans la même boutique de Caracous où je l’avais mené le premier jour. Il comprend aussi l’intérêt qu’il y a de revenir régulièrement aux mêmes lieux pour apprendre non beaucoup de figures, mais les apprendre bien, et ne pas seulement voir passer. Les Arabes s’accoutument à vous, on leur paraît moins étranger, et leur habitude, d’abord troublée, se reforme. </p>
+        <lb/>
+        <p> El-Kantara. </p>
+        <p> Nous y arrivâmes à la fin du jour – jour splendide. Athman était arrivé là le matin, avait un peu dormi l’après-midi, mais était à la gare depuis une heure à nous attendre. Et cette heure lui semblait longue. – Et pourtant, m’a-t-il dit, je pensais : maintenant plus qu’une heure ; avant c’était toute une année… </p>
+        <p> Trois burnous ; une gandourah  {4}  de soie blanche doublée de soie bleue et liserée d’incarnat ; une veste de drap bleu pastel ; l’énorme turban de corde brune serrant l’étoffe blanche et fine qui retombe, frôle la joue et flotte sous le menton. Cette coiffure le métamorphose ; il ne portait encore, l’an passé, à seize ans, que la simple chéchia des enfants ; à dix-sept ans il a voulu le compliqué turban des hommes. Athman a dépensé tout ce qu’il a pour son « costume » ; il s’est fait beau pour le revoir. Sans son accueil, à peine l’aurais-je reconnu. </p>
+        <p> Le soir arrivait lentement ; nous avons traversé la gorge, et le fabuleux Orient nous est tranquillement apparu dans sa pacifique dorure. Nous sommes descendus sous les palmiers, laissant Athman attendre sur la route la voiture qui devait nous rejoindre. Je reconnaissais tous les bruits – de l’eau courante et des oiseaux. Tout était comme avant, tranquille ; notre arrivée ne changeait rien. </p>
+        <p> En voiture, nous avons longé l’oasis, assez loin. Au retour le soleil se couchait ; nous nous sommes arrêtés devant la porte d’un café maure, l’heure du Rhamadan passée. Dans la cour, près de nous, des chameaux en rut se battaient. Un gardien criait après eux. Les troupeaux de chèvres rentrèrent. </p>
+        <p> De toutes les maisons de terre grise, une ténue vapeur monta, une fumée bleue qui bientôt enveloppa, éloigna toute l’oasis. Le ciel, à l’occident, était d’un bleu très pur, si transparent qu’il semblait encore plein de lumière. Le silence devint admirable ; on n’y pouvait imaginer aucun chant. Je sentais que j’aimais ce pays plus qu’aucun autre pays peut-être… </p>
+        <lb/>
+        <p> Biskra. </p>
+        <p> Hier, nous étions dans les jardins : nous suivions les allées qui d’abord nous menèrent à N’Msid, puis à Bab  {5}  el Derb. Nous arrivâmes au vieux fort et rentrâmes par Sidi Barkat. La promenade était longue et M. en fut fatiguée. – Athman était avec nous et R. ; Larbi nous accompagnait. Nous avons pris le café à l’entrée de N’Msid, devant le lit de l’Oued, Laliah, les monts de l’Aurès. </p>
+        <p> Je n’aime point tant ce paysage que, de l’autre côté, l’étendue vague du désert. Larbi jouait aux dominos avec nous, tricheur et charmant. J’attends Jammes avec une délicieuse impatience. La terre parle ici une langue différente, mais que je comprends maintenant. </p>
+        <p> Ma chambre, l’an dernier, était au rez-de-chaussée de l’hôtel ; ma fenêtre ouverte, la hauteur de l’appui, seule, me séparait du dehors ; d’un saut l’on pouvait le franchir. Sadeck, le grand frère d’Athman, et quelques autres du vieux Biskra, au temps de Rhamadan, venaient se reposer chez moi avant de regagner leur village. J’avais des dattes, des gâteaux, des sirops et des confitures. C’était la nuit ; Sadeck jouait de la flûte et nous savions rester longtemps silencieux. </p>
+        <p> La nuit je ne fermais que les volets. Tous les bruits du dehors entraient. Chaque matin ils me réveillaient avant l’aube et j’allais au bord du désert pour voir le lever du soleil. À ce moment passait le troupeau de Lassif, composé des chèvres des pauvres ; ceux-ci n’ayant pas de jardin lui confiaient chaque matin leurs chèvres ; Lassif les menait paître au désert. De porte en porte, avant l’aube il allait frappant ; la porte s’ouvrait, laissait sortir vers lui quelques chèvres. En quittant le village il en avait plus de soixante. </p>
+        <p> Il s’en allait avec elles très loin, vers la Fontaine Chaude, où sont des orobanches et des euphorbes. Il avait un grand bouc, sur lequel il montait parfois quand la route était fatigante, ou bien pour se désennuyer, car il ne savait pas jouer de la flûte. Un matin qu’il était parti sans passer devant ma fenêtre, je m’en fus au désert le rejoindre. </p>
+        <p> J’aime infiniment le désert. La première année, je le craignais un peu à cause de son vent et de son sable, puis, dans l’absence de tout but, je ne savais plus m’arrêter et je me fatiguais très vite. Je préférais les chemins ombreux sous les palmes, les jardins de Ouardi, les villages. Mais l’an passé je fis d’énormes promenades. Je n’avais d’autre but que de ne plus voir l’oasis. Je marchais ; je marchais jusqu’à me sentir enfin immensément seul dans la plaine. Alors je commençais de regarder. Les sables avaient des veloutements d’ombre au versant de leurs monticules ; il y avait des bruissements merveilleux dans chaque souffle ; à cause du grand silence, le bruit le plus fin s’entendait. Parfois un aigle s’essorait du côté de la grande dune. Cette monotone étendue me paraissait de jour en jour d’une diversité plus spécieuse. </p>
+        <p> Je connaissais les gardeurs de troupeaux nomades ; j’allais les retrouver ; je causais avec eux ; certains jouaient délicieusement de la flûte. Parfois je m’asseyais longtemps près d’eux sans rien faire ; j’emportais toujours un livre, mais ne l’ouvrais presque jamais. Je ne rentrais souvent que le soir. – Mais Athman à qui je racontai ces courses me dit qu’elles n’étaient pas prudentes, et que des Arabes rôdeurs gardent les environs des oasis et dépouillent les étrangers qu’ils savent ne pouvoir se défendre ; c’eût été leur métier de m’attaquer. De ce jour, il voulut m’accompagner ; mais comme il n’aimait pas marcher, mes courses devinrent moins longues, puis cessèrent. </p>
+        <lb/>
+        <p> Athman lit comme Bouvard et écrit comme Pécuchet. Il s’instruit de toutes ses forces et copie n’importe quoi. Il préfère la Joie de Maguelonne, de Hérold, à la Tentative amoureuse ; il trouve ma Tentative mal écrite. « Vous employez trop souvent le mot « herbe » », me dit-il. </p>
+        <p> Je lui donne les Mille et Une Nuits. Un soir il emporte le livre à Bordj Boulakras, où il couche, pour le lire avec son ami Bachaga. Le lendemain il n’arrive qu’à dix heures, encore lourd de sommeil ; lui et son ami ont lu l’histoire d’Aladdin jusqu’à deux heures du matin, raconte-t-il ; et il ajoute : « Ah ! nous avons passé une bien bonne soirée nocturne ! » – Nocturne, pour lui, c’est quand on veille. </p>
+        <lb/>
+        <p> Au bout de l’oasis, sur les désertes ruines du vieux fort, près duquel nous passons, par cette nuit de pleine lune, des Arabes vêtus de blanc, étendus à terre, causent à voix basse et l’un murmure de la flûte. « Ils vont passer la nuit nocturne, me dit Athman, à se raconter des histoires. » – L’été, l’on n’oserait pas s’étendre ainsi ; les scorpions et les vipères cornues, cachés durant le jour dans le sable, sortent et rôdent quand vient la nuit. – Plus loin, nous quittons la voiture ; il n’y a plus de palmiers ; la nuit semble agrandir le désert plein jusqu’au bord de clartés bleues. Même Jammes se tait. Et tout à coup Athman, pris de lyrisme, quitte son burnous, assujettit sa gandourah et fait la roue au clair de lune. </p>
+        <lb/>
+        <p> Athman a trouvé je ne sais quelles « Vies des hommes illustres » – et, à présent, à propos de chameaux, cite Buffon ou Cuvier ; ne parle plus de l’amitié sans nommer Henri IV et Sully, de courage sans Bayard et de la Grande Ourse sans Galilée. </p>
+        <p> Il écrit à Degas en lui envoyant une canne en tige de palme ; il lui dit : « Ce qui me plaît, c’est que vous n’aimez pas les Juifs et que vous lisez la Libre Parole, et que vous trouvez comme moi que Poussin est un grand peintre français. » </p>
+        <p> Jammes s’amuse à lui faire lire ces vers qu’il improvise en attendant la voiture qui doit nous mener à Droh : </p>
+        <p> À mon ami Athman. </p>
+        <p> Mon cher ami Athman, </p>
+        <p> les arbres qui ont des amandes, </p>
+        <p> les figuiers et les cassis </p>
+        <p> sont pour être assis </p>
+        <p> dessous quand la fatigue est grande. </p>
+        <p> On reste sans bouger du tout </p>
+        <p> en fermant les yeux. </p>
+        <p> On est heureux paresseux. </p>
+        <p> Le jardin, on entend dessous </p>
+        <p> l’eau claire qui chante </p>
+        <p> comme une femme arabe. </p>
+        <p> On est si bien être paresseux </p>
+        <p> en fermant les yeux </p>
+        <p> comme si on dort, </p>
+        <p> on est si bien, Athman, </p>
+        <p> dans la paresse grande </p>
+        <p> qu’on croit qu’on est mort. </p>
+        <p> Depuis que Jammes est là, Athman passe le jour et la nuit à faire des vers. Parfois il trouve de jolies choses : </p>
+        <p> Sous les palmiers, il n’y a pas de concerts… </p>
+        <p> ou encore : </p>
+        <p> … Celui qui connaît </p>
+        <p> L’amour a bien bu l’eau amère </p>
+        <p> Et le temps ne l’intéresse plus. </p>
+        <p> mais j’ai peur, souvent, qu’il ne les trouve par hasard. D’ailleurs, il n’a que dix-sept ans. </p>
+        <p> Il lit toujours assidûment les Mille et Une Nuits ; sait par cœur l’histoire d’Aladdin et signe à présent ses lettres : </p>
+        <p> « ATHMAN </p>
+        <p> OU LA LAMPE MERVEILLEUSE. » </p>
+        <p> Jammes me donne sa canne. Elle est en bois de fer et vient des « Îles » ; elle amuse les enfants d’ici parce qu’une tête de lévrier la termine ; elle est polie comme le jade, et pourtant si grossière qu’on la dirait faite au couteau. Je n’ai jamais rien vu de si bizarre. Le long du bois, des vers en lettres majuscules, dont ceux-ci : </p>
+        <p> « Un écureuil avait une </p>
+        <p> Rose à la bouche, un âne </p>
+        <p> Le traita de fou. » </p>
+        <p> et ceux-ci, qu’il mettait en tête de ses lettres : </p>
+        <p> « Une abeille sommeille </p>
+        <p> Aux bruyères de mon cœur. » </p>
+        <lb/>
+        <p> Touggourt, 7 avril. </p>
+        <p> On décore aujourd’hui un puisatier arabe. </p>
+        <p> Avant les compagnies de forages et de puits artésiens, les Arabes avaient des puisatiers. Il faut parfois chercher l’eau jaillissante jusqu’à 70 et même 80 mètres sous le sol. Des hommes y descendent. </p>
+        <p> On les a dressés jeunes à ce pénible métier, mais beaucoup y meurent. Il faut traverser trois couches de terre et deux couches d’eau – la première stagnante, la seconde simplement ascendante, pour arriver enfin à cette dernière couche jaillissante. L’eau sourd alors, parfois admirablement claire, abondante, mais presque toujours chargée de soude et de magnésie. L’effort de ces puisatiers plongeurs, pour travailler sous l’eau, est inimaginable ; celui-ci était des plus vaillants, disait-on. Il s’agit de créer un puits, un couloir, au milieu de l’eau, où l’eau ne puisse pénétrer, dans lequel travailler, creuser encore, et cela par deux fois, à travers ces deux couches liquides, établir un conduit pour l’eau claire qui doit, sans se souiller, s’élancer à travers l’eau stagnante. </p>
+        <p> Le jour même, dans un de ces puits quadrangulaires et formés de troncs de palmiers, nous avons vu descendre un homme, suspendu à une corde – à 60 mètres de profondeur – pour réparer une avarie. </p>
+        <p> Donc, on a décoré le puisatier arabe ; au soir, il est devenu fou. </p>
+        <lb/>
+        <p> La couche d’eau stagnante, à Touggourt, est presque affleurante. Ce ne sont plus les belles eaux courantes de Chetma ou les canaux mobiles de Biskra, ce sont des fossés croupissants, puants, pleins de sales herbes, une rivière aussi traverse pourtant l’oasis, sagement divisée pour les palmes. Au fond parmi les herbes, glissent des serpents d’eau. </p>
+        <p> L’oasis est cernée par les sables ; hier, une tempête effarante les soulevait. L’horizon semblait se replier vers nous ainsi qu’une couverture qu’on ramène ; on ne pouvait y voir, à peine pouvait-on respirer. </p>
+        <p> Il y a, non loin de la ville, un misérable cimetière que le sable lentement envahit ; on y distingue encore quelques tombes. </p>
+        <p> Dans le désert, l’idée de la mort vous poursuit ; chose admirable, elle n’y est pas triste. À Biskra, derrière le vieux fort, au centre même de l’oasis, les pluies ont raviné l’ancien cimetière, et, comme les morts sont ensevelis directement dans la terre, les ossements défaits y sont, à certains endroits, aussi abondants que des cailloux. </p>
+        <p> La tempête de sable a duré jusqu’au soir ; au coucher du soleil, nous sommes montés au minaret : Les palmiers étaient ternes et la ville haletait sous un ciel couleur de cendres. </p>
+        <p> Un immense vent venait de l’est comme un souffle de malédiction divine qu’eussent annoncé des prophètes. Et dans cette désolation, nous vîmes une caravane s’éloigner. </p>
+        <p> Les Ouled  {6}  dansent ici mieux qu’à Biskra, et sont plus belles ; ce n’est même qu’ici que je les ai vues bien danser. Nous sommes revenus, non lassés, vers cette danse grave et traînante, presque toute des bras et des poignets, très décente, – étourdis, presque exténués par cette musique obstinée, rapide, fuyante, entêtante, qui porte à l’extase, et qui ne se tait pas quand on la quitte, et qui m’obsède encore certains soirs, à la manière même du désert. </p>
+        <p> Cette nuit, j’aurais voulu la passer sur la place où ces caravanes campaient. Des feux de broussailles veillaient ; autour, des Arabes causaient à voix basse ; d’autres chantaient ; ils ont chanté toute la nuit. </p>
+        <lb/>
+        <p> Athman me raconte l’histoire de la femme d’Urie. </p>
+        <p> Selon la tradition arabe, c’est en poursuivant une colombe d’or de salle en salle, dans son palais, que David, qu’il appelle Daoud, parvint enfin à cette terrasse supérieure d’où l’on pouvait voir Bethsabé. </p>
+        <p> Athman raconte : « … le Juif lui dit que Moïse avait raison et que Dieu amènerait à lui, d’abord les Juifs, et puis les Arabes, et peut-être même les chrétiens. Le chrétien lui dit que le Christ avait raison et que Dieu prendrait à lui les chrétiens, mais les Arabes aussi et même les Juifs. L’Arabe lui dit que Mohammed avait raison et que Dieu prendrait dans son paradis les Arabes, mais qu’il fermerait la porte aux Juifs et aux chrétiens qui ne se seraient pas convertis. Et quand il eut entendu tous les trois, il se dépêcha de se faire musulman. » </p>
+        <p> Les chrétiens ont le droit d’ancienneté sur eux. Ils disent, ou tout au moins se plaisent à me dire, qu’un chrétien, s’il prononce avant de mourir la formule du Credo de l’Islam : « Dieu est Dieu, Mohammed est son prophète », entre avant un Arabe au Paradis. </p>
+        <p> – Les Roumis, disent-ils encore, nous sont supérieurs en bien des choses ; mais ils ont toujours peur de la mort. </p>
+        <lb/>
+        <p> Touggourt, 9 avril. </p>
+        <p> Arabes campés sur la place, feux qui s’allument ; fumée presque invisible dans le soir. Nous étions au haut de la mosquée quand le muezzin est monté chanter l’appel à la prière. </p>
+        <p> Le soleil se couchait comme pour toujours sur l’interminable plaine exténuée. Le sable, depuis longtemps pâle, est devenu plus sombre que le ciel. </p>
+        <p> Nous avions souffert tout le jour du soleil et la fraîcheur du soir nous était délectable. Des enfants jouaient sur la place, et des chiens aboyaient sur les terrasses des maisons. La voix du muezzin emplissait au-dessus de nous la petite coupole qui surmonte le minaret ; elle semblait, prolongée sur une note unique, un retentissement de bourdon ; puis elle s’arrêtait, subite, et laissait un vide dans l’air. </p>
+        <p> À cause de l’extraordinaire sécheresse, tout le bétail est mort cette année, et la viande est devenue si rare qu’on est réduit à manger du chameau. </p>
+        <p> En sortant de la ville on voit, sous un petit toit de palmes sèches, une de ces énormes bêtes dépecées, de chair violette et que couvrent les mouches dès qu’on cesse de les chasser. Les mouches, dans ces pays, sont nombreuses comme la postérité d’Abraham. Elles pondent leurs œufs sur des charognes abandonnées, moutons, chevaux ou chameaux qu’on laisse pourrir au soleil ; larves, elles s’y nourrissent en liberté, puis, transformées, par essaims, par hordes, gagnent les villes. On les avale, on les respire, on en est chatouillé, excédé, obscurci ; les murs en vibrent, les étalages des bouchers et des épiciers en crépitent. À Touggourt, les marchands, avec de petits balais de palmes, tâchent de les renvoyer au voisin. À Kairouan, il y en a tant que le mieux est de les laisser. Les marchands ne les chassent plus que lorsqu’un chaland demande à voir la marchandise. Notre voiture, en arrivant, était enveloppée d’un nuage. À l’hôtel, les assiettes et les verres étaient préservés par des couvercles de métal qu’on n’enlevait, qu’on ne soulevait que précisément pour manger ou pour boire. </p>
+        <lb/>
+        <p> M’Reyer, 11 avril. </p>
+        <p> Chotts prestigieux liserés de mirages ; – du haut d’une colline sablonneuse, après l’immense étendue du désert, on pense : « Tiens ! la mer ! » Une vaste mer bleue avec des esquifs et des îles, une mer qu’on espère profonde, et notre âme en est rafraîchie ! – On approche, on touche le bord, et ce bleu brusquement disparaît – qui n’était qu’un reflet du ciel sur une surface salée, brûlante aux pieds, douloureuse aux regards, qui cède sous les pas, fragile, mince croûte d’une mer de mouvante boue où s’engloutissent des caravanes. </p>
+        <p> À ce dîner d’officiers, le major à côté de moi me parle du Sud. Pendant longtemps, il avait vécu à Ouargla ; il venait même d’El-Goléah et se souvenait de la marche des soldats dans le sable. Souvent, dans ces sables mouvants, brûlants et vibrants de soleil, une sorte de vertige particulier les prenait à sentir sans cesse, sous les pieds nus, le sol mollir ; même arrêtés, debout, le chancellement continue et le sol semble encore fuir. Parfois alors on rencontrait, au milieu des pénibles sables, un étroit filon de calcaire, je ne sais quoi d’aggloméré, de dur, juste assez large pour que chaque soldat tour à tour y posât un instant ses deux pieds et se reprît quelques instants sur cette étroite résistance. </p>
+        <p> Pour punir un soldat, on le fait « suivre ». Marcher en queue de troupe est tuant ; ceux de devant ne peuvent s’inquiéter des retardataires ; il s’en égrène ainsi parfois… qui chancellent, tombent, sont avalés par le désert. Les derniers courent dans l’étouffante poussière qu’a soulevée la troupe, et sur cette terre si molle, plus molle encore d’avoir été foulée par tous les autres. Si quelqu’un perd pied, c’est fini ; il regarde les autres s’éloigner et repose ; les oiseaux qui volent derrière le bataillon en marche, s’arrêtent, attendent, – puis approchent. </p>
+        <lb/>
+        <p> Dans ce sable, souvent des cristaux de gypse, débris de « fer de lances », luisent à la façon du mica. Sur la route de Droh, nous avons trouvé des pierres qui, brisées, se montraient à l’intérieur transparentes et comme vides. </p>
+        <p> Sur la route d’El Oued, nous avons cueilli de ces étranges fleurs minérales, qu’on nomme « roses du Souf » et qui sont, grises comme lui, un peu de sable conglutiné. </p>
+        <lb/>
+        <p> Biskra. </p>
+        <p> Les sons du tambour nègre nous attirent. Musique nègre ! que de fois je l’entendis l’an passé ! Que de fois je me suis levé pour la suivre ! Pas de tons, du rythme ; aucun instrument mélodique, rien que des instruments de heurt ; tambours longs, tam-tams et crotales… </p>
+        <p> « Florentes ferulas et grandia lilia quassens » , crotales, qui font entre leurs mains le bruit d’une averse claquante. À trois, ils exécutent de véritables morceaux de rythme ; rythme impair, bizarrement haché de syncopes, qui affole et provoque tous les bondissements de la chair. Ce sont eux les musiciens des cérémonies funèbres, joyeuses, religieuses ; je les ai vus, dans les cimetières, soutenir l’ivresse des pleureuses ; dans une mosquée de Kairouan, exaspérer la folie mystique des Aïssaouas ; je les ai vus scander la danse des bâtons et les danses sacrées, dans la petite mosquée de Sidi-Maleck ; et j’étais toujours seul Français à les voir. Je ne sais où vont les touristes ; je pense que des guides attitrés leur préparent une Afrique de choix, pour débarrasser des importuns les Arabes amis du secret et de la tranquillité, car je n’en rencontrai jamais près d’une chose intéressante ni même, et fort heureusement, que rarement dans les anciens villages de l’oasis, où je retournais chaque jour et finissais par ne plus rien effaroucher. Pourtant, les hôtels sont pleins de voyageurs ; mais ils tombent sous les lacs de guides charlatans, et paient très cher les cérémonies falsifiées qu’on leur joue. </p>
+        <p> Il n’y avait pas un Français non plus, l’an dernier, à cette extraordinaire fête nocturne où j’assistai presque par hasard, appelé par le seul bruit du tam-tam et par les ululements des femmes. La fête était dans le village nègre ; un cortège dansant de femmes et de musiciens montait la grande rue, précédant des porteurs de torche et un groupe d’enfants qui riaient et menaient par les cornes un grand bouc tout noir, couvert de bijoux et d’étoffes. Il avait des bracelets aux cornes, un énorme anneau d’argent dans les narines ; il avait des colliers au cou ; il était revêtu d’une loque de soie cramoisie. Dans la foule qui suivait, j’ai reconnu le grand Ashour ; il m’expliqua que ce bouc allait être égorgé dans la nuit pour porter bonheur au village ; auparavant, on le promenait dans les rues, afin que les mauvais esprits des maisons, qui se tiennent au pas des portes, entrassent en lui et disparussent. </p>
+        <p> Musique nègre ! que de fois, loin de l’Afrique, j’ai cru t’entendre, et subitement se recréait autour de toi tout le Sud ; à Rome encore, via Gregoriana, lorsque les lourds camions, descendant au petit matin, me réveillaient. Aux rebonds sourds sur les pavés, encore sommeillant je pouvais un instant me méprendre – puis me désoler longuement. </p>
+        <p> Nous l’entendîmes ce matin, la musique nègre, mais ce n’était point pour une fête ordinaire. Ils jouaient dans la cour intérieure d’une maison particulière, et des hommes, sur le seuil, voulurent d’abord nous repousser ; mais quelques Arabes me reconnurent et protégèrent notre entrée. Je fus étonné, dès l’abord, par la grande quantité de femmes juives là rassemblées, très belles et richement vêtues. La cour était pleine ; à peine un espace restait-il au milieu pour la danse. On étouffait de poussière et de chaleur. Un grand rayon tombait de la baie supérieure, par où, comme d’un balcon, les grappes d’enfants se penchaient. </p>
+        <p> L’escalier montant à la terrasse était aussi couvert de monde ; tous attentifs comme nous le devînmes bientôt. Au centre de la cour était un grand bassin de cuivre, plein d’eau. Trois femmes se sont levées, trois Arabes ; elles ont dépouillé leurs vêtements de dessus, pour la danse, ont défait leurs cheveux devant le bassin, puis, s’inclinant, les ont répandus sur l’eau. La musique, déjà très forte, s’est gonflée ; laissant leurs cheveux trempés s’égoutter sur elles, elles ont commencé à danser ; c’était une danse sauvage, forcenée et dont, à qui ne l’a point vue, rien ne saurait donner l’idée. Une vieille négresse y présidait, qui sautait autour du bassin, et, tenant un bâton d’une main, en frappait par moments les bords. On nous apprit ensuite, ce que nous commencions de comprendre, que toutes les femmes qui dansaient ce jour-là (et parfois, tant elles sont nombreuses, ces deux jours) étaient, tant Juives qu’Arabes, des malades démoniaques. </p>
+        <p> Chacune à son tour payait pour avoir droit de danse. Cette vieille négresse au bâton était une sorcière renommée, qui connaissait les exorcismes ; agitant l’eau du bassin, elle invitait à s’y plonger chaque démon qui, du coup, délivrait la femme. </p>
+        <p> Celle qui nous redit tout cela était la belle juive Goumarr’ha, qui n’en parlait pas volontiers par reste de croyance et demi-honte d’avouer qu’elle aussi, l’an dernier, le corps horriblement travaillé d’hystérie, elle avait pris part à la ronde « espérant y trouver un soulagement à ses maux ». Mais, après, elle avait été bien plus malade, et son mari, apprenant qu’elle avait dansé à cette fête de sorcières, l’avait battue trois jours durant pour la guérir. </p>
+        <p> … La danse s’animait ; les femmes hagardes, éperdues, cherchant l’inconscience de la chair, ou mieux la perte de sentiment, parvenaient à la crise où, leur corps échappant à toute autorité de leur esprit, l’exorcisme peut opérer. Après cette instante fatigue, suant, mourant, dans l’accablement qui suit la crise, elles trouveraient peut-être un repos. </p>
+        <p> À présent, elles sont agenouillées devant le bassin ; leurs mains crispées à ses bords, et leurs corps battant de droite à gauche, d’avant en arrière, vélocement, comme un furieux balancier ; leurs cheveux fouettent l’eau, puis éclaboussent les épaules ; à chaque coup de reins elles poussent un cri grave comme celui des bûcherons qui sapent ; puis, brusquement, s’écroulent en arrière comme si elles tombaient du haut-mal, l’écume aux lèvres et les mains tordues. Le mauvais esprit les a quittées. </p>
+        <p> La sorcière alors les prend, les étend, les essuie, les frotte, les étire, et, comme on fait pour l’hystérie, les saisissant par les poignets et les redressant à demi, leur presse du pied ou du genou le bas-ventre. Il en est passé ce jour-là, nous a-t-on dit, plus de soixante. Les premières se tordaient encore, que d’autres s’élançaient déjà. Une était petite et bossue, vêtue d’une gandourah verte et jaune. Elle sautait comme la fée de je ne sais plus quel conte. Ses cheveux noirs de feu la couvraient tout entière. </p>
+        <p> … Des Juives aussi ont dansé. Elles ont bondi désordonnément comme des tontons en délire ; elles n’ont fait qu’un saut pour retomber aussitôt, éperdues. D’autres étaient plus résistantes, mais leur folie nous gagnait ; nous nous sommes enfuis, n’y pouvant plus tenir. </p>
+        <lb/>
+        <p> Biskra. </p>
+        <p> – Qui a inventé la musique ? demande Athman. Je lui réponds : Des musiciens. Il n’est pas satisfait ; il insiste. Je réponds gravement que c’est Dieu. </p>
+        <p> – Non, dit-il aussitôt, c’est le diable. </p>
+        <p> Et il m’explique que pour les Arabes, tous les instruments de musique sont des instruments de l’enfer, excepté la viole à deux cordes, dont je n’ai pu retenir le nom, au manche très long et dont la caisse d’harmonie est faite d’une tortue vidée. De celle-là jouent, avec un petit archet, et s’accompagnent les chanteurs des places, les poètes, les prophètes et les conteurs, et parfois si suavement que, dit Athman, une porte du ciel semble s’ouvrir. </p>
+        <p> Ces chanteurs, ces poètes m’intriguent. Que chantent-ils ? Et les gardeurs de chèvres en dialoguant avec la flûte ? Et Sadeck avec sa guzla  {7}  ? Et Athman lui-même, seul, ou avec Ahmed, chacun sur son cheval, à Touggourt ? J’écoute, mais ne peux distinguer un seul mot. Athman, que je questionne, répond : « Mais non, ce ne sont pas des phrases ; – c’est de la poésie, simplement ! » – À force d’insister, je parviens, ces derniers jours, à lui faire transcrire et traduire quelques-uns de ces chants. Ce sont eux que chantent les chanteurs des places, assis à terre, ou sur le seuil d’un café, et qu’un groupe d’Arabes silencieux qui les entoure écoute, ou qu’ils se chantent à eux-mêmes, dans la solitude des longues marches. Je ne sais s’ils plairont à qui ne connaît pas le pays ; à peine si j’ose dire que je les trouve très beaux et que je crois la tradition orale de cette poésie arabe, ancienne et moderne, digne d’occuper le folklore. Voici deux de ces chants ; je les donne ici tels qu’Athman me les a donnés, n’en corrigeant que l’orthographe : </p>
+        <p> I </p>
+        <p> Deux ans j’ai cessé de faire l’amour et j’ai dit être religieux. </p>
+        <p> J’ai fait mon voyage dans le Nord ; j’ai trouvé dans la fête, Baya… </p>
+        <p> Elle a mis le peigne et les boucles d’oreilles. </p>
+        <p> Et le poignard, avec la glace… </p>
+        <p> Ses cheveux tombent de tous côtés, </p>
+        <p> Pesés avec de l’or, bien arrangés. </p>
+        <p> Personne ne peut l’acheter. </p>
+        <p> Rien qu’elle ou moi… </p>
+        <p> – Les filles ont demandé quelques pièces – </p>
+        <p> Et moi, faible (je suis pauvre), </p>
+        <p> Demain je vendrai quelques moutons </p>
+        <p> Pour les belles avec leurs bagues soignées. </p>
+        <p> II </p>
+        <p> Aujourd’hui, en passant elle s’est détournée ; </p>
+        <p> Avec une ceinture d’or, les franges sur les cuisses, pendantes – </p>
+        <p> – Ce qui me fait souffrir, c’est sa propre robe blanche – </p>
+        <p> Je passerai toute la nuit en courant, </p>
+        <p> Et c’est moi qui fais aboyer ses chiens  {8}  . </p>
+        <p> Si Rhamadan  {9}  était un homme, </p>
+        <p> Moi-même je lui casserais les genoux, </p>
+        <p> Mais Rhamadan est venu de Dieu, </p>
+        <p> Moi et toi acceptons ses souffrances. </p>
+      </div>
+      <div title="De Biskra à Touggourt" type="part">
+        <p> De Biskra à Touggourt </p>
+        <p> DÉCEMBRE 1900 </p>
+        <div title="I" type="chapter">
+          <p> I </p>
+          <p> Mardi, 5 heures. </p>
+          <p> Dans l’oasis encore. – Une clarté douce, si pâle que la clarté déjà paraît ombre et l’ombre semble profondeur. Un clair de lune matinal dans lequel va se fondre l’aube. </p>
+          <p> Cimetière au bord de la route – où les parents d’Athman reposent, sous la paix glaciale des nuits. Les tombes blanches des marabouts seules éclairent ; puis, indistinctement, les autres tombes, couleur de terre, mêlent leur poussière à la nuit. Des palmiers bordent le cimetière ; à leur pied, l’eau des séghias s’écaille sous la lune en passant. Aucun chant, aucun parfum, aucun murmure ; la grave poésie de ce lieu, de cette heure, est faite de mortel dénuement. </p>
+          <lb/>
+          <p> La route traverse le village. Tout dort. Dans les maisons d’argile gris de cendre, pas une lampe, pas un feu. </p>
+          <p> Vous souvient-il qu’à notre précédent voyage, à cette heure et à cet endroit, sur le mur effondré de la mosquée, un tout petit hibou miaulait, que ne dérangea pas notre approche, mais qui, sérieux, nous regarda le regarder. </p>
+          <lb/>
+          <p> Puis les derniers palmiers s’espacent ; et ce douteux rêve de vie qu’était la dormante oasis nous abandonne au désert, à la nuit, à la mort. </p>
+          <p> Pourtant, au loin, infiniment distants, quelques feux, trois ou quatre, – campement de nomades, haltes de caravanes. </p>
+          <p> Pas un nuage dans l’azur. Bientôt va poindre l’aube. C’est, violette et triste à l’Orient, comme une meurtrissure de la nuit. </p>
+          <p> Nous croisons une caravane. La lune, presque au zénith, ne fait à chacun des chameaux qu’une discrète ombre courte. – Il fait froid. Athman, à la manière des Arabes, pour dormir, enfonce son énorme turban dans les trois capuchons de ses burnous, se tasse, s’arrondit, devient citrouille comme l’empereur Claude. </p>
+          <p> La plaine – que le sel argente – sous la lune reluit faiblement. Magnésie ou soude, je ne sais, le sol lisse et givré d’argent paraît de matière fluide. Et là-dessus, par places, un bouquet de lentisques, une touffe de maigres joncs. </p>
+          <lb/>
+          <p> Pas un nuage. Voici l’aube. C’est, de l’azur encore froid de la nuit jusqu’à la rouge lisière des sables, une prismatique analyse du jour, plus délicatement et plus subtilement nuancée, mais aussi précisément détaillée que celle d’un parfait arc-en-ciel ; et, sur la terre émerveillée, une résurrection des couleurs. C’est d’une absence d’art totale, d’une beauté purement et uniquement naturelle. </p>
+          <p> Cela ne durera qu’un instant. Déjà toute nuance subtile s’efface ; il ne doit plus rester dans l’espace que l’or brutal et que le bleu. </p>
+          <p> Mais avant que le soleil paraisse, le ciel se colore à nouveau d’une étrange pâleur orange, où bientôt le soleil paraît, rouge et plat, et comme un fer mou sur l’enclume. </p>
+          <lb/>
+          <p> 7 heures. </p>
+          <p> Un vol de grues dans l’or du ciel fait un nuage oblong qui palpite. Un autre vol moins grand suit le premier. Elles approchent ; nous pouvons les compter : elles sont treize. Ces deux vols passent chacun à notre gauche. En science augurale que signifie ce présage ? </p>
+          <lb/>
+          <p> 8 heures. </p>
+          <p> Jusqu’à Saada, nous n’avons rencontré de vivant que d’impassibles caravanes. Si, – deux chacals. Le premier s’est enfui, craintif, à notre approche. L’autre reste assez près de nous, immobile et caché derrière un buisson bas ; seul son museau pointu dépasse. </p>
+          <lb/>
+          <p> L’aurore sur la mer ne me parut jamais si splendide. Où les sables rougissent, frémissent, les flots, eux, demeurent glacés. </p>
+          <p> Puis le désert s’étend, obstinément pareil. Argile blonde un peu caillouteuse où de courtes végétations, rousses et rondes, qui arrêtent le sable et se soulèvent par-dessus, semblent, sur cette étendue lisse, un foisonnement de verrues. </p>
+          <p> De Saada à Chegga, nous n’avons rien rencontré. </p>
+          <lb/>
+          <p> Chegga, 10 heures 1/2. </p>
+          <p> Déjeuner – sur une table à trois pieds – en plein soleil, qui déjà commence à taper ferme. Deux faméliques chats se disputent des débris de poulet froid et de sardines. Près de nous, devant la misérable hutte où trois pauvres Arabes s’abritent, une femme couverte d’une loque safran lave une maigre fillette de cinq ans, toute nue, debout dans un chaudron noir. Pas une fleur, pas une herbe pour sourire un peu à la hutte. </p>
+          <p> Que celui qui ne connaît pas ce pays imagine d’abord : rien. À droite, une hutte. Non loin, quelques carcasses démantibulées – carcasses de chameau, l’on suppose. À gauche, une société de chameaux ; des chameliers qui les font boire à une source qu’on ne voit pas. Derrière le puits d’où sort la source, rien ; autour, rien ; du soleil ; une avalanche de soleil. </p>
+          <lb/>
+          <p> Nous nous approchons de la source. Qu’y faire ? L’eau, captée, passe dans un verger où vingt maigres palmiers s’étiolent. Un âne pelé broute au pied de l’un d’eux. On dirait qu’il broute le sable. La diligence attelée, nous repartons. </p>
+          <lb/>
+          <p> 1 heure. </p>
+          <p> Depuis plus de deux heures la même route se renouvelle devant nous. – Un peu de sable fin maintenant épaissit la route. Les roues creusent ; les chevaux peinent ; nous descendons. Le soleil tape. La plaine trop éclairée, à perte de vue, paraît terne : les tons meurent. Mais si l’on se retourne, mettant derrière soi le soleil, les tons revivent, et le rapport des dunes basses aux quelques végétations qui les ornent ravit. Je ne sais pas le nom de ces plantes. Leurs minuscules feuilles crispées sont d’un vert argenté cendré, pareil exactement à celui du feuillage de l’olivier. </p>
+          <lb/>
+          <p> Kef el Dorh’. </p>
+          <p> Le terrain brusquement dévale jusqu’au chott. </p>
+          <lb/>
+          <p> Il y eut un temps où je n’osais pas m’avouer combien l’art trouve peu de refuge et d’aliment sur cette terre. J’avais besoin de la prétendre belle pour oser si passionnément l’admirer. C’était le temps où volontiers encore je confondais art et nature. À présent, ce que j’aime de ce pays, je sens bien que c’est la hideur même, l’intempérie : ce qui contraint tout art à ne pas être… ou à se réfugier ailleurs. </p>
+          <p> Ici l’impuissance du peintre est probante ; et plaisante son obstination à ne le reconnaître point. Il faut savoir, dans le désert, se contenter de l’éducation, je veux dire de l’exaltation, qu’il propose, puis savoir s’y contreposer. Ce n’est rien d’autre, j’imagine, qu’un Monet dut aller y prendre. L’analyse de son métier, de son œil ; la connaissance la plus simple de chaque ton en soi, de ses rapports et de sa possible importance ; l’évanouissement de tous plans, la disparition des reflets, l’ignorance de la diaprure, l’inenveloppement du milieu. Il faut que, regagnant son pays, il ait acquis – des réactions des tons entre eux, des ressources de chacun d’eux, de la disponibilité réfléchissante des surfaces, de l’ambiance, – une compréhension à la fois plus savante et plus spontanée, une sorte de révélation. </p>
+          <lb/>
+          <p> M’reyer, </p>
+          <p> … où l’on arrive à la nuit close. Bordj ; vaste cour, et comment la dire assez morne ? Tout y manque ; elle est vaste sans peine ; ici rien ne coûte moins que l’espace. </p>
+          <p> Dès que l’on sort du bordj, la nuit paraît si grande que le bordj y paraît petit. Jamais je n’avais vu tant d’étoiles. D’où que ce soit du ciel, devant le regard, il en point. L’aboi des chiens… une angoisse indéfinissable vous prend ; – on est mal défendu contre le vide ; on sent céder partout le désert. </p>
+          <lb/>
+          <p> Égarés dans la nuit, nous cherchons à gagner le village que la voiture, avant de s’arrêter au bordj, avait longé. Il est loin. Nous entendons chanter un refrain de caserne, puis rencontrons quatre soldats qui nous abordent et s’offrent à nous guider. Nous les quittons sitôt entrés dans le village. Il fait froid. Au milieu de la rue, – si l’on peut appeler ainsi ce canal entre les maisons, – des feux de palmes que des enfants à moitié nus attisent, et où se chauffent des vieillards. La flamme éclate un instant pétillante, puis retombe, et ce n’est plus que le rayonnement assourdi du foyer. Ni musiques, ni jeux ; des cafés maures presque éteints ; quelques fumeurs devant leur porte, couchés à demi sur des nattes, ou sur la terre simplement. </p>
+          <p> Et maintenant que par trois fois nous avons suivi tout au long les deux uniques rues du village, que les feux sont éteints, que nous avons fait fuir comme troupes d’oiseaux farouches tout ce qui s’y chauffait de jeune et de charmant, maintenant que la paix de ce lieu trop étrange est gâtée, – que faire ? – sinon rentrer au bordj à travers l’oppressante solitude de la nuit. </p>
+        </div>
+        <div title="II" type="chapter">
+          <p> II </p>
+          <p> Mercredi, midi. </p>
+          <p> Des bandes grises sont montées du Sud. Pendant deux heures le ciel s’est couvert entièrement de nuages ; puis, vers le Sud encore, a reparu le bleu. À présent, de nouveau, plus un nuage d’un bout à l’autre de tout le ciel. </p>
+          <lb/>
+          <p> 5 heures. </p>
+          <p> Nous sommes en vue de Touggourt. Le soleil déclinant se colore. Le ciel est uniquement bleu, d’un bleu qui sur les bords se dore. L’approche de Touggourt surpasse tous mes souvenirs. – À l’horizon de gauche, la fine ligne de l’oasis qui se poursuit depuis M’garine semble une côte de golfe, et la mer sablonneuse où nous voguons vient s’y poser. À droite, rien ; le sable d’or qui rejoint l’or vibrant du ciel. Devant nous, l’importante Touggourt. </p>
+          <p> Port tardif ! Loin encore, on n’en voit, sur l’avant, presque hors l’oasis, que, pareils à des phares, deux minarets bizarres, découpés en noir sur le ciel. </p>
+          <lb/>
+          <p> Le soleil cependant disparaît. À l’orient, le sable, rose et vert un instant, tout aussitôt devient d’une lividité délicate, d’une pâleur très fine, exquise sous le ciel rose et lilas… </p>
+        </div>
+      </div>
+      <div title="Le renoncement au voyage" type="part">
+        <p> Le renoncement au voyage </p>
+        <p> 1903-1904 </p>
+        <lb/>
+        <quote>
+          <quote>
+            <quote> J’avais l’âge où la vie commence à prendre un goût plus douteux sur les lèvres ; où l’on sent chaque instant tomber d’un peu moins haut déjà dans le passé. </quote>
+          </quote>
+        </quote>
+        <div title="ALGER (FORT NATIONAL)" type="chapter">
+          <p> ALGER (FORT NATIONAL) </p>
+          <p> Jeudi, 15 octobre. Arrivée à Alger. </p>
+          <p> Taverne Gruber. – De cette chaude salle où je dîne, de cette salle trop éclairée, l’on voit, sur la terrasse, des gens altérés qui s’épongent ; un trottoir ; une rampe ; puis un gouffre de nuit : la mer. </p>
+          <lb/>
+          <p> Vendredi matin. </p>
+          <p> Nuit atroce ; air épais ; sommeil, malgré ma fatigue, déchiqueté par puces, moustiques, punaises, et le vacarme ininterrompu des chantiers. </p>
+          <p> Couché dès huit heures, à dix heures je me relève, affolé de soif ; tandis qu’il en est temps encore je cours sur le quai prendre des glaces et des bocks. </p>
+          <lb/>
+          <p> À six heures je me suis levé, complètement à bout de sommeil. Pas un souffle. À peine une diminution de chaleur après l’accablement, le halètement de la nuit. </p>
+          <p> Ma chambre, à l’angle de l’hôtel, ouvre sur la terrasse haute, fait face à la ville et domine le port. Au-dessus de la mer, au pied du ciel, une épaisse hauteur de brume, de vapeur, cache le lever du soleil ; on dirait de la chaleur figée. </p>
+          <p> Il fait sirocco. L’on étouffe. Sur la terrasse, pieds nus ; la dalle est chaude. Tout est terne, les blancs les plus délicats sont flétris. L’on sent que le soleil, sitôt franchi ce mur de brume, va faire la chaleur éclatante. Et d’un bond le soleil le franchit. </p>
+          <p> Le marché ce matin ; non plus en plein air, hélas ! mais couvert. Fruits de couleur vivante, tomates, aubergines et, couleur d’argile et de peau, des fruits-racines merveilleux qu’il faut pourtant se décider à reconnaître et à nommer pommes de terre. </p>
+          <p> Bain maure ; ce même bain où, due anni fa, Ghéon me rejoignit plein de colère. Qu’il pleuvait ! Qu’il fait beau ! – Mais les hôtes, hélas ! sont changés ; tout m’y paraît moins neuf ; j’y suis moins jeune. </p>
+          <lb/>
+          <p> À la recherche d’une chambre, à Mustapha. Je visite tout, fouille tout. Je pensais, avant d’arriver : n’importe quel lit, n’importe où ; et tout me paraissait possible ; – je commence à ne me croire plus possible nulle part. </p>
+          <p> Et ces mouches ! </p>
+          <p> Puis descendre au Jardin d’Essai ; le traverser en hâte ; courir jusqu’à la plage… ah ! se baigner !… </p>
+          <p> Eau tiède ; souffles vifs ; quiétude ; langueur. </p>
+          <p> Jardin d’Essai, le soir. Allée de bambous déjà sombre… Je m’y suis promené le soir, à l’heure où, dans l’avenue des platanes, à peine on distinguait du tronc des arbres l’épais enveloppement des lianes… Je retourne au Gruber, où j’écris ceci. Je vais dormir. </p>
+          <p> Mais j’aurai vu, géantes, ces ipomées dont tu parlais. Tiges volubiles, fleurs violet-pourpre ou plus pâles, qui font face toujours ; leur couleur froide peut éblouir !… </p>
+          <p> Des lontanas géants ; des lauriers-roses ; des hibiscus, feuillage glacé vert, fleur cramoisie. – Dormir. </p>
+          <lb/>
+          <p> Samedi. </p>
+          <p> Trente-neuf degrés à l’ombre. Il n’a pas plu depuis six mois. </p>
+          <p> L’étrange, l’exténuant, c’est qu’il fait plus chaud la nuit que le jour. Car, le jour, si l’on a le soleil, on a l’ombre, et qu’un souffle par instants vient rafraîchir. Mais, passé six heures du soir, le vent tombe ; une égale obscure chaleur s’établit. Tout prend soif. On songe à se baigner, à boire. On se dit : je ne pourrai pas dormir cette nuit ; et l’on rôde. Le ciel même est impur ; sans préparer aucun orage, ce sont des ternissures de chaleur qui font songer, au-delà du Sahel favorable, au continent énorme embrasé. </p>
+          <p> Je bois ; je bois ! Comme je bois ! ! </p>
+          <p> Je sue ; je sue ! Comme je sue ! ! ! </p>
+          <p> Je songe aux oasis flétries… là, j’irai ! – Oh ! soirs confus et ternes sur leurs palmes ! </p>
+          <p> Je n’ai pu découvrir encore d’où montait ou tombait cette odeur de santal, qui flotte sous les branches du square, vous enveloppe et vous emplit. </p>
+          <p> Une heure avant le coucher du soleil, d’invisibles oiseaux, dans les ficus du square commencent un criaillement si aigu que l’arbre tout entier en est ivre. </p>
+          <lb/>
+          <p> 17 octobre. Samedi. </p>
+          <p> Le mouvement du port n’arrête pas un instant de la nuit. La terrasse de ma chambre donne au-dessus, et toute la nuit sans sommeil j’entends l’appel des débardeurs, le choc des ballots, les sifflets et surtout l’insupportable trépidation du treuil. </p>
+          <p> Ce matin j’irai chercher l’air pur et frais dans la montagne ; je pars pour Tizi-Ouzou dès six heures. </p>
+          <p> Réveil à cinq heures, dans la nuit. Le ciel, uniformément gris, promet une grande chaleur. </p>
+          <p> Le nuage de chaleur est si bas que du Jardin d’Essai déjà l’on perd de vue la ville haute. </p>
+          <p> Voici la plage d’or où hier je me baignai. Oh ! qu’à présent la mer serait rafraîchissante ! À peine sur le bord un soulèvement de la vague et comme une respiration de la mer… </p>
+          <p> Ce wagon de troisième classe semble une léproserie. Dans un coin un paquet de hardes : elles éclosent quand passe l’employé et dedans, on distingue un visage inimaginablement pustuleux ; le contrôleur n’insiste pas. – Un peu plus loin, un Arabe vomit. </p>
+          <lb/>
+          <p> Foire à Tizi-Ouzou. </p>
+          <p> Torrents de poussière sur la route. Vendeurs de petits tas de figues au bord des champs de figuiers. Marchands de melons d’eau, de pastèques. Animation extraordinaire, dont je n’ai vu l’équivalent qu’en Bretagne sur la route de Sainte-Anne, le jour du grand pèlerinage. </p>
+          <p> Multitude. Ils semblent tous exactement de même classe sociale. Seuls beaux Ali et Saïd ; mais même la beauté de ceux-ci se fond dans la foule homogène. </p>
+          <p> Saïd me reconnaît sans doute, mais ne le montre guère. C’est au cœur du marché que, guidé par Ali, je le retrouve. Il porte, ainsi qu’Ali son frère, l’énorme et pointu chapeau kabyle sur son turban, ou sur la nuque et retombé sur les épaules. Saïd s’est beaucoup élancé, a les yeux les plus beaux du monde, les traits durs, la bouche cruelle et moqueuse, l’air peu franc. Ses délicats pieds de danseur se sont élargis et désennoblis par la marche ; ils n’eussent dû fouler que des gazons ou des tapis. </p>
+          <p> Akli, le père, porte des lunettes bleues, a l’air de plus en plus d’un gypaète, ou de quelqu’un qui vous aurait dévalisé. On prend le thé. Je laisse Akli avec Saïd, repars avec Ali qui veut me montrer leur maison. </p>
+          <p> Nous voici dans une salle carrée, sans meubles. Un agneau bêle dans un coin. À terre, la femme d’Ali, une enfant de seize ans, moins peut-être, donne le sein à un chétif enfant. La mère d’Ali, devant la porte, nourrit un dernier fils. Dans cette étroite demeure, ces trois générations cohabitent. D’autres enfants encore, frères, sœurs, cousins… On m’offre des gâteaux de miel frit. </p>
+          <lb/>
+          <p> Sur la route de Fort-National. </p>
+          <p> Petits ânes chargés, parfois que monte un vieil Arabe ; ils sont gris, ont les membres secs, broutent en passant des glands tombés, des crottins. Petites vaches grises, aux membres secs… La voiture bouscule tout ; nous passons. </p>
+          <p> Beaux arbres ; certains couverts de pampres jusqu’à la cime. Le terrain dévale ; eux s’élancent ; rien ne les soutient dans l’azur. </p>
+          <p> Les raisins sont cueillis. S’il pend encore à la branche une grenade, j’en ai soif ! </p>
+          <lb/>
+          <p> J’ai fait par les traverses et presque toute à pied cette longue montée ; elle est très belle. Mais j’eusse souhaité moins intolérablement âcre cet éclat de grenade sauvage que j’arrachai du grenadier. Elle avait crevé de chaleur et montrait ses grains presque blancs. Du suc, elle en avait pourtant ; mais je compris que la soif des Arabes l’eût laissée. Déjà, dans sa sauvagerie, le parfum du fruit s’y révèle, mais qu’il faudra qu’une lente culture sucre, assouplisse et tempère. Pourtant je m’obstinai, mordis encore, et gardai longtemps sur les gencives et les lèvres la sensation d’une astringence aromatique et comme un resserrement savoureux. </p>
+          <lb/>
+          <p> Fort-National. Dimanche. </p>
+          <p> Ce matin, au réveil, même brouillard que l’an passé. Quel soulas après cet excès de soleil ! Je m’imbibe voluptueusement. </p>
+          <lb/>
+          <p> On entend, dès que les bruits voisins s’apaisent, les cris de ce lointain village. J’y suis allé tantôt. On l’aurait cru peuplé de chèvres. Le village étant au haut du roc, une seule rue sur la crête ; par l’ouverture des maisons, le regard, sitôt franchi la cour, plonge dans le vide. Les murs sont blancs de chaux ; les toits, couleur de raisin sec. Les hommes sont laids : les femmes extrêmement belles. Tout un peuple d’enfants me suit. – Que l’air est frais ce soir ! Qu’il fait doux vivre ! De quel charme est le bleu de ciel ! Une visible humidité vous transit d’aise. À quoi tout sourit-il ? Pourquoi tout paraît-il heureux ce soir autant que moi ? – </p>
+          <lb/>
+          <p> Ce n’est pas l’arrière-saison qui dépouille de leur frondaison ces hauts arbres. L’herbe manque à la faim du bétail, et chaque feuillage y supplée. Voilà ce que broutent ici vaches, chèvres, ânes et bœufs ; la main du Kabyle fait descendre vers eux cette aérienne pâture. </p>
+          <p> Je me souviens de ce svelte berger, dans les jardins d’El-Kantara, qui, du haut d’un abricotier énorme, pour son troupeau, faisait pleuvoir les feuilles. Déjà colorées par l’automne, sitôt qu’il agitait la branche, elles tombaient. – C’était comme une averse d’or qui couvrait un instant le sol, qu’incontinent séchaient les chèvres. </p>
+          <lb/>
+          <p> Je voudrais m’attarder encore un jour ou deux dans ce pays ; mais, quand bien j’y vivrais trente ans, je n’en trouverais rien à dire ; pittoresque, à souhait pour roman d’aventures, il ne se dépeint pas, mais se décrit ou se raconte. J’y suis peut-être plus moral ; mais comme artiste je n’y vaux rien. </p>
+          <lb/>
+          <p> Lundi. </p>
+          <p> Ce matin il bruine et pleut ; chaque Arabe se couvre d’un sac. Puis le nuage se déchire sous la pression d’une surabondance d’azur. Et cette rue qui forme place, cette terrasse, ce balcon, s’emplit d’une animation idyllique et riante. </p>
+          <p> Des acacias bordent la place, puis le dévalement brusque ne laisse plus rien voir que la montagne au loin, qui fait face. – Ces enfants désœuvrés ne sont point beaux, mais pleins de grâce. Il souffle doucement une délectable fraîcheur. – Les cimes du Djurdjura sont dans l’ombre. </p>
+          <lb/>
+          <p> Hier, après dîner, sorti trop tard ; la ville arabe déjà faisait la morte. Les quatre ou cinq cafés français, trop éclairés, crevaient indécemment la nuit. J’ai pris cet escalier suspect qui, derrière eux, mène à la ville haute. Les magasins juifs sont fermés ; tout est sombre ; seul un maigre quinquet au haut de l’escalier. Des planches formant banc ; je m’assieds. Et sitôt assis j’entends au tournant de la rue le crissement de la guitare arabe. Un café maure est là ; j’en perçois à présent la faible lueur dans la nuit ; elle écarte la nuit à peine, et pas plus que ne repousse le silence le son discret de la guzla. – M’approcherai-je ? – Pour quoi voir, qu’une échoppe très misérable, douze Arabes couchés, un musicien très probablement laid… Demeurons. Que la nuit entre en moi, s’insinue avec la musique… Un Arabe sort du café, s’avance vers moi, me croit ivre ; et en vérité je le suis. </p>
+          <lb/>
+          <p> Lundi soir. </p>
+          <p> Retour à Alger. </p>
+          <lb/>
+          <p> Alger. Mardi. </p>
+          <p> Qu’il fait beau ! Plus un nuage au ciel. La mer est calme ; elle invite au voyage. Le sirocco, brusquement, est tombé ; avec lui la température. Il fait chaud, mais moins accablant. L’ombre est bleuissante, légère et l’air semble porter en soi de la clarté ; il est délicieux, subtil, presque vif ; on dirait qu’il est hilarant. – Je songe aux oasis… Je pars demain. Qu’il sera beau, dans le soir, le balancement de leurs palmes ! Je ne penserai plus au passé… </p>
+          <p> De ces raisins la couleur indéfinissable me tenta ; je ne pus me retenir d’en acheter. Pour trois sous j’eus une grappe énorme. </p>
+          <p> Rien ne dira le ton de cette grappe ; elle était à la fois violette et dorée ; elle était transparente et paraissait opaque ; les grains n’en étaient point pressés, couverts d’une épaisse pruine, poissant aux doigts, croquants, éclatants, presque durs – si sucrés que je n’en pus manger que quatre, puis donnai le reste aux enfants. </p>
+        </div>
+        <div title="BOU-SAADA" type="chapter">
+          <p> BOU-SAADA </p>
+          <div title="I" type="chapter">
+            <p> I </p>
+            <p> Mercredi 21 oct., en wagon. </p>
+            <p> J’emporte avec moi quelques livres ; j’ai tâché de lire, mais en vain. Ce pays captive mon regard. C’est un drame latent, mais, pour qui sait y voir, plein d’angoisse, entre la matière brute et la vie. Il ne s’agit même plus de culture, mais d’existence simplement. Ici, tout invite à la mort. </p>
+            <p> Couche de terre végétale, mince comme le tranchant de la main. </p>
+            <p> Puis le terrain, devenu schisteux, se feuillette ; ce n’est plus du roc, c’est de la galette vraiment. Et là, de plus en plus pressés, croissent des pins sans soif. </p>
+            <lb/>
+            <p> Le vent souffle du sud ; le ciel s’obstrue. On dirait à présent un continu reflet des schistes gris. Sans doute, il va pleuvoir bientôt… </p>
+            <p> Oh ! être plante, pour savoir, après des mois torrides, ce qu’est la volupté d’un peu d’eau. </p>
+            <lb/>
+            <p> Du wagon. </p>
+            <p> De nouveau les pins ont cessé ; le terrain raviné, dévasté, abrite en ses replis secrets des lauriers-roses. Soudain quelques bouquets d’un poil végétal jaune ou vert, et pour le brouter, quelques chèvres. </p>
+            <p> En guise de salut au train qui passe, le petit Kabyle berger se montre tout entier, tout nu, sous sa gandourah qu’il relève. Il semble chèvre entre ses chèvres et ne se distingue pas du troupeau. </p>
+            <lb/>
+            <p> Bordj-Bou-Arreridj. </p>
+            <p> Petite chambre aux murs blanc de chaux, je redoute à l’excès tes punaises ! – qu’importent tes rideaux frangés, ton carrelage défoncé, ta courtepointe rapiécée, ton tapis maculé, qu’importent !… Mais, dans le coin en face du lit, ce divan défoncé ; mauvais signe ! Et, sur le marbre de la cheminée, ces faux bégonias-rex dans des potiches de barbotine… Je m’apprête à ne pouvoir fermer l’œil de la nuit. </p>
+            <p> Sur la devanture d’une petite boutique arabe, on lit comme enseigne ces mots : </p>
+            <p> LUXE ORDINAIRE </p>
+            <lb/>
+            <p> Jeudi, 22 octobre. </p>
+            <p> Dans cet encaissement évasé de rochers pelés monochromes, la guimbarde descend le lit de l’Oued. Selon la mode du pays, l’eau coule vers l’intérieur ; elle va se noyer dans le Chott. </p>
+            <p> Au détour du rocher, ce fut une oasis subite – non de palmiers, mais de figuiers, de tamarix, d’amandiers et de lauriers-roses. Puis des abricotiers géants, un moulin, des troupeaux, des Arabes. Et longtemps l’oasis s’allonge, suivant l’Oued, tantôt s’insinuant entre ses berges rapprochées, ou, par l’extrême aridité du sol, étranglée jusqu’à n’être plus, pour l’oiseau qui passe au-dessus, qu’un fil vert ; tantôt s’élargissant, s’étalant, se haussant jusqu’à faire penser : vienne un peu de soleil et s’empliront d’attrait ses ombrages. </p>
+            <p> Mais depuis ce matin le ciel opaque, épais, uniformément gris, répand sur ce pays doré l’ennui d’une insignifiante petite pluie minutieuse. Ce n’est pas suffisant pour étancher la terre ; c’est assez pour l’emboire et pour en ternir la couleur. </p>
+            <lb/>
+            <p> M’Silah. </p>
+            <p> Il y a huit ans, quand je voyais des Arabes prier, je me gênais pour ne pas passer entre eux et La Mecque ; je craignais que ça ne coupât le fil. </p>
+            <p> Ô jardins parfumés de M’Silah ! je vous eusse chantés plus tôt, si j’avais pu déjà vous connaître. L’eau courante de vos séghias roulait des tortues ivres… La branche frêle du grenadier ploie à porter des fruits si lourds… Un laurier-rose en fleur ! approchons-nous. </p>
+            <p> Se peut-il que huit ans aient passé déjà depuis le soir où mon ami Athman, dans l’unique petit jardin de Kairouan, m’enseigna que jardin se disait Dj’nan en arabe, et quand il est plus « végéteux » : Boustan. </p>
+            <p> … C’est à cette heure prévespérale, où s’exaltent les voix des oiseaux que j’y veux revenir, et m’y sentir plein d’indolence… </p>
+            <lb/>
+            <p> Vers Bou-Saada, vendredi. </p>
+            <p> Au-dessus de nous, une vaste contrée de nuages, qu’en deux heures, enfin, nous franchissons. </p>
+            <p> Mais le soleil, qui dès son lever fut couvert, garde longtemps encore devant lui comme une œillère. Il est plus de huit heures lorsqu’il parvient à regarder par-dessus. Ses premiers rayons sont glacés ; au lieu de réchauffer, ils transissent. </p>
+            <lb/>
+            <p> 7 heures. </p>
+            <p> Devant nous ces lointaines céruléennes montagnes, dont nous nous rapprochons lentement, deviennent lentement moins azurées et semblent, flottant moins transparentes, plus réellement se poser. Et longuement l’œil interrogateur écoute comment un ton bleu passe au rose, puis du rose au fauve, à l’ardent. </p>
+            <p> Chott infini du Hodna, dont l’argileuse étendue s’éraille. À peine, au loin, de-ci de-là, quelques touffes de jonc formant verrues. Plus loin, de l’eau ; du moins, sa fallacieuse apparence. </p>
+            <lb/>
+            <p> 9 heures. </p>
+            <p> Nuage ! qui ce matin, du bord du ciel, montais comme un flocon d’étoupe, est-ce toi qui, grandi, pareil à la nuée d’Élie, maintenant envahis le ciel ? – Hélas ! hélas ! tu porteras plus loin ton abondance d’eau, sans en rien verser sur cette terre, et la plante et la bête assoiffées ne recevront de toi vers midi que le rafraîchissement d’un peu d’ombre. </p>
+            <lb/>
+            <p> 11 heures. </p>
+            <p> Sous la lumière immodérée le mirage à présent s’amplifie. Eaux vives, jardins profonds, palais, c’est, devant l’inexistante réalité, comme un poète dénué, le désert impuissant qui rêve. </p>
+            <lb/>
+            <p> 1 heure. </p>
+            <p> Depuis deux heures au moins que les chevaux tirent et peinent dans le sable, l’oasis de Bou-Saada, que l’on apercevait dès le départ, semble encore à peine grandie. </p>
+            <lb/>
+            <p> Un gros gras juif de Constantine, qui commissionne dans le Sud, tire, à la seconde heure de diligence, le Nietzsche de Lichtenberger de sa valise et, se tournant vers moi qui n’en peux mais, s’écrie : « Moi, Monsieur, je comprends qu’on meure pour une idée ! » </p>
+          </div>
+          <div title="II" type="chapter">
+            <p> II </p>
+            <p> Lettre à M.…, samedi. </p>
+            <p> … « Une grosse déception c’est de trouver Bou-Saada en deçà, non au-delà de la montagne ; son désert est au nord ; c’est simplement la plaine intérieure du Hodna et son très peu étrange chott. Entre le vrai désert et moi, je sens autant que je le vois l’épais et confus massif, prolongement des monts d’El-Kantara. L’oasis, dans une échancrure du mont, est donc assise face au nord et médite vers le connu. Ici, plus de retours de caravanes, plus de départs vers les propositions mortelles du désert. – L’oasis, comme celle d’El-Kantara toute de charme, n’a pas cette grandeur tragique de tant d’autres qui semblent empiéter sur la mort. </p>
+            <p> … Ce matin, levé dès cinq heures, j’ai, quittant l’oasis, marché dans le ravin, irrésistiblement attiré malgré tout vers le sud. Le pays s’est fait de plus en plus rauque et âpre ; il soufflait un vent froid, continu comme l’eau d’un fleuve. Le soleil, derrière le mont, restait caché. Et, dès que j’eus doublé le mont, la chaleur, avec le soleil, devint si forte que je ne songeai plus qu’à revenir. J’étais très loin déjà, ayant marché devant moi plus d’une heure et d’un pas ininterrompu. – J’aurais voulu cueillir pour toi ces lauriers-roses dont les dernières fleurs se fanaient, rares déjà, mais plusieurs encore très belles ; je leur imaginais une très fine odeur de pêche et fus déçu qu’elles n’eussent point de parfum. Le bruit que je faisais en marchant était tout égaré dans ce silence ; m’arrêtant, je n’entendis plus rien que le pépiement d’un bizarre oiseau roux qui me suivait ; il avait la couleur des roches. – J’eusse continué pour quoi faire ? Pourtant j’eusse voulu continuer… L’angoisse n’est qu’en nous ; ce pays est au contraire très calme ; mais cette question nous étreint : est-ce avant, est-ce après la vie ? Est-ce ainsi que notre terre était – ou qu’elle deviendra ? Un chaos de roches. – Qu’elles sont belles sous le soleil ! </p>
+            <p> Il faut avoir goûté du désert, pour comprendre ce que veut dire : culture… » </p>
+            <lb/>
+            <p> Bou-Saada, dimanche. </p>
+            <p> … Il répondit : « Je garde l’eau. » – Assis au bord de la séghia, l’enfant gardait une petite écluse qui rabattait vers son jardin le filet d’eau auquel il avait droit jusqu’à trois heures. </p>
+            <p> À trois heures l’enfant se leva, délivra l’eau, puis me mena dans son jardin. Son père ouvrit la porte ; nous entrâmes. L’arrosement fini, il régnait là une fraîcheur pernicieuse. Nous nous y assîmes pourtant. Son plus jeune frère, que je ne connaissais encore pas, m’offrit des figues et des dattes. – J’aurais voulu pouvoir raconter à l’enfant des histoires ; ses grands yeux amusés m’écoutaient déjà ne rien dire. – Le jus des figues sirupeuses m’avait laissé les doigts poisseux ; je les voulus laver dans une flache ; mais, si minutieusement irrigué, le dessous des abricotiers et des figuiers n’offrait pas la largeur d’un soulier où poser pied sans crever une digue minuscule ou froisser quelque plante potagère. Après d’affreux dégâts je me rassis, puis restai longtemps, buvant l’ombre, dégustant la fraîcheur, sans plus penser à rien, sans rien dire. </p>
+            <lb/>
+            <p> Je suivis, au sortir du Ksar, sans descendre jusqu’à l’Oued, un étroit canal d’eau limpide qui dans la gorge de l’Oued serpente à mi-hauteur, contournant le rocher. D’un côté le bordait mon sentier, presque effacé contre la roche ; de l’autre, en contrebas, un indiscontinu fouillis de lauriers-roses dont les plus hautes branches trempaient dans le canal, les plus basses dans l’Oued. Le lit de l’Oued était profond et le soir le creusait encore. Par flaques, une eau courant à peine et dont la fuite à travers les cailloux se perdait, reflétait le ciel gris de lin. Sur l’autre rive, des jardins ; et, dominant énormément, en face, la montagne au flanc brut, d’instant en instant rougissante ; elle devint enfin couleur peau de grenade ardente ; on l’eût dite chaude et prête à éclater. À ses pieds les palmiers des jardins étaient noirs. </p>
+            <p> D’un bond ayant franchi le roc à l’ombre duquel je marchais, je me trouvai brusquement sous le plein ciel. Le soleil, disparu depuis longtemps, laissait le couchant plein de splendeurs ; c’était de leur reflet qu’ardait devant moi la montagne. Trois nuages légers, sans altérer la pureté du ciel, prenaient un éclat de parure… Voici l’heure, pensai-je, où d’El-Kantara les fumées bleues reculent et subtilisent l’oasis. Bou-Saada n’est point si belle, mais le Ksar s’emplissant maintenant de rumeur, semble, à l’instant d’entrer dans la nuit, s’exalter comme font les moineaux africains dans les branches avant que ne les touche le sommeil. </p>
+          </div>
+          <div title="III" type="chapter">
+            <p> III </p>
+            <p> Entre Bou-Saada et M’Silah, lundi. </p>
+            <p> Impossible d’écrire ce matin ; l’air est glacé. De cinq heures du matin à huit, encoconné dans mes couvertures, je m’efforce d’être hermétique. Le ciel, impeccable hier, se charge et prend, sitôt après le lever du soleil, une hideuse couleur d’onguent gris. </p>
+            <p> Ce matin je me sens, contre ce pays, plein de haine, et je le déshabite éperdument. Je m’écoute me rappeler la Troisième Symphonie de Schumann. Je me récite aussi la Sonate au grand-duc Rodolphe, en ut mineur ; mais la partie de violon m’échappe par endroits. Enfin, dès que la température me permet de mettre les mains à l’air je sors de mon sac un Virgile et je relis l’Églogue à Pollion  {10}  . </p>
+            <p> Rien de tout cela ne me suffit ; je voudrais, ce matin, pouvoir aller au Louvre et relire du La Fontaine. </p>
+            <lb/>
+            <p> Deux grands gaillards basques conduisent, tannés, boucanés, culottés. Ce matin je suis seul avec eux dans la très primitive tapissière qui fait office de courrier. Les autres voyageurs sont remplacés par des tonneaux, des sacs, des caisses. Dans le sable où l’attelage peine, les Basques cinglent les chevaux du fouet moins que de la voix. – « Maquereau, la Carne, Cornard, Bijou, la Flemme, l’Espagnol » – à chacun d’eux s’adresse un son particulier. Michel, encore plus que son neveu, sait jouer des ressources de ce langage, on en est assourdi ; à partir de la seconde étape, où l’oncle prend en main guides et fouet, c’est un feu roulant de gutturales. </p>
+            <p> Accablé de sommeil et la tête rompue, je quitte le devant du siège et, tout au fond de la guimbarde, me glissant parmi l’entassement des sacs, disparu sous mon manteau noir, je m’absente. </p>
+            <lb/>
+            <p> Nous avons fait lever six gazelles. Fondues dans la rousseur des sables, on ne distingue fuir que leur cul blanc. </p>
+            <p> J’apprends, en causant avec eux, que mes Basques sont de Sétif. Tant pis. </p>
+            <lb/>
+            <p> Après quelque temps de vertige, l’immense plaine paraît se déformer devant vous. On la croirait coupée de remous et coulante, puis, par zones, gonflée ; le sol tournoyant s’emplit de courants et de vagues, et le regard s’angoisse à ne pouvoir fixer un plan nulle part. </p>
+            <lb/>
+            <p> Le vent s’élève ; les voiles claquent ; un grain. Hardi ! pauvre équipage ! plus que cinq heures jusqu’au bord ! </p>
+            <lb/>
+            <p> M’Silah. </p>
+            <p> Nos ciels du Nord n’ont pas connu pareille épaisseur de nuages. Sur cette immense soif quel immense poids d’eau va crouler ! – pour changer aussitôt cette soif en ivresse et la plaine d’argile en marais. </p>
+            <p> Six heures de cheval hier ; dix heures de patache aujourd’hui. Ce soir, pas le plus petit muscle de mon corps qui ne se plaigne. Aussitôt arrivé m’effondrant sur le premier lit, j’ai de trois à cinq heures quitté ce monde, après un repas de quatre œufs. Demain, repartant de nouveau dès avant l’aube, il me faudra rouler jusqu’à la nuit. </p>
+            <lb/>
+            <p> Profitant des dernières lueurs du jour, je remonte le cours de cette séghia torrentueuse, dans l’espoir d’y trouver quelqu’une de ces tortues noires qui m’étonnèrent tant quand je les vis du haut de la voiture, jeudi. – Mais rien ; et je me trouvai tout à coup très loin, très seul, dans la plus informe des plaines et sur quoi s’avançait la plus inhumaine des nuits. </p>
+            <lb/>
+            <p> Mardi. </p>
+            <p> Un coup de vent a déplacé l’orage ; à peine est-il tombé sur l’aride Hodna quelque ondée ; mais le ciel reste terne et sali. Ce matin ce pays n’éveille en moi pour le louer pas une phrase. Je regarde indifféremment le roc morne, le lit bordé de lauriers-roses de cet oued qui m’enchantait à l’aller. Lâchement, ce matin pour le coupé j’ai quitté l’impériale, afin de lire plus aisément. D’où vient dans cette miteuse diligence, un peu plus confortable pourtant que la tapissière de Saada, cette odeur de panade aigrie ? Sort-elle du piteux voyageur qui partage avec moi le coupé ? </p>
+            <lb/>
+            <p> Sans doute ailleurs tout aussi bien qu’ici je pourrais voir : une vache, pour boire, avancer son mufle baveux, – mais, dans le dénuement parfait d’alentour, plus longuement qu’ailleurs je la regarde. Un enfant la conduit. Elle est maigre ; elle reste après qu’elle a bu, là, devant l’eau, stupide, attendant que l’enfant la remmène. Pour elle aucun pré verdoyant ; sa faim ne trouvera jusqu’au soir que les tiges creuses de maïs, que parcimonieusement lui tendra, pauvre bétail ! cet enfant pauvre. </p>
+          </div>
+        </div>
+        <div title="ALGER (BLIDA)" type="chapter">
+          <p> ALGER (BLIDA) </p>
+          <div title="I" type="chapter">
+            <p> I </p>
+            <p> Alger, mercredi 28 octobre. </p>
+            <p> Le ciel est triste ; il pleut ; mais l’air est calme. Du haut de la terrasse, vers la mer, je regarde ; aussi loin que la mer s’enfonce, pas un pli. C’est de là-bas que tu viendras ; mon regard invente la route et le sillage du bateau ; que ne peut-il plonger jusqu’à Marseille. Ah ! que la mer clémentement te porte ! et que le mouvement des vagues te soit doux ! – Je rêve aux temps où l’on disait : qu’un vent léger gonfle ta voile !… </p>
+            <p> Sur le mur de l’Amirauté, qui blanchit aussitôt et vibre, un rayon tombe. Mais le ciel reste chargé d’eau. Que de nuages sur l’Atlas ! C’est par un pareil jour qu’il paraît bien porter le poids du ciel. </p>
+            <lb/>
+            <p> Ces trois petits enfants sur les marches de l’escalier qui mène au port – ils se partagent, non pas un poisson : une arête, qu’ils auront trouvée Dieu sait où (qui donne aux petits des oiseaux leur pâture). Il reste un peu de chair encore, près de la tête ; c’est là qu’ils grattent ; chacun en a gros comme un pois. </p>
+            <p> Quelques marches plus bas, un vieil Arabe, deux doigts enfoncés dans la gorge, se fait vomir. Quelle horreur a-t-il dû manger, pour qu’il faille qu’il la vomisse ? Il meurt de faim. </p>
+            <lb/>
+            <p> … Mais de ces éléments divers se forme une race nouvelle, orgueilleuse, voluptueuse et hardie. Cela semble tenir de l’Andalou, du Basque, du Provençal, du Corse, du Sicilien, du Calabrais : c’est l’Algérien. On est tout étonné de l’entendre parler français  {11}  . – Jeune il est beau, souvent très beau, son teint n’est pas éclatant, mais verdâtre ; ses yeux sont grands, pleins de langueur ; la fatigue chez lui se confond avec la paresse, et semble une lassitude amoureuse ; il garde tard la bouche entr’ouverte, la lèvre supérieure soulevée, à la façon des très jeunes enfants. </p>
+            <lb/>
+            <p> Les salves de canon qu’échangent ce matin vaisseau russe et vaisseau français, affolent les oiseaux du jardin. Il semble qu’un ouragan subit les enlève. Qu’ils sont nombreux ! Ils tourbillonnent au-dessus de la place et quand ils passent près de moi c’est un bruit strident de bourrasque. </p>
+            <p> Le canon cesse. Sur les arbres tranquillisés, le vol s’abat comme un malheur. </p>
+            <lb/>
+            <p> Le défaut de peur de la mort fait le défaut de l’art arabe. Ils ne reculent pas devant mourir. Et c’est de l’horreur de la mort que naît l’art. Le peuple grec, qui, jusque sur le seuil du tombeau, niait la mort, doit son art à l’effort de protester contre elle. Si la religion chrétienne avait abouti, la certitude d’une vie éternelle eût nié l’art (je dis : l’art, et non pas l’artiste – les artistes sont légion parmi les Arabes). Il n’eût éclos ni dans les livres, ni dans les cathédrales, et François d’Assise eût peut-être pensé, chanté, son « hymne aux étoiles » ; il ne l’eût pas écrit, n’ayant goût de fixer rien de mortel. </p>
+            <lb/>
+            <p> Vendredi. </p>
+            <p> Hier soir, au théâtre, Jean Coquelin. Plus par désœuvrement que par désir, je vais l’entendre dans le Bourgeois Gentilhomme. Il y présente un imbécile fat, sûr de lui. Je pense que le trait important de Jourdain, sous sa bouffissure transparente, c’est l’inquiétude – l’inquiétude de quelqu’un dont le tempérament reste très différent du rôle qu’il assume ; il a sans cesse peur de ne pas faire le geste qui convient. C’est là ce que devrait montrer l’acteur. – Réfléchi là-dessus comme si je n’étais pas en Afrique. – Le Dépit amoureux qu’on donnait avant, bien qu’assez mal joué, m’a ravi. </p>
+            <lb/>
+            <p> Samedi. </p>
+            <p> Bourrasque affreuse. Grêle, vent, tonnerre, éclairs… « Il y a trop de tintamare là-dedans », comme disait hier M. Jourdain. </p>
+            <lb/>
+            <p> Lundi. </p>
+            <p> Des marins russes désespérés – perdus dans les ruelles d’Alger, ne sachant pas un mot de français ni d’arabe, trois fois de suite, quand ils font signe qu’on les guide, c’est au port et vers leur bateau qu’on les mène. Les marins russes désespérés tendent à n’importe qui un feuillet blanc et un crayon ; un facteur passe : – Mais écrivez-leur donc une adresse de b… ! lui dis-je, pressentant qu’une fois encore, la quatrième, on va les ramener au port. </p>
+            <lb/>
+            <p> Cette odeur assoupie d’urée, de rot et de crasse tiède qui flotte en l’atmosphère enclose du bain maure… </p>
+            <lb/>
+            <p> Il y a des jours pour se demander si c’est la viande qui est trop dure, ou le couteau qui ne coupe pas. Au demeurant le résultat est le même : on n’a plus faim. </p>
+            <lb/>
+            <p> Mardi. </p>
+            <p> Je ne sais quel nom donner à ce prolongement du môle jusqu’au phare, jetée de pierre, cubes énormes de débris qu’un mastic cimenteux conglutine ; puis, plus loin que le phare encore – jusqu’à l’extrême effort de ce promontoire factice, sur ce dernier bloc que le premier effort de la vague énorme blanchit, refuge étroit où lorsque le soir tombe on croit entrer jusqu’au cœur de la mer. Une bouée rouge, qui précise l’entrée du port, se soulève ou défaille. Le ciel est orageux ; la mer noire ; l’entre-deux caverneux des blocs, à chaque gonflement du flot, mugit. Pas un souffle pourtant ; la vague est énorme sans crête, large et profondément creusée. Parfois dans un resserrement de roc elle se coince ; l’embrun jaillit vers moi. Ah ! que m’emportât une lame assez forte ! ah ! s’engourdir dans la verte amertume du flot !… Au loin les réverbères s’allument, de la ville que le soir assoupissait. Ivre, assourdi, plein de vertige encore d’avoir trop écouté, trop regardé les lames dans ce retrait du môle où je me suis fait tremper – voici que m’aborde T***. Une heure durant j’ai feint de l’écouter, et j’ai dû l’approuver d’autant plus que je le comprenais plus vaguement. </p>
+            <lb/>
+            <p> Ce grand navire – on eût dit qu’en doublant le môle il cédait à la vague et qu’il allait sombrer. Oui la dernière vague, lorsqu’il vira le coucha presque, mais puis, une suprême fois le soulevant, l’entra glorieusement dans le port. </p>
+            <p> Et, vers le soir, la mer, du côté de l’Agha, s’est faite de ce vert étrange, oriental, que j’admirais à Malte ou à Tunis. </p>
+            <p> – La lune, écartant d’une poussée de rayons les nuages, chemine en libre champ d’azur. La mer s’apaise, ou me trompé-je ? – tant sur elle impose de calme l’huile argentée de cette nocturne lueur. </p>
+            <lb/>
+            <p> Mercredi. </p>
+            <p> Je n’irai point chercher du côté de la mer ; mon regard fuit l’horreur de ces nuages qu’un coup de vent chassera vers le nord. Déjà, plein d’Apollon, le ciel exulte au-dessus de la ville haute. Ô rire des maisons ! profondeurs de l’azur ! Là-haut, dès que le soir viendra, je monterai – oui, jusqu’au pied de ce mur rose, le plus riant de tous, le plus haut, et que rien ne sépare du ciel que ce rameau nageant d’eucalyptus, au loin, que le vent balance. Mais, pareille à l’objet de nos désirs, de près paraîtras-tu si belle ? branche heureuse, et dont la lumière aujourd’hui, mieux que l’ondée d’hier, lave les feuilles. </p>
+            <lb/>
+            <p> Non ; c’est chose inutile. On peut revoir vingt fois le même lieu – jamais plus avec nouveauté. On regarde plus ; on voit moins. On comprend mieux peut-être… mais l’étonnement ravissant n’y est plus. </p>
+            <lb/>
+            <p> Jeudi. </p>
+            <p> Il va pleuvoir encore. Le ciel est lourd, l’air est pâteux. Par ce temps-là je ne puis guère écrire. C’est curieux ce que le moindre nuage au ciel répand d’ombre sur mes pensées… </p>
+            <lb/>
+            <p> Marché par désœuvrement, par tristesse, suivant le quai, jusqu’au quartier de Saint-Eugène. Un ciel noir ; de la pluie sur la mer et que le vent pousse vers nous. Dieux ! qu’a-t-on fait d’Alger la blanche ? De cet écroulement léger, neigeux… un dépotoir ! Tant de neige, ici, fond en boue. Sur des déchets puants, des masures que hante un peuple guenilleux. Une flache croupie où des enfants sans joie, pieds nus, pataugent. Puis déjà, car ces hideurs-là ne sont que hideurs provisoires, la hideur plus néfaste encore des chantiers, des chais, des dépôts. </p>
+            <p> Mais ce paysage aujourd’hui exalte et soutient ma tristesse. Le soir tombe. Suivant les quais toujours, je m’écoute lire Virgile ; je regarde et j’écoute la vague dont le vent chasse vers moi l’embrun. </p>
+            <lb/>
+            <p> Jeudi soir. </p>
+            <p> De cette porte qui lui fait face, du môle de l’Amirauté, j’imagine la vieille Alger comme la montrent encore quelques estampes, laissant tremper ses pieds nus dans la mer. Ces quais monumentaux, ces bâtisses derrière quoi s’ensevelit la Mosquée de la Pêcherie, ces entrepôts hideux, ces chais, ces vaisseaux noirs, mon regard les supprime et ne met que du vert et du blanc à la place : – L’étroite bande de terrain, qui relie cet îlot du môle à la ville, laissait par-dessus soi revoir la mer ; où cessait le rocher la terre était très verdoyante. Quelques maisons au bord de l’eau, mais rares. Pour gagner la mer, un ravin. Au bord de ce ravin penchées, des maisons blanches laissent tomber vers la mer un sentier… Je l’imagine au soir et, comme il mène à la fontaine, je vois des femmes le suivant. La fontaine est près de la mer où des felouques vont et viennent… </p>
+            <p> Hélas ! hélas ! la blanchissante Alger n’est plus. </p>
+            <lb/>
+            <p> Que cherchent ces enfants dans ce compost, comme des poules ? Ce n’est perle ni grain de mil. Les guenilles qui mal les couvrent ont couvert tant de fois tant d’autres, que ces débris, ces restes, ces déchets, dont tant d’autres se sont servis, pourront bien leur servir encore. </p>
+            <lb/>
+            <p> Il y avait là-haut, dans une rue point très secrète, mais dans tel pli secret de la rue, un tout petit café… Je le vois. – Au fond de ce café, en contrebas, commençait une seconde pièce, étroite semblait-il, et prenant jour sur le café, de la place où j’étais, on ne la voyait pas tout entière ; elle continuait en retrait. Parfois un Arabe y descendait, qui venait tout droit de la rue et que je ne voyais plus reparaître. Je suppose qu’au fond du réduit un escalier secret menait vers d’autres profondeurs… </p>
+            <p> Chaque jour j’attendais, espérant en voir davantage. Je retournais là tous les jours. J’y retournai le soir ; j’y retournai la nuit. Je m’étendais à demi sur la natte. J’attendais et suivais, sans bouger, la lente désagrégation des heures ; il restait vers la fin du jour une cendre de temps subtile, amère au goût, douce au toucher, assez semblable comme aspect à la cendre de ce foyer, entre les colonnettes, là, près du sous-sol mystérieux, à gauche – où parfois, écartant la cendre, le cafetier ranime un charbon mal éteint, sous l’amoncellement de la cendre… </p>
+            <p> Parfois, s’accompagnant sur la guembra, un des Arabes chante un chant lent comme l’heure. La pipe de haschisch circule. Je regarde obstinément, malgré moi, l’ombre close là-bas, la natte du mur du retrait où j’ai vu ce suspect descendre… </p>
+            <p> Trois mois après, la police avait fait fermer le café. </p>
+            <lb/>
+            <p> Un soir, on me tendit la pipe, et d’un geste si amical… Ah ! l’importante bouffée que j’aspirai ! – Pour fumer le haschisch il est bon d’être à jeun, paraît-il ; j’avais mangé… Je sentis aussitôt comme un grand coup de poing sur la nuque ; tout chavira ; je fermai les yeux, sentis alors mes pieds s’enlever au-dessus de ma tête, puis le sol s’effondrer, fuir sous moi… </p>
+            <p> Quelques instants après j’étais en sueur, en sueur froide ; mais du malaise, abominable d’abord, il ne restait déjà presque plus qu’un vertige, oserai-je dire : agréable, – celui de qui, sans plus de poids, ne sentirait plus trop où il pose, flotterait, flotterait… </p>
+            <lb/>
+            <p> Cet autre soir, entra brusquement, contrefaisant l’ivrogne, un grand Arabe, fort, le regard habile et le couteau tiré. Il s’amusait avec, l’essayait… Ce n’était pas un de ces petits couteaux de roumis ; c’était un grand fort coutelas, maigre et pointu comme son maître. Ivre, il l’était peut-être un peu ; mais pas tant qu’il feignait de l’être. Chacun le connaissait, et chacun lui parlait. Au-dessus de chacun il fit tourner et tournoyer la lame. À la fin vint mon tour. Tout le reste était jeu, me dis-je, et pour préparer ce qui suit. Tenons-nous !… Mais je risque de tout gâter en faisant mine de me défendre… Et si je ne me défends en rien, qu’adviendra-t-il ? – Déjà j’imagine au retrait d’affreuses profondeurs avides… Mais je ne bronchai pas ; simplement tenant solidement à deux mains ma grosse canne, presque haute… </p>
+            <p> Il n’advint rien du tout. Simplement le faux ivrogne s’en alla. Le petit café redevint calme et de nouveau je pus regarder d’un œil libre le pan de natte du retrait. </p>
+          </div>
+          <div title="II" type="chapter">
+            <p> II </p>
+            <p> Blida, samedi 7 novembre. </p>
+            <p> J’allai donc le voir à Blida, ainsi que sur le bateau, entre Marseille et Alger, je lui en avais fait la promesse. Il était à l’infirmerie, la fièvre l’ayant pris dès les premiers jours de service. </p>
+            <p> Sous son costume de tirailleur il avait mine fort mauvaise et son regard plus clair était plus inquiétant que jamais. </p>
+            <p> – Je croyais cela différent, commença-t-il ; et si j’avais su !… Je m’ennuie. Voilà ce qui me rend malade ; je m’ennuie. </p>
+            <p> – Mais qu’attendiez-vous donc ? </p>
+            <p> – Une vie qui ne serait pas tous les jours la même chose. Moi, je ne tiens pas à vivre longtemps, voyez-vous ; je voudrais… comment dire ?… vivre en très peu de temps, le plus possible. Vous ne comprenez pas cela, vous ? </p>
+            <p> – Oh ! oh ! fis-je. </p>
+            <p> – Tenez ! voulez-vous me faire un grand plaisir ? Faites-moi parvenir ici… un peu de kief. Ils disent que c’est épatant. Je voudrais tellement en goûter ! Mais les négros refusent tous d’en apporter (il appelait indistinctement « négro » chaque Arabe). Vous n’en avez jamais fumé ? </p>
+            <p> – Non, répondis-je. </p>
+            <p> – Vous m’en apporterez, n’est-ce pas ? </p>
+            <p> – Vous vous abrutirez. </p>
+            <p> – Je ne m’abrutirai pas… Puis n’importe. Les types comme moi, ça ne sert à rien sur la terre… Oui, je me souviens de ce que vous disiez sur le bateau ; ne le répétez pas : ça m’ennuie. Apportez-moi du kief, s’il vous plaît. </p>
+            <p> – On n’en vend plus. C’est défendu. </p>
+            <p> – Oh ! vous trouverez bien le moyen d’en trouver… </p>
+            <p> – Vous ne saurez pas le fumer. </p>
+            <p> – J’apprendrai. </p>
+            <lb/>
+            <p> Et rue des Coulouglis je rencontrai Kabisch. Bien que ne nous étant pas revus depuis trois ans, aussitôt nous nous reconnûmes. Ah ! promenades sur la montagne ! chants monotones au jardin, chuchotements dans le Bois Sacré plein de lune, danses du petit café clandestin ! De quels regrets mêlés de quels désirs, votre souvenir sera fait !… </p>
+            <p> – Kabisch, où trouver du kief ? demandai-je. </p>
+            <p> Docilement je le suivis chez trois Arabes ; car il ne suffit pas qu’il fît glisser sous mon manteau le petit paquet vert que sous son burnous le premier marchand fit glisser ; il fallut, chez le second marchand, choisir savamment les fourneaux des minuscules pipes de terre ; chez le troisième, des roseaux. J’en pris pour *** ; puis j’en pris aussi pour moi-même. </p>
+            <lb/>
+            <p> Le commerce du kief est interdit – ou clandestin, si l’on préfère. La police ayant fait fermer tous les cafés fleurant le kief, et prétendant trouver au kief l’odeur du crime, on ne le fume plus qu’en secret ; et comme son pénétrant parfum le trahit, on ne le fume plus qu’assez peu. Il fut un temps, que vous dirai-je ! où de sa narcotique odeur Blida toute était embaumée. À présent, celui qui revient après quelques années d’absence, s’étonne et demande à Blida ce qui la fait désenchantée ? – La rue des Coulouglis n’a plus d’odeur. </p>
+            <lb/>
+            <p> Blida. </p>
+            <p> Dans la rue des Ouled, chaque femme devant sa porte, comme devant une niche, rit et se propose au passant. </p>
+            <p> Mais ce que je vis de plus beau ce soir-là (en passant et le temps d’un coup d’œil, tandis qu’une femme m’appelle) ce fut, par cette porte ouverte et que franchit d’un bond mon désir, un jardin noir, étroit, profond (et où mon désir se promène) que je vois à peine, où le tronc d’un cyprès que je vois plonge dans de l’eau que je soupçonne – et, plus loin, éclairé de revers, lumineux, closant un seuil mystérieux, un rideau blanc. </p>
+            <lb/>
+            <p> Caserne de Blida. </p>
+            <p> – … Quand je demande d’où ça vient, ils me disent qu’ils ne sentent rien, et qu’ils ne savent pas ce que je veux dire. Pourtant moi je sais bien que je ne l’imagine pas, cette odeur… Tenez ! la sentez-vous qui monte ? – Non, ça ne vient pas d’une fleur. J’appelle ça : l’odeur de la terre. </p>
+            <p> Et je sentis, en effet, monter, tomber vers nous une exhalaison capiteuse, à peine un parfum, mais pareil à celui qu’au printemps les vernis du Japon laissent choir. </p>
+            <p> – Eh bien ! ajouta-t-il confusément, – quand je sens ça, le soir, c’est plus fort que moi : il faut que je m’en aille dans un coin pour… </p>
+            <lb/>
+            <p> 10 novembre. </p>
+            <p> Tant que Blida ne sera pas irrémédiablement devenue la médiocre petite ville de garnison provinciale qu’elle s’efforce obstinément à paraître, amoureusement, au travers de ses décompositions, de ses compromissions et de ses pourritures, parmi l’effroyable quelconque de sa patiente banalisation, je chercherai, comme dans l’eau boueuse une paillette, de ses enchantements défunts les vestiges, de ses amours d’hier quelques délices attardées. </p>
+            <p> Hier au soir j’ai fait le tour des cafés maures de la ville sans parvenir à entendre chanter, si peu merveilleusement que ce fût, la guzla. C’est improprement que j’appelle ainsi cette tortue vidée, au ventre de peau sonore sur quoi deux cordes tendues viennent vibrer : Il faut dire guembr ’ ou gnibri. Que peut Blida sans parfums et sans chants ? De ses jeunes amours ne reste-t-il que la débauche ? – Pas une des gnibris, hier, n’avait ses cordes. Si l’enfant qui de café en café me guidait n’eût été beau, j’aurais pleuré. Déjà suffisait-il qu’il portât l’absurde nom d’Abd’el Kader. </p>
+            <lb/>
+            <p> On me servit, dans le premier café, de ce cuisant thé de gingembre qu’on dirait provenir d’un Orient trouble et malsain. Je voudrais, mais ne saurai, dire par quel charme le propre dénuement de ce lieu me retint. Pas d’images, d’affiches, de réclames aux murs ; des murs blancs ; non loin, la confuse rumeur, les cris de la rue des Ouled, à travers le mur entendus, faisaient paraître ici d’autant plus rare et voluptueux le silence ; aucun siège : des nattes ; sur les nattes trois jeunes Arabes couchés. </p>
+            <p> Que leur offrait donc ce réduit ? pour qu’ils préférassent ici, à l’amusement d’autres lieux, aux rires des femmes, aux danses, l’absence précisément de tout cela… un peu de kief. La pipette, dont chacun à son tour ne tirait que quelques bouffées, circulait. Je n’osai risquer d’en fumer, craignant non point l’ivresse mais la migraine ; cependant j’acceptai que, dans la cigarette que je roulai, Abd’el Kader mêlât un peu de ce kief au tabac. Et peut-être ce peu de fumée aida-t-elle à la réalité de mon bien-être. Ce bien-être était fait, non point de satisfaction des désirs, mais d’évanouissement du désir et de renoncement à tout. La porte qui donnait sur la rue est fermée et les bruits du dehors s’écartèrent. Oh ! s’attarder ici… Voici l’heure… Abd’el Kader, penché vers moi, me montre, unique ornement du mur blanc, au milieu du mur accrochée, une poupée hideuse informe, puérilement peinturlurée, et dit à demi-voix : Le Diable. – Du temps s’écoula. Nous partîmes. </p>
+            <lb/>
+            <p> Dans le second café, au thé écœurement sucré se mêlait un goût de réglisse. </p>
+            <p> Dans le troisième café, un très vieil Arabe à lunettes, lisait à tout un peuple en arrêt une histoire. Et, de peur d’en rompre le fil, je refusai d’entrer, mais me tins dehors, à la porte, sur un banc, dans la nuit, longtemps… </p>
+            <lb/>
+            <p> Hammam R’hira, 11 novembre. </p>
+            <p> La terre qu’a soûlée l’averse rêve un subit printemps. C’est, tout contre le sol et sans feuilles, de blancs narcisses nains, surodorants ; les minuscules hampes bleu-pervenche de ce que je crois être des muscaris ; les étoiles roses de frêles amaryllidées assez semblables à nos colchiques ; – tout cela très petit, craintif, à ras du sol, pressé. Voici donc tout ce que la douceur de la pluie, de ce sol sans bonté, peut extraire de grâce ! </p>
+            <lb/>
+            <p> La forêt de Hammam R’hira me rappelle beaucoup celle de l’Esterel à l’entour de Fréjus. Même sécheresse embaumée ; lavandes et brûlantes résines. Même feuillage aigu, sec, luisant, que ne rougit ni ne jaunit jamais l’automne. Du ciel bleu. </p>
+            <lb/>
+            <p> Par ce temps ravissant, éclatant, radieux, tout, ce matin, paraît splendide. L’air coloré d’azur semble neuf ; je le sens qui m’emplit de santé, de vigueur. Je marcherai dans la montagne – là-bas, là-haut, sans but, sans guide, sans chemin. </p>
+            <lb/>
+            <p> Hammam R’hira, 12 novembre. </p>
+            <p> Il faisait chaud ; vers midi j’eus soif, et souhaitai pour m’y baigner, non pas la piscine apprêtée de l’établissement moderne, mais l’ancienne et presque abandonnée que fréquentent encore dans le Hammam d’en bas quelques pauvres Arabes. Un dévalement du jardin de l’hôtel y parvient. On entend des eaux ruisselantes. L’air est doux, ombreux ; sous des ciels de feuillage tremble ou dort une rafraîchissante nuit verte… Voici le vieux Hammam ; près duquel un café ; sur des nattes, trois Arabes perclus sommeillent. J’entre dans une cour où chante un coq. Un escalier mène aux piscines. </p>
+            <p> De la haute salle voûtée, je pousse la porte sans bruit. Je suis devant une suffocante eau transparente. Elle tombe du haut de la voûte au milieu du bassin, en cascade, et, de tout le bassin, remonte vers la voûte, en vapeur. Une margelle étroite, tout autour du bassin, lui fait un cadre qu’elle affleure. Elle est chaude… Personne dans la salle obscure ; une buée épaisse ; mais, du fond de la voûte crevée : quatre rais de soleil, merveilleux, trouant l’étouffement d’un bond, s’écrasent sur le mur verdâtre. </p>
+            <lb/>
+            <p> Blida, vendredi 13. </p>
+            <p> Sur cette couche abandonnée, je respirai longtemps encore l’odeur végétale et terreuse que le faune, après lui, laissait ; puis, au matin, réveillé dès l’aurore, je m’élançai dans l’air délicieux. </p>
+          </div>
+          <div title="III" type="chapter">
+            <p> III </p>
+            <p> Alger, samedi 14 </p>
+            <p> Salut ! matin plein de sourires. Le plein rire du jour peut venir : je suis prêt. </p>
+            <p> La mer que le soleil affleure se tient tout debout devant moi comme une paroi de lumière, une vitre de nacre irisée que, distincte à peine, la fine ligne des collines que la brume amollit et fait paraître spongieuses, encadre et sépare du ciel. Dans le port vaporeux encore, que la fumée d’énormes bateaux envahit, un vol tremblant de barques s’éparpille, monte au large brillant et, parfois, les rames tendues, comme dans de la lumière fluide, glisse et semble planer. Et face au soleil, sur la terre, entre les quais trépidants et le ciel, la ville rit. </p>
+            <lb/>
+            <p> Mon œil qui, dans l’absence de rayons, ces dix derniers jours faisait jeûne, s’éveille au soleil, se promène et regarde avec appétit. </p>
+            <lb/>
+            <p> Du haut de la rue de la Casbah commence de rouler et bondir une orange ; une fillette s’élance après ; l’orange fuit… Si quelque boulevard français ne les arrête, elles iront jusqu’à la mer. </p>
+            <lb/>
+            <p> Dimanche, 11 heures. </p>
+            <p> Il ne restait le long du mur plus qu’un étroit espace d’ombre qu’étranglait petit à petit le soleil ; de quoi juste abriter ma pensée. De pensée il ne m’en restait déjà plus que de quoi remplir cet espace étroit et se rétrécissant. Bientôt, contre le mur, il n’y aura plus que chaleur, que lumière, en moi que sensation et ferveur. </p>
+            <lb/>
+            <p> Lundi. </p>
+            <p> Nous avions vu, au marché, sur la place, des grenades aussi rosées, des piments aussi verts, aussi pourpres, des oignons doux aussi luisants, mais là, dans le retrait soudain de la ruelle, dans l’ombre, chaque fruit prenait un éclat neuf. </p>
+            <p> J’admire de quel modique profit savent se contenter les Arabes. J’osai marchander quelques fruits. Assis sur ses talons au centre de la petite échoppe, un enfant les vendait. On aurait eu pour quelques francs toute l’échoppe ; pour quelques sous de plus, le marchand. </p>
+            <lb/>
+            <p> Je voudrais avoir assez faim, quelque jour, pour désirer manger de ces pois chiches, – une pleine poignée que le marchand prendrait à même dans la jatte et verserait dans un cornet de papier couleur paille, que la saumure tacherait. – </p>
+            <p> … avoir assez soif pour boire au goulot de l’urne de cuivre que cette femme, dont je ne puis voir le visage, tient sur sa hanche et vers ma lèvre chaude inclinerait. – </p>
+            <p> … fatigué, dans cette échoppe, attendre le soir, et n’être, parmi ceux que le soir y rassemble, indistinct, qu’un parmi quelques-uns, simplement. </p>
+            <p> … oh ! savoir, quand cette épaisse porte noire, devant cet Arabe, ouvrira, ce qui l’accueillera, derrière… </p>
+            <p> Je voudrais être cet Arabe, et que ce qui l’attend m’attendît. </p>
+            <lb/>
+            <p> Environs d’Alger, mardi. </p>
+            <p> On entendait, à chaque arrêt de la guimbarde dans la plaine, le rapprochement d’un de ces silences informes, comme il n’en fait que par les très fortes chaleurs. Cela tombait sur vous comme une couverture de laine, où mille mouches bourdonnaient. On était bien ; on était aise. On étouffait. </p>
+            <lb/>
+            <p> C’est toi, forêt aromatique, que ce matin, et pour y respirer jusqu’au soir, j’ai choisie. Ô marche énorme ! fatigue heureuse de la chair. – Dès qu’on s’écarte un peu du pli secret de ce ravin où l’eau qu’on ne voit pas mais qu’on entend, ruisselle, ce qu’on appelle encore forêt n’est plus qu’une brousse écrasée ; cystes, lentisques et palmiers nains. Un versant du ravin gardait l’ombre et, malgré la grande chaleur, une telle fraîcheur y traînait que l’herbe était, comme aurait dit Ronsard, perleuse. En un creux qu’un repli de la roche abritait, l’air était bleu et mon haleine y fit nuage. Plus haut, dans les lavandes, je m’assis ; j’appliquai sur le rocher glacé les paumes de mes mains ardentes. Devant moi, sur l’autre versant, en proie au soleil, tout brûlait. Je regardais, sur les distantes crêtes, des troupeaux blancs, et, parfois, un souffle y aidant (et tant le silence à l’entour était grand) j’entendais un appel du pasteur, et parfois un souffle plus fort arrachait un lambeau de chant à sa flûte. </p>
+            <p> Vers la fin de ce jour, sur cette roche, sur la même, je suis venu m’asseoir encore. Le soleil à présent l’embrasait ; il exténuait de parfums l’herbe sèche. Devant moi, sur l’autre versant, croissait l’ombre ; et quand elle atteignit les troupeaux, ceux-ci, brusquement dévalant, vers le repos du soir s’acheminèrent. </p>
+            <lb/>
+            <p> Alger, mercredi. </p>
+            <p> À ce restaurant populeux, où l’on mange plus mal qu’ailleurs, ce qui n’est pas peu dire à Alger, – deux mandolinistes italiens, durant tout le repas pincent et grattent. L’air s’emplit de liesse et de médiocrité. </p>
+            <lb/>
+            <p> Restaurant de l’Oasis, vendredi. </p>
+            <p> Au milieu du dressoir, sur du persil, dans une assiette, un extraordinaire monstre crustacé gît. </p>
+            <p> – J’ai beaucoup voyagé, dit le maître d’hôtel ; je n’ai jamais vu ça qu’à Alger. À Saigon, tenez, où l’on voit des langoustes grosses comme… (il cherche en vain dans la salle un terme de comparaison) on ne connaît pas ça. Et même ici c’est assez rare. Depuis trois ans, c’est seulement la seconde que je vois… Cigale de mer, monsieur… C’est à cause de la forme de la tête ; tenez, regardez de profil ; on jurerait une tête de cigale… Si, si, monsieur, très bonne ; un peu comme celle de la langouste ; mais c’est beaucoup plus délicat. Ce soir on va la faire cuire ; si monsieur revient demain matin, on lui en fera goûter un morceau. </p>
+            <p> La bête, avec six personnes autour d’elle, et qui parlent d’elle, se tait. Elle est grave, immobile, informe, couleur de gangue, sans regard ; elle a l’air d’un rocher vaseux. </p>
+            <p> – Comment ! si c’est vivant ! ? D’un coup de pouce, le maître d’hôtel lui renfonce un œil ; la cigale aussitôt déclenche un formidable coup de queue qui fait voler au loin tout le persil du plat ; puis se rassied. </p>
+            <p> Durant tout le repas je la regarde. </p>
+            <lb/>
+            <p> Samedi. </p>
+            <p> Ce matin elle y est encore ; régnant au milieu du persil, sur l’assiette. </p>
+            <p> – On ne l’a pas fait cuire hier soir, dit le maître ; elle était si vivante encore ; j’ai trouvé que c’était dommage. </p>
+            <lb/>
+            <p> Environs d’Alger. </p>
+            <p> J’aurais aimé plus paresseuse cette place au pied des ficus et qu’un bruit clair de fontaine égayait… Mais aujourd’hui, par l’éclat des voix des vendeurs, le bruit de la fontaine est couvert ; des troupeaux empoussièrent l’air, et par les quatre routes dont c’est ici le carrefour, de blancs Arabes s’empressent vers le marché. </p>
+            <lb/>
+            <p> Oui, c’est ainsi, pensai-je, que produisent les roses les plus belles, les seuls rosiers soumis à l’engourdissement de l’hiver. Sur cette terre d’Afrique, si riche et chaleureuse, la petitesse de ces fleurs, dont nous nous étonnions d’abord, leur étroitesse, l’étranglement de leur beauté vient de ce que le vigoureux rosier n’interrompt jamais de fleurir. Chaque fleur y éclôt sans élan, sans préméditation, sans attente… </p>
+            <p> De même l’efflorescence la plus admirable de l’homme exige une préalable torpeur. L’inconsciente gestation des grandes œuvres plonge l’artiste dans une sorte d’engourdissement stupide ; et n’y consentir point, prendre peur, vouloir redevenir trop tôt capable, avoir honte de ses hivers, voilà de quoi, – pour en vouloir de plus nombreuses, – étrangler et faire avorter chaque fleur. </p>
+            <lb/>
+            <p> Jardin d’Essai, mardi. </p>
+            <p> La noria  {12}  , qu’un mulet tournait, alimente sans doute ce bassin carré cimenté que verdit une mousse abondante. </p>
+            <p> Au ras de la margelle affleurait une eau qui d’abord semblait noire et qu’on ne comprenait profonde et transparente que lorsqu’à son bord se penchant on distinguait au fond un tapis de fongosités sombres. Une ombre extraordinairement épaisse, pesante et taciturne tombait là de la voûte opaque, glacée, que faisait au-dessus d’elle un ficus. Son tronc distant lançait vers cette humidité ces branches. Et du milieu de chaque branche pendait quelque tignasse de radicelles ; on sentait végétalement, en approchant de l’eau, l’effort vers l’eau de cette succion imminente ; car sitôt en contact avec la terre humide ou l’eau, la racine, ayant atteint son but, fixée, aspirait pour l’arbre assoiffé le surcroît désiré de sève. Elle s’épaississait alors, formait tigelle, puis tronc nouveau ; l’arbre appuyait le poids de sa branche sur elle. </p>
+            <p> Je ne sais où placer dans ma phrase ce crapaud monstrueux qui, s’aplatissant à fleur d’eau, bouchait une caverne de racine, noir et grenu comme elle ; je ne l’en distinguais d’abord pas : dès que ma canne le toucha il lui surgit de partout des pustules. Certainement sur cette eau tranquille il régnait. Ma canne le poussant, je vis son ventre jaune. Il se laissa tomber dans l’eau de travers. Des poissons noirs, qu’on ne distinguait d’abord pas, se sauvèrent. </p>
+            <lb/>
+            <p> 27 novembre. </p>
+            <p> Il y a trois semaines j’eusse quitté plus aisément Alger ; déjà j’y ai mes habitudes ; petites racines… encore quelques jours et je ne pourrais plus m’arracher. </p>
+            <lb/>
+            <p> Et déjà depuis tant d’années, chaque année je me promets de ne plus revenir… </p>
+            <p> Mais le regret de ce jardin, le soir, – de ce jardin de nuit où j’allais tous les soirs… Ah ! comment le supporterai-je ? </p>
+          </div>
+        </div>
+        <div title="BISKRA" type="chapter">
+          <p> BISKRA </p>
+          <p> 28 novembre, 6 heures du matin. </p>
+          <p> Départ pour Constantine. </p>
+          <p> Ces montagnes, au-dessus de Blida, ne me parurent jamais si belles qu’à cette heure très matinale où le soleil, derrière elles encore caché, n’accusait encore aucune ombre. Sous une grelottante rosée la plane Mitidja s’irisait ; il semblait que coulât vers elle, émanant du flanc des montagnes, l’azur. Ce n’était pas même une brume ; c’était un bleuissement de l’air ; oui, tout l’air bleuissait, sur la plaine, mais sans perdre sa transparence, et paraissait d’autant plus bleu que sur la crête des montagnes, la pâle aurore s’ensanglantait. </p>
+          <lb/>
+          <p> Paysages vus du wagon. </p>
+          <p> Les vastes terres qu’au mois dernier, sèches, je vis roussâtres et vides, à présent, attendries, verdissent. L’orge y croît, et dans celles que le soc n’a pas récemment ameublies, le soc entre facilement. </p>
+          <p> Ainsi ces grands champs nus, pensais-je, vont se couvrir bientôt d’herbe profonde où le zéphir pesant va se rouler. Chaque oiseau, chaque atome vivant va se gonfler de joie subite, déployer son aile rapide et chanter. On entendra des frôlements courir, d’amoureuses poursuites… l’insecte même ne se méprendra pas sur le peu de durée de la joie ; l’éclosion de l’amour et l’étreinte seront mêlées de fièvre, la volupté, à peine naissante, pâmée, et déjà le parfum de la fleur touchera la saveur du fruit. </p>
+          <lb/>
+          <p> El Guerrah, dimanche, 29 novembre. </p>
+          <p> Un vent ! Un froid ! ! Le ciel est encombré de nuages, je considère qu’ils sont presque immobiles, tandis que poussières et fumées près de nous, un grand tourbillon les emporte. Aucun arbre, durant des lieues et des lieues, ne retient le vent de glisser ras le sol, les nuages au contraire, par leur entassement, font obstacle. Et j’imagine, en cette absence de végétation une autre cause d’intempéries : les rayons du soleil, ne rencontrant aucune surface absorbante, et toutes les surfaces réfléchissantes étant à peu près horizontales, ces rayons ne développent leur chaleur qu’à l’heure où ils sont presque verticaux. Et de même, rien ne la retenant, cette brusque chaleur acquise peut cesser brusquement. Enfin, l’aridité de l’air, ou, pour peu que la terre ait gardé quelque humidité, la rapide évaporation, tout cela fait le passage du chaud au froid presque subit. </p>
+          <lb/>
+          <p> … Tout y contribuait : la nouveauté des lieux, et de moi-même où je découvrais tout avec ravissement ; – et nulle retorse méthode, autant que mon éducation puritaine, n’eût su me ménager pour en jouir, de si multiples virginités. Et puis, précisément, là-bas, j’eus la chance de tomber malade, très grièvement il est vrai, mais d’une maladie qui ne me tua pas – au contraire – ne m’affaiblit que pour un temps, et dont le plus clair résultat fut de m’apprendre le goût de la rareté de la vie. Il semble qu’un organisme débile soit, pour l’accueil des sensations, plus poreux, plus transparent, plus tendre, d’une réceptivité plus parfaite. Malgré la maladie, sinon à cause d’elle, je n’étais qu’accueil et que joie. Peut-être le souvenir de ce temps est-il un peu confus par endroits, car j’ai mauvaise mémoire, mais, des bouquets de sensations que j’ai rapportés de ce premier voyage là-bas, s’exhale encore odeur si vive que parfois, pour savourer l’instant présent, j’en suis gêné. Je me défends pourtant de comparer ; mais je fais pire : six fois je retourne là-bas, réclamant au présent le passé, exténuant mon émotion, exigeant d’elle encore cette verdeur qu’elle devait jadis à sa nouvelleté, et d’année en année trouvant à mes désirs vieillis des récompenses toujours moins vives… Rien ne vaut le premier contact. </p>
+          <lb/>
+          <p> Lundi. </p>
+          <p> Sans doute, il y a dix ans, les heures des trains n’étaient pas les mêmes, et je crois bien que l’on n’arrivait à Biskra qu’à la nuit – car, parmi les confus et pénibles souvenirs de cet interminable trajet (j’étais malade) une minute, pourtant m’apparaît avec une précision extraordinaire : </p>
+          <p> Après Batna, le soleil s’est couché ; on descend des plateaux ; l’air tiédit d’heure en heure. (Le trajet des deux derniers jours m’avait tué.) – Une halte dans la nuit déjà close. La station porte le nom un peu ridiculement poétique, mais qui cette première fois fait rêver, de Fontaine-des-gazelles. J’ouvre la portière. Le silence est extraordinaire, de qualité étrangement nouvelle. La douceur baigne les yeux comme un collyre. Non loin un appel de crapaud, note unique, pure, bucolique, à quoi fera penser plus tard la flûte arabe. Par tous les sens fatigués et flétris, je buvais… </p>
+          <p> De tels souvenirs empoisonnent. </p>
+          <lb/>
+          <p> Vers Biskra en wagon. </p>
+          <p> Sous un ciel gris, une étendue d’eau grise ; elle est de couleur pluvieuse ; l’acharnement du vent la fripe ; pas de vagues pourtant, car c’est une eau sans profondeur ; au bord, cette eau n’est plus qu’une bave, une écume ; un sable gris mêlé de sel la continue, se mêle à elle et s’en distingue à peine ; puis ce n’est plus sable ni eau ; quelque élément pâteux, intermédiaire et que, blanche comme le sel, une mince croûte magnésienne revêt. Le sabot imprudent d’un cheval y a fait des crevés fangeux. </p>
+          <p> Je me souviens qu’un jour, où ce sel et cette eau ne reflétaient du ciel rien que de bleu, où ciel et eau paraissaient au loin se confondre, – je vis ces bords fleuris de flamants roses. Le train passa près d’eux ; quelques-uns s’envolèrent ; il semblait que le vent du train les soulevât ; puis, à quelques coups d’aile plus loin, ils se laissèrent paresseusement retomber. </p>
+          <lb/>
+          <p> Biskra, 30 novembre. </p>
+          <p> Je rentre au cœur de ma jeunesse. Je remets mes pas dans mes pas. Voici les bords charmants de ce sentier que je suivais, ce premier jour où, faible encore, échappé de l’horreur de la mort, je sanglotai, ivre du simple étonnement d’être, du ravissement d’exister. Ah ! qu’à mes yeux encore fatigués l’ombre des palmes était calmante ! Douceur des ombres claires, murmures des jardins, parfums, je reconnais tout, arbres, choses… le seul méconnaissable, c’est moi. </p>
+          <lb/>
+          <p> Ce jardin de la cour de l’hôtel, ce jardin que j’ai vu planter, est déjà feuillu, touffu, compliqué. Il s’assombrit d’ombrage et de mystère… </p>
+          <p> Qu’il ferait bon, s’il n’était pas tant de pauvres sur la terre, y deviser sans bruit, avec quelques amis, ce matin. </p>
+          <lb/>
+          <p> Auprès de ce moulin, si bas que quelques figuiers bas le cachaient presque, nous aimions venir nous asseoir. Y a-t-il dix ans de cela ?… Un petit âne gris apportait le blé, et remportait la farine. Non loin, une tente de nomades dont nous avions apprivoisé les enfants et le chien. P. L. peignait, et le petit Ahmed nous apportait des œufs, puis s’asseyait près de moi sans rien dire. </p>
+          <p> On a détourné de ce lieu charmant la rivière ; en sortant du moulin elle coulait au pied de ce gommier qui, privé d’eau maintenant s’étiole… Son ombre était parfaite… Quel démon me ramène ici ? </p>
+          <lb/>
+          <p> Extrémité de l’Oasis, </p>
+          <p> au-delà de Guedesha. </p>
+          <p> De ce côté le désert est informe. Vers l’horizon, il semble se relever en cuvette. Le sol est sablonneux, cendreux ; je ne sais quelle végétation sans verdeur fait, au loin, l’aspect grumeleux et dartreux de ce sol. Le sable sous le soleil miroite. Une sorte de constant mirage brouille les plans ; on ne peut situer aucun objet à sa distance – et d’ailleurs on ne voit, jusqu’au bord du ciel, aucun objet. À droite, un avancement du Djebel qui se prolonge vers Tolga ; la roche crève le revêtement de sable par endroits ; vu de loin on dirait un eczéma… </p>
+          <p> Je sais pourtant que lorsqu’on s’en approche, ce sable délicat est si charmant aux yeux qu’on ne peut se lasser de regarder sur lui descendre l’ombre, et si plaisant aux pieds que, m’étant déchaussé, je me souviens d’avoir gravi pieds nus toute la dune… Il y a dix ans de cela. J’étais avec Mohammed et Bachir. Un serpent, inoffensif me dirent-ils, mais terriblement long, partit comme un fouet et presque entre mes jambes… Je me souviens de celui que j’étais… </p>
+          <lb/>
+          <p> Du haut de la terrasse la plus haute. </p>
+          <p> Vendredi. </p>
+          <p> L’obscurité se fait lentement sur Biskra. Est-ce déjà le soir qui tombe ? ou ce nuage affreux qui s’épaissit ? Il tapisse le ciel d’un bord à l’autre. Il vient des gouffres du désert, d’au-delà de Touggourt, de Ouargla, du fond de la profonde Afrique ; peut-être l’ont gonflé les vapeurs des Grands-Lacs ; il est plein de menace et d’horreur ; il est jaune. Il ne ressemble pas à ceux de nos pays ; je voudrais le nommer autrement que « nuage ». Il traîne à terre, au-delà des palmiers ; il cache à mes yeux la montagne. Il est clair ; il est gris sableux ; il est égal partout comme un manteau, et qu’au zénith aurait à peine un peu clairci l’usure. Le mur blanc des maisons devient livide, et le rose des tuiles cendreux. Je songe aux djinns… </p>
+          <p> Le coup de canon marquant la fin du jeûne retentit. </p>
+          <lb/>
+          <p> Samedi. </p>
+          <p> La nue, ainsi qu’une étoffe trop mûre, au ras de l’horizon a cédé. Est-ce par cette déchirure azurée que le vent, ce matin, souffle avec tant d’opiniâtre abondance ? Le sable aveugle ; on est transi ; contre ce vent ni manteau ni burnous ne protègent. Le soleil, derrière la nuée, transparaît, argenté, plat et comme une médaille usée. </p>
+          <p> Je projetais d’aller me baigner ce matin à la morne Fontaine-Chaude. Mais, par un tel temps, à travers le désert – c’est pour mourir de froid et d’étouffement et d’horreur… </p>
+          <p> Allons. </p>
+          <lb/>
+          <p> Ô détresse ! ô désolation ! – Je m’assois, abrité du vent par un effondrement d’argile, de sable et de pierres, près du bord délabré d’un lac terne où l’eau croupit sous les épais roseaux. Et si du moins, paissant ses maigres chèvres, venait s’asseoir ici quelque berger musicien… Je suis seul. Je cherche en moi par quel excès de vie trouver, dans la contemplation de tant de désolation, des délices, et peupler de frémissements tant de mort. – Je reste là. Le vent agite les roseaux. Un soleil incertain s’essaye à sourire au désert, et, comme un fard sur de la mort, s’argentent des effritements de sel. </p>
+          <lb/>
+          <p> J’aurais voulu monter dans ce sentier de la montagne, où les pas seuls ont fait la blanchissante usure du rocher. On le voit, fuyant, qui s’élève jusqu’au col et pour aller vers où ? – Un vent insupportablement froid m’en empêche ; et rentrant au Hammam je prends un bain brûlant. </p>
+          <lb/>
+          <p> Chez le Cadi. </p>
+          <p> La petite salle ouvre de plain-pied sur la rue ; des chameaux passent. Dans une sorte de seconde salle, formant alcôve sur la première, devant un tout petit bureau, le cadi. Il parle avec douceur et son beau visage sourit. Dans la première salle, qu’une claie à hauteur d’appui sépare de l’alcôve, des Arabes attendent. Ils sont assis sur une sorte de large banc plein qui suit le mur sur les quatre côtés de la pièce, et que rompt seulement la brèche de la porte et l’alcôve, des faïences vert cru le carrellent ; au pied du banc les babouches restent posées. Le plafond blanc de chaux ; le mur, jusqu’à mi-hauteur, peint en vert. Devant moi un admirable vieillard à longue barbe, aux yeux gris clignotants ; sa pauvreté garde une dignité discrète ; il ne reste de chair à son corps que ce qu’il en faut justement pour que l’âme l’habite encore. J’admire ce que, sur ce fond vert, sa peau bise et les plis sobres de son turban, de son burnous, font d’harmonie riche et seyante. </p>
+          <p> Athman, devant la claie formant barre d’appui, parle au cadi, lui expose l’achat très compliqué de la maison où présentement vit sa mère ; sur mon conseil il le voudrait légaliser. Le cadi l’écoute sans ennui, comme il écouterait une histoire ; parfois Si Malek le vendeur interrompt ; chacun d’eux parle avec douceur. D’autres Arabes entrent, commencent sur le banc leur attente. Une inlassable patience est dans l’air. Contre la porte un enfant borgne chante une litanie religieuse ; un Arabe pieux tend un sou. Des chameaux passent. </p>
+          <lb/>
+          <p> Jardin Landon. </p>
+          <p> Oui, ce jardin est merveilleux, je sais – et pourtant il ne me plaît guère. Je cherche à m’expliquer pourquoi. Peut-être, à cause du soin même avec lequel il est entretenu (dans les allées sablées pas une feuille ne traîne à terre) ; rien ne m’y paraît naturel. – C’est l’œuvre d’art, diras-tu. – Je l’accorde ; aussi bien ce défaut d’abandon, de mollesse, en aucune œuvre ne me plairait. Puis je peuple un jardin, aussitôt, malgré moi, de figures à sa ressemblance, dont l’allure et les sentiments forment avec lui quelque accord. Ainsi vis-je à la villa Pamphili les révérences de Van Orley dans les robes seigneuriales, et Dante et Béatrix dans les vergers d’El-Kantara. Rien de rare en mon choix : je vois Goethe à Dornbourg, y composant l’ Iphigénie ; le Tasse à Este, entre les deux Éléonore… Ici je vois irrésistiblement des personnages de Jules Verne ; ils fument des londrès ; ils ne disent pas « francs » mais « dollars » ; ils n’ont pas lu notre Racine ; ils s’embarquent toujours demain… Il est vrai que j’y vois aussi le Fortunio de Gautier – ou Stevenson, ce qui n’est pas désagréable. J’y vois aussi les personnages de Gauguin ; ce qui m’entoure ici, c’est leur flore, facticement acclimatée ; bambous, palmiers-cocotiers, ficus monstres… Par une inéluctable suggestion, la moindre palme, dès qu’elle traverse un menu feuillage, fait rêver à quelque autre pays où cette végétation serait encore plus naturelle. </p>
+          <lb/>
+          <p> Parbleu non, sophiste Maurras, il ne s’agit pas de couper ses racines, et « déraciné » n’a jamais impliqué cela. L’admirable précisément c’est que l’Anglais, comme sut faire le Romain, les transporte partout avec soi. </p>
+          <p> Dans la chambre de Lady W*** on ne se sent plus à l’hôtel. Elle emporte en voyage des portraits de parents et d’amis, un tapis pour sa table, des vases pour sa cheminée… et dans cette chambre banale elle vit de sa vie, à son aise et sait faire sien chaque objet. Mais le plus étonnant c’est qu’elle a su se faire une société. </p>
+          <p> Nous étions quatre ménages français, chacun évoluant à part des autres, chacun discret, courtois, mais vivant comme en pénitence à l’hôtel. Les Anglais, au nombre de douze, sans se connaître auparavant, semblaient des gens qui, s’étant attendus, se retrouvent. Confortablement débraillés le matin, fumeurs de pipes et vaquant à divers travaux ; le soir, en souliers brillants, en habit, corrects et « gentlemen ». La conquête du salon de l’hôtel leur fut facile ; il eût été bien présomptueusement inutile d’essayer de le leur disputer, tant on sentait normal qu’ils l’eussent ; eux savaient s’en servir ; nous point. </p>
+          <p> Et d’ailleurs, je l’ai dit, eux formaient société ; nous point. </p>
+          <p> Je n’ai jamais rencontré que deux sortes de Français en voyage (et la plupart du temps je n’en ai rencontré pas du tout) ; les intéressants, qui s’isolent et ne perdent nulle part le sentiment qu’ ils ne sont pas chez eux ; les autres, ceux qui se groupent, tapageurs, communs, répugnants. – Répugnants, ces Anglais ? – non certes ! – oh ! très séduisants au contraire ; ces trois jeunes artistes surtout, un peu groupe à part, dans le groupe ; peintres ? littérateurs ? qu’importe – qui lisaient Stevenson et George Moore, et à qui j’eusse volontiers parlé si seulement le cœur ne m’eût battu trop fort à la seule pensée de le faire. Du reste que nous serions-nous dit ? – Puis, je me sens vis-à-vis d’eux en état d’infériorité notoire, et si, comme particulier, par conscience suffisante de ma valeur, j’ai bien assez d’orgueil pour n’en souffrir aucunement, en tant que Français cela m’est intolérablement pénible. </p>
+          <p> Dois-je rappeler ici un de mes plus mortifiants souvenirs ? Je voyageais avec P. G. ; c’était le soir ; nous devions n’arriver qu’à l’aube ; nous songions à nous installer le mieux possible pour la nuit, et pour ce, craignant l’affluence de voyageurs, nous avions, avec nos sacs, nos manteaux, nos couvertures, retenu passablement plus de place que de raison. Occupant les deux coins du fond, deux Anglaises nous regardaient sans rien dire. Un Anglais survint, s’enquit des places libres, n’en prit qu’une et s’y établit. Le train partit. Et alors il se passa ceci : Lentement, irrésistiblement les deux misses et l’Anglais s’élargirent et finalement ce furent eux qui profitèrent des places d’abord retenues par nous ; et nous n’y pûmes rien ; d’abord parce que nous n’avions que faire de ces places ; ensuite parce qu’il nous eût paru malséant, à nous Français, de nous étendre, empêchant par là même ces deux femmes d’en faire autant. Nous savions assez mal l’anglais ; ce dont s’étant vite aperçus nos voyageurs profitèrent pour parler de nous. Nous le savions suffisamment pour comprendre que l’Anglais disait aux femmes : </p>
+          <p> – « Étonnants, ces Français ! Ils commencent toujours par prendre plus de place qu’il ne leur en faut. Mais ils ne savent pas la garder… » puis il ajouta en riant : « Alors c’est l’Anglais qui en profite. » </p>
+          <p> Ce fut une entrée en matières et le début d’une conversation dont le bruit nous empêcha longtemps de dormir. </p>
+          <p> Cette nuit, sur la terrasse qui dans le ciel s’avance, tout au bord, nous assistons au lever de la lune. – Une aube, une pâleur au-dessus des monts la précède. Les monts à cet endroit semblent mollement se gonfler. Est-ce un nuage qui les prolonge ? – Oui ; l’opacité s’enfle, puis, comme sous une poussée, crève, se déchire et forme cratère par où, repoussant les bords échancrés, pointe et se délivre la lune. Elle est pleine ce soir comme un œuf. Encore un peu, elle sera toute pondue. Elle gonfle toujours. Qu’elle est grosse ! Déjà dans le cratère obscur elle ne pourrait plus rentrer. Qu’elle est ronde ! – Que dirais-tu si, brusquement, d’un bond se détachant du sol, tu la voyais, au fond du zénith se heurtant, éclater – ou, le long de la pente du mont, rouler vers nous jusqu’à la plaine ? </p>
+          <lb/>
+          <p> Dimanche. </p>
+          <p> Temps splendide. – Ah ! je ne vivais plus depuis des jours. Ce matin, à travers mes volets, j’ai senti se lever radieux le soleil. Je suis sorti dans l’air glacé. Tout naissait… Rien n’est beau comme cette félicité matinale. Ma joie, au cours du jour ne croît pas, peu à peu, d’heure en heure ; je la sens déjà pleine et totale au réveil – d’autant plus vive que la journée qu’il en faudra gonfler sera plus longue, que je me suis levé plus matin. </p>
+          <lb/>
+          <p> Près de l’hôtel, la porte de l’aimable square est ouverte. J’entre ; je m’assois sur un banc. Frej’, le mari de la belle Juive Goumarrah’, balaye les allées, fait la toilette du jardin. Devant moi, dans le bassin plein d’eau pleine de plantes, sur un rocher moussu, de l’eau s’égoutte en clapotant. J’écris ces lignes. </p>
+          <lb/>
+          <p> Non, le ciel est encore laiteux, presque blanc ; il me le faut parfait pour que mon exaltation soit parfaite. </p>
+          <lb/>
+          <p> Sidi Taïeb est marabout. Ses vertus protègent la ville. – Comme on le voit souvent avec les filles et qu’il a l’air de se porter joyeusement, j’ai tenté de me faire expliquer par Athman en quoi consistent ses vertus ; mais Athman sur ce point ne supporte pas qu’on plaisante ; et j’ai beau ne pas plaisanter, ma seule interrogation pose un doute… Sidi Taïeb est un article de foi. </p>
+          <p> Sidi Taïeb jouit de la considération la plus grande ; elle se traduit par des dons. Sidi Taïeb est sobre ; il méprise l’argent ; ce sont les vêtements qu’il préfère. Le dévot, qui chez nous ferait dire une messe, achète pour Sidi Taïeb un burnous. </p>
+          <p> Or, et bien qu’en en ayant beaucoup, Sidi Taïeb ne change jamais de burnous. Dès que le dernier mis est sale, il en enfile un autre par-dessus. Il en supporte, l’un sur l’autre, une vingtaine. On n’imagine pas plus épais. </p>
+          <p> Certains beaux soirs, – m’a dit Athman, – devant un grand feu, sur la place, du cœur de ces burnous Sidi Taïeb se dégage tout nu. C’est vraisemblablement quand les poux lui deviennent par trop incommodes. Quelques pieux disciples alors, extrayant les burnous de dessous, jettent les trois ou quatre plus vieux dans les flammes, où les poux meurent en crépitant. Puis Sidi Taïeb se revêt et de nouveaux burnous, sur lui, tombent du ciel. </p>
+          <p> Sous leur poids il ne peut pas marcher ; il roule. Un jour je l’ai vu s’avancer : il avait l’air d’Ubu partant en guerre. – Un autre jour, soutenu par deux filles, que sans doute il sanctifiait, deux Ouled en robe de fête, suivant la procession exaltée qui menait musique et grand bruit vers la tombe de Sidi Sarzour, il riait, chancelait, titubait ; on aurait dit un Silène ivre. </p>
+          <p> Si beau qu’il fût ainsi, moi je le préfère immobile. À genoux, assis, accroupi… on ne sait ; on ne voit qu’une masse obronde qui dodeline de-ci de-là. Il reste ainsi, tard dans la nuit ; au mitan de la place, ainsi, il ressemble à la sainte ampoule ; il a la forme d’un téton. </p>
+          <p> Un escalier, puis la demeure d’une courtisane, remplace dans la rue des Ouled le ténébreux café où la première année j’allais oublier l’heure chaque soir. </p>
+          <p> Ces deux rues de plaisir, parallèles, rapprochées à ce point que plus d’un café formant corridor ouvre sur les deux à la fois, ces deux rues, qui par trois autres rues communiquent entre elles, ne sont pas, comme il advient souvent, dans un coin reculé de la ville, d’accès retors et clandestin ; non, elles ouvrent sans pudeur au lieu le plus banal, le plus central, près du marché. Un jardin public les prolonge ; l’air n’y est point nauséabond ; c’est l’air du large et qui passe à travers le jardin parfumé. Si tout ce que la ville a de débauché, de suspect, y circule, il y circule aussi tout ce qu’elle a de noble et de plaisant. Tout cela se frôle sans haine ; les plus pauvres se mêlent aux riches ; les jeunes aux vieux… tout se confond. Le plus timide enfant passe sans détourner les yeux près des filles ; le plus sage vieillard aussi. </p>
+          <p> Dans un café, retiré quelque peu, protégé des rumeurs de la rue, le même Arabe lit Antar, que j’écoutais déjà l’an passé. Quelques bancs à l’entrée ; sur le sol du café, des nattes. Là, tout un blanc peuple attentif est couché. Parmi tant de douce blancheur, rien ne luit, tout se fond, se confond ; la lumière assoupie enveloppe tout sans accroc ; elle semble une eau souple au cours lent, eau sans reflet, sans déchirure. – Celui qui lit Antar est très beau ; sa voix prend des sonorités triomphales. Parfois, écartant de ses yeux le livre qu’une bougie éclaire, il explique et commente un vers. Quand il lit, il scande le vers d’une main ; l’autre main, tout contre la bougie, tient le livre. Parfois un rire secoue la foule, pareil à celui, j’imagine, qui sur l’Olympe secouait la table des dieux ; c’est un bon mot d’Antar, quelque éclatant fait d’armes d’un Arabe. Captifs, déchus, les écouteurs trouvent un soulas, un répit et quelque aliment de splendeur au récit de leurs anciennes prouesses… Le lecteur précipite les mots ; sa voix roule comme un tambour ; on n’entend plus du vers que ses sonorités héroïques. Qu’ils étaient beaux, victorieux ! </p>
+          <lb/>
+          <p> Délaissant pour un soir la foule et mes compagnons ténébreux, je vais m’asseoir avec Athman devant ce café plus petit, à ce que nous appellerions : la terrasse, – qui n’est ici qu’un banc de bois et qu’une table mal éclairée. Sidi M. nous y rejoint ; c’est un Arabe de Touggourt, bien mis, disert, à la barbe soignée. Il connaît le désert des confins du Maroc à ceux de la Tripolitaine. Il parle d’In-Salah, des Touaregs. Sa voix est musicale ; il prononce si bien chaque mot, que parfois je crois le comprendre. Athman traduit. </p>
+          <p> Sidi M. est savant ; c’est-à-dire qu’à propos de tout il cite un texte ; plus le texte est ancien, plus il est vénéré. Il croit à chaque fable arabe ; il n’écoute rien des roumis. </p>
+          <p> Tous les savants que j’ai rencontrés en Algérie en sont là ; et quand Athman « s’instruit », je sais ce que cela veut dire : au lieu de préciser des questions, recueillir inopinément toute une tradition de réponses. Et cela leur suffit pour les remplir de suffisance. – Ce qu’on appelait science, au Moyen Âge, c’était cela. </p>
+          <p> – « As-tu lu, me dit Athman, dans les Mille Nuits, l’histoire de la Docte Princesse ? Eh bien ! tu vois s’il y en a de la science, là-dedans ! » </p>
+          <p> Comme je questionnais Sidi M. sur les rapports entre Arabes et Touaregs : – Ceux-ci, me dit-il à travers Athman, n’aiment point les Arabes, les attaquent souvent ; les Arabes les craignent beaucoup. </p>
+          <p> – Mais pourtant on en voit dans les villes du Souf ? </p>
+          <p> – Ils reconnaissent, reprend-il, le marabout d’Amich, parce qu’il a fait contre eux un miracle. Tout seul, sur sa jument, il est sorti pour faire face aux Touaregs montés sur quatre-vingts méharis. Les Touaregs ont tiré sur lui, mais les flèches, tu comprends, en touchant la jument, elles devenaient comme molles du bout et tombaient toutes à terre. Lui, il ne voulait rien faire aux hommes ; mais, avec une seule flèche, il a tué soixante-cinq chameaux. </p>
+          <p> Il dit encore : – Là-bas, les Touaregs, ils connaissent un pays, dans la montagne, grand, grand, qu’on peut y marcher droit devant soi pendant dix jours ; pour y entrer, il n’y a qu’un chemin, qu’un seul homme à la fois peut y passer. Après que tous sont rentrés là, le dernier roule sur le chemin une pierre… tiens, comme cette table-là ; et plus personne ne peut voir la route. C’est pour ça qu’ils n’ont pas peur des Français. – Un Touareg m’a dit cela à In-Salah. </p>
+          <lb/>
+          <p> Aux figuiers dépouillés quelques feuilles restent encore ; larges, plates, d’un or épais. Sous les palmiers, dans l’ombre sèche, elles s’étendent ; elles flottent ; on les dirait planer ; – jusqu’au jour où, pour son troupeau, quelque berger, plus actif que l’hiver, achève de vider les branches. </p>
+          <p> Et quand j’en aurai dit le parfum, la blancheur, que retiendrai-je ici de cette nuit que j’aurais souhaité prolonger jusqu’à l’aube ? – Une lune échancrée luisait au haut du ciel. La veille, pleine encore, elle ne paraissait pas si belle ; il avait plu ; on ne voyait devant les maisons de plaisir que de rares Arabes, ceux qui n’avaient pas craint, pour remonter des vieux villages, les rues sales et les chemins défoncés. – Ce soir-ci, mol et voluptueux, il ne restait d’eau sur le sol que ce qu’il en fallait pour l’assouplir, et pour former dans l’air, au lieu de l’habituelle poussière, cette vapeur bleuissante et légère qui dépondérait chaque objet. Et dans cette nocturne atmosphère, un peuple harmonieux circulait. </p>
+          <p> Là, parmi tant d’indistinctes blancheurs, parmi tant d’ombres, ombre moi-même, ivre sans avoir bu, amoureux sans objet, j’ai marché, me laissant tantôt caresser par la lune, tantôt par l’ombre, y cachant pleins de larmes mes yeux, et plein de nuit, et souhaitant y disparaître. – Et tantôt, au hasard des rencontres, marchant avec Athman, tantôt avec Ali, dégustant avec eux, comme un sorbet, le clair de lune, et tour à tour m’attristant, me charmant de ce que, malgré l’âge venant, leur fruste esprit garde de grâce, et garde de puérilité. </p>
+          <p> Reconnaître à leur voix ces femmes ; à leur appel sourire ou m’arrêter ; et, dans l’éclat subit que projettent la lumière et le bruit des cafés, voir tant de mystère rôdeur se fixer, ces ombres un instant prendre corps, s’arrêter, puis replonger et se déconsister dans la nuit, où je veux me fondre avec elles. </p>
+          <p> Ah ! quand la nuit eût été plus sonore, quand l’air plus vaporeux, quand plus amoureux les parfums, que m’en resterait-il ce matin, qu’un peu de souvenir cendreux que dans le creux de mon cœur je rassemble, qu’un peu de vent dispersera, ne laissant en son lieu que brûlure. </p>
+          <lb/>
+          <p> … Là, plus loin, sur la route vide, il est un tas de cailloux pour s’asseoir. Au coucher du soleil, chaque soir, j’y viendrai ; j’irai seul… Plus loin, à droite sont les naissantes dunes ; en face de moi, le désert. Cette route mène à Tolga ; c’est là-bas, devant moi, que le ciel au-dessus de Tolga s’incendie. Sur la dune le sable, embrasé d’abord, devient cendre. Au centre du désert, un marais devient une flaque de sang. L’oasis s’étend sombrement à ma gauche. Du sol s’essore une vapeur qui recule et bleuit les jardins. Nulle mollesse ici, nulle mélancolie ; un afflux de paix inhumaine, de gloire éparse et d’indifférente splendeur. Sereine, indifférente, la nuit monte. Infiniment lointains, des nomades allument leurs feux. </p>
+          <lb/>
+          <p> Si les jours sont douteux, les nuits sont belles – plus belles que leur souvenir. Comment rentrer, comment dormir, sachant qu’au-dehors, dans l’air doux, cette claire lueur continue, et sachant que la lune, avant mon départ de ces lieux, n’éclairera pour moi la ville, chaque nuit qu’un peu plus tardive et chaque nuit qu’un peu décrue. </p>
+          <lb/>
+          <p> Sources d’Oumach. </p>
+          <p> Là des roseaux blanchissaient au soleil, des lauriers croissaient en si grande abondance qu’en circulant au travers d’eux on en oubliait le désert ; cela formait, enveloppant, cachant les sources, un retrait presque mystérieux que l’on savait hanté la nuit par les hyènes. Dans un défoncement du sol, les sources chaudes jaillissaient ; puis plus bas, dans un lieu moins couvert s’installaient parfois des laveuses. L’eau sulfureuse, en verdissant son lit, semblait y couler plus profonde. Le soleil montait là-dessus. </p>
+          <p> L’an passé, des nomades ont incendié la brousse ; cet endroit secret du désert, ils l’ont rasé selon la mode arabe ; sous le froncement du terrain, dont plus rien ne protège l’abord, le mystère de la source est livré ; l’eau surgit à présent, sans plus de pudeur, au soleil. </p>
+          <p> Les laveuses ont fui. Nous n’avons rencontré ce matin que quelques nomades hagards ; près de la source, un âne mort ; et, la nuit, pensions-nous, hyène ou chacal allait, pour achever de dépecer sa chair, accourir en reniflant l’air qu’empuantissait la charogne. </p>
+          <lb/>
+          <p> Dimanche. </p>
+          <p> Non, je ne perdrai pas au travail ce jour splendide ! Je resterai dehors jusqu’au soir. Temps radieux… J’adresse ma dévotion ce matin à l’Apollon saharien, que je vois, aux cheveux dorés, aux membres noirs, aux yeux de porcelaine. Ce matin ma joie est parfaite. </p>
+          <lb/>
+          <p> Dans le jeûne du jour, en attendant la nuit, Bachir le pauvre, mon ami, épluche les petites feuilles du kief qu’il fumera dans sa soirée. Ainsi dans la misère de sa vie attend-il la nuit de la tombe, prépare-t-il son paradis. </p>
+          <p> Quand je lui parle de sa misère : </p>
+          <p> – Qu’est-ce que tu veux, Monsieur Gide, me répond-il, ça passera. – Il n’entend pas dire par là qu’il espère jamais devenir riche, non, mais que ce qui passera, c’est sa vie. </p>
+          <lb/>
+          <p> Le reste est dans la nuit déjà ; mais du côté de l’occident une inflammation dure encore ; par chaque rue transversale, au fond du désert, on la voit. Là traîne une rougeur où la dernière ferveur des rayons s’est usée, et là, touchant la dune, au ras du sol, au loin, une ligne plus cramoisie, nuage rutilant, sanglant, et comme une écorchure du ciel. Ah ! de quelle abondance d’or, au-dessus de la dune, tantôt, le soleil déjà disparu inondait encore la plaine ! Quelle vapeur à présent s’en élève ! Sous son bleuissement délicat se recule peu à peu l’oasis. </p>
+          <lb/>
+          <p> Fontaine-Chaude. </p>
+          <p> Que viens-je encore chercher ici ? – Peut-être, ainsi qu’un corps brûlant trouve joie à se plonger nu dans l’eau froide, mon esprit, dépouillé de tout, trempe dans le désert glacé sa ferveur. </p>
+          <p> Les cailloux sur le sol sont beaux. Le sel luit. Au-dessus de la mort flotte un rêve. </p>
+          <p> J’ai pris un de ces cailloux dans ma main ; mais, sitôt quitté le sol, il perdit son éclat, sa beauté. </p>
+          <lb/>
+          <p> Petite flûte à quatre trous, par quoi l’ennui du désert se raconte, je te compare à ce pays, et reste à t’écouter t’ébruiter sans arrêt dans le soir. Ah ! de combien peu d’éléments est fait ici notre bruit et notre silence ! le moindre changement y paraît. – Eau, ciel, terre et palmiers… j’admire, instrument léger, quelle diversité subtile je goûte en ta monotonie, suivant qu’insiste en en précipitant le cours, ou que l’endort sous son souffle charmant l’enfant musicien aux doigts souples. </p>
+          <p> Je voudrais que, de page en page, évoquant quatre tons mouvants, les phrases que j’écris ici soient pour toi ce qu’était pour moi cette flûte, ce que fut pour moi le désert – de diverse monotonie. </p>
+          <lb/>
+          <p> Droh. </p>
+          <p> À la limite des vergers, sans écoulement l’eau croupit et dans un fossé naturel défend de ce côté l’oasis. Longtemps avant d’entrer il semble que la route l’assiège ; elle s’attarde autour ; elle cherche un biais. Il semble aussi que rebutée par la décevante oasis, elle hésite. L’approche de Droh pleine de stupeur est affreuse. Le sol, sous les palmiers, est laid, il paraît spongieux comme était par endroits celui de M’reyer, près du Chott… Oui vraiment, on hésite à entrer ; la route tourne encore, passe outre, puis enfin, du côté de la montagne basse, profite d’un sursaut où l’oasis sortie de ses marais s’étrangle entre deux parois de rochers. Voici la porte du village. </p>
+          <p> Oh ! je le reconnais pas à pas. Je regoûte âprement, délicieusement sa hideur. Les mêmes corps à demi nus, au pied des mêmes murs, s’étirent… Eh quoi ! Droh n’avait donc pas cessé d’être ! Quand je la quitterai, elle continuera donc d’exister ! Fallait-il revenir toucher tout cela pour y croire ? Qu’ai-je besoin, et pour assurer quelle joie, de cette désolation sans appel ? – Oui, tu sais désormais qu’elle est là, qu’elle existe. Que désirer de plus à présent ? Qu’attendre ? – Repars ! – Pas encore… </p>
+          <p> Il est au fond de cette oasis désolée un lieu trouble. J’y veux aller. Là tout sentier se perd ; le pied enfonce dès qu’il ne foule plus quelque touffe ; mais quelques pas plus loin, le sol pourri, je sais, laisse échapper de lui les roseaux… Les voici ! Voici l’heure où le soleil le plus délicatement les argente. Pour ployer leur hampe il suffit que vienne s’y poser un oiseau. D’un fouillis compliqué de lauriers ils s’élancent, très hauts ; leur fusée luit dans l’air bleu. </p>
+          <p> J’en ai voulu cueillir quelques-uns ; mais, sitôt dans ma main ce n’était plus qu’un fuseau rêche qu’emmitouflait au bout un étoupage gris de chanvre, sans beauté. </p>
+          <lb/>
+          <p> … Et dans cette oasis où j’erre encore, – car je me dis que je n’y reviendrai jamais – de ce côté sont des eaux vives ; l’eau court et chante au pied de ce palmier ; elle abreuve un cep près de lui, qui le long du fût du palmier s’enguirlande ; qui l’enlace sinueusement ; puis d’un bond en rejoint la cime ; il se perd dans les palmes, en surgit, s’y répand, s’y divise, puis retombe tout d’un côté en parure de larges feuilles que l’extrême automne a dorées. Le soleil s’amuse au travers. Non, même lourd de raisins mûrs, ta profusion, pampre ardent, ne m’aurait point paru si belle ! – ou faut-il le désenchantement d’alentour, pour donner tel accent de splendeur à ta dorure inattendue… Un autre ! – un autre encore ! – Je ne les avais pas vus l’an passé. – Ah ! vais-je souhaiter revenir ? </p>
+          <lb/>
+          <p> Dimanche. </p>
+          <p> Le carême a pris fin cette nuit. Le peuple exténué veut rejeter ce matin sa tristesse ; mais il pleut. Ce jour devrait être joyeux ; il est lugubre. Nous sommes montés sur les ruines du vieux fort où l’on fait en plein air la prière. </p>
+          <p> Une boue épaisse colle aux souliers ; la piété des Arabes hésite ; sur le sol détrempé vont-ils s’agenouiller quand même ? </p>
+          <p> Certains s’en vont vers la mosquée voisine ; nous nous y rendons avec eux. Vers neuf heures le ciel claircit un peu et la prière est annoncée. Nous remontons vers le vieux fort. Là, près de cent cinquante Arabes ont tant bien que mal installé leurs dévotions sur des nattes. À leur gauche, dans une simple cathèdre de terre, un très vieux prêtre monte en se faisant aider. Après quelques invocations que le peuple redit en chœur, il commence une sorte de prédication semi-liturgique qu’il psalmodie d’une belle voix prophétique et lassée. Vers la fin de la prédication la pluie a recommencé de tomber. </p>
+          <p> Nous n’étions, respectueusement reculés sur la droite, que quelques-uns, – dont j’ai dû m’écarter encore, pour cacher aux autres mes larmes. Dans la piété de ce peuple vaincu, que semble n’accueillir pas le ciel morne ; dans cette confiance désespérée en autre chose, dans cet appel, monte la désolation du désert. </p>
+          <p> – Il leur dit des paroles tristes, répond Athman lorsque mon compagnon l’interroge. </p>
+          <p> Par trois fois cette foule alignée, comme sous un vent de prière, s’incline vers La Mecque, touchant du front le sol. </p>
+          <p> En face d’eux, et dans la ligne des prières, à vingt mètres environ du prédicateur, sur un tertre, des touristes photographes hommes et femmes, plus un groupe de sœurs blanches, photographes aussi, braquent leurs appareils, rigolent et parodient la voix du saint. Ils adorent un autre Dieu, et se sentent très supérieurs. </p>
+          <lb/>
+          <p> J’ai rêvé que je revenais ici – dans une vingtaine d’années. Je passais et n’étais plus reconnu par personne ; les enfants inconnus ne me souriaient pas ; et je n’osais pas demander ce qu’étaient devenus ceux de jadis, que j’avais peur de reconnaître dans ces hommes courbés, fatigués par la vie. </p>
+          <lb/>
+          <p> Si peu nombreux sont les éléments de l’accord, que le moindre changement reste le plus souvent inaperçu lui-même, pour celui dont l’esprit répugne à l’analyse et qui cueille sans tige sa joie ; mais il s’étonne, repassant aux mêmes lieux, de ne plus regoûter mêmes délices, et, ne sachant qu’accuser de la diminution de leur charme, s’en prend à soi, se vieillit. Je ne compris que tard combien dans les rues de Blida l’aromale fumée du kief était indispensable à l’ivresse ; de même je m’aperçois seulement ce matin qu’ici, dans les chemins de l’oasis, une matière étrangère est entrée ; sous l’argile compacte des sentiers une sorte de chaux pulvérulente et jaune apparaît. La pluie des derniers jours, puis les pas des passants ont réparti l’argile en mottes, et, par places cet affreux matifat vient au jour ; lentement il se mêle à l’argile, abîme sa couleur, rompt sa compacité, la déconsiste, la salit. Voilà pourquoi dans ces chemins que j’aimais, la boue ne me paraissait plus si belle ; l’argile, après la pluie, n’est plus si souple aux pieds ; sèche, elle n’est plus si rose, ni plus, pénétrée de soleil, de craquelures si délicates. </p>
+          <lb/>
+          <p> 21 décembre. </p>
+          <p> Hier, jour de fête des Arabes ; la pluie n’a guère cessé de tomber tout le jour. L’aspect du sol des rues est tel qu’on renonce à les traverser ; on circule en rasant les murs. Au sommet des montagnes, l’eau tombe en neige et pose une abstraite blancheur sur la rousseur du paysage. Athman marche en m’éclaboussant. </p>
+          <p> – Quelqu’un, me dit-il, m’a fait un bien beau compliment aujourd’hui. Il m’a dit : « Athman, mon garçon, tu ne connais pas qui tu es ; tu ne sais pas ce que tu vaux. » </p>
+          <p> Combien est loin le temps où suffisait à sa vanité une mirobolante ceinture ? </p>
+          <lb/>
+          <p> Lundi. </p>
+          <p> La sœur de Babou, le cabaretier juif, se marie. Trois soirs durant, suivant la coutume, on festoie. Entre qui veut. Le premier soir est aux Ouled ; le second aux parents et aux femmes honnêtes ; le troisième à n’importe qui. Ce troisième soir j’entrai là, par curiosité ; par désœuvrement plus encore. </p>
+          <p> C’était un cabaret très vulgaire ; il faisait laid dehors ; il faisait froid ; la première salle où j’entrai était sombre ; mais la fête n’était pas là… </p>
+          <p> Nous voici dans les appartements privés. J’ai près de moi un Juif en vêtements français, bedonnant, souriant, ignoble. Un peu plus loin, contre le mur aussi, la jeune mariée assez belle ; à côté d’elle un vague être très laid, au regard trouble, perdu dans le sommeil ou dans l’ivresse : le mari. </p>
+          <p> Une femme danse ; l’aigre flûte de Bou-Azis m’emplit de ferment la tête. Chacun feint de s’amuser. Contraints par le cabaretier, Athman et moi prenons des menthes vertes ; ne sachant où poser mon verre je le vide ; mais sitôt qu’il le voit vide le cabaretier le remplit ; les derniers je les vide sur le tapis. Nous sortons. Il pleut. Quittant Athman, les quittant tous, je me laisse longuement laver par la nuit. </p>
+          <lb/>
+          <p> Mardi. </p>
+          <p> Était-ce, suite de mon ivresse d’hier, quelque indolence heureuse de l’esprit… je pénétrai dans ce verger comme Aladdin dans le jardin de pierreries ; je marchais, chancelant, ivre à neuf de ravissement et d’extase, laissant jouer en moi de l’ombre et du soleil la balbutiante alternance. Pas un bruit, pas un chant, qui ne soit un oiseau. Sans doute, au lever du soleil, ce jardin fut baigné de brume, pensais-je, car il restait partout je ne sais quoi d’attendri, de mouillé. Le matin avait d’abord été splendide ; mais, et sans que se fût levé le moindre souffle, le ciel bientôt se tendit de gris. Chaque objet perdit son éclat, sa lourdeur, sa réalité. Je marchais, mais rêveusement. Il me semblait non voir, mais me ressouvenir, ou plutôt : j’avançais, non doutant que ce fussent là choses réelles, mais que ce fût bien moi qui les voyais – tant je me confondais avec elles. </p>
+          <lb/>
+          <p> Oumach. </p>
+          <p> … Le vent s’éleva vers le soir. Nos chevaux ne tirèrent plus qu’avec peine et, dans le sable où les roues du break s’enfonçaient, s’effaçaient aussitôt nos traces. Que ce sable était beau ! Soulevé par les roues il retombait en chevelure blonde ; les roues en y entrant crissaient soyeusement… </p>
+          <lb/>
+          <p> À Sidi Okba j’achetai pour dix sous la petite flûte à cinq trous que voici. Dans un couffin, elles étaient plusieurs, en roseau, chacune avec des dessins rouges. Celle que j’achetai était la plus petite, avec les plus simples dessins. Je ne la choisis pas pour ainsi dire ; entre toutes elle seule me plut ; sitôt que je la vis je la désirai violemment. </p>
+          <p> Elle était de forme précise ; mais lorsque j’en voulus jouer, de ses trous mal percés ne sortirent que des sons discors. </p>
+          <lb/>
+          <p> Dimanche. </p>
+          <p> Le ciel est pur, mais le vent est glacé ; j’ai besoin de plus de chaleur pour éclore. </p>
+          <p> Nous avons récolté, sur les pentes du roc, de ces fleurs minuscules, sans odeur, sans couleur et sans fragilité. Même leur corolle est ligneuse ; elle se referme au soleil. Sans tige, au ras du sol, on dirait des clous de bois coniformes ; on dirait des patelles de rocher. Oui, le pivot de la racine est aussitôt suivi de la fleur. Elle se tient là, dans l’attente, distincte à peine du sable sec ; puis, à la moindre averse, s’ouvre et paraît pourrie. </p>
+          <p> Le vide distendu du désert enseigne l’amour du détail. </p>
+          <lb/>
+          <p> J’ai cherché l’abri d’un jardin pour écrire ; il souffle un vent glacé, et partout au plein air on grelotte. </p>
+          <p> Nous avons décidé de partir demain matin. Le pourrai-je ? Parfois et brusquement, telle miette de volupté réveille un arrière-goût si secret que pour m’arracher d’ici je me sens aussitôt sans courage. </p>
+          <lb/>
+          <p> Dimanche soir. </p>
+          <p> Dans le petit jardin, qu’on n’aperçoit pas de la route, où l’on entre en traversant le cabaret – dans ce petit jardin nous nous assîmes. Le soir y tombait lentement. </p>
+          <p> Là coulait un peu d’eau ; là s’étiolaient quelques fleurs. </p>
+          <p> Deux maîtres jujubiers, aux deux côtés de nous, formaient cadre à l’endroit frémissant du ciel où achevait de saigner le soleil. Là Bou-Azis vint me rejoindre ; là, comme un chant d’oiseau crépusculaire, le chant de son chalumeau s’éleva. Ce n’était pas le sifflement voilé qu’ici j’avais accoutumé d’entendre ; mais clair, aigu, tendu, déchirant le soir et parfois presque douloureux. Athman avec lui dialoguait. </p>
+          <p> À chaque vers que celui-ci chantait, la flûte répondait, reprenait, en la frisant un peu, la mélodie. Sur l’air de : </p>
+          <p> Ma jeunesse s’écoule dans l’exil… </p>
+          <p> il chanta son premier poème et le second sur : </p>
+          <p> J’ai frappé à la porte du jardin </p>
+          <p> Le rossignol m’a dit : entrez ; </p>
+          <p> La rose m’a ouvert la porte </p>
+          <p> Et m’a accueilli le jasmin. </p>
+          <p> Le dernier sur : </p>
+          <p> J’ai fait un jeûne de plus d’un mois </p>
+          <p> Pour un seul baiser de sa bouche. </p>
+          <p> La lune, étroite encore, avançait dans le ciel couleur d’eau ; elle éclairait très faiblement le beau visage de Bou-Azis, j’admirais ses doigts agiles sur le roseau sombre comme la nuit. </p>
+          <lb/>
+          <p> Lundi soir. </p>
+          <p> Tu ne reverras plus, me disais-je, en y trempant mes mains, tu ne reverras plus jamais, et la voici pourtant, cette fontaine, où dans la nuit tu viens t’asseoir. </p>
+          <p> Là coule une eau presque silencieuse où mes mains entrèrent sans bruit. </p>
+          <p> J’entends, autour, les bruits errants des choses… Je me souviens… J’y vins un soir au clair de lune. Des palmiers, dans la clarté bleue, ombreusement au-dessus de l’eau s’inclinaient. </p>
+          <p> Non jamais, jamais me redirai-je, cette eau tranquille – et qui pourtant, là-bas, encore… </p>
+        </div>
+        <div title="LE RETOUR" type="chapter">
+          <p> LE RETOUR </p>
+          <p> Tunis, 28 décembre. </p>
+          <p> Nous avons vainement cherché, sur la colline du Belvédère, ces iris nains, d’un bleu si suavement violacé, qui, hier, entre Constantine et Tunis, par places bordaient à profusion la voie. Que ne les pouvions-nous cueillir ! J’eusse voulu, dans mon jardin normand, tenter d’en acclimater un rhizome, comme je fis cet oignon étrange que je rapportai de la C***, mais qui, depuis deux ans, s’obstine à ne pousser que des feuilles. </p>
+          <lb/>
+          <p> Lac de Tunis. </p>
+          <p> Polders… qui ne devaient qu’à la lumière leur beauté. </p>
+          <p> De tout temps les plus vagues terrains m’attirèrent. </p>
+          <p> J’arrivai près du port. Deux Italiens m’emmenèrent en barque. Lentement, longuement nous flottâmes entre les coques des grands vaisseaux. Nous nous courbions pour passer sous les câbles. Il ne soufflait qu’une brise légère ; l’eau du lac était peu profonde ; la terre, par endroits, reparaissait. Un instant notre barque entra de l’avant dans la vase et de l’effort des avirons s’éleva une fade odeur. Des pieux, de place en place ou par alignements, signalaient tels points d’affleurement, je suppose ; ils ne différaient pas beaucoup de ceux qui limitent les parcs d’huîtres en Bretagne, à l’entour de Locmariaquer… Je revis aussitôt ces lieux glauques, et la barque où j’étais devint celle où jadis, plus lentement, plus longuement encore et avec bien plus de délices, je circulais un soir entre les basses îles du Morbihan. C’était l’été ; l’air était chaud, et l’eau de la mer était tiède ; après que le soleil fut couché, sans atterrir, nous nous baignâmes. La mer en cet endroit était très peu profonde et les couleurs du fond rompaient les reflets écailleux du ciel… </p>
+          <lb/>
+          <p> Messine, 3 janvier. </p>
+          <p> Une pluie indiscontinue ternit la côte de Calabre, qui s’éloigne infiniment et parfois jusqu’à disparaître ; on ne voit plus alors dans l’embrasure énorme de la croisée, au-dessus du balcon de pierre que verdit le reflet du contrevent bas – l’on ne voit plus que les vergues de deux navires… Je ne sais pas pourquoi j’écris ceci. </p>
+          <lb/>
+          <p> Naples. </p>
+          <p> De la salle à manger de l’hôtel, très éclairée et pouvant paraître à peu près luxueuse quand on a quelques verres de Falerne dans la tête, on entend à travers les rideaux, par la fenêtre ouverte, la sérénade traditionnelle. Combien une telle musique paraîtrait indécemment affirmative et directe à l’Arabe ! Tout ce que l’âme italienne a de vulgaire, de déclamatoire, de voluptueusement sentimental, s’exagère dans la facile mélodie. Au demeurant, cela chatouille à l’endroit faible, et, pour peu que le printemps s’en mêle, me voilà pris. </p>
+          <lb/>
+          <p> Naples. </p>
+          <p> Entre deux pianos mécaniques, je lis, médite, et regarde la mer. Ah ! que me devient aisément naturel l’éblouissement doux de la splendeur italienne. J’admire avec quelle facilité je cesse de me sentir en voyage. Je songe aux « petites habitudes » que préconise Nietzsche ; celles que l’exilé studieux se construit industrieusement pour quelques jours, quelques semaines ou quelques mois, qui le défendent contre l’ennui et qui soutiennent son travail ; celles qui plaisent tant à l’esprit assidu, sitôt que, délivré de toute exigence mondaine et des « obligations » de la société, il n’accepte plus que de soi la contrainte, s’en impose une cependant, et sévère, mais toujours en vue du travail, de manière que la plus stricte est aussi bien la préférée. Née du sentiment de l’exil, il subsiste au travers du travail une sorte d’éveil constant, d’exaltation insoucieuse, par où l’esprit reste attentif, prêt à l’effort, apte aux compréhensions les plus hardies et ne perdant pas un instant le sentiment du prix de l’heure. </p>
+          <p> Je ne dis pas cela contre Barrès, mais je le pense bien malgré lui. </p>
+          <lb/>
+          <p> Rome, du Monte Pincio. </p>
+          <p> Fin janvier. </p>
+          <p> Ces toits sont beaux. Le soleil déclinant, qu’un nuage étroit cache pour un instant à ma vue, cependant les éclaire. Il a plu ; des profondeurs des rues monte une brume ; du Janicule une vapeur descend. Me penchant sur la balustrade, accoudé comme Polymnie, dans l’attitude qui fait dire au passant : « C’est un rêveur », je ne rêve point ; je regarde. Les toits plats, qu’a glacés l’averse, luisent. Dans l’humide atmosphère du soir se fond le chaos des maisons ; les rues y semblent des rivières ; les places, des lacs. Et s’élevant dans la lumière, dômes et campaniles… Non, je ne rêve pas. Et à quoi rêverais-je ? Pourquoi, devant cette réalité, fermerais-je les yeux pour rêver ? </p>
+          <lb/>
+          <p> Paris, février. </p>
+          <p> Je n’ai pas grand plaisir à revoir les autres ; et je sens qu’ils le sentent trop. </p>
+          <lb/>
+          <p> Pourquoi me laisser aller à parler devant T*** de voyage ? Certes, tout ce que je rapporte de là-bas il le comprend… </p>
+          <p> Il n’en a pas la gourmandise. </p>
+          <p> Cuverville, juillet. </p>
+          <p> Je relis aujourd’hui mes notes de voyage. Pour qui les publier ? – Elles seront comme ces sécrétions résineuses, qui ne consentent à livrer leur parfum qu’échauffées par la main qui les tient. </p>
+          <p> Cuverville, août. </p>
+          <p> J’aime l’été parfait, robuste, la violente paix du soleil. J’aime cette heure de midi, quand, aux chants aigus du matin, succède un accablement sur la plaine, que sur les champs fauchés l’air vibre et que dans le sillon brûlant le mauviard étend ses ailes. Dans le bois étouffant j’ai marché, respirant l’odeur des fougères, jusqu’au bord du bois, jusqu’au soir. </p>
+          <p> J’aime l’odeur du soir charmant, l’ombre des meules, cette brume de mer qui, dans notre pays, souvent monte à l’heure où le soleil se couche, qui s’épand, humecte la plaine, et, dès avant la nuit, verse dans l’air le réconfort avec une fraîcheur subite. </p>
+          <p> Que souhaiter encore, cœur exigeant, cœur inlassable ? </p>
+          <p> … Par ces chaudes journées je songe à l’essor des nomades ; ah ! pouvoir à la fois demeurer ici, fuir ailleurs ! ah ! s’évaporer, se défaire, et qu’un souffle d’azur, où je serais dissous, voyageât… ! </p>
+          <p> Cette nuit, sitôt remonté dans ma chambre, j’entendis par ma fenêtre ouverte les cris des aouteux, non loin, qui, la moisson finie, regagnaient enfin leur village. Dans un char, femmes et enfants, à demi couchés dans la paille ; les hommes escortent à pied. Tous sont soûls. Leurs chants ne sont que beuglements épais. Parfois un beuglement plus fort : celui de la conque marine, seul instrument dont ils sachent jouer. Que de fois, ces autres années, entendant ces cris dans la plaine, et qui sonnaient pour moi comme un appel, j’ai couru… que de fois ! Est-ce là tout ce que peut donner leur ivresse ? Ces gens sont laids et leurs dieux sont informes. Ah ! que de fois, après avoir couru vers eux, m’en suis-je retourné dégoûté, pleurant presque… </p>
+          <p> Cette nuit, de nouveau, ces chants m’attirent. </p>
+          <lb/>
+          <p> Fin septembre. </p>
+          <p> L’eau de l’oued  {13}  était si tiède que c’était un délice que de s’y baigner. À peine, en y plongeant, d’abord la sentait-on moins brûlante que l’air ; mais sa chaleur était égale et vous devenait douce bientôt ; puis, quand on en sortait, l’air, sur la peau mouillée, semblait frais. Puis nous nous replongions. Puis nous nous étendions au soleil ; puis dans l’ombre ; elle rafraîchissait comme les soirs. – Ô vêtements béants des Arabes ! – </p>
+          <p> Compagnon ! Compagnon ! – Camarade ! Dans l’automne de Normandie je rêve au printemps du désert. </p>
+          <p> Palmes chuchotantes au vent ! Amandiers bruissants d’abeilles ! Souffles chauds ! goût sucré de l’air !… </p>
+          <p> La rafale du Nord bat ma vitre. Il pleut depuis trois jours. – Oh ! que les caravanes étaient belles, quand, le soir, à Touggourt, le soleil se couchait dans le sel. </p>
+        </div>
+      </div>
+      <head/>
+    </body>
+    <back/>
+    <back/>
+  </text>
+</TEI>
