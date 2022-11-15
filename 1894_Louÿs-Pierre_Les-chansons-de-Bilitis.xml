@@ -1,0 +1,1295 @@
+<?xml version='1.0' encoding='UTF8'?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> Les chansons de Bilitis </title>
+        <author from="1870" key="" name="Louÿs, Pierre" sex="male" to="1925"/>
+        <edition n=""/>
+        <editor name="Mercure de France" where="Paris"/>
+      </titleStmt>
+      <publicationStmt>
+        <date type="created" when="1894"/>
+        <date type="issued" when="1894"/>
+      </publicationStmt>
+      <editionStmt>
+        <profileDesc tag="canon" type="genre">
+          <textClass>
+            <keywords> </keywords>
+          </textClass>
+        </profileDesc>
+      </editionStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docAuthor/>
+        <docTitle>
+          <titlePart main="Les chansons de Bilitis"/>
+          <titlePart sub=""/>
+        </docTitle>
+      </titlePage>
+    </front>
+    <body>
+      <div type="dedication">
+        <salute>
+          <p> CE PETIT LIVRE D'AMOUR ANTIQUE EST DEDIE RESPECTUEUSEMENT AUX JEUNES FILLES DE LA SOCIETE FUTURE </p>
+        </salute>
+      </div>
+      <div title="VIE DE BILITIS" type="part">
+        <p> </p>
+        <p> VIE DE BILITIS </p>
+        <p> Bilitis naquit au commencement du sixième siècle avant notre ère, dans un village de montagnes situé sur les bords du Mélas, vers l'orient de la Pamphylie. Ce pays est grave et triste, assombri par des forêts profondes, dominé par la masse énorme du Taurus ; des sources pétrifiantes sortent de la roche ; de grands lacs salés séjournent sur les hauteurs, et les vallées sont pleines de silence. </p>
+        <p> Elle était fille d'un Grec et d'une Phénicienne. Elle semble n'avoir pas connu son père, car il n'est mêlé nulle part aux souvenirs de son enfance. Peut-être même était-il mort avant qu'elle ne vint au monde. Autrement on s'expliquerait mal comment elle porte un nom phénicien que sa mère seule lui put donner. </p>
+        <p> Sur cette terre presque déserte, elle vivait d'une vie tranquille avec sa mère et ses sœurs. D'autres jeunes filles, qui furent ses amies, habitaient non loin de là. Sur les pentes boisées du Taurus, des bergers paissaient leurs troupeaux. </p>
+        <p> Le matin, dès le chant du coq, elle se levait, allait à l'étable, menait boire les animaux et s'occupait de traire leur lait. Dans la journée, s'il pleuvait, elle restait au gynécée et filait sa quenouille de laine. Si le temps était beau, elle courait dans les champs et faisait avec ses compagnes mille jeux dont elle nous parle. </p>
+        <p> Bilitis avait à l'égard des Nymphes une piété très ardente. Les sacrifices qu'elle offrait, presque toujours étaient pour leur fontaine. Souvent même elle leur parlait, mais il semble bien qu'elle ne les a jamais vues, tant elle rapporte avec vénération les souvenirs d'un vieillard qui autrefois les avait surprises. </p>
+        <p> La fin de son existence pastorale fut attristée par un amour sur lequel nous savons peu de chose bien qu'elle en parle longuement. Elle cessa de le chanter dès qu'il devint malheureux. Devenue mère d'un enfant qu'elle abandonna, Bilitis quitta la Pamphylie, d'une façon assez mystérieuse, et ne revit jamais le lieu de sa naissance. </p>
+        <p> Nous la retrouvons ensuite à Mytilène où elle était venue par la route de mer en longeant les belles côtes d'Asie. Elle avait à peine seize ans, selon les conjectures de M. Heim qui établit avec vraisemblance quelques dates dans la vie de Bilitis, d'après un vers qui fait allusion à la mort de Pittakos. </p>
+        <p> Lesbos était alors le centre du monde. A mi-chemin, entre la belle Attique et la fastueuse Lydie, elle avait pour capitale une cité plus éclairée qu'Athênes et plus corrompue que Sardes : Mytilène, bâtie sur une presqu'île en vue des côtes d'Asie. La mer bleue entourait la ville. De la hauteur des temples on distinguait à l'horizon la ligne blanche d'Atarnée qui était le port de Pergame. </p>
+        <p> Les rues étroites et toujours encombrées par la foule resplendissaient d'étoffes bariolées, tuniques de pourpre et d'hyacinthe, cyclas de soies transparentes, bassaras traînantes dans la poussière des chaussures jaunes. Les femmes portaient aux oreilles de grands anneaux d'or enfilés de perles brutes, et aux bras des bracelets d'argent massif grossièrement ciselés en relief. Les hommes eux-mêmes avaient la chevelure brillante et parfumée d'huiles rares. Les chevilles des Grecques étaient nues dans le cliquetis des periscelis, larges serpents de métal clair qui tintaient sur les talons ; celles des Asiatiques se mouvaient en des bottines molles et peintes. Par groupes, les passants stationnaient devant des boutiques tout en façade et où l'on ne vendait que l'étalage : tapis de couleurs sombres, housses brochées de fils d'or, bijoux d'ambre et d'ivoire, selon les quartiers. L'animation de Mytilène ne cessait pas avec le jour ; il n'y avait pas d'heure si tardive, où l'on n'entendît, par les portes ouvertes, des sons joyeux d'instruments, des cris de femmes, et le bruit des danses. Pittakos même, qui voulait donner un peu d'ordre à cette perpétuelle débauche, fit une loi qui défendait aux joueuses de flûtes trop fatiguées de s'employer dans les festins nocturnes ; mais cette loi ne fut jamais sévère. </p>
+        <p> Dans une société où les maris sont la nuit si occupés par le vin et les danseuses, les femmes devaient fatalement se rapprocher et trouver entre elles la consolation de leur solitude. De là vint qu'elles s'attendrirent à ces amours délicates, auxquelles l'antiquité donnait déjà leur nom, et qui entretiennent, quoi qu'en pensent les hommes, plus de passion vraie que de vicieuse recherche. </p>
+        <p> Alors, Sapphô était encore belle. Bilitis l'a connue, et elle nous parle d'elle sous le nom de Psappha quelle portait à Lesbos. Sans doute ce fut cette femme admirable qui apprit à la petite Pamphylienne l'art de chanter en phrases rhythmées, et de conserver à la postérité le souvenir des êtres chers. Malheureusement Bilitis donne peu de détails sur cette figure aujourd'hui si mal connue, et il y a lieu de le regretter, tant le moindre mot eût été précieux touchant la grande Inspiratrice. En revanche elle nous a laissé en une trentaine d'élégies l'histoire de son amitié avec une jeune fille de son âge qui se nommait Mnasidika, et qui vécut avec elle. Déjà nous connaissions le nom de cette jeune fille par un vers de Sapphô où sa beauté est exaltée ; mais ce nom même était douteux, et Bergk était près de penser qu'elle s'appelait simplement Mnaïs. Les chansons qu'on lira plus loin prouvent que cette hypothèse doit être abandonnée. Mnasidika semble avoir été une petite fille très douce et très innocente, un de ces êtres charmants qui ont pour mission de se laisser adorer, d'autant plus chéris qu'ils font moins d'efforts pour mériter ce qu'on leur donne. Les amours sans motifs durent le plus longtemps : celui-ci dura dix années. On verra comment il se rompit par la faute de Bilitis, dont la jalousie excessive ne comprenait aucun éclectisme. </p>
+        <p> Quand elle sentit que rien ne la retenait plus à Mytilène, sinon des souvenirs douloureux, Bilitis fît un second voyage : elle se rendit à Chypre, île grecque et phénicienne comme la Pamphylie elle-même et qui dut lui rappeler souvent l'aspect de son pays natal. </p>
+        <p> Ce fut là que Bilitis recommença pour la troisième fois sa vie, et d'une façon qu'il me sera plus difficile de faire admettre si l'on n’a pas encore compris à quel point l'amour était chose sainte chez les peuples antiques. Les courtisanes d'Amathonte n'étaient pas comme les nôtres, des créatures en déchéance exilées de toute société mondaine ; c'étaient des filles issues des meilleures familles de la cité, et qui remerciaient Aphrodite de la beauté qu'elle leur avait donnée, en consacrant au service de son culte cette beauté reconnaissante. Toutes les villes qui possédaient comme celles de Chypre un temple riche en courtisanes avaient à l'égard de ces femmes les mêmes soins respectueux. </p>
+        <p> L'incomparable histoire de Phryné, telle qu'Athénée nous l'a transmise, donnera quelque idée d'une telle vénération. Il n'est pas vrai qu'Hypéride eut besoin de la mettre nue pour fléchir l'Aréopage, et pourtant le crime était grand : elle avait assassiné. L'orateur ne déchira que le haut de sa tunique et révéla seulement les seins. Et il supplia les Juges « de ne pas mettre à mort la prêtresse et l'inspirée d'Aphrodite ». Au contraire des autres courtisanes qui sortaient vêtues de cyclas transparentes à travers lesquelles paraissaient tous les détails de leur corps, Phryné avait coutume de s'envelopper même les cheveux dans un de ces grands vêtements plissés dont les figurines de Tanagre nous ont conservé la grâce. Nul, s'il n'était de ses amis, n'avait vu ses bras ni ses épaules, et jamais elle ne se montrait dans la piscine des bains publics. Mais un jour il se passa une chose extraordinaire. C'était le jour des fêtes d'Eleusis, vingt mule personnes, venues de tous les pays de la Grèce, étaient assemblées sur la plage, quand Phryné s'avança près des vagues : elle ôta son vêtement, elle défit sa ceinture, elle ôta même sa tunique de dessous, « elle déroula tous ses cheveux et elle entra dans la mer ». Et dans cette foule il y avait Praxitèle qui d'après cette déesse vivante dessina l’Aphrodite de Cnide ; et Apelle qui entrevit la forme de son Anadyomène. Peuple admirable, devant qui la Beauté pouvait paraître nue sans exciter le rire ni la fausse honte ! </p>
+        <p> Je voudrais que cette histoire fut celle de Bilitis, car, en traduisant ses Chansons, je me suis pris à aimer l'amie de Mnasidika. Sans doute sa vie fut tout aussi merveilleuse. Je regrette seulement qu'on n'en ait pas parlé davantage et que les auteurs anciens, ceux du moins qui ont survécu, soient si pauvres de renseignements sur sa personne. Philodème, qui l'a pillée deux fois, ne mentionne pas même son nom. A défaut de belles anecdotes, je prie qu'on veuille bien se contenter des détails qu'elle nous donne elle-même sur sa vie de courtisane. Elle fut courtisane, cela n'est pas niable ; et même ses dernières chansons prouvent que si elle avait les vertus de sa vocation, elle en avait aussi les pires faiblesses. Mais je ne veux connaître que ses vertus. Elle était pieuse, et même pratiquante. Elle demeura fidèle au temple, tant qu’Aphrodite consentit à prolonger la jeunesse de sa plus pure adoratrice. Le jour où elle cessa d'être aimée, elle cessa d'écrire, dit-elle. Pourtant il est difficile d'admettre que les chansons de Pamphylie aient été écrites à l'époque où elles ont été vécues. Comment une petite bergère de montagnes eût-elle appris à scander ses vers selon les rythmes difficiles de la tradition éolienne ? On trouvera plus vraisemblable que, devenue vieille, elle se plut à chanter pour elle-même les souvenirs de sa lointaine enfance. Nous ne savons rien sur cette dernière période de sa vie. Nous ne savons même pas à quel âge elle mourut. </p>
+        <p> Son tombeau a été retrouvé par M. G. Heim à Palaeo-Limisso, sur le bord d'une route antique, non loin des ruines d'Amathonte. Ces ruines ont presque disparu depuis trente ans, et les pierres de la maison où peut-être vécut Bilitis pavent aujourd'hui les quais de Port-Saïd. Mais le tombeau était souterrain, selon la coutume phénicienne, et il avait échappé même aux voleurs de trésors. </p>
+        <p> M. Heim y pénétra par un puits étroit comblé de terre, au fond duquel il rencontra une porte murée qu'il fallut démolir. Le caveau spacieux et bas, pavé de dalles de calcaire, avait quatre murs recouverts par des plaques d'amphibolite noire, où étaient gravées en capitales primitives toutes les chansons qu'on va lire, à part les trois épitaphes qui décoraient le sarcophage. </p>
+        <p> C'était là que reposait l'amie de Mnasidika, dans un grand cercueil de terre cuite, sous un couvercle modelé par un statuaire délicat qui avait figuré dans l'argile le visage de la morte : les cheveux étaient peints en noir, les yeux à demi fermés et prolongés au crayon comme si elle eût été vivante, et la joue à peine attendrie par un sourire léger qui naissait des lignes de la bouche. Rien ne dira jamais ce qu'étaient ces lèvres, à la fois nettes et rebordées, molles et fines, unies l'une à l'autre, et comme enivrées de se joindre. Les traits célèbres de Bilitis ont été souvent reproduits par les artistes de l'Ionie, et le musée du Louvre possède une terre cuite de Rhodes qui en est le plus parfait monument, après le buste de Larnaka. </p>
+        <p> Quand on ouvrit la tombe, elle apparut dans l'état où une main pieuse l'avait rangée, vingt-quatre siècles auparavant. Des fioles de parfums pendaient aux chevilles de terre, et l'une d'elles, après si longtemps, était encore embaumée. Le miroir d'argent poli où Bilitis s'était vue, le stylet qui avait traîné le fard bleu sur ses paupières, furent retrouvés à leur place. Une petite Astarté nue, relique à jamais précieuse, veillait toujours sur le squelette orné de tous ses bijoux d'or et blanc comme une branche de neige, mais si doux et si fragile qu'au moment où on l'effleura, il se confondit en poussière. </p>
+        <p> PIERRE LOUYS </p>
+        <p> Constantine, Août 1894. </p>
+        <p> </p>
+      </div>
+      <div title="I - BUCOLIQUES EN PAMPHYLIE" type="part">
+        <p> I - BUCOLIQUES EN PAMPHYLIE </p>
+        <p> </p>
+        <div title="1 – L'ARBRE" type="chapter">
+          <p> 1 – L'ARBRE </p>
+          <p> Je me suis dévêtue pour monter à un arbre ; mes cuisses nues embrassaient l'écorce lisse et humide ; mes sandales marchaient sur les branches. </p>
+          <p> Tout en haut, mais encore sous les feuilles et à l'ombre de la chaleur, je me suis mise à cheval sur une fourche écartée en balançant mes pieds dans le vide. </p>
+          <p> Il avait plu. Des gouttes d'eau tombaient et coulaient sur ma peau. Mes mains étaient tachées de mousse, et mes orteils étaient rouges, à cause des fleurs écrasées. </p>
+          <p> Je sentais le bel arbre vivre quand le vent passait au travers ; alors je serrais mes jambes davantage et j'appliquais mes lèvres ouvertes sur la nuque chevelue d'un rameau. </p>
+          <p> </p>
+        </div>
+        <div title="2 – CHANT PASTORAL" type="chapter">
+          <p> 2 – CHANT PASTORAL </p>
+          <p> Il faut chanter un chant pastoral, invoquer Pan, dieu du vent d'été. Je garde mon troupeau et Sélénis le sien, à l'ombre ronde d'un olivier qui tremble. </p>
+          <p> Sélénis est couchée sur le pré. Elle se lève et court, ou cherche des cigales, ou cueille des fleurs avec des herbes, ou lave son visage dans l'eau fraîche du ruisseau. </p>
+          <p> Moi, j'arrache la laine au dos blond des moutons pour en garnir ma quenouille, et je file. Les heures sont lentes. Un aigle passe dans le ciel. </p>
+          <p> L'ombre tourne : changeons de place la corbeille de figues et la jarre de lait. Il faut chanter un chant pastoral, invoquer Pan, dieu du vent d'été. </p>
+          <p> </p>
+        </div>
+        <div title="3 – PAROLES MATERNELLES" type="chapter">
+          <p> 3 – PAROLES MATERNELLES </p>
+          <p> Ma mère me baigne dans l'obscurité, elle m'habille au grand soleil et me coiffe dans la lumière ; mais si je sors au clair de lune, elle serre ma ceinture et fait un double nœud. </p>
+          <p> Elle me dit : « Joue avec les vierges, danse avec les petits enfants ; ne regarde pas par la fenêtre ; fuis la parole des jeunes hommes et redoute le conseil des veuves. </p>
+          <p> « Un soir, quelqu'un, comme pour toutes, te viendra prendre sur le seuil au milieu d'un grand cortège de tympanons sonores et de flûtes amoureuses. </p>
+          <p> « Ce soir-là, quand tu t'en iras, Bilitô, tu me laisseras trois gourdes de fiel : une pour le matin, une pour le midi, et la troisième, la plus amère, la troisième pour les jours de fête. » </p>
+          <p> </p>
+        </div>
+        <div title="4 – LES PIEDS NUS" type="chapter">
+          <p> 4 – LES PIEDS NUS </p>
+          <p> J'ai les cheveux noirs, le long de mon dos, et une petite calotte ronde. Ma chemise est de laine blanche. Mes jambes fermes brunissent au soleil. </p>
+          <p> Si j'habitais la ville, j'aurais des bijoux d'or, et des chemises dorées et des souliers d'argent… Je regarde mes pieds nus, dans leurs souliers de poussière. </p>
+          <p> Psophis ! viens ici, petite pauvre ! porte-moi jusqu'aux sources, lave mes pieds dans tes mains et presse des olives avec des violettes pour les parfumer sur les fleurs. </p>
+          <p> Tu seras aujourd'hui mon esclave ; tu me suivras et tu me serviras, et à la fin de la journée je te donnerai, pour ta mère, des lentilles du jardin de la mienne. </p>
+          <p> </p>
+        </div>
+        <div title="5 – LE VIEILLARD ET LES NYMPHES" type="chapter">
+          <p> 5 – LE VIEILLARD ET LES NYMPHES </p>
+          <p> Un vieillard aveugle habite la montagne. Pour avoir regardé les nymphes, ses yeux sont morts, voilà longtemps. Et depuis, son bonheur est un souvenir lointain. </p>
+          <p> « Oui, je les ai vues, m'a-t-il dit. Helopsychria, Limnanthis ; elles étaient debout, près du bord, dans l'étang vert de Physos. L'eau brillait plus haut que leurs genoux. </p>
+          <p> « Leurs nuques se penchaient sous les cheveux longs. Leurs ongles étaient minces comme des ailes de cigales. Leurs mamelons étaient creux comme des calices de jacinthes. </p>
+          <p> « Elles promenaient leurs doigts sur l'eau et tiraient de la vase invisible les nénufars à longue tige. Autour de leurs cuisses séparées, des cercles lents s'élargissaient… » </p>
+          <p> </p>
+        </div>
+        <div title="6 – CHANSON" type="chapter">
+          <p> 6 – CHANSON </p>
+          <p> Torti-tortue, que fais-tu là au milieu ? – Je dévide la laine et le fil de Milet. – Hélas Hélas ! Que ne viens-tu danser ? – J'ai beaucoup de chagrin. J'ai beaucoup de chagrin. </p>
+          <p> – Torti-tortue, que fais-tu là au milieu ? – Je taille un roseau pour la flûte funèbre. – Hélas ! Hélas ! Qu'est-il arrivé ! – Je ne le dirai pas. Je ne le dirai pas. </p>
+          <p> – Torti-tortue, que fais-tu là au milieu ? – Je presse les olives pour l'huile de la stèle. – Hélas ! Hélas ! Et qui donc est mort ? – Peux-tu le demander ? Peux-tu le demander ? </p>
+          <p> – Torti-tortue, que fais-tu là au milieu ? – Il est tombé dans la mer… – Hélas ! Hélas ! et comment cela ? – Du haut des chevaux blancs. Du haut des chevaux blancs. » </p>
+          <p> </p>
+        </div>
+        <div title="7 – LE PASSANT" type="chapter">
+          <p> 7 – LE PASSANT </p>
+          <p> Comme j'étais assise le soir devant la porte de la maison, un jeune homme est venu à passer. Il m'a regardée, j'ai tourné la tête. Il m'a parlé, je n'ai pas répondu. </p>
+          <p> Il a voulu m'approcher. J'ai pris une faulx contre le mur et je lui aurais fendu la joue s'il avait avancé d'un pas. </p>
+          <p> Alors reculant un peu, il se mit à sourire et souffla vers moi dans sa main, disant. « Reçois le baiser. » Et j'ai crié et j'ai pleuré. Tant, que ma mère est accourue. </p>
+          <p> Inquiète, croyant que j'avais été piquée par un scorpion. Je pleurais : « Il m'a embrassée. » Ma mère aussi m'a embrassée et m'a emportée dans ses bras. </p>
+          <p> </p>
+        </div>
+        <div title="8 – LE REVEIL" type="chapter">
+          <p> 8 – LE REVEIL </p>
+          <p> Il fait déjà grand jour. Je devrais être levée. Mais le sommeil du matin est doux et la chaleur du lit me retient blottie. Je veux rester couchée encore. </p>
+          <p> Tout à l'heure j'irai dans l'étable. Je donnerai aux chèvres de l'herbe et des fleurs, et l'outre d'eau fraîche tirée du puits, où je boirai en même temps qu'elles. </p>
+          <p> Puis je les attacherai au poteau pour traire leurs douces mamelles tièdes ; et si les chevreaux n'en sont pas jaloux, je sucerai avec eux les tettes assouplies. </p>
+          <p> Amaltheia n'a-t-elle pas nourri Dzeus ? J'irai donc. Mais pas encore. Le soleil s'est levé trop tôt et ma mère n'est pas éveillée. </p>
+          <p> </p>
+        </div>
+        <div title="9 – LA PLUIE" type="chapter">
+          <p> 9 – LA PLUIE </p>
+          <p> La pluie fine a mouillé toutes choses, très doucement, et en silence. Il pleut encore un peu. Je vais sortir sous les arbres. Pieds nus, pour ne pas tacher mes chaussures. </p>
+          <p> La pluie au printemps est délicieuse. Les branches chargées de fleurs mouillées ont un parfum qui m'étourdit. On voit briller au soleil la peau délicate des écorces. </p>
+          <p> Hélas ! que de fleurs sur la terre ! Ayez pitié des fleurs tombées. Il ne faut pas les balayer et les mêler dans la boue ; mais les conserver aux abeilles. </p>
+          <p> Les scarabées et les limaces traversent le chemin entre les flaques d'eau ; je ne veux pas marcher sur eux, ni effrayer ce lézard doré qui s'étire et cligne des paupières. </p>
+          <p> </p>
+        </div>
+        <div title="10 – LES FLEURS" type="chapter">
+          <p> 10 – LES FLEURS </p>
+          <p> Nymphes des bois et des fontaines, Amies bienfaisantes, je suis là. Ne vous cachez pas, mais venez m'aider car je suis fort en peine de tant de fleurs cueillies. </p>
+          <p> Je veux choisir dans toute la forêt une pauvre hamadryade aux bras levés, et dans ses cheveux couleur de feuilles je piquerai ma plus lourde rose. </p>
+          <p> Voyez : j'en ai tant pris aux champs que je ne pourrai les rapporter si vous ne m'en faites un bouquet. Si vous refusez, prenez garde : </p>
+          <p> Celle de vous qui a les cheveux orangés je l'ai vue hier saillie comme une bête par le satyre Lamprosathès, et je dénoncerai l'impudique. </p>
+          <p> </p>
+        </div>
+        <div title="11 – IMPATIENCE" type="chapter">
+          <p> 11 – IMPATIENCE </p>
+          <p> Je me jetai dans ses bras en pleurant, et longtemps elle sentit couler mes larmes chaudes sur son épaule, avant que ma douleur me laissât parler : </p>
+          <p> « Hélas ! je ne suis qu'une enfant ; les jeunes hommes ne me regardent pas. Quand aurai-je comme toi des seins de jeune fille qui gonflent la robe et tentent le baiser ? </p>
+          <p> « Nul n'a les yeux curieux si ma tunique glisse ; nul ne ramasse une fleur qui tombe de mes cheveux ; nul ne dit qu'il me tuera si ma bouche se donne à un autre. » </p>
+          <p> Elle m'a répondu tendrement : « Bilitis, petite vierge, tu cries comme une chatte à la lune et tu t'agites sans raison. Les filles les plus impatientes ne sont pas les plus tôt choisies. » </p>
+          <p> </p>
+        </div>
+        <div title="12 – LES COMPARAISONS" type="chapter">
+          <p> 12 – LES COMPARAISONS </p>
+          <p> Bergeronnette, oiseau de Kypris, chante avec nos premiers désirs ! Le corps nouveau des jeunes filles se couvre de fleurs comme la terre. La nuit de tous nos rêves approche et nous en parlons entre nous. </p>
+          <p> Parfois nous comparons ensemble nos beautés si différentes, nos chevelures déjà longues, nos jeunes seins encore petits, nos pubertés rondes comme des cailles et blotties sous la plume naissante. </p>
+          <p> Hier je luttai de la sorte contre Melanthô mon aînée. Elle était fière de sa poitrine qui venait de croître en un mois, et, montrant ma tunique droite, elle m'avait appelée : petite enfant. </p>
+          <p> Pas un homme ne pouvait nous voir, nous nous mîmes nues devant les filles, et, si elle vainquit sur un point, je l'emportais de loin sur les autres. Bergeronnette, oiseau de Kypris, chante avec nos premiers désirs ! </p>
+          <p> </p>
+        </div>
+        <div title="13 – LA RIVIERE DE LA FORET" type="chapter">
+          <p> 13 – LA RIVIERE DE LA FORET </p>
+          <p> Je me suis baignée seule dans la rivière de la forêt. Sans doute je faisais peur aux naïades car je les devinais à peine et de très loin, sous l'eau obscure. </p>
+          <p> Je les ai appelées. Pour leur ressembler tout à fait, j'ai tressé derrière ma nuque des iris noirs comme mes cheveux, avec des grappes de giroflées jaunes. </p>
+          <p> D'une longue herbe flottante, je me suis fait une ceinture verte, et pour la voir je pressais mes seins en penchant un peu la tête. </p>
+          <p> Et j'appelais : « Naïades ! naïades ! jouez avec moi, soyez bonnes. » Mais les naïades sont transparentes, et peut-être, sans le savoir, j'ai caressé leurs bras légers. </p>
+          <p> </p>
+        </div>
+        <div title="14 – PHITTA MELIAI" type="chapter">
+          <p> 14 – PHITTA MELIAI </p>
+          <p> Dès que le soleil sera moins brûlant nous irons jouer sur les bords du fleuve, nous lutterons pour un crocos  [1]  frêle et pour une jacinthe mouillée. </p>
+          <p> Nous ferons le collier de la ronde et la guirlande de la course. Nous nous prendrons par la main et par la queue de nos tuniques. </p>
+          <p> Phitta Meliaï ! donnez-nous du miel. Phitta Naïades ! baignez-nous avec vous. Phitta Méliades ! donnez l'ombre douce à nos corps en sueur. </p>
+          <p> Et nous vous offrirons, Nymphes bienfaisantes, non le vin honteux, mais l'huile et le lait et des chèvres aux cornes courbes. </p>
+          <p> </p>
+        </div>
+        <div title="15 – LA BAGUE SYMBOLIQUE" type="chapter">
+          <p> 15 – LA BAGUE SYMBOLIQUE </p>
+          <p> Les voyageurs qui reviennent de Sardes parlent des colliers et des pierres qui chargent les femmes de Lydie, du sommet de leurs cheveux jusqu'à leurs pieds fardés. </p>
+          <p> Les filles de mon pays n'ont ni bracelets ni diadèmes, mais leur doigt porte une bague d'argent, et sur le chaton est gravé le triangle de la déesse. </p>
+          <p> Quand elles tournent la pointe en dehors cela veut dire : Psyché à prendre. Quand elles tournent la pointe en dedans, cela veut dire : Psyché prise. </p>
+          <p> Les hommes y croient. Les femmes non. Pour moi je ne regarde guère de quel côté la pointe se tourne, car Psyché se délivre aisément. Psyché est toujours à prendre. </p>
+          <p> </p>
+        </div>
+        <div title="16 – LES DANSES AU CLAIR DE LUNE" type="chapter">
+          <p> 16 – LES DANSES AU CLAIR DE LUNE </p>
+          <p> Sur l'herbe molle, dans la nuit, les jeunes filles aux cheveux de violettes ont dansé toutes ensemble, et l'une de deux faisait les réponses de l'amant. </p>
+          <p> Les vierges ont dit : « Nous ne sommes pas pour vous. » Et comme si elles étaient honteuses elles cachaient leur virginité. Un aegipan jouait de la flûte sous les arbres. </p>
+          <p> Les autres ont dit : « Vous nous viendrez chercher. » Elles avaient serré leurs robes en tunique d'homme, et elles luttaient sans énergie en mêlant leurs jambes dansantes. </p>
+          <p> Puis chacune se disant vaincue, a pris son amie par les oreilles comme une coupe par les deux anses, et, la tête penchée, a bu le baiser. </p>
+          <p> </p>
+        </div>
+        <div title="17 – LES PETITS ENFANTS" type="chapter">
+          <p> 17 – LES PETITS ENFANTS </p>
+          <p> La rivière est presque à sec ; les joncs flétris meurent dans la fange ; l'air brûle, et loin des berges creuses, un ruisseau clair coule sur les graviers. </p>
+          <p> C'est là que du matin au soir les petits enfants nus viennent jouer. Ils se baignent, pas plus haut que leurs mollets, tant la rivière est basse. </p>
+          <p> Mais ils marchent dans le courant, et glissent quelquefois sur les roches, et les petits garçons jettent de l'eau sur les petites filles qui rient. </p>
+          <p> Et quand une troupe de marchands qui passe, mène boire au fleuve les énormes bœufs blancs, ils croisent leurs mains derrière eux et regardent les grandes bêtes. </p>
+          <p> </p>
+        </div>
+        <div title="18 – LES CONTES" type="chapter">
+          <p> 18 – LES CONTES </p>
+          <p> Je suis aimée des petits enfants ; dès qu'ils me voient, ils courent à moi, et s'accrochent à ma tunique et prennent mes jambes dans leurs petits bras. </p>
+          <p> S'ils ont cueilli des fleurs, ils me les donnent toutes ; s'ils ont pris un scarabée ils le mettent dans ma main ; s'ils n'ont rien ils me caressent et me font asseoir devant eux. </p>
+          <p> Alors ils m'embrassent sur la joue, ils posent leurs têtes sur mes seins ; ils me supplient avec les yeux. Je sais bien ce que cela veut dire. </p>
+          <p> Cela veut dire : « Bilitis chérie, dis-nous, car nous sommes gentils, l'histoire du héros Perseus ou la mort de la petite Hellé. » </p>
+          <p> </p>
+        </div>
+        <div title="19 – L'AMIE MARIEE" type="chapter">
+          <p> 19 – L'AMIE MARIEE </p>
+          <p> Nos mères étaient grosses en même temps et ce soir elle s'est mariée, Melissa, ma plus chère amie. Les roses sont encore sur la route ; les torches n'ont pas fini de brûler. </p>
+          <p> Et je reviens par le même chemin, avec maman, et je songe. Ainsi, ce qu'elle est aujourd'hui, moi aussi j'aurais pu l'être. Suis-je déjà si grande fille ? </p>
+          <p> Le cortège, les flûtes, le chant nuptial et le char fleuri de l'époux, toutes ces fêtes, un autre soir, se dérouleront autour de moi, parmi les branches d'olivier. </p>
+          <p> Comme à cette heure-même Melissa, je me dévoilerai devant un homme, je connaîtrai l'amour dans la nuit, et plus tard des petits enfants se nourriront à mes seins gonflés… </p>
+          <p> </p>
+        </div>
+        <div title="20 – LES CONFIDENCES" type="chapter">
+          <p> 20 – LES CONFIDENCES </p>
+          <p> Le lendemain, je suis allée chez elle, et nous avons rougi dès que nous nous sommes vues. Elle m'a fait entrer dans sa chambre pour que nous fussions toutes seules. </p>
+          <p> J'avais beaucoup de choses à lui dire ; mais en la voyant j'oubliai. Je n'osais pas même me jeter à son cou, je regardais sa ceinture haute. </p>
+          <p> Je m'étonnais que rien n'eût changé sur son visage, qu'elle semblât encore mon amie et que cependant, depuis la veille, elle eût appris tant de choses qui m'effarouchaient. </p>
+          <p> Soudain je m'assis sur ses genoux, je la pris dans mes bras, je lui parlai à l'oreille vivement, anxieusement. Alors elle mit sa contre la mienne, et me dit tout. </p>
+          <p> </p>
+        </div>
+        <div title="21 – LA LUNE AUX YEUX BLEUS" type="chapter">
+          <p> 21 – LA LUNE AUX YEUX BLEUS </p>
+          <p> La nuit, les chevelures des femmes et les branches des saules se confondent. Je marchais au bord de l'eau. Tout à coup, j'entendis chanter : alors seulement je reconnus qu'il y avait là des jeunes filles. </p>
+          <p> Je leur dis : « Que chantez-vous ? » Elles répondirent : « Ceux qui reviennent. » L'une attendait son père et l'autre son frère ; mais celle qui attendait son fiancé était la plus impatiente. </p>
+          <p> Elles avaient tressé pour eux des couronnes et des guirlandes, coupé des palmes aux palmiers et tiré des lotus de l'eau. Elles se tenaient par le cou et chantaient l'une après l'autre. </p>
+          <p> Je m'en allai le long du fleuve, tristement, et toute seule, mais en regardant autour de moi, je vis que derrière les grands arbres la lune aux yeux bleus me reconduisait. </p>
+          <p> </p>
+        </div>
+        <div title="22 – REFLEXIONS (non traduite)" type="chapter">
+          <p> 22 – REFLEXIONS (non traduite) </p>
+          <p> </p>
+        </div>
+        <div title="23 – CHANSON (Ombre du bois)" type="chapter">
+          <p> 23 – CHANSON (Ombre du bois) </p>
+          <p> Ombre du bois où elle devait venir, dis-moi, où est allée ma maîtresse ? – Elle est descendue dans la plaine. – Plaine, où est allée ma maîtresse ? – Elle a suivi les bords du fleuve. </p>
+          <p> – Beau fleuve qui l'a vue passer, dis-moi, est-elle près d'ici ? – Elle m'a quitté pour le chemin. – Chemin, la vois-tu encore ? – Elle m'a laissé pour la route. </p>
+          <p> – O route blanche, route de la ville, dis-moi, où l'as-tu conduite ? – A la rue d'or qui entre à Sardes. – O rue de lumière, touches-tu ses pieds nus ? – Elle est entrée au palais du roi. </p>
+          <p> – O palais, splendeur de la terre, rends-la-moi ! – Regarde, elle a des colliers sur les seins et des houppes dans les cheveux, cent perles le long des jambes, deux bras autour de la taille. » </p>
+          <p> </p>
+        </div>
+        <div title="24 – LYKAS" type="chapter">
+          <p> 24 – LYKAS </p>
+          <p> Venez, nous irons dans les champs, sous les buissons de genévriers ; nous mangerons du miel dans les ruches, nous ferons des pièges à sauterelles avec des tiges d'asphodèle. </p>
+          <p> Venez ; nous irons voir Lykas, qui garde les troupeaux de son père sur les pentes du Tauros ombreux. Sûrement il nous donnera du lait. </p>
+          <p> J'entends déjà le son de sa flûte. C'est un joueur fort habile. Voici les chiens et les agneaux, et lui-même, debout contre un arbre. N'est-il pas beau comme Adonis ! </p>
+          <p>OLykas, donne-nous du lait. Voici des figues de nos figuiers. Nous allons rester avec toi. Chèvres barbues, ne sautez pas, de peur d'exciter les boucs inquiets. </p>
+          <p> </p>
+        </div>
+        <div title="25 – L'OFFRANDE A LA DEESSE" type="chapter">
+          <p> 25 – L'OFFRANDE A LA DEESSE </p>
+          <p> Ce n'est pas pour l'Artémis qu'on adore à Perga, cette guirlande tressée par mes mains, bien que l'Artémis soit une bonne déesse qui me gardera des couches difficiles. </p>
+          <p> Ce n'est pas pour l'Athêna qu'on adore à Sidê, bien qu'elle soit d'ivoire et d'or et qu'elle porte dans la main une pomme de grenade qui tente les oiseaux. </p>
+          <p> Non, c'est pour l’Aphrodite que j'adore dans ma poitrine, car elle seule me donnera ce qui manque à mes lèvres, si je suspends à l'arbre-sacré ma guirlande de tendres roses. </p>
+          <p> Mais je ne dirai pas tout haut ce que je la supplie de m'accorder. Je me hausserai sur la pointe des pieds et par la fente de l'écorce je lui confierai mon secret. </p>
+          <p> </p>
+        </div>
+        <div title="26 – L'AMIE COMPLAISANTE" type="chapter">
+          <p> 26 – L'AMIE COMPLAISANTE </p>
+          <p> L'orage a duré toute la nuit. Sélénis aux beaux cheveux était venue filer avec moi. Elle est restée de peur de la boue. Nous avons entendu les prières et serrées l'une contre l'autre nous avons empli mon petit lit. </p>
+          <p> Quand les filles couchent à deux, le sommeil reste à la porte. « Bilitis, dis-moi, dis-moi, qui tu aimes. » Elle faisait glisser sa jambe sur la mienne pour me caresser doucement. </p>
+          <p> Et elle a dit, devant ma bouche : « Je sais, Bilitis, qui tu aimes. Ferme les yeux, je suis Lykas. » Je répondis en la touchant : « Ne vois-je pas bien que tu es fille ? Tu plaisantes mal à propos. » </p>
+          <p> Mais elle reprit : « En vérité, je suis Lykas, si tu fermes les paupières. Voilà ses bras, voilà ses mains… » Et tendrement, dans le silence, elle enchanta ma rêverie d'une illusion singulière. </p>
+          <p> </p>
+        </div>
+        <div title="27 – PRIERE A PERSEPHONE" type="chapter">
+          <p> 27 – PRIERE A PERSEPHONE </p>
+          <p> Purifiées par les ablutions rituelles, et vêtues de tuniques violettes, nous avons baissé vers la terre nos mains chargées de branches d'olivier. </p>
+          <p> «OPerséphonê souterraine, ou quel que soit le nom que tu désires, si ce nom t'agrée, écoute-nous, ô Chevelue-de-ténèbres, Reine stérile et sans sourire ! </p>
+          <p> « Kokhlis, fille de Thrasymakhos, est malade, et dangereusement. Ne la rappelle pas encore. Tu sais qu'elle ne peut t'échapper : un jour, plus tard, tu la prendras. </p>
+          <p> « Mais ne l'entraîne pas si vite, ô Dominatrice invisible ! Car elle pleure sa virginité, elle te supplie par nos prières, et nous donnerons pour la sauver trois brebis noires non tondues. » </p>
+          <p> </p>
+        </div>
+        <div title="28 – LA PARTIE D'OSSELETS" type="part">
+          <p> 28 – LA PARTIE D'OSSELETS </p>
+          <p> Comme nous l'aimions tous les deux, nous l'avons joué aux osselets. Et ce fut une partie célèbre. Beaucoup de jeunes filles y assistaient. </p>
+          <p> Elle amena d'abord le coup des Kyklôpes, et moi, le coup de Solôn. Mais elle le Kallibolos, et moi, me sentant perdue, je priais la déesse ! </p>
+          <p> Je jouai, j'eus l'Epiphénôn, elle le terrible coup de Khios, moi l'Antiteukhos, elle le Trikhias, et moi le coup d'Aphroditê qui gagna l'amant disputé. </p>
+          <p> Mais la voyant pâlir, je la pris par le cou et je lui dis tout près de l'oreille (pour qu'elle seule m'entendit) : « Ne pleure pas, petite amie, nous le laisserons choisir entre nous. » </p>
+          <p> </p>
+        </div>
+        <div title="29 – LA QUENOUILLE" type="chapter">
+          <p> 29 – LA QUENOUILLE </p>
+          <p> Pour tout le jour ma mère m'a enfermée au gynécée, avec mes sœurs que je n'aime pas et qui parlent entre elles à voix basse. Moi, dans un petit coin, je file ma quenouille. </p>
+          <p> Quenouille, puisque je suis seule avec toi, c'est à toi que je vais parler. Avec la perruque de laine blanche tu es comme une vieille femme. Ecoute-moi. </p>
+          <p> Si je le pouvais, je ne serais pas ici, assise dans l'ombre du mur et filant avec ennui : je serais couchée dans les violettes sur les pentes du Tauros. </p>
+          <p> Comme il est plus pauvre que moi, ma mère ne veut pas qu'il m'épouse. Et pourtant, je te le dis : ou je ne verrai pas le jour des noces, ou ce sera lui qui me fera passer le seuil. </p>
+          <p> </p>
+        </div>
+        <div title="30 – LA FLUTE DE PAN" type="chapter">
+          <p> 30 – LA FLUTE DE PAN </p>
+          <p> Pour le jour des Hyacinthies, il m'a donné une syrinx faite de roseaux bien taillés, unis avec de la blanche cire qui est douce à mes lèvres comme du miel. </p>
+          <p> Il m'apprend à jouer, assise sur ses genoux ; mais je suis un peu tremblante. Il en joue après moi, si doucement que je l'entends à peine. </p>
+          <p> Nous n'avons rien à nous dire, tant nous sommes près l'un de l'autre ; mais nos chansons veulent se répondre, et tour à tour nos bouches s'unissent sur la flûte. </p>
+          <p> Il est tard, voici le chant des grenouilles vertes qui commence avec la nuit. Ma mère ne croira jamais que je suis restée si longtemps à chercher ma ceinture perdue. </p>
+          <p> </p>
+        </div>
+        <div title="31 – LA CHEVELURE" type="chapter">
+          <p> 31 – LA CHEVELURE </p>
+          <p> Il m'a dit : « Cette nuit, j'ai rêvé. J'avais ta chevelure autour de mon cou. J'avais tes cheveux comme un collier noir autour de ma nuque et sur ma poitrine. </p>
+          <p> « Je les caressais, et c'étaient les miens ; et nous étions liés pour toujours ainsi, par la même chevelure la bouche sur la bouche, ainsi que deux lauriers n'ont souvent qu'une racine. </p>
+          <p> « Et peu à peu, il m'a semblé, tant nos membres étaient confondus, que je devenais toi-même ou que tu entrais en moi comme mon songe. » </p>
+          <p> Quand il eut achevé, il mit doucement ses mains sur mes épaules, et il me regarda d'un regard si tendre, que je baissai les yeux avec un frisson. </p>
+          <p> </p>
+        </div>
+        <div title="32 – LA COUPE" type="chapter">
+          <p> 32 – LA COUPE </p>
+          <p> Lykas m'a vue arriver, seulement vêtue d'une exômis succincte, car les journées sont accablantes ; il a voulu mouler mon sein qui restait à découvert. </p>
+          <p> Il a pris de l'argile fine, pétrie dans l'eau fraîche et légère. Quand il l'a serrée sur ma peau, j'ai pensé défaillir tant cette terre était froide. </p>
+          <p> De mon sein moulé, il a fait une coupe, arrondie et ombiliquée. Il l'a mise sécher au soleil et l'a peinte de pourpre et d'ocre en pressant des fleurs tout autour. </p>
+          <p> Puis nous sommes allés jusqu'à la fontaine qui est consacrée aux nymphes, et nous avons jeté la coupe dans le courant, avec des tiges de giroflées. </p>
+          <p> </p>
+        </div>
+        <div title="33 – ROSES DANS LA NUIT" type="chapter">
+          <p> 33 – ROSES DANS LA NUIT </p>
+          <p> Dès que la nuit monte au ciel, le monde est à nous, et aux dieux. Nous allons des champs à la source, des bois obscurs aux clairières, où nous mènent nos pieds nus. </p>
+          <p> Les petites étoiles brillent assez pour les petites ombres que nous sommes. Quelquefois, sous les branches basses, nous trouvons des biches endormies. </p>
+          <p> Mais plus charmant la nuit que toute autre chose, il est un lieu connu de nous seuls et qui nous attire à travers la forêt : un buisson de roses mystérieuses. </p>
+          <p> Car rien n'est divin sur la terre à l'égal du parfum des roses dans la nuit. Comment se fait-il qu'au temps où j'étais seule je ne m'en sentais pas enivrée ? </p>
+          <p> </p>
+        </div>
+        <div title="34 – LES REMORDS" type="chapter">
+          <p> 34 – LES REMORDS </p>
+          <p> D'abord je n'ai pas répondu, et j'avais la honte sur les joues, et les battements de mon cœur faisaient mal à mes seins. </p>
+          <p> Puis j'ai résisté, j'ai dit : « Non. Non. » J'ai tourné la tête en arrière et le baiser n'a pas franchi mes lèvres, ni l'amour mes genoux serrés. </p>
+          <p> Alors il m'a demandé pardon, il m'a embrassé les cheveux, j'ai senti son haleine brûlante, et il est parti… Maintenant je suis seule. </p>
+          <p> Je regarde la place vide, le bois désert, la terre foulée. Et je mords mes poings jusqu'au sang et j'étouffe mes cris dans l'herbe. </p>
+          <p> </p>
+        </div>
+        <div title="35 – LE SOMMEIL INTERROMPU" type="chapter">
+          <p> 35 – LE SOMMEIL INTERROMPU </p>
+          <p> Toute seule je m'étais endormie, comme une perdrix dans la bruyère. Le vent léger, le bruit des eaux, la douceur de la nuit m'avaient retenue là. </p>
+          <p> Je me suis endormie, imprudente, et je me suis réveillée en criant, et j'ai lutté, et j'ai pleuré ; mais déjà il était trop tard. Et que peuvent les bras d'une fille ? </p>
+          <p> Il ne me quitta pas. Au contraire, plus tendrement dans ses bras, il me serra contre lui et je ne vis plus au monde ni la terre ni les arbres mais seulement la lueur de ses yeux… </p>
+          <p> A toi, Kypris victorieuse, je consacre ces offrandes encore mouillées de rosée, vestiges des douleurs de la vierge, témoins de mon sommeil et de ma résistance. </p>
+          <p> </p>
+        </div>
+        <div title="36 – AUX LAVEUSES" type="chapter">
+          <p> 36 – AUX LAVEUSES </p>
+          <p> Laveuses, ne dites pas que vous m'avez vue ! Je me confie à vous ; ne le répétez pas ! Entre ma tunique et mes seins je vous apporte quelque chose. </p>
+          <p> Je suis comme une petite poule effrayée… Je ne sais pas si j'oserai vous dire… Mon cœur bat comme si je mourais… C'est un voile que je vous apporte. </p>
+          <p> Un voile et les rubans de mes jambes. Vous voyez : il y a du sang. Par l'Apollôn c'est malgré moi ! Je me suis bien défendue ; mais l'homme qui aime est plus fort que nous. </p>
+          <p> Lavez-les bien ; n'épargnez ni le sel ni la craie. Je mettrai quatre oboles pour vous aux pieds de l'Aphroditê ; et même une drachme d'argent. </p>
+          <p> </p>
+        </div>
+        <div title="37 – CHANSON" type="chapter">
+          <p> 37 – CHANSON </p>
+          <p> uand il est revenu, je me suis caché la figure avec les deux mains. Il m'a dit : « Ne crains rien. Qui a vu notre baiser ? –Qui nous a vus ? la nuit et la lune, </p>
+          <p> « Et les étoiles et la première aube. La lune s'est mirée au lac et l'a dit à l'eau sous les saules. L'eau du lac l'a dit à la rame. </p>
+          <p> « Et la rame l'a dit à la barque et la barque l'a dit au pêcheur. Hélas, hélas ! si c'était tout ! Mais le pêcheur l'a dit à une femme. </p>
+          <p> « Le pêcheur l'a dit à une femme : mon père et ma mère et mes sœurs, et toute la Hellas le saura. » </p>
+          <p> </p>
+        </div>
+        <div title="38 – BILITIS" type="chapter">
+          <p> 38 – BILITIS </p>
+          <p> Une femme s'enveloppe de laine blanche. Une autre se vêt de soie et d'or. Une autre se couvre de fleurs, de feuilles vertes et de raisins. </p>
+          <p> Moi je ne saurais vivre que nue. Mon amant, prends-moi comme je suis : sans robe ni bijoux ni sandales voici Bilitis toute seule. </p>
+          <p> Mes cheveux sont noirs de leur noir et mes lèvres rouges de leur rouge. Mes boucles flottent autour de moi, libres et rondes comme des plumes. </p>
+          <p> Prends-moi telle que ma mère m'a faite dans une nuit d'amour lointaine, et si je te plais ainsi n'oublie pas de me le dire. </p>
+          <p> </p>
+        </div>
+        <div title="39 – LA PETITE MAISON" type="chapter">
+          <p> 39 – LA PETITE MAISON </p>
+          <p> La petite maison où est son lit est la plus belle de la terre. Elle est faite avec des branches d'arbre, quatre murs de terre sèche et une chevelure de chaume. </p>
+          <p> Je l'aime, car nous y couchons depuis que les nuits sont fraîches ; et plus les nuits sont fraîches, plus elles sont longues aussi. Au jour levant je me sens enfin lassée. </p>
+          <p> Le matelas est sur le sol ; deux couvertures de laine noire enferment nos corps qui se réchauffent. Sa poitrine refoule mes seins. Mon cœur bat… </p>
+          <p> Il m'étreint si fort qu'il me brisera, pauvre petite fille que je suis ; mais dès qu'il est en moi je ne sais plus rien du monde, et on me couperait les quatre membres sans me réveiller de ma joie. </p>
+          <p> </p>
+        </div>
+        <div title="40 – LA JOIE (non traduite)" type="chapter">
+          <p> 40 – LA JOIE (non traduite) </p>
+          <p> </p>
+        </div>
+        <div title="41 – LA LETTRE PERDUE" type="chapter">
+          <p> 41 – LA LETTRE PERDUE </p>
+          <p> Hélas sur moi ! j'ai perdu sa lettre. Je l'avais mise entre ma peau et mon strophiôn, sous la chaleur de mon sein. J'ai couru, elle sera tombée. </p>
+          <p> Je vais retourner sur mes pas : si quelqu'un la trouvait, on le dirait à ma mère et je serais fouettée devant mes sœurs moqueuses. </p>
+          <p> Si c'est un homme qui l'a trouvée il me la rendra ; ou même, s'il veut me parler en secret je sais le moyen de la lui ravir. </p>
+          <p> Si c'est une femme qui l'a lue, ô Dzeus Gardien, protège-moi ! car elle le dira à tout le monde, ou elle me prendra mon amant. </p>
+          <p> </p>
+        </div>
+        <div title="42 – CHANSON" type="chapter">
+          <p> 42 – CHANSON </p>
+          <p> La nuit est si profonde qu'elle entre dans mes yeux. – Tu ne verras pas le chemin. Tu te perdras dans la forêt. </p>
+          <p> – Le bruit des chutes d'eau remplit mes oreilles. – Tu n'entendrais pas la voix de ton amant même s'il était à vingt pas. </p>
+          <p> – L'odeur des fleurs est si forte que je défaille et vais tomber. – Tu ne le sentirais pas s'il croisait ton passage. </p>
+          <p> – Ah ! il est bien loin d'ici, de l'autre côté de la montagne, mais je le vois et je l'entends et je le sens comme s'il me touchait. » </p>
+          <p> </p>
+        </div>
+        <div title="43 – LE SERMENT" type="chapter">
+          <p> 43 – LE SERMENT </p>
+          <p> Lorsque l'eau des fleuves remontera jusqu'aux sommets couverts de neiges ; lorsqu'on sèmera l'orge et le blé dans les sillons mouvants de la mer ; </p>
+          <p> « Lorsque les pins naîtront des lacs et les nénufars des rochers, lorsque le soleil deviendra noir, lorsque la lune tombera sur l'herbe. </p>
+          <p> « Alors, mais alors seulement, je prendrai une autre femme, et je t'oublierai, Bilitis, âme de ma vie, cœur de mon cœur. » </p>
+          <p> Il me l'a dit, il me l'a dit ! Que m'importe le reste du monde ! Où es-tu, bonheur insensé qui te compares à mon bonheur ! </p>
+          <p> </p>
+        </div>
+        <div title="44 – LA NUIT" type="chapter">
+          <p> 44 – LA NUIT </p>
+          <p> C'est moi maintenant qui le recherche. Chaque nuit, très doucement, je quitte la maison, et je vais par une longue route, jusqu'à sa prairie, le regarder dormir. </p>
+          <p> Quelquefois je reste longtemps sans parler, heureuse de le voir seulement, et j'approche mes lèvres des siennes, pour ne baiser que son haleine. </p>
+          <p> Puis tout à coup je m'étends sur lui. Il se réveille dans mes bras, et il ne peut plus se relever car je lutte ! Il renonce, et rit, et m'étreint. Ainsi nous jouons dans la nuit. </p>
+          <p> … Première aube, ô clarté méchante, toi déjà ! En quel antre toujours nocturne, sur quelle prairie souterraine pourrons-nous si longtemps aimer, que nous perdions ton souvenir… </p>
+          <p> </p>
+        </div>
+        <div title="45 – BERCEUSE" type="chapter">
+          <p> 45 – BERCEUSE </p>
+          <p> Dors : j'ai demandé à Sardes tes jouets, et tes vêtements à Babylone. Dors, tu es fille de Bilitis et d'un roi du soleil levant. </p>
+          <p> Les bois, ce sont les palais qu'on bâtit pour toi seule et que je t'ai donnés. Les troncs des pins, ce sont les colonnes ; les hautes branches, ce sont les voûtes. </p>
+          <p> Dors. Pour qu'il ne t'éveille pas, je vendrais le soleil à la mer. Le vent des ailes de la colombe est moins léger que ton haleine. </p>
+          <p> Fille de moi, chair de ma chair, tu diras quand tu ouvriras les yeux, si tu veux la plaine ou la ville, ou la montagne ou la lune, ou le cortège blanc des dieux. </p>
+          <p> </p>
+        </div>
+        <div title="46 – LE TOMBEAU DES NAIADES" type="chapter">
+          <p> 46 – LE TOMBEAU DES NAIADES </p>
+          <p> Le long du bois couvert de givre, je marchais ; mes cheveux devant ma bouche se fleurissaient de petits glaçons, et mes sandales étaient lourdes de neige fangeuse et tassée. </p>
+          <p> Il me dit : « Que cherches-tu ? –Je suis la trace du satyre. Ses petits pas fourchus alternent comme des trous dans un manteau blanc. » Il me dit : « Les satyres sont morts. </p>
+          <p> « Les satyres et les nymphes aussi. Depuis trente ans il n'a pas fait un hiver aussi terrible. La trace que tu vois est celle d'un bouc. Mais restons ici, où est leur tombeau. » </p>
+          <p> Et avec le fer de sa houe il cassa la glace de la source où jadis riaient les naïades. Il prenait de grands morceaux froids, et, les soulevant vers le ciel pâle, il regardait au travers. </p>
+          <p> </p>
+        </div>
+      </div>
+      <div title="II - ELEGIES A MYTILENE" type="part">
+        <p> II - ELEGIES A MYTILENE </p>
+        <p> </p>
+        <div title="47 – AU VAISSEAU" type="chapter">
+          <p> 47 – AU VAISSEAU </p>
+          <p> Beau navire qui m'as menée ici, le long des côtes de l'Ionie, je t'abandonne aux flots brillants, et d'un pied léger je saute sur la grève. </p>
+          <p> Tu vas retourner au pays où la vierge est l'amie des nymphes. N'oublie pas de remercier les conseillères invisibles, et porte-leur en offrande ce rameau cueilli par mes mains. </p>
+          <p> Tu fus pin, et sur les montagnes, le vaste Nôtos enflammé agitait tes branches épineuses, tes écureuils et tes oiseaux. </p>
+          <p> Que le Boreus maintenant te guide, et te pousse mollement vers le port, nef noire escortée des dauphins au gré de la mer bienveillante. </p>
+          <p> </p>
+        </div>
+        <div title="48 – PSAPPHA" type="chapter">
+          <p> 48 – PSAPPHA </p>
+          <p> Je me frotte les yeux… Il fait déjà jour, je crois. Ah ! qui est auprès de moi ?… une femme ?… Par la Paphia, j'avais oublié…OCharites ! que je suis honteuse. </p>
+          <p> Dans quel pays suis-je venue, et quelle est cette île-ci où l'on entend ainsi l'amour ? Si je n'étais pas ainsi lassée, je croirais à quelque rêve… Est-il possible que ce soit là Psappha ! </p>
+          <p> Elle dort… Elle est certainement belle, bien que ses cheveux soient coupés comme ceux d'un athlète. Mais cet étrange visage, cette poitrine virile et ces hanches étroites… </p>
+          <p> Je veux m'en aller avant qu'elle ne s'éveille. Hélas ! je suis du côté du mur. Il me faudra l'enjamber. J'ai peur de frôler sa hanche et qu'elle ne me reprenne au passage. </p>
+          <p> </p>
+        </div>
+        <div title="49 – LA DANSE DE GLOTTIS ET DE KYSE" type="chapter">
+          <p> 49 – LA DANSE DE GLOTTIS ET DE KYSE </p>
+          <p> Deux petites filles m'ont emmenée chez elles, et dès que la porte fut fermée, elles allumèrent au feu la mèche de la lampe et voulurent danser pour moi. </p>
+          <p> Leurs joues n'étaient pas fardées, aussi brunes que leurs petits ventres. Elles se tiraient par les bras et parlaient en même temps, dans une agonie de gaieté. </p>
+          <p> Assises sur leur matelas que portaient deux tréteaux élevés, Glôttis chantait à voix aiguë et frappait en mesure ses petites mains sonores. </p>
+          <p> Kysé dansait par saccades, puis s'arrêtait, essoufflée par le rire, et, prenant sa sœur par les seins, la mordait à l'épaule et la renversait, comme une chèvre qui veut jouer. </p>
+          <p> </p>
+        </div>
+        <div title="50 – LES CONSEILS" type="chapter">
+          <p> 50 – LES CONSEILS </p>
+          <p> Alors Syllikhmas est entrée, et nous voyant si familières, elle s'est assise sur le banc. Elle a pris Glôttis sur son genou, Kysé sur l'autre et elle a dit : </p>
+          <p> « Viens ici, petite. » Mais je restais loin. Elle reprit : « As-tu peur de nous ? Approche-toi : ces enfants t'aiment. Elles t'apprendront ce que tu ignores : le miel des caresses de la femme. </p>
+          <p> « L'homme est violent et paresseux. Tu le connais, sans doute. Hais-le. Il a la poitrine plate, la peau rude, les cheveux ras, les bras velus. Mais les femmes sont toutes belles. </p>
+          <p> « Les femmes seules savent aimer ; reste avec nous, Bilitis, reste. Et si tu as une âme ardente, tu verras ta beauté comme dans un miroir sur le corps de tes amoureuses. » </p>
+          <p> </p>
+        </div>
+        <div title="51 – L'INCERTITUDE" type="chapter">
+          <p> 51 – L'INCERTITUDE </p>
+          <p> De Glôttis ou de Kysé je ne sais qui j'épouserai. Comme elles ne se ressemblent pas, l'une ne me consolerait pas de l'autre et j'ai peur de mal choisir. </p>
+          <p> Chacune d'elles a l'une de mes mains, l'une de mes mamelles aussi. Mais à qui donnerai-je ma bouche ? à qui donnerai-je mon cœur et tout ce qu'on ne peut partager ? </p>
+          <p> Nous ne pouvons rester ainsi toutes les trois dans la même maison. On en parle dans Mytilène. Hier, devant le temple d'Arès, une femme ne m'a pas dit : « Salut ! » </p>
+          <p> C'est Glôttis que je préfère ; mais je ne puis répudier Kysé. Que deviendrait-elle toute seule ? Les laisserai-je ensemble comme elles étaient et prendrai-je une autre amie ? </p>
+          <p> </p>
+        </div>
+        <div title="52 – LA RENCONTRE" type="chapter">
+          <p> 52 – LA RENCONTRE </p>
+          <p> Je l'ai trouvée comme un trésor, dans un champ, sous un buisson de myrte, enveloppée de la gorge aux pieds dans un péplos jaune brodé de bleu. </p>
+          <p> « Je n'ai pas d'amie, m'a-t-elle dit ; car la ville la plus proche est à quarante stades d'ici. Je vis seule avec ma mère qui est veuve et toujours triste. Si tu veux, je te suivrai. </p>
+          <p> « Je te suivrai jusqu'à ta maison, fût-elle de l'autre côté de l'île et je vivrai chez toi jusqu'à ce que tu me renvoies. Ta main est tendre, tes yeux sont bleus. </p>
+          <p> « Partons. Je n'emporte rien avec moi, que la petite Aphroditê qui est pendue à mon collier. Nous la mettrons près de la tienne, et nous leur donnerons des roses en récompense de chaque nuit. » </p>
+          <p> </p>
+        </div>
+        <div title="53 – LA PETITE APHRODITE DE TERRE CUITE" type="chapter">
+          <p> 53 – LA PETITE APHRODITE DE TERRE CUITE </p>
+          <p> La petite Aphroditê gardienne qui protège Mnasidika fut modelée à Camiros par un potier fort habile. Elle est grande comme le pouce, et de terre fine et jaune. </p>
+          <p> Ses cheveux retombent et s'arrondissent sur ses épaules étroites. Ses yeux sont longuement fendus et sa bouche est toute petite. Car elle est la Très-Belle. </p>
+          <p> De la main droite, elle désigne sa divinité, qui est criblée de petits trous sur le bas-ventre et le long des aines. Car elle est la Très-Amoureuse. </p>
+          <p> Du bras gauche elle soutient ses mamelles pesantes et rondes. Entre ses hanches élargies se gonfle un ventre fécondé. Car elle est la Mère-de-toutes-choses. </p>
+          <p> </p>
+        </div>
+        <div title="54 – LE DESIR" type="chapter">
+          <p> 54 – LE DESIR </p>
+          <p> Elle entra, et passionnément, les yeux fermés à demi, elle unit ses lèvres aux miennes et nos langues se connurent… Jamais il n'y eut dans ma vie un baiser comme celui-là. </p>
+          <p> Elle était debout contre moi, toute en amour et consentante. Un de mes genoux, peu à peu, montait entre ses cuisses chaudes qui cédaient comme pour un amant. </p>
+          <p> Ma main rampante sur sa tunique cherchait à deviner le corps dérobé, qui tour à tour onduleux se pliait, ou cambré se raidissait avec des frémissements de la peau. </p>
+          <p> De ses yeux en délire elle désignait le lit ; mais nous n'avions pas le droit d'aimer avant la cérémonie des noces, et nous nous séparâmes brusquement. </p>
+          <p> </p>
+        </div>
+        <div title="55 – LES NOCES" type="chapter">
+          <p> 55 – LES NOCES </p>
+          <p> Le matin, on fit le repas de noces, dans la maison d'Acalanthis qu'elle avait adoptée pour mère. Mnasidika portait le voile blanc et moi la tunique virile. </p>
+          <p> Et ensuite, au milieu de vingt femmes, elle a mis ses robes de fête. On l'a parfumée de bakkaris, on l'a poudrée de poudre d'or, on lui a ôté ses bijoux. </p>
+          <p> Dans sa chambre pleine de feuillages, elle m'a attendue comme un époux. Et je l'ai emmenée sur un char entre moi et la nymphagogue, et les passants nous acclamaient. </p>
+          <p> On a chanté le chant nuptial ; les flûtes ont chanté aussi. J'ai emporté Mnasidika sous les épaules et sous les genoux, et nous avons passé le seuil couvert de roses. </p>
+          <p> </p>
+        </div>
+        <div title="56 – LE LIT (non traduite)" type="chapter">
+          <p> 56 – LE LIT (non traduite) </p>
+          <p> </p>
+        </div>
+        <div title="57 – LE PASSE QUI SURVIT" type="chapter">
+          <p> 57 – LE PASSE QUI SURVIT </p>
+          <p> Je laisserai le lit comme elle l'a laissé, défait et rompu, les draps mêlés, afin que la forme de son corps reste empreinte à côté du mien. </p>
+          <p> Jusqu'à demain je n'irai pas au bain, je ne porterai pas de vêtements et je ne peignerai pas mes cheveux, de peur d'effacer les caresses. </p>
+          <p> Ce matin, je ne mangerai pas, ni ce soir, et sur mes lèvres je ne mettrai ni rouge ni poudre, afin que son baiser demeure. </p>
+          <p> Je laisserai les volets clos et je n'ouvrirai pas la porte, de peur que le souvenir resté ne s'en aille avec le vent. </p>
+          <p> </p>
+        </div>
+        <div title="58 – LA METAMORPHOSE" type="chapter">
+          <p> 58 – LA METAMORPHOSE </p>
+          <p> Je fus jadis amoureuse de la beauté des jeunes hommes, et le souvenir de leurs paroles, jadis, me tint éveillée. </p>
+          <p> Je me souviens d'avoir gravé un nom dans l'écorce d'un platane. Je me souviens d'avoir laissé un morceau de ma tunique dans un chemin où passait quelqu'un. </p>
+          <p> Je me souviens d'avoir aimé…OPannychis, mon enfant, en quelles mains t'ai-je laissée ? comment, ô malheureuse, t'ai-je abandonnée ? </p>
+          <p> Aujourd'hui Mnasidika seule, et pour toujours, me possède. Qu'elle reçoive en sacrifice le bonheur de ceux que j'ai quittés pour elle. </p>
+          <p> </p>
+        </div>
+        <div title="59 – LE TOMBEAU SANS NOM" type="chapter">
+          <p> 59 – LE TOMBEAU SANS NOM </p>
+          <p> Mnasidika m'ayant prise par la main me mena hors des portes de la ville, jusqu'à un petit champ inculte où il y avait une stèle de marbre. Et elle me dit : « Celle-ci fut l'amie de ma mère. » </p>
+          <p> Alors je sentis un grand frisson, et sans cesser de lui tenir la main, je me penchai sur son épaule, afin de lire les quatre vers entre la coupe creuse et le serpent : </p>
+          <p> « Ce n'est pas la mort qui m'a enlevée, mais les Nymphes des fontaines. Je repose ici sous une terre légère avec la chevelure coupée de Xantho. Qu'elle seule me pleure. Je ne dis pas mon nom. » </p>
+          <p> Longtemps nous sommes restées debout, et nous n'avons pas versé la libation. Car comment appeler une âme inconnue d'entre les foules de l'Hadès ? </p>
+          <p> </p>
+        </div>
+        <div title="60 – LES TROIS BEAUTES DE MNASIDIKA" type="chapter">
+          <p> 60 – LES TROIS BEAUTES DE MNASIDIKA </p>
+          <p> Pour que Mnasidika soit protégée des dieux, j'ai sacrifié à l'Aphrodita-qui-aime-les-sourires, deux lièvres mâles et deux colombes. </p>
+          <p> Et j'ai sacrifié à l'Arès deux coqs armés pour la lutte et à la sinistre Hekata deux chiens qui hurlaient sous le couteau. </p>
+          <p> Et ce n'est pas sans raison que j'ai imploré ces trois Immortels, car Mnasidika porte sur son visage le reflet de leur triple divinité : </p>
+          <p> Ses lèvres sont rouges comme le cuivre, ses cheveux bleuâtres comme le fer, et ses yeux noirs, comme l'argent. </p>
+          <p> </p>
+        </div>
+        <div title="61 – L'ANTRE DES NYMPHES" type="chapter">
+          <p> 61 – L'ANTRE DES NYMPHES </p>
+          <p> Tes pieds sont plus délicats que ceux de Thétis argentine. Entre tes bras croisés tu réunis tes seins, et tu les berces mollement comme deux beaux corps de colombes. </p>
+          <p> Sous tes cheveux tu dissimules tes yeux mouillés, ta bouche tremblante et les fleurs rouges de tes oreilles ; mais rien n'arrêtera mon regard ni le souffle chaud du baiser. </p>
+          <p> Car, dans le secret de ton corps, c'est toi, Mnasidika aimée, qui recèles l'antre des nymphes dont parle le vieil Homêros, le lieu où les naïades tissent des linges de pourpre, </p>
+          <p> Le lieu où coulent, goutte à goutte, des sources intarissables, et d'où la porte du Nord laisse descendre les hommes et où la porte du Sud laisse entrer les Immortels. </p>
+          <p> </p>
+        </div>
+        <div title="62 – LES SEINS DE MNASIDIKA" type="chapter">
+          <p> 62 – LES SEINS DE MNASIDIKA </p>
+          <p> Avec soin, elle ouvrit d'une main sa tunique et me tendit ses seins tièdes et doux, ainsi qu'on offre à la déesse une paire de tourterelles vivantes. </p>
+          <p> « Aime-les bien, me dit-elle ; je les aime tant ! Ce sont des chéris, des petits enfants. Je m'occupe d'eux quand je suis seule. Je joue avec eux ; je leur fais plaisir. </p>
+          <p> « Je les lave avec du lait. Je les poudre avec des fleurs. Mes cheveux fins qui les essuient sont chers à leurs petits bouts. Je les caresse en frissonnant. Je les couche dans de la laine. </p>
+          <p> « Puisque je n'aurai jamais d'enfants, sois leur nourrisson, mon amour ; et, puisqu'ils sont si loin de ma bouche, donne-leur des baisers de ma part. » </p>
+          <p> </p>
+        </div>
+        <div title="63 – LA CONTEMPLATION (non traduite)" type="chapter">
+          <p> 63 – LA CONTEMPLATION (non traduite) </p>
+          <p> </p>
+        </div>
+        <div title="64 – LA POUPEE" type="chapter">
+          <p> 64 – LA POUPEE </p>
+          <p> Je lui ai donné une poupée, une poupée de cire aux joues roses. Ses bras sont attachés par de petites chevilles, et ses jambes elles-mêmes se plient. </p>
+          <p> Quand nous sommes ensemble elle la couche entre nous et c'est notre enfant. Le soir elle la berce et lui donne le sein avant de l'endormir. </p>
+          <p> Elle lui a tissé trois petites tuniques, et nous lui donnons des bijoux le jour des Aphrodisies, des bijoux et des fleurs aussi. </p>
+          <p> Elle a soin de sa vertu et ne la laisse pas sortir sans elle ; pas au soleil, surtout, car la petite poupée fondrait en gouttes de cire. </p>
+          <p> </p>
+        </div>
+        <div title="65 – TENDRESSES" type="chapter">
+          <p> 65 – TENDRESSES </p>
+          <p> Ferme doucement tes bras, comme une ceinture, sur moi. O touche, ô touche ma peau ainsi ! Ni l'eau ni la brise de midi ne sont plus douces que ta main. </p>
+          <p> Aujourd'hui chéris-moi, petite sœur, c'est ton tour. Souviens-toi des tendresses que je t'ai apprises la nuit dernière, et près de moi qui suis lasse agenouille-toi sans parler. </p>
+          <p> Tes lèvres descendent de mes lèvres. Tous tes cheveux défaits les suivent, comme la caresse suit le baiser. Ils glissent sur mon sein gauche ; ils me cachent tes yeux. </p>
+          <p> Donne-moi ta main. Qu'elle est chaude ! Serre la mienne, ne la quitte pas. Les mains mieux que les bouches s'unissent, et leur passion ne s'égale à rien. </p>
+          <p> </p>
+        </div>
+        <div title="66 – JEUX" type="chapter">
+          <p> 66 – JEUX </p>
+          <p> Plus que ses balles ou sa poupée, je suis pour elle un jouet. De toutes les parties de mon corps elle s'amuse comme une enfant, pendant de longues heures, sans parler. </p>
+          <p> Elle défait ma chevelure et la reforme selon son caprice, tantôt nouée sous le menton comme une étoffe épaisse, ou tordue en chignon ou tressée jusqu'au bout. </p>
+          <p> Elle regarde avec étonnement la couleur de mes cils, le pli de mon coude. Parfois elle me fait mettre à genoux et poser les mains sur les draps ; </p>
+          <p> Alors (et c'est un de ses jeux) elle glisse sa petite tête par-dessous et imite le chevreau tremblant qui s'allaite au ventre de sa mère. </p>
+          <p> </p>
+        </div>
+        <div title="67 – EPISODE (non traduite)" type="chapter">
+          <p> 67 – EPISODE (non traduite) </p>
+          <p> </p>
+        </div>
+        <div title="68 – PENOMBRE" type="chapter">
+          <p> 68 – PENOMBRE </p>
+          <p> Sous le drap de laine transparent nous nous sommes glissées, elle et moi. Même nos têtes étaient blotties, et la lampe éclairait l'étoffe au-dessus de nous. </p>
+          <p> Ainsi je voyais son corps chéri dans une mystérieuse lumière. Nous étions plus près l'une de l'autre, plus libres, plus intimes, plus nues. « Dans la même chemise, » disait-elle. </p>
+          <p> Nous étions restées coiffées pour être encore plus découvertes, et dans l'air étroit du lit, deux odeurs de femmes montaient, des deux cassolettes naturelles. </p>
+          <p> Rien au monde, pas même la lampe, ne nous a vues cette nuit-là. Laquelle de nous fut aimée, elle seule et moi le pourrions dire. Mais les hommes n'en sauront rien. </p>
+          <p> </p>
+        </div>
+        <div title="69 – LA DORMEUSE" type="chapter">
+          <p> 69 – LA DORMEUSE </p>
+          <p> Elle dort dans ses cheveux défaits, les mains mêlées derrière la nuque. Rêve-t-elle ? Sa bouche est ouverte ; elle respire doucement. </p>
+          <p> Avec un peu de cygne blanc, j'essuie, mais sans l'éveiller, la sueur de ses bras, la fièvre de ses joues. Ses paupières fermées sont deux fleurs bleues. </p>
+          <p> Tout doucement je vais me lever ; j'irai puiser l'eau, traire la vache et demander du feu aux voisins. Je veux être frisée et vêtue quand elle ouvrira les yeux. </p>
+          <p> Sommeil, demeure encore longtemps entre ses beaux cils recourbés et continue la nuit heureuse par un songe de bon augure. </p>
+          <p> </p>
+        </div>
+        <div title="70 – LE BAISER" type="chapter">
+          <p> 70 – LE BAISER </p>
+          <p> Je baiserai d'un bout à l'autre les longues ailes noires de ta nuque, ô doux oiseau, colombe prise dont le cœur bondit sous ma main. </p>
+          <p> Je prendrai ta bouche dans ma bouche comme un enfant prend le sein de sa mère. Frissonne !… car le baiser pénètre profondément et suffirait à l'amour. </p>
+          <p> Je promènerai mes lèvres comme du feu, sur tes bras, autour de ton cou, et je ferai tourner sur tes côtes chatouilleuses la caresse étirante des ongles. </p>
+          <p> Ecoute bruire en ton oreille toute la rumeur de la mer… Mnasidika ! ton regard m'importune. J'enfermerai dans mon baiser tes paupières frêles et brûlantes. </p>
+          <p> </p>
+        </div>
+        <div title="71 – LES SOINS JALOUX" type="chapter">
+          <p> 71 – LES SOINS JALOUX </p>
+          <p> Il ne faut pas que tu te coiffes, de peur que le fer trop chaud ne brûle ta nuque ou tes cheveux. Tu les laisseras sur tes épaules et répandus le long de tes bras. </p>
+          <p> Il ne faut pas que tu t'habilles, de peur qu'une ceinture ne rougisse les plis effilés de ta hanche. Tu resteras nue comme une petite fille. </p>
+          <p> Même il ne faut pas que tu te lèves, de peur que tes pieds fragiles ne s'endolorissent en marchant. Tu reposeras au lit, ô victime d'Erôs, et je panserai ta pauvre plaie. </p>
+          <p> Car je ne veux voir sur ton corps d'autres marques, Mnasidika, que la tache d'un baiser trop long, l'égratignure d'un ongle aigu, ou la barre pourprée de mon étreinte. </p>
+          <p> </p>
+        </div>
+        <div title="72 – L'ETREINTE EPERDUE" type="chapter">
+          <p> 72 – L'ETREINTE EPERDUE </p>
+          <p> Aime-moi, non pas avec des sourires, des flûtes ou des fleurs tressées, mais avec ton cœur et tes larmes, comme je t'aime avec ma poitrine et avec mes gémissements. </p>
+          <p> Quand tes seins s'alternent à mes seins, quand je sens ta vie contre ma vie, quand tes genoux se dressent derrière moi, alors ma bouche haletante ne sait même plus trouver la tienne. </p>
+          <p> Etreins-moi comme je t'étreins ! Vois, la lampe vient de mourir, nous roulons dans la nuit ; mais je presse ton corps brûlant et j'entends ta plainte perpétuelle… </p>
+          <p> Gémis ! gémis ! gémis ! ô femme ! Erôs nous traîne dans la douleur. Tu souffrirais moins sur ce lit pour mettre un enfant au monde que pour accoucher de ton amour. </p>
+          <p> </p>
+        </div>
+        <div title="73 – REPRISE (non traduite)" type="chapter">
+          <p> 73 – REPRISE (non traduite) </p>
+          <p> </p>
+        </div>
+        <div title="74 – LE COEUR" type="chapter">
+          <p> 74 – LE COEUR </p>
+          <p> Haletante, je lui pris la main et je l'appliquai fortement sous la peau moite de mon sein gauche. Et je tournais la tête ici et là et je remuais les lèvres sans parler. </p>
+          <p> Mon cœur affolé, brusque et dur, battait et battait ma poitrine, comme un satyre emprisonné heurterait, ployé dans une outre. Elle me dit : « Ton cœur te fait mal… » </p>
+          <p> «OMnasidika, répondis-je, le cœur des femmes n'est pas là. Celui-ci est un pauvre oiseau, une colombe qui remue ses ailes faibles. Le cœur des femmes est plus terrible. </p>
+          <p> « Semblable à une petite baie de myrte, il brûle dans la flamme rouge et sous une écume abondante. C'est là que je me sens mordue par la vorace Aphroditê. » </p>
+          <p> </p>
+        </div>
+        <div title="75 – PAROLES DANS LA NUIT" type="chapter">
+          <p> 75 – PAROLES DANS LA NUIT </p>
+          <p> Nous reposons, les yeux fermés ; le silence est grand autour de notre couche. Nuits ineffables de l'été ! Mais elle, qui me croit endormie, pose sa main chaude sur mon bras. </p>
+          <p> Elle murmure : « Bilitis, tu dors ? » Le cœur me bat, mais sans répondre, je respire régulièrement comme une femme couchée dans les rêves. Alors elle commence à parler : </p>
+          <p> « Puisque tu ne m'entends pas, dit-elle, ah ! que je t'aime ! » Et elle répète mon nom. « Bilitis… Bilitis… » Et elle m'effleure du bout de ses doigts tremblants : </p>
+          <p> « C'est à moi, cette bouche ! à moi seule ! Y en a-t-il une plus belle au monde ? Ah ! mon bonheur, mon bonheur ! C'est à moi ces bras nus, cette nuque et ces cheveux… » </p>
+          <p> </p>
+        </div>
+        <div title="76 – L'ABSENCE" type="chapter">
+          <p> 76 – L'ABSENCE </p>
+          <p> Elle est sortie, elle est loin, mais je la vois, car tout est plein d'elle dans cette chambre, tout lui appartient, et moi comme le reste. </p>
+          <p> Ce lit encore tiède où je laisse errer ma bouche, est foulé à la mesure de son corps. Dans ce coussin tendre a dormi sa petite tête enveloppée de cheveux. </p>
+          <p> Ce bassin est celui où elle s'est lavée ; ce peigne a pénétré les nœuds de sa chevelure emmêlée. Ces pantoufles prirent ses pieds nus. Ces poches de gaze continrent ses seins. </p>
+          <p> Mais ce que je n'ose toucher du doigt, c'est ce miroir où elle a vu ses meurtrissures toutes chaudes, et où subsiste peut-être encore le reflet de ses lèvres mouillées. </p>
+          <p> </p>
+        </div>
+        <div title="77 – L'AMOUR" type="chapter">
+          <p> 77 – L'AMOUR </p>
+          <p> Hélas, si je pense à elle, ma gorge se dessèche, ma tête retombe, mes seins durcissent et me font mal, je frissonne et je pleure en marchant. </p>
+          <p> Si je la vois, mon cœur s'arrête, mes mains tremblent, mes pieds se glacent, une rougeur de feu monte à mes joues, mes tempes battent douloureusement. </p>
+          <p> Si je la touche, je deviens folle, mes bras se raidissent, mes genoux défaillent. Je tombe devant elle, et je me couche comme une femme qui va mourir. </p>
+          <p> De tout ce qu'elle me dit je me sens blessée. Son amour est une torture et les passants entendent mes plaintes… Hélas ! Comment puis-je l'appeler Bien-Aimée ? </p>
+          <p> </p>
+        </div>
+        <div title="78 – LA PURIFICATION" type="chapter">
+          <p> 78 – LA PURIFICATION </p>
+          <p> Te voilà ! défais tes bandelettes, et tes agrafes et ta tunique. Ote jusqu'à tes sandales, jusqu'aux rubans de tes jambes, jusqu'à la bande de ta poitrine. </p>
+          <p> Lave le noir de tes sourcils, et le rouge de tes lèvres. Efface le blanc de tes épaules et défrise tes cheveux dans l'eau. </p>
+          <p> Car je veux t'avoir toute pure, telle que tu naquis sur le lit, aux pieds de ta mère féconde et devant ton père glorieux, </p>
+          <p> Si chaste que ma main dans ta main te fera rougir jusqu'à la bouche, et qu'un mot de moi sous ton oreille affolera tes yeux tournoyants. </p>
+          <p> </p>
+        </div>
+        <div title="79 – LA BERCEUSE DE MNASIDIKA" type="chapter">
+          <p> 79 – LA BERCEUSE DE MNASIDIKA </p>
+          <p> Ma petite enfant, si peu d'années que j'aie de plus que toi-même, je t'aime, non pas comme une amante, mais comme si tu étais sortie de mes entrailles laborieuses. </p>
+          <p> Lorsque étendue sur mes genoux, tes deux bras frêles autour de moi, tu cherches mon sein, la bouche tendue, et me tettes avec lenteur entre tes lèvres palpitantes, </p>
+          <p> Alors je rêve qu'autrefois, j'ai allaité réellement cette bouche douillette, souple et baignée, ce vase myrrhin couleur de pourpre où le bonheur de Bilitis est mystérieusement enfermé. </p>
+          <p> Dors. Je te bercerai d'une main sur mon genou qui se lève et s'abaisse. Dors ainsi. Je chanterai pour toi les petites chansons lamentables qui endorment les nouveaux-nés… </p>
+          <p> </p>
+        </div>
+        <div title="80 – PROMENADE AU BORD DE LA MER" type="chapter">
+          <p> 80 – PROMENADE AU BORD DE LA MER </p>
+          <p> Comme nous marchions sur la plage, sans parler, et enveloppées jusqu'au menton dans nos robes de laine sombre, des jeunes filles joyeuses ont passé. </p>
+          <p> « Ah ! c'est Bilitis et Mnasidika ! Voyez, le beau petit écureuil que nous avons pris : il est doux comme un oiseau et effaré comme un lapin. </p>
+          <p> « Chez Lydé nous le mettrons en cage et nous lui donnerons beaucoup de lait avec des feuilles de salade. C'est une femelle, elle vivra longtemps. » </p>
+          <p> Et les folles sont parties en courant. Pour nous, sans parler nous nous sommes assises, moi sur une roche, elle sur le sable, et nous avons regardé la mer. </p>
+          <p> </p>
+        </div>
+        <div title="81 – L'OBJET" type="chapter">
+          <p> 81 – L'OBJET </p>
+          <p> Salut, Bilitis, Mnasidika, salut. – Assieds-toi. Comment va ton mari ? – Trop bien. Ne lui dites pas que vous m'avez vue. Il me tuerait s'il me savait ici. – Sois sans crainte. </p>
+          <p> – Et voilà votre chambre ? et voilà votre lit ? Pardonne-moi. Je suis curieuse. – Tu connais cependant le lit de Myrrhinê. – Si peu. – On la dit jolie. – Et lascive, ô ma chère ! mais taisons-nous. </p>
+          <p> – Que voulais-tu de moi ? – Que tu me prêtes… – Parle. – Je n'ose nommer l'objet. – Nous n'en avons pas. – Vraiment ? – Mnasidika est vierge. – Alors, où en acheter ? – Chez le cordonnier Drakhôn. </p>
+          <p> – Dis aussi : qui te vend ton fil à broder ? Le mien se casse dès qu'on le regarde. – Je le fais moi-même, mais Naïs en vend d'excellent. – A quel prix ? – Trois oboles. – C'est cher. Et l'objet ? – Deux drachmes – Adieu. » </p>
+          <p> </p>
+        </div>
+        <div title="82 – SOIR PRES DU FEU" type="chapter">
+          <p> 82 – SOIR PRES DU FEU </p>
+          <p> L'hiver est dur, Mnasidika. Tout est froid, hors notre lit. Lève-toi, cependant, viens avec moi, car j'ai allumé un grand feu avec des souches mortes et du bois fendu. </p>
+          <p> Nous nous chaufferons accroupies, toutes nues, nos cheveux sur le dos, et nous boirons du lait dans la même coupe et nous mangerons des gâteaux au miel. </p>
+          <p> Comme la flamme est sonore et gaie ! N'es-tu pas trop près ? Ta peau devient rouge. Laisse-moi la baiser partout où le feu l'a faite brûlante. </p>
+          <p> Au milieu des tisons ardents je vais chauffer le fer et te coiffer ici. Avec les charbons éteints j'écrirai ton nom sur le mur. </p>
+          <p> </p>
+        </div>
+        <div title="83 – PRIERES" type="chapter">
+          <p> 83 – PRIERES </p>
+          <p> ue veux-tu ? dis-le. S'il le faut, je vendrai mes derniers bijoux pour qu'une esclave attentive guette le désir de tes yeux, la soif quelconque de tes lèvres. </p>
+          <p> Si le lait de nos chèvres te semble fade, je louerai pour toi, comme pour un enfant, une nourrice aux mamelles gonflées qui chaque matin t'allaitera. </p>
+          <p> Si notre lit te semble rude, j'achèterai tous les coussins mous, toutes les couvertures de soie, tous les draps fourrés de plumes des marchandes amathusiennes. </p>
+          <p> Tout. Mais il faut que je te suffise, et si nous dormions sur la terre, il faut que la terre te soit plus douce que le lit chaud d'une étrangère. </p>
+          <p> </p>
+        </div>
+        <div title="84 – LES YEUX" type="chapter">
+          <p> 84 – LES YEUX </p>
+          <p> Larges yeux de Mnasidika, combien vous me rendez heureuse quand l'amour noircit vos paupières et vous anime et vous noie sous les larmes ; </p>
+          <p> Mais combien folle, quand vous vous détournez ailleurs, distraits par une femme qui passe ou par un souvenir qui n'est pas le mien. </p>
+          <p> Alors mes joues se creusent, mes mains tremblent et je souffre… Il me semble que de toutes parts, et devant vous ma vie s'en va. </p>
+          <p> Larges yeux de Mnasidika, ne cessez pas de me regarder ! ou je vous trouerai avec mon aiguille et vous ne verrez plus que la nuit terrible. </p>
+          <p> </p>
+        </div>
+        <div title="85 – LES FARDS" type="chapter">
+          <p> 85 – LES FARDS </p>
+          <p> Tout, et ma vie, et le monde, et les hommes, tout ce qui n'est pas elle n'est rien. Tout ce qui n'est pas elle, je te le donne, passant. </p>
+          <p> Sait-elle que de travaux j'accomplis pour être belle à ses yeux, par ma coiffure et par mes fards, par mes robes et mes parfums ? </p>
+          <p> Aussi longtemps je tournerais la meule, je ferais plonger la rame ou je bêcherais la terre, s'il fallait à ce prix la retenir ici. </p>
+          <p> Mais faites qu'elle ne l'apprenne jamais, Déesses qui veillez sur nous ! Le jour où elle saura que je l'aime elle cherchera une autre femme. </p>
+          <p> </p>
+        </div>
+        <div title="86 – LE SILENCE DE MNASIDIKA" type="chapter">
+          <p> 86 – LE SILENCE DE MNASIDIKA </p>
+          <p> Elle avait ri toute la journée, et même elle s'était un peu moquée de moi. Elle avait refusé de m'obéir, devant plusieurs femmes étrangères. </p>
+          <p> Quand nous sommes rentrées, j'ai affecté de ne pas lui parler, et comme elle se jetait à mon cou, en disant : « Tu es fâchée ? » je lui ai dit : </p>
+          <p> « Ah ! tu n'es plus comme autrefois, tu n'es plus comme le premier jour. Je ne te reconnais plus, Mnasidika. » Elle ne m'a rien répondu ; </p>
+          <p> Mais elle a mis tous ses bijoux qu'elle ne portait plus depuis longtemps, et la même robe jaune brodée de bleu que le jour de notre rencontre. </p>
+          <p> </p>
+        </div>
+        <div title="87 – SCENE" type="chapter">
+          <p> 87 – SCENE </p>
+          <p> Où étais-tu ? – Chez la marchande de fleurs. J'ai acheté des iris très beaux. Les voici, je te les apporte. – Pendant si longtemps tu as acheté quatre fleurs ? – La marchande m'a retenue. </p>
+          <p> – Tu as les joues pâles et les yeux brillants. – C'est la fatigue de la route. – Tes cheveux sont mouillés et mêlés. – C'est la chaleur et c'est le vent qui m'ont toute décoiffée. </p>
+          <p> – On a dénoué ta ceinture. J'avais fait le nœud moi-même, plus lâche que celui-ci. – Si lâche qu'elle s'est défaite ; un esclave qui passait me l'a renouée. </p>
+          <p> – Il y a une trace à ta robe. – C'est l'eau des fleurs qui est tombée. – Mnasidika, ma petite âme, tes iris sont les plus beaux qu'il y ait dans tout Mytilène. – Je le sais bien, je le sais bien. » </p>
+          <p> </p>
+        </div>
+        <div title="88 – ATTENTE" type="chapter">
+          <p> 88 – ATTENTE </p>
+          <p> Le soleil a passé toute la nuit chez les morts depuis que je l'attends, assise sur mon lit, lasse d'avoir veillé. La mèche de la lampe épuisée a brûlé jusqu'à la fin. </p>
+          <p> Elle ne reviendra plus : voici la dernière étoile. Je sais bien qu'elle ne viendra plus. Je sais même le nom que je hais. Et cependant j'attends encore. </p>
+          <p> Qu'elle vienne maintenant ! oui, qu'elle vienne, la chevelure défaite et sans roses, la robe souillée, tachée, froissée, la langue sèche et les paupières noires ! </p>
+          <p> Dès qu'elle ouvrira la porte, je lui dirai… mais la voici… C'est sa robe que je touche, ses mains, ses cheveux, sa peau. Je l'embrasse d'une bouche éperdue, et je pleure. </p>
+          <p> </p>
+        </div>
+        <div title="89 – LA SOLITUDE" type="chapter">
+          <p> 89 – LA SOLITUDE </p>
+          <p> Pour qui maintenant farderais-je mes lèvres ? Pour qui polirais-je mes ongles ? Pour qui parfumerais-je mes cheveux ? </p>
+          <p> Pour qui mes seins poudrés de rouge, s'ils ne doivent plus la tenter ? Pour qui mes bras lavés de lait s'ils ne doivent plus jamais l'étreindre ? </p>
+          <p> Comment pourrais-je dormir ? Comment pourrais-je me coucher ? Ce soir ma main, dans tout mon lit, n'a pas trouvé sa main chaude. </p>
+          <p> Je n'ose plus rentrer chez moi, dans la chambre affreusement vide. Je n'ose plus rouvrir la porte. Je n'ose même plus rouvrir les yeux. </p>
+          <p> </p>
+        </div>
+        <div title="90 – LETTRE" type="chapter">
+          <p> 90 – LETTRE </p>
+          <p> Cela est impossible, impossible. Je t'en supplie à genoux, avec larmes, toutes les larmes que j'ai pleurées sur cette horrible lettre, ne m'abandonne pas ainsi. </p>
+          <p> Songes-tu combien c'est affreux de te reperdre à jamais pour la seconde fois, après avoir eu l'immense joie d'espérer te reconquérir. Ah ! mes amours ! ne sentez-vous donc pas à quel point je vous aime ! </p>
+          <p> Ecoute-moi. Consens à me revoir encore une fois. Veux-tu être demain, au soleil couchant, devant ta porte ? Demain, ou le jour suivant. Je viendrai te prendre. Ne me refuse pas cela. </p>
+          <p> La dernière fois peut-être, soit, mais encore cette fois, encore cette fois ! Je te le demande, je te le crie, et songe que de ta réponse dépend le reste de ma vie. </p>
+          <p> </p>
+        </div>
+        <div title="91 – LA TENTATIVE" type="chapter">
+          <p> 91 – LA TENTATIVE </p>
+          <p> Tu étais jalouse de nous, Gyrinno, fille trop ardente. Que de bouquets as-tu fait suspendre au marteau de notre porte ! Tu nous attendais au passage et tu nous suivais dans la rue. </p>
+          <p> Maintenant tu es selon tes vœux, étendue à la place aimée, et la tête sur ce coussin où flotte une autre odeur de femme. Tu es plus grande qu'elle n'était. Ton corps différent m'étonne. </p>
+          <p> Regarde, je t'ai enfin cédé. Oui, c'est moi. Tu peux jouer avec mes seins, caresser ma hanche, ouvrir mes genoux. Mon corps tout entier s'est livré à tes lèvres infatigables, – hélas ! </p>
+          <p> Ah ! Gyrinno ! avec l'amour mes larmes aussi débordent ! Essuie-les avec tes cheveux, ne les baise pas, ma chérie ; et enlace moi de plus près encore pour maîtriser mes tremblements. </p>
+          <p> </p>
+        </div>
+        <div title="92 – L'EFFORT" type="chapter">
+          <p> 92 – L'EFFORT </p>
+          <p> Encore ! assez de soupirs et de bras étirés ! Recommence ! Penses-tu donc que l'amour soit un délassement ? Gyrinno, c'est une tâche, et de toutes la plus rude. </p>
+          <p> Réveille-toi ! Il ne faut pas que tu dormes ! Que m'importent tes paupières bleues et la barre de douleur qui brûle tes jambes maigres. Astarté bouillonne dans mes reins. </p>
+          <p> Nous nous sommes couchées avant le crépuscule. Voici déjà la mauvaise aurore ; mais je ne suis pas lasse pour si peu. Je ne dormirai pas avant le second soir. </p>
+          <p> Je ne dormirai pas : il ne faut pas que tu dormes. Oh ! comme la saveur du matin est amère ! Gyrinno, apprécie-la. Les baisers sont plus difficiles, mais plus étranges, et plus lents. </p>
+          <p> </p>
+        </div>
+        <div title="93 – MYRRHINE (non traduite)" type="chapter">
+          <p> 93 – MYRRHINE (non traduite) </p>
+          <p> </p>
+        </div>
+        <div title="94 – A GYRINNO" type="chapter">
+          <p> 94 – A GYRINNO </p>
+          <p> Ne crois pas que je t'aie aimée. Je t'ai mangée comme une figue mûre, je t'ai bue comme une eau ardente, je t'ai portée autour de moi comme une ceinture de peau. </p>
+          <p> Je me suis amusée de ton corps, parce que tu as les cheveux courts, les seins en pointe sur ton corps maigre, et les mamelons noirs comme deux petites dattes. </p>
+          <p> Comme il faut de l'eau et des fruits, une femme aussi est nécessaire, mais déjà je ne sais plus ton nom, toi qui as passé dans mes bras comme l'ombre d'une autre adorée. </p>
+          <p> Entre ta chair et la mienne, un rêve brûlant m'a possédée. Je te serrais sur moi comme sur une blessure et je criais : Mnasidika ! Mnasidika ! Mnasidika ! </p>
+          <p> </p>
+        </div>
+        <div title="95 – LE DERNIER ESSAI" type="chapter">
+          <p> 95 – LE DERNIER ESSAI </p>
+          <p> ue veux-tu, vieille ? – Te consoler. – C'est peine perdue. – On m'a dit que depuis ta rupture, tu allais d'amour en amour sans trouver l'oubli ni la paix. Je viens te proposer quelqu'un. </p>
+          <p> – Parle. – C'est une jeune esclave née à Sardes. Elle n'a pas sa pareille au monde, car elle est à la fois homme et femme, bien que sa poitrine et ses longs cheveux et sa voix claire fassent illusion. </p>
+          <p> – Son âge ? – Seize ans. – Sa taille ? – Grande. Elle n'a connu personne ici, hors Psappha qui en est éperdument amoureuse et a voulu me l'acheter vingt mines. Si tu la loues, elle est à toi. – Et qu'en ferai-je ? </p>
+          <p> Voici vingt-deux nuits que j'essaye en vain d'échapper au souvenir… Soit, je prendrai celle-ci encore, mais préviens la pauvre petite, pour qu'elle ne s'effraye point si je sanglote dans ses bras. » </p>
+          <p> </p>
+        </div>
+        <div title="96 – LE SOUVENIR DECHIRANT" type="chapter">
+          <p> 96 – LE SOUVENIR DECHIRANT </p>
+          <p> Je me souviens… (à quelle heure du jour ne l'ai-je pas devant mes yeux ?) je me souviens de la façon dont Elle soulevait ses cheveux avec ses faibles doigts si pâles. </p>
+          <p> Je me souviens d'une nuit qu'elle passa, la joue sur mon sein, si doucement, que le bonheur me tint éveillée, et le lendemain elle avait au visage la marque de la papille ronde. </p>
+          <p> Je la vois tenant sa tasse de lait et me regardant de côté, avec un sourire. Je la vois, poudrée et coiffée, ouvrant ses grands yeux devant son miroir, et retouchant du doigt le rouge de ses lèvres. </p>
+          <p> Et surtout, si mon désespoir est une perpétuelle torture, c'est que je sais, instant par instant, comment elle défaille dans les bras de l'autre, et ce qu'elle lui demande et ce qu'elle lui donne. </p>
+          <p> </p>
+        </div>
+        <div title="97 – A LA POUPEE DE CIRE" type="chapter">
+          <p> 97 – A LA POUPEE DE CIRE </p>
+          <p> Poupée de cire, jouet chéri qu'elle appelait son enfant, elle t'a laissée toi aussi et elle t'oublie comme moi, qui fus avec elle ton père ou ta mère, je ne sais. </p>
+          <p> La pression de ses lèvres avaient déteint tes petites joues ; et à ta main gauche voici ce doigt cassé qui la fit tant pleurer. Cette petite cyclas que tu portes, c'est elle qui te l'a brodée. </p>
+          <p> A l'entendre, tu savais déjà lire. Pourtant tu n'étais pas sevrée, et le soir, penchée sur toi, elle ouvrait sa tunique et te donnait le sein, « afin que tu ne pleures pas », disait-elle. </p>
+          <p> Poupée, si je voulais la revoir, je te donnerais à l'Aphroditê, comme le plus cher de mes cadeaux. Mais je veux penser qu'elle est tout à fait morte. </p>
+          <p> </p>
+        </div>
+        <div title="98 – CHANT FUNEBRE" type="chapter">
+          <p> 98 – CHANT FUNEBRE </p>
+          <p> Chantez un chant funèbre, muses Mytiléniennes, chantez ! La terre est sombre comme un vêtement de deuil et les arbres jaunes frissonnent comme des chevelures coupées. </p>
+          <p> Héraïos ! ô mois triste et doux ! les feuilles tombent doucement comme la neige ; le soleil est plus pénétrant dans la forêt plus éclaircie. Je n'entends plus rien que le silence. </p>
+          <p> Voici qu'on a porté au tombeau Pittakos chargé d'années. Beaucoup sont morts, que j'ai connus. Et celle qui vit est pour moi comme si elle n'était plus. </p>
+          <p> Celui-ci est le dixième automne que j'ai vu mourir sur cette plaine. Il est temps aussi que je disparaisse. Pleurez avec moi, muses Mytiléniennes, pleurez sur mes pas ! </p>
+          <p> </p>
+        </div>
+      </div>
+      <div title="III - EPIGRAMMES DANS L'ILE DE CHYPRE" type="part">
+        <p> III - EPIGRAMMES DANS L'ILE DE CHYPRE </p>
+        <p> </p>
+        <div title="99 – HYMNE A ASTARTE" type="chapter">
+          <p> 99 – HYMNE A ASTARTE </p>
+          <p> Mère inépuisable, incorruptible, créatrice, née la première, engendrée par toi-même, conçue de toi-même, issue de toi seule et qui te réjouis en toi, Astarté ! </p>
+          <p> O perpétuellement fécondée, ô vierge et nourrice de tout, chaste et lascive, pure et jouissante, ineffable, nocturne, douce, respiratrice du feu, écume de la mer ! </p>
+          <p> Toi qui accordes en secret la grâce, toi qui unis, toi qui aimes, toi qui saisis d'un furieux désir les races multipliées des bêtes sauvages, et joins les sexes dans les forêts, </p>
+          <p>OAstarté irrésistible, entends-moi, prends-moi, possède-moi, ô Lune ! et treize fois, chaque année, arrache à mes entrailles la libation de mon sang ! </p>
+          <p> </p>
+        </div>
+        <div title="100 – HYMNE A LA NUIT" type="chapter">
+          <p> 100 – HYMNE A LA NUIT </p>
+          <p> Les masses noires des arbres ne bougent pas plus que des montagnes. Les étoiles emplissent un ciel immense. Un air chaud comme un souffle humain caresse mes yeux et mes joues. </p>
+          <p>ONuit qui enfantas les Dieux ! comme tu es douce sur mes lèvres ! comme tu es chaude dans mes cheveux ! comme tu entres en moi ce soir, et comme je me sens grosse de tout ton printemps ! </p>
+          <p> Les fleurs qui vont fleurir vont toutes naître de moi. Le vent qui respire est mon haleine. Le parfum qui passe est mon désir. Toutes les étoiles sont dans mes yeux. </p>
+          <p> Ta voix, est-ce le bruit de la mer, est-ce le silence de la plaine ? Ta voix, je ne la comprends pas, mais elle me jette la tête aux pieds et mes larmes lavent mes deux mains. </p>
+          <p> </p>
+        </div>
+        <div title="101 – LES MENADES" type="chapter">
+          <p> 101 – LES MENADES </p>
+          <p> A travers les forêts qui dominent la mer, les Ménades se sont ruées. Maskhalê aux seins fougueux, hurlante, brandissait le phallos, qui était de bois de sycomore et barbouillé de vermillon. </p>
+          <p> Toutes, sous la bassaris et les couronnes de pampre, couraient et criaient et sautaient, les crotales claquaient dans les mains, et les thyrses crevaient la peau des tympanôns retentissants. </p>
+          <p> Chevelures mouillées, jambes agiles, seins rougis et bousculés, sueur des joues, écume des lèvres, ô Dionysos, elles t'offraient en retour l'ardeur que tu jetais en elles ! </p>
+          <p> Et le vent de la mer relevant vers le ciel les cheveux roux de Héliokomis, les tordait comme une flamme furieuse sur une torche de blanche cire. </p>
+          <p> </p>
+        </div>
+        <div title="102 – LA MER DE KYPRIS" type="chapter">
+          <p> 102 – LA MER DE KYPRIS </p>
+          <p> Sur le plus haut promontoire je me suis couchée en avant. La mer était noire comme un champ de violettes. La voie lactée ruisselait de la grande mamelle divine. </p>
+          <p> Mille Ménades autour de moi dormaient dans les fleurs déchirées. Les longues herbes se mêlaient aux chevelures. Et voici que le soleil naquit dans l'eau orientale. </p>
+          <p> C'étaient les mêmes flots et le même rivage qui virent un jour apparaître le corps blanc d'Aphrodita… Je cachai tout à coup mes yeux dans mes mains. </p>
+          <p> Car j'avais vu trembler sur l'eau mille petites lèvres de lumière : le sexe pur ou le sourire de Kypris Philommeïdès. </p>
+          <p> </p>
+        </div>
+        <div title="103 – LES PRETRESSES DE L'ASTARTE" type="chapter">
+          <p> 103 – LES PRETRESSES DE L'ASTARTE </p>
+          <p> Les prêtresses de l'Astarté font l'amour au lever de la lune ; puis elles se relèvent et se baignent dans un bassin vaste aux margelles d'argent. </p>
+          <p> De leurs doigts recourbés, elles peignent leurs chevelures, et leurs mains teintes de pourpre, mêlées à leurs boucles noires, semblent des branches de corail dans une mer sombre et flottante. </p>
+          <p> Elles ne s'épilent jamais, pour que le triangle de la déesse marque leur ventre comme un temple ; mais elles se teignent au pinceau et se parfument profondément. </p>
+          <p> Les prêtresses de l'Astarté font l'amour au coucher de la lune ; puis dans une salle de tapis où brûle une haute lampe d'or, elles se couchent au hasard. </p>
+          <p> </p>
+        </div>
+        <div title="104 – LES MYSTERES" type="chapter">
+          <p> 104 – LES MYSTERES </p>
+          <p> Dans l'enceinte trois fois mystérieuse, où les hommes ne pénètrent pas, nous t'avons fêtée, Astarté de la Nuit, Mère du Monde, Fontaine de la vie des Dieux ! </p>
+          <p> J'en révélerai quelque chose, mais pas plus qu'il n'est permis. Autour du Phallos couronné, cent vingt femmes se balançaient en criant. Les initiées étaient en habits d'hommes, les autres en tunique fendue. </p>
+          <p> Les fumées des parfums, les fumées des torches, flottaient entre nous comme des nuées. Je pleurais à larmes brûlantes. Toutes, aux pieds de la Borbeia nous nous sommes jetées sur le dos. </p>
+          <p> Enfin, quand l'Acte religieux fut consommé, et quand, dans le Triangle Unique on eut plongé le phallos pourpré, alors le mystère commença, mais je n'en dirai pas davantage. </p>
+          <p> </p>
+        </div>
+        <div title="105 – LES COURTISANES EGYPTIENNES" type="chapter">
+          <p> 105 – LES COURTISANES EGYPTIENNES </p>
+          <p> Je suis allée avec Plango chez les courtisanes égyptiennes, tout en haut de la vieille ville. Elles ont des amphores de terre, des plateaux de cuivre et des nattes jaunes où elles s'accroupissent sans effort. </p>
+          <p> Leurs chambres sont silencieuses, sans angles et sans encoignures, tant les couches successives de chaux bleue ont émoussé les chapiteaux et arrondi le pied des murs. </p>
+          <p> Elles se tiennent immobiles, les mains posées sur les genoux. Quand elles offrent la bouillie elles murmurent : « Bonheur. » Et quand on les remercie, elles disent : « Grâce à toi. » </p>
+          <p> Elles comprennent le hellène et feignent de le parler mal pour se rire de nous dans leur langue ; mais nous, dent pour dent, nous parlons lydien et elles s'inquiètent tout à coup. </p>
+          <p> </p>
+        </div>
+        <div title="106 – JE CHANTE MA CHAIR ET MA VIE" type="chapter">
+          <p> 106 – JE CHANTE MA CHAIR ET MA VIE </p>
+          <p> Certes je ne chanterai pas les amantes célèbres. Si elles ne sont plus, pourquoi en parler ? Ne suis-je pas semblable à elles ? N'ai-je pas trop de songer à moi-même ? </p>
+          <p> Je t'oublierai, Pasiphaë, bien que ta passion fût extrême. Je ne te louerai pas, Syrinx ni toi, Byblis, ni toi, par la déesse entre toutes choisie, Hélène aux bras blancs ! </p>
+          <p> Si quelqu'un souffrit, je ne le sens qu'à peine. Si quelqu'un aima, j'aime davantage. Je chante ma chair et ma vie, et non pas l'ombre stérile des amoureuses enterrées. </p>
+          <p> Reste couché, ô mon corps, selon ta mission voluptueuse ! Savoure la jouissance quotidienne et les passions sans lendemain. Ne laisse pas une joie inconnue aux regrets du jour de ta mort. </p>
+          <p> </p>
+        </div>
+        <div title="107 – LES PARFUMS" type="chapter">
+          <p> 107 – LES PARFUMS </p>
+          <p> Je me parfumerai toute la peau pour attirer les amants. Sur mes belles jambes, dans un bassin d'argent, je verserai du nard de Tarsos et du metôpiôn d'Aigypte. </p>
+          <p> Sous mes bras, de la menthe crépue ; sur mes cils et sur mes yeux, de la marjolaine de Kôs. Esclave, défais ma chevelure et emplis-la de fumée d'encens. </p>
+          <p> Voici l'oïnanthê des montagnes de Kypre ; je la ferai couler entre mes seins ; la liqueur de rose qui vient de Phasêlis embaumera ma nuque et mes joues. </p>
+          <p> Et maintenant, répands sur mes reins la bakkaris irrésistible. Il vaut mieux, pour une courtisane, connaître les parfums de Lydie que les mœurs du Péloponnèse. </p>
+          <p> </p>
+        </div>
+        <div title="108 – CONVERSATION" type="chapter">
+          <p> 108 – CONVERSATION </p>
+          <p> Bonjour. – Bonjour aussi. – Tu es bien pressée. – Peut-être moins que tu ne penses. – Tu es une jolie fille. – Peut-être plus que tu ne crois. </p>
+          <p> – Quel est ton nom charmant ? – Je ne dis pas cela si vite. – Tu as quelqu'un ce soir ? – Toujours celui qui m'aime. – Et comment l'aimes-tu ? – Comme il veut. </p>
+          <p> – Soupons ensemble. – Si tu le désires. Mais que donnes-tu ? – Ceci. – Cinq drachmes ? C'est pour mon esclave. Et pour moi ? – Dis toi-même. – Cent. </p>
+          <p> – Où demeures-tu ? – Dans cette maison bleue. – A quelle heure veux-tu que je t'envoie chercher ? – Tout de suite si tu veux. – Tout de suite. – Va devant. » </p>
+          <p> </p>
+        </div>
+        <div title="109 – LA ROBE DECHIREE" type="chapter">
+          <p> 109 – LA ROBE DECHIREE </p>
+          <p> Holà ! par les deux déesses, qui est l'insolent qui a mis le pied sur ma robe ? – C'est un amoureux. – C'est un sot. – J'ai été maladroit, pardonne-moi. </p>
+          <p> – L'imbécile ! ma robe jaune est toute déchirée par derrière, et si je marche ainsi dans la rue, on va me prendre pour une fille pauvre qui sert la Kypris inverse. </p>
+          <p> – Ne t'arrêteras-tu pas ? – Je crois qu'il me parle encore ! – Me quitteras-tu ainsi fâchée ?… Tu ne réponds pas ? Hélas ! je n'ose plus parler. </p>
+          <p> – Il faut bien que je rentre chez moi pour changer de robe. – Et je ne puis te suivre ? – Qui est ton père ? – C'est le riche armateur Nikias. – Tu as de beaux yeux, je te pardonne. » </p>
+          <p> </p>
+        </div>
+        <div title="110 – LES BIJOUX" type="chapter">
+          <p> 110 – LES BIJOUX </p>
+          <p> Un diadème d'or ajouré couronne mon front étroit et blanc. Cinq chaînettes d'or, qui font le tour de mes joues et de mon menton, se suspendent aux cheveux par deux larges agrafes. </p>
+          <p> Sur mes bras qu'envierait Iris, treize bracelets d'argent s'étagent. Qu'ils sont lourds ! Mais ce sont des armes ; et je sais une ennemie qui en a souffert. </p>
+          <p> Je suis vraiment toute couverte d'or. Mes seins sont cuirassés de deux pectoraux d'or. Les images des dieux ne sont pas aussi riches que je le suis. </p>
+          <p> Et je porte sur ma robe épaisse une ceinture lamée d'argent. Tu pourras y lire ce vers : « Aime-moi éternellement ; mais ne sois pas affligé si je te trompe trois fois par jour. » </p>
+          <p> </p>
+        </div>
+        <div title="111 – L'INDIFFERENT" type="chapter">
+          <p> 111 – L'INDIFFERENT </p>
+          <p> Dès qu'il est entré dans ma chambre, quel qu'il soit (cela importe-t-il ?) : « Vois, dis-je à l'esclave, quel bel homme ! et qu'une courtisane est heureuse ! » </p>
+          <p> Je le déclare Adônis, Arès ou Héraklès selon son visage, ou le Vieillard des Mers, si ses cheveux sont de pâle argent. Et alors, quels dédains pour la jeunesse légère ! </p>
+          <p> « Ah ! fais-je, si je n'avais pas demain à payer mon fleuriste et mon orfèvre, comme j'aimerais à te dire : Je ne veux pas de ton or ! Je suis ta servante passionnée ! » </p>
+          <p> Puis, quand il a refermé ses bras sous mes épaules, je vois un batelier du port passer comme une image divine sur le ciel étoilé de mes paupières transparentes. </p>
+          <p> </p>
+        </div>
+        <div title="112 – L'EAU PURE DU BASSIN" type="chapter">
+          <p> 112 – L'EAU PURE DU BASSIN </p>
+          <p> Eau pure du bassin, miroir immobile, dis-moi ma beauté. –OBilitis, ou qui que tu sois, Téthys peut-être ou Amphritritê, tu es belle, sache-le. </p>
+          <p> « Ton visage se penche sous ta chevelure épaisse, gonflée de fleurs et de parfums. Tes paupières molles s'ouvrent à peine et tes flancs sont las des mouvements de l'amour. </p>
+          <p> « Ton corps fatigué du poids de tes seins porte les marques fines de l'ongle et les taches bleues du baiser. Tes bras sont rougis par l'étreinte. Chaque ligne de ta peau fut aimée. </p>
+          <p> – Eau claire du bassin, ta fraîcheur repose. Reçois-moi, qui suis lasse en effet. Emporte le fard de mes joues, et la sueur de mon ventre et le souvenir de la nuit. » </p>
+          <p> </p>
+        </div>
+        <div title="113 – LA FETE NOCTURNE (non traduite)" type="chapter">
+          <p> 113 – LA FETE NOCTURNE (non traduite) </p>
+          <p> </p>
+        </div>
+        <div title="114 – VOLUPTE" type="chapter">
+          <p> 114 – VOLUPTE </p>
+          <p> Sur une terrasse blanche, la nuit, ils nous laissèrent évanouies dans les roses. La sueur chaude coulait comme des larmes, de nos aisselles sur nos seins. Une volupté accablante empourprait nos têtes renversées. </p>
+          <p> Quatre colombes captives, baignées dans quatre parfums, voletèrent au dessus de nous en silence. De leurs ailes, sur les femmes nues, ruisselaient des gouttes de senteur. Je fus inondée d'essence d'iris. </p>
+          <p> O lassitude ! je reposai ma joue sur le ventre d'une jeune fille qui s'enveloppa de fraîcheur avec ma chevelure humide. L'odeur de sa peau safranée enivrait ma bouche ouverte. Elle ferma sa cuisse sur ma nuque. </p>
+          <p> Je dormis, mais un rêve épuisant m'éveilla : l'iynx, oiseau des désirs nocturnes, chantait éperdument au loin. Je toussai avec un frisson. Un bras languissant comme une fleur s'élevait peu à peu vers la lune, dans l'air. </p>
+          <p> </p>
+        </div>
+        <div title="115 – L'HOTELLERIE" type="chapter">
+          <p> 115 – L'HOTELLERIE </p>
+          <p> Hôtelier, nous sommes quatre. Donne-nous une chambre et deux lits. Il est trop tard maintenant pour rentrer à la ville et la pluie a crevé la route. </p>
+          <p> Apporte une corbeille de figues, du fromage et du vin noir ; mais ôte d'abord mes sandales et lave-moi les pieds, car la boue me chatouille. </p>
+          <p> Tu feras porter dans la chambre deux bassins avec de l'eau, une lampe pleine, un cratère et des kylix. Tu secoueras les couvertures et tu battras les coussins. </p>
+          <p> Mais que les lits soient de bon érable et que les planches soient muettes ! Demain tu ne nous réveilleras pas. </p>
+          <p> </p>
+        </div>
+        <div title="116 – LA DOMESTICITE" type="chapter">
+          <p> 116 – LA DOMESTICITE </p>
+          <p> uatre esclaves gardent ma maison : deux Thraces robustes à ma porte, un Sicilien à ma cuisine et une Phrygienne docile et muette pour le service de mon lit. </p>
+          <p> Les deux Thraces sont de beaux hommes. Ils ont un bâton à la main pour chasser les amants pauvres et un marteau pour clouer sur le mur les couronnes que l'on m'envoie. </p>
+          <p> Le Sicilien est un cuisinier rare ; je l'ai payé douze mines. Aucun autre ne sait comme lui préparer des croquettes frites et des gâteaux de coquelicots. </p>
+          <p> La Phrygienne me baigne, me coiffe et m'épile. Elle dort le matin dans ma chambre et pendant trois nuits, chaque mois, elle me remplace près de mes amants. </p>
+          <p> </p>
+        </div>
+        <div title="117 – LE TRIOMPHE DE BILITIS" type="chapter">
+          <p> 117 – LE TRIOMPHE DE BILITIS </p>
+          <p> Les processionnaires m'ont portée en triomphe, moi, Bilitis, toute nue sur un char en coquille où des esclaves, pendant la nuit, avaient effeuillé dix mille roses. </p>
+          <p> J'étais couchée, les mains sous la nuque, mes pieds seuls étaient vêtus d'or, et mon corps s'allongeait mollement, sur le lit de mes cheveux tièdes mêlés aux pétales frais. </p>
+          <p> Douze enfants, les épaules ailées, me servaient comme une déesse ; les uns tenaient un parasol, les autres me mouillaient de parfums, ou brûlaient de l'encens à la proue. </p>
+          <p> Et autour de moi j'entendais bruire la rumeur ardente de la foule, tandis que l'haleine des désirs flottait sur ma nudité, dans les brumes bleues des aromates. </p>
+          <p> </p>
+        </div>
+        <div title="118 – A SES SEINS" type="chapter">
+          <p> 118 – A SES SEINS </p>
+          <p> Chairs en fleurs, ô mes seins ! que vous êtes riches de volupté ! Mes seins dans mes mains, que vous avez de mollesses et de moelleuses chaleurs et de jeunes parfums ! </p>
+          <p> Jadis, vous étiez glacés comme une poitrine de statue et durs comme d'insensibles marbres. Depuis que vous fléchissez je vous chéris davantage, vous qui fûtes aimés. </p>
+          <p> Votre forme lisse et renflée est l'honneur de mon torse brun. Soit que je vous emprisonne sous la résille d'or, soit que je vous délivre tout nus, vous me précédez de votre splendeur. </p>
+          <p> Soyez donc heureux cette nuit. Si mes doigts enfantent des caresses, vous seuls le saurez jusqu'à demain matin ; car, cette nuit, Bilitis a payé Bilitis. </p>
+          <p> </p>
+        </div>
+        <div title="119 – LIBERTE (non traduite)" type="chapter">
+          <p> 119 – LIBERTE (non traduite) </p>
+          <p> </p>
+        </div>
+        <div title="120 – MYDZOURIS" type="chapter">
+          <p> 120 – MYDZOURIS </p>
+          <p> Mydzouris, petite ordure, ne pleure plus. Tu es mon amie. Si ces femmes t'insultent encore, c'est moi qui leur répondrai. Viens sous mon bras, et sèche tes yeux. </p>
+          <p> Oui, je sais que tu es une horrible enfant et que ta mère t'apprit de bonne heure à faire preuve de tous les courages. Mais tu es jeune et c'est pourquoi tu ne peux rien faire qui ne soit charmant. </p>
+          <p> La bouche d'une fille de quinze ans reste pure malgré tout. Les lèvres d'une femme chenue, même vierges, sont dégradées ; car le seul opprobre est de vieillir et nous ne sommes flétries que par la ride. </p>
+          <p> Mydzouris, j'aime tes yeux francs, ton nom impudique et hardi, ta voix rieuse et ton corps léger. Viens chez moi, tu seras mon aide, et quand nous sortirons ensemble, les femmes te diront : Salut. </p>
+          <p> </p>
+        </div>
+        <div title="121 – LE BAIN" type="chapter">
+          <p> 121 – LE BAIN </p>
+          <p> Enfant, garde bien la porte et ne laisse pas entrer les passants, car moi et six filles aux beaux bras nous nous baignons secrètement dans les eaux tièdes du bassin. </p>
+          <p> Nous ne voulons que rire et nager. Laisse les amants dans la rue. Nous tremperons nos jambes dans l'eau et, assises sur le bord du marbre, nous jouerons aux osselets. </p>
+          <p> Nous jouerons aussi à la balle. Ne laisse pas entrer les amants ; nos chevelures sont trop mouillées ; nos gorges ont la chair de poule et le bout de nos doigts se ride. </p>
+          <p> D'ailleurs, il s'en repentirait, celui qui nous surprendrait nues ! Bilitis n'est pas Athêna, mais elle ne se montre qu'à ses heures et châtie les yeux trop ardents. </p>
+          <p> </p>
+        </div>
+        <div title="122 – AU DIEU DE BOIS" type="chapter">
+          <p> 122 – AU DIEU DE BOIS </p>
+          <p> OVénérable Priapos, dieu de bois que j'ai fait sceller dans le marbre du bord de mes bains, ce n'est pas sans raison, gardien des vergers, que tu veilles ici sur des courtisanes. </p>
+          <p> Dieu, nous ne t'avons pas acheté pour te sacrifier nos virginités. Nul ne peut donner ce qu'il n'a plus, et les zélatrices de Pallas ne courent pas les rues d'Amathonte. </p>
+          <p> Non. Tu veillais autrefois sur les chevelures des arbres, sur les fleurs bien arrosées, sur les fruits lourds et savoureux. C'est pourquoi nous t'avons choisi. </p>
+          <p> Garde aujourd'hui nos têtes blondes, les pavots ouverts de nos lèvres et les violettes de nos yeux. Garde les fruits durs de nos seins et donne-nous des amants qui te ressemblent. </p>
+          <p> </p>
+        </div>
+        <div title="123 – LA DANSEUSE AUX CROTALES" type="chapter">
+          <p> 123 – LA DANSEUSE AUX CROTALES </p>
+          <p> Tu attaches à tes mains légères tes crotales retentissants, Myrrhinidion ma chérie, et à peine nue hors de la robe, tu étires tes membres nerveux. Que tu es jolie, les bras en l'air, les reins arqués et les seins rouges ! </p>
+          <p> Tu commences : tes pieds l'un devant l'autre se posent, hésitent, et glissent mollement. Ton corps se plie comme une écharpe, tu caresses ta peau qui frissonne, et la volupté inonde tes longs yeux évanouis. </p>
+          <p> Tout à coup, tu claques des crotales ! Cambre-toi sur les pieds dressés, secoue les reins, lance les jambes et que tes mains pleines de fracas appellent tous les désirs en bande autour de ton corps tournoyant ! </p>
+          <p> Nous, applaudissons à grands cris, soit que, souriant sur l'épaule, tu agites d'un frémissement ta croupe convulsive et musclée, soit que tu ondules presque étendue, au rhythme de tes souvenirs. </p>
+          <p> </p>
+        </div>
+        <div title="124 – LA JOUEUSE DE FLUTE" type="chapter">
+          <p> 124 – LA JOUEUSE DE FLUTE </p>
+          <p> Mélixô, les jambes serrées, le corps penché, les bras en avant, tu glisses ta double flûte légère entre tes lèvres mouillées de vin, et tu joues au dessus de la couche où Téléas m'étreint encore. </p>
+          <p> Ne suis-je pas bien imprudente, moi qui loue une aussi jeune fille pour distraire mes heures laborieuses, moi qui la montre ainsi nue aux regards curieux de mes amants, ne suis-je pas inconsidérée ? </p>
+          <p> Non, Mélixô, petite musicienne, tu es une honnête amie. Hier tu ne m'as pas refusé de changer ta flûte pour une autre quand je désespérais d'accomplir un amour plein de difficultés. Mais tu es sûre. </p>
+          <p> Car je sais bien à quoi tu penses. Tu attends la fin de cette nuit excessive qui t'anime cruellement en vain et au premier matin tu courras dans la rue, avec ton seul ami Psyllos, vers ton petit matelas défoncé. </p>
+          <p> </p>
+        </div>
+        <div title="125 – LA CEINTURE CHAUDE" type="chapter">
+          <p> 125 – LA CEINTURE CHAUDE </p>
+          <p> Tu crois que tu ne m'aimes plus, Téléas, et depuis un mois tu passes tes nuits à table, comme si les fruits, les vins, les miels pouvaient te faire oublier ma bouche. Tu crois que tu ne m'aimes plus, pauvre fou ! » </p>
+          <p> Disant cela, j'ai dénoué ma ceinture en moiteur et je l'ai roulée autour de sa tête. Elle était toute chaude encore de la chaleur de mon ventre ; le parfum de ma peau sortait de ses mailles fines. </p>
+          <p> Il la respira longuement, les yeux fermés, puis je sentis qu'il revenait à moi et je vis même très clairement ses désirs réveillés qu'il ne me cachait point, mais, par ruse, je sus résister. </p>
+          <p> « Non, mon ami. Ce soir, Lysippos me possède. Adieu ! » Et j'ajoutai en m'enfuyant : « O gourmand de fruits et de légumes ! le petit jardin de Bilitis n'a qu'une figue, mais elle est bonne. » </p>
+          <p> </p>
+        </div>
+        <div title="126 – A UN MARI HEUREUX" type="chapter">
+          <p> 126 – A UN MARI HEUREUX </p>
+          <p> Je t'envie, Agorakritès, d'avoir une femme aussi zélée. C'est elle-même qui soigne l'étable, et le matin, au lieu de faire l'amour elle donne à boire aux bestiaux. </p>
+          <p> Tu t'en réjouis. Que d'autres, dis-tu, ne songent qu'aux voluptés basses, veillent la nuit, dorment le jour et demandent encore à l'adultère une satiété criminelle. </p>
+          <p> Oui ; ta femme travaille à l'étable. On dit même qu'elle a mille tendresses pour le plus jeune de tes ânes. Ah ! Ha ! c'est un bel animal ! Il a une touffe noire sur les yeux. </p>
+          <p> On dit qu'elle joue entre ses pattes, sous son ventre gris et doux… Mais ceux qui disent cela sont des médisants. Si ton âne lui plaît, Agorakritès, c'est que son regard sans doute lui rappelle le tien. </p>
+          <p> </p>
+        </div>
+        <div title="127 – A UN EGARE" type="chapter">
+          <p> 127 – A UN EGARE </p>
+          <p> L'amour des femmes est le plus beau de tous ceux que les mortels éprouvent, et tu penserais ainsi, Kléôn, si tu avais l'âme vraiment voluptueuse ; mais tu ne rêves que vanités. </p>
+          <p> Tu perds tes nuits à chérir les éphèbes qui nous méconnaissent. Regarde-les donc ! Qu'ils sont laids ! Compare à leurs têtes rondes nos chevelures immenses ; cherche nos seins blancs sur leurs poitrines. </p>
+          <p> A côté de leurs flancs étroits, considère nos hanches luxuriantes, large couche creusée pour l'amant. Dis enfin quelles lèvres humaines, sinon celles qu'ils voudraient avoir, élaborent les voluptés ? </p>
+          <p> Tu es malade, ô Kléôn, mais une femme te peut guérir. Va chez la jeune Satyra, la fille de ma voisine Gorgô. Sa croupe est une rose au soleil, et elle ne te refusera pas le plaisir qu'elle-même préfère. </p>
+          <p> </p>
+        </div>
+        <div title="128 – THERAPEUTIQUE" type="chapter">
+          <p> 128 – THERAPEUTIQUE </p>
+          <p> OAsklêpios, sois-moi propice, ô dieu de la santé divine, le jour où l'éternelle nuit noire menacera mes yeux effrayés ; car le poison de ma beauté, un jour, a servi de remède. </p>
+          <p> On m'avait mandée en costume dans la chambre d'un jeune homme que les femmes ne tentaient point. Des caleçons crevés se collaient à mes cuisses, et mes seins jaillissaient nus d'une brassière brodée d'or. </p>
+          <p> J'ai dansé selon le rite au son des crotales, les douze désirs d'Aphroditê. Et voici que l'amour est entré en lui tout à coup, et sur le lit de sa virginité j'ai recommencé toute la danse. </p>
+          <p> « Tu sais te faire aimer, disait-il, mais tu n'en es pas émue. Que faut-il faire pour que tu m'aimes ? » Je le regardai plus loin que les yeux et je lui dis avec lenteur : « T'imaginer que tu es femme. » </p>
+          <p> </p>
+        </div>
+        <div title="129 – LA COMMANDE" type="chapter">
+          <p> 129 – LA COMMANDE </p>
+          <p> Vieille, écoute-moi. Je donne un festin dans trois jours. Il me faut un divertissement. Tu me loueras toutes tes filles. Combien en as-tu et que savent-elles faire ? </p>
+          <p> – J'en ai sept. Trois dansent la kordax avec l'écharpe et le phallos. Néphélê aux aisselles lisses mimera l'amour de la colombe entre ses seins couleur de roses. </p>
+          <p> Une chanteuse en péplos brodé chantera des chansons de Rhodes, accompagnée par deux aulétrides qui auront des guirlandes de myrte enroulées à leurs jambes brunes. </p>
+          <p> – C'est bien. Qu'elles soient épilées de frais, lavées et parfumées des pieds à la tête, prêtes à d'autres jeux si on les leur demande. Va donner les ordres. Adieu. » </p>
+          <p> </p>
+        </div>
+        <div title="130 – LA FIGURE DE PASIPHAE" type="chapter">
+          <p> 130 – LA FIGURE DE PASIPHAE </p>
+          <p> Dans une débauche que deux jeunes gens et des courtisanes firent chez moi, où l'amour ruissela comme le vin, Damalis, pour fêter son nom, dansa la Figure de Pasiphae. </p>
+          <p> Elle avait fait faire à Kitiôn deux masques de vache et de taureau, pour elle et pour Kharmantidès. Elle portait des cornes terribles, et une queue véritable à son caleçon de cuir. </p>
+          <p> Les autres femmes menées par moi, tenant des fleurs et des flambeaux, nous tournions sur nous-mêmes avec des cris, et nous caressions Damalis du bout de nos chevelures pendantes. </p>
+          <p> Ses mugissements et nos chants et les danses effrénées ont duré plus que la nuit. La chambre vide est encore chaude. Je regarde mes mains rougies et les canthares de Khios où nagent des roses. </p>
+          <p> </p>
+        </div>
+        <div title="131 – LA JONGLEUSE" type="chapter">
+          <p> 131 – LA JONGLEUSE </p>
+          <p> uand la première aube se mêla aux lueurs affaiblies des flambeaux, je fis entrer dans l'orgie une joueuse de flûte vicieuse et agile, qui tremblait un peu, ayant froid. </p>
+          <p> Louez la petite fille aux paupières bleues, aux cheveux courts, aux seins aigus, vêtue seulement d'une ceinture, d'où pendaient des rubans jaunes et des tiges d'iris noirs. </p>
+          <p> Louez-la ! car elle fut adroite et fit des tours difficiles. Elle jonglait avec des cerceaux, sans rien casser dans la salle, et se glissait au travers comme une sauterelle. </p>
+          <p> Parfois elle faisait la roue sur les mains et sur les pieds. Ou bien les deux bras en l'air et les genoux écartés elle se courbait à la renverse et touchait la terre en riant. </p>
+          <p> </p>
+        </div>
+        <div title="132 – LA DANSE DES FLEURS" type="chapter">
+          <p> 132 – LA DANSE DES FLEURS </p>
+          <p> Anthis, danseuse de Lydie, a sept voiles autour d'elle. Elle déroule le voile jaune, sa chevelure noire se répand. Le voile rose glisse de sa bouche. Le voile blanc tombé laisse voir ses bras nus. </p>
+          <p> Elle dégage ses petits seins du voile rouge qui se dénoue. Elle abaisse le voile vert de sa croupe jusqu'aux pieds. Elle tire le voile bleu de ses épaules, mais elle presse sur sa pudeur le dernier voile transparent. </p>
+          <p> Les jeunes gens la supplient : elle secoue la tête en arrière. Au son des flûtes seulement, elle le déchire un peu, puis tout à fait, et, avec les gestes de la danse, elle cueille les fleurs de son corps, </p>
+          <p> En chantant : « Où sont mes roses ? où sont mes violettes parfumées ? Où sont mes touffes de persil ? – Voilà mes roses, je vous les donne. Voilà mes violettes, en voulez-vous ? Voilà mes beaux persils frisés. » </p>
+          <p> </p>
+        </div>
+        <div title="133 – LA DANSE DE SATYRA (non traduite)" type="chapter">
+          <p> 133 – LA DANSE DE SATYRA (non traduite) </p>
+          <p> </p>
+        </div>
+        <div title="134 – MYDZOURIS COURONNEE (non traduite)" type="chapter">
+          <p> 134 – MYDZOURIS COURONNEE (non traduite) </p>
+          <p> </p>
+        </div>
+        <div title="135 – LA VIOLENCE" type="chapter">
+          <p> 135 – LA VIOLENCE </p>
+          <p> Non, tu ne me prendras pas de force, n'y compte pas, Lamprias. Si tu as entendu dire qu'on a violé Parthenis, sache qu'elle y a mis du sien, car on ne jouit pas de nous sans y être invité. </p>
+          <p> Oh ! va de ton mieux, fais des efforts, c'est manqué. Je me défends à peine, cependant. Je n'appellerai pas au secours. Et je ne lutte même pas ; mais je bouge. Pauvre ami, c'est manqué encore. </p>
+          <p> Continue. Ce petit jeu m'amuse. D'autant que je suis sûre de vaincre. Encore un essai malheureux, et peut-être tu seras moins disposé à me prouver tes désirs éteints. </p>
+          <p> Bourreau, que fais-tu ! Chien ! tu me brises les poignets ! et ce genou qui m'éventre ! Ah ! va, maintenant, c'est une belle victoire, que de ravir à terre une jeune fille en larmes. </p>
+          <p> </p>
+        </div>
+        <div title="136 – CHANSON" type="chapter">
+          <p> 136 – CHANSON </p>
+          <p> Le premier me donna un collier, un collier de perles qui vaut une ville, avec les palais et les temples, et les trésors et les esclaves. </p>
+          <p> Le second fit pour moi des vers. Il disait que mes cheveux sont noirs comme ceux de la nuit sur la mer et mes yeux bleus comme ceux du matin. </p>
+          <p> Le troisième était si beau que sa mère ne l'embrassait pas sans rougir. Il mit ses mains sur mes genoux, et ses lèvres sur mon pied nu. </p>
+          <p> Toi, tu ne m'as rien dit. Tu ne m'as rien donné, car tu es pauvre. Et tu n'es pas beau, mais c'est toi que j'aime. </p>
+          <p> </p>
+        </div>
+        <div title="137 – CONSEILS A UN AMANT" type="chapter">
+          <p> 137 – CONSEILS A UN AMANT </p>
+          <p> Si tu veux être aimé d'une femme, ô jeune ami, quelle qu'elle soit, ne lui dis pas que tu la veux, mais fais qu'elle te voie tous les jours, puis disparais, pour revenir. </p>
+          <p> Si elle t'adresse la parole, sois amoureux sans empressement. Elle viendra d'elle-même à toi. Sache alors la prendre de force, le jour où elle entend se donner. </p>
+          <p> Quand tu la recevras dans ton lit, néglige ton propre plaisir. Les mains d'une femme amoureuse sont tremblantes et sans caresses. Dispense-les d'être zélées. </p>
+          <p> Mais toi, ne prends pas de repos. Prolonge les baisers à perte d'haleine. Ne la laisse pas dormir, même si elle t'en prie. Baise toujours la partie de son corps vers laquelle elle tourne les yeux. </p>
+          <p> </p>
+        </div>
+        <div title="138 – LES AMIES A DINER" type="chapter">
+          <p> 138 – LES AMIES A DINER </p>
+          <p> Myromêris et Maskhalê, mes amies, venez avec moi, car je n'ai pas d'amant ce soir, et, couchées sur des lits de byssos, nous causerons autour du dîner. </p>
+          <p> Une nuit de repos vous fera du bien : vous dormirez dans mon lit, même sans fards et mal coiffées. Mettez une simple tunique de laine et laissez vos bijoux au coffre. </p>
+          <p> Nul ne vous fera danser pour admirer vos jambes et les mouvements lourds de vos reins. Nul ne vous demandera les Figures sacrées, pour juger si vous êtes amoureuses. </p>
+          <p> Et je n'ai pas commandé, pour nous, deux joueuses de flûte aux belles bouches, mais deux marmites de pois rissolés, des gâteaux au miel, des croquettes frites et ma dernière outre de Khios. </p>
+          <p> </p>
+        </div>
+        <div title="139 – LE TOMBEAU D'UNE JEUNE COURTISANE" type="chapter">
+          <p> 139 – LE TOMBEAU D'UNE JEUNE COURTISANE </p>
+          <p> Ici gît le corps délicat de Lydé, petite colombe, la plus joyeuse de toutes les courtisanes, qui plus que toute autre aima les orgies, les cheveux flottants, les danses molles et les tuniques d'hyacinthe. </p>
+          <p> Plus que toute autre elle aima les glottismes savoureux, les caresses sur la joue, les jeux que la lampe voit seule et l'amour qui brise les membres. Et maintenant, elle est une petite ombre. </p>
+          <p> Mais avant de la mettre au tombeau, on l'a merveilleusement coiffée et on l'a couchée dans les roses ; la pierre même qui la recouvre est tout imprégnée d'essences et de parfums. </p>
+          <p> Terre sacrée, nourrice de tout, accueille doucement la pauvre morte, endors-la dans tes bras ô Mère ! et fais pousser autour de la stèle, non les orties et les ronces, mais les faibles violettes blanches. </p>
+          <p> </p>
+        </div>
+        <div title="140 – LA PETITE MARCHANDE DE ROSES" type="chapter">
+          <p> 140 – LA PETITE MARCHANDE DE ROSES </p>
+          <p> Hier, m'a dit Naïs, j'étais sur la place, quand une petite fille en loques rouges a passé, portant des roses, devant un groupe de jeunes gens. Et voici ce que j'ai entendu : </p>
+          <p> « Achetez-moi quelque chose. – Explique-toi, petite, car nous ne savons ce que tu vends : toi ? tes roses ? ou tout à la fois ? – Si vous m'achetez toutes mes fleurs, vous aurez la vendeuse pour rien. </p>
+          <p> – Et combien veux-tu de tes roses ? – Il faut six oboles à ma mère ou bien je serai battue comme une chienne. – Suis-nous. Tu auras une drachme. – Alors je vais chercher ma petite sœur ? » </p>
+          <p> Cette enfant n'est pas courtisane, Bilitis, nul ne la connaît. Vraiment n'est-ce pas un scandale et tolérerons-nous que ces filles viennent salir dans la journée les lits qui nous attendent le soir ? </p>
+          <p> </p>
+        </div>
+        <div title="141 – LA DISPUTE" type="chapter">
+          <p> 141 – LA DISPUTE </p>
+          <p> Ah ! par l'Aphrodita, te voilà ! tête de sang ! pourriture ! empuse ! stérile ! carcan ! gauchère ! digne de rien ! mauvaise truie ! N'essaie pas de me fuir, mais approche et plus près encore. </p>
+          <p> Voyez-moi cette femme de matelots, qui ne sait pas même plisser son vêtement sur l'épaule et qui met de si mauvais fard que le noir de ses sourcils coule sur sa joue en ruisseaux d'encre ! </p>
+          <p> Tu es Phoïnikienne : couche avec ceux de ta race. Pour moi, mon père était Hellène : j'ai droit sur tous ceux qui portent le pétase. Et même sur les autres, s'il me plaît ainsi. </p>
+          <p> Ne t'arrête plus dans ma rue, ou je t'enverrai dans l'Hadès faire l'amour avec Kharôn, et je dirai très justement : « Que la terre te soit légère ! » pour que les chiens puissent te déterrer. </p>
+          <p> </p>
+        </div>
+        <div title="142 – MELANCOLIE" type="chapter">
+          <p> 142 – MELANCOLIE </p>
+          <p> Je frissonne ; la nuit est fraîche, et la forêt toute mouillée. Pourquoi m'as-tu conduite ici ? mon grand lit n'est-il pas plus doux que cette mousse semée de pierres ? </p>
+          <p> Ma robe à fleurs aura des taches de verdure ; mes cheveux seront mêlés de brindilles ; mon coude, regarde mon coude, comme il est déjà souillé de terre humide. </p>
+          <p> Autrefois pourtant, je suivais dans les bois celui… Ah ! laisse-moi quelque temps. Je suis triste, ce soir. Laisse-moi, sans parler, la main sur les yeux. </p>
+          <p> En vérité, ne peux-tu attendre ! sommes nous des bêtes brutes pour nous prendre ainsi ! Laisse-moi. Tu n'ouvriras ni mes genoux ni mes lèvres. Mes yeux mêmes, de peur de pleurer, se ferment. </p>
+          <p> </p>
+        </div>
+        <div title="143 – LA PETITE PHANION" type="chapter">
+          <p> 143 – LA PETITE PHANION </p>
+          <p> Etranger, arrête-toi, regarde qui t'a fait signe : c'est la petite Phaniôn de Kôs, elle mérite que tu la choisisses. </p>
+          <p> Vois, ses cheveux frisent comme du persil, sa peau est douce comme un duvet d'oiseau. Elle est petite et brune. Elle parle bien. </p>
+          <p> Si tu veux la suivre, elle ne te demandera pas tout l'argent de ton voyage ; non, mais une drachme ou une paire de chaussures. </p>
+          <p> Tu trouveras chez elle un bon lit, des figues fraîches, du lait, du vin, et, s'il fait froid, il y aura du feu. </p>
+          <p> </p>
+        </div>
+        <div title="144 – INDICATIONS" type="chapter">
+          <p> 144 – INDICATIONS </p>
+          <p> S'il te faut, passant qui t'arrêtes, des cuisses élancées et des reins nerveux, une gorge dure, des genoux qui étreignent, va chez Plangô, c'est mon amie. </p>
+          <p> Si tu cherches une fille rieuse, avec des seins exubérants, la taille délicate, la croupe grasse et les reins creusés, va jusqu'au coin de cette rue, où demeure Spidorrhodellis. </p>
+          <p> Mais si les longues heures tranquilles dans les bras d'une courtisane, la peau douce, la chaleur du ventre et l'odeur des cheveux te plaisent, cherche Miltô, tu seras content. </p>
+          <p> N'espère pas beaucoup d'amour ; mais profite de son expérience. On peut tout demander à une femme, quand elle est nue, quand il fait nuit, et quand les cent drachmes sont sur le foyer. </p>
+          <p> </p>
+        </div>
+        <div title="145 – LE MARCHAND DE FEMMES" type="chapter">
+          <p> 145 – LE MARCHAND DE FEMMES </p>
+          <p> ui est là ? – Je suis le marchand de femmes. Ouvre la porte, Sôstrata, je te présente deux occasions. Celle-ci d'abord. Approche, Anasyrtolis, et défais-toi. – Elle est un peu grosse. </p>
+          <p> – C'est une beauté. De plus, elle danse la kordax et elle sait quatre-vingts chansons. – Tourne-toi. Lève les bras. Montre tes cheveux. Donne le pied. Souris. C'est bien. </p>
+          <p> – Celle-ci, maintenant. – Elle est trop jeune ! – Non pas, elle a eu douze ans avant-hier, et tu ne lui apprendrais plus rien. – Ote ta tunique. Voyons ? Non, elle est maigre. </p>
+          <p> – Je n'en demande qu'une mine. – Et la première ? – Deux mines trente. – Trois mines les deux ? – C'est dit. – Entrez là et lavez-vous. Toi, adieu. » </p>
+          <p> </p>
+        </div>
+        <div title="146 – L'ETRANGER" type="chapter">
+          <p> 146 – L'ETRANGER </p>
+          <p> Etranger, ne va pas plus loin dans la ville. Tu ne trouveras ailleurs que chez moi des filles plus jeunes ni plus expertes. Je suis Sôstrata, célèbre au delà de la mer. </p>
+          <p> Vois celle-ci dont les yeux sont verts comme l'eau dans l'herbe. Tu n'en veux pas ? Voici d'autres yeux qui sont noirs comme la violette, et une chevelure de trois coudées. </p>
+          <p> J'ai mieux encore. Xanthô, ouvre ta cyclas. Etranger, ses seins sont durs comme le coing, touche-les. Et son beau ventre, tu le voie, porte les trois plis de Kypris. </p>
+          <p> Je l'ai achetée avec sa sœur, qui n'est pas d'âge à aimer encore, mais qui la seconde utilement. Par les deux déesses ! tu es de race noble. Phyllis et Xanthô, suivez le chevalier ! </p>
+          <p> </p>
+        </div>
+        <div title="147 – PHYLLIS (non traduite)" type="chapter">
+          <p> 147 – PHYLLIS (non traduite) </p>
+          <p> </p>
+        </div>
+        <div title="148 – LE SOUVENIR DE MNASIDIKA" type="chapter">
+          <p> 148 – LE SOUVENIR DE MNASIDIKA </p>
+          <p> Elles dansaient l'une devant l'autre, d'un mouvement rapide et fuyant ; elles semblaient toujours vouloir s'enlacer, et pourtant ne se touchaient point, si ce n'est du bout des lèvres. </p>
+          <p> Quand elles tournaient le dos en dansant, elles se regardaient, la tête sur l'épaule, et la sueur brillait sous leurs bras levés, et leurs chevelures fines passaient devant leurs seins. </p>
+          <p> La langueur de leurs yeux, le feu de leurs joues, la gravité de leurs visages, étaient trois chansons ardentes. Elles se frôlaient furtivement, elles pliaient leurs corps sur les hanches. </p>
+          <p> Et tout à coup, elles sont tombées, pour achever à terre la danse molle… Souvenir de Mnasidika, c'est alors que tu m'apparus, et tout, hors ta chère image, me fut importun. </p>
+          <p> </p>
+        </div>
+        <div title="149 – LA JEUNE MERE" type="chapter">
+          <p> 149 – LA JEUNE MERE </p>
+          <p> Ne crois pas, Myromêris, que, d'avoir été mère, tu sois moindre en beauté. Voici que ton corps sous la robe a noyé ses formes grêles dans une voluptueuse mollesse. </p>
+          <p> Tes seins sont deux vastes fleurs renversées sur ta poitrine, et dont la queue coupée nourrit une sève laiteuse. Ton ventre plus doux défaille sous la main. </p>
+          <p> Et maintenant considère la toute petite enfant qui est née du frisson que tu as eu un soir dans les bras d'un passant dont tu ne sais plus le nom. Rêve à sa lointaine destinée. </p>
+          <p> Ces yeux qui s'ouvrent à peine s'allongeront un jour d'une ligne de fard noir, et ils sèmeront aux hommes la douleur ou la joie, d'un mouvement de leurs cils. </p>
+          <p> </p>
+        </div>
+        <div title="150 – L'INCONNU" type="chapter">
+          <p> 150 – L'INCONNU </p>
+          <p> Il dort. Je ne le connais pas. Il me fait horreur. Pourtant sa bourse est pleine d'or et il a donné à l'esclave quatre drachmes en entrant. J'espère une mine pour moi-même. </p>
+          <p> Mais j'ai dit à la Phrygienne d'entrer au lit à ma place. Il était ivre et l'a prise pour moi. Je serais plutôt morte dans les supplices que de m'allonger près de cet homme. </p>
+          <p> Hélas ! je songe aux prairies de Tauros… J'ai été une petite vierge… Alors, j'avais la poitrine légère, et j'étais si folle d'envie amoureuse que je haïssais mes sœurs mariées. </p>
+          <p> Que ne faisais-je pas pour obtenir ce que j'ai refusé cette nuit ! Aujourd'hui mes mamelles se plient, et dans mon cœur trop usé, Erôs s'endort de lassitude. </p>
+          <p> </p>
+        </div>
+        <div title="151 – LA DUPERIE" type="chapter">
+          <p> 151 – LA DUPERIE </p>
+          <p> Je m'éveille… Est-il donc parti ? Il a laissé quelque chose ? Non : deux amphores vides et des fleurs souillées. Tout le tapis est rouge de vin. </p>
+          <p> J'ai dormi, mais je suis encore ivre… Avec qui donc suis-je rentrée ?… Pourtant nous nous sommes couchés. Le lit est même trempé de sueur. </p>
+          <p> Peut-être étaient-ils plusieurs ; le lit est si bouleversé. Je ne sais plus… Mais on les a vus ! Voilà ma Phrygienne. Elle dort encore en travers de la porte. </p>
+          <p> Je lui donne un coup de pied dans la poitrine et je crie : « Chienne, tu ne pouvais pas… » Je suis si enrouée que je ne puis parler. </p>
+          <p> </p>
+        </div>
+        <div title="152 – LE DERNIER AMANT" type="chapter">
+          <p> 152 – LE DERNIER AMANT </p>
+          <p> Enfant, ne passe pas sans m'avoir aimée. Je suis encore belle, dans la nuit ; tu verras combien mon automne est plus chaud que le printemps d'une autre. </p>
+          <p> Ne cherche pas l'amour des vierges. L'amour est un art difficile où les jeunes filles sont peu versées. Je l'ai appris toute ma vie pour le donner à mon dernier amant. </p>
+          <p> Mon dernier amant, ce sera toi, je le sais. Voici ma bouche, pour laquelle un peuple a pâli de désir. Voici mes cheveux, les mêmes cheveux que Psappha la Grande a chantés. </p>
+          <p> Je recueillerai en ta faveur tout ce qu'il m'est resté de ma jeunesse perdue. Je brûlerai les souvenirs eux-mêmes. Je te donnerai la flûte de Lykas, la ceinture de Mnasidika. </p>
+          <p> </p>
+        </div>
+        <div title="153 – LA COLOMBE" type="chapter">
+          <p> 153 – LA COLOMBE </p>
+          <p> Depuis longtemps déjà je suis belle ; le jour vient où je ne serai plus femme. Et alors je connaîtrai les souvenirs déchirants, les brûlantes envies solitaires et les larmes dans les mains. </p>
+          <p> Si la vie est un long songe, à quoi bon lui résister ? Maintenant, quatre et cinq fois la nuit je demande la jouissance amoureuse, et quand mes flancs sont épuisés je m'endors où mon corps retombe. </p>
+          <p> Au matin, j'ouvre les paupières et je frissonne dans mes cheveux. Une colombe est sur ma fenêtre ; je lui demande en quel mois nous sommes. Elle me dit : « C'est le mois où les femmes sont en amour. » </p>
+          <p> Ah ! quel que soit le mois, la colombe dit vrai, Kypris ! Et je jette mes deux bras autour de mon amant, et avec de grands tremblements j'étire jusqu'au pied du lit mes jambes encore engourdies. </p>
+          <p> </p>
+        </div>
+        <div title="154 – LA PLUIE AU MATIN" type="chapter">
+          <p> 154 – LA PLUIE AU MATIN </p>
+          <p> La nuit s'efface. Les étoiles s'éloignent. Voici que les dernières courtisanes sont rentrées avec les amants. Et moi, dans la pluie du matin, j'écris ces vers sur le sable. </p>
+          <p> Les feuilles sont chargées d'eau brillante. Des ruisseaux à travers les sentiers entraînent la terre et les feuilles mortes. La pluie, goutte à goutte, fait des trous dans ma chanson. </p>
+          <p> Oh ! que je suis triste et seule ici ! Les plus jeunes ne me regardent pas ; les plus âgés m'ont oubliée. C'est bien. Ils apprendront mes vers, et les enfants de leurs enfants. </p>
+          <p> Voilà ce que ni Myrtalê, ni Thaïs, ni Glykéra ne se diront, le jour où leurs belles joues seront creuses. Ceux qui aimeront après moi chanteront mes strophes ensemble. </p>
+          <p> </p>
+        </div>
+      </div>
+      <div title="LE TOMBEAU DE BILITIS" type="part">
+        <p> LE TOMBEAU DE BILITIS </p>
+        <p> </p>
+        <div title="156 – PREMIERE EPITAPHE" type="chapter">
+          <p> 156 – PREMIERE EPITAPHE </p>
+          <p> Dans le pays où les sources naissent de la mer, et où le lit des fleuves est fait de feuilles de roches, moi, Bilitis, je suis née. </p>
+          <p> Ma mère était Phoïnikienne ; mon père Damophylos, Hellène. Ma mère m'a appris les chants de Byblos, tristes comme la première aube. </p>
+          <p> J'ai adoré l'Astarté à Kypre. J'ai connu Psappha à Lesbos. J'ai chanté comment j'aimais. Si j'ai bien vécu, Passant, dis-le à ta fille. </p>
+          <p> Et ne sacrifie pas pour moi la chèvre noire ; mais, en libation douce, presse sa mamelle sur ma tombe. </p>
+          <p> </p>
+        </div>
+        <div title="157 – SECONDE EPITAPHE" type="chapter">
+          <p> 157 – SECONDE EPITAPHE </p>
+          <p> Sur les rives sombres du Mélas, à Tamassos de Pamphylie, moi, fille de Damophylos, Bilitis, je suis née. Je repose loin de ma patrie, tu le vois. </p>
+          <p> Toute enfant, j'ai appris les amours de l'Adôn et de l'Astarté, les mystères de la Syrie sainte, et la mort et le retour vers Celle-aux-paupières-arrondies. </p>
+          <p> Si j'ai été courtisane, quoi de blâmable ? N'était-ce pas mon devoir de femme ? Etranger, la Mère-de-toutes-choses nous guide. La méconnaître n'est pas prudent. </p>
+          <p> En gratitude à toi qui t'es arrêté, je te souhaite ce destin : Puisses-tu être aimé, ne pas aimer. Adieu. Souviens-toi dans ta vieillesse, que tu as vu mon tombeau. </p>
+          <p> </p>
+        </div>
+        <div title="158 – DERNIERE EPITAPHE" type="chapter">
+          <p> 158 – DERNIERE EPITAPHE </p>
+          <p> Sous les feuilles noires des lauriers, sous les fleurs amoureuses des roses, c'est ici que je suis couchée, moi qui sus tresser le vers au vers, et faire fleurir le baiser. </p>
+          <p> J'ai grandi sur la terre des nymphes ; j'ai vécu dans l'île des amies ; je suis morte dans l'île de Kypris. C'est pourquoi mon nom est illustre et ma stèle frottée d'huile. </p>
+          <p> Ne me pleure pas, toi qui t'arrêtes : on m'a fait de belles funérailles, les pleureuses se sont arraché les joues, on a couché dans ma tombe mes miroirs et mes colliers. </p>
+          <p> Et maintenant, sur les pâles prairies d'asphodèles, je me promène, ombre impalpable, et le souvenir de ma vie terrestre est la joie de ma vie souterraine. </p>
+          <p> </p>
+        </div>
+      </div>
+      <head/>
+    </body>
+    <back/>
+    <back/>
+  </text>
+</TEI>
