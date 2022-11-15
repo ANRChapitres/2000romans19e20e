@@ -1,0 +1,234 @@
+<?xml version='1.0' encoding='UTF8'?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> Le Héros de Châteauguay </title>
+        <author from="1883" key="" name="David, Laurent-Olivier" sex="male" to="1883"/>
+        <edition n=""/>
+        <editor name="Cadieux et Derome" where="Montréal"/>
+      </titleStmt>
+      <publicationStmt>
+        <date type="created" when="1883"/>
+        <date type="issued" when="1883"/>
+      </publicationStmt>
+      <editionStmt>
+        <profileDesc tag="non-canon" type="genre">
+          <textClass>
+            <keywords>
+              <term>roman d'aventures</term>
+              <term/>
+            </keywords>
+          </textClass>
+        </profileDesc>
+      </editionStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docAuthor/>
+        <docTitle>
+          <titlePart main="Le Héros de Châteauguay"/>
+          <titlePart sub=""/>
+        </docTitle>
+      </titlePage>
+    </front>
+    <body>
+      <div title="LA BATAILLE DE CHATEAUGUAY" type="part">
+        <head> LA BATAILLE DE CHATEAUGUAY </head>
+        <head> C.-M. DE SALABERRY. </head>
+        <p> La plus populaire de nos gloires militaires. </p>
+        <p> Une belle et imposante figure taillée dans le marbre; les traits réguliers, fièrement dessinés; le front hardi, agressif; un teint riche, rosé et blanc; des yeux brillants, limpides, pétillants de verve,—des rayons de soleil dans un ciel bleu;—des épaules larges, solides comme des bastions; une poitrine où les boulets, il semble, devaient rebondir; un bras qui frappait comme Charles Martel ou Richard Coeur-de-Lion; des muscles forts et souples comme l'acier; un magnifique ensemble de force, de distinction, de vigueur et de beauté, une puissante organisation débordant de vie et de sève. </p>
+        <p> Un coeur de lion, une intrépidité à tout oser, à tout braver. Type accompli de ces preux chevaliers qui, de la pointe de leur épée, ont écrit l'histoire de France. Au temps des croisades, il aurait monté à l'assaut de Jérusalem à côté de Godefroy de Bouillon; plus tard, il eût été l'émule des Gaston, des Bayard et des Duguesclin. </p>
+        <p> Si le Canada eût appartenu à la France, en mil huit cent, il eût peut-être conquis le bâton de maréchal en se battant comme Lannes et Masséna. Dans la guerre d'Afrique, guerre de surprises, d'embuscades et de glorieuses aventures, il eût été à côté de Lamoricière sur les murs de Constantine, et eût couvert sa vaillante épée de gloire depuis la pointe jusqu'au pommeau. </p>
+        <p> Vif, brusque, impétueux, toujours prêt à venger une injure d'un coup de poing ou d'un coup de sabre. </p>
+        <p> Le baron de Rottenburg l'appelait, dans ses lettres: "Mon cher marquis de la poudre à canon." </p>
+        <p> Bon, cependant, généreux et affectueux, n'attaquant jamais le premier, et pardonnant facilement, une fois l'explosion faite. </p>
+        <p> Nature de soldat, pleine d'élan et de vivacité aimant autant à chanter, rire et danse qu'à se battre, aussi vaillant à la table que sur le champ de bataille. </p>
+        <p> Sévère en fait de discipline, et ne ménageant point les jurons et les punitions à ses voltigeurs qui chantaient; </p>
+        <lb/>
+        <p> Aimé pourtant, de ses officiers et soldats à cause de son impartialité. </p>
+        <p> Tel est le portrait du lieutenant-colonel de Salaberry, cet illustre guerrier dont les Canadiens-Français ont raison d'être fiers. </p>
+        <p> Après avoir loué le mérite et le talent de ceux qui, depuis la conquête, ont soutenu l'honneur et les droits de leurs compatriotes par la plume et la parole, il est juste que je rende hommage à celui dont la vaillante épée a su nous faire craindre et respecter. </p>
+        <p> Le héros de Châteauguay avait reçu en héritage des traditions glorieuses. </p>
+        <p> La famille d'Irumberry de Salaberry, originaire du pays de Basque, dans le royaume de Navarre, avait conquis ses titres de noblesse sur les champs de bataille. L'un des ancêtres de notre héros était au combat de Coutras, où il frappa dru et fort. Henri de Navarre, depuis roi de France sous le nom d'Henri IV, aperçut le terrible chevalier au moment où, après avoir terrassé de nombreux et vaillants adversaires, il accordait la vie à un gendarme qu'il venait de blesser.—" Force à superbe! merci à faible , lui cria le galant Béarnais, c'est ta devise." </p>
+        <p> Noble devise! que les de Salaberry ont raison de porter avec orgueil sur leur écusson, car ils y ont toujours été fidèles et l'ont illustrée par maintes actions éclatantes. </p>
+        <p> Le grand-père, Michel de Salaberry, vint en Canada dans l'année mil sept cent trente-cinq, en qualité de capitaine de frégate. </p>
+        <p> Il avait une grande réputation de force et de bravoure. Il épousa, en mil sept cent cinquante, mademoiselle Juchereau Duchesnay, fille du seigneur de Beauport. Il prit part aux luttes héroïques qui se terminèrent par la cession du Canada à l'Angleterre. </p>
+        <p> Le père, Louis-Ignace de Salaberry, fut remarquable par ses vertus, son intelligence, sa haute et belle taille, la franchise de son caractère et cette force corporelle qui se transmet dans la famille de père en fils. Il combattit vaillamment dans les rangs de l'armée anglaise en mil sept cent soixante et seize, et reçut trois blessures sérieuses dans le cours de la guerre. Le gouvernement anglais le récompensa de ses services en lui accordant une demi-pension et plusieurs charges. </p>
+        <p> Mais la reconnaissance qu'il devait au duc de Kent et au roi d'Angleterre ne purent jamais lui faire trahir les droits de ses compatriotes. Lorsque Craig voulut, en mil huit cent-neuf, unir les deux Canadas dans le but de mettre les Canadiens-Français sous l'empire d'une minorité anglaise, il fut un de ceux qui s'opposèrent la plus énergiquement à ce projet. Et lorsque le gouverneur le menaça de lui enlever ses moyens d'existence s'il ne se rendait pas à ses désirs, il lui fit cette belle réponse:—"Vous pouvez, Sir James, m'enlever mon pain et celui de ma famille mais mon honneur...... jamais!" </p>
+        <p> Devenu seigneur de Beauport, son manoir fut pendant vingt ans l'aimable rendez-vous où gentilshommes français et anglais, réunis par la conquête, apprirent à s'estimer après s'être battus; les plus hauts personnages d'Angleterre y trouvaient une hospitalité pleine de charme et de distinction. Le noble seigneur avait épousé, en mil sept cent soixante et dix-huit, la belle et distinguée demoiselle Hertel, et de ce mariage étaient nés sept enfants, tous beaux et bien faits, trois filles et quatre garçons, dont l'aîné fut le héros de Châteauguay. </p>
+        <p> Les Canadiens-Français étaient fiers de l'éclat qui environnait cette belle et bonne famille et des hommages qu'elle recevait de leurs fiers conquérants. </p>
+        <p> De toutes les sympathies qui l'honorèrent, la plus illustre et la plus bienveillante fut sans doute, celle du duc de Kent, père de notre Souveraine, la reine Victoria. </p>
+        <p> On sait que ce prince vint en Canada en mil sept cent quatre-vingt-onze, à la tête de son régiment, et qu'il fut, pendant son séjour au milieu de nous, l'idole de la population. C'était un bon prince, aussi, que le duc de Kent, généreux, affable et loyal, aussi noble par le coeur que par la naissance. Il n'eut pas mis le pied, une fois, dans le manoir de Beauport qu'il fut épris d'admiration et d'amitié pour ses aimables hôtes. Les heures les plus agréables de sa vie étaient celles qu'il passait au sein de cette famille, dont il fut toujours l'ami fidèle et le protecteur puissant. Une correspondance de vingt-trois ans, depuis mil sept cent quatre-vingt-onze à mil huit cent-quatorze, démontre toute la profondeur et la sincérité de cette honorable amitié qui se manifeste, à chaque ligne, par les sentiments les plus délicats, les épanchements les plus gracieux. </p>
+        <p> C'est par son influence que les quatre fils du seigneur de Salaberry, Michel, Maurice, Louis et Edouard, son filleul, purent satisfaire leurs inclinations militaires en entrant dans l'armée anglaise, où ils se firent tous en peu d'années, à la pointe de leur épée, une belle position. </p>
+        <p> De ces quatre frères si beaux, si vaillants, qui faisaient l'orgueil de leur famille, de leur protecteur et de leurs compatriotes, il ne resta bientôt que l'aîné. Les trois autres moururent au service de l'Angleterre, de mil huit cent-neuf à mil huit cent-douze, à quelques mois d'intervalle. Maurice et Louis périrent de la fièvre sous ce ciel empesté des Indes dont la conquête et la conservation ont coûté à l'Angleterre des flots de sang. </p>
+        <p> Le plus jeune, Edouard, fut tué à la tête de sa compagnie sous les murs de Badajoz; il n'avait que dix-neuf ans. Quelques heures avant l'assaut, sous l'empire d'un noir pressentiment, il avait écrit une lettre à son protecteur le duc de Kent, pour le remercier de toutes les bontés qu'il avait eues pour sa famille et pour lui. </p>
+        <p> Ils étaient tous trois lieutenants, aimés de leurs chefs et de leurs compagnons d'armes pour leur bravoure, leurs talents et la bonté de leur caractère. </p>
+        <p> Une humble tombe fut élevée en l'honneur de Maurice par les officiers et soldats de son régiment près de l'endroit où il avait été tué. </p>
+        <p> Puisse le temps respecter cette glorieuse tombe! afin que partout il y ait des témoignages éclatants de la loyauté et de la bravoure du peuple canadien. </p>
+        <p> La tradition parle des sympathies que la famille de Salaberry trouva dans sa douleur; ce fut un deuil universel. </p>
+        <p> Le duc de Kent ne fut pas le moins affecté; il manifesta son chagrin dans des lettres touchantes où il parle du sort de ces pauvres enfants avec une tendresse toute paternelle. </p>
+        <p> Pendant ce temps-là, l'aîné des de Salaberry faisait vaillamment son chemin dans l'année anglaise à travers les balles et les boulets; la mort craignait de briser une si belle destinée. Soldat à quatorze ans, il partait, à seize, pour les Indes Occidentales, en qualité d'enseigne, devenait rapidement lieutenant et capitaine, grâce à la protection incessante du duc et à l'admiration que sa belle conduite inspirait dans l'armée. </p>
+        <p> On était fier, au pays, lorsque l'écho y apportait la nouvelle des succès et de la gloire du jeune Canadien. On applaudissait, lorsque la rumeur apprenait comment il savait soutenir l'honneur de sa famille et de sa patrie. Il avait montré, en arrivant aux Indes, que, malgré sa jeunesse, il ne se laisserait pas insulter impunément. Voici comment M. de Gaspé raconte ce fait: </p>
+        <p> "Les officiers du soixantième régiment, dans lequel Salaberry était lieutenant, appartenaient à différentes nationalités. Il y avait des Anglais, des Prussiens, des Suisses, des hanovriens et deux Canadiens-Français, les lieutenants de Salaberry et Des Rivières. C'était chose assez difficile de maintenir la paix parmi eux; les Allemands surtout étaient portés à la querelle; excellents duellistes, ils étaient de dangereux antagonistes. Un matin, Salaberry était à déjeuner avec quelques-uns de ses frères d'armes, quand entre l'un des Allemands qui le regarde et lui dit d'un air de Mépris:—Je viens justement d'expédier un Canadien-Français dans l'autre monde,—faisant par là allusion à Des Rivières qu'il venait de tuer en duel." </p>
+        <p> "Salaberry bondit sur son siège; mais, reprenant son sang-froid, il dit:—Nous allons finir le déjeuner, et alors vous aurez le plaisir d'en expédier un autre." </p>
+        <p> "Ils se battirent, comme c'était alors la coutume, à l'arme blanche. Tous deux firent preuve d'une grande adresse, et le combat fut long et obstiné. Salaberry était très jeune.; son adversaire, plus âgé, était un rude champion. Le premier reçut une blessure au front dont la cicatrice ne s'est jamais effacée. Comme il saignait abondamment et que le sang lui interceptait la vue, ses amis voulurent faire cesser lu combat; mais il refusa. S'étant attaché un mouchoir autour de la tête, le combat recommença avec encore plus d'acharnement, A la fin, son adversaire tomba mortellement blessé, et la plupart dirent qu'il n'avait eu que ce qu'il méritait." </p>
+        <p> Ce duel mit pour toujours de Salaberry a l'abri des insultes; il avait fait ses preuves. </p>
+        <p> La guerre des Indes se faisait alors entre l'Angleterre et la France; la possession de la Martinique et de la Guadeloupe devait être le prix de la victoire. Il devait en coûter ou jeune de Salaberry, si français par l'origine et le caractère, de se battre contre la France; il devait lui répugner de combattre le drapeau pour lequel ses ancêtres avaient versé leur sang. Mais la loyauté était pour lui un devoir et la carrière militaire une vocation. </p>
+        <p> La lutte fut vive, les batailles acharnées, les dangers continuels; les maladies dévoraient ceux que les balles épargnaient. </p>
+        <p> Il vint un jour où de son régiment il ne resta plus que deux cents hommes. Il apprenait cela à son père dans une lettre où parlant des milliers d'hommes qu'il avait vus tomber autour de lui, il ajoutait: "Je crois que je serai aussi heureux que mon grand-père." </p>
+        <p> Lorsque le général Prescott se décida à abandonner la dernière place forte de la Guadeloupe, le fort Mathilde, c'est à de Salaberry, alors âgé de seize ou dix-sept ans, qu'il confia le soin de protéger la retraite de l'année. Le jeune lieutenant se montra digne de la confiance de son chef. Il était fait capitaine peu de temps après. </p>
+        <p> En mil huit cent-huit, on le trouve en Irlande, major de brigade, et faisant la cour à une blonde et belle jeune fille qui aurait enchaîné le jeune officier pour la vie sans l'intervention du duc de Kent. Celui-ci écrivit à son protégé une longue lettre pour lui démontrer que chez les militaires le coeur doit céder à la raison, lorsqu'ils n'ont pas de fortune. </p>
+        <p> En mil huit cent-neuf, il prenait part à la malheureuse expédition de Wolcheren, qui coûta cher et rapporta peu de gloire A l'Angleterre. </p>
+        <p> L'année suivante, il devenait aide-de-camp du général de Rottenburg et partait pour le Canada, où des parents et amis dévoués l'accueillirent avec des transports de joie. </p>
+        <p> Les Canadiens-Français se montraient avec enthousiasme le jeune officier, qui, parti enfant de son pays, revenait plein de force, dans tout l'éclat de la gloire et de la beauté. </p>
+        <p> On était alors aux mauvais jours de Craig, époque de fanatisme et de persécution, mais époque aussi de grandeur morale et nationale. La lutte devenait difficile; l'énergie des Bédard et des Papineau n'en pouvait plus. </p>
+        <p> Mais bientôt un cri d'alarme retentit partout; les États-Unis venaient de déclarer la guerre à l'Angleterre et se préparaient à envahir le Canada. On comprit, en face du danger, la nécessité de se gagner les sympathies de la population; on lui fit force caresses et concessions. Et pour exciter son enthousiasme et lui faire prendre les armes, on nomma Charles-Michel de Salaberry lieutenant-colonel, et on lui confia la mission d'organiser les voltigeurs canadiens. </p>
+        <p> Les Canadiens-Français répondirent à l'appel de l'Angleterre et s'enrôlèrent sous le drapeau de leur jeune chef. </p>
+        <p> Il était temps, les Américains traversaient la frontière, au mois de juin mil huit cent-douze, à trois endroits différents. </p>
+        <p> Pendant que Brock et Sheaffe repoussaient les deux armées de l'ouest et du centre dans des combats glorieux, le général Dearborn marchait sur Montréal avec dix mille hommes, par le chemin de Saint-Jean et d'Odeltown. De Salaberry courut à sa rencontre, à la tête de quatre cents voltigeurs, et n'eut pas même besoin des milices du district de Montréal, qui s'avançaient à la hâte sous les ordres du colonel Deschambault. Ayant trouvé l'ennemi campé sur la rive droite du la rivière Lacolle, il résolut de le déloger. La rapidité de ses mouvements et l'initelligence avec laquelle il avait préparé ses travaux de défense déconcertèrent le général américain, qui repassa la frontière après une attaque malheureuse où quatorze cents de ses hommes furent mis en fuite par un avant-poste composé d'une poignée de voltigeurs. </p>
+        <p> La campagne de mil huit cent-douze était finie. </p>
+        <p> Sir George Prévost félicita le lieutenant-colonel de Salaberry de son succès, dans un ordre général, et rendit hommage à la loyauté et au courage de la milice. Les Canadiens-Français durent être surpris; c'était la première fois qu'ils s'entendaient dire des choses agréables par les représentants de la couronne anglaise. </p>
+        <p> La campagne de mil huit cent-treize fut plus sérieuse; les Américains, honteux de leur échec, s'étaient préparés à frapper un grand coup sur Montréal, qu'ils considéraient comme la clef du pays. La défaite de Proctor, en Haut-Canada, par le général Harrison, exalta leur enthousiasme et jeta avec raison le Bas-Canada dans l'effroi. </p>
+        <p> La situation devenait critique. </p>
+        <p> Deux armées, fortes chacune de sept à huit mille hommes, marchaient sur Montréal, l'une, sous les ordres de Hampton, par le lac Champlain, et l'autre, commandée par Dearborn et Wilkinson, descendait de Kingston. A ces dix-sept mille hommes le Bas-Canada ne pouvait opposer que trois mille soldats et miliciens. </p>
+        <p> La lutte parut un instant impossible. </p>
+        <p> Il fallait un homme assez habile pour empêcher la jonction des deux armées américaines et capable de suppléer au nombre par la prudence et la valeur, d'accomplir un prodige, s'il le fallait. La patrie en danger avait besoin enfin d'un sauveur, d'un héros, elle le trouva:—c'était le lieutenant-colonel de Salaberry. Il accourt, prend le devant avec quatre cents voltigeurs, rencontre Hampton, culbute ses avant-postes à Odeltown. et le poursuit jusqu'à Four-Corners, tombe sur lui avec une poignée d'hommes et le remplit de terreur. </p>
+        <p> Après plusieurs jours de marches et de contre-marches, Hampton reprenait, le vingt et un octobre, sa course en avant sur les bords de la rivière Châteauguay, que de Salaberry immortalisait, le vingt-six, par une victoire à jamais mémorable. </p>
+        <p> Inutile de donner des détails de cette bataille si souvent racontée et célébrée par l'histoire, l'éloquence et la poésie. Qui n'a senti battre son coeur au récit de cette lutte glorieuse où trois cents Canadiens-Français défirent sept mille Américains? Qui ne sait que tout l'honneur de cette victoire appartient au brave colonel de Salaberry, que le succès de nos armes en ce jour célèbre fut le résultat de l'habileté avec laquelle il sut disposer ses forces et fortifier sa position, et de la bravoure qu'il déploya pendant la bataille? Avec quel enthousiasme les derniers survivants de la poignée de braves qui partage avec lui l'honneur de ce triomphe, racontent les faits éclatants de leur héroïque colonel! </p>
+        <p> Ils le représentent, avant la bataille, cherchant, exploitant toutes les ressources que le terrain, la rivière et la forêt pouvaient lui offrir, faisant de chaque arbre, de chaque pierre un retranchement, un abri pour ses troupes, frappant du pied la terre pour en faire jaillir des éléments de victoire. Et lorsque la bataille est commencée, ils le montrent entraînant ses braves voltigeurs à sa suite; dominant le bruit de la bataille des éclats de sa voix présent sur tous les points à la fois; multipliant le nombre de ses soldats par la rapidité et la précision de ses mouvements; dispersant un instant ses forces et les ralliant soudain pour tomber sur un point où on ne l'attendait pas; faisant, faire un bruit de trompettes et pousser des cris effrayants; employant mille ruses pour étourdir, surprendre l'ennemi, et lui faire croire qu'il avait à combattre des milliers d'hommes; donnant, enfin l'exemple d'un courage, d'une bravoure que le danger semblait grandir, bravant les balles avec cette héroïque insouciance qui l'avait illustré sur les champs de bataille de la Martinique, et de la Guadeloupe. </p>
+        <p> La bataille dura quatre heures, Hampton, croyant avoir affaire à une armée de dix mille hommes, se retira après avoir eu une centaine d'hommes tués et blessés, et reprit à la hâte le chemin des États-Unis; et lorsque Wilkinson, qui attendait au pied du Long-Sault le résultat de la bataille apprit la fatale nouvelle, il jugea à propos de se retirer. </p>
+        <p> Le Bas-Canada était sauvé. Les Américains, découragés, ne tentèrent plus sérieusement de l'envahir pendant cette guerre, qui se termina l'année suivante par le traité de Gand. </p>
+        <p> Oui, le Bas-Canada était sauvé et conservé à l'Angleterre par la bravoure des Canadiens-Français. Quel démenti jeté à la face de ceux qui avaient reproché à cette noble population d'être déloyale, parce qu'elle avait du coeur et ne voulait pas laisser fouler aux pieds ses droits et ses libertés! Ils tentèrent bien un instant, les insensés! deo lui ravir sa gloire, d'arracher du front de Salaberry des lauriers si noblement conquis; mais les applaudissements de tout un peuple étouffèrent les cris de la jalousie et du fanatisme. L'Angleterre elle-même déclara, par la bouche du prince régent et du due de Kent, que Salaberry et ses braves voltigeurs étaient les sauveurs du pays, les héros de Châteauguay. </p>
+        <p> Salaberry fut fait compagnon du Bain, et les chambres provinciales lui votèrent des remercîments; plus tard, en mil huit cent dix-sept, il fut fait conseiller législatif. </p>
+        <p> Mais ce fut là toute la récompense accordée au brave colonel et à ses compagnons d'armes; on trouva que c'était assez pour des Canadiens-Français. On a vu de ces braves dont la loyauté avait conservé à l'Angleterre une riche colonie, mendier leur pain, la médaille de Châteauguay sur la poitrine. Et après un demi-siècle, pas une pierre ne marque encore le glorieux champ de bataille où ils ont illustré son drapeau; seule, une tombe dans un cimetière ignoré indique l'endroit où reposent les cendres du héros de Châteauguay. </p>
+        <p> On a quelquefois contesté l'importance de cette bataille en donnant pour raison, ou plutôt pour prétexte, le petit nombre de tués et de blessés; mais depuis quand mesure-t-on la grandeur d'une victoire à la quantité de sang versé? Salaberry aurait-il plus de mérite, s'il eut fait tuer ses hommes inutilement? N'est-ce pas plutôt un titre de gloire incomparable d'avoir pu accomplir un si beau fait d'armes sans une plus grande effusion de sang, d'avoir su ménager par des mesures prudentes, la vie de ses braves soldats? </p>
+        <p> De Salaberry n'eut plus l'occasion de se signaler. Il avait conquis tous les grades que l'Angleterre pouvait accorder à un soldat catholique et Canadien-Français; la protection même du duc de Kent n'aurait pu le le faire sortir des rangs accessibles aux médiocrités. Une telle position ne devait pas convenir à notre immortel compatriote. Il avait assez fait, d'ailleurs, pour un gouvernement qui avait eu l'ingratitude d'enlever à son illustre père la demi-pension qu'il avait si noblement. gagnée en combattant pour l'Angleterre. Il renonça à la carrière militaire et vécut ensuite pour sa famille, s'occupant d'administrer la seigneurie que mademoiselle Hertel de Rouville lui avait apportée sous forme de dot. Il avait épousé cette noble demoiselle quelques mois avant la bataille de Châteauguay. Belle alliance! dont le duc de Kent le félicita. </p>
+        <p> C'est à Chambly qu'il fixa sa résidence, an milieu de la population témoin de sa valeur et de sa gloire pendant la guerre. Sur la rivière Chambly, qu'on appelait le grenier du Bas-Canada, vivaient alors des familles remarquables par leur origine ou leurs talents, qui se disputaient la palme des belles manières, de la libéralité et de la fidélité aux traditions du passé. On y menait joyeuse vie; c'était pendant l'hiver une succession de fêtes, de promenades et de fricots légendaires. On luttait à qui ferait le plus et le mieux. </p>
+        <p> On partait le matin; on dînait chez le seigneur Jacob; on prenait les amis en passant, et on allait passer la soirée chez M. Cartier, de Saint-Antoine, ou chez les messieurs Drolet, Franchère et autres. Quel bruit! quel entrain! On se séparait à regret, avec la promesse de se revoir bientôt. </p>
+        <p> C'était une grande joie dans la tribu, lorsqu'on voyait arriver le brave colonel, car il n'était pas le moins bruyant, et lorsque venait son tour de chanter ou de prendre part à un cotillon emporté, à un reel favori, il ne tirait pas en arrière. Tout le monde l'admirait pour sa gloire et l'aimait pour la gaieté et l'affabilité de son caractère. </p>
+        <p> C'est dans une de ces joyeuses réunions, chez M. Hatte de Chambly, qu'il fut soudain frappé d'apoplexie, le vingt-six février mil huit cent vingt-neuf. Il mourut le lendemain sans avoir pu recouvrer l'usage de la parole, mais en pleine possession de ses facultés mentales et en paix avec Dieu, entouré de ses enfants qu'il fit venir pour les bénir. </p>
+        <p> Comme son père, il avait eu quatre fils et trois filles dont voici les noms: Alphonse-Melchior, ancien aide-de-camp provincial et député adjudant-général de milice pour le Bas-Canada, mort il y a quatre on cinq ans; Louis-Michel, mort; Maurice qui se tua à l'âge de douze ans, par accident; Charles-René-Léonidase, mort; Hermine, dame Dr Galen, décédée; Charlotte, mariée a M. Hatte de Sorel, et une autre, morte enfant; tous grands et robustes, héritiers du type remarquable des de Salaberry. Plusieurs petits-enfants existent pour perpétuer le nom de cette belle famille. </p>
+        <lb/>
+        <lb/>
+        <lb/>
+      </div>
+      <div title="HOMMAGES DE LA PATRIE AU HÉROS DE CHÂTEAUGUAY." type="part">
+        <head> HOMMAGES DE LA PATRIE </head>
+        <p> Plusieurs personnes avaient parfois exprimé l'opinion qu'un monument devrait être élevé à la mémoire du héros de Châteauguay, Mais c'est à M. J. O. Dion, de Chambly que revient l'honneur d'avoir forcé la nation à accomplir un grand acte de réparation et de reconnaissance. Dès mil huit cent soixante-dix, il avait parlé de ce projet et exprimé l'espoir et la volonté de le mettre bientôt à exécution. Son rêve était de tout préparer pour le centenaire du général de Salaberry, en 1878, ou au moins pour le cinquantième anniversaire de sa mort. Mais il ne put se mettre sérieusement à l'oeuvre que dans le mois de janvier 1879. Un comité fut nommé alors à Chambly, et il tut décidé qu'on lancerait l'idée par la célébration d'une fête destinée à commémorer en même temps le centenaire du héros de Châteauguay et le cinquantième anniversaire de sa mort. </p>
+        <p> Cette fête eut lieu le vingt-cinq février mil huit cent soixante et dix-neuf, et elle fut magnifique. Elle commença par une procession dans laquelle figurèrent des députations militaires d'un grand nombre de corps de milice et de volontaires de Montréal et des paroisses environnantes, des membres du clergé, les élèves du collège et des écoles des Frères et plusieurs corps de musique. Après avoir parcouru le village, la procession se rendit à l'église qu'on avait pavoisée de draperies noires et jaunes. Au milieu de la nef, s'élevaient un catafalque et un obélisque imposant couvert d'inscriptions patriotiques. Une messe de requiem fut chantée avec beaucoup d'effet par un choeur puissant; le comité énergiquement aidé par Messire Thibault, curé de la paroisse avait tout fait pour rendre la cérémonie imposante. </p>
+        <p> L'obélisque se trouvait à gauche de l'autel, au-dessus de l'endroit même où reposent les cendres du héros. M. Globenski, seigneur de Saint-Eustache, y avait déposé une couronne d'immortelles avec l'inscription suivante: "Hommage du fils d'un voltigeur au héros de Châteauguay." </p>
+        <p> Dans l'après-midi, à une réunion du comité général, il fut décidé d'élever un monument à de Salaberry au moyen d'une souscription générale d'une piastre par tête. Le soir, il y eut concert et banquet, et des discours patriotiques furent prononcés par l'honorable Boucherville, M. Globenski, M. Bernier, de Saint-Jean, M. le colonel D'Orsennens, et l'auteur de cette biographie. </p>
+        <p>MSulte avait composé pour la circonstance les couplets suivants, qui furent chantés avec effet par les élèves du collège: </p>
+        <p>SALABERR Y! </p>
+        <p> Couplets à chanter pour la fête du 25 février 1879. </p>
+        <div type="poem">
+          <lg>
+            <l> Fils de soldats, vaillante race, </l>
+            <l> Rappelons-nous les jours passés, </l>
+            <l> Que l'histoire en garde la trace: </l>
+            <l> Aimons ceux qui nous ont sauvés. </l>
+          </lg>
+          <lg>
+            <l> CHOEUR: </l>
+          </lg>
+          <lg>
+            <l> Chantons les combats de nos pères, </l>
+            <l> Ils marchaient droit à l'ennemi! (bis.) </l>
+            <l> Vivent nos militaires, </l>
+            <l> Gloire à Salaberry! </l>
+          </lg>
+          <lg>
+            <l> Oui! que chacun de nous s'apprête </l>
+            <l> A transmettre le souvenir </l>
+            <l> Des récits qu'en ces jours de fête </l>
+            <l> Nous recueillons pour l'avenir. </l>
+          </lg>
+          <lg>
+            <l> Chantons, etc. </l>
+          </lg>
+          <lg>
+            <l> Aux favoris se la victoire, </l>
+            <l> Ces vétérans restés debout </l>
+            <l> Comme les piliers de la gloire. </l>
+            <l> rendons des hommages partout. </l>
+          </lg>
+          <lg>
+            <l> Chantons, etc. </l>
+          </lg>
+          <lg>
+            <l> S'il lui fallait prendre les armes. </l>
+            <l> Le Canadien sous les drapeaux. </l>
+            <l> Retrouvait encor des charmes </l>
+            <l> Et l'exemple de ses héros. </l>
+          </lg>
+          <lg>
+            <l> Chantons, etc. </l>
+          </lg>
+        </div>
+        <p> A partir de ce jour, M. Dion se multiplia pour assurer le succès de l'oeuvre; il écrivit à droite et à gauche, alla de ville en ville, de village en village, de porte en porte, mendier pour le monument du héros de Châteauguay. Il eut à lutter péniblement contre ceux qui voulaient que ce monument fut érigé à Montréal, dans une ville, où il aurait nécessairement produit plus d'effet. Ses adversaires avaient peut-être les meilleures raisons de leur côte, mais comme il n'y avait personne pour le suivre, pour déployer autant de dévouement et d'activité, il l'emporta naturellement et il n'y eut bientôt qu'une voix pour répéter après lui que Chambly devait avoir l'honneur de posséder le monument comme les cendres du héros. </p>
+        <p> Mais la souscription marchait lentement. </p>
+        <p> M. Dion vit avec regret que le monument ne pourrait pas être inauguré en mil huit cent quatre-vingt. En attendant, pour stimuler le zèle de la population dans le district de Québec, il entreprit de faire poser une tablette commémorative A Beauport sur la maison même ou naquit de Salaberry. La population de Québec répondit à son appel, et le vingt-huit juin mil huit cent quatre-vingt, la cérémonie eut lieu. Son Honneur le lieutenant-gouverneur présidait, entouré de personnages marquants et d'une foule enthousiaste. Une immense acclamation remplit l'air quand le lieutenant-gouverneur écarta le voile qui couvrait le marbre commémoratif. Ce marbre a la forme d'un écusson et porte l'inscription suivante: </p>
+        <lb/>
+        <lb/>
+        <head> Force à superbe et mercy à faible. </head>
+        <head> ICI </head>
+        <head> CHARLES M. DE SALABERRY </head>
+        <head> C. B. </head>
+        <head> LE HÉROS DE CHATEAUGUAY </head>
+        <head> COMITÉ DE CHAMBLY </head>
+        <head> 27 juin 1880. </head>
+        <lb/>
+        <lb/>
+        <p> Enfin le quatre août de la même année, (1880) le comité de Chambly autorisait M. Dion à confier à notre jeune et distingué sculpteur Canadien, M. Hébert, l'exécution du monument projeté, et à lui payer la somme de quatorze cents piastres, à la condition que l'ouvrage fût terminé dans le mois de mars mil huit cent quatre vingt-un. </p>
+        <p> On ne pouvait faire un meilleur choix. </p>
+        <p> M. Hébert a fait ses preuves; c'est lui qui a exécuté sous la direction de son maître distingué, M. Bourassa, la magnifique statue de Notre-Dame de Lourdes. Il se mit à l'oeuvre et remplit les conditions de son contrat. Dans le mois de mars mil huit cent quatre vingt-un, la statue, exposée dans une vitrine sur la rue Notre-Dame, attirait l'admiration générale. Voici la description que la Minerve en faisait à cette époque. "La statue est en bronze. Elle est en pied et mesure six pieds et demi, y compris le socle. Le héros est debout, appuyé sur la jambe gauche. La position est celle du militaire au repos. Attitude calme et noble, assurée, sans jactance, tel qu'il convient à un héros. La tête est droite, le regard porté en avant, comme contemplant le champ de bataille." </p>
+        <p> "Ses deux mains se croisent sur la poignée du sabre, dont la pointe repose sur le socle. Le manteau militaire, attaché sur les épaules et rejeté en arrière, vient se replier sur la bouche d'un canon place à la gauche." </p>
+        <p> "La base est d'une grande simplicité mais très élégante dans la forme. Elle appartient au style dorique, arec écusson portant les armes de la famille du héros, celles de Chambly et de la province de Québec. Sur la face principale est inscrit:—Au héros de Châteauguay, 26 Octobre 1818.—" </p>
+        <p> "Au bas de cette inscription est un trophée composé du drapeau des Voltigeurs d'une branche de laurier et d'une couronne. Le monument, statue et piédestal compris, aura une hauteur de vingt-sept pieds." </p>
+        <p> Enfin, le sept juin mil huit cent quatre vingt-un, l'inauguration du monument avait lieu à Chambly. Jamais ce village n'avait vu et ne verra probablement réunion plus imposante, spectacle plus grandiose. Le gouverneur-général, le marquis de Lorne, le lieutenant-gouverneur, T. Robitaille, plusieurs membres du gouvernement, grand nombre de militaires, de prêtres et de députés, des représentants de nos sociétés nationales, les hommes les plus marquants de notre société s'étaient donné rendez-vous à cette belle fête. </p>
+        <p> Chambly, de loin, ressemblait à un immense pavillon couvert de drapeaux de verdure et de fleurs. </p>
+        <p> Le 65° bataillon, sous le commandement du lieutenant-colonel Ouimet, fut naturellement le premier rendu sur les lieux avec sa belle musique et les officiers de la Saint-Jean-Baptiste de Montréal. Presqu'en même temps, arrivaient son Honneur le lieutenant-gouverneur de Québec et madame Robitaille qui passèrent une partie de l'avant-midi à visiter les principaux établissements de l'endroit, l'hôpital, le collège et le couvent (les Dames de la Congrégation) où une adresse charmante fut présentée à madame Robitaille qui répondit en termes non moins charmants. </p>
+        <p> Vers midi et demi un superbe goûter, ordonné par les officiers du 65°, fut servi, dans une des salles des casernes, à tout le bataillon et à bon nombre d'invités, au nombre desquels étaient sir Hector Langevin, les honorables MM. Caron, Mousseau, MM. Mercier, M. P. P., Coursol, M. P., Ryan, M. P., Bergeron, M. P., Préfontaine, M. P. P., Benoît, M. P., M. Dr Mount, vice-président de la Société-Saint Jean-Baptiste de Montréal, le colonel Brosseau, du 88°, le colonel Doherty, du 81° le colonel Houde, du 86°, les lieutenants Thibeaudeau et Garneau, de la batterie de campagne de Québec, le lieutenant Hudon, de l'artillerie de garnison de Québec, le colonel Crawford, les capitaines Lyman, Caverhill et McCorkill, et les lieutenants Hood, Crawford et Lithgow, du 5° Royaux Écossais, le capitaine Blackrock, et le lieutenant Patterson, du 6° Fusiliers, les capitaines Henshaw et Davies, des Carabiniers Victoria, et d'autres dont les noms nous échappent. </p>
+        <p> Le Sorelois arrivait, ayant à son bord Son Excellence le gouverneur-général et sa suite, qui se composait du colonel de Salaberry et de Mme de Salaberry, de Mme Hatt, de Mme Smyth, de Mme Lindsay, de M. et Mme G. Bossé, de Mlle de Salaberry, du colonel Duchesnay, député-adjudant général du 7° district, du capitaine Chater, aide-de-camp de son Excellence, de MM. O. et H. de Salaberry, du capitaine Campbell et de Mme Campbell, de M. et Mme Russell Stephenson. </p>
+        <p> M. Willett, maire de Chambly, lut une adresse à Son Excellence, puis le gouverneur, escorte du 65e, etc., fît le tour du village, et rendu au Carré Fréchette, le marquis de Lorne prit place sur une estrade élevée à côté du monument, avec bon nombre de dames et d'autres invités. Le Dr Martel lui lut une adresse à laquelle Son Excellence fit l'éloquente réponse qui suit: </p>
+        <lb/>
+        <lb/>
+        <lb/>
+        <p> "Agréez, mes remerciements pour votre adresse qui exprime éloquemment le désir patriotique que vous avez d'honorer d'une manière convenable la mémoire d'un patriote." </p>
+        <p> "Je suis heureux de m'unir à vous dans cette commémoration des services rendus à la patrie par un vaillant soldat." </p>
+        <p> "Nous sommes rassemblés pour inaugurer un monument consacré à la mémoire d'un homme qui représente dignement le noble esprit de son temps. Ce même esprit existe encore de nos jours, et si l'occasion s'en présentait, une foule de Canadiens imiteraient l'exemple de ce grand homme et s'efforceraient même de réaliser ses exploits." </p>
+        <p> Cette statue nous rappelle le trait caractéristique de nos compatriotes. Content de peu pour lui-même, la grandeur seule pouvait le satisfaire quand il s'agissait de sa patrie. Tel était le caractère de Salaberry; tel est celui du Canadien de nos jours. </p>
+        <p> C'est à Chambly, c'est près du champ de bataille où il eut la bonne fortune de pouvoir faire éclater cette bravoure, glorieuse tradition de sa race, que nous plaçons cette statue. </p>
+        <p> Ce n'est pas dans un esprit de vaine gloire que nous élevons ce monument; mais c'est dans l'espérance que les vertus antiques conservées dans le souvenir de tous, pourront guider et éclairer les générations futures. </p>
+        <p> Ces vertus brillaient d'un vif éclat dans cet homme distingué que ses talents militaires rendaient apte à accomplir son devoir à la gloire de nos armes. </p>
+        <p> N'oublions pas en lui élevant ce monument, de rendre, en même temps, à ses frères, le tribut d'hommage qu'ils méritent. </p>
+        <p> Ils se livrèrent, eux aussi, à l'heure du danger, à cette profession des armes qui, en quelque sorte, était innée chez eux. Trois d'entre eux succombèrent en défendant l'honneur de ce drapeau, qui est aujourd'hui le symbole de notre union et de nos libertés. </p>
+        <p> Dans ce beau pays, autrefois son séjour, il existe entre notre époque et celle où il vécut, un contraste qui s'impose forcément à nos réflexions. Où nous voyons maintenant de vastes et fertiles campagnes, un pays traversé par nos voies ferrées et où nos rivières permettent à nos bateaux à vapeur d'aborder; on ne voyait, quand cette lutte héroïque était soutenue par de Salaberry, Perrault, Mailloux, Daly, et Duchesnay, que quelques arpents cultivés au milieu de vastes forêts. Trop souvent, hélas! ces forêts abritaient même des armées ennemies. </p>
+        <p> Maintenant que nous nous réjouissons au souvenir des hauts faits accomplis à l'endroit où les Canadiens, Anglais et Français, se sont également illustrés, il n'est pas nécessaire de m'arrêter sur les tristes événements de ces jours. Nous sommes en paix, et nous vivons avec le peuple grand et généreux qui nous avoisine, dans les douceurs d'une amitié et d'une alliance qui, nous l'espérons, seront durables. </p>
+        <p> Alors ils essayèrent de nous vaincre, mais la bravoure des Canadiens sut leur inspirer ce sentiment de respect profond qui est le fondement solide d'une amitié durable. </p>
+        <p> Nous devons être heureux et nous réjouir de ce que nos rivalités avec eux n'existent maintenant que dans l'arène féconde du commerce. </p>
+        <p> Grâce à cette ère pacifique, l'accroissement journalier de nos ressources et le développement des forces vives de la nation rendraient toute guerre entreprise contre le Canada longue et difficile; aussi ne désirent-ils aucunement envahir notre territoire, et, nous! l'espérons, un tel désir ne se manifestera plus jamais, car les nations, à moins que la division ne provoque intervention, ne s'interposent pas aujourd'hui aussi souvent qu'autrefois dans les affaires de leurs voisins. </p>
+        <p> Si en 1812 le Canada fut si cher aux Canadiens, combien plus ne doit-il pas l'être aujourd'hui! Alors, en effet, sa population peu nombreuse goûtait les douceurs de la liberté sous l'égide d'une constitution peu libérale; maintenant, il renferme dans son sein un grand peuple, se développant sans cesse, se gouvernant par lui-même à l'intérieur, jouissant avec fierté de la forme de constitution la plus libre, et ayant la faculté, par l'entremise de sa propre représentation, de bénéficier de l'influence diplomatique d'un grand empire pour l'avantage de son commerce avec les nations étrangères. Chez nous, aucun parti ne voudrait provoquer des révolutions ou un changement quelconque de gouvernement. Personne n'a de chance de succès dans la vie publique, en Canada, personne ne reçoit l'appui de notre peuple, s'il n'aime avant tout nos libres institutions. </p>
+        <p> Le gouverneur-général qui, grâce à votre invitation, se trouve en ce moment au milieu de vous, n'est, en tant que chef de gouvernement fédéral, que le premier et continuel représentant du peuple. </p>
+        <p> Cependant ce n'est pas seulement comme personnage officiel que je me réjouis d'être avec vous aujourd'hui; c'est pour moi une satisfaction personnelle, ce sont de joyeux instants que ceux où il m'est donné de visiter, en compagnie des membres de la famille de Salaberry, le théâtre de tant de grandeur et de courage. </p>
+        <p> La Princesse et moi, nous ne pourrons jamais oublier les relations d'amitié intime qui ont existé entre le prince Edouard, duc de Kent, et le colonel de Salaberry, amitié de famille qui, j'ose l'espérer, ne sera pas restreinte à nos aïeux. La Princesse m'a prié de vous exprimer le profond intérêt qu'elle porte à cette solennité; elle désire que je vous fasse part du regret qu'elle a de ne pouvoir se trouver avec vous aujourd'hui. Elle espère cependant, pouvoir admirer ce monument où, pour la première fois, l'art d'un de nos sculpteurs a si bien commémoré la loyauté, le courage, et le génie d'un guerrier canadien. </p>
+        <p> Ce beau discours prononcé en français par Son Excellence fut applaudi comme il méritait de l'être. Il est bon de transmettre à la postérité les paroles éloquentes tombées en cette circonstance solennelle de la bouche du représentant de sa majesté, de conserver ce témoignage précieux de la valeur et de la loyauté des Canadiens-Français. </p>
+        <p> Ayant fini de parler, Son Excellence découvrit la statue au milieu des acclamations de la foule, des détonations du canon, des fanfares retentissantes, de la musique et des feux de joie tirés par le 65° bataillon. </p>
+        <lb/>
+        <lb/>
+        <lb/>
+        <p> Le colonel de Lotbinière Harwood fit; alors le discours de circonstance. Sa voix forte, vibrante, sa belle prestance et l'énergie avec laquelle il exprima ses sentiments et ses pensées produisirent le meilleur effet sur la foule, M. Harwood commença comme suit,: </p>
+        <p> Qu'il plaise à Votre Excellence, </p>
+        <p> Messieurs, </p>
+        <p> Il est des circonstances dans la vie où le coeur semble, nager comme dans un océan de délices. Telle est pour moi, Messieurs, chers compatriotes et compagnons d'armes, la circonstance actuelle; tel est pour moi ce moment à jamais béni où le grand peuple canadien, sortant pour ainsi dire de son long assoupissement, se lève enfin noble et fier pour rendre aux cendres d'un mort illustre, que dis-je, au sauveur de son pays, les honneurs qui lui étaient dus depuis trop longtemps, et dont le souvenir, par une pénible indifférence, avait été presque rejeté au fond du lugubre et triste gouffre de l'oubli, de ce rapide oubli que le poète nomme "le second linceul des morts." Hélas! depuis longtemps le héros de Châteauguay dort au fond de sa tombe... pas une pierre... pas un mausolée... pas la moindre trace de l'endroit où la froide poussière de cet homme illustre attend le grand jour de la résurrection... (On comprend que je ne veux parler ici que du monument public, du monument élevé par la nation; je ne parle pas du modeste mausolée que la, piété filiale érigea, il y a quelques années, dans le champ du long repos, le paisible et modeste cimetière de Chambly.) </p>
+        <p> Que du fois les étrangers au pays, cherchant partout de l'oeil quelque souvenir du héros de Châteauguay et ne voyant rien, absolument rien qui leur révélât d'une manière tangible le passé glorieux de cet homme illustre, s'écriaient dans leur indignation: "Canadiens ingrats..... que faites-vous? C'est à vous qu'on peut dire: il est donc bien vrai que l'ingratitude est un vent brûlant qui dessèche le coeur." Peuple canadien, vous avez une tache au front! Vous ne serez jamais un grand peuple que vous n'ayez effacé cette tache..... Permettrez-vous plus longtemps à l'univers étonné de répéter à votre adresse: </p>
+      </div>
+      <head/>
+    </body>
+    <back/>
+    <back/>
+  </text>
+</TEI>
