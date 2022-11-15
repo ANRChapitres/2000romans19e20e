@@ -1,0 +1,841 @@
+<?xml version='1.0' encoding='UTF8'?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> Histoire fantastique du célèbre Pierrot </title>
+        <author from="1827" key="" name="Assollant, Alfred" sex="male" to="1886"/>
+        <edition n="3"/>
+        <editor name="Delagrave" where="Paris"/>
+      </titleStmt>
+      <publicationStmt>
+        <date type="created" when="1860"/>
+        <date type="issued" when="1885"/>
+      </publicationStmt>
+      <editionStmt>
+        <profileDesc tag="non-canon" type="genre">
+          <textClass>
+            <keywords>
+              <term>roman d'aventures</term>
+              <term>littérature jeunesse</term>
+            </keywords>
+          </textClass>
+        </profileDesc>
+      </editionStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docAuthor/>
+        <docTitle>
+          <titlePart main="Histoire fantastique du célèbre Pierrot"/>
+          <titlePart sub=""/>
+        </docTitle>
+      </titlePage>
+    </front>
+    <body>
+      <div title="I. PREMIÈRE AVENTURE DE PIERROT. COMMENT PIERROT DEVINT UN GRAND GUERRIER " type="chapter">
+        <head/>
+        <head> COMMENT PIERROT DEVINT UN GRAND GUERRIER </head>
+        <p> Pierrot naquit enfariné: son père était meunier; sa mère était meunière. Sa marraine était la fée Aurore, la plus jeune fille de Salomon, prince des génies. </p>
+        <p> Aurore était la plus charmante fée du monde: elle avait les cheveux noirs, le front de moyenne grandeur, mais droit et arrondi, un nez retroussé, fin et charmant, une bouche petite qui laissait voir dans ses sourires des dents admirables. Son teint était blanc comme le lait, et ses joues avaient cette nuance rose et transparente qui est inconnue aux habitants de ce grossier monde sublunaire. Quant à ses yeux, ô mes amis! jamais vous n'en avez vu, jamais vous n'en verrez de pareils. Les étoiles du firmament ne sont auprès que des becs de gaz fumeux; la lune n'est qu'une vieille et sale lanterne. </p>
+        <p> Dans ces yeux si beaux, si doux, si lumineux, on voyait resplendir un esprit extraordinaire et une bonté suprême. Oh! quelle marraine avait le fortuné Pierrot! </p>
+        <p> Les fées, qui sont de grandes dames, ne fréquentent guère de simples meuniers; mais Aurore était si compatissante, qu'elle n'aimait que la société des pauvres et des malheureux. Un jour qu'elle se promenait seule dans la campagne, elle passa près de la maison du meunier juste au moment où Pierrot, qui venait de naître, criait et demandait le sein de sa mère; elle entra dans le moulin, poussée par une curiosité bien naturelle aux dames. </p>
+        <p> Comme elle entrait, Pierrot cessa de crier pour lui tendre les bras. Aurore en fut si charmée qu'elle le prit sur-le-champ, l'embrassa, le caressa, l'endormit, le replaça dans son berceau et ne voulut pas sortir du moulin avant d'avoir obtenu la promesse qu'elle serait choisie pour marraine de l'enfant. </p>
+        <p> Le lendemain, elle tint Pierrot sur les fonts baptismaux et voulut lui faire un présent, suivant la coutume. </p>
+        <p> —Mon ami, lui dit-elle, je pourrais te rendre plus riche que tous les rois de la terre; mais à quoi sert la richesse, si ce n'est à corrompre et endurcir ceux qui la possèdent? Je pourrais te donner le bonheur; mais il faut l'avoir mérité. Je veux te donner deux choses: l'esprit et le courage, qui te défendront contre les autres hommes; et une troisième: la bonté, qui les défendra contre toi. Ces trois choses ne t'empêcheront pas de rencontrer beaucoup d'ennemis et d'essuyer de grands malheurs; mais, avec le temps, elles te feront triompher de tout. Au reste, si tu as besoin de moi, voici un anneau que je t'ordonne de ne jamais quitter. Quand tu voudras me voir, tu le baiseras trois fois en prononçant mon nom. En quelque lieu de la terre ou du ciel que je sois, je t'entendrai et je viendrai à ton secours. </p>
+        <p> Voilà comment Pierrot fut baptisé. Je passe sous silence les dragées dont la fée Aurore répandit une si grande quantité qu'elle couvrit tout le pays, et que les enfants du village en ramassèrent deux cent cinquante mille boisseaux et demi, sans compter ce que croquèrent les oiseaux du ciel, les lièvres et les écureuils. </p>
+        <p> Quand Pierrot eut dix-huit ans, la fée Aurore le prit à part et lui dit: </p>
+        <p> —Mon ami Pierrot, ton éducation est terminée. Tu sais tout ce qu'il faut savoir: tu parles latin comme Cicéron et grec comme Démosthènes; tu sais l'anglais, l'allemand, l'espagnol, l'italien, le cophte, l'hébreu, le sanscrit et le chaldéen; tu connais à fond la physique, la métaphysique, la chimie, la chiromancie, la magie, la météorologie, la dialectique, la sophistique, la clinique et l'hydrostatique; tu as lu tous les philosophes et tu pourrais réciter tous les poëtes; tu cours comme une locomotive et tu as les poignets si forts et si bien attachés, que tu pourrais porter, à bras tendu, une échelle au sommet de laquelle serait un homme qui tiendrait lui-même la cathédrale de Strasbourg en équilibre sur le bout de son nez. Tu as bonnes dents, bon pied, bon oeil. Quel métier veux-tu faire? </p>
+        <p> —Je veux être soldat, dit Pierrot; je veux aller à la guerre, tuer beaucoup d'ennemis, devenir un grand capitaine et acquérir une gloire immortelle qui fera parler de moi in soecula soeculorum . </p>
+        <p> — Amen , dit la fée en riant. Tu es jeune encore, tu as du temps à perdre. J'y consens; mais s'il t'arrive quelque accident, ne me le reproche pas.... Ces enfants des hommes, ajouta-t-elle plus bas et comme se parlant à elle-même, se ressemblent tous, et le plus sensé d'entre eux mourra sans avoir eu plus de bon sens que son grand-père Adam quand il sortit du paradis terrestre. </p>
+        <p> Pierrot avait bien entendu l'aparté, mais il n'en fit pas semblant. «Il n'y a pire sourd, dit le proverbe, que celui qui ne veut pas entendre.» Ses yeux étaient éblouis des splendeurs de l'uniforme, des épaulettes d'or, des pantalons rouges, des tuniques bleues, des croix qui brillent sur les poitrines des officiers supérieurs. Le sabre qui pend à leur ceinture lui parut le plus bel instrument et le plus utile qu'eût jamais inventé le génie de l'homme. Quant au cheval, et tous mes lecteurs me comprendront sans peine, c'était le rêve de l'ambitieux Pierrot. </p>
+        <p> —Il est glorieux d'être fantassin, disait-il; mais il est divin d'être cavalier. Si j'étais Dieu, je dînerais à cheval. </p>
+        <p> Son rêve était plus près de la réalité qu'il ne le croyait. </p>
+        <p> —Embrasse ton père et ta mère, dit la fée, et partons. </p>
+        <p> —Où donc allons-nous? dit Pierrot. </p>
+        <p> —A la gloire, puisque tu le veux; et prenons garde de ne pas nous rompre le cou, la route est difficile. </p>
+        <p> Qui pourrait dire la douleur de la pauvre meunière quand elle apprit le projet de Pierrot? </p>
+        <p> —Hélas! dit-elle, je t'ai nourri de mon lait, réchauffé de mes caresses et de mes baisers, élevé, instruit, pour que tu te fasses tuer au service du roi! Quel besoin as-tu d'être soldat, malheureux Pierrot? Te manque-t-il quelque chose ici? Ce que tu as voulu, en tout temps, ne l'avons-nous pas fait? Ne te l'avons-nous pas donné? Pierrot, je t'en supplie, ne me donne pas la douleur de te voir un jour rapporté ici mort ou estropié. Que ferions-nous alors? Que fera ton père, dont le bras se fatigue et ne peut plus travailler? Comment et de quoi vivrons-nous? </p>
+        <p> —Pardonne-moi, pauvre mère, dit l'entêté Pierrot, c'est ma vocation. Je le sens, je suis né pour la guerre. </p>
+        <p> Ici la mère se mit à pleurer. Le meunier, qui n'avait encore rien dit, rompit le silence: </p>
+        <p> —Tu peux t'en aller, Pierrot, si tu sens que c'est ta vocation, quoique ce soit une vocation singulière que celle de couper la tête à un homme, ou de lui fendre le ventre d'un coup de sabre et de répandre à terre ses entrailles. La voix des parents n'a appris, n'apprend et n'apprendra jamais rien aux enfants. Ils ne croient que l'expérience! Va donc, et tâche d'acquérir cette expérience au meilleur marché possible. </p>
+        <p> —Mais, dit Pierrot, ne faut-il pas combattre pour sa patrie? </p>
+        <p> —Quand la patrie est attaquée, dit le meunier, il faut que les enfants courent à l'ennemi et que les pères leur montrent le chemin; mais il n'y a aucun danger, mon pauvre Pierrot, tu le sais bien: nous sommes en paix avec tout le monde. </p>
+        <p> —Mais.... </p>
+        <p> —Encore un mais ! Va! pars! lui dit son père en l'embrassant. </p>
+        <p> Pierrot partit fort chagrin, mais obstiné dans sa résolution. Si la bonne fée avait pitié de la douleur de ses parents, elle savait fort bien qu'un peu d'expérience était nécessaire pour rabattre la présomption de Pierrot, et elle avait confiance dans l'avenir. </p>
+        <p> Ils marchèrent longtemps côte à côte sans rien dire. Enfin, après plusieurs jours, ils arrivèrent dans le palais du roi. Là, Pierrot fut si ébloui des colonnes de marbre, des grilles en fer doré, des gardes chamarrés d'or, et des cavaliers qui couraient au galop le sabre en main, à travers la foule, pour annoncer le passage de Sa Majesté, qu'il oublia complétement les remontrances de ses parents. </p>
+        <p> Comme il regardait, bouche béante, un spectacle si nouveau, le roi passa en carrosse, précédé et suivi d'une nombreuse escorte. Il était midi moins cinq minutes, et la famille royale, au retour de la promenade, allait dîner. Aussi le cocher paraissait fort pressé, dans la crainte de faire attendre Sa Majesté. Tout à coup un accident inattendu arrêta le carrosse. Un des chevaux de l'escorte fit un écart, et le page qui le montait, et qui était à peu près de l'âge de Pierrot, fut jeté contre une borne et eut la tête fracassée. Tous les autres s'arrêtèrent au même instant pour lui porter secours ou au moins pour ne pas le fouler sous les pieds des chevaux. </p>
+        <p> —Eh bien! qu'est-ce? dit aigrement le roi en mettant la tête à la portière. </p>
+        <p> —Sire, répondit un page, c'est un de mes camarades qui vient de se tuer en tombant de cheval. </p>
+        <p> —Le butor! dit le roi; qu'on l'enterre et qu'un autre prenne sa place. Faut-il, parce qu'un maladroit s'est brisé la tête, m'exposer à trouver mon potage refroidi? </p>
+        <p> Il parlait fort bien, ce grand roi. Si chaque souverain, ayant trente millions d'hommes à conduire, pensait à chacun d'eux successivement et sans relâche pendant quarante ans de règne, il ne lui resterait pas une minute pour manger, boire, dormir, se promener, chasser et penser à lui-même. Encore ne pourrait-il, en toute sa vie, donner à chacun de ses sujets qu'une demi-minute de réflexion. Évidemment c'est trop peu pour chacun. C'était aussi l'opinion du grand Vantripan, empereur de Chine, du Tibet, des deux Mongolies, de la presqu'île de Corée, et de tous les Chinois bossus ou droits, noirs, jaunes, blancs ou basanés qu'il a plu au ciel de faire naître entre les monts Koukounoor et les monts Himalaya. Aussi, ne pouvant penser à tous ses sujets, en gros ou en détail, il ne pensait qu'à lui-même. </p>
+        <p> Par l'énumération des États de ce grand roi, vous voyez, mes amis, que la Chine fut le premier théâtre des exploits de Pierrot. Il ne faudrait pas croire pour cela que Pierrot fût Chinois. Il était né, au contraire, fort loin de là, dans la forêt des Ardennes; mais la fée, par un enchantement dont elle a gardé le secret, sans quoi je vous le dirais bien volontiers, l'avait, au bout de trois jours de marche, et pendant son sommeil, transporté, sans qu'il s'en aperçût, sur les bords du fleuve Jaune, où se désaltèrent, en remuant éternellement la tête, des mandarins aux yeux de porcelaine. Mais revenons à la colère du roi quand il craignit de trouver son potage refroidi. </p>
+        <p> Au bruit de cette royale colère, toute l'escorte trembla. Le grand roi était d'humeur à faire sauter comme des noisettes les têtes de trois cents courtisans pour venger une injure si grave. Chacun cherchait des yeux, dans la foule, un remplaçant au malheureux page. </p>
+        <p> La fée Aurore poussa de la main le coude de Pierrot. Celui-ci, sans balancer, saisit les rênes, met le pied à l'étrier et monte à cheval. </p>
+        <p> —Ton nom? dit Vantripan. </p>
+        <p> —Pierrot, sire, pour vous servir. </p>
+        <p> —Tu es un drôle bien hardi. Qui t'a dit de monter à cheval? </p>
+        <p> —Vous-même, sire. </p>
+        <p> —Moi? </p>
+        <p> —Vous, sire. N'avez-vous pas dit: Qu'on l'enterre et qu'un autre prenne sa place!» Je prends sa place. Toute la terre ne vous doit-elle pas obéissance? J'ai obéi. </p>
+        <p> —Et la casaque d'uniforme? </p>
+        <p> Ici Pierrot fut embarrassé un instant, mais la fée vint à son secours. Elle le toucha de sa baguette: en un clin d'oeil Pierrot fut habillé comme ses nouveaux camarades. Alors le roi, qui s'était penché vers le fond du carrosse pour parler à la reine, se retourna brusquement. </p>
+        <p> —Sire, dit Pierrot, je suis prêt. </p>
+        <p> —Comment! tu es habillé? </p>
+        <p> —Sire, ne vous ai-je pas dit que toute la terre vous doit obéissance? Vous avez voulu que je prisse l'uniforme. Je l'ai pris. </p>
+        <p> —Voilà un grand prodige, dit Vantripan; mais mon potage ne vaut plus rien. Au palais, et au galop. </p>
+        <p> En une minute le carrosse, l'escorte et Pierrot disparurent, laissant trente mille badauds stupéfaits de la hardiesse de Pierrot, de sa promptitude à s'habiller, et de la bonté du grand Vantripan. Dans le même moment, la pluie qui tombait les força de rentrer dans leur famille, où tout le reste de la journée et les trois jours suivants on ne parla d'autre chose que du nouveau page. </p>
+        <p> Pierrot était émerveillé de son bonheur. </p>
+        <p> —Quoi! disait-il, en si peu de temps me voilà admis à la cour, et en passe de faire une belle fortune. Qui sait? </p>
+        <p> Au milieu de ces pensées ambitieuses, on arriva au palais. Pierrot voulut descendre de cheval comme les autres et suivre le roi pour dîner, mais le gouverneur des pages l'arrêta. </p>
+        <p> —Montez votre garde d'abord, lui dit-il. </p>
+        <p> —Je meurs de faim, dit Pierrot. </p>
+        <p> —Vous répliquez? huit jours d'arrêts. Mais d'abord, sabre en main et restez à cheval devant le vestibule; voici la consigne: Quiconque entrera sans laisser passer, vous lui couperez le cou; et si vous y manquez, on vous le coupera à vous-même pour vous apprendre à vivre. </p>
+        <p> Ce disant, le gouverneur monta d'un air grave dans son appartement, où l'attendait un bon dîner avec un bon feu et d'excellent vin. </p>
+        <p> C'était au mois de novembre, et Pierrot, chamarré d'or, mais légèrement vêtu, montait sa garde à cheval devant le vestibule. Devant lui, des cuisines royales montaient à chaque instant une foule de plats succulents, les uns pour le roi, d'autres pour les officiers de sa maison, pour ses ministres, pour les femmes de chambre de la reine, pour les maîtres d'hôtel, pour tout le monde enfin, excepté le désolé Pierrot. Chaque plat laissait un parfum exquis dont étaient douloureusement excitées les papilles nerveuses du malheureux page. </p>
+        <p> Les marmitons riaient en passant près de lui, et se le montraient l'un à l'autre avec des gestes moqueurs. </p>
+        <p> —Voilà un cavalier dont la digestion sera facile, dit l'un d'eux. </p>
+        <p> —Habit de velours, ventre de son, dit un autre. </p>
+        <p> Pierrot, mouillé de pluie, morfondu, ne pouvant souffler dans les doigts de sa main gauche qui tenait la bride du cheval, ni dans les doigts de sa main droite qui tenait le sabre, affamé de plus, donnait de bon coeur au diable le roi, la reine, la cour, les courtisans et la maudite envie qu'il avait eue de quitter son père et sa mère, et d'entrer au service militaire. </p>
+        <p> Enfin la fée Aurore eut compassion de ses souffrances. </p>
+        <p> —Pierrot, dit-elle, cherche dans la sacoche de ton cheval, et mange. </p>
+        <p> Or dans la sacoche il n'y avait qu'un morceau de pain sec et fort dur, que le pauvre affamé dévora en quelques minutes. Ainsi se réalisa son rêve de dîner à cheval. </p>
+        <p> Comme il finissait, trois heures sonnèrent. Vantripan avait dîné, lui aussi, mais beaucoup mieux, et plus à l'aise. </p>
+        <p> —Ventre de biche! dit-il en paraissant sur le balcon du premier étage du palais, j'ai solidement dîné. </p>
+        <p> Et il défit son ceinturon pour respirer plus à l'aise. </p>
+        <p> —Quel est ce page qui monte la garde? ajouta-t-il en abaissant son regard royal sur le pauvre Pierrot. </p>
+        <p> —Sire, dit un officier, c'est ce jeune homme qui s'est offert si singulièrement au service de Votre Majesté. </p>
+        <p> —Pardieu! dit le roi, quand j'ai bien mangé et bien bu, je veux que tous mes sujets soient heureux. Approche ici, page; et toi, dit-il au ministre de la guerre qui avait dîné avec lui, tire ton sabre, et découpe-moi ce chapon rôti. </p>
+        <p> Pierrot s'approcha, et Vantripan lui lança le chapon. Pierrot le reçut si adroitement qu'il fit l'admiration générale. </p>
+        <p> Les gens qui ont bien dîné ne sont pas, comme on sait, difficiles sur le choix de leurs plaisanteries, et celles des rois, quelle qu'en soit la tournure, sont toujours excellentes. </p>
+        <p> Après le chapon vint une bouteille de vin, puis un petit pain, puis des gâteaux. Finalement Pierrot dîna mieux qu'il ne l'avait espéré; mais il voyait rire toute la cour, et ce rire ne lui faisait pas plaisir. </p>
+        <p> —Quand je dîne avec mes parents, pensait-il, le dîner n'est pas friand, mais je ne mange les restes de personne, et personne ne se moque de moi. </p>
+        <p> Cette pensée indigna Pierrot. Quand il eut fini, et cela dura quelques minutes à peine, tant il montra d'activité, Vantripan le fit monter près de lui. </p>
+        <p> —Il est aux arrêts, dit le gouverneur des pages. </p>
+        <p> —Est-ce ainsi qu'on m'obéit? dit le roi d'une voix tonnante. Va toi-même prendre sa place, et garde les arrêts pendant six mois. </p>
+        <p> Le gouverneur descendit la tête basse et prit la place de Pierrot au milieu des rires de toute la cour. Chacun trouva la justice de Vantripan admirable. </p>
+        <p> Le roi, content de lui, s'assit dans un bon fauteuil et attendit l'arrivée de Pierrot. A ses côtés, dans un autre fauteuil, près du feu, était assise la reine, dont nous n'avons pas encore parlé, et qui était une femme assez grande, fort blonde, fort grosse, de qui ses femmes de chambre disaient: </p>
+        <p> —Il est impossible de savoir si elle est plus méchante que bête ou plus bête que méchante. </p>
+        <p> Derrière elle se tenait debout, tantôt sur un pied, tantôt sur l'autre, la princesse Bandoline, sa fille, surnommée par les courtisans Reine de Beauté; elle était fort belle en effet, mais encore plus orgueilleuse, et regardait la race des Vantripan comme la plus illustre de toutes les races royales, et elle-même, comme la plus illustre personne de cette race. De l'autre côté de la cheminée se chauffait, assis, l'héritier présomptif de la couronne, le prince Horribilis, laid et méchant comme un singe; il faisait l'orgueil et la joie de sa mère, qui ne voyait en lui qu'un esprit gracieux et pénétrant, et il effrayait d'avance ceux qui craignaient de devenir ses sujets. Rangés en demi-cercle, les courtisans se tenaient debout autour de la famille royale, et semblaient attendre en bataille l'entrée de Pierrot. </p>
+        <p> Celui-ci se présenta simplement et sans embarras. Il n'avait pas vu la cour, mais l'éducation que lui avait donnée la fée Aurore le mettait dès l'abord de plain-pied avec tous ceux qu'il voyait. Arrivé à quelques pas du roi, il s'arrêta modestement. </p>
+        <p> —Approche, drôle, lui dit gaiement le roi. D'où sors-tu? Je ne t'ai jamais vu. </p>
+        <p> —Sire, dit Pierrot, le soleil ne regarde pas les hommes, mais tous les hommes regardent le soleil. </p>
+        <p> Cette réponse fit le meilleur effet. Vantripan, flatté de se voir comparé au soleil, croisa ses mains sur son ventre avec satisfaction. Quant à Pierrot, s'il répondait par une flatterie, c'est qu'il ne se souciait pas d'une réponse plus directe. Au milieu de tant de grands seigneurs, il sentait qu'il n'aurait pas beau jeu à dire: Je suis Pierrot, fils de Pierre le meunier et de Pierrette sa femme. Cette généalogie honnête, mais modeste, aurait fait rire toute la cour. Pierrot ne reniait pas sa famille, mais il n'en parlait pas; c'était un commencement d'ingratitude. </p>
+        <p> Quoi qu'il en soit, dès les premiers mots Pierrot fit merveille. La reine lui fit quelques questions et trouva ses réponses admirables. Le prince Horribilis lui dit des méchancetés qui furent repoussées avec fermeté par Pierrot, mais sans qu'il osât riposter à un si dangereux adversaire. La princesse Bandoline elle-même daigna détourner ses yeux de la glace où elle se contemplait elle-même, et après l'avoir considéré quelque temps au moyen d'un lorgnon à verre de vitre, elle se pencha vers sa mère et dit assez haut pour être entendue de Pierrot: </p>
+        <p> —Il est assez bien de sa personne, ce petit. </p>
+        <p> Ce fut le signal des compliments. Toute la cour se jeta sur Pierrot et voulut l'embrasser. Celui-ci ne savait comment se débarrasser de la foule d'amis qu'il avait acquis si subitement; il s'en tira pourtant avec assez de bonheur, grâce aux secours de la fée Aurore qui, sans se montrer, lui soufflait toutes ses réponses. </p>
+        <p> Pour que la leçon fût complète, elle voulut aider elle-même à sa fortune. </p>
+        <p> La voix de Vantripan fit cesser ce tumulte. </p>
+        <p> —Pierrot, dit-il, tu me plais, et je t'attache à notre personne sacrée. Je te donne une compagnie dans mes gardes. </p>
+        <p> —Il faut convenir, pensa Pierrot, que je suis né coiffé. Qui m'aurait dit cela dans la forêt des Ardennes? </p>
+        <p> Il se précipita aux genoux du roi, baisa sa main royale et celles de la reine et de la belle Bandoline; quant au prince Horribilis, au moment où Pierrot s'avançait pour la même cérémonie, il lui appliqua sur le nez une croquignole si vive, que le malheureux page recula de trois pas. </p>
+        <p> —Qu'est-ce? dit Vantripan. </p>
+        <p> —C'est votre nouveau capitaine qui vient de se heurter le nez, dit sur-le-champ Horribilis. </p>
+        <p> Pierrot n'osa le démentir. </p>
+        <p> —A-t-il de l'esprit, mon bel Horribilis! dit la reine qui avait vu donner la croquignole. </p>
+        <p> —Assez, répondit négligemment la belle Bandoline, qui lissait ses cheveux avec ses doigts blancs comme la neige. </p>
+        <p> —Maintenant, dit Vantripan en se levant, nous avons assez travaillé aujourd'hui. Si nous faisions une petite collation? </p>
+        <p> Tout le monde le suivit, même Pierrot, qui fit collation, et soupa avec messieurs les capitaines des gardes. </p>
+        <p> Dès le lendemain il entra en fonction, fit l'exercice du cheval et du sabre, et montra des dispositions admirables. </p>
+        <p> En peu de jours il l'emporta sur tous ses camarades, ce qui lui ôta le peu d'amis qu'aurait pu lui laisser sa rapide fortune. Si facile à réparer que fût cette perte, Pierrot s'y montra sensible: il n'était pas encore accoutumé au bel air de la cour et aux usages du monde. </p>
+        <p> Un mois après l'arrivée de Pierrot, le bruit se répandit que le géant Pantafilando, empereur des îles Inconnues, sur la réputation de beauté de la princesse Bandoline, la faisait demander en mariage. Tout le monde sait que les îles Inconnues, semblables à l'île de Barataria du fameux Sancho Pança, sont situées en terre ferme à cinq cents lieues au nord des monts Altaï, et confinent au Kamtchatka. On sait aussi que ces îles sont appelées Inconnues à cause du grand éloignement où elles sont de la mer et des poissons, qui jamais n'en entendirent parler. L'occasion se présentera peut-être plus tard de donner sur cette géographie nouvelle quelques détails que j'emprunterai aux livres magiques du magicien Alcofribas. La description du magicien commence ainsi: </p>
+        <div> image </div>
+        <p> Ce qui veut dire, dans la langue qu'emploient le diable et ses adeptes pour communiquer ensemble: </p>
+        <p> Hrhadhaghâ, mhushkhokhinhgûm,  Bhahrhatâ, Abbrakhadhabrâ. </p>
+        <p> Et en français: </p>
+        <p> Écoutez tous, petits et grands,  Celui qui mange les petits enfants. </p>
+        <p> Revenons à la demande en mariage du géant Pantafilando. Ce grand prince n'avait pas cru qu'elle pût être rejetée; aussi vint-il la faire lui-même à la tête de cent mille cavaliers qui entrèrent le sabre au poing dans la capitale de la Chine, et l'accompagnèrent à cheval jusqu'au grand escalier du palais du roi. </p>
+        <p> Par hasard, Pierrot était de garde ce jour-là avec sa compagnie. Il fut un peu étonné de cet appareil, et descendit l'escalier pour tenir la bride du cheval, pendant que le géant mettait pied à terre avec toute sa suite. Pantafilando, remettant son cheval à un palefrenier nègre, monta les degrés côte à côte avec Pierrot. </p>
+        <p> Au dernier, Pierrot se retourna et vit que les cent mille Tartares suivaient leur prince dans le palais. Il s'arrêta et dit au géant: </p>
+        <p> —Sire, S.M. le roi de la Chine sera sans doute très-heureux de vous donner l'hospitalité dans son palais, mais il est bien difficile de loger tous ces braves cavaliers. </p>
+        <p> —Eh bien, dit gaiement Pantafilando, ceux qui ne pourront pas entrer resteront dehors. D'ailleurs, mes soldats ne sont pas difficiles. N'est-ce pas, amis, que vous n'êtes pas difficiles? </p>
+        <p> —Non, non, crièrent à la fois d'une voix de tonnerre les cent mille Tartares; nous ne sommes pas difficiles. Nous coucherons un peu partout. </p>
+        <p> —Avez-vous la gale? cria Pantafilando. </p>
+        <p> —Non. </p>
+        <p> —Avez-vous la teigne? </p>
+        <p> —Non. </p>
+        <p> —Avez-vous la peste? </p>
+        <p> —Non. </p>
+        <p> —Entrez donc! </p>
+        <p> Pierrot regarda autour de lui. La compagnie dont il avait le commandement était de cent hommes seulement, qui tremblaient de peur à la vue du seul Pantafilando. Engager le combat et faire respecter la consigne eût été folie. C'était mettre à feu et à sang la capitale de l'empire. Manquer à sa consigne, c'était se faire couper le cou, et Pierrot savait bien que le grand Vantripan n'y manquerait pas, ne fût-ce que pour se venger de la frayeur que lui inspirait l'empereur des îles Inconnues. </p>
+        <p> —De quoi s'avise ce grand escogriffe, disait-il, de faire un pareil esclandre? S'il veut se marier, n'y a-t-il pas des filles dans son pays? Après tout, qu'est-ce qu'une femme? C'est un être plus petit que nous, plus bavard, plus médisant, plus paresseux, plus joli si l'on veut, qui porte plusieurs jupons et qui n'a pas de barbe. N'est-ce pas là de quoi massacrer des centaines de mille hommes et brûler tout un pays? </p>
+        <p> A ce moment de ses réflexions, il sentit une douleur assez vive, comme si on lui tirait les oreilles. C'était la fée Aurore. Elle avait entendu ce beau monologue. </p>
+        <p> —Pierrot, dit-elle, j'ai bien envie de te planter là, car tu n'es pas bon à grand'chose. Dis-moi, connais-tu ce beau vers de M. Legouvé? </p>
+        <p> ...Parle mieux d'un sexe à qui tu dois ta mère. </p>
+        <p> —Hélas! dit le pauvre capitaine, M. Legouvé s'est-il jamais trouvé en face du féroce Pantafilando et de ses cent mille Tartares? </p>
+        <p> —Laisse-moi faire et ne t'inquiète pas des Tartares. </p>
+        <p> En même temps elle parut en costume de dame d'honneur aux yeux du géant, qui ne l'avait pas encore vue. Vous imaginez assez ce que devait être la fée Aurore en dame d'honneur. Les plus belles filles d'Ève n'étaient auprès d'elle que des cailloux bruts, comparés aux purs diamants de Golconde. C'était une grâce, une lumière, une divinité. Tout en elle paraissait rose, transparent, diaphane, fait d'une goutte de lait dorée par un rayon de soleil. Elle regarda les cent mille Tartares, et tous, d'un commun accord, se prosternèrent contre terre. Pantafilando lui-même en fut ébranlé jusqu'au fond du coeur; il se sentit subitement radouci, ramolli, et saisi d'un transport de joie dont la cause lui était inconnue. Quant à Pierrot, il était ravi et transporté en esprit au-dessus des planètes. Il ne craignait plus ni le géant ni personne. Il ne craignait que de ne pas exécuter assez vite les ordres de sa marraine. </p>
+        <p> —Seigneur, dit-elle à Pantafilando, la princesse Bandoline, ma maîtresse, qui a depuis longtemps entendu parler de vos exploits, est ravie de vous voir. Mais elle vous prie d'entrer seul dans ce palais avec deux ou trois officiers. C'est en habit de fête et non en habit de guerre qu'il faut venir voir sa fiancée. </p>
+        <p> —Mon enfant, dit le gros Pantafilando, si ta maîtresse a seulement la moitié de ta beauté, mon coeur et ma main sont à elle; mais, sans aller plus loin, si tu veux m'épouser, je te fais dès à présent impératrice des îles Inconnues, et pour peu que tu le désires, j'y joindrai le royaume de la Chine, que mes Tartares et moi nous dévorerons en un instant. N'est-ce pas, amis? dit-il en se tournant vers son escorte. </p>
+        <p> —Oui, oui, s'écrièrent à la fois les cent mille Tartares en remuant les mâchoires comme des castagnettes; nous mangerons la Chine et tous ses habitants. </p>
+        <p> Cette armée était si admirablement disciplinée, que chaque soldat buvait, mangeait, dormait, marchait et parlait à la même heure, à la même minute que tous ses camarades. C'était un modèle d'armée. Chaque matin on lui disait ce qu'elle devait penser dans la journée, et, en vérité, il n'y avait pas d'exemple de soldat qui eût pensé à droite ni à gauche contre les ordres de son chef. </p>
+        <p> —Seigneur, répliqua la fée en souriant, tant d'honneur ne m'appartient pas; mais souffrez que j'annonce votre arrivée à ma maîtresse. Et elle disparut. </p>
+        <p> —Corbleu! dit le géant en passant sa langue sur ses lèvres, comme un chat qui lèche ses babines après dîner, comment t'appelle-t-on, capitaine? </p>
+        <p> —Pierrot, seigneur. </p>
+        <p> —Corbleu! capitaine Pierrot, par le grand Mandricard mon aïeul, premier empereur des îles Inconnues, voilà une jolie fille, et je veux lui faire plaisir. Holà! trois généraux! qu'on me suive, et que tous les autres remontent à cheval et attendent mes ordres, la lance en arrêt. Toi, Pierrot, montre-moi le chemin. </p>
+        <p> Pierrot ne se fit pas prier. Il entra dans la salle à manger, qui était aussi la salle d'audience du grand Vantripan. La porte n'ayant que 60 pieds de haut, Pantafilando, qui marchait sans précaution, se cogna le front contre le montant supérieur. Il entra en jurant horriblement. </p>
+        <p> —Que mille millions de canonnades renversent ce palais sur la tête de ceux qui l'ont bâti et de ceux qui l'habitent!... s'écria-t-il d'une voix si forte que toutes les vitres de la salle se brisèrent en éclats. </p>
+        <p> —Diable! dit Pierrot, les affaires vont mal. </p>
+        <p> Vantripan était assis sur son trône. Sa famille était à ses côtés avec toute la cour; mais au seul bruit de la voix de Pantafilando, toutes les dames s'enfuirent saisies d'une terreur panique. Les courtisans auraient bien voulu suivre cet exemple; mais les portes étaient trop étroites pour donner passage à tout le monde, et beaucoup furent forcés, ne pouvant fuir, de faire contre mauvaise fortune bon coeur. </p>
+        <p> —Quel est l'officier de garde aujourd'hui! s'écria Vantripan d'une voix mal assurée. </p>
+        <p> —C'est moi, sire, répondit Pierrot qui avait repris tout son sang-froid. </p>
+        <p> —Quelle est la consigne? </p>
+        <p> —De couper le cou à tous ceux qui entrent ici sans permission. </p>
+        <p> —Eh bien, pourquoi n'as-tu pas coupé le cou à cet immense Tartare, et pourquoi laisses-tu entrer ici le premier venu? </p>
+        <p> Pierrot allait répondre, le géant l'interrompit. </p>
+        <p> —Le premier venu! s'écria Pantafilando. Oui, certes, le premier venu de cent mille Tartares qui n'attendent à ta porte que mon signal pour te casser en mille morceaux, toi et ta ville de porcelaine et tes coquins de sujets, dont aucun n'ose me regarder en face. </p>
+        <p> —Prenez la peine de vous asseoir, monseigneur, dit alors Vantripan en présentant lui-même son fauteuil au géant, et excusez l'incivilité de mes officiers qui ne vous ont peut-être pas traité avec tous les égards dus à votre rang. Et, à propos, seigneur, à qui ai-je l'honneur de parler? </p>
+        <p> —Ah! ah! vieux cafard, dit le bruyant Pantafilando, tu ne me connais pas, mais à ma mine seule tu as deviné que j'étais un hôte illustre. Je suis le géant Pantafilando, si connu dans l'histoire; Pantafilando, empereur des îles Inconnues, souverain des mers qui entourent le pôle et des neiges qui couvrent les monts Altaï; Pantafilando, qui a conquis le Beloutchistan, le Mazandéran et le Mongolistan; qui fait trembler l'Indoustan et la Cochinchine; qui rend muets comme des poissons le Turc et le Maure, et devant qui la terre frissonne comme l'arbre sur lequel souffle l'ouragan, pendant que l'Océan demeure immobile de frayeur; je suis Pantafilando, l'invincible Pantafilando. </p>
+        <p> Durant ce discours, tous les assistants mouraient de peur. Pierrot seul regarda le géant sans pâlir. </p>
+        <p> —Voilà, pensa-t-il, un grand fanfaron; mais sa barbe rousse, ses moustaches retroussées en croc et sa voix de chaudron percé ne m'effrayent pas. </p>
+        <p> —A quel heureux événement devons-nous le plaisir de vous voir? dit Vantripan. </p>
+        <p> —Je viens te demander en mariage ta fille Bandoline, la Reine de Beauté. </p>
+        <p> —Je vous la donne avec beaucoup de plaisir, s'écria Vantripan. Elle ne pouvait pas trouver un époux plus digne d'elle. Elle est à vous, avec la moitié de mes États. </p>
+        <p> —J'en suis enchanté, s'écria Pantafilando, et la dot ne me plaît pas moins que la fiancée. Entre nous, mon vieux Vantripan, tu es un peu âgé pour gouverner encore un si grand empire, et tu feras bien de prendre du repos. Dans une famille bien unie, un gendre est un fils. Tout n'est-il pas commun entre un père et ses enfants? La Chine nous est donc commune. Or, quand un bien est commun à deux propriétaires, si l'un des deux est paralytique, c'est à l'autre de le remplacer dans l'administration de la propriété commune. Tu es paralytique d'esprit, impotent de corps; donc, moi qui suis sain de corps et d'esprit, je te remplace dans le gouvernement et dans l'administration du royaume. C'est un lourd fardeau; mais, avec l'aide de Dieu, j'espère y suffire. </p>
+        <p> —Mais je ne suis pas paralytique, essaya de dire Vantripan. </p>
+        <p> —Tu n'es pas paralytique! dit Pantafilando feignant d'être étonné. On m'avait donc trompé. Si tu n'es pas paralytique, prends ce sabre et défends-toi. </p>
+        <p> —Hélas! seigneur, dit tristement le pauvre Vantripan, je suis paralytique, étique et phthisique si vous le voulez. Prenez mes États, mais ne me faites pas de mal. </p>
+        <p> —Vous faire du mal, dit Pantafilando, faire du mal à un beau-père si tendrement aimé! Que le ciel m'en préserve. Vous n'avez pas d'ami plus fidèle que moi, maintenant que mes droits au trône de la Chine sont reconnus. Qu'est-ce que je demande, moi? la paix, la tranquillité, le maintien de l'ordre et le bonheur des honnêtes gens. </p>
+        <p> Le prince Horribilis, plus tremblant encore que son père, avait écouté ce dialogue sans mot dire; mais, quand il vit l'audace et le succès de Pantafilando, la colère lui donna du courage, et il s'avança au milieu de la salle. </p>
+        <p> —Tu oublies, dit-il au géant, que la loi salique règne en Chine, et que la couronne ne peut pas tomber aux mains de ma soeur qui n'est qu'une femme. </p>
+        <p> —Et moi, suis-je une femme? cria Pantafilando d'une voix de tonnerre. Viens, si tu l'oses, ver de terre, me disputer cette couronne, et je te coupe en deux d'un seul revers. </p>
+        <p> A ces mots, il tira son cimeterre qui avait quarante pieds de haut, et que vingt hommes robustes n'auraient pas pu soulever. Horribilis frémit et courut se cacher derrière le ministre de la guerre, qui se cachait lui-même derrière le fauteuil de la princesse Bandoline. Content de cette marque de frayeur qu'il prit pour une marque de soumission, le géant dit d'un ton plus doux: </p>
+        <p> —Chinois et Tartares, puisque la divine providence a bien voulu m'appeler, quoique indigne, au gouvernement de ce beau pays, je jure de remplir religieusement mes devoirs de souverain, et je vous demande de me jurer à votre tour fidélité aussi bien qu'à mon auguste épouse, la belle Bandoline. </p>
+        <p> —Nous le jurons, s'écria toute l'assemblée avec l'enthousiasme habituel en pareille circonstance. Pierrot seul ne dit rien. </p>
+        <p> Le géant s'agenouilla et voulut baiser la main de sa fiancée; mais celle-ci, effrayée de se voir unie à un pareil homme, ne put s'empêcher de se cacher le visage dans les mains en pleurant. </p>
+        <p> —Ne faites pas la prude ni la mijaurée, s'écria Pantafilando, ou par le ciel! je.... </p>
+        <p> —Que feras-tu? dit Pierrot d'un ton qui attira sur lui l'attention générale. </p>
+        <p> Jusqu'ici notre ami avait gardé un silence prudent. Au fond, il se souciait fort peu que Vantripan ou Pantafilando régnât sur la Chine. Que me font leurs affaires? pensait-il. Vantripan m'a nommé capitaine des gardes, et je suis prêt à me battre pour lui, s'il m'en donne le signal; mais, s'il ne réclame pas mes secours, s'il se laisse détrôner, s'il aime mieux la paix que la guerre, est-ce à moi de me faire estropier pour lui? Si les Chinois supportent les Tartares, est-ce à moi de les trouver insupportables? Ces réflexions lui firent garder la neutralité jusqu'au moment où il vit pleurer la belle Bandoline. C'est ici le lieu de vous avouer une faiblesse de Pierrot. </p>
+        <p> Il était amoureux de la princesse. J'en suis bien fâché, car Pierrot n'était qu'un paysan, et si l'on voit des rois épouser des bergères, on vit rarement des reines épouser des bergers. L'amour ne raisonne pas, et Pierrot passait toutes les nuits où il n'était pas de garde à veiller sur les fenêtres de la trop adorée Bandoline. Il l'aimait parce qu'elle était belle, et aussi, sans qu'il s'en rendît compte, parce qu'elle était fille du roi et qu'elle avait de magnifiques robes. Pierrot disait: </p>
+        <p> —Je suis capitaine, je serai général, je vaincrai l'ennemi, je conquerrai un royaume, et je l'offrirai à la belle Bandoline avec ma main. </p>
+        <p> Il ne parla cependant pas de son projet à sa marraine, confidente ordinaire de ses pensées, mais elle le devina. </p>
+        <p> —Le papillon va se brûler les ailes à la chandelle, dit-elle; tant pis pour lui! L'homme ne devient sage qu'à ses dépens. Ce n'est pas moi qui ai fait la loi, mais je ne veux pas l'aider à la violer. </p>
+        <p> L'amoureux Pierrot fut donc saisi d'indignation en voyant cette princesse adorée sur le point de passer aux mains du géant. Dans un premier mouvement dont il ne fut pas maître, il tira son sabre. </p>
+        <p> Pantafilando fut d'abord si étonné, qu'il ne trouva pas un mot à dire. Puis la colère et le sang lui montèrent au visage avec tant de force, qu'il faillit succomber à une attaque d'apoplexie. Son front se plissa et ses yeux terribles lancèrent des éclairs. Tous les assistants frémirent; seul l'indomptable Pierrot ne fut pas ébranlé. La princesse jeta sur lui un regard où se peignaient la reconnaissance et la frayeur de le voir succomber dans un combat inégal. Ce regard éleva jusqu'au ciel l'âme de Pierrot. </p>
+        <p> —Prends le royaume de la Chine, le Tibet et la Mongolie, s'écria-t-il; prends le royaume de Népaul où les rochers sont faits de pur diamant; prends Lahore et Kachmyr qui est la vallée du paradis terrestre; prends le royaume du Grand-Lama si tu veux; mais ne prends pas ma chère princesse, ou je t'abats comme un sanglier. </p>
+        <p> —Et toi, dit Pantafilando transporté de colère, si tu ne prends pas la fuite, je vais te prendre les oreilles. </p>
+        <p> A ces mots, levant son sabre, il en asséna sur Pierrot un coup furieux. </p>
+        <p> Pierrot l'évita par un saut de côté. Le sabre frappa sur la table de la salle à manger, la coupa en deux, entra dans le plancher avec la même facilité qu'un couteau dans une motte de beurre, descendit dans la cave, trancha la tête à un malheureux sommelier qui, profitant du désordre général, buvait le vin de Schiraz de Sa Majesté, et pénétra dans le sol à une profondeur de plus de dix pieds. </p>
+        <p> Pendant que le géant cherchait à retirer son sabre, Pierrot saisit une coupe de bronze qui avait été ciselée par le célèbre Li-Ki, le plus grand sculpteur qu'ait eu la Chine, et la lança à la tête du géant avec une roideur telle que, si au lieu de frapper le géant au front, comme elle fit, elle eût frappé la muraille, elle y eût fait un trou pareil à celui d'un boulet de canon lancé par une pièce de 48. Mais le front de Pantafilando était d'un métal bien supérieur en dureté au diamant même. A peine fut-il étourdi du coup, et, sans s'arrêter à dégager son sabre, il saisit l'un des trois généraux qui l'avaient suivi, et qui regardaient le combat en silence, et le jeta sur Pierrot. Le malheureux Tartare alla frapper la muraille, et sa tête fut écrasée comme une grappe de raisin mûr que foule le pied du vendangeur. A ce coup, la reine et la princesse Bandoline, qui seules étaient restées dans la salle après la fuite des dames de la cour, s'évanouirent de frayeur. </p>
+        <p> Pierrot lui-même se sentit ému. Tous les autres spectateurs, immobiles et blêmes, s'effaçaient le long des murailles, et mesuraient de l'oeil la distance qui séparait les fenêtres du fleuve Jaune qui coulait au pied du palais. Malheureusement, Pantafilando avait fait fermer les portes dès le commencement du combat. Vantripan criait de toute sa force: </p>
+        <p> —C'est bien fait, seigneur Pantafilando, tuez-moi ce misérable qui ose porter la main sur mon gendre bien-aimé, sur l'oint du Seigneur! </p>
+        <p> Le prince Horribilis, non moins effrayé, priait Dieu à haute voix pour qu'il lançât sa foudre sur ce téméraire, ce sacrilége Pierrot, qui osait attaquer son beau-frère et aimer sa soeur. </p>
+        <p> —Lâches coquins, pensa Pierrot, si je meurs ils me feront jeter à la voirie, et si je suis vainqueur, ils recueilleront le fruit de ma victoire! J'ai bien envie de les laisser là et de faire ma paix avec Pantafilando. Rien n'est plus facile; mais faut-il abandonner Bandoline? </p>
+        <p> Tout à coup il s'aperçut que sa belle princesse était évanouie. En même temps, Pantafilando ouvrant la porte, criait à ses Tartares de venir à son secours. Je serais bien fou de les attendre, dit Pierrot; et prenant son élan, d'une main il saisit sa bien-aimée par le milieu du corps, de l'autre il ouvrit la fenêtre, puis s'élança dans le fleuve Jaune avec Bandoline. </p>
+        <p> Son action fut si prompte et si imprévue que le géant n'eut pas le temps de s'y opposer. Il vit avec une rage impuissante Pierrot nager jusqu'à la rive opposée, et là, rendre grâces au ciel qui avait sauvé sa princesse et lui d'un épouvantable malheur. </p>
+        <p> Aux cris de Pantafilando, les cent mille Tartares mirent pied à terre en même temps et montèrent dans le palais. On entendait sonner leurs éperons sur les degrés. </p>
+        <p> —Grand empereur, s'écria le premier qui parut sur le seuil de la porte, que voulez-vous? Faut-il piller? faut-il tuer? faut-il brûler? nous sommes prêts. </p>
+        <p> —Tu arrives toujours trop tard, imbécile, lui cria le géant. </p>
+        <p> En même temps d'un soufflet il le fit pirouetter sur lui-même et le jeta sur le second, celui-ci se renversa sur le troisième, le troisième sur le quatrième, et tous jusqu'au dernier des cent mille tombèrent les uns sur les autres comme un château de cartes, tant ce premier soufflet avait de force! </p>
+        <p> Quand ils se furent relevés: </p>
+        <p> —Prenez des barques, leur dit le géant, passez le fleuve, et courez sur Pierrot: vous me le ramènerez mort ou vif. Si vous revenez sans lui, je vous couperai la tête à tous. </p>
+        <p> Ces paroles donnèrent du courage à tout le monde. On se précipita dans des bateaux, on traversa le fleuve, on chercha la trace de Pierrot. On ne trouva rien. </p>
+        <p> Pierrot avait disparu ainsi que Bandoline. Les malheureux Tartares revinrent la tête basse comme des chiens de chasse qui ont manqué le gibier. Pantafilando leur fit couper à tous l'oreille droite, et fit jeter ces oreilles dans les rues pour effrayer les Chinois et leur apprendre à quel nouveau maître ils avaient affaire. </p>
+        <p> Vantripan et Horribilis ne furent pas les derniers à féliciter le grand Pantafilando de cet acte de justice. La reine garda le silence. Elle ne pouvait haïr sa fille, qui avait essayé d'échapper au géant, et, d'un autre côté, comment excuser une jeune princesse qui se jetait à l'eau avec le fils d'un meunier? </p>
+        <p> Pendant ce temps, qu'étaient devenus Pierrot et la belle Bandoline? Vous le saurez, mes amis, si vous voulez lire le chapitre suivant. </p>
+      </div>
+      <div title="II. DEUXIÈME AVENTURE DE PIERROT. PIERROT RESTAURE LES DYNASTIES" type="chapter">
+        <head/>
+        <head> PIERROT RESTAURE LES DYNASTIES </head>
+        <p> La fraîcheur de l'eau avait rendu à la belle Bandoline l'usage de ses sens. Pierrot en profita pour lui expliquer rapidement par quelle aventure il lui faisait traverser le fleuve Jaune à la nage d'une manière si inconvenable et si inusitée pour une grande princesse; il termina son discours par mille protestations de dévouement. </p>
+        <p> Bandoline fit attendre sa réponse. Elle ne savait si elle devait rire ou se fâcher, rire de la déconvenue du terrible Pantafilando qui avait cru l'épouser, ou se fâcher de l'audace de Pierrot qui avait osé, sans la consulter, la jeter à l'eau; qui l'en avait, il est vrai, retirée, mais qui montrait un dévouement trop ardent pour être longtemps désintéressé. Elle se tira d'embarras en disant que, quoiqu'il y eût dans les détails de l'affaire quelque chose de répréhensible, cependant, en gros, elle ne pouvait qu'être reconnaissante à Pierrot du soin qu'il avait pris d'elle; qu'elle acceptait l'offre de son dévouement, sachant d'ailleurs qu'il était offert non pas à elle seule, mais à toute l'illustre race des Vantripan; que ni son père, ni sa mère, ni son frère n'oublieraient jamais ce service, et que, suivant toute probabilité, avant peu de jours ils seraient en état de le reconnaître dignement. </p>
+        <p> Pierrot ne répliqua rien. Il vit bien que ce n'était pas le moment de s'expliquer; d'ailleurs, de la rive opposée accouraient déjà les Tartares de Pantafilando. Il baisa trois fois l'anneau magique et invoqua la fée Aurore. </p>
+        <p> Elle parut aussitôt: </p>
+        <p> —Ami Pierrot, dit-elle, tu prends l'habitude d'agir sans me consulter, et, quand tu te trouves dans l'embarras, tu m'appelles à ton secours. Cette confiance m'honore, mais elle commence à m'ennuyer. </p>
+        <p> —Hélas! bonne marraine, dit Pierrot se jetant à genoux et lui baisant la main, n'êtes-vous pas mon refuge éternel? Si vous me rebutez, à qui m'adresserai-je? N'êtes-vous pas la plus belle, la plus douce, la plus aimable des fées? </p>
+        <p> —Il me flatte, dit la fée, donc il a besoin de moi. Voyons, que te faut-il? </p>
+        <p> Ce dialogue se faisait presque à voix basse, et Bandoline, occupée près de là à faire sécher sa robe et à gonfler sa crinoline, ne vit pas la fée, qui était invisible pour tout autre que Pierrot, et n'entendit pas un mot de ce qu'elle disait. </p>
+        <p> Elle vit seulement Pierrot parler à voix basse et à genoux, et crut qu'il priait Dieu. </p>
+        <p> —Il faut d'abord, dit Pierrot, nous mettre en sûreté, la princesse et moi, car voici plus de dix mille Tartares qui passent le fleuve et me poursuivent; puis, s'il y avait un moyen de rendre un trône à cette belle princesse persécutée? </p>
+        <p> —On verra, dit la fée; mais toi, mon cher filleul, qui fais le chevalier errant, ne compte pas trop sur les bonnes grâces de ta dame; souviens-toi qu'elle sera deux fois ingrate, comme femme et comme reine, car il n'y a rien de plus oublieux et de plus ingrat que les rois et les femmes, et ne viens pas te plaindre auprès de moi de tes chagrins d'amour. </p>
+        <p> —Ne craignez rien, adorable marraine, dit Pierrot, je ne veux aucun salaire pour mes services; elle ne pourra donc pas être ingrate. </p>
+        <p> —Bien, bien, cela te regarde; mais défie-toi de cette petite personne. </p>
+        <p> A ces mots, et comme les premiers Tartares allaient aborder sur la rive, elle enleva Pierrot et Bandoline dans un nuage et les déposa à cent cinquante lieues de là, dans un petit bois près duquel campait l'armée du grand Vantripan. </p>
+        <p> Cette armée se composait de cinq cent mille Chinois qui recevaient pour solde, chaque matin, une ration de riz et la permission d'aller boire l'eau du fleuve Jaune qui coulait près de là. Chaque soldat, comme il est naturel, apportait au service de sa patrie une dose de courage et de zèle patriotique équivalente à sa ration de riz: c'est-à-dire qu'il prenait le chemin de gauche quand un Tartare prenait celui de droite. Un malheur, disait le Chinois, est si vite fait: lorsque deux hommes belliqueux ont les armes à la main, qu'ils sont ennemis, qu'il n'y a personne pour les séparer, il vaut mieux qu'ils se séparent eux-mêmes d'un commun accord que de s'exposer à couper la gorge à des gens qui sont pères de famille ou qui peuvent le devenir. C'est pour cela qu'au premier bruit de l'entrée de Pantafilando en Chine, le général en chef donnant le premier l'ordre et l'exemple de la retraite, ils avaient établi leur camp à plus de deux cents lieues de la route que devaient suivre les Tartares. </p>
+        <p> A peine Pierrot et la princesse eurent-ils mis le pied à terre qu'ils se dirigèrent vers la tente du général en chef. Cet indomptable guerrier, nommé Barakhan, était le neveu de Vantripan, et il avait plus d'une fois jeté les yeux avec envie sur sa cousine et sur la couronne que portait son oncle. Aussi Vantripan, avec son discernement ordinaire, l'avait, pour l'éloigner de la cour, mis à la tête de l'armée. A peine la princesse eut-elle fait le récit de ses malheurs et raconté les exploits de Pierrot à son cousin, que celui-ci frappa dans ses mains. Un esclave parut. </p>
+        <p> —Qu'on appelle les généraux au conseil, et que toute l'armée prenne les armes! </p>
+        <p> En même temps il se revêtit des insignes royaux, et quand tous les principaux officiers furent assemblés, il prit, au grand déplaisir de Pierrot, la main de sa cousine, et dit: </p>
+        <p> —Amis, Vantripan est détrôné; Horribilis ne vaut guère mieux. Tous deux sont prisonniers du cruel Pantafilando. Je suis donc l'héritier légitime de la couronne, et j'épouse ma cousine que voici, la princesse Bandoline, Reine de Beauté. Si quelqu'un de vous s'y oppose, je vais le faire empaler. </p>
+        <p> —Vive le roi Barakhan I er ! cria tout d'une voix l'assemblée. </p>
+        <p> La princesse Bandoline tourna sur Pierrot des yeux si languissants et si beaux qu'il ne put résister à leur prière. </p>
+        <p> —A bas Barakhan l'usurpateur! cria-t-il avec courage. Vive à jamais Vantripan, notre roi légitime! </p>
+        <p> —Qu'on saisisse cet homme et qu'on l'empale, dit Barakhan. </p>
+        <p> Pierrot tira son sabre et décrivit en l'air un cercle. Trois têtes de mandarins tombèrent comme des pommes trop mûres et roulèrent aux pieds de l'usurpateur. Tout le monde s'écarta. Barakhan lui-même sortit de la tente en courant et appelant ses gardes. En quelques minutes Pierrot se vit entouré de six mille hommes. Personne n'osait l'approcher, mais on faisait pleuvoir sur lui une grêle de pierres et de flèches. </p>
+        <p> —Où me suis-je fourré? pensa ce héros. Et il se précipita au plus épais de la foule; mais si prompt que fût son mouvement, celui des assaillants fut plus prompt encore à l'éviter. Il se trouva le centre d'un nouveau cercle aussi épais que le premier, aussi facile à forcer, aussi prompt à se reformer. Heureusement il lui vint une idée. Il aperçut Barakhan qui, monté à cheval et caché derrière ses gardes, les excitait à se jeter sur lui. Sur-le-champ, d'un bond, il saisit, à droite et à gauche, un homme de chaque main, et, sans faire de mal à ses deux prisonniers, il les appliqua l'un sur sa poitrine et l'autre sur son dos pour se garantir des flèches qu'on lui lançait. Aussitôt les gardes cessèrent de le harceler pour ne pas frapper leurs camarades. Pierrot profita de ce temps d'arrêt, lâcha le prisonnier qu'il tenait serré sur sa poitrine, et faisant tournoyer son sabre autour de sa tête avec la force lente, régulière et irrésistible d'un faucheur qui coupe l'herbe des prés, il abattit en une minute quinze ou vingt têtes parmi les plus voisines. On s'écarta de nouveau et si brusquement, que Pierrot se trouva en face de Barakhan. Celui-ci voulut fuir, mais la foule était trop épaisse. Il lança son cheval sur Pierrot, mais notre ami l'évita, prit d'une main la bride du cheval, et de l'autre saisissant Barakhan par la jambe, il l'enleva de la selle, le fit tourner quelque temps comme une fronde, et le lança avec une telle force que le malheureux prince s'éleva dans les airs jusque au-dessus des nuages. En retombant il aperçut, à droite, les sommets neigeux du Dawâlagiri, qui réfléchissaient les rayons du soleil, et à gauche les monts Kouen-Lun, qui dominent la Grande-Mandchourie et qu'aucun voyageur n'a encore visités; mais il n'eut pas le temps de faire part à l'Académie des sciences de ses découvertes, parce qu'au bout de quelques minutes on le trouva fracassé et brisé en mille morceaux. </p>
+        <p> A ce spectacle, un cri unanime s'éleva dans l'assemblée: </p>
+        <p> —Vive le roi Vantripan! Vive Pierrot, notre général! Vive la princesse Bandoline! etc. Et tout le monde courut baiser le pan de l'habit de Pierrot. </p>
+        <p> —Qu'est-ce? s'écria-t-il, tout à l'heure vous m'avez voulu empaler; à présent, vous m'adorez. Avez-vous menti? ou mentez-vous? </p>
+        <p> —Nous ne mentons jamais, seigneur capitaine. Nous sommes toujours les serviteurs du plus fort. Tout à l'heure nous avons cru que Barakhan était le plus fort, nous lui avons obéi. Maintenant nous voyons que vous l'êtes, et nous vous obéissons. Qu'il soit maudit, cet usurpateur, ce Barakhan qui nous a trompés! </p>
+        <p> —Si jamais je suis roi, pensa Pierrot, je me souviendrai de la leçon. Mais hâtons-nous de rassurer cette pauvre princesse; elle a dû trembler pour ma vie. </p>
+        <p> Bandoline n'avait pas tremblé pour la vie de Pierrot. Elle haïssait Barakhan; elle avait, pour s'en délivrer, demandé du secours à Pierrot; mais elle regardait la vie de Pierrot comme lui appartenant par droit divin, ainsi que toutes les autres choses de ce monde. C'est ce que le pauvre Pierrot, aveuglé par son amour et son ambition, ne comprenait pas. </p>
+        <p> Elle le reçut avec une dignité froide, lui permit à peine de s'asseoir, et lui commanda de mettre sur-le-champ l'armée en marche pour reprendre la capitale de la Chine et détrôner Pantafilando. Pierrot obéit en soupirant, mais au premier ordre qu'il donna de marcher à l'ennemi, toute l'armée lui tourna le dos. </p>
+        <p> —- Lâches coquins! leur cria Pierrot; et, profitant de ce qu'un des généraux avait le dos tourné, il l'enleva d'un coup de pied dans le derrière jusqu'à la hauteur du toit du palais. Le pauvre général retomba heureusement sur ses pieds, et ôta respectueusement son bonnet orné de clochettes qui servaient à effrayer l'ennemi. </p>
+        <p> —Seigneur, dit-il à Pierrot, nous vous aimons, nous vous respectons, nous vous craignons surtout; mais, au nom du ciel! ne nous demandez pas ce que nous ne pouvons pas faire. Le bon Dieu nous a refusé le courage; voulez-vous que nous nous battions malgré nous? </p>
+        <p> —Magots chinois! dit Pierrot. </p>
+        <p> —Eh bien! oui, seigneur, nous sommes des magots; mais quoiqu'il y ait des têtes beaucoup plus belles, quoique la vôtre, en particulier, soit admirablement belle et pleine d'esprit et de courage, seigneur, j'ose le dire, je préfère encore la mienne, elle va mieux à mon cou et à mes épaules. </p>
+        <p> —Sac à papier! dit Pierrot, comment faire? </p>
+        <p> —Partons-nous? dit la belle Bandoline sortant de la tente, où elle avait passé à se parfumer, habiller, peigner et pommader tout le temps que Pierrot se battait et haranguait les Chinois. </p>
+        <p> —Par saint Jacques de Compostelle! pensa Pierrot, il faut avouer que je suis bien fou: j'ai failli déjà deux fois aujourd'hui me faire casser la tête pour cette merveilleuse princesse, sans qu'elle ait seulement daigné me remercier. </p>
+        <p> Cette réflexion, aussi triste que sensée, ne l'empêcha pas de se précipiter au-devant de la princesse et d'être prêt à lui faire le sacrifice de sa vie. C'est le propre de l'amour de se suffire à lui-même et de se dévouer sans récompense. </p>
+        <p> Il faut tout dire: au fond de l'amour de Pierrot il y avait un peu d'espoir et beaucoup de vanité. Je ferai, pensait-il, de si belles actions et j'acquerrai tant de gloire, qu'elle finira par m'aimer. A mon âge, encore inconnu, paysan il y a un mois, être aujourd'hui le seul appui d'une si grande et si belle princesse, cela n'est arrivé qu'à moi, Pierrot. La fortune me devait cette gloire. </p>
+        <p> —Princesse, dit-il à Bandoline, nous partons seuls. </p>
+        <p> L'armée a peur de Pantafilando et refuse de nous suivre. </p>
+        <p> —Et vous l'avez souffert? dit-elle. </p>
+        <p> Il y avait dans ce mot et dans le regard qu'elle lança sur Pierrot tant d'estime de son courage et tant de reproche en même temps, qu'il faillit tourner bride et massacrer les cinq cent mille Chinois pour les forcer de marcher à l'ennemi; mais la réflexion le rendit plus sage, et il se contenta de répondre: </p>
+        <p> —Princesse adorable, pleine lune des pleines lunes, pour vous je traverserais les mers à la nage, je défierais le monde; mais je ne puis faire marcher des gens qui veulent s'asseoir. Le roi Salomon dit, «qu'il est impossible de faire boire un âne qui n'a pas soif.» </p>
+        <p> —Pierrot, dit la belle Bandoline, vous m'offrez toujours ce que je ne vous demande pas. Que m'importe que vous traversiez les mers à la nage? Il n'y a pas de mer d'ici à la capitale de mon père, et s'il y en avait, je trouverais bien plus commode de m'embarquer sur un beau vaisseau monté par des matelots habiles. Ce que je veux, c'est que vous conduisiez cette armée au secours de mon père Vantripan. </p>
+        <p> —Eh bien! dit Pierrot découragé, parlez-leur vous-même. </p>
+        <p> La belle Bandoline leur fit un discours magnifique où elle rappela les exploits de leurs aïeux; elle leur parla du danger de la patrie, de leurs femmes, de leurs enfants, et leur vanta la gloire de rétablir sur son trône le monarque légitime. </p>
+        <p> Mais les Chinois firent la sourde oreille. </p>
+        <p> —Partons seuls, dit Bandoline indignée; et, grâce à des chevaux plus rapides que le vent, ils arrivèrent, elle et Pierrot, dix jours après dans la capitale de la Chine, où d'abord ils descendirent de nuit dans une hôtellerie pour prendre langue. </p>
+        <p> Pantafilando n'avait pas perdu de temps après le départ de Pierrot. Entre autres sages décrets, il avait ordonné que tous les Chinois se lèveraient à six heures du matin et se coucheraient à huit heures du soir, et qu'on raccourcirait de toute la tête tous ceux dont la taille dépassait cinq pieds cinq pouces. Tout le monde avait applaudi à ces deux décrets, excepté, bien entendu, les Chinois de cinq pieds six pouces, qui se tenaient cachés dans leurs caves de peur du bourreau. </p>
+        <p> Pierrot apprit en même temps que sa tête était mise à prix; mais cette nouvelle ne l'inquiéta pas beaucoup. Il comptait bien la défendre vigoureusement. Le soir même il alla, dans l'obscurité, placarder sur le mur du palais l'affiche suivante: </p>
+      </div>
+      <div title="III. TROISIÈME AVENTURE DE PIERROT. COMMENT PIERROT RÉFORMA LES ABUS ET APPRIT A BÊCHER LES JARDINS" type="chapter">
+        <head/>
+        <head> COMMENT PIERROT RÉFORMA LES ABUS ET APPRIT A BÊCHER LES JARDINS </head>
+        <p> La fée Aurore avait voulu accompagner Pierrot dans ses voyages. Pierrot, plus heureux encore que fier d'une pareille compagnie, avait tout à fait oublié sa mésaventure. Il riait, il chantait, il galopait, il admirait l'herbe des prés, les feuilles des arbres et jusqu'aux chenilles qui les dévorent. </p>
+        <p> —Mon Dieu! s'écria-t-il tout à coup dans un transport d'enthousiasme, que toute la nature est belle et admirable! O marraine, que je vous rends grâce de m'avoir emmené loin de cette cour, de ce gros Vantripan, de sa sotte femme, de sa plus sotte fille et de son gredin de fils! </p>
+        <p> —Oh! oh! dit la fée en souriant, qu'est-il donc arrivé, Pierrot? Quelque mésaventure? Sa sotte femme! sa plus sotte fille! Quel langage pour un courtisan et pour un homme amoureux! </p>
+        <p> —Amoureux! dit Pierrot, je ne le suis plus, grâce au ciel; courtisan, je ne l'ai jamais été. Ce n'est pas moi qu'on verra attendre dans une antichambre que le roi passe et daigne me regarder; ni sous les fenêtres de cette pimbêche, qu'elle veuille, en abaissant ses regards vers la terre, s'apercevoir de ma présence. </p>
+        <p> —Tu es donc guéri, Pierrot? </p>
+        <p> —Radicalement, marraine. Je ne tenais plus à elle que par l'habitude ou par politesse, comme un oiseau qui a un fil à la patte. Ses mépris de ce matin ont coupé ce fil, et maintenant je suis libre. </p>
+        <p> —Eh bien! Pierrot, puisque tu es dans de si heureuses dispositions, veux-tu que je te dise pourquoi tu n'as pas réussi? </p>
+        <p> —Je ne veux pas le savoir, marraine. </p>
+        <p> —Oui, mais je veux te le dire, moi. Tu n'as pas réussi, parce que tu es ingrat. </p>
+        <p> —Moi, envers vous, marraine! Oh! vous me calomniez. </p>
+        <p> —Non pas envers moi, mais envers d'autres personnes. Réfléchis. </p>
+        <p> —Envers ce gros roi? Il m'a comblé d'honneurs, c'est vrai; mais ne l'ai-je pas bien servi? </p>
+        <p> —Ce n'est pas cela. Pierrot, quel est le revenu de tes emplois? </p>
+        <p> —Deux millions par an, à peu près, marraine. </p>
+        <p> —C'est une jolie somme. Et depuis quel temps es-tu en charge? </p>
+        <p> —Depuis six mois à peu près. </p>
+        <p> —C'est-à-dire que tu as reçu un million? </p>
+        <p> —Oui, marraine. </p>
+        <p> —Sur cette somme, qu'est-ce que tu as envoyé à tes parents qui sont pauvres, comme tu sais, et qui vivent de leur travail? Réponds; deux cent mille francs? </p>
+        <p> Pierrot rougit et garda le silence. </p>
+        <p> —Davantage? dit la fée. Trois cents? Non. Quatre cents? Non. Cinq cents? Non. Six cents? Non. Aurais-tu envoyé davantage, Pierrot? Tu es plus généreux que je ne croyais. Sept cents? huit cents? neuf cents? Quoi! le million tout entier! Oh! oh! c'est un beau trait, Pierrot. </p>
+        <p> —Hélas! marraine, dit Pierrot tout confus, je n'ai rien envoyé du tout. </p>
+        <p> —Eh bien! ami, comment appelles-tu cette conduite? Comprends-tu maintenant pourquoi, malgré tant de succès apparents, tu n'as pas été heureux? </p>
+        <p> —Je le comprends, dit Pierrot. </p>
+        <p> —Et tu profiteras de cette leçon dans l'avenir? </p>
+        <p> —Oh! oui, marraine. </p>
+        <p> —N'aie plus de remords, Pierrot; tes parents n'ont pas souffert de ta négligence. Je veille sur eux, je leur donne ce qui est nécessaire, et je leur laisse croire que c'est toi qui l'as envoyé. </p>
+        <p> —Oh! marraine, comment ai-je pu mériter tant de bontés? dit Pierrot en lui baisant les mains avec tendresse. </p>
+        <p> —Tu les mériteras un jour, dit la fée. Pékin n'a pas été construit en une heure. Tu es né vaniteux, oublieux, ingrat comme tous les enfants des hommes. Plus tard, tu seras bon et bienfaisant comme les enfants des génies. </p>
+        <p> —Grâce à vous et à votre protection, marraine, dit l'heureux Pierrot. </p>
+        <p> —Grâce à ma protection, si tu veux, qui t'a été plus utile encore que tu ne penses. </p>
+        <p> —Comment donc? demanda Pierrot. </p>
+        <p> —C'est à moi que tu dois les mépris de la belle Bandoline. M'en sais-tu mauvais gré? </p>
+        <p> —Par tous les saints du paradis! s'écria joyeusement Pierrot, je ne sais ce que j'aurais pensé hier de votre confidence. Aujourd'hui, elle me comble de joie. </p>
+        <p> —Tant mieux, Pierrot, c'est signe que tu es bien guéri. Je lis dans l'avenir, et je devine aisément ce que, d'après son caractère, tout homme doit faire un jour, et s'il sera heureux ou malheureux. C'est une branche de ce grand art de la divination que je t'ai montré, et que tu n'as pas compris parce qu'il exige des études profondes, un grand dévouement à la science, une vie isolée et une grande expérience du monde. La différence qu'il y a sur ce point entre les hommes et les génies, c'est que les hommes ne peuvent savoir qu'après trois cent quarante ans de travaux continuels ce que nous savons, nous, dès notre naissance et par intuition. </p>
+        <p> —Vous êtes bien heureuse d'être si savante, dit Pierrot en soupirant. </p>
+        <p> —Heureuse! dit la fée. Crois-tu qu'on soit heureux de prévoir l'avenir? Ah! malheureux enfant, que le ciel te préserve de ce bonheur et de cette science! </p>
+        <p> —Quelle raison aviez-vous, dit Pierrot, de m'empêcher d'être aimé de la princesse? </p>
+        <p> —Une raison admirable, Pierrot: c'est que tu ne l'aimais pas toi-même, et qu'après quinze jours de mariage vous auriez fait un ménage détestable. Elle est orgueilleuse et fille de roi; elle t'aurait vanté sa supériorité; tu es fier et peu endurant, tu l'aurais maltraitée.... </p>
+        <p> —Oh! dit Pierrot. </p>
+        <p> —En paroles, ami; mais, pour les gens délicats, les paroles sont des gestes. Elle se serait plainte à son père qui t'aurait fait couper le cou. </p>
+        <p> —Oh! oh! dit Pierrot, il aurait bien demandé la permission. </p>
+        <p> —Sans doute, et comme tu es le plus fort, tu l'aurais détrôné, mis en prison, tué peut-être; tu te serais débarrassé de ta femme et tu aurais été roi de la Chine. </p>
+        <p> —Ce qui n'est pas à dédaigner, dit Pierrot pensif. </p>
+        <p> —Et tu aurais ainsi commis deux ou trois crimes pour satisfaire ta vanité! </p>
+        <p> —Vous avez raison, marraine, dit Pierrot, et vous me parlez comme si vous lisiez dans ma conscience. Mais est-ce que les choses n'auraient pas pu se passer autrement? Ne pouvais-je être heureux avec cette belle dédaigneuse? </p>
+        <p> —Supposons, dit la fée, qu'il n'y eût pas de sang versé; supposons que Bandoline eût fait de grands efforts pour te plaire et plier son humeur à la tienne, quelle conduite crois-tu qu'elle aurait tenue avec tes parents? Car tu pensais, sans doute, à vivre avec ton père et ta mère? </p>
+        <p> —Sans doute, dit Pierrot, qui n'y avait jamais pensé. </p>
+        <p> —Vois-tu d'ici la belle Bandoline pleine de respect et de déférence envers tes vieux parents, envers sa belle-mère, une meunière, et son beau-père, le vieux meunier! Je disais, Pierrot, que vous n'auriez pas vécu quinze jours ensemble; c'est deux jours que je devais dire. </p>
+        <p> —O marraine sage et charmante! s'écria Pierrot, aidez-moi toujours de vos conseils, car désormais je ne veux rien faire de moi-même, et je me ferai gloire de vous obéir. Mais quoi! toutes les femmes sont-elles aussi dédaigneuses, et faut-il que j'aime une meunière si je veux vivre heureux avec mes parents? </p>
+        <p> —Il y a des femmes de toutes les espèces, dit la fée, comme il y a des hommes de toutes les couleurs. Ce serait une grande erreur de croire que tous les hommes sont blancs, noirs, rouges ou jaunes, et une grande injustice de dire que toutes les femmes sont parleuses, méchantes, médisantes, vaniteuses et occupées d'elles-mêmes et de leurs chiffons du matin jusqu'au soir. On en trouve aussi, et beaucoup, qui sont bonnes, discrètes, attachées à leur maison, à leur mari et à leurs enfants; ta mère, par exemple, n'est-elle pas de ce nombre? </p>
+        <p> —Oh! dit Pierrot, y a-t-il une meilleure femme et une meilleure mère? </p>
+        <p> —Il n'y en a pas de meilleure, Pierrot, mais il y en a d'aussi bonnes. Ne souhaites-tu pas d'en trouver une de cette espèce? </p>
+        <p> —Si je le souhaite, grand Dieu! c'est la première chose que je demande au ciel tous les matins. </p>
+        <p> —Cherche et tu trouveras, dit la fée. </p>
+        <p> Tout en causant, nos deux voyageurs avaient fait beaucoup de chemin. La conversation changea de sujet. La fée se plut à instruire Pierrot de ses devoirs envers lui-même et envers les autres hommes, et lui dit sur ce sujet de si belles choses, que si vous les aviez entendues, ô mes amis! vous voudriez n'entendre jamais d'autre discours. </p>
+        <p> Malheureusement, la langue des hommes, si riche pour répandre le mensonge, est pauvre en vérités, et dans la crainte de ne pas vous répéter dignement cette conversation, je n'en dirai pas un mot. Qu'il vous suffise de savoir que Pierrot, jusqu'alors gâté par le succès et fort enorgueilli de son mérite, comprit pour la première fois qu'il n'était qu'une créature faible et bornée, ignorante et portée au mal; qu'il eut honte de lui-même et de son égoïsme, et qu'il se promit de devenir un modèle pour tous les hommes nés ou à naître. Au reste, vous vous imaginez assez, sans qu'il soit nécessaire d'entrer dans le détail des choses, ce que devaient être les enseignements d'une fée qui était la propre fille du sage roi des génies, le grand Salomon. </p>
+        <p> Pierrot était ravi de joie. </p>
+        <p> —Ah! marraine, disait-il souvent, si tous les prédicateurs vous ressemblaient, que la vertu serait aimable! Mais ils sont, pour la plupart, si ennuyeux, si pédants, si gourmés, si roides! Ils mettent tant de latin dans leurs discours, et ils s'inquiètent si peu de se faire comprendre, qu'on ne peut pas s'empêcher de bâiller en les écoutant, et d'attendre avec impatience qu'ils aient fini leur sermon. Vous, au contraire, chère marraine, vous causez si bien, vous contez d'une façon si intéressante, vous avez un visage si beau et si doux, que rien qu'à vous regarder on se sent attiré vers vous, et qu'en vous écoutant on croit entendre la céleste musique que les anges font devant le trône du Seigneur. </p>
+        <p> La fée Aurore sourit. </p>
+        <p> —Mon ami, dit-elle à Pierrot, pourquoi exiger des autres hommes une perfection qui n'est pas dans la nature? S'ils étaient tous beaux et bons, bienfaisants et aimables, quelle peine aurais-tu à être vertueux parmi eux? Avant de juger ton prochain, connais-toi toi-même. Par exemple, tu es le premier ministre du roi Vantripan, et tu exerces en son nom l'autorité suprême; dis-moi, je te prie, as-tu jamais songé à faire le bonheur de tes semblables et à mettre à leur service la grande puissance que tu as reçue de Dieu? </p>
+        <p> —Pas trop, dit Pierrot. </p>
+        <p> —As-tu jamais songé à autre chose qu'à réaliser tes fantaisies? </p>
+        <p> —Je l'avoue. </p>
+        <p> —Eh bien, c'est le moment d'essayer. Nous voici à Nankin. Commence, et crois que si tu veux faire ton devoir jusqu'au bout, tu auras de la besogne. </p>
+        <p> —J'essayerai, dit Pierrot. </p>
+        <p> —Soit; mais ne t'annonce pas comme un ministre, ou l'on te cachera tout ce qui se passe et tu ne verras rien. Il n'y a que les pauvres gens qui voient tout, parce que tous les fardeaux retombent sur leur dos. </p>
+        <p> A ces mots, Pierrot mit pied à terre et laissa la bride sur le cou de son cheval. La fée en fit autant, et tous deux entrèrent dans la ville, vêtus comme de pauvres pèlerins. </p>
+        <p> Au détour d'une rue, Pierrot rencontra un grand cortége: c'était un riche mandarin qui allait à la campagne avec sa femme et ses enfants. Il était assis dans un palanquin porté par un éléphant. Vingt domestiques marchaient devant lui et écartaient les passants à coups de bâton. Tout le monde se rangeait avec empressement sur son passage. Pierrot, oubliant que rien ne distingue un grand connétable mal vêtu d'un autre citoyen, continua son chemin sans s'inquiéter du mandarin, sans le braver et sans l'éviter. </p>
+        <p> —Ote-toi de là, canaille! cria un des domestiques en lui donnant un coup de bâton. </p>
+        <p> Pierrot, furieux, se retourna, arracha le bâton des mains de son adversaire et lui administra la volée la plus complète qui soit jamais tombée sur les épaules d'un laquais de bonne maison. Aux cris de celui-ci, les autres accoururent et chargèrent Pierrot. Celui-ci était si animé par leur insolence, qu'il les eût assommés tous sans l'intervention de la bonne fée. </p>
+        <p> —Est-ce ainsi que tu remplis ta promesse? lui dit-elle tout bas. Dès le premier accident, te voilà hors de toi-même. Souviens-toi donc que tu n'es qu'un pauvre pèlerin, et non un grand seigneur. </p>
+        <p> A ces mots, Pierrot jeta le bâton et se croisa les bras en regardant les domestiques du mandarin avec des yeux qui firent reculer les plus hardis. </p>
+        <p> —Tu vas voir comment la justice se rend en ce pays, lui dit la fée. </p>
+        <p> Le tumulte et les cris avaient ameuté une foule nombreuse. Au fond, tout le monde était charmé de l'action de Pierrot, mais personne n'osait l'approuver tout haut, par crainte de la bastonnade. </p>
+        <p> Le mandarin descendit de son palanquin. C'était un gros homme, fort rouge et marqué de la petite vérole, qui était redouté de tous à cause de sa puissance et de sa méchanceté. Il était chef du tribunal suprême de la province, et, en cette qualité, rendait des jugements sans appel. </p>
+        <p> —Qu'est-ce? dit-il en s'avançant d'un air assorti à sa dignité. Quel est le coquin qui a osé frapper un de mes domestiques? </p>
+        <p> —Ce coquin, dit fièrement Pierrot, c'est moi. Il m'a frappé le premier, et j'ai fait ce que chacun en pareil cas devrait faire. </p>
+        <p> —Ah! c'est toi, dit le mandarin. Qu'on me saisisse ce drôle et qu'on le fasse mourir sous le bâton pour son insolence. </p>
+        <p> —Un moment! dit Pierrot. Est-ce pour avoir eu l'insolence de vous répondre, ou pour avoir rendu des coups de bâton à votre domestique que vous me condamnez? </p>
+        <p> —Je crois, dit le mandarin, que cette espèce ose m'interroger! Qu'on le saisisse! </p>
+        <p> Trois ou quatre domestiques s'élancèrent à la fois sur Pierrot. </p>
+        <p> —Attention! dit-il, je n'ai provoqué personne et ne veux faire de mal à qui que ce soit. Que le premier qui mettra la main sur moi compte et numérote ses os pour les reconnaître et les remettre en place au jour du jugement dernier. Et toi, mon gros seigneur, à nous deux! </p>
+        <p> A ces mots, malgré ses cris, il saisit le mandarin par ses longues moustaches qui pendaient jusque sur sa poitrine, l'enleva de terre et le montra aux spectateurs comme un bateleur montre des singes sur la place publique; puis, le retournant les pieds en l'air et la tête en bas, il le lança comme une balle, le reçut dans ses mains, et le renvoya de nouveau, au milieu des cris de joie du peuple, des cris d'alarme des domestiques et de la joie de tous. Quand ce jeu eut duré quatre ou cinq minutes, il le remit sur ses pieds, le hissa sur son éléphant et partit en disant: </p>
+        <p> —Au revoir, seigneur mandarin! </p>
+        <p> Le pauvre justicier n'avait plus la force de répondre. La colère, l'indignation d'avoir subi un pareil traitement, lui si élevé en dignité, et cela en vue de tout un peuple, le transportèrent au point qu'il en fit une maladie de plus de six mois. </p>
+        <p> —Par Brahma et Bouddah! disait la foule en se séparant, voilà une prompte et bonne justice. </p>
+        <p> Nos deux voyageurs poursuivirent leur route sans autre rencontre, et allèrent se loger dans une hôtellerie d'assez pauvre apparence. Ils soupèrent cependant avec appétit, grâce à un potage aux nids d'hirondelle qui est si exquis que le proverbe chinois dit: «Bouddah ayant créé le ciel et la terre, inventa le potage aux nids d'hirondelle.» Si vous voulez en goûter, et du meilleur, vous en trouverez chez le seigneur Ki, aubergiste à Pékin, l'un de mes bons amis, et le plus céleste cuisinier du Céleste Empire. </p>
+        <p> Le lendemain, Pierrot se leva de bonne heure et alla se promener par la ville. Il fut bientôt accosté par un douanier, qui, d'un air très-poli, suivant la coutume chinoise, l'invita à quitter ses habits et à laisser regarder dans ses poches. </p>
+        <p> —A quoi bon? dit Pierrot, je n'ai pris le bien de personne. </p>
+        <p> —A Dieu ne plaise! dit humblement le douanier, que nous ayons de vous un semblable soupçon. Mais peut-être avez-vous, sans vous en apercevoir, introduit dans la ville quelque denrée. Dans ce cas, seigneur, vous aurez la bonté de payer les droits d'entrée. </p>
+        <p> —Je n'ai rien introduit, dit Pierrot; donnez-moi la paix! </p>
+        <p> Cependant, se souvenant des recommandations de la fée, il se laissa fouiller. On ne trouva rien dans ses poches. Il se crut libre, quand le douanier, se ravisant: </p>
+        <p> —De quelle étoffe, dit-il, est votre manteau à capuchon? </p>
+        <p> —De grosse laine, dit Pierrot. </p>
+        <p> —Justement, reprit le douanier, c'est ce que j'avais deviné. </p>
+        <p> —Et qu'as-tu deviné? </p>
+        <p> —La laine, seigneur, est défendue dans la ville de Nankin, par égard pour nos manufacturiers, qui fabriquent des étoffes moins commodes et plus chères. Ayez la bonté de nous donner votre manteau et de payer l'amende. </p>
+        <p> —Je ne donnerai rien et ne payerai rien, dit Pierrot. Je ne veux pas me promener dans les rues en manches de chemise. Ce serait peu convenable. Quant à l'amende, je ne dois pas la payer, puisque j'ignorais la loi. </p>
+        <p> —Nul n'est censé ignorer la loi, dit sentencieusement le douanier. </p>
+        <p> —Pas même les étrangers? demanda Pierrot. </p>
+        <p> —Ayez la bonté de me suivre, dit le douanier. </p>
+        <p> —Où? </p>
+        <p> —En prison. </p>
+        <p> Sur ce mot, le receveur des douanes sortit de son bureau. C'était un beau jeune homme, bien frisé et pommadé, qui avait un lorgnon sur l'oeil, et qui regarda Pierrot du haut de ce lorgnon, comme un animal très-curieux. </p>
+        <p> —Monsieur, dit Pierrot, j'ai par mégarde, étant pauvre, acheté un manteau de laine, faute de pouvoir porter un manteau de velours et de soie, et votre douanier veut m'envoyer en prison. </p>
+        <p> —Que voulez-vous, mon bon? dit négligemment le receveur, c'est la loi. </p>
+        <p> —C'est la loi à Nankin, dit Pierrot, mais non dans le reste de la Chine, et je ne suis pas citoyen de Nankin. </p>
+        <p> —Allez en prison, mon ami, allez, dit le beau receveur d'un air de protection. J'entendrai votre affaire un autre jour. Quelques amis m'attendent en ville et veulent faire un déjeuner de garçons. </p>
+        <p> —Monsieur, dit Pierrot, dont la bile s'échauffait, ne me laissez pas aller en prison. Peut-être les cris d'un malheureux qu'on enferme troubleraient votre digestion. </p>
+        <p> —Rassurez-vous, mon bon, ces choses-là sont si communes que j'y suis tout à fait habitué. </p>
+        <p> —Monsieur, je vous en prie, écoutez-moi un instant. Peut-être un jour vous aurez besoin de moi et vous me supplierez à votre tour. On a souvent besoin d'un plus petit que soi. </p>
+        <p> —Qu'est-ce à dire, mon bon? dit le beau frisé. Allez en prison, et ne vous le faites pas répéter. Dans un mois ou deux, si j'ai du loisir, j'écouterai vos réclamations. </p>
+        <p> —Et moi, pendant ces deux mois, je grincerai des dents en invoquant la justice et la vengeance du ciel! s'écria Pierrot. </p>
+        <p> —Mon bon, vous m'excédez. Douanier, faites-moi mettre cet homme au cachot; s'il fallait écouter tous ceux qui parlent de leur innocence, on n'en finirait pas. </p>
+        <p> Le douanier prit Pierrot au collet. </p>
+        <p> —Ventre-Mahom! cria Pierrot, tu iras toi-même au cachot, et tu y resteras longtemps. Ah! gredin, c'est ainsi que tu disposes de la liberté des hommes! Ne sais-tu pas que la liberté est plus que la vie, et qu'il vaut mieux mourir de faim au grand air qu'engraisser entre quatre murailles? </p>
+        <p> Ce disant, Pierrot prit le receveur d'une main, le douanier de l'autre, les poussa dans la cave de la maison, en prit la clef et leur jeta du pain et une cruche d'eau par le soupirail; puis il retourna à l'hôtellerie. </p>
+        <p> Elle était pleine de gens qui, sans le connaître, parlaient de lui et de son aventure de la veille. Le malheur du mandarin avait fait grand bruit. De mémoire de Chinois on n'avait entendu parler d'un pauvre homme qui se fût fait justice à lui-même contre un grand seigneur. Quelque part qu'il pût aller, Pierrot était destiné à étonner le peuple, qui ne pouvait comprendre une fierté et un courage si peu ordinaires. </p>
+        <p> Pierrot n'était pourtant que le fils d'un paysan, mais il faut vous dire, mes amis, que son père avait été l'un des volontaires de la grande république; et ceux-là, voyez-vous, Dieu les a bénis, eux et leur postérité, jusqu'à la troisième génération, parce qu'ils ont combattu pour la patrie et pour la justice. </p>
+        <p> Pierrot, étonné de ce bruit, se mêla parmi les groupes et eut le plaisir, bien rare pour ceux qui écoutent aux portes, d'entendre faire son éloge. </p>
+        <p> —Ah! dit un vieillard, si celui-là voulait se mettre à notre tête, il nous ferait rendre justice. </p>
+        <p> —Et si nous prenions les armes nous-mêmes et sans l'attendre? dit un autre. </p>
+        <p> Jusque-là on avait parlé fort librement; mais, à cette proposition inattendue, on se regarda avec frayeur. Tant qu'il ne s'agissait que de parler, les orateurs ne manquaient pas, non plus qu'en aucun pays; quand il fut question d'agir, un silence morne régna dans l'assemblée. Pierrot, qui était resté jusque-là immobile et silencieux, éleva la voix: </p>
+        <p> —Bonnes gens de Nankin, dit-il, de qui avez-vous à vous plaindre? </p>
+        <p> On se tourna vers lui avec étonnement. </p>
+        <p> —Je ne suis qu'un simple pèlerin, ajouta-t-il, mais je puis, comme un autre, vous dire ce qu'il est convenable de faire. Si vous vous révoltez, vous serez punis; l'impôt sera doublé, et quelques-uns d'entre vous seront empalés; c'est inévitable. Pourquoi ne portez-vous pas vos plaintes au grand connétable qui est à Pékin? Il vous fera rendre justice. </p>
+        <p> —Oui, dit un bourgeois, il nous renverra au mandarin qui a été si maltraité hier, et celui-ci, qui est l'ami du gouverneur, fera justement, comme vous le disiez tout à l'heure, empaler les plaignants pour l'exemple. Nous connaissons bien les usages de ces grands seigneurs! </p>
+        <p> Pierrot fut forcé d'avouer qu'il disait vrai. </p>
+        <p> —Cependant, dit-il, je connais un peu le seigneur Pierrot... de réputation, et il n'est ni injuste, ni avide, ni intéressé. </p>
+        <p> —Oui, mais il laisse agir ses lieutenants qui le sont. Que nous importe à nous qu'il soit vertueux ou non, s'il ne s'occupe pas du gouvernement? </p>
+        <p> —Attrape, dit tout bas la fée Aurore qui venait de rejoindre son filleul. </p>
+        <p> —Puisque personne n'ose se joindre à moi, dit Pierrot, j'irai seul chez ce gouverneur si redouté, et il m'entendra. Quelles sont vos plaintes? </p>
+        <p> —Nous nous plaignons, dit le vieillard qui avait déjà parlé, de recevoir trop de coups de bâton et pas assez de rations de riz. On nous prend notre thé de force et à bas prix, et on nous le vend dix fois plus cher. On nous fait payer un impôt sur la laine et le coton qui font nos habits, un autre sur le fil qui les coud, un autre sur les aiguilles, un autre sur la doublure et un autre pour la permission de les coudre. Encore tout cela n'est rien; mais tous ces impôts réunis devraient produire dix millions à peine, et ils en produisent trente par la cruelle industrie des receveurs, douaniers, péagers, mandarins et gouverneurs, dont chacun veut prélever son bénéfice proportionné à son grade et au cas qu'il fait de son importance. </p>
+        <p> —En effet, dit Pierrot, cela est fâcheux. </p>
+        <p> —Fâcheux! seigneur pèlerin, dites que cela est mortel; déjà nous ne pouvons plus nous vêtir et nous avons peine à nous nourrir. </p>
+        <p> —Prenez patience, dit Pierrot, avant la fin de la journée vous aurez justice. </p>
+        <p> —Est-ce un Dieu? disait-on, ou bien est-ce un fou qui fait le grand seigneur? </p>
+        <p> —Sur ces entrefaites, un officier, suivi d'une troupe de soldats, saisit Pierrot par le bras. </p>
+        <p> —Suis-nous sur-le-champ, dit-il. </p>
+        <p> —Où? </p>
+        <p> —Au palais du gouverneur. </p>
+        <p> —J'y allais. </p>
+        <p> —Tant mieux, tu expliqueras ton affaire. Ah! coquin, tu mets un receveur et un douanier en prison; tu usurpes notre emploi; tu te mêles de rendre la justice!... </p>
+        <p> A chaque mot il joignait une bourrade, et ses soldats, voyant Pierrot sans défense, lui donnaient de grands coups dans le dos avec le bois de leurs lances. </p>
+        <p> —Pardieu! se dit Pierrot, j'ai bien envie d'en faire justice sur-le-champ; mais patience, j'ai promis à la fée Aurore d'attendre jusqu'au bout. </p>
+        <p> On le mena dans cet équipage jusqu'au palais du gouverneur. Une foule immense le suivait, riant de la folie de cet homme qui promettait un moment auparavant de lui faire rendre justice, et qu'on allait pendre sans forme de procès. </p>
+        <p> Pierrot fut mis dans une cour brûlée par un soleil ardent. On lui ôta son bonnet. Sous ce climat, la chaleur est insupportable. Pierrot demanda à boire. Les soldats se moquèrent de lui et lui jetèrent de la poussière. Il avait les fers aux pieds et aux mains. </p>
+        <p> —J'ai soif, dit une seconde fois Pierrot. </p>
+        <p> —Tu n'attendras pas longtemps, dit l'officier, le pal est prêt. Tu boiras dans l'autre monde. </p>
+        <p> Enfin le gouverneur parut. </p>
+        <p> —C'est toi, misérable, dit-il, qui as battu hier le mandarin, qui as jeté aujourd'hui le receveur et le douanier dans un cachot, et qui promettais tout à l'heure à ce peuple justice contre moi? </p>
+        <p> —Oui, seigneur, dit humblement Pierrot; et il raconta ce qui s'était passé. </p>
+        <p> Avant qu'il fût à la moitié de son récit: </p>
+        <p> —C'est bien, dit le gouverneur, qu'on l'empale. </p>
+        <p> —Quoi, seigneur, dit douloureusement Pierrot, n'y a-t-il pas de grâce à espérer? </p>
+        <p> Cette fois, le gouverneur ne daigna pas même répondre et fit signe qu'on exécutât ses ordres. </p>
+        <p> Tout à coup, Pierrot, roidissant ses poignets et ses jambes, cassa ses fers et les jeta à la figure du gouverneur, dont le nez enfla et saigna abondamment. Tous les soldats se précipitèrent sur lui. Pierrot prit la lance de l'un d'eux, l'enfonça dans le corps du premier, du second, du troisième et du quatrième, et ficha la lance en terre. </p>
+        <p> —Vous ne savez pas empaler, dit-il; mes amis, voilà comment on s'y prend. </p>
+        <p> Tous les soldats prirent la fuite; le gouverneur resta seul avec la foule, qui battait des mains en reconnaissant son héros de la veille. </p>
+        <p> Otant alors son manteau de laine, Pierrot parut en costume de cour. </p>
+      </div>
+      <div title="IV. QUATRIÈME AVENTURE DE PIERROT. PIERROT MET EN FUITE CINQ CENT MILLE TARTARES" type="chapter">
+        <head/>
+        <head> PIERROT MET EN FUITE CINQ CENT MILLE TARTARES </head>
+        <p> Le style de l'ordre qui rappelait Pierrot à la cour et lui donnait le commandement de l'armée était si pressant, qu'il ne crut pas pouvoir se détourner de quelques lieues pour voir, ne fût-ce qu'une heure, la belle Rosine, qui était devenue l'étoile polaire de toutes ses pensées et le mobile secret de toutes ses actions. La Chine était dans un danger si grand, que le pauvre grand connétable remit sa visite à des temps plus heureux. Autrefois, Pierrot n'eût pas hésité un instant, dût l'État être en danger par sa négligence; mais les conseils de la fée en avaient fait un tout autre homme. Il arriva à la cour sans être attendu ni annoncé, suivant sa coutume, et, apprenant que le grand roi Vantripan était à table, il alla se promener dans le jardin, sous les fenêtres de la salle à manger, qui étaient ouvertes à cause de la chaleur. Au bout de quelques instants, il entendit prononcer son nom avec de grands éclats de voix, et sans vouloir écouter, chose dont il avait horreur, il fut forcé d'entendre le dialogue suivant: </p>
+        <p> C'étaient le roi Vantripan et le prince Horribilis qui parlaient. </p>
+        <p> —Sire, dit au roi Horribilis, ne trouvez-vous pas que Pierrot se fait trop attendre et qu'il devrait être ici? </p>
+        <p> —Et comment veux-tu qu'il soit déjà de retour? Il y a cinq jours à peine que je l'ai rappelé, et le courrier avait deux cents lieues à faire. Si Pierrot avait des ailes.... </p>
+        <p> — Du zèle , voulez-vous dire, Majesté, interrompit Horribilis. </p>
+        <p> Tous les courtisans feignirent de trouver le calembour excellent; c'était un vrai calembour de prince. Croyez, mes amis, que ce n'est pas en faire l'éloge. Vantripan, jaloux du succès de son fils, voulut en avoir un semblable et demanda: </p>
+        <p> —Horribilis! </p>
+        <p> —Sire? </p>
+        <p> —Sais-tu pourquoi les marchands de tabac à priser ne font pas fortune? </p>
+        <p> —Non, sire. </p>
+        <p> —A cause de la descente d' Énée aux enfers. </p>
+        <p> Toute la cour se mit à rire bruyamment. Vantripan regarda autour de lui d'un air triomphant. </p>
+        <p> —Le vôtre est détestable, mon père, dit Horribilis; on le trouve dans tous les recueils de calembredaines. C'est un calembour rance. </p>
+        <p> —Ventre-saint-Gris! s'écria Vantripan, vit-on jamais insolence pareille? Eh bien, dis-moi, toi qui as lu tous ces recueils de calembredaines, quelle différence y a-t-il entre Alexandre et un tonnelier? </p>
+        <p> —Voilà qui est bien difficile, dit Horribilis: Alexandre a mis la Perse en pièces , et le tonnelier met la pièce en perce . </p>
+        <p> —Mort du diable! dit Vantripan, ce gredin ne m'en laissera pas un. </p>
+        <p> Les courtisans, voyant le tour que prenait la conversation, s'exercèrent à leur tour, et firent les plus beaux calembours du monde. Chacun cherchait le sien, et le renvoyait comme une balle en réponse à celui de son voisin. On parlait, on riait, on criait, on se disputait; c'était un vacarme infernal et la véritable image de la cour du roi Pétaud. Enfin, Vantripan frappa sur la table trois fois avec son couteau. A ce signal, tout le monde se tut. </p>
+        <p> —Savez-vous, dit-il, pourquoi les grenouilles n'ont pas de queue? </p>
+        <p> Cette question inattendue fit rêver tout le monde. La belle Bandoline elle-même se mit à chercher avec sa mère la solution d'un problème si haut et si profond. Elle ne trouva rien. Horribilis chercha pareillement et tout le monde avec lui. Après quelques instants: </p>
+        <p> —Non, s'écria-t-on d'une voix unanime. </p>
+        <p> —Ni moi non plus, répliqua le gros Vantripan. </p>
+        <p> A ces mots, ce fut dans toute l'assemblée un rire inextinguible, comme à la table des dieux d'Homère. </p>
+        <p> Horribilis, ne perdant pas de vue ce qu'il avait à dire, ramena bientôt la conversation sur Pierrot. Après avoir fait de lui pendant quelques minutes un éloge perfide, il ajouta: </p>
+        <p> —Au reste, il est bien récompensé de sa justice, car on m'écrit que partout on lui fait un accueil royal; que le peuple se presse autour de lui, et a voulu, ces jours derniers, le proclamer roi. </p>
+        <p> —En vérité! dit Vantripan effrayé. </p>
+        <p> —Oh! rassurez-vous, mon père, il a refusé le trône. </p>
+        <p> —Tu vois bien que c'est un sujet fidèle et mon meilleur ami! </p>
+        <p> —Vous avez raison, sire; mais qui a refusé une première fois acceptera peut-être un jour, et ce retard calculé à se rendre à vos ordres pourrait bien être un moyen de continuer ses intrigues dans les provinces, et de s'y faire un parti puissant avant de recourir à la force. </p>
+        <p> Jusque-là Pierrot était calme, mais il ne put tenir au désir de confondre le calomniateur; et s'élançant du jardin, au moyen des saillies du mur, dans la salle à manger, il se trouva en face d'Horribilis qui pâlit à cette vue. </p>
+        <p> —Sire, dit gravement Pierrot, j'ai appris qu'on se plaint de mes retards. En trois heures, pour vous obéir, j'ai fait deux cents lieues à cheval. Faut-il autre chose pour vous prouver mon zèle? </p>
+        <p> —Non, ami Pierrot, lui cria le gros Vantripan, je suis content, parfaitement content de toi. </p>
+        <p> —Je sais, ajouta Pierrot, qu'on dit que j'abuse de mon pouvoir. Je n'en abuserai plus désormais. Je le dépose entre les mains de Votre Majesté, avec ce sabre dont elle m'a fait présent. Qu'on le remette à un homme plus digne que moi d'un pareil honneur. </p>
+        <p> Et, dégrafant son sabre, il le présenta au roi par la poignée. </p>
+        <p> —Tu te trompes, ami Pierrot, je ne crois rien de ces calomnies. </p>
+        <p> —Calomnies, mon père? demanda fièrement Horribilis. </p>
+        <p> —Oui, calomnies, Horribilis. Retire-toi d'ici, héritier présomptif, tu m'agaces les nerfs. C'est toi qui cherches toujours à me brouiller avec mon vrai, mon seul ami. Va-t'en à cent lieues d'ici, et que je n'entende plus parler de toi. </p>
+        <p> —Non, sire, dit fièrement Pierrot, Votre Majesté ne doit pas envoyer son fils en exil. Il n'est pas convenable que je sois cause d'une querelle de famille. Ce serait bien mal vous rendre les bienfaits que j'ai reçus de vous. </p>
+        <p> —Pierrot, dit Vantripan, tu ne sais ce que tu dis. C'est le pire ennemi que tu aies dans cette cour. Il te fera tant de méchancetés que tu seras forcé de me quitter; et que ferai-je sans toi? </p>
+        <p> —Il n'importe, sire, je pars si vous l'exilez. </p>
+        <p> —Que ta volonté soit faite, dit Vantripan; mais parlons d'autre chose et reprends ce sabre de commandement. Tu vas rassembler l'armée et marcher aux frontières. </p>
+        <p> —Quand partirai-je? dit Pierrot. </p>
+        <p> —Demain à midi. Avant ton départ, je te donnerai mes dernières instructions. Va te reposer. </p>
+        <p> Pierrot sortit, et fut suivi de toute la cour. Quand le roi fut seul avec la reine: </p>
+        <p> —A quoi pensez-vous, dit la reine, de donner un si grand pouvoir à un sujet? C'est lui offrir l'occasion d'une trahison. </p>
+        <p> —Vous voilà, dit Vantripan, comme d'habitude, du même avis qu'Horribilis. </p>
+        <p> —Horribilis a raison, dit la reine, et vous l'avez traité ce soir d'une manière offensante et injuste. </p>
+        <p> —S'il n'est pas content de moi, dit le roi, qu'il parte; je ne ferai pas courir après lui. </p>
+        <p> —Tout cela serait fort bien, dit la reine, s'il partait seul; mais nous sommes résolues à le suivre, ma fille et moi, et à quitter un père dénaturé. </p>
+        <p> —Eh bien! suivez-le si bon vous semble, dit Vantripan impatienté. </p>
+        <p> Au fond, cependant, il se sentait ébranlé. </p>
+        <p> —Oui, nous le suivrons, dit la reine en prenant son mouchoir, et vous aurez la barbarie de nous sacrifier tous à un étranger. </p>
+        <p> A ces mots, elle tira de sa poche un petit oignon fraîchement pelé, qui lui servait dans ces occasions, s'en frotta les yeux et se mit à pleurer abondamment. </p>
+        <p> Le pauvre Vantripan commença à se regarder comme un méchant mari et un fort mauvais père. Il voulut consoler sa femme qui ne l'écouta pas. Après avoir pleuré, elle se mit à sangloter, puis elle eut une attaque de nerfs, et remua si douloureusement les bras et les jambes dans toutes les directions que le pauvre roi, bien qu'accoutumé à des scènes pareilles, crut qu'elle allait mourir ou devenir folle. En même temps elle tournait les yeux d'une façon effrayante. </p>
+        <p> —Faut-il sonner? faut-il appeler ses femmes? se disait le gros Vantripan. Quel scandale! On croira que je l'ai maltraitée, battue peut-être. </p>
+        <p> Tout à coup, voyant une carafe pleine d'eau, il allait la verser sur elle, lorsqu'elle fit signe qu'elle se portait mieux et qu'elle allait rentrer dans son appartement. Vantripan, bénissant Dieu qui a créé l'eau, et l'homme de génie qui a inventé les carafes, la reconduisit doucement et allait se retirer lorsqu'elle le retint. </p>
+        <p> —Vous donnerez à Horribilis le commandement de l'armée, dit-elle. </p>
+        <p> —Il le faut bien, puisque vous le voulez; mais Pierrot sera son lieutenant. </p>
+        <p> —J'y consens. Vous êtes un bon père et un grand roi! </p>
+        <p> —J'ai bien peur de n'être qu'un imbécile, pensa Vantripan: je sacrifie Pierrot à la crainte de subir la colère de ma femme. Si du moins j'avais la paix dans mon ménage! Ce qui me console, c'est qu'il n'y a pas un mari qui ne soit aussi bête que moi en pareille occasion. </p>
+        <p> Sur cette mélancolique réflexion, il s'endormit. Faites-en autant, mes amis, si ce n'est déjà fait. L'homme qui dort, dit le vieil Alcofribas, est l'ami des dieux. </p>
+        <p> Le lendemain, à midi, Pierrot se présenta au conseil. </p>
+        <p> Vantripan le regarda pendant quelque temps d'un air embarrassé. Il roulait sa tabatière dans ses doigts en cherchant un exorde. </p>
+        <p> —Pierrot, dit-il enfin, es-tu mon ami? </p>
+        <p> —Oh! sire, pouvez-vous douter de mon dévouement? </p>
+        <p> —Eh bien! donne-m'en une preuve sur-le-champ. </p>
+        <p> —Je suis prêt, dit Pierrot. Que faut-il faire? </p>
+        <p> —Veux-tu partager le commandement de l'armée avec Horribilis? </p>
+        <p> Pierrot se mit à rire. </p>
+        <p> —Sire, dit-il, la nuit a porté conseil, à ce que je vois. Pourquoi voulez-vous partager entre nous un commandement que vous pouvez lui donner tout entier. </p>
+        <p> —Mon ami, dit le roi, je désire qu'Horribilis fasse ses premières armes sous ta direction; mais comme il n'est pas convenable qu'un prince de sang royal obéisse à un simple sujet.... </p>
+        <p> —Sire, dit Pierrot, vous vous trompez, je ne suis pas un sujet: je suis venu me mettre à votre service, vous m'avez accepté, vous pouviez me refuser; s'il vous plaît aujourd'hui de m'ôter mon commandement, reprenez-le, sire. Aussi bien Votre Majesté est sujette à revenir si souvent sur ses résolutions, que je ne puis guère compter sur la continuation de votre faveur. J'aime mieux partir de plein gré aujourd'hui qu'être renvoyé plus tard. </p>
+        <p> —Bon! dit Vantripan, le voilà qui se fâche. Hélas! pourquoi ne puis-je accorder tout le monde et te faire vivre en bonne intelligence avec ma femme et mon fils! </p>
+        <p> —Sire, dit Pierrot, je suis étranger, et par là suspect à tout le monde. Laissez-moi partir, vous vivrez plus tranquille et moi aussi. </p>
+        <p> —Ingrat, dit le roi en pleurant, si tu pars, qui commandera l'armée? </p>
+        <p> —Le prince Horribilis, sire. </p>
+        <p> —Il se fera battre! </p>
+        <p> —Cela vous regarde. </p>
+        <p> —Il se sauvera le premier et déshonorera mon nom. </p>
+        <p> —Que puis-je y faire? dit Pierrot. </p>
+        <p> —Ami, reste avec nous. </p>
+        <p> —Je ne puis, sire. Celui qui commande est responsable. Si vous me donnez un collègue, je ne le serai plus; si vous me donnez un maître, ce sera pire encore. Que le prince Horribilis vienne à l'armée avec moi si cela lui plaît; mais qu'il m'obéisse, ou je ne réponds de rien. </p>
+        <p> —Je te le promets, dit Vantripan; je t'en donne ma parole royale. Voici les pleins pouvoirs. Pars maintenant. </p>
+        <p> —Voilà un bon homme, dit Pierrot en rentrant chez lui, et un pauvre homme. </p>
+        <p> Là-dessus il fit ses préparatifs, c'est-à-dire qu'il fit seller Fendlair et prit un manteau de voyage. Trois jours après il était au camp. </p>
+        <p> L'armée chinoise, composée de huit cent mille hommes, attendait l'arrivée des Tartares à l'abri de la fameuse muraille qui sépare la Chine du vaste empire des îles Inconnues. Vous savez, mes amis, que cette muraille a été construite pour préserver les Chinois des attaques de la cavalerie tartare, qui est la plus redoutable du monde. Comme la plupart d'entre vous n'ont pas eu l'occasion de voir ce singulier rempart, vous ne saurez pas mauvais gré, je crois, au vieil Alcofribas de vous en donner une idée. </p>
+        <p> «Cette muraille, dit-il, a plus de cent pieds de haut et de trente pieds de large. Elle est semée de tours qui s'élèvent de distance en distance. Elle s'étend sur une longueur de plus de six cents lieues, et sert de frontière aux deux pays, tantôt bornant la plaine, tantôt surplombant d'affreux précipices. Au pied de chaque tour sont deux portes, l'une qui s'ouvre du côté de la Chine, l'autre qui fait face aux îles Inconnues.» </p>
+        <p> Pierrot était à peine au camp depuis deux jours lorsqu'un bruit semblable aux grondements de la foudre, au pétillement de la grêle sur les toits et au désordre confus d'une foire, se fit entendre et annonça l'approche de l'ennemi. A ce bruit, les malheureux Chinois se crurent tous morts. Ils jetaient leurs armes, ils couraient dans le camp, éperdus et en désordre. Pierrot calma tout à coup cette confusion en faisant publier que le premier qui serait trouvé hors de sa place et de son rang serait pendu pour l'exemple. Chaque soldat courut aussitôt chercher ses armes et rejoindre son drapeau. Le général monta sur la tour pour voir l'armée tartare. </p>
+        <p> C'était un spectacle effrayant et admirable. Imaginez-vous cinq cent mille cavaliers montés à cru sur de petits chevaux sauvages et hérissés. Chaque cavalier était armé d'un arc, d'une lance et d'un sabre. En tête s'avançait le formidable Kabardantès, le frère cadet de Pantafilando; il était beaucoup moins grand que son frère, et mesurait vingt pieds à peine, mais sa force était colossale. Il luttait sans arme, corps à corps, avec les ours, et les écartelait de ses mains; il portait à l'arçon de sa selle une massue en argent, du poids de dix mille livres. Il ne tuait pas, il assommait et réduisait en poussière ses ennemis. Son cheval, d'une taille proportionnée à la sienne, et d'une vigueur extraordinaire, avait un aspect effroyable; on ne pouvait le regarder sans frémir. Kabardantès était le fils du fameux Tchitchitchatchitchof, empereur des îles Inconnues, et de la cruelle sorcière Tautrika, dont le nom est si célèbre dans les annales du Kamtchatka. Il avait appris de sa mère quelque chose des pratiques de la magie noire. Il pouvait, à son gré, soulever et pousser les nuages, évoquer les vents et les brouillards, faire paraître et employer à son service les démons. Sa férocité était sans bornes; il avait massacré plus de cent mille Chinois du vivant de Pantafilando, et de leurs têtes il avait fait construire une tour, au sommet de laquelle il s'enfermait le soir dans les nuits sombres et étoilées, pour contempler les astres et évoquer les puissances infernales. Une main invisible avait gravé sur son front, pendant son sommeil, les trois lettres que voici: </p>
+      </div>
+      <div title="V. CINQUIÈME AVENTURE DE PIERROT. COMBAT DE PIERROT CONTRE BELZÉBUTH ET LES ESPRITS INFERNAUX" type="chapter">
+        <head/>
+        <head> COMBAT DE PIERROT CONTRE BELZÉBUTH ET LES ESPRITS INFERNAUX </head>
+        <div title="I" type="chapter">
+          <head> I </head>
+          <p> «Il y a, dit le vieil Alcofribas en commençant le cinquième livre de l'histoire de Pierrot, quelque chose qui va plus vite que le vol de l'hirondelle, plus vite qu'une locomotive lancée à toute vapeur, plus vite que le vent qui passe sur la montagne et qui au même instant rase déjà la plaine, plus vite que la lumière du soleil qui parcourt quatre-vingt mille lieues par seconde; c'est la pensée de l'homme. Pierrot galopait plus vite que ne court la locomotive et que ne vole l'hirondelle, mais sa pensée galopait encore devant lui.» </p>
+          <p> Le sage enchanteur entend par là que notre ami Pierrot était fort pressé d'arriver et qu'il ne s'arrêtait guère à considérer à droite ou à gauche les objets qui se trouvaient sur la route. Horribilis l'avait bien prévu, et c'était pour forcer Pierrot de quitter le commandement de l'armée qu'il avait fait enlever et transporter la belle Rosine et sa mère dans la forteresse invisible, gardée par les esprits infernaux. Cependant Pierrot, tout en enrageant de ce délai, crut de son devoir de se rendre aux ordres de Vantripan et de lui dire l'état des affaires sur la frontière, et sa dernière victoire sur les Tartares. Fendlair, aussi infatigable que lui, courait comme si le salut du monde eût dépendu de sa vitesse. Enfin Pierrot arriva, et tout botté, tout éperonné se présenta devant Vantripan. </p>
+          <p> Le moment n'était pas favorable. Ce grand roi, ayant mangé trop de melon, avait mal digéré et se trouvait de fort mauvaise humeur. Aussi fit-il une vilaine grimace quand on annonça l'arrivée du grand connétable. </p>
+          <p> —Ah! ah! dit-il, le voilà donc, ce rebelle. Qu'il entre. </p>
+          <p> —Sire, dit Pierrot en entrant, que Votre Majesté me pardonne ma hardiesse, je ne suis pas un rebelle. </p>
+          <p> —Qu'es-tu donc, drôle? Tu abuses de mes bontés; tu te glisses à ma cour; je te fais grand connétable, grand amiral, premier ministre, je te donne mon sceau royal, je te délègue mon autorité suprême, et j'apprends que de toutes parts on se plaint de toi, que tu opprimes mes sujets, que tu jettes mes officiers en prison, que tu fuis devant les Tartares, que tu n'oses livrer bataille, que tu déshonores mes armes et la gloire de mon empire! Enfin, pour comble d'audace et d'insolence, tu oses te révolter contre ton prince, tu payes des soldats séditieux pour qu'ils te proclament roi! Est-ce la conduite d'un sujet fidèle ou révolté? Réponds. </p>
+          <p> En parlant, ce grand roi s'échauffait et s'enhardissait peu à peu jusqu'à insulter Pierrot. Les courtisans, qui connaissaient le caractère fier et peu endurant de celui-ci, commencèrent à trembler et à regarder du côté de la porte, s'attendant à quelque scène violente. Ils se trompaient. Pierrot répondit avec beaucoup de sang-froid: </p>
+          <p> —Oserai-je demander à Votre Majesté de qui elle a reçu des renseignements si authentiques sur mon administration? </p>
+          <p> —Et de qui, répliqua Vantripan qui se méprit au sang-froid de Pierrot et crut qu'il avait peur, et de qui, si ce n'est du seul de mes sujets qui soit assez fidèle et courageux pour oser te dénoncer à moi et braver ta vengeance? </p>
+          <p> —Quel est ce sujet si fidèle et si courageux? demanda pour la seconde fois Pierrot. </p>
+          <p> Vantripan s'aperçut qu'il était allé trop loin et que Pierrot commençait à s'échauffer. Il eût bien voulu rattraper ses paroles et les renfoncer au fond de son gosier; mais «une parole échappée, dit très-bien le vieil Alcofribas, est comme une hirondelle qu'on met en liberté, elle ne revient jamais vers celui qui l'a lâchée.» Enfin il répondit avec quelque embarras: </p>
+          <p> —C'est Horribilis qui m'a découvert tous ces abus. </p>
+          <p> —Sire, dit Pierrot, que le prince Horribilis rende grâce à l'honneur qu'il a d'être de votre sang et l'héritier de votre couronne. Je ne supporterais pas aussi aisément d'un autre de pareilles calomnies. Qu'on produise des témoins contre moi, et je me justifierai. </p>
+          <p> —Des témoins, des témoins! dit Vantripan embarrassé, cela est bien facile à dire. N'en a pas qui veut, des témoins. </p>
+          <p> —J'en ai, moi, Majesté, dit Pierrot. </p>
+          <p> Et il rendit compte de son administration d'une manière si claire, si précise et si éloquente, que toute la cour était dans l'admiration, et le pauvre Vantripan dans la stupeur. Mais quand Pierrot termina son récit en annonçant la fuite des Tartares que le roi ignorait encore, ce fut un concert d'acclamations. Le gros Vantripan se leva lui-même, et l'embrassant, le fit asseoir à côté de lui. </p>
+          <p> —Pardonne-moi, mon pauvre Pierrot, lui dit-il, d'avoir cru tous ces mensonges. Tu le sais bien, je t'ai toujours aimé et je n'aimerai jamais que toi; ceux qui disent le contraire sont des menteurs et des misérables que je ferai pendre ou empaler, à ton choix. </p>
+          <p> —Majesté, dit Pierrot, je vous remercie de l'offre que vous me faites, mais je ne l'accepte pas. Je ne veux pas être plus longtemps un sujet de querelle et de scandale dans votre cour et dans votre famille. Je me retire, et je désire que le ciel vous donne des serviteurs, non plus dévoués que moi à votre service (cela est impossible), mais plus heureux. </p>
+          <p> —Ne te retire pas, s'écria Vantripan, je te le défends. J'ai besoin de toi; je veux t'avoir près de moi jusqu'à mon dernier jour. Que te manque-t-il? Je te le donnerai sur l'heure. Veux-tu ma fille en mariage? Tu me l'as déjà demandée. Je te la donne; et, si elle a fait autrefois quelques difficultés, je suis sûr qu'elle sera aujourd'hui la première à te présenter la main. N'est-ce pas vrai, Bandolinette? </p>
+          <p> La princesse fit signe que rien ne lui serait plus agréable; mais il était trop tard. Pierrot était cuirassé contre l'ambition, et il se souciait peu de toutes les princesses du monde. Il fut cependant fort embarrassé, car il n'osait dire en public qu'il refusait la main de la belle Bandoline, ce qui n'était pas poli, et il voulait encore moins laisser croire qu'il l'acceptait. </p>
+          <p> —Sire, dit-il enfin, je sens tout l'honneur que Votre Majesté veut bien me faire. Il est vrai qu'en d'autres temps j'ai désiré cette alliance; mais depuis j'ai réfléchi qu'elle était trop au-dessus des voeux et de la naissance d'un sujet et du fils d'un meunier. </p>
+          <p> —De quoi te mêles-tu? s'écria Vantripan, si ma fille et moi nous te trouvons bon tel que tu es? Est-ce à toi de faire des façons? Va, va, donne-moi la main, et toi aussi, Bandolinette, et nous ferons la noce dans trois jours. </p>
+          <p> Bandoline donna la main, mais Pierrot resta immobile. </p>
+          <p> —Majesté, reprit-il, cette alliance autrefois eût comblé tous mes voeux; aujourd'hui je ne puis plus y prétendre. J'ai le dessein, aussitôt que Votre Majesté voudra me le permettre, de résigner entre ses mains tous mes emplois et de me retirer dans un village. Je veux me faire fermier. J'ai des goûts rustiques, sire, ce qui ne doit pas vous étonner. Paysan je suis né, paysan je mourrai. Une ferme est-elle un séjour convenable pour une si grande princesse? </p>
+          <p> —Pierrot, dit le gros Vantripan, tu me caches quelque chose, tu as quelque raison que tu ne veux pas dire. Voyons, est-ce le ressentiment d'avoir vu ta demande refusée? Bandoline va te demander elle-même en mariage. Après cela, sabre et mitraille! que peux-tu demander davantage? ton orgueil est-il satisfait? </p>
+          <p> —Pierrot, dit la belle Bandoline en rougissant, me voulez-vous pour femme? et si vous vous faites fermier, voulez-vous que je sois votre fermière? </p>
+          <p> —Il est trop tard, dit Pierrot; la place est prise. </p>
+          <p> Si jamais on voulait peindre le comble de l'étonnement, il faudrait représenter la figure des courtisans du grand Vantripan, le grand Vantripan lui-même et la pauvre Bandoline. Les uns et les autres n'en pouvaient croire leurs oreilles. Il n'y avait pas, dans les annales des quatre-vingt-quinze dynasties qui ont régné cent cinquante mille ans sur la Chine, un seul exemple d'un pareil refus. La position de Pierrot était devenue si délicate qu'il aurait donné beaucoup pour voir finir cette conversation. Malheureusement, il n'osait s'en aller, et restait seul, debout, et les yeux baissés, au milieu des regards de tous. Ses paroles furent suivies d'un long et profond silence. Enfin Vantripan s'écria: </p>
+          <p> —Mille millions de cathédrales! Pierrot, es-tu venu pour m'insulter? </p>
+          <p> —Vous vous trompez, sire, dit Pierrot avec une respectueuse fermeté; je n'ai point brigué l'honneur que Votre Majesté daigne me faire, et, comme je ne puis l'accepter, je le déclare avec sincérité. </p>
+          <p> A ces mots, la princesse Bandoline ne put retenir ses larmes. La honte et la douleur la suffoquaient. </p>
+          <p> —O ciel! s'écriait-elle, être dédaignée par celui que j'ai dédaigné si longtemps! </p>
+          <p> Elle se leva, et, suivie de sa mère, alla pleurer à l'aise dans son appartement. Il faut tout dire: Pierrot, vainqueur des Tartares; Pierrot, premier ministre adoré de tout un peuple (ce qui est si rare pour un ministre), avait une tout autre mine que Pierrot capitaine des gardes, et connu seulement par son fameux duel avec Pantafilando. </p>
+          <p> —Pourquoi, disait-elle amèrement, n'ai-je pas su deviner ce qu'il deviendrait un jour? pourquoi l'ai-je méprisé? </p>
+          <p> Et son imagination s'enflammant peu à peu, elle résolut de connaître sa rivale pour se venger d'elle, et, s'il était possible, l'enlever à Pierrot. </p>
+          <p> Pendant qu'elle formait des projets si funestes à la tranquillité de notre héros, il essayait, en faisant force excuses, de sortir convenablement du mauvais pas où il était engagé; mais il ne put y parvenir. </p>
+          <p> —Pierrot, lui dit Vantripan, tu as insulté la majesté royale, tu as dédaigné ma fille; je devrais te faire pendre; mais (ajouta-t-il sur-le-champ en voyant étinceler les yeux de Pierrot) je me contente de te bannir de ma présence. Tu n'es plus ni ministre, ni grand connétable, ni grand amiral; tu n'es plus que Pierrot, Pierrot tout court, entends-tu bien? c'est-à-dire un homme de rien, un ingrat que j'ai nourri de mon pain, abreuvé de mon vin, que j'ai caressé et réchauffé dans mon sein, et qui, comme un serpent venimeux, veut mordre son bienfaiteur. Va-t'en. </p>
+          <p> —Sire!... commença Pierrot. </p>
+          <p> —Va-t'en, va-t'en! </p>
+          <p> —Sire.... </p>
+          <p> —Va-t'en! Je ne veux plus te voir. </p>
+          <p> —Sire.... </p>
+          <p> —Je ne veux plus entendre parler de toi. </p>
+          <p> —Sire.... </p>
+          <p> —Va-t'en, et que dans vingt-quatre heures on ne te retrouve plus dans ma capitale, ou je te fais empaler. </p>
+          <p> —Halte-là, Majesté! cria Pierrot à bout de patience. Je regrette que vous me renvoyiez après que je vous ai si bien et si fidèlement servi; mais s'il vous est permis d'être ingrat, il ne vous est pas permis de m'offenser ni de me menacer. Souvenez-vous, sire, que, sans moi, Votre Majesté aurait depuis longtemps rejoint ses ancêtres dans la tombe. Je garde un souvenir trop récent de vos bienfaits et de la confiance que vous aviez en moi pour répondre avec colère à une menace que vous regretterez, sans doute, que vous regrettez déjà, j'en suis sûr; mais si quelqu'un osait mettre cette menace à exécution, sire, je tirerais du fourreau, pour ma défense, ce sabre que j'ai si souvent tiré pour la vôtre, et, Dieu aidant, personne ne m'attaquera impunément. </p>
+          <p> A ces mots il sortit de la salle d'un air si intrépide que tous les assistants furent saisis d'admiration et de crainte. Chacun s'écarta avec respect, et il rentra dans sa maison. </p>
+          <p> Quand il fut parti, Vantripan respira. La fière contenance de Pierrot lui imposait plus qu'il ne voulait l'avouer. Il essaya de tourner en plaisanterie ses dernières paroles, les courtisans firent quelques efforts pour lui persuader qu'il avait eu raison de maltraiter son ancien ami; mais au fond il sentait qu'il avait eu tort. </p>
+          <p> —Voilà ce que c'est, dit-il, que de mal digérer. On ne sait ce qu'on dit, et l'on se mord la langue pour avoir trop parlé. </p>
+          <p> Mes enfants, quoique le gros Vantripan ne fût pas un fort habile homme, il avait grandement raison en cette occasion; et, que vous ayez mal ou bien digéré, vous ferez fort bien de suivre en tout temps son conseil. «Trop gratter cuit, trop parler nuit,» dit le proverbe. </p>
+          <p> En rentrant chez lui, Pierrot ne pensait plus à ses emplois perdus, à la colère du roi Vantripan, à la haine d'Horribilis, aux Tartares, ni à qui que ce soit; il ne pensait qu'à la grande expédition qu'il allait entreprendre pour délivrer sa Rosine bien-aimée. Il donna quelques heures à Fendlair pour se reposer, et, congédiant ses pages et ses domestiques avec un présent proportionné aux services de chacun, il partit dès le lendemain. Dès qu'il fut hors des portes de la ville, il se sentit si heureux, il était si sûr de délivrer Rosine, et, après l'avoir délivrée, de ne plus la quitter, qu'il faisait mille projets et bâtissait mille châteaux en Espagne dont la seule idée lui promettait plus de bonheur que la réalité peut-être n'en pouvait donner. </p>
+          <p> —Malgré ma disgrâce, je suis riche encore, pensait-il; je vais acheter une ferme magnifique, toute semblable à celle de Rosine, mais beaucoup plus grande, parce que nous serons plus nombreux. J'y ferai bâtir une belle maison, à mi-côte, toute blanche, avec des volets verts, ce qui est plus gai. Elle aura deux façades, dont l'une sera tournée à l'orient et l'autre à l'occident, afin qu'on puisse voir le soleil quand il se lève et quand il se couche. Elle sera partagée en deux corps de logis de grandeur égale, dont l'un pour la cuisine, la salle à manger, l'office, le cellier et l'appartement de la fée Aurore; l'autre.... </p>
+          <p> A ces mots, il fut interrompu dans son agréable rêverie par un coup léger qu'une main amie lui frappa sur l'épaule. Il se retourna et reconnut avec joie la fée Aurore. </p>
+          <p> —Eh bien, dit-elle, où donc vas-tu ce matin? </p>
+          <p> —Je vais chercher Rosine, dit-il. </p>
+          <p> Et il fit à la bonne fée le récit de sa séparation d'avec le roi Vantripan. Elle se mit à rire. </p>
+          <p> —Console-toi, dit-elle, il aura bientôt besoin de tes services, et il te rappellera. </p>
+          <p> —Je suis tout consolé, répliqua Pierrot, s'il veut bien ne me rappeler jamais. </p>
+          <p> —C'est bien dit. Tu vas donc chercher Rosine? </p>
+          <p> —Oui, marraine. </p>
+          <p> —Où? </p>
+          <p> Pierrot se gratta le front avec embarras. </p>
+          <p> —Tu t'embarques sans biscuit et sans boussole? dit la fée. Cette audace confiante me plaît, mais.... </p>
+          <p> — Audaces fortuna juvat , dit sentencieusement Pierrot. </p>
+          <p> —Oui, la fortune aide les audacieux quand ils ont eux-mêmes un grain de prudence. Ainsi tu te figures bonnement que je vais te servir de guide et te conduire à ce château invisible qui tient enfermée la plus belle de toutes les Rosines de ce monde? </p>
+          <p> —Assurément, dit Pierrot. </p>
+          <p> —Eh bien, tu te trompes, mon ami; j'ai affaire. </p>
+        </div>
+        <div title="II" type="chapter">
+          <head> II </head>
+          <p> Le combat à l'entrée de la tour n'avait duré au plus que dix minutes. C'était plutôt une escarmouche qu'une bataille décisive. Pierrot le sentit bien, et, sans s'arrêter à recevoir les félicitations de Rosine et de sa mère, il attendit en silence et les bras croisés un nouvel assaut. </p>
+          <p> Les diables allèrent chercher des échelles qu'ils appuyèrent contre le mur de la tour, et commencèrent à monter. Là, il ne s'agissait plus, comme avec les Tartares, de renverser l'assaillant dans le fossé, car les échelles, douées par Belzébuth lui-même d'un pouvoir magique, s'incrustaient dans le mur de manière à ne pouvoir en être séparées. Jusque-là les diables avaient combattu Pierrot à armes égales. Le pouvoir dont la fée Aurore avait investi son filleul le mettait à l'abri de tous les enchantements. Sans cette précaution, dès son entrée dans le château, le pauvre Pierrot, malgré son courage et sa présence d'esprit, eût été victime des esprits infernaux. </p>
+          <p> Cependant, quoique les diables n'eussent sur lui que l'avantage du nombre et non celui d'une puissance magique supérieure à toutes les forces humaines, Pierrot, en les voyant grimper aux échelles, fut saisi d'un désespoir sublime. </p>
+          <p> —Grand Dieu, s'écria-t-il, si telle est ta volonté sainte, laisse-moi périr, mais sauve Rosine et sa mère! </p>
+          <p> Tout à coup il reconnut le doux parfum que la fée Aurore répandait partout autour d'elle. </p>
+          <p> —Est-ce ainsi que tu perds courage? lui dit-elle. Frappe, je suis avec toi. A ces mots parut sur la muraille Astaroth, le lieutenant de Belzébuth. Il poussa un long cri de joie et de triomphe. </p>
+          <p> —Courage, amis, Pierrot est à nous! </p>
+          <p> Comme il finissait de parler, et se dressait debout sur la plate-forme, Pierrot le frappa de sa masse d'armes dans la poitrine, et le précipita dans la cour. Il eut le crâne fracassé, et sa mort rendit quelque temps ses camarades indécis. Notre héros profita de cette hésitation pour frapper sans relâche les plus avancés. Ses coups tombaient sur leurs têtes comme la grêle sur les toits, et chacun d'eux froissait une cervelle, ou un bras, ou une jambe. Les morts et les mourants jonchaient le pavé de la cour. </p>
+          <p> Pendant tout ce carnage, la pauvre Rosine élevait vers le ciel ses innocentes prières. </p>
+          <p> —O Dieu! disait-elle, sauvez celui qui se dévoue pour moi. </p>
+          <p> Son coeur battait de frayeur et de joie à chaque coup que frappait l'invincible Pierrot. Quel homme que celui qui osait la disputer à l'enfer même! </p>
+          <p> Enfin, les démons se lassèrent de fournir à Pierrot de nouvelles victimes. </p>
+          <p> —Amis, dit Belzébuth, ne nous consumons pas en efforts inutiles. Nous n'avons pas encore usé de toutes nos armes. La plus terrible nous reste. Brûlons Pierrot dans sa tour. </p>
+          <p> Aussitôt tous les diables entassèrent du bois et des fascines, et y mirent le feu. De leurs bouches sortaient des flammes, ces flammes dont ils seront dévorés dans l'éternité. Elles environnèrent la tour et montèrent bientôt jusqu'au sommet. Cette fois tout était fini. Le courage de Pierrot ne pouvait plus lui servir de rien. </p>
+          <p> Pardonnez-moi, mes amis, de le laisser dans un péril si cruel, mais il faut que je vous dise ce qui était arrivé à l'armée chinoise depuis qu'elle obéissait aux ordres du prince Horribilis. Mon coeur souffre de laisser Pierrot en danger de mort, mais Alcofribas veut que je vous parle des Chinois et des Tartares, et je suis forcé d'obéir. </p>
+        </div>
+      </div>
+      <div title="VI. SIXIÈME AVENTURE DE PIERROT. OU HORRIBILIS APPREND QU'ILYA DE GRANDS CAPITAINES QUI NE SONT PAS PRINCES, ET DES PRINCES QUI NE SONT PAS DE GRANDS CAPITAINES.—FIN DE L'HISTOIRE DE PIERROT." type="chapter">
+        <head/>
+        <head> OU HORRIBILIS APPREND QU'ILYA DE GRANDS CAPITAINES QUI NE SONT PAS PRINCES, ET DES PRINCES QUI NE SONT PAS DE GRANDS CAPITAINES.—FIN DE L'HISTOIRE DE PIERROT. </head>
+        <p> Vous avez sans doute entendu parler de la célèbre ville de Kraktaktah. Au surplus, si vous ne la connaissez pas, vous la chercherez sur la carte des îles Inconnues, que fit publier le sage Alcofribas pour servir de guide à l'histoire de Pierrot. C'est la plus belle et la plus célèbre de toutes les villes de l'Asie. Elle est composée de sept enceintes concentriques et parfaitement circulaires, dont voici à peu près le plan: </p>
+        <p> Au centre était le palais de Kabardantès, empereur des îles Inconnues, dont Kraktaktah était la capitale. Autour du palais étaient rangés, dans un ordre parfait, une suite de hangars sous lesquels on abritait les chevaux pendant la nuit. Au-dessus de chaque hangar était une chambre où logeait pêle-mêle et couchait sur la paille toute la famille du propriétaire. Vous entendez bien, mes enfants, que le mobilier était assorti au logement. Ce mobilier se composait d'une botte de paille pour chaque membre de la famille, et d'une grande marmite dans laquelle se faisait et se mangeait avec les doigts la soupe commune. Les cuillers et les fourchettes, dit le vieil Alcofribas, sont bonnes pour des gens délicats et désoeuvrés, mais un homme ne doit se servir que de ses mains; quand il a dîné, il les essuie à sa barbe, ou, s'il n'en a pas, à celle de son voisin. Chacun portant ainsi en tout temps sa serviette avec soi, il n'est plus besoin de tant de linge et de tous les bagages dont on s'encombre aujourd'hui dès qu'on veut aller en voyage. </p>
+        <p> Qu'Alcofribas ait raison suivant sa coutume, ou qu'il ait seulement le désir de blâmer la mollesse de ses contemporains, peu importe. Cette description de la capitale de l'empire des îles Inconnues n'est pas un hors-d'oeuvre comme on en voit souvent dans les ouvrages de gens qui cherchent à plaire à leurs lecteurs plutôt qu'à les instruire. Alcofribas, mes amis, n'était pas de ce caractère. C'était un vieux magicien très-savant, très-austère, et qui se souciait de la vérité beaucoup plus que des hommes. Les hommes passent, disait-il, et au bout de quarante ans, les plus célèbres sont oubliés; mais la vérité demeure, elle est immortelle comme Dieu même. D'après ce principe, il ne dit que ce qui peut contribuer à la découverte de la vérité; tout le reste lui est tout à fait indifférent. </p>
+        <p> Donc, un matin, comme les citoyens de Kraktaktah, après avoir déjeuné et pansé les chevaux, causaient ensemble de la guerre et des affaires publiques, on entendit un grand bruit dans la plaine, et la sentinelle qui veillait sur le palais de Kabardantès, et qui dominait de là tout le pays, s'écria: Voilà nos gens qui reviennent. En même temps, on distinguait le galop des chevaux; tout le monde courut sur les remparts. </p>
+        <p> On fut un peu étonné de les voir revenir si vite. Comme on s'attendait à ce qu'ils ramèneraient un immense butin, la Chine étant le plus riche et le plus fertile pays du monde, on remarqua que non-seulement ils revenaient seuls, mais encore qu'ils avaient eux-mêmes perdu leurs bagages, et l'on devina la triste vérité. Enfin, chaque soldat ayant défilé à son tour, on vit avec épouvante que les trois quarts manquaient à l'appel, et que ceux qui survivaient étaient en fort mauvais état. Aussitôt il s'éleva, parmi les femmes qui attendaient leurs maris ou leurs fils, un tel concert de lamentations et de cris, qu'on ne pouvait s'entendre. Kabardantès, assourdi de ce tapage, et furieux d'ailleurs de sa défaite, déclara qu'il couperait le cou sur-le-champ à tous ceux qui ne garderaient pas un silence absolu. </p>
+        <p> En entendant cet ordre si sage, les femmes devinrent muettes comme des poissons. </p>
+        <p> Cependant l'armée chinoise approchait sous la conduite d'Horribilis. Celui-ci, persuadé que la poursuite était sans danger, vint camper sous les murs de Kraktaktah. La campagne était déserte. Moissons, troupeaux, chevaux, tout ce qui sert à la subsistance de l'homme était rentré dans les murs de la ville. Horribilis, satisfait de l'épouvante que son nom répandait partout, envoya sommer la place de se rendre. </p>
+        <p> A cette sommation insolente, Kabardantès saisit l'envoyé chinois par les deux oreilles, l'enleva de terre, et le tenant dans ses mains, lui dit sans vouloir le lâcher: </p>
+        <p> —Va dire à ton maître que je l'appelle en combat singulier. </p>
+        <p> —J'y vais, dit le Chinois faisant un effort pour se dégager et retomber à terre. </p>
+        <p> —Attends donc, tu es bien pressé... Dans quels termes lui diras-tu cela? </p>
+        <p> —Seigneur, au nom du ciel! lâchez-moi; je vais vous satisfaire. </p>
+        <p> —Non, non. Dis-moi auparavant comment tu vas rédiger mon cartel. </p>
+        <p> —Seigneur, je vous supplie.... </p>
+        <p> —Parleras-tu, triple buse? Crois-tu que le grand Kabardantès s'exprime comme le premier pékin venu? </p>
+        <p> —Seigneur, je ne le crois pas, mais.... </p>
+        <p> —Songe que j'ai fait de bonnes études aux écoles de Kraktaktah. </p>
+        <p> —Seigneur, je le vois bien, mais.... </p>
+        <p> —Et que j'ai eu pour maître le seigneur Poukpikpof, qui ne le cédait en rien à Aristote. </p>
+        <p> —Seigneur.... </p>
+        <p> —Ni dans les lettres, </p>
+        <p> —Seigneur.... </p>
+        <p> —Ni dans les sciences, </p>
+        <p> —Seigneur.... </p>
+        <p> —Ni dans l'histoire naturelle, </p>
+        <p> —Seigneur.... </p>
+        <p> —Ni dans la physique, la botanique, la dialectique et l'hyperphysique. </p>
+        <p> —Majesté... </p>
+        <p> —Et que j'ai bien profité de ses leçons. </p>
+        <p> —Grand empereur.... </p>
+        <p> —Eh bien, voyons, rédige-moi un peu ce cartel pour que je sache comment tu t'en tireras. </p>
+        <p> —Grand empereur, dit le Chinois bleuissant de rage et de douleur, le moment n'est pas favorable, daignez me laisser retomber à terre. </p>
+        <p> —En effet, dit Kabardantès, tes oreilles tiennent à mes mains plus qu'à ta tête. </p>
+        <p> A ces mots, le Chinois retomba lourdement à terre. Ses oreilles étaient restées aux mains de Kabardantès. Il se releva à moitié mort, et essaya de s'enfuir; mais le Tartare le retint: </p>
+        <p> —Rédige, lui dit-il. </p>
+        <p> —Seigneur, dit le Chinois tremblant, je vais vous obéir. Daignez me faire donner un peu d'eau fraîche pour baigner ma blessure. </p>
+        <p> —En effet, mon pauvre ami, comme te voilà saignant. </p>
+        <p> Et il ordonna d'aller chercher du vinaigre, dont on épongea les oreilles du Chinois, ou plutôt la place où elles avaient été. Le malheureux poussait des cris affreux, mais il fut forcé de subir cette opération. </p>
+        <p> —Maintenant, dit Kabardantès, as-tu l'esprit bien présent et la pleine possession de tes facultés? </p>
+        <p> —Assurément, seigneur, s'écria le Chinois redoutant quelque mystification nouvelle. </p>
+        <p> —Eh bien, écris: «Chien de Pierrot...» Qu'as-tu à me regarder comme un imbécile? </p>
+        <p> —Majesté, dit le Chinois, Pierrot n'est plus à l'armée. </p>
+        <p> —Vraiment! </p>
+        <p> —Oui, Majesté. </p>
+        <p> —Et depuis quand? </p>
+        <p> —Depuis le jour de votre.... </p>
+        <p> Ici le Chinois hésita et parut chercher l'expression. </p>
+        <p> —De ma fuite? </p>
+        <p> —Non, seigneur, de votre concentration précipitée du côté de Kraktaktah. </p>
+        <p> —Est-ce qu'il est mort? </p>
+        <p> —Non, il a été destitué. </p>
+        <p> —Pierrot destitué! Qui le remplace? </p>
+        <p> —Le prince Horribilis, sire. </p>
+        <p> —Ah! bravo! dit Kabardantès. Je n'ai que faire de tes services à présent. Va, pars, cours, vole. </p>
+        <p> Et se tournant vers les principaux officiers: </p>
+        <p> —Amis, à cheval. Pierrot est parti. La journée sera bonne. </p>
+        <p> Une heure après, toute l'armée tartare sortit des murs de Kraktaktah, et se précipita dans le camp des Chinois. Ceux-ci ne s'attendaient à rien moins. La plupart étaient à dîner; d'autres étaient au fourrage ou brûlaient les villages tartares dans la campagne. Au premier cri des sentinelles et des gardes avancées, tout le monde courut aux armes, et vit avec terreur s'avancer au galop l'effroyable Kabardantès. </p>
+        <p> Les Chinois n'hésitèrent pas, et reprirent sans tarder le chemin de la grande muraille. Les plus affamés ne se donnèrent pas le temps d'emporter des provisions pour la route; quant aux autres, ils étaient déjà loin. </p>
+        <p> Figurez-vous, mes amis, huit cent mille Chinois courant à la fois dans la plaine, tous dans la même direction. Ceux qui étaient à cheval formaient l'avant-garde comme il est naturel. A leur tête galopait, ou plutôt volait le prince Horribilis. Les pieds de son cheval touchaient à peine la terre; quant à lui, il maudissait sa mauvaise étoile, et la sotte idée qu'il avait eue de venir à la guerre et de faire destituer Pierrot. De temps en temps il pensait à Kabardantès. </p>
+        <p> —Quel enragé Tartare! pensait-il; voilà trois jours que nous galopons après lui, il rentre dans sa maison, et au lieu d'embrasser, comme un bon mari et comme un bon père, sa femme et ses enfants, le voilà qui remonte à cheval et qui court après nous! Est-ce du bon sens? est-ce de la logique? S'il voulait entrer en Chine, pourquoi s'enfuyait-il vers Kraktaktah? Et s'il voulait rentrer à Kraktaktah, pourquoi galope-t-il maintenant du côté de la Chine? </p>
+        <p> Tout en faisant ces sages réflexions et beaucoup d'autres que je passe sous silence, parce qu'elles ne lui ont guère profité et qu'elles ne l'ont rendu ni plus prudent, ni plus habile, ni plus brave, ni meilleur, ni plus disposé à reconnaître et à récompenser le mérite des autres hommes, il éperonnait toujours son cheval. A une assez grande distance derrière lui, mais avec une ardeur toute pareille, courait tout son état-major, suivi de près par la foule des martyrs. Les lances des Tartares piquaient ce troupeau de fuyards et leur donnaient des ailes. Enfin le soleil se coucha, et les malheureux Chinois, protégés par les ombres de la nuit, purent prendre un peu de repos. </p>
+        <p> Le premier jour, plus de cent mille Chinois périrent ou furent fait prisonniers. Le lendemain, la poursuite continua. Cent cinquante mille Chinois restèrent encore en route. Le troisième jour, les débris de l'armée arrivèrent à la grande muraille et se cachèrent derrière les remparts qu'avait défendus Pierrot. Kabardantès, animé par le succès, voulut sur-le-champ escalader la muraille; mais la plupart des Tartares, épuisés par une course continuelle, refusèrent de le suivre et remirent l'attaque au lendemain. </p>
+        <p> Il y a un proverbe qui dit: «Ne remettez jamais à demain ce que vous pouvez faire aujourd'hui.» Jamais proverbe ne fut mieux appliqué qu'en cette occasion. </p>
+        <p> Horribilis, désespéré, faisait chercher partout Pierrot pour lui rendre le commandement. Dans les grands dangers, les âmes courageuses reprennent naturellement le pouvoir. La jalousie et la haine avaient fait place à la peur. Le malheureux Horribilis ne voyait de salut qu'en Pierrot. </p>
+        <p> —Où est-il? disait-il à Tristemplète. Dis-le-moi, toi qui es sorcier. </p>
+        <p> —Je n'ai pas besoin d'être sorcier pour le deviner, répondit Tristemplète avec un affreux sourire. En quittant la cour du roi votre père, il est allé délivrer sa fiancée. </p>
+        <p> —Eh bien, envoie sur-le-champ un exprès pour le rappeler et lui dire que je remets tout en ses mains, et que s'il n'arrive à l'instant, je suis perdu, l'armée est perdue, toute la Chine est perdue. </p>
+        <p> Aussitôt le magicien siffla aux quatre vents de l'horizon. </p>
+        <p> Quatre esprits infernaux accoururent à ce signal. </p>
+        <p> —Qu'on me transporte à la cour du roi Vantripan, dit-il. </p>
+        <p> Une seconde après, il était au pied du grand escalier. En entrant dans la salle, il aperçut Vantripan assis sur son trône, la couronne en tête, les yeux rayonnant de bonheur et de fierté. Il donnait audience aux envoyés du schah de Perse. </p>
+        <p> —Oui, messieurs, disait-il en se rengorgeant, la terreur de mon nom et la valeur du prince Horribilis ont mis en fuite tous ces Tartares. Mon fils m'écrit qu'il marche sur leur capitale, Kraktaktah, et qu'il n'en fera qu'une bouchée. </p>
+        <p> —Majesté, dit l'envoyé du schah, nous vous félicitons de ce succès et des exploits du prince Horribilis. Il paraît qu'il a été vaillamment secondé par tous ses officiers, et surtout par le grand connétable. </p>
+        <p> —Qui? Pierrot? interrompit dédaigneusement le roi. Vous aurez lu cela dans les gazettes. Ces gazettes, voyez-vous, c'est un tas de mensonges. Tromper, mentir, prêcher le faux pour savoir le vrai, c'est le métier de ces gens-là, c'est de cela qu'ils vivent. Horribilis secondé par Pierrot! Ah! ah! ah! </p>
+        <p> Et il se renversa sur son fauteuil en riant aux éclats. </p>
+        <p> —Majesté, dit le chef des huissiers, voici un courrier du prince Horribilis. </p>
+        <p> —Fais entrer. Tenez, messieurs, ajouta-t-il, je ne m'y attendais guère, puisque j'ai reçu de ses nouvelles hier. Pierrot a quitté l'armée depuis six jours. Ce n'est donc pas à lui qu'on pourra attribuer le mérite des nouvelles que je vais recevoir. </p>
+        <p> Tristemplète s'avança d'un air modeste. </p>
+        <p> —Eh bien! dit Vantripan, où sont tes dépêches? </p>
+        <p> —Sire, j'ai ordre du prince Horribilis de ne parler qu'à vous seul. </p>
+        <p> —A moi seul? Pourquoi tant de mystère? Parle devant tous. Il n'y a personne de trop ici. </p>
+        <p> —Sire, dit Tristemplète, puisque vous le voulez, je parlerai. Après le départ du grand connétable, le prince Horribilis a poursuivi l'ennemi jusqu'aux portes de Kraktaktah. </p>
+        <p> —Qu'est-ce que je vous disais, messieurs? interrompit le gros Vantripan. </p>
+        <p> —Tout à coup, continua Tristemplète, Kabardantès et ses soldats ont tourné bride et se sont précipités sur nous avec fureur en apprenant le départ du grand connétable. </p>
+        <p> —Diable! diable! dit Vantripan pensif. Et vous les avez étrillés, j'imagine? </p>
+        <p> —Sire, c'est ce qui n'aurait pas manqué d'arriver, si les ordres du prince Horribilis avaient été mieux compris et mieux exécutés. </p>
+        <p> —Quels ordres? </p>
+        <p> —A la vue de Kabardantès et de ses Tartares qui se précipitaient sur nous au galop, le prince a crié: «En avant!» Malheureusement, comme, je ne sais pour quelle raison, il était tourné du côté de la Chine au moment où il a donné cet ordre, on a cru qu'il voulait dire: «En avant! retournons en Chine.» Tout le monde s'est précipité de ce côté-là, et le prince, entraîné et poussé par le courant, est arrivé le premier à la grande muraille, où il attend vos ordres souverains. </p>
+        <p> —Mes ordres souverains, dit le gros Vantripan, sont qu'il aille se faire pendre. Combien d'hommes a-t-il perdus? </p>
+        <p> —Sire, cent mille le premier jour, cent cinquante mille le second, et deux cent mille le troisième. </p>
+        <p> —En tout, quatre cent cinquante mille hommes. Voilà trois jours bien employés! Quelle activité! C'était bien la peine de faire destituer ce pauvre Pierrot. Nous allons chanter la chanson: </p>
+        <p> Mardi, mercredi, jeudi,  Sont trois jours de la semaine.  Je m'assemblai le mardi,  Mercredi je fus en plaine;  Je fus battu le jeudi. </p>
+        <p> Ah! mon Dieu! comment faire? Maudit Horribilis! qu'allait-il faire chez les Tartares? </p>
+        <p> —Majesté, il ne pouvait prévoir ce qui est arrivé. </p>
+        <p> —Horribilis est un sot. </p>
+        <p> —Sire, le respect ne me permet pas de vous contredire. </p>
+        <p> —Il s'agit bien de respect. Donne-moi un conseil. Vous tous qui êtes ici la bouche ouverte comme des carpes hors de l'eau, donnez-moi des conseils. </p>
+        <p> —Sire, c'est bien facile, dit un courtisan: mettez-vous à la tête de l'armée. Votre présence électrisera les Chinois, et.... </p>
+        <p> —Va te faire électriser toi-même, interrompit le bon roi. </p>
+        <p> —Sire, dit un autre, faites faire un recensement général de tous les hommes en état de porter les armes. </p>
+        <p> —Oui, et pendant qu'on les recensera, nous serons dans la poêle à frire. Imbécile, va! </p>
+        <p> —Sire, dit un troisième, faites semer des chausse-trapes sur toutes les routes pour arrêter la cavalerie tartare. </p>
+        <p> —Bon! et elle passera à travers champs, et nos chevaux se prendront dans les chausse-trapes. Triple butor! </p>
+        <p> —Majesté, dit un quatrième, si l'on substituait des piéges à loups aux chausse-trapes? </p>
+        <p> —Grand innocent! dit le roi. </p>
+        <p> —Sire, dit un cinquième, si l'on empoisonnait toutes les fontaines? </p>
+        <p> —Qu'est-ce que nous boirons? dit Vantripan. Il serait plus court, je crois, de leur couper franchement le cou. </p>
+        <p> Chacun proposa son moyen. </p>
+        <p> —Vous êtes tous des ânes, dit enfin Vantripan. Et toi, ajouta-t-il, s'adressant à Tristemplète, qu'est-ce que tu proposes? </p>
+        <p> —Sire, rappelez Pierrot. </p>
+        <p> —Ah! voilà un véritable ami et une personne de bon sens, dit Vantripan. Mais où est Pierrot? </p>
+        <p> —Sire, il est parti. </p>
+        <p> —Bon! nouveau malheur! Que le diable vous emporte tous! </p>
+        <p> —Sire, dit modestement Tristemplète, si Votre Majesté veut me donner ses pleins pouvoirs, je me fais fort de vous le ramener. </p>
+        <p> —Tu les as, dit Vantripan. </p>
+        <p> Le lendemain matin, Tristemplète arriva au château de Belzébuth fort à propos pour notre pauvre ami, que les flammes environnaient de toutes parts avec sa fiancée. </p>
+        <p> La pauvre Rosine et sa mère se croyaient à leur dernier jour et recommandaient leurs âmes à Dieu. Pierrot lui-même, inaccessible à la crainte, mais désespérant de les sauver, voulait périr avec elles. Les diables criaient et applaudissaient en entretenant le feu avec toutes sortes de matières inflammables prises dans les magasins de l'enfer. Sur ces entrefaites, Tristemplète entra dans la cour. </p>
+        <p> —Où est Belzébuth? dit-il en descendant de cheval. </p>
+        <p> —Me voilà! dit Belzébuth encore tout froissé de sa chute. Que me veut-on? </p>
+        <p> A la vue de Tristemplète, il se jeta dans ses bras. </p>
+        <p> —Eh! bonjour, ami, qu'il y a de temps que je ne t'ai vu! dit-il. </p>
+        <p> —Oui, mes affaires.... </p>
+        <p> —C'est bon, c'est bon, je les connais, tes affaires. Quand viendras-tu définitivement parmi nous? </p>
+        <p> —Le plus tard possible, dit Tristemplète en faisant la grimace. </p>
+        <p> —Tu fais le dégoûté? dit Belzébuth. Franchement tu as tort: l'enfer n'est pas ce que tu crois; il y a de bons diables parmi nous, et nous menons joyeuse vie. Quand veux-tu que j'aille te chercher? </p>
+        <p> —Nous parlerons de cela plus tard, dit Tristemplète. Je viens ici pour affaire sérieuse. Où est Pierrot? </p>
+        <p> —Regarde! il va griller. Tu vois comme nous avons exécuté tes ordres! </p>
+        <p> —Malheureux! s'écria Tristemplète, fais éteindre le feu à l'instant! </p>
+        <p> —Ah bah! et pourquoi? </p>
+        <p> —Éteins le feu, te dis-je, l'explication viendra plus tard. </p>
+        <p> —Je ne veux pas, dit fièrement Belzébuth: il m'a rossé, il a tué ou blessé plus de soixante de mes soldats; je n'ai dû la vie qu'à mon casque, dont la trempe est au-dessus de toutes les trempes connues. Il périra. </p>
+        <p> —Il vivra, dit Tristemplète. </p>
+        <p> —Il périra! </p>
+        <p> —Il vivra!! </p>
+        <p> —Il périra!!! </p>
+        <p> A ces mots, les deux amis allaient se précipiter l'un sur l'autre. </p>
+        <p> —Au nom d'Éblis, le roi des esprits infernaux et le rival de Salomon; au nom de la puissance que tu auras sur moi après ma mort; au nom de cet anneau magique qui peut redoubler dans tes os le feu de l'éternelle destruction, obéis, Belzébuth; éteins ces flammes. </p>
+        <p> Belzébuth, vaincu, souffla en grognant sur la flamme et se retira à l'écart comme un chien à qui l'on vient d'enlever un os. </p>
+        <p> —Et toi, cria Tristemplète à Pierrot, descends et ne crains rien. </p>
+        <p> —Puis-je me fier à lui? dit Pierrot à la fée Aurore. </p>
+        <p> —Tu le peux, dit-elle, il a besoin de toi. </p>
+        <p> —Je ne descendrai pas seul, dit Pierrot, j'emmènerai avec moi ma fiancée et sa mère. </p>
+        <p> —Emmène-les si tu veux, dit Tristemplète. </p>
+        <p> Pierrot descendit triomphant en leur donnant la main; mais il ne voulut sortir du château que le dernier, de peur que, par une perfidie nouvelle, on fermât la porte sur elles. Il traversa les rangs des diables la tête haute, le regard ferme et assuré. Ses ennemis, rangés sur deux lignes, ne purent s'empêcher d'admirer son courage. Rosine disait dans son coeur: Que je suis heureuse d'être aimée d'un pareil homme! Et la fée Aurore elle-même, qui fermait la marche, sourit en montrant à Belzébuth son filleul: </p>
+        <p> —Tu n'as pu ni le vaincre ni l'effrayer, dit-elle. </p>
+        <p> Le farouche Belzébuth grinçait des dents en voyant sa proie lui échapper. Un pouvoir plus fort que le sien le forçait à l'obéissance; car vous savez, mes amis, que si le démon peut tenter l'homme et le conduire à sa perte, l'homme, à son tour, par un privilége divin, peut enchaîner et dompter le démon. C'est toute la science des anciens magiciens, science aujourd'hui presque oubliée, négligée du moins, à cause des inconvénients qu'elle aurait pour le repos public et pour la sûreté des États, mais réelle et que cultivent encore dans la solitude quelques sages ignorés. Un jour, peut-être, il me sera permis de vous en dévoiler les arcanes; aujourd'hui, tirons le rideau. Ces mystères ne sont pas faits pour être entendus par toutes les oreilles, ni répétés par toutes les bouches. Sachez seulement que cette science s'étend et pousse ses racines jusque dans les entrailles de la terre, et qu'il n'y a pas un arbre, un oiseau, un rocher, un serpent, une étoile qui ne parle à l'esprit du philosophe et qui ne lui dévoile un des secrets de la nature. </p>
+        <div title="I" type="chapter">
+          <head> I </head>
+          <p> Lorsque Pierrot et ses compagnons furent sortis du château de Belzébuth, le premier soin de Pierrot fut de demander à Tristemplète, qui les avait suivis, où il voulait le conduire. </p>
+          <p> —A la cour du roi, dit Tristemplète; et il lui apprit ce que vous savez déjà, et le besoin qu'on avait de ses services. </p>
+          <p> —Cela m'est fort égal, dit Pierrot. J'ai mieux à faire que de me battre pour un roi ingrat et pour son scélérat de fils. Horribilis a voulu prendre ma place, qu'il la garde, et, s'il doit périr, qu'il périsse; ce ne sera qu'un méchant homme de moins. </p>
+          <p> —Pierrot, dit la fée Aurore, n'as-tu pas d'autre raison? </p>
+          <p> —Ma vraie raison, dit Pierrot embarrassé, c'est que je ne veux plus me séparer de Rosine. J'ai trop souffert de son éloignement et de ses dangers. Je veux que désormais tout soit commun entre nous. </p>
+          <p> —Voilà une raison raisonnable, dit la fée; mais rassure-toi, je me charge de veiller sur elle et sur sa mère. Toi, va où l'honneur t'appelle. </p>
+          <p> —Mais... dit Pierrot. </p>
+          <p> —Partez, mon ami, lui dit Rosine avec un doux regard. Il faut sauver ces pauvres Chinois d'abord. Plus tard nous penserons à être heureux. </p>
+          <p> —Allons, puisqu'il le faut, dit en soupirant le pauvre Pierrot. </p>
+          <p> Et, prenant congé de sa fiancée, il partit avec le magicien. Quelques secondes plus tard, il était auprès de Vantripan. </p>
+          <p> Le pauvre roi était bien triste et bien malheureux. Sa fille dédaignée, son fils déshonoré par sa lâcheté, son armée taillée en pièces et son royaume envahi lui avaient ôté l'appétit. Quand Pierrot parut, il fut saisi de joie et de tendresse, et lui sauta au cou en pleurant. Pierrot, qui avait le coeur tendre, fut si ému de cet accueil qu'il se sentait lui-même envie de pleurer. Tous les courtisans, voyant le roi pleurer, se mirent à sangloter d'une façon pitoyable. La reine mit son mouchoir sur ses yeux, et la pauvre Bandoline, blessée au coeur par les dédains de Pierrot, saisit avec empressement une si belle occasion de fondre en larmes. </p>
+          <p> —Ah! mon pauvre ami, dit enfin Vantripan, qui sanglotait comme un veau qui a perdu sa mère, quelle joie de te revoir! Quand tu n'y es pas, tout va de travers. Tu sais ce qui est arrivé? </p>
+          <p> —Je le sais, dit Pierrot. </p>
+          <p> —Hélas! c'est ma faute, dit Vantripan. Avais-je besoin de donner le commandement à un benêt qui poursuit l'ennemi quand l'ennemi se sauve, et qui se sauve quand l'ennemi le poursuit? Enfin, te voilà, tout est réparé. Tu vas partir, tu reprendras le commandement, tu mettras en fuite les Tartares, tu couperas le cou à Kabardantès, tu feras la conquête de Kraktaktah et de l'empire des îles Inconnues, et.... </p>
+          <p> —Y a-t-il encore quelque chose à faire? dit Pierrot, souriant de cette confiance que Vantripan avait dans son courage et dans son habileté. </p>
+          <p> —Non, voilà tout, pour le moment. </p>
+          <p> —Partons, dit alors Pierrot, et il prit congé de Sa Majesté. </p>
+          <p> Comme il traversait un corridor pour sortir, une femme de chambre de la princesse Bandoline lui toucha le bras et fit signe de la suivre. </p>
+          <p> Ce message embarrassa fort Pierrot. Il n'aimait plus la princesse, et même, suivant l'usage en pareille occasion, il se souvenait à peine de l'avoir aimée; mais il était trop poli et trop délicat pour lui dire une pareille chose en face. Cela ne se dit pas à une simple paysanne, à plus forte raison à une grande princesse, dont le principal défaut était d'être assez vaine, ce qui est pardonnable à une fille de roi, et de ne pas plaire à Pierrot. Il suivit donc la femme de chambre à contre-coeur et arriva dans l'appartement de Bandoline. </p>
+          <p> Elle l'attendait, à demi couchée sur un canapé, et lui fit signe de s'asseoir à côté d'elle. Il hésitait un peu, pressé comme il l'était de partir et d'échapper à une corvée assez désagréable. </p>
+          <p> —Asseyez-vous, lui dit-elle tristement; ce que j'ai à vous dire ne vous retiendra pas longtemps. </p>
+          <p> Il obéit. </p>
+          <p> —Pierrot, reprit-elle, d'où vient que vous ne m'aimez plus? Suis-je moins belle qu'autrefois? </p>
+          <p> —Vous êtes toujours la reine de Beauté, répondit Pierrot en détournant les yeux. </p>
+          <p> —Vous ai-je fait du tort? </p>
+          <p> —Aucun, dit Pierrot. </p>
+          <p> —Ou parce que je suis fille de roi? </p>
+          <p> —Non, dit Pierrot. </p>
+          <p> —Est-ce parce que j'ai refusé autrefois de vous épouser? </p>
+          <p> Le pauvre Pierrot était à la torture. </p>
+          <p> —On aime quand on peut, dit-il, et non pas quand on veut. </p>
+          <p> Grande et triste vérité! La pauvre Bandoline rougit et pâlit. Enfin, elle se leva et lui dit: </p>
+          <p> —Vous aimez une autre femme? </p>
+          <p> —Oui, dit Pierrot, que cet aveu embarrassait moins que tout le reste. </p>
+          <p> —Elle est bien heureuse! dit Bandoline en soupirant. Qu'elle le soit, ajouta-t-elle, puisque le destin le veut. Et vous, Pierrot, souvenez-vous que vous avez en moi une amie sincère. </p>
+          <p> A ces mots elle lui tendit la main, que Pierrot baisa avec respect, et se détourna pour lui cacher ses larmes. Pierrot sortit tout troublé, et alla rejoindre son nouvel ami Tristemplète. En un instant ils furent à cheval, et, dans le temps qu'une religieuse mettrait à dire: Jesu, Maria , ils se trouvèrent au camp des Chinois. Tristemplète ne voyageait jamais autrement. </p>
+          <p> Dès son arrivée, Pierrot entendit des cris affreux et comprit que le combat était engagé. Il y courut plein d'ardeur. Il était temps. </p>
+          <p> Toutes ces choses que je viens de vous conter si longuement, je veux dire le combat de Pierrot contre les diables dans le château de Belzébuth; sa délivrance par Tristemplète; l'audience de Vantripan; l'entrevue avec Bandoline et le voyage au camp des Chinois, s'étaient, grâce aux moyens de transport de Tristemplète, passées en moins de deux heures. Nous parlons beaucoup de nos chemins de fer, et nous sommes très-fiers de faire dix ou douze lieues à l'heure, tandis que nos pères se transportaient en un clin d'oeil d'un bout de la Chine à l'autre, et vous saurez qu'entre ces deux bouts il n'y a pas moins de sept cents lieues. Nous sommes des enfants qui ont mis le pied dans les bottes de leur père, et qui, pour cela, se croient déjà des hommes. Que de progrès nous avons à faire avant de retrouver seulement la moitié des sciences qui étaient vulgaires au temps d'Abraham et des mages de l'antique Chaldée! </p>
+        </div>
+      </div>
+    </body>
+    <back/>
+    <back/>
+  </text>
+</TEI>

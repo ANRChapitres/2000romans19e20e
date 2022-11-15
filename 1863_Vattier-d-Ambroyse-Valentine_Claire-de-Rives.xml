@@ -1,0 +1,959 @@
+<?xml version='1.0' encoding='UTF8'?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> Claire de Rives </title>
+        <author from="1835" key="" name="Vattier d'Ambroyse, Valentine" sex="female" to="1891"/>
+        <edition n=""/>
+        <editor name="A Mame" where="tours"/>
+      </titleStmt>
+      <publicationStmt>
+        <date type="created" when="1863"/>
+        <date type="issued" when="1863"/>
+      </publicationStmt>
+      <editionStmt>
+        <profileDesc tag="non-canon" type="genre">
+          <textClass>
+            <keywords/>
+          </textClass>
+        </profileDesc>
+      </editionStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docAuthor/>
+        <docTitle>
+          <titlePart main="Claire de Rives"/>
+          <titlePart sub=""/>
+        </docTitle>
+      </titlePage>
+    </front>
+    <body>
+      <div title="I" type="chapter">
+        <p> I </p>
+        <p> Il n'est peut-être pas de paysages plus propres à inspirer des idées à la fois graves et douces que ceux qui s'offrent à la vue lorsque, en suivant le cours de l'Ellé, on arrive à sa jonction avec l'Ésole. Cette petite rivière, qui serait inconnue si elle n'avait donné son nom à la ville de Quimperlé  1  , traverse le pays le plus accidenté qui se puisse voir. D'un côté sont de riches prairies, des landes arides, des bruyères roses et violettes, sur le ton desquelles tranche parfois un monument druidique rongé par la mousse des âges, ou un calvaire érigé par la piété des cœurs reconnaissants. Sur l'autre rive, les bois de sapins abondent, les rochers aux teintes grisâtres se font voir, tantôt nus et déchirés par quelque crise de la nature, tantôt enguirlandés de vertes fougères mêlées à la flore variée des campagnes bretonnes ; puis, dominant les forêts, s'élance dans les airs la flèche dentelée du clocher des chapelles ou les tours à demi détruites d'un antique manoir. La rivière participe elle-même à ces transitions. Tantôt, calme, elle roule ses eaux limpides sur un fond de sable fin ; tantôt, impétueuse, elle lance ses flots bouillonnants autour des pointes aiguës des rocs qui s'avancent jusque dans son lit. </p>
+        <p> Mais c'est surtout en s'approchant de la ville que l'Ellé semble s'irriter des obstacles qu'elle rencontre. Ses eaux grossissent, écumeuses et mugissantes,jusqu'à ce qu'ayant rencontré l'Ésole, toutes deux se mêlent pour s'écouler ensemble, sous le nom de Laita, jusqu'à la mer qui doit les absorber. </p>
+        <p> Quimperlé est baigné par les deux rivières, qui réfléchissent ses vieilles maisons de bois à la bizarre architecture, ses nombreuses fabriques de papier, ses jolis jardins avec leurs berceaux de roses, de jasmins et de chèvrefeuilles ; enfin ses vieux ponts contemporains d'un autre âge, et sa petite promenade plantée de vieux tilleuls. </p>
+        <p> Puis c'est le port avec ses aspects variés, avec ses barques de pêche ou de commerce ; le port avec sa population animée, avec ses senteurs marines que lui apportent deux fois par jour les flots de l'Océan. </p>
+        <p> Au milieu de ces beaux sites et placé sur la rive droite de la Laita, entre Saint-Nicolas et l'antique abbaye de Saint-Maurice, s'élevait le château de Kervoz. Des bois de sapins, de hêtres et de coudriers l'entouraient de trois côtés. Une avenue au bout de laquelle se trouvait une grille conduisait presque jusqu'au perron. </p>
+        <p> Kervoz avait été si souvent réparé, que le caractère primitif de son architecture était à peu près effacé. Le temps avait marqué son passage sur le manoir en ruinant les deux tours jadis fières de le dominer, et en lézardant les murailles qui n'avaient pu résister, malgré leur épaisseur, à son action destructive. </p>
+        <p> En parcourant les jardins on arrivait jusqu'à la rivière ; des gradins habilement ménagés dans le flanc des rocs conduisaient au bord de l'eau, d'où la vue s'étendait sur de grasses prairies couronnées pas des masses de verdure de tons et d'aspects différents. Puis, si l'on montait jusqu'au sommet des vieilles tours, on découvrait une immense étendue bleue, parsemée de petits nuages gris ou blancs : c'étaient la mer et les barques de pêcheurs voguant sous leurs ailes de toile. </p>
+      </div>
+      <div title="II" type="chapter">
+        <p> II </p>
+        <p> On était au mois de mai 1843. Une jeune fille se tenait sous une tonnelle du jardin de Kervoz. De là elle dominait la grande route et semblait fort impatiente. Sans cesse elle se penchait au dehors pour mieux voir au loin, et, n'apercevant rien, elle laissait échapper des exclamations de dépit. </p>
+        <p> « Elles n'arriveront donc jamais ! s'écriait-elle ; voilà quatre heures passées, et elles devaient être ici pour midi ! </p>
+        <p> — Noémi ! où es-tu donc ? Noémi ! appela une voix un peu rude. </p>
+        <p> — Me voici, mon père, répondit la jeune fille en s'élançant hors de la tonnelle. </p>
+        <p> — Pourquoi me laisses-tu seul, dit en arrivant un homme de cinquante-cinq à soixante ans, d'une figure noble et distinguée, et dont la tournure annonçait un ancien militaire. Pourquoi me laisses-tu seul, répéta-il, sans m'avertir du lieu où je pourrai te trouver si j'ai besoin de toi ? </p>
+        <p> — Vous savez bien que j'attends Claire et sa mère, et je regarde si je ne verrai pas bientôt la voiture. </p>
+        <p> — Vraiment ! et de regarder va sans doute les faire venir plus vite ? Ne serait-il pas mieux de te préoccuper de l'installation de ta cousine ? </p>
+        <p> — Mais, père, tout est prêt. </p>
+        <p> — Oui, tout est prêt, dit M. de Kervoz en imitant le parler de Noémi; c'est pour cela que j'ai vu des fleurs sur la cheminée et dans les jardinières de l'appartement, des tableaux suspendus aux meilleures places ; mais d'utile, de nécessaire, rien. Gertrude vient de me demander la clef de l'armoire au linge. </p>
+        <p> — Étourdie que je suis ! interrompit Noémi en fouillant dans ses poches. J'ai emporté cette clef avec moi : la voici. Oh! ajouta-elle en embrassant son père et en le regardant d'un air câlin, que vous seriez bon d'aller la porter et de vouloir bien me laisser explorer la route. Songez donc que d'ici je n'ai qu'un saut à faire pour gagner la grille, et j'aurai le bonheur d'embrasser la première ma bonne tante et ma chère Claire ! </p>
+        <p> — Crois-tu donc que moi aussi je n'aie pas envie d'embrasser au plus tôt ma sœur et ma gentille nièce ? Mais je fais tout ce que tu veux. </p>
+        <p> — Vous êtes si bon, si bon, dit doucement Noémi. </p>
+        <p> — C'est bien ; je te laisse ; mais si ta tante et Claire manquent d'une foule de petites choses, je n'aurai garde de leur cacher ta négligence. » </p>
+        <p> M. de Kervoz s'éloigna moitié riant, moitié grondant. </p>
+        <p> Noémi retourna à son observatoire. </p>
+        <p> Pendant qu'elle tient obstinément les yeux fixés sur la route, disons quelques mots de sa famille. </p>
+      </div>
+      <div title="III" type="chapter">
+        <p> III </p>
+        <p> Alain de Kervoz, gentilhomme breton, avait servi avec distinction sous l'empire, et, jeune encore, il était parvenu au grade de colonel d'un régiment de dragons. Mais la chute de Napoléon et la mort de son père, qui arrivèrent la même année, le décidèrent à abandonner la carrière militaire. </p>
+        <p> Agé de trente ans, maître d'une fortune assez brillante, il se trouvait tuteur d'une charmante sœur de dix-sept ans. Il revint donc en Bretagne pour faire valoir lui-même son patrimoine et pourvoir à l'établissement d'Yolande. </p>
+        <p> Il s'adonna tout entier à l'agriculture, et bientôt les terres qui entouraient le château se trouvèrent dans un état de prospérité qu'elles n'avaient jamais connu. </p>
+        <p> Un an après le retour d'Alain, un jeune gentil-homme normand, son ancien compagnon d'armes, M. le vicomte de Rives, vint rendre une visite à Kervoz. Le vicomte fut charmé de la douceur et de la piété d'Yolande, qui venait d'atteindre sa dix-huitième année. Il en demanda la main au colonel. </p>
+        <p> Cette union était convenable sous tous les rapports ; M. de Kervoz et sa sœur y consentirent. Le mariage fut célébré dans l'église Sainte-Croix, à Quimperlé, et six semaines après M. de Rives quittait la Bretagne, emmenant sa jeune femme. </p>
+        <p> Alain aimait la société. Le départ de sa sœur le rendit triste et maussade ; puis il se dit que le meilleur moyen de ne point s'ennuyer, c'était de se marier aussi. </p>
+        <p> Alain n'avait que trente-deux ans ; il était riche ; mais il avait une réputation d'emportement qui devait peu encourager une femme à lui confier son sort. Il était bon pourtant, et ses accès de colère n'étaient jamais bien longs ; mais il fallait si peu de chose pour l'irriter et le mettre hors de lui !... Il n'y avait que deux ans à peine qu'il habitait le pays, et son nom était prononcé comme synonyme de colère et d'entêtement. Alain savait cela, et il craignait d'essuyer un refus. Enfin il se décida à demander la fille du vieux baron de Lannezec, son voisin. Françoise de Lannezec aurait bien voulu refuser, tant le caractère d'Alain lui faisait peur ; mais, comme le baron consentit avec empressement, la jeune fille obéit à son père. </p>
+        <p> Alain oublia ses brusqueries sans sujet près d'une femme douce et bonne, et Mme de Kervoz prit bientôt sur son époux un ascendant qu'elle conserva toujours. De leur union naquirent deux fils et une fille ; mais, au grand chagrin de M. de Kervoz, ses fils moururent en bas âge. Noémi annonçait un caractère doux et bon comme celui de sa mère. Mme de Kervoz se flattait d'être elle même la seule institutrice de sa fille, lorsque le choléra de 1832 vint l'enlever à sa famille, en même temps que le terrible fléau frappait aussi son père, qui était venu résider à Kervoz. </p>
+        <p> Noémi avait alors six ans. A cet âge, elle ne pouvait comprendre la perte qu'elle faisait, et tout souvenir s'en effaça bientôt de sa mémoire. </p>
+        <p> Après s'être livré au désespoir le plus violent, M. de Kervoz reporta toute son affection sur sa fille. Un signe de Noémi le faisait courir où bon semblait à l'espiègle enfant ; un sourire apaisait les accès de colère les plus terribles du châtelain. Vers la même époque, Mme de Rives, devenue veuve aussi, vint demander à son frère à vivre près de lui. Alain accepta avec joie cette proposition. Noémi allait retrouver une mère, et elle aurait une sœur dans sa cousine Claire, plus âgée qu'elle d'une année. </p>
+        <p> Les deux enfants grandirent ensemble sous l'œil vigilant de Mme de Rives. Leurs caractères étaient entièrement opposés : Glaire, vive, emportée, ne cédant jamais lorsqu'une idée s'était logée dans sa tète, paraissait plutôt la fille du fougueux seigneur de Kervoz que Noémi, timide, faible de volonté, de composition facile, et cédant sans résistance à la première pression. </p>
+        <p> Aussi Claire et son oncle étaient-ils les meilleurs amis du monde. M. de Kervoz n'entendait pas qu'on grondât sa nièce lorsqu'elle se laissait entraîner à quelque coup de tète. Il trouvait toujours une excuse aux fautes de l'enfant en songeant à ses propres penchants. </p>
+        <p> Mme de Rives avait beaucoup de peine à neutraliser l'influence de son frère sur sa fille ; aussi le suppliait-elle souvent de se montrer plus raisonnable. </p>
+        <p> « Occupe-toi de Noémi, ma chère Yolande, répondait invariablement M. de Kervoz : elle est digne d'être ta fille ; elle est aussi douce, aussi timide que tu l'étais à son âge. Laisse-moi diriger Claire : c'est ma favorite. Ah ! pourquoi n'est-elle pas un garçon ? que j'aurais de bonheur à faire son éducation ! » </p>
+        <p> Mais lorsque Claire eut atteint sa quatorzième année, Mme de Rives, en. mère prudente, prit le parti de la mettre en pension, et, malgré les réclamations de M. de Kervoz et les larmes de Noémi, elle conduisit sa fille au couvent des Oiseaux, à Paris. </p>
+        <p> Noémi désirait accompagner sa cousine ; mais, pour la première fois, M. de Kervoz ne voulut pas écouter ses prières ; force fut donc aux deux jeunes filles de se séparer. </p>
+        <p> Au moment où commence cette histoire, il y avait quatre ans que Claire était partie ; et si Noémi attendait avec tant d'impatience sous la tonnelle, c'est que le jour même Mlle de Rives, que sa mère était allée chercher, devait revenir à Kervoz pour n'en plus quitter. </p>
+      </div>
+      <div title="IV" type="chapter">
+        <p> IV </p>
+        <p> Cinq heures étaient sonnées depuis quelque temps déjà. Noémi, ne voyant encore rien paraître, perdit tout à fait patience et rentra au château ; mais pendant ce trajet elle fut prise d'une subite inquiétude. </p>
+        <p> Peut-être un malheur est-il arrivé, se dit-elle en tremblant ; et elle courut précipitamment jusqu'à l'office. </p>
+        <p> « Gertrude, dit-elle en s'adressant à la vieille femme de charge, il faut aller au-devant de ma tante et de ma cousine. Appelez Laou et Fanche, et qu'ils partent sur-le-champ... Mon Dieu ! je crains un malheur ! Il n'en saurait être autrement avec ce retard inexplicable. » </p>
+        <p> Ces paroles n'étaient pas prononcées qu'un bruyant coup de cloche résonna à la grille du jardin. </p>
+        <p> « Ah ! c'est Claire ! ma chère Claire ! s'écria Noémi ; » et elle s'élança dans le jardin en courant de toutes ses forces. </p>
+        <p> Lorsqu'elle arriva près de la voiture, son père donnait la main à Mme de Rives pour l'aider à mettre pied à terre. </p>
+        <p> « Eh bien, dit M. de Kervoz d'un air railleur, en s'adressant à sa fille, comment se fait-il que tu ne sois pas la première à embrasser ta tante et ta cousine ? Je n'aurai, disais-tu, qu'un saut à faire jusqu'à la grille... Mais, bah! elle ne m'entend plus. » </p>
+        <p> Noémi, en effet, n'écoutait pas son père. Elle s'était jetée dans les bras de Glaire, et les exclamations les plus amicales se pressaient sur les lèvres des deux jeunes filles. </p>
+        <p> « Ma bonne Noémi ! </p>
+        <p> — Ma chère Claire ! te voilà donc ! </p>
+        <p> — Ah ! que je suis heureuse de te revoir ! </p>
+        <p> — Nous ne nous quitterons plus. </p>
+        <p> — Je suis donc oubliée, moi ? dit en souriant Mme de Rives. </p>
+        <p> — Oh ! non, bonne tante, répondit Noémi ; mais pardonnez-moi : il y a si longtemps que je n'avais vu ma cousine !... Ah ! combien je vous aime pour nous avoir enfin réunies ! » </p>
+        <p> Et elle embrassait Mme de Rives à l'étouffer. </p>
+        <p> « Allons, allons, il faut songer à dîner, dit M. de Kervoz, qui ne voulait point paraître trop attendri ; nous vous avons attendues, Mesdames, et j'ai une faim terrible. Plus tard nous causerons. » </p>
+        <p> Noémi, s'emparant de sa cousine, et M. de Kervoz, donnant le bras à sa sœur, rentrèrent au château. </p>
+        <p> Le repas fut gai : on était si heureux de se retrouver tous ensemble ! </p>
+        <p> Lorsqu'on se leva de table, Noémi voulut conduire sa cousine dans sa chambre. </p>
+        <p> « Dans ma chambre ? dit Claire ; oh ! mais non! Je ne suis nullement fatiguée ; et, pour que je puisse dormir tranquille, il me faut d'abord renouvelé reconnaissance avec Kervoz. </p>
+        <p> — Eh bien ! nous allons visiter le jardin, répliqua Noémi. Viens. » </p>
+        <p> Et, alertes et vives, les deux jeunes filles sortirent en courant. </p>
+        <p> « Elles sont bien heureuses, dit Mme de Rives. </p>
+        <p> — Oui, oui, répondit son frère; mais je ne serai content, Yolande, que lorsque je me serai bien assuré qu'on n'a pas gâté le beau naturel de ma nièce. </p>
+        <p> — Rassurez-vous, mon frère, répliqua en souriant Mme de Rives ; les religieuses ne sont pas telles que vous le pensez, et je veux que vous leur rendiez justice en voyant combien Claire a gagné entre leurs mains. » </p>
+        <p> L'ancien colonel fit un geste d'incrédulité ; mais il ne répondit rien. </p>
+        <p> La vicomtesse, fatiguée du voyage, ne tarda pas à se retirer dans son appartement ; et M. de Kervoz, tout en grommelant, s'installa de la façon la plus commode dans un grand fauteuil, afin de pouvoir savourer à loisir le contenu d'une pipe d'écume. Un nuage de fumée l'entoura bientôt, et ses inquiétudes relatives à l'éducation que Claire avait reçue à Paris, s'évanouirent momentanément sous l'influence du plaisir favori qu'il se donnait chaque soir. </p>
+      </div>
+      <div title="V" type="chapter">
+        <p> V </p>
+        <p> Claire et Noémi parcourent le jardin. </p>
+        <p> Les mains enlacées, les deux cousines se regardent avec ravissement. Leur séparation avait duré si longtemps ! </p>
+        <p> Mille petites confidences se font à demi-voix, et il semble qu'on ne parviendra jamais à se communiquer toutes ses pensées. </p>
+        <p> Claire avait alors dix-huit ans. D'une taille un peu plus élevée que celle de sa cousine, elle était grande et bien faite. Elle n'était pas jolie, et certes on eût trouvé beaucoup à critiquer dans la forme de son visage. Son front large perdait de sa régularité par l'effet que produisait une partie de ses cheveux, plantés fort bas. Ses joues étaient fortes, son nez gros et court ; mais ses yeux bruns étaient fort beaux, et leur expression mobile s'harmoniait avec des lèvres bien faites et un teint d'une grande blancheur. Toute sa personne annonçait la fermeté et la résolution, et pourtant son ensemble avait quelque chose qui charmait : on la trouvait belle sans pouvoir expliquer sur quoi l'on basait cette opinion. </p>
+        <p> Noémi avait dix-sept ans. Blanche et rose, son plus grand charme résidait dans l'extrême douceur de sa physionomie. Ses cheveux étaient châtains comme ceux de sa cousine, ses yeux bleus, et ses traits, sans être réguliers, étaient fort délicats. On devinait à la voir un caractère facile et ne devant pas savoir résister à une volonté bien exprimée. </p>
+        <p> Quelle que fût cette diversité de penchants, peut-être même à cause de cette diversité, car les extrêmes se rapprochent, Claire et Noémi s'aimaient comme deux sœurs et s'entendaient à merveille. </p>
+        <p> Elles allaient reprendre leurs habitudes d'autrefois, et, sans qu'elles y songeassent, par l'effet seul de leur caractère, Claire retrouvait un petit ton de supériorité, Noémi une certaine expression de déférence. </p>
+        <p> « Que je suis heureuse de revenir à Kervoz et surtout de ne plus être séparée de ma petite Noémi ! disait Claire en embrassant sa cousine. </p>
+        <p> — Et moi, chère Claire ! Va, mon bonheur est encore plus grand que le tien ; car enfin à Paris tu avais des compagnes de ton âge, que tu aimais sans doute et à qui tu pouvais raconter tes projets, tes rêves de jeune fille, tandis que moi j'étais seule. </p>
+        <p> — Méchante ! interrompit Claire en regardant fixement sa cousine. Penses-tu sérieusement que j'avais à Paris des amies intimes ? </p>
+        <p> — Mais... je ne sais..., répondit Noémi en hésitant. </p>
+        <p> — Tu ne mérites pas le souvenir que je t'ai gardé si tu as clouté de mon affection. Parmi mes compagnes, il en était de bonnes, de douces, que j'aime beaucoup ; mais de véritable amie je n'ai jamais eu que toi. Je me suis montrée affectueuse pour toutes les jeunes filles de la pension ; mais au milieu d'elles je te regrettais et je pensais sans cesse à toi. </p>
+        <p> — Oh ! que tu me donnes de bonheur ! répondit Noémi en se jetant dans les bras de Claire... Vrai, j'étais un peu jalouse de toutes les pensionnaires du couvent des Oiseaux. J'avais peur que l'une d'elles, ou plusieurs même, ne m'enlevassent quelque chose de ton affection. Pardonne-moi mes vilains soupçons, et n'en parlons plus. </p>
+        <p> — Oui, je te pardonne ; mais j'ai eu plus de confiance en toi : je n'ai pas craint que nos voisines te fissent m'oublier. </p>
+        <p> — Nos voisines ! oh, je les vois peu. Mlles de Kernevez, de Bieuzy et de Castennec viennent quelquefois au château, mais elles m'inspirent fort peu de sympathie ; Mlles de Bieuzy surtout, elles sont trop fières. </p>
+        <p> — Alors tu devais t'ennuyer beaucoup ? </p>
+        <p> — Non, car ma tante est pour moi l'indulgence et la bonté même. Elle ne dédaignait pas de me consoler de mes petits chagrins, et de passer avec moi de longues heures pendant lesquelles nous ne parlions que de toi. </p>
+        <p> — Ne m'as-tu pas écrit que c'est aussi ma mère qui a été ta seule institutrice ? </p>
+        <p> — Oui, c'est vrai, et jamais élève n'a eu maîtresse plus dévouée ; aussi j'aime ma tante comme si elle était ma mère ; et la seule chose qui pourrait me rendre jalouse de toi ce serait de la voir te préférer à moi, bien que tu sois sa fille. </p>
+        <p> — Nous n'aurons pas de querelle sur ce point. Ma mère ne peut manquer de t'aimer aussi tendrement que moi : tu es si gentille ! D'ailleurs nous nous unirons pour la chérir et la combler de soins ; elle ne trouvera aucune différence dans l'amour et le respect de ses deux filles. </p>
+        <p> — Oh ! c'est bien, cela, chère Claire; nous serons véritablement sœurs, » dit Noémi. </p>
+        <p> L'entretien continua quelque temps ainsi; puis Mlle de Kervoz reprit : </p>
+        <p> « Que nous allons faire d'agréables promenades ensemble ! et comme je me sens d'avance joyeuse d'explorer avec toi notre belle contrée. Nous irons bien souvent jusqu'à la mer, n'est-ce pas ? </p>
+        <p> — Sans doute, sans doute, répliqua Claire avec enthousiasme. Oh ! la mer, qu'y a-t-il de plus majestueux et de plus grandiose ! L'Océan m'a toujours attirée. Tu dois te souvenir que je n'étais jamais si contente que lorsque mon oncle nous menait à l'Armor ou au Touldu, et qu'il nous laissait escalader quelques petits rochers. Comme nous étions fières lorsque, après bien des efforts, nous avions réussi à atteindre un sommet un peu élevé ! </p>
+        <p> — Et comme ma tante suppliait mon père de ne point nous laisser nous exposer ainsi ! Mais tu voulais toujours te rendre aux endroits lés plus dangereux, et il me fallait te suivre. Moi, j'aime mieux m'asseoir tranquillement sur la plage, et de là contempler à loisir l'immensité des flots. </p>
+        <p> — On ne peut contempler l'Océan dans toute sa majesté que d'un point plus élevé qu'une grève ; aussi j'espère bien que comme autrefois tu m'accompagneras partout où j'irai. </p>
+        <p> — Tu me feras toujours faire tout ce que tu voudras ; une seule de tes paroles triomphe de mes craintes. Mais l'heure s'avance, il faut rentrer au château. » </p>
+      </div>
+      <div title="VI" type="chapter">
+        <p> VI </p>
+        <p> Les deux cousines trouvèrent M. de Kervoz encore enveloppé d'un tourbillon de fumée. </p>
+        <p> « Ah ! mon oncle, dit Claire, que voilà une mauvaise habitude, et que cette affreuse odeur me fait de mal ! </p>
+        <p> — Une mauvaise habitude ? dis-tu ; as-tu donc oublié que ma pipe me tient fidèle compagnie depuis plus de trente ans ? Mais je le comprends, au milieu de tes religieuses tu es devenue délicate. Avec le temps tu te feras à cette odeur, que tu trouves maintenant si insupportable. Ne hoche pas la tète; tu t'y feras, te dis-je. Allons, viens près de moi, et parlons un peu, si tu n'es pas trop fatiguée. </p>
+        <p> — Je ne le suis pas du tout. Nous avons parcouru le jardin... </p>
+        <p> — As-tu remarqué comme il est embelli? interrompit M. de Kervoz. </p>
+        <p> — A vrai dire, je n'ai vu que peu de chose. </p>
+        <p> — Comment ? </p>
+        <p> — Nous avions tant de choses à nous dire, Noémi et moi ! </p>
+        <p> — J'ai même oublié, dit Noémi, de faire voir à ma cousine le petit parterre que je lui ai si bien entretenu. </p>
+        <p> — Ce sera pour demain, reprit Claire. </p>
+        <p> — Que tu dois être aise, ma chère Claire, reprit M. de Kervoz, d'avoir quitté la pension et de n'être plus sous la férule de tes graves maîtresses ! Tu devais bien t'ennuyer dans ce couvent ? </p>
+        <p> — Je m'ennuyais d'être privée de vous voir, cher oncle, ainsi que ma mère et ma cousine ; mais ces dames religieuses, croyez-le, sont bonnes et indulgentes pour les jeunes filles confiées à leurs soins ; elles se montrent véritablement des mères pour leurs élèves, et j'aurai toujours pour elles la vénération et l'amour filial qu'elles méritent. </p>
+        <p> — Tu dois être devenue bien savante sous leur direction ? dit M. de Kervoz d'un ton tant soit peu ironique. </p>
+        <p> — Vous en jugerez, mon bon oncle, répondit Claire d'un petit air espiègle. Mais pas ce soir, n'est-il pas vrai ? ajouta-t-elle en souriant. </p>
+        <p> — Ce soir, non ; mais prépare-toi à subir un rude examen. Je veux m'assurer que ma nièce n'a pas dégénéré à Paris. Allons, embrasse-moi ; et à demain, car je m'aperçois fort bien que tu désires maintenant plutôt la compagnie de Noémi que la mienne. </p>
+        <p> — Maintenant peut-être, mon oncle ; mais ma cousine et moi nous avons résolu de mettre bientôt votre complaisance à l'épreuve, en vous instituant notre chevalier pour toutes nos excursions futures. </p>
+        <p> — Merci de ta confiance, dit en souriant M. de Kervoz. Nous tâcherons, belles châtelaines, de ne pas nous montrer au-dessous de la mission dont vous voulez bien nous investir. </p>
+        <p> — Bonsoir, mon oncle ; bonsoir, mon père, » dirent ensemble les deux jeunes filles. Et, après avoir embrassé M. de Kervoz, elles se rendirent à l'appartement de Mme de Rives. </p>
+        <p> « Ma mère dort-elle ? demanda Claire à Marie-Anne, la femme de chambre de la vicomtesse. </p>
+        <p> — Non, Mesdemoiselles ; vous pouvez entrer. » </p>
+        <p> Les deux jeunes filles pénétrèrent dans la chambre de Mme de Rives. </p>
+        <p> « Nous venons vous souhaiter la bonne nuit, ma tante, dit Noémi ; eh ! ajouta-t-elle, je viens aussi vous remercier de nouveau de m'avoir rendu Claire. </p>
+        <p> — Embrassez vos deux filles, ma mère, ajouta Claire en entourant de ses deux bras le cou de la vicomtesse. </p>
+        <p> — Oui, vous êtes mes deux filles, dit Mme de Rives, et je suis bien heureuse de vous avoir ainsi unies ; car dans mon cœur je ne sépare pas Noémi de Claire. </p>
+        <p> — Merci, ma tante, merci ; tous mes vœux sont comblés, répondit avec émotion Mlle de Kervoz. </p>
+        <p> — Et maintenant embrassez-moi encore ; puis allez vous reposer, » dit Mme de Rives. </p>
+        <p> Les deux jeunes filles quittèrent la vicomtesse, et Noémi conduisit sa cousine à la chambre qu'elle lui avait préparée. </p>
+        <p> « Claire, dit-elle, te voici chez toi; mais je n'ai pas voulu m'éloigner beaucoup. Lorsque tu auras besoin de moi, cette porte te conduira dans ma chambre. Allons, à demain. Je crois que si je m'écoutais, je resterais avec toi toute la nuit à t'importuner de mon babillage. Bonsoir, ma chérie, à demain. » </p>
+        <p> Et Noémi, après avoir tendrement embrassé sa cousine, se retira. </p>
+        <p> Claire veilla encore un peu ; elle se sentait si heureuse ! elle avait tant de projets à classer dans sa mémoire ! Mais, la fatigue l'emportant, elle dut se mettre au lit, et bientôt des songes couleur de rose vinrent retracer à son esprit charmé toutes les joies de la soirée, et lui faire entrevoir un avenir de félicités. </p>
+      </div>
+      <div title="VII" type="chapter">
+        <p> VII </p>
+        <p> Le lendemain matin, Claire se leva de bonne heure ; il lui semblait avoir entendu là cloche du pensionnat. Elle fut quelques instants avant de reconnaître la chambre où elle se trouvait. </p>
+        <p> « Bon, se dit-elle, voilà que j'oublie que je suis à Kervoz. Visitons un peu mon appartement. » </p>
+        <p> Cet appartement se composait d'une salle d'étude, d'une chambré à coucher et d'un petit cabinet de toilette. </p>
+        <p> La chambre à coucher était une de ces immenses pièces qu'on ne trouve plus que dans les vieux châteaux. L'ingénieuse tendresse de Noémi en avait dissimulé l'étendue et le peu de commodité. Le lit était placé sur une estrade de trois marches, et surmonté d'un grand baldaquin de damas de laine bleue, doublé de rideaux brodés. La vaste cheminée était ornée de jolis flambeaux de cristal, d'une charmante pendule d'albâtre et de vases remplis de fleurs. De beaux tableaux étaient placés dans le meilleur jour. Entre les deux fenêtres, qui avaient vue sur la rivière, se trouvait un secrétaire en marqueterie d'un travail précieux. Dans les encoignures, d'élégantes jardinières étaient remplies de plantes rares. Les chaises et les fauteuils étaient en chêne sculpté, comme le lit. </p>
+        <p> L'aspect de cette chambre était ravissant ; aussi Claire était-elle dans l'enchantement. Mais sa joie ne connut plus de bornes lorsqu'elle entra dans la salle d'étude. </p>
+        <p> Une jolie bibliothèque, chargée des œuvres des auteurs favoris de la jeune fille, prenait un des côtés de cette pièce. De l'autre côté, un beau piano d'Érard sollicitait les doigts agiles de Claire. La fenêtre, comme celle de la chambre à coucher, donnait sur la rivière ; elle était garnie de stores aux couleurs éclatantes et de rideaux de mousseline brodée. De charmantes aquarelles, de bons paysages ornaient les boiseries de vieux chêne. Un bureau, avec ses casiers et toutes ses fournitures, une table à ouvrage avec son nécessaire, des chaises de canne et un tabouret de tapisserie pour le piano, œuvre patiente de Noémi, complétaient l'ameublement. </p>
+        <p> En rentrant dans sa chambre à coucher, Mlle de Rives remarqua une longue portière de damas bleu, tendue dans une sorte d'enfoncement et que jusqu'alors elle n'avait pas aperçue. Elle la souleva et resta charmée ; dans ce réduit, transformé en oratoire, Noémi avait fait placer un prie-Dieu, une statue de la Vierge et un magnifique cadre de velours violet, supportant un christ d'ivoire. Cet aspect rappela à Claire le devoir essentiel que dans son impatiente curiosité elle avait mis en oubli; vivement émue, elle tomba à genoux. </p>
+        <p> « Mon Dieu, murmura-t-elle, c'est lorsque vous me réunissez à tous ceux que j'aime, que je néglige votre service ! oh ! pardonnez mon ingratitude ! » </p>
+        <p> La prière de Claire fut fervente... </p>
+        <p> La jeune fille avait réellement profité des quatre années qu'elle avait passées au couvent des Oiseaux. Sous la pieuse et habile direction des bonnes religieuses, elle était devenue une des meilleures élèves de la pension. Son caractère si impérieux avait subi une véritable transformation. L'orgueil, qui tant de fois avait étouffé dans son jeune cœur les élans des plus précieuses qualités, s'y trouvait dompté par l'humilité chrétienne, cette vertu céleste, révélée à la terre par Dieu lui-même. Son opiniâtreté, sa violence avaient fait place à l'aimable douceur et à la patience indulgente. Rien n'égalait son respect, sa soumission et sa reconnaissance envers ses vénérables maîtresses, si bien appelées du doux nom de Mères... Est-ce à dire que Claire fût devenue parfaite ? Non... La perfection n'est point compatible avec notre fragile nature; mais, du moins, la jeune fille savait avec franchise reconnaître ses fautes, et s'efforçait sérieusement de les réparer. </p>
+        <p> Lorsqu'on veut sincèrement combattre ses mauvais penchants, on reconnaît vite qu'un seul moyen est efficace : c'est la ferme volonté appuyée sur la religion. Mlle de Rives l'avait compris. Sa piété était aussi ardente que généreuse ; c'était avec foi, espérance et charité qu'elle remplissait ses devoirs, et qu'elle se préparait à entrer dans la période sérieuse de sa vie de jeune fille. Elle devait y rencontrer bien des obstacles, suscités, hélas! par des parents aimés. Mais n'anticipons pas; les événements parleront d'eux-mêmes. </p>
+      </div>
+      <div title="VIII" type="chapter">
+        <p> VIII </p>
+        <p> Claire venait à peine d'achever sa prière, lorsque Noémi entra dans la chambre. </p>
+        <p> « Déjà levée ! dit gaiement Mlle de Kervoz en embrassant sa cousine. </p>
+        <p> — Habitude de pension, ma chère Noémi, répliqua Claire ; mais toi-même... </p>
+        <p> — Oh ! je me lève toujours de bonne heure ; puis nous sommes au mois de mai, et il est si agréable d'aller respirer l'air pur du matin. Veux-tu venir avec moi à la ferme du vieux Fanche ? nous y prendrons du lait. </p>
+        <p> — Certainement, dit Claire en s'empressant d'achever sa toilette. Mais, tout d'abord, ma chère Noémi, il faut que je te remercie de tes soins ; jamais chambre ne m'a paru si jolie et si élégante... </p>
+        <p> — Je suis bien aise que tu la trouves de ton goût ; c'est ce que je désirais. J'étais si heureuse de travailler pour toi ! » </p>
+        <p> Les caresses les plus amicales furent la récompense de cette réponse. </p>
+        <p> Claire était prête. Les deux cousines se dirigèrent vers la ferme de Fanche Penvern. Cette ferme était située à un kilomètre du château, au milieu d'un petit bois de bouleaux. </p>
+        <p> La main dans la main, les deux jeunes filles suivaient lentement le vert sentier. </p>
+        <p> « Ah ! dit Claire, que le moindre brin d'herbe me semble beau ! comme la plus humble fleurette me paraît magnifique ! Je croirais presque que tout renaît pour moi, et que jamais l'air n'a été plus parfumé, le ciel plus pur. </p>
+        <p> — Alors tu es vraiment heureuse de revoir la Bretagne ? </p>
+        <p> — Peux-tu m'adresser une telle question, Noémi ? Si je suis heureuse de revoir la Bretagne ? oh ! oui. Combien de fois, sous les magnifiques ombrages du couvent, ai-je cru entendre la grande voix de la mer ! Combien de fois un vieux noël breton est-il venu frapper mes oreilles de son écho lointain ! Et pourtant j'étais heureuse aussi aux Oiseaux ; oui, j'étais bien heureuse. Les quatre années que j'y ai passées ont été pour moi des années bénies ; je remercie Dieu de me les avoir données, et je lui demande la grâce de faire que jamais je n'oublie les enseignements que j'y ai reçus. Il ne m'a manqué que de ne pouvoir les partager avec toi. </p>
+        <p> — Hélas ! mon père ne voulait pas et ne veut pas encore entendre parler de ... Tu connais ses opinions à cet égard. Il est persuadé qu'on ne peut absolument rien apprendre sous leur direction ; aussi prépare-toi à subir un rigoureux examen. » </p>
+        <p> Claire rejeta la tète en arrière, par un charmant mouvement de mutinerie. </p>
+        <p> « Oh ! dit-elle, j'espère bien ne pas être exposée à une sévère admonestation. La bonne mère Saint-Augustin est, en fait de science, pour le moins aussi exigeante que mon oncle, et pourtant j'ai obtenu fort souvent ses éloges. </p>
+        <p> — Tant mieux, reprit Noémi. Je serais si fâchée que mon père se mît encore à railler ces bonnes religieuses ; cela me fait trop souffrir. </p>
+        <p> — D'abord, si cela arrivait, s'écria Claire, je me mettrais fort en colère, car je déteste l'injustice. Mais, ajouta-t-elle en se calmant, ce n'est pas avec l'impatience et la mauvaise humeur que l'on peut convaincre un esprit prévenu; c'est par la douce persuasion qu'on lui fait reconnaître ses torts. Aussi vais-je travailler, autant qu'il me sera possible, à me montrer soumise et respectueuse comme si mon oncle était mon père; par là je réussirai peut-être à le faire revenir de ses erreurs. </p>
+        <p> — Combien tu es bonne et raisonnable, ma chère Claire ! oui, il n'est que ce moyen de ramener mon père à de plus justes idées... </p>
+        <p> — Ne me donne pas d'éloges, cousine, car je ne sais si je pourrai tenir ce que je viens de promettre. Mais tu es là, tu m'avertiras, et à nous deux, avec l'aide de la Providence, j'ai l'espoir que nous réussirons. </p>
+        <p> — Oh ! je ne te serai guère utile. </p>
+        <p> — Si, si ; je suis, vois-tu, extrêmement tenace dans mes opinions; et souvent, par orgueil, je ne veux pas céder, même à ceux qui ont autorité sur moi. Toi, Noémi, tu as une grande douceur, et surtout beaucoup de dispositions conciliantes dans le caractère : tu me retiendras lorsque je céderai à mes mauvais penchants. » </p>
+        <p> Noémi allait répondre, lorsque Fanche Penvern parut près des deux jeunes filles. </p>
+        <p> « Bonjour, not' demoiselle, dit respectueusement le vieux fermier en soulevant son chapeau aux larges bords. </p>
+        <p> — Bonjour, Fanche ; je vais chez vous avec ma cousine, la reconnaissez-vous ? </p>
+        <p> — Ah! c'est Mlle de Rives. Oui, vraiment, je la reconnais un peu ; mais c'est que, pour dire la vérité, elle a bien changé et est devenue bien pâle. </p>
+        <p> — Vous trouvez ? dit Claire en souriant ; eh bien, l'air de la Bretagne me redonnera, j'en suis sûre, de belles couleurs. </p>
+        <p> — Oh ! cela, oui, répondit Penvern ; mais, entrez donc à la ferme, nos demoiselles. Allez, toute la maisonnée va être bien contente. » </p>
+        <p> Le fermier n'exagérait pas. Toute la maisonnée, composée de Marie-Jeanne, la femme de Fanche, de leurs quatre filles, Françoise, Louise-Marie, Catherine et Yvette, et leur fils Laou (Guillaume), s'empressa de courir au nom de Mlle de Kervoz. </p>
+        <p> Pendant que Marie-Jeanne s'informait avec sollicitude de la santé des demoiselles et en particulier de celle de Claire, Yvette, charmante enfant de treize ans, avançait deux chaises de paille, qui ne servaient qu'à M. le recteur et aux habitants du château. </p>
+        <p> C'était avec une gracieuse bienveillance que Mlle de Rives s'enquérait de la santé et de la prospérité des gens de la ferme. Elle savait dire de ces mots qu'on conserve au fond du cœur comme un précieux souvenir; aussi retrouvait-elle chez ces bons paysans la respectueuse déférence et le dévouement généreux dont ils entouraient la famille de Kervoz. </p>
+        <p> Après quelque temps donné à la conversation, Noémi dit avec gaieté : </p>
+        <p> « Je n'oublie pas que notre visite est, ce matin, un peu intéressée : nous sommes venues, Marie-Jeanne, vous demander une tasse du bon lait de la Blanche. </p>
+        <p> — Tout de suite, tout de suite, not' demoiselle, s'empressa de répondre la fermière. Louise-Marie, Catherine, Yvette, allons, dépêchez-vous...Bon ! elles sont déjà loin ! » </p>
+        <p> Les jeunes filles, en effet, n'avaient pas besoin d'être poussées. Au premier mot de Noémi, elles avaient couru vers la prairie où paissaient les bestiaux ; aussi, peu de moments plus tard, une jatte d'un lait crémeux, accompagnée de fouaces  2  , de crêpes et de fraises, était-elle déposée sur la table de vieux chêne poli, laquelle était pour la circonstance recouverte d'une nappe d'un tissu grossier, mais d'une éclatante blancheur. </p>
+        <p> Claire et Noémi voulaient absolument que Penvern et sa femme prissent place à tablé ; mais le fermier s'en défendit. </p>
+        <p> « Non, non, dit-il; ce ne serait pas respectueux de notre part. » Aucune instance ne put lui faire Changer d'avis. </p>
+        <p> Les deux cousines firent honneur à ce déjeuner matinal. Il y avait longtemps que rien n'avait parti aussi bon à Claire. </p>
+        <p> « Je reviendrai souvent vous demander de ce lait parfumé, » dit-elle à Marie-Jeanne. </p>
+        <p> La fermière s'inclina, flattée. </p>
+        <p> « Tout ici est à votre disposition, mademoiselle de Rivés, dit-elle. Vous pouvez bien venir lorsqu'il vous plaira. La Blanche est une bonne laitière, et par tous les environs on ne trouverait pas mieux qu'elle. </p>
+        <p> — Je n'ai pas oublié mes amis de la ferme, dit Claire lorsqu'elle eut terminé son déjeuner. Pour Françoise et Louise-Marie, j'ai apporté deux croix d'or, afin qu'elles se fassent belles au Pardon ; pour Catherine et Yvette, j'ai deux jolis tabliers de soie; quant à Laou, je me suis souvenue qu'autrefois il était fort studieux ; aussi ai-je réuni pour lui une collection de livres qui, je l'espère, lui fera plaisir. </p>
+        <p> — Des livres pour moi ! s'écria Laou, rouge de bonheur. </p>
+        <p> — Et de si belles choses pour nous ! dirent ensemble les jeunes filles, toutes joyeuses. </p>
+        <p> — Oui, oui, reprit Claire. Venez cette après-midi au château, je me ferai une fête de vous offrir ce que j'ai choisi pour vous. » </p>
+        <p> Ce fut au milieu d'un concert de remercîments que les deux cousines reprirent la route de Kervoz. </p>
+      </div>
+      <div title="IX" type="chapter">
+        <p> IX </p>
+        <p> M. de Kervoz attendait sa fille et sa nièce. </p>
+        <p> « Arrivez donc! cria-t-il du plus loin qu'il les aperçut. Voilà déjà longtemps que je serais parti, si je n'avais à vous embrasser. </p>
+        <p> — Allez-vous loin, mon père ? demanda Noémi. </p>
+        <p> — A Saint-Nicolas. </p>
+        <p> — Alors vous serez revenu pour le déjeuner ? </p>
+        <p> — Je crois que oui. Mais si je trouve mon ami, le marquis de Castennec, je déjeunerai avec lui. Allons, embrassez-moi. Au revoir. » </p>
+        <p> Deux baisers bien affectueux répondirent à cet appel, et le châtelain descendit vers la Laita pour prendre, par la rive, le chemin de Saint-Nicolas. </p>
+        <p> Restées seules, les deux cousines s'empressèrent de monter à la chambre de Claire. Elles avaient tant à ranger, à voir, à examiner ! Puis il fallait choisir la place la plus favorable à chaque objet nouveau ; il fallait enfin arrêter un plan pour l'emploi de chaque journée. </p>
+        <p> « Pour moi, dit Noémi, je suis d'avis que le matin soit consacré d'abord à une promenade, ensuite à l'étude jusqu'au moment du déjeuner. Après déjeuner, nous aiderons ma mère dans les travaux domestiques, dont, en bonne maîtresse de maison, elle ne dédaigne pas de s'occuper. L'après-midi sera pour les visites, les petites excursions ; après le dîner, nous ferons de la musique ou nous lirons. Que penses-tu de cela ? </p>
+        <p> — Je crois que c'est fort bien ainsi, sauf pourtant à obtenir l'approbation de ma mère ; mais une chose m'inquiète , cousine, c'est que tu n'as réservé aucun moment pour les devoirs religieux. Ne pourrons-nous donc pas aller à la messe chaque matin ? » </p>
+        <p> Noémi soupira. </p>
+        <p> « Hélas ! dit-elle, j'ai plus d'une fois demandé à mon père qu'il voulût bien m'en accorder la permission ; je n'ai pas été écoutée. A mon extrême regret, ainsi qu'à celui de ma tante, il nous a fallu y renoncer. Tu verras, Claire, combien, pour tout ce qui ne regarde pas les choses religieuses, mon père est indulgent et bon. Mais que te dirais-je de plus à ce sujet ? Ma tante te tracera la conduite que tu devras tenir. » </p>
+        <p> Claire n'insista pas. Le nuage qui s'était répandu sur le visage de sa cousine disait assez combien cet entretien était pénible à Noémi. </p>
+        <p> « Je me rends chez ma mère, dit-elle ; veux-tu m'accompagner ? </p>
+        <p> — Non, répondit Noémi ; j'ai quelques ordres à donner, qui ne peuvent souffrir de retard ; mais je te rejoindrai bientôt. » </p>
+        <p> Les deux jeunes filles se séparèrent, et Claire, toute pensive en songeant à ce que venait de lui dire sa cousine, se dirigea lentement vers l'appartement de la vicomtesse. </p>
+      </div>
+      <div title="X" type="chapter">
+        <p> X </p>
+        <p> M. de Kervoz n'était point un de ces hommes qui ne croient à rien; mais il ne voulait pas supporter la moindre contrainte, et tout ce qui avait rapport aux devoirs qu'impose la religion trouvait en lui un adversaire injuste. Mme de Rives avait vainement tenté de ramener son frère à des sentiments plus chrétiens ; ses efforts étaient venus échouer contre l'obstination du gentilhomme. L'éducation de Noémi aurait donc été extrêmement négligée sous ce rapport, si la présence de sa tante n'y eût apporté remède. Sollicité, prié sans cesse par sa sœur, M. de Kervoz avait fini, comme nous l'avons dit, par consentir à lui abandonner la conduite de ses filles. Sur un seul point, si l'on s'en souvient, il s'était montré inflexible : c'est lorsque Noémi avait voulu accompagner sa cousine au couvent des Oiseaux. M. de Kervoz se serait reproché de dire devant les deux jeunes filles la moindre parole qui pût choquer leurs sentiments religieux, et pourtant il ne craignait pas de railler souvent les ministres de Dieu et de ses ordres saints, auxquels se consacrent tant d'âmes généreuses, avides de prier pour ceux qui ne prient pas. </p>
+        <p> Mme de Rives s'affligeait de ne pouvoir ramener son frère à des idées plus justes ; elle craignait que ces exemples ne vinssent à influer sur le caractère de Noémi. Heureusement la jeune fille était douée des meilleures dispositions, et son institutrice n'eut qu'à les développer. Mlle de Kervoz avait bien répondu aux soins dont l'avait entourée sa tante. Elle était bonne, pieuse, indulgente ; et si bien souvent son cœur souffrait en entendant son père émettre des opinions en désaccord avec les principes qu'elle avait reçus, ces mêmes principes lui enseignaient qu'elle devait, par respect, s'abstenir de juger l'auteur de ses jours et qu'elle devait prier pour lui. </p>
+        <p> M. de Kervoz voulait bien que sa fille se rendît à la messe le dimanche ; mais jamais Mme de Rives n'avait pu lui faire comprendre quel bien le cœur amasse lorsque chaque jour on assiste au service divin. </p>
+        <p> « Je ne veux pas faire de Noémi une religieuse, » répondait avec emportement l'ex-colonel aux instances de la vicomtesse : </p>
+        <p> De plus M. de Kervoz s'était formellement prononcé au sujet de la conduite que devait tenir Claire à son retour. </p>
+        <p> « J'espère, avait-il dit, qu'on ne viendra pas m'importuner de demandes relatives à de prétendus devoirs religieux : parce que ma nièce a été, bien contre ma volonté d'ailleurs, élevée dans un couvent, je n'entends pas qu'elle se condamne à une vie digne du cloître. Je veux qu'elle voie le monde et qu'elle me tienne compagnie ; en un mot, je veux que ma nièce me fasse honneur. » </p>
+        <p> On s'étonnera peut-être que Mme de Rives acceptât ainsi les décisions de son frère. Bien des causes motivaient cette condescendance. D'abord, M. de Kervoz était le tuteur de Claire; ensuite, par ses soins, il avait conservé la fortune de sa nièce, gravement compromise par plusieurs spéculations auxquelles M. de Rives s'était mêlé avant sa mort. La vicomtesse devait donc beaucoup de reconnaissance à son frère; puis, dans l'intérêt de Noémi, qu'elle aimait comme si elle eût été sa fille, elle n'avait pas voulu quitter le château. Enfin, et par-dessus tout, noble ambition qui explique la conduite de Mme de Rives, elle espérait, par sa patience et de bons exemples, maîtriser la fougue de son frère et le ramener à des sentiments plus chrétiens. </p>
+      </div>
+      <div title="XI" type="chapter">
+        <p> XI </p>
+        <p> « Qu'as-tu donc, chère enfant?» demanda Mme de Rives, en remarquant l'air pensif de sa fille, lorsqu'elle entra dans la chambre de celle-ci. </p>
+        <p> Claire redit à la vicomtesse la conversation qu'elle venait d'avoir avec sa cousine. </p>
+        <p> Et pourquoi t'affliger ainsi ? reprit Mme de Rives ; la tâche est pénible, je le sais; mais elle n'est pas impraticable. Manquerais-tu déjà de courage ? </p>
+        <p> — Oh non ! dit Claire ; mais combien aurai-je de peine à abandonner les pieuses habitudes du couvent ! Il m'était si. doux d'aller chaque matin m'agenouiller à la chapelle, pour offrir à Dieu mes pensées, mes vœux, avec ma reconnaissance pour les biens dont il a daigné me combler ! </p>
+        <p> — Écoute, ma chère Claire, dit Mme de Rives d'un ton à la fois tendre et grave, tu n'es plus une enfant, je peux te parler comme à une amie : parlons donc sérieusement. Je n'ai pas, je crois, à te rappeler tout ce que tu dois à ton oncle. Aussi bien que moi, tu sais que par ses soins seuls nous avons pu conserver notre fortune, si gravement compromise. Animé pour toi de la plus vive tendresse, ton oncle te considère comme sa fille ; tous les devoirs d'un père, il les a remplis envers toi; tant de dévouement mérite quelque gratitude, et tu ne voudrais pas refuser d'acquitter cette obligation sacrée... </p>
+        <p> — O ma mère, interrompit Claire avec feu, vous ne pouvez me croire capable de me montrer ingrate envers M. de Kervoz; je ne serai pas seulement une nièce respectueuse, je serai encore une fille soumise, affectueuse et dévouée. Rien ne me coûtera pour prouver à mon oncle la reconnaissance dont m'a pénétrée sa tendresse envers moi. </p>
+        <p> — J'aime à t'entendre parler ainsi, reprit la vicomtesse ; ces généreux sentiments sont bien dignes de ma chère Claire. Mais, pour remplir les devoirs qui te sont imposés, il faut à ces sentiments allier une ferme volonté. Je ne te demande pas de sacrifices au-dessus de tes forces; de la douceur, de la patience, te seront surtout nécessaires. Des paroles que d'ailleurs tu n'aurais pas le droit de prononcer, ne feraient qu'irriter ton oncle : une sage conduite le préviendra favorablement. Modère donc la vivacité de ton caractère, qui pourrait se révolter contre les injustices dont tu auras peut-être à souffrir. C'est en Dieu qu'il te faudra chercher du secours contre les épreuves : depuis longtemps ta cousine et moi sommes unies dans nos prières ; tu te joindras à nous, et, je l'espère, nos efforts seront bénis. </p>
+        <p> — Oui, nos efforts seront bénis, » répéta une douce voix qui fit retourner Claire ; c'était Noémi, qui, en entrant chez sa tante, avait entendu les derniers mots de la vicomtesse. </p>
+        <p> Le sage plan de conduite que jusqu'alors avaient suivi Mme de Rives et Noémi fut tracé à Claire, qui promit à sa mère et à sa cousine de s'y conformer. </p>
+        <p> Ce ne fut pas sans avoir le cœur bien serré que la jeune fille songea à la tâche qu'elle allait avoir à remplir. Mais, nous l'avons dit, c'était une âme généreuse, que l'amour du bien enflammait ; aussi, confiante dans le secours de la grâce, elle releva bientôt son courage, en répétant avec le Psalmiste : « Vous combattrez avec moi, Seigneur, j'espère dans votre miséricorde ; je ne serai pas confondu. » </p>
+      </div>
+      <div title="XII" type="chapter">
+        <p> XII </p>
+        <p> Lorsque Mme de Rives et les deux cousines descendirent dans la salle à manger, M. de Kervoz y était déjà. </p>
+        <p> « Je n'ai pas trouvé mon ami, dit-il, je reviens donc déjeuner avec vous; et, comme ensuite aucune affaire ne nécessite mon absence, je me propose de juger des progrès de Claire. » </p>
+        <p> Mlle de Rives répondit gaiement à cette annonce, et, le repas à peine terminé, elle s'empressa d'accompagner son oncle dans la salle d'étude. </p>
+        <p> La vicomtesse et Noémi s'y rendirent également : la première, rassurée d'avance, car elle avait pu juger de l'instruction de Claire; la seconde, un peu inquiète et souhaitant de tout son cœur voir M. de Kervoz se relâcher de sa sévérité dans cet examen. </p>
+        <p> Le vieux gentilhomme avait une réelle et solide instruction, servie par une intelligence d'élite. Quelques arts même ne lui étaient pas étrangers : il dessinait bien, il aimait beaucoup la musique,et était d'une certaine force sur le violon. </p>
+        <p> Convaincu d'avoir à critiquer amèrement l'éducation des couvents, ce fut avec un vrai ton de professeur rigide qu'il posa ses questions. </p>
+        <p> Sans faire parade de son savoir, Claire répondit sans aucune hésitation. </p>
+        <p> M. de Kervoz demeura surpris ; mais, ne voulant pas laisser paraître son étonnement, il continua l'examen, en ayant soin d'y apporter progressivement plus de rigueur. Ce fut en vain ; Mlle de Rives semblait jouer avec les difficultés. </p>
+        <p> M. de Kervoz parcourut le cercle des études spéciales aux jeunes filles : modeste et respectueuse, Claire répondit sans embarras. </p>
+        <p> « Ma foi, s'écria à la fin M. de Kervoz, je croyais trouver ton éducation à refaire, et voilà que tu es devenue une véritable savante. On faisait donc autre chose que de réciter des prières dans ton couvent ? </p>
+        <p> — Oui, répondit Claire, on y faisait autre chose que de réciter des prières. Sans doute on y donne les enseignements chrétiens, base de toute solide éducation; mais ces enseignements ne nuisent pas aux autres devoirs; car les religieuses, mes chères institutrices, auraient eu, pour la plupart, beaucoup de succès dans le monde si la charité ne les avait engagées à choisir la vie humble et dévouée du cloître. Vous dire avec quel soin, quelles touchantes attentions, quelle science du cœur sont dirigées les élèves des Oiseaux, me serait chose impossible. Pour ne citer qu'un exemple, vous savez combien, lorsque je partis, vous me trouviez entêtée, volontaire, peu disposée à travailler. Eh bien ! grâce à mes bonnes maîtresses, je reviens, mon cher oncle, non pas savante comme vous voulez bien le dire, mais au moins avec le plus vif désir de continuer à m'instruire, tout en étant envers vous soumise, obéissante et affectueuse comme votre chère Noémi. » </p>
+        <p> Tout ému, M. de Kervoz tendit les bras à sa nièce ; puis, craignant de trop se livrer par son émotion, il se hâta de changer d'entretien, et pria Claire de faire un peu de musique. </p>
+        <p> Mlle de Rives n'était pas une de ces jeunes filles soi-disant artistes, qu'on rencontre trop dans le monde, où elles se posent comme prodiges, s'imaginent faire admirer, celles-ci leur voix, celles-là telle ou telle perfection. Non, Claire avait un réel talent comme musicienne ; mais, grâce aux bonnes leçons qu'elle avait reçues, elle pouvait charmer sans paraître vaincre d'immenses difficultés et sans avoir la pensée de provoquer des applaudissements plus ou moins spontanés. Il en résultait que son jeu était facile, agréable, brillant même, sans jamais pourtant cesser d'être simple et harmonieux. </p>
+        <p> Une sonate de Beethoven qu'elle joua avec un sentiment profond de la mélodie transporta. M. de Kervoz, et, lorsqu'il eut vu les dessins et quelques petits tableaux de Claire, son contentement ne connut plus de bornes. </p>
+        <p> « Allons, dit-il, je vois que je m'étais trompé. Tu sais tout ce qu'il t'est nécessaire de savoir; il est vrai, ajouta-t-il, comme regrettant ses éloges, que pour une bonne éducation achevée dans un couvent, on en trouvera cent complètement manquées. » </p>
+        <p> Personne ne releva cette injuste assertion, Mme de Rives, sa fille et sa nièce étant trop satisfaites de ce qui venait de se passer pour compromettre le fruit qui en pourrait résulter. </p>
+      </div>
+      <div title="XIII" type="chapter">
+        <p> XIII </p>
+        <p> Tous ces petits préparatifs d'installation terminés, Claire, aidée des avis de sa mère et fortifiée par ses exemples, commença à suivre le plan de conduite qui lui avait été tracé. </p>
+        <p> Fidèle à la salutaire habitude qu'elle avait prise en pension, elle était toujours levée de grand matin. Son premier soin était de s'agenouiller dans son petit oratoire, et là, aux pieds de Marie, elle priait cette bonne mère de présenter à Dieu ses vœux et ses espérances. </p>
+        <p> Il était rare que Noémi ne vînt pas s'unir à sa cousine. Ensuite les deux jeunes filles sortaient pour faire une petite promenade, soit dans les jardins, soit jusqu'à la ferme de Fanche, où l'on était toujours si heureux de les revoir. Après la promenade, Claire et Noémi montaient à la salle d'étude, et travaillaient jusqu'à l'heure du déjeuner. Ce repas terminé, elles rendaient compte à Mme de Rives de leurs travaux, puis sortaient avec M. de Kervoz, ou aidaient la vicomtesse dans les mille petits soins qui incombent à toute maîtresse de maison, à quelque classe qu'elle appartienne. </p>
+        <p> La soirée était consacrée à la musique, à la lecture, à la conversation, ou aux divers travaux de femmes. Dans cette dernière circonstance, lorsque Mme de Rives, Claire et Noémi se penchaient sur un métier à tapisserie ou une fine broderie, M. de Kervoz racontait une légende bretonne. Ces récits avaient toujours un grand succès, car le gentilhomme savait leur donner toute la couleur, toute l'animation qu'ils comportent si bien ; souvent, oubliant leur travail, les auditeurs suivaient avec angoisse les terribles tribulations du sonneur harcelé par les Korils, ou, mieux encore, riaient aux éclats des plaisantes aventures du tailleur bossu qui trouva une fin pour la chanson des Korigans. </p>
+        <p> On doit penser que le conteur n'était pas médiocrement fier de son talent à captiver l'attention ; aussi parfois mettait-il de la malice à interrompre, longtemps avant l'heure du repos, la suite d'un récit palpitant d'intérêt. Il fallait voir alors combien Claire et Noémi pressaient le châtelain de terminer au plus vite sa légende ; mais rien n'y faisait. Bon gré, malgré, il fallait attendre jusqu'au lendemain, quelquefois même pendant plusieurs jours. </p>
+        <p> A ces réunions du foyer venaient souvent s'asseoir des amis, habitant les châteaux voisins, et à ces visiteurs venait aussi s'adjoindre, les dimanches, le curé de l'église Sainte-Croix de Quimperlé. </p>
+        <p> Il paraîtra étrange que le châtelain de Kervoz, si peu tolérant en matière religieuse, reçût ainsi un prêtre sur le pied de l'intimité. C'est que les circonstances qui avaient mis en présence le ministre de Dieu et le gentilhomme étaient de celles qui marquent profondément dans la vie. C'était pendant les jours de deuil causés par le terrible fléau qui, en 1832, fit tant de victimes ; c'était au chevet de Mme de Kervoz mourante, alors que son époux, maudissant Dieu de l'épreuve qu'il lui envoyait, voulait mettre fin à son existence pour n'avoir pas à supporter le poids de la douleur. L'abbé Tréal survint, et, plaçant Noémi dans les bras de son père, il fit entendre de pieuses et saintes paroles qui descendirent dans ce cœur ulcéré comme une rosée bienfaisante. </p>
+        <p> M. de Kervoz n'oublia pas que le bon prêtre l'avait empêché de commettre un grand crime; il lui voua la reconnaissance la plus sincère, et le traita toujours avec une déférence respectueuse. </p>
+        <p> L'abbé Tréal avait une âme angélique : sa douceur,sa bonté, étaient aussi grandes que son dévouement à calmer les douleurs de notre condition humaine était infatigable. En outre, le bon prêtre possédait une instruction des plus profondes et des plus variées. Sa conversation était fort attrayante ; car il était aimable, indulgent et habile à faire valoir l'esprit de ceux qu'il entretenait. </p>
+        <p> Bien souvent l'abbé Tréal, versé dans l'antique littérature bretonne, se joignait à M. de Kervoz pour raconter quelques légendes ou traduire une vieille chronique. Toujours de ces récits il tirait une douce morale qui venait y ajouter un nouveau prix. </p>
+        <p> Claire connaissait le curé de Sainte-Croix. C'était par ses soins qu'elle avait reçu la première instruction religieuse, par ses soins encore qu'elle avait été placée au couvent des Oiseaux ; car c'était lui qui en avait donné l'idée à Mme de Rives, laquelle, remplie de confiance pour l'abbé Tréal, s'était empressée de suivre ses conseils, malgré l'opposition que, comme nous le savons, y mit M. de Kervoz. </p>
+        <p> Ce fut donc avec bonheur que Mlle de Rives se replaça sous la sage direction du vénérable prêtre ; ce fut aussi avec bonheur que l'abbé Tréal retrouva développées dans l'âme de la jeune fille les bonnes qualités qu'il y avait reconnues. </p>
+        <p> L'influence du curé de Sainte-Croix eut pour Claire les meilleurs résultats; la suite de cette histoire nous les fera connaître. </p>
+      </div>
+      <div title="XIV" type="chapter">
+        <p> XIV </p>
+        <p> Un matin les deux cousines se disposaient à faire leur promenade accoutumée, lorsqu'au bas du perron du château elles furent arrêtées par M. de Kervoz. </p>
+        <p> « Ne voulez-vous pas venir avec moi jusqu'au bord de l'eau ? leur demanda-t-il. </p>
+        <p> — Très-volontiers, » répondirent les jeunes filles. M. de Kervoz s'empara du bras de Claire et de celui de Noémi, puis se dirigea rapidement vers la Laita. </p>
+        <p> Vous marchez bien vite, mon père, remarqua Noémi : êtes-vous donc si pressé ? </p>
+        <p> — Mais un peu ; du reste, tout à l'heure nous nous reposerons. » </p>
+        <p> Et en parlant ainsi, un demi-sourire éclairait la physionomie du gentilhomme. </p>
+        <p> Arrivés sur la berge, M. de Kervoz appela fortement : </p>
+        <p> « Biann ! Loïzic ! » </p>
+        <p> Au même instant une jolie barque parut sur la rivière. </p>
+        <p> Eh quoi ! demanda Claire, vous allez monter sur ce bateau ? </p>
+        <p> — Avec toi et Noémi, répliqua M. de Kervoz, si toutefois cela ne vous contrarie pas de venir à Saint-Maurice. </p>
+        <p> — C'est donc une surprise que vous avez voulu nous faire ? » dirent ensemble les deux cousines. </p>
+        <p> M. de Kervoz sourit. </p>
+        <p> Mais, ajouta Claire après un instant de silence, ma mère n'est pas avertie : elle sera inquiète. </p>
+        <p> — Nullement, car elle nous accompagne,» répliqua M. de Kervoz. </p>
+        <p> En effet, ces paroles n'étaient pas prononcées, que la vicomtesse arrivait près du groupe formé par son frère et les jeunes filles. </p>
+        <p> Deux acclamations de joie saluèrent Mme de Rives, et il n'est pas besoin de dire combien M. de Kervoz et sa sœur furent, par Claire et Noémi, embrassés et remerciés pour leur gracieuse surprise. </p>
+        <p> On monta gaiement dans la barque qui, habilement gouvernée par Biann, pilote habituel de M. de Kervoz, prit bientôt le fil de la rivière. Un léger brouillard voilait l'atmosphère, et ne laissait pas que d'inquiéter un peu les jeunes filles. </p>
+        <p> « Pensez-vous que cette vilaine brume se dissipera ? » demandaient-elles à chaque instant à M. de Kervoz. </p>
+        <p> « Un peu de patience, répondait-il; la journée sera belle. Vous savez que je m'y connais: soyez donc tranquilles. » </p>
+        <p> Il disait vrai; car bientôt le soleil, montant à l'horizon dans toute sa splendeur, perça de ses rayons d'or le brouillard qui obscurcissait le ciel, et vint inonder de lumière les beaux sites de la Laita. </p>
+        <p> « Quelle charmante promenade nous allons faire, dit Claire, et que je vais être heureuse de revoir Saint-Maurice ! Quelles bonnes parties nous avons faites sous ses ombrages ! t'en souviens-tu, Noémi ? </p>
+        <p> — Oui, mais je me souviens aussi qu'un jour tu m'entraînas dans les souterrains sans fin de la vieille abbaye, et que tu m'y fis une peur affreuse. Heureusement nous n'y retournerons pas, car je ne serais guère plus rassurée, je crois. D'ailleurs les voûtes tombent en ruine, et les éboulements deviennent très-fréquents. </p>
+        <p> — Qu'importe ? dit Claire d'un petit air d'autorité, tu me suivras partout où j'irai. » </p>
+        <p> Noémi baissa la tête en souriant. </p>
+        <p> « J'espère, ma nièce, que tu m'écouteras, dit à son tour M. de Kervoz, et que tu observeras la défense que je te fais d'approcher des souterrains ? </p>
+        <p> — Eh ! mon bon oncle, vous serez le premier à m'y suivre, répliqua Mlle de Rives d'un ton mutin. Auriez-vous donc peur, vous, un ancien colonel ? Quant à moi, je le déclare, je suis intrépide... » </p>
+        <p> La jeune fille s'interrompit; elle venait de se sentir le visage inondé d'eau. Elle regarda Noémi, qu'elle soupçonnait de cette espièglerie ; mais elle la vit aussi s'essuyer le visage. </p>
+        <p> Un éclat de rire de M. de Kervoz décela le coupable. </p>
+        <p> « Tu avais oublié le bonhomme Trois-Piques, dit gaiement le gentilhomme. Renouvelle connaissance avec lui, puisqu'il s'avance vers toi. » </p>
+        <p> En effet, sur la rive droite de la Laita, un vieux chêne dresse son tronc noueux et miné par le temps. Une disposition bizarre de ses branches fait que de loin il semble représenter assez fidèlement un vieux bûcheron d'une taille colossale, qui s'avance vers la rivière. En passant devant ce chêne, les bateliers ne manquent pas de donner aux personnes qui montent leur embarcation ce qu'ils appellent le baptême du bonhomme Trois Piques, faible réminiscence du baptême du tropique, au passage de l'équateur. </p>
+        <p> A l'intention des deux jeunes filles, M. de Kervozavait accompli lui-même la plaisanterie que n'auraient osé se permettre les bateliers. Claire et Noémi en prirent joyeusement leur parti ; mais, à leur tour, elles donnèrent aussi le baptême au gentilhomme, malgré ses réclamations: car il prétendait en être exempt, puisque, disait-il, il passait souvent dans cet endroit, et que les novices seuls, c'est-à-dire ceux qui faisaient le trajet pour la première fois, devaient être soumis à cette formalité. </p>
+        <p> La barque continuait de voguer doucement sur les flots verts de la Laita. Bientôt elle atteignit un endroit où, resserrée tout à coup, la rivière roule sur des pointes de rochers et sur de vieux troncs d'arbres renversés. A ce passage, la rive droite est fort escarpée : on l'appelle le Saut-du-Cerf. </p>
+        <p> « Te rappelles-tu la légende qui se rattache à ce site pittoresque ? demanda Noémi à sa cousine. </p>
+        <p> — Mais je crois que oui. Il y a longtemps, bien longtemps de cela, un seigneur de Quimperlé allait chaque jour à la chasse, et détruisait à peu près tout le gibier de la forêt de Carnoët. </p>
+        <p> « Vint un moment où il jura fort. Rien de digne d'un chasseur comme lui ne se présentait à ses coups. Pas un daim, pas un chevreuil. Les piqueurs lui représentèrent humblement que ses chasses journalières étaient la cause de cette pénurie de gibier. Mais le seigneur n'écoutait qu'imparfaitement et maugréait toujours. </p>
+        <p> « Soudain un cerf magnifique partit d'un hallier, et se mit à fuir devant la meute frémissante. A cette vue, toute la chasse s'élance avec ardeur à la poursuite du cerf. Longtemps on courut en vain sur ses traces, et déjà on désespérait de l'atteindre, lorsqu'on arriva sur les bords de la Laita, à l'endroit que nous venons de remarquer. Il est à nous ! s'écria le seigneur, taïaut ! taïaut ! » </p>
+        <p> « Le cerf, haletant, allait être pris en effet, lorsque, d'un bond désespéré, il franchit la rivière et se mit à courir vers le bois du Duc. </p>
+        <p> En même temps saint Hubert apparut aux regards surpris du seigneur. Il lui défendit de détruire, ainsi qu'il le faisait, tous les hôtes de la forêt de Carnoët, lui enjoignant de se contenter d'une chasse modérée ; sinon qu'il ne protégerait plus ses exploits cynégétiques. </p>
+        <p> « Le seigneur obéit, et, pour perpétuer le souvenir de l'apparition, il éleva une croix de pierre à l'endroit même où se voyaient les traces des pieds du cerf, rendues plus profondes par suite de l'élan extraordinaire que l'animal avait dû prendre pour franchir la Laita. Est-ce bien tout, Noémi ? </p>
+        <p> — A merveille. J'oserais presque dire que notre conteur de légendes ne s'en serait pas mieux tiré. N'est-il pas vrai, mon père ? </p>
+        <p> — Je partage entièrement ton avis. </p>
+        <p> — Oh ! vous me flattez, dit Claire. </p>
+        <p> — Mais non, dit à son tour Mme de Rives. Je t'assure, ma chère enfant, que tu as fort bien raconté cette vieille légende et qu'elle m'a fait beaucoup de plaisir. » </p>
+        <p> On était arrivé devant Saint-Maurice. Quelques moments plus tard, nos promeneurs se dirige aient vers l'antique abbaye. </p>
+      </div>
+      <div title="XV" type="chapter">
+        <p> XV </p>
+        <p> Par les soins de Mme de Rives, un fort grand panier avait été garni de provisions choisies. Aussi, lorsque, après être arrivés dans le petit bois de Saint-Maurice, M. de Kervoz et les deux jeunes filles parlèrent de leur appétit, rendu pressant par l'air vif de la rivière, on n'eut qu'à choisir un emplacement convenable pour dresser un repas champêtre. </p>
+        <p> La mousse, sur laquelle on étendit une serviette, servit de table; quelques vieux troncs renversés par le temps furent approchés en guise de sièges, et les belles cimes des pins et des chênes donnèrent aux promeneurs leurs ombrages séculaires. A deux pas de l'endroit choisi, une jolie fontaine, qui depuis a été en partie transformée en lavoir, faisait bouillonner son onde limpide, comme pour inviter à venir s'y désaltérer. Enfin, complétant le paysage, l'ensemble austère de l'abbaye se dressait sur le ciel bleu, tandis que mille fleurettes exhalaient leurs parfums suaves, et que l'air était animé par les chants des oiseaux et les bourdonnements des insectes cachés sous l'herbe. </p>
+        <p> « Quelle splendide journée ! dit Claire, et qu'on est bien ici ! O mon oncle, et vous, ma chère mère, que je vous remercie de votre aimable surprise ! </p>
+        <p> — Je suis charmé que tu sois contente, répondit M. de Kervoz ; je ne suis jamais plus joyeux que lorsque je vois mes deux filles heureuses. » </p>
+        <p> Le repas terminé, on se rendit à l'abbaye. </p>
+        <p> Le propriétaire connaissait un peu M. de Kervoz, avec lequel il s'était trouvé en relation d'affaires. Il s'empressa de se mettre à la disposition des promeneurs. </p>
+        <p> Ce fut avec le plus vif intérêt que Claire et Noémi, ainsi que Mme de Rives, parcoururent de nouveau le vieux monastère. </p>
+        <p> La chapelle est encore sinon intacte, du moins assez bien conservée pour qu'on puisse reconnaître quelques vestiges de son architecture. L'autel, qui est très-ancien, a beaucoup souffert pendant la Révolution. D'un côté de la nef, on voit un immense reliquaire dans lequel sont renfermés les restes de plusieurs abbés du couvent. Du côté opposé, sont placés quelques ornements et bijoux qui ont été retrouvés lors des fouilles qui ont été faites et du rétablissement du culte catholique. </p>
+        <p> Les jardins, qui entourent le monument tout entier, sont vastes et bien plantés; on y trouve nombre d'ifs et de buis, taillés autrefois par les moines, et auxquels on a conservé leurs formes de tonnelles de bosquet. </p>
+        <p> Des souterrains qui étaient très-étendus, mais dans lesquels on ne peut actuellement pénétrer fort loin, à cause des éboulements successifs qui s'y manifestent, sont remarquables par leur élévation et leurs proportions grandioses. Mais ce qui ajoute encore à la majesté de l'abbaye, c'est le paysage dans lequel elle est encadrée. </p>
+        <p> Nous l'avons dit : de trois côtés, ce ne sont que masses de verdure de tons différents ; car ces masses sont formées de bois de chênes, de sapins, de coudriers, d'ormes ; puis le sol est fort accidenté : de petites collines et de fraîches vallées s'y succèdent les unes aux autres. Devant l'abbaye même coule la Laita, et la mer n'est pas éloignée. </p>
+        <p> Mille souvenirs s'éveillent à l'aspect de ces lieux. Où sont-ils ces vaillants ministres de Dieu, qui, la croix à la main, prêchaient une religion de paix et de charité aux farouches populations courbées sous le fanatisme des druides? Où sont-ils les courageux moines qui ne craignaient pas de s'établir dans un pays couvert de forêts inextricables pour y introduire l'agriculture et y donner l'exemple du travail ? Hélas ! ils ont été chassés pour toujours de la demeure qu'ils avaient sanctifiée  3  ! </p>
+        <p> Des pensers poétiques viennent aussi sourire à l'imagination. Ces paysages et ceux qui les avoisinent ont trouvé plus d'un enthousiaste; sans parler des chants renfermés dans plusieurs chroniques et légendes bretonnes, Brizeux, l'auteur de Marie et des Bretons , a trouvé pour les célébrer des vers à la fois doux, graves, harmonieux,comme le sujet qui les inspirait. </p>
+        <p> Toutes ces réflexions, Claire et Noémi les faisaient à haute voix, et à leur admiration s'associaient Mme de Rives et M. de Kervoz. </p>
+        <p> Ce ne fut pas sans regret qu'il fallut partir. La journée avait passé comme un éclair; mais on se promit bien de revenir souvent à Saint-Maurice. </p>
+        <p> Le crépuscule enveloppait déjà l'atmosphère lorsqu'on quitta Saint-Maurice. Bientôt les étoiles brillèrent dans le ciel pur et vinrent se réfléchir dans les eaux de la Laita, en même temps que la reine des nuits montait lentement à l'horizon. </p>
+      </div>
+      <div title="XVI" type="chapter">
+        <p> XVI </p>
+        <p> Non content de faire briller les talents de Claire et de Noémi dans le cercle intime qui se réunissait au château, M. de Kervoz voulut bientôt conduire sa fille et sa nièce dans une société plus nombreuse. </p>
+        <p> « Mais, mon oncle, disait Mlle de Rives, je vous assure que je suis fort heureuse au milieu de vos amis, et qu'il ne peut m'être aussi agréable de me trouver souvent au bal ou en soirées. Je n'aime pas le monde. </p>
+        <p> — Préjugé de couvent, répondait M. de Kervoz. Avant six semaines, tu ne parleras pas ainsi; car la toilette et la danse ont pour les jeunes filles d'irrésistibles attraits. </p>
+        <p> — Je ne crois pas penser jamais ainsi. </p>
+        <p> — Tu verras, te dis-je. D'avance je t'entends me remercier des plaisirs que je veux te donner. </p>
+        <p> — Je vous sais infiniment gré du motif qui vous guide, mon cher oncle; vous ne cherchez que le moyen de me procurer des distractions que vous supposez me manquer; croyez que je vous en suis entièrement reconnaissante. Permettez-moi pourtant de vous demander de n'y pas donner suite. Je me trouve si heureuse de notre vie calme et paisible, que le tumulte inséparable des fêtes ne pourrait que me la faire regretter. Rien ne remplacera pour moi ces soirées que nous passons en famille, ces soirées rendues si charmantes par votre aimable bonté et votre inépuisable complaisance, par l'entretien si varié de ma bonne mère et par les mille petits soins que nous prodigue Noémi. Ah ! mon oncle, pensez à tout cela, et ainsi que moi vous direz que les réunions bruyantes ne valent pas quelques heures de nos intimes soirées. </p>
+        <p> — J'admire ta philosophie, ma nièce ; mais, tout en pensant quelque peu comme toi, je suis convaincu qu'à ton âge il est bon de voir le monde. Ne faut-il pas que tu fasses connaissance avec lui, afin que, lorsque tu te sépareras de nous, tu puisses dignement y tenir ton rang ? </p>
+        <p> — Me séparer de vous ! tenir un rang dans le monde ! s'écria Claire, oh! mon oncle, jamais ! </p>
+        <p> — Qu'est-ce à dire ? interrompit M. de Kervoz. </p>
+        <p> — Pardon... Je me suis prononcée d'une manière peu respectueuse, » dit Claire, hésitante et troublée. </p>
+        <p> M. de Kervoz fronça les sourcils en voyant ce trouble. </p>
+        <p> « C'est bien, reprit-il ; ne parlons plus de cela; seulement, souviens-toi d'une chose : jamais je ne consentirai à favoriser d'étroites idées, prétendues religieuses ; j'entends que tu oublies tes préjugés, et que tu t'apprêtes à m'obéir sans discuter mes ordres. » </p>
+        <p> Et, de crainte de voir couler les larmes qui perlaient dans les yeux de Claire, M. de Kervoz sortit brusquement. </p>
+        <p> Claire resta atterrée. Jamais encore son oncle ne lui avait parlé d'un ton aussi sévère. Des larmes ne tardèrent pas à inonder ses joues. </p>
+        <p> « Qu'as-tu donc ? » dit avec inquiétude Noémi, qui survint et courut embrasser sa cousine, en remarquant son émotion. </p>
+        <p> Claire répéta l'entretien qu'elle venait d'avoir avec M. de Kervoz. </p>
+        <p> « Mais, reprit Noémi, il n'y a rien là, il me semble, qui doive tant t'affecter. Mon père demande que tu paraisses dans le monde : voilà tout. </p>
+        <p> — Oh ! j'ai trop bien compris ce qu'a voulu dire mon oncle lorsqu'il a remarqué mon trouble. Je vois que j'aurai bien des obstacles à surmonter avant de parvenir à réaliser mes vœux. </p>
+        <p> — Quels vœux ? » répéta Noémi avec une curiosité inquiète, qui paraissait trop bien comprendre les espérances de sa cousine. </p>
+        <p> Claire ne répondit rien. Noémi répéta sa question. </p>
+        <p> « Je n'ai donc plus ta confiance ? » ajouta-t-elle en voyant que Mlle de Rives hésitait à donner l'explication de ses paroles. « Non, je n'ai plus ta confiance, puisqu'il faut que je te presse de répondre à mes demandes. Mais je n'insisterai pas davantage : je me retire pour ne pas troubler tes réflexions. </p>
+        <p> — Est-ce bien toi qui me parles ainsi, Noémi ? </p>
+        <p> — Oui, et je n'ai pas tort; car, moi, je me ferais scrupule de te cacher une de mes pensées ; après ma tante, tu es ma meilleure, ma seule amie, et je suis persuadée que l'amitié ne peut exister sans la confiance... </p>
+        <p> — Tu es bien dure pour moi, chère Noémi, interrompit Claire en prenant les mains de sa cousine et les serrant affectueusement. Tu me traites plus sévèrement que je ne le mérite, car jamais je n'ai eu de secrets pour toi. Si j'hésite à te dévoiler les pensées qu'ont fait naître en mon âme les paroles de M. de Kervoz, c'est que ces pensées sont encore bien confuses et que, faut-il te l'avouer, je les crois de nature à être d'abord soumises à l'appréciation de ma mère et de notre vénérable directeur, l'abbé Tréal. </p>
+        <p> — Arrête, Claire, ce seul nom me dit tout. J'ai eu tort, oui, bien tort de chercher à provoquer des confidences trop hâtives. Pardonne-moi mes paroles; mais, ajouta-t-elle en se jetant dans les bras de Mlle de Rives, il ne faudra pas m'en vouloir si tu vois souvent couler mes larmes, c'est que je ne pourrais sans douleur penser au moment où tu te sépareras de nous... » </p>
+        <p> Puis, s'interrompant tout à coup, Noémi embrassa Claire avec tendresse, et s'enfuit pour aller dans l'isolement cacher son émotion qu'elle ne pouvait plus vaincre. </p>
+      </div>
+      <div title="XVII" type="chapter">
+        <p> XVII </p>
+        <p> On était vers le milieu de novembre. Dès les premières lueurs du jour, un grand mouvement se faisait remarquer dans l'hôtel de Mme la marquise de Carnoët. Les jardiniers, les tapissiers décorateurs, enfin tous les ouvriers indispensables aux préparatifs d'une fête rivalisaient d'ardeur pour mettre les vastes salons de l'hôtel en état de recevoir dans la soirée les nobles invités appelés à s'y réunir. La marquise et ses trois filles surveillaient elles-mêmes les travaux avec d'autant plus de sollicitude que la fête qui allait être donnée devait suivre la signature du contrat de mariage de l'aînée des filles de Mme de Carnoët, Emmeline. </p>
+        <p> Comme la marquise et sa famille joueront un certain rôle dans la suite de ce récit, nous allons dès à présent leur consacrer quelques lignes. </p>
+        <p> Le marquis de Carnoët, capitaine de vaisseau distingué, avait été forcé, quoique jeune encore, de rentrer dans la vie privée. De graves blessures, reçues en combattant sous le premier empire, avaient nécessité cette retraite. Il se maria alors, et son union fut heureuse, car la marquise était aimable et douce. Quatre enfants, un fils et trois filles, leur avaient été donnés, et déjà M. de Carnoët entrevoyait l'instant où il deviendrait l'instituteur de son fils, qu'il destinait à la marine, sa carrière chérie, lorsque la mort vint frapper presque subitement l'ancien capitaine. </p>
+        <p> Restée veuve, la marquise s'abandonna à tout son chagrin; mais bientôt la religion, sous les traits de l'abbé Tréal, lui fit entendre ses plus consolantes paroles et envisager les devoirs qui lui restaient à remplir. Elle n'y faillit pas. Ses enfants furent élevés avec soin, et leur éducation religieuse, confiée au vénérable curé de Sainte-Croix, ne laissa rien à désirer. </p>
+        <p> L'aîné des enfants de Mme de Carnoët était un garçon. Dirigé suivant les désirs qu'avait manifestés le marquis, Edouard, intelligent, actif et travailleur, avait brillamment passé tous ses examens. A peine âgé de vingt-trois ans, il était enseigne de vaisseau et décoré de la Légion d'honneur : un acte de courage accompli pendant une expédition à La Plata lui avait valu la croix. </p>
+        <p> Après Edouard venait Emmeline. Elle allait avoir vingt ans. Sans beauté, mais aimable et douce, on la trouvait charmante. Sa simplicité, sa candeur, la faisaient aimer de tous; aussi, bien que la fortune qui devait lui revenir fût médiocre, un riche propriétaire de Quimperlé, le baron de Kerdrel, n'avait pas hésité à demander sa main pour son fils unique. </p>
+        <p> Ainsi que nous l'avons dit, nous sommes au jour où devait avoir lieu, dans la soirée, la signature du contrat. </p>
+        <p> Isabelle, la sœur cadette d'Emmeline, allait avoir dix-neuf ans. Fort jolie et vaine de sa beauté, elle était celle des trois jeunes filles qui avait le moins profité de la bonne éducation qu'elles avaient reçue ; les efforts de Mme de Carnoët avaient été en partie annulés par l'orgueil et la vanité qui formaient le fond du caractère d'Isabelle. Aussi la jeune fille n'était-elle guère aimée dans la société de sa mère, rien n'éloignant plus l'affection que les airs de hauteur ou un silence dédaigneux. </p>
+        <p> Camille, la plus jeune sœur, n'avait pas encore seize ans. Toujours gaie et rieuse, c'était l'enfantgâté de la famille. De cette universelle bienveillance elle avait contracté un petit sentiment de mutine domination; mais elle rachetait grandement ce léger défaut par un cœur excellent et une âme remplie de réelles qualités. </p>
+        <p> Mme de Carnoët aimait beaucoup Mme de Rives. Aussi s'était-elle empressée d'inviter des premières, à la soirée qu'elle donnait, la vicomtesse et sa fille, ainsi que M. de Kervoz et Noémi. </p>
+      </div>
+      <div title="XVIII" type="chapter">
+        <p> XVIII </p>
+        <p> Le soir arriva, et bientôt la foule des invités se pressa dans l'hôtel de Carnoët, dont la marquise faisait les honneurs avec une grâce parfaite. Toujours simple et modeste, Emmeline recevait timidement les félicitations qu'on lui adressait. Hautaine et fière, Isabelle semblait se croire la reine de la fête et paraissait dire : Admirez-moi. Il en résultait qu'au grand déplaisir de l'orgueilleuse jeune fille on allait plutôt près d'Emmeline ou près de Camille, qui, aimable et gaie, secondait à merveille Mme de Carnoët, et savait trouver pour chacun un mot affable ou un gracieux sourire. </p>
+        <p> Le baron de Kerdrel était assis à la droite de la marquise, tandis que son fils répondait aux mille compliments de ses amis. </p>
+        <p> Le notaire venait d'arriver, et la lecture du contrat allait commencer, lorsqu'un murmure d'admiration se fit entendre. </p>
+        <p> M. de Kervoz et Mme de Rives, accompagnés de Claire et de Noémi, entraient dans le salon. </p>
+        <p> Les deux cousines étaient charmantes dans leurs simples toilettes, et justifiaient pleinement l'admiration qui s'était manifestée. Des robes blanches garnies de marguerites, des marguerites aussi pour coiffures et pour bouquets, telle était leur parure. </p>
+        <p> Mais combien Claire et Noémi étaient gracieuses et modestes ! Et puis il y avait quatre ans qu'elles n'avaient paru dans le monde; car, en l'absence de sa cousine, Noémi n'avait accepté aucune invitation. On les avait connues enfants, maintenant elles revenaient transformées en charmantes jeunes filles. </p>
+        <p> Bientôt un cercle entoura M. de Kervoz et sa famille, et certes les compliments et les éloges ne manquèrent pas de s'y faire entendre. </p>
+        <p> Claire et Noémi répondaient simplement ; mais il n'en était pas de même de M. de Kervoz, qui, au comble de la joie de l'effet produit par la présence de sa fille et de sa nièce, ne cherchait nullement à dissimuler sa satisfaction. </p>
+        <p> En passant dans les salons de danse, après la signature du contrat, M. de Kervoz, s'adressant à Claire, lui dit : </p>
+        <p> « Que penses-tu de cette soirée ? </p>
+        <p> — Elle est fort belle, mon oncle. </p>
+        <p> — Tu vois que j'ai eu raison de ne pas vouloir te laisser refuser l'invitation de Mme de Carnoët. Aussi, puisque tu reconnais que tu avais tort de me résister, amuse-toi bien, et pense que bientôt peut-être une fête semblable sera donnée à Kervoz en ton honneur. » </p>
+        <p> Et, sans paraître remarquer un geste de dénégation de Claire, M. de Kervoz s'éloigna. </p>
+        <p> « Mon Dieu ! te trouverais-tu mal ? demanda Noémi, qui, en se rapprochant de sa cousine, venait d'apercevoir l'extrême pâleur répandue sur son visage. </p>
+        <p> — Non, répondit Claire en souriant tristement, je suis bien, très-bien. » </p>
+        <p> Noémi n'insista pas; car elle lut dans les yeux de Mlle de Rives qu'elle ne devait pas pousser plus loin ses questions. </p>
+        <p> Dans l'embrasure d'une fenêtre plusieurs jeunes gens causaient ensemble. </p>
+        <p> « Voyez donc, disait l'un, comme Mlle Isabelle de Carnoët croit, à force de hauteur, se rendre intéressante. On ne dirait vraiment pas qu'elle est la sœur de Mlle Emmeline et de Mlle Camille, et la fille de Mme la marquise ! </p>
+        <p> — Et puis il faut ajouter, dit un second, que Mlle Isabelle est loin d'être charitable. En dansant tout à l'heure avec elle, j'ai été forcé de l'entendre désigner la plupart de ses compagnes. N'a-t-elle pas même trouvé à dire quelque chose contre ces jeunes personnes qui sont là-bas assises près de Mme la vicomtesse de Rives ! </p>
+        <p> — Quoi ! elle s'est attaquée à la fille et à la nièce de Mme de Rives ! En vérité, cela est impardonnable, reprit un troisième ; car je gagerais bien quelque chose que Mlle Isabelle a moins de bon sens dans toute sa personne que Mlle de Rives et de Kervoz dans leur petit doigt. </p>
+        <p> — Cela est vrai, ajouta le premier interlocuteur.Il serait impossible de trouver des jeunes filles plus modestes, plus simples, et en même temps plus gracieuses. Mais, chut ! voici Edouard de Carnoët ; il ne faudrait pas qu'il nous entendît critiquer sa sœur. » </p>
+        <p> Si dans ce groupe de jeunes gens on était d'accord pour louer les qualités que Claire et Noémi annonçaient par leur conversation et leurs manières, on n'était pas moins unanime dans les autres groupes. Les deux cousines furent généralement admirées, et cette soirée leur valut de nombreuses sympathies. </p>
+        <p> Qu'avaient-elles fait pour mériter un tel succès ? Elles s'étaient montrées modestes et réservées. N'est-ce pas le meilleur moyen de se rendre aimable et de se faire rechercher ? Combien de jeunes personnes que l'on fuit, ou dont on n'accueille la présence qu'avec froideur, se verraient, elles aussi, aimées et chéries, si elles avaient conservé un peu plus de cette modestie qui sied à leur âge et à leur sexe; si, avant tout, elles s'étaient abstenues de prendre part à ces médisances, à ces railleries quelquefois cruelles, auxquelles elles s'abandonnent par légèreté de caractère, mais qu'on attribue à leur mauvais cœur ! </p>
+        <p> Que ces jeunes filles prennent pour modèles Claire et Noémi, et elles ne tarderont pas à voir un heureux changement s'opérer autour d'elles. Si les premiers efforts leur sont pénibles, qu'elles s'encouragent par l'appât d'une récompense bien douce, l'estime générale ! </p>
+      </div>
+      <div title="XIX" type="chapter">
+        <p> XIX </p>
+        <p> Plusieurs fêtes succédèrent, pour les deux cousines, à celle de Mme de Carnoët ; elles étaient trouvées si charmantes, que les invitations leur arrivaient en foule. M. de Kervoz acceptait toujours, et force était à Claire de consentir également à s'y rendre, bien que ses goûts fussent en désaccord complet avec une existence aussi agitée. </p>
+        <p> La jeune fille confiait ses peines à l'abbé Tréal, et le suppliait de prier pour elle. </p>
+        <p> « Je crains, disait-elle, de me laisser entraîner par ces fêtes et d'en venir à les préférer à des devoirs sérieux. Déjà mes pensées n'appartiennent plus autant à Dieu, et, malgré moi, je songe moins à prier qu'à compter les jours qui me séparent d'un bal à un autre bal. Combien cet état m'afflige, et combien je crains d'en venir à oublier tout à fait de prier ! </p>
+        <p> — Rassurez-vous, mon enfant, répondait l'abbé Tréal ; cette vie agitée que vous menez maintenant, ce n'est pas vous qui l'avez choisie. Je suis certain que si vous étiez libre, vous voudriez mieux employer votre temps. Non que je veuille vous dire de fuir absolument la société, et de repousser tout à fait quelques distractions nécessaires à votre âge; mais je sais combien sont dangereuses celles que donnent les bals : on perd par elles la simplicité, la paix du cœur et l'amour de ses devoirs. Encore une fois pourtant, rassurez-vous ; car pour vous, j'en suis certain, il n'en sera pas ainsi. Courageuse à combattre ces mauvaises influences, vous redoublerez, n'est-ce pas ? d'ardeur à la prière, et vous multiplierez les bonnes œuvres, afin que Dieu vous bénisse, et qu'en faisant cesser ce temps d'épreuves il daigne ouvrir à la lumière de la foi les yeux de M. de Kervoz. » </p>
+        <p> Ces paroles ranimaient toujours le courage de Claire. Tout en paraissant occupée, pour plaire à son oncle, des parures indispensables pour se montrer avec avantage dans le monde, la jeune fille élevait mentalement son âme vers Dieu ; elle priait surtout Marie, cette bonne mère toujours prête à venir au secours de quiconque l'implore. Elle versait dans les mains des pauvres d'abondantes aumônes, prélevées sur l'argent donné pour sa toilette et ses menus plaisirs. Par un miracle d'adresse puisé dans sa charité ingénieuse, elle savait changer complétement l'aspect d'une parure déjà mise plusieurs fois. Elle se devenait à elle-même sa couturière et sa modiste, aidée en cela par Noémi et la bonté de Mme de Rives, qui, émue des sentiments de sa fille, ne mettait point obstacle à ses généreux projets. </p>
+        <p> Noémi admirait sa cousine, et à chaque bonne œuvre nouvelle c'était de cœur qu'elle s'y associait. Pourtant la jeune fille n'avait pas en tout les goûts de Claire : les fêtes du monde ne lui paraissaient point insupportables. Bien souvent elle tressaillait de joie en se voyant admirer. Hâtons-nous de le dire, sa joie était pure ; aucune pensée mauvaise n'effleurait son âme. Non ; seulement Noémi n'avait pas les mêmes aspirations que Claire ; ses penchants ne la dirigeaient pas vers le même but. </p>
+        <p> Il n'est pas donné à tous d'avoir la meilleure part ; une seule chose est essentielle : chercher à accomplir la volonté de Dieu. </p>
+      </div>
+      <div title="XX" type="chapter">
+        <p> XX </p>
+        <p> Un matin, après le déjeuner, les deux cousines se disposaient à descendre au jardin, lorsque M. de Kervoz les arrêta d'un geste. </p>
+        <p> « J'ai à vous parler, » leur dit-il. </p>
+        <p> Les jeunes filles s'inclinèrent, et s'assirent auprès de Mme de Rives. Après un moment de silence, M. de Kervoz reprit : </p>
+        <p> « J'ai une chose importante à vous communiquer ; mais auparavant je veux vous dire que dans ce projet j'ai renfermé les dernières espérances qui me soient permises. Je suis vieux; mon plus vif désir est de vous voir heureusement établies avant l'heure où je devrai vous quitter pour toujours... » </p>
+        <p> Les deux jeunes filles s'élancèrent dans les bras du gentilhomme. </p>
+        <p> « O mon oncle... O mon père ! dirent-elles, ce moment est bien éloigné; n'attristons pas nos cœurs en y songeant. » </p>
+        <p> M. de Kervoz embrassa sa fille et sa nièce ; puis, secouant mélancoliquement la tête : </p>
+        <p> « Il y faut songer, dit-il; car ce moment ne tardera peut-être pas. Je veux donc vous voir heureuses; aussi ai-je pensé que je devais accepter des alliances qu'on m'a offertes. Sous tous les rapports elles sont ce que je pouvais espérer de mieux pour mes filles bien-aimées, et vous penserez comme moi lorsque je vous aurai dit, à toi, Claire, que je te présente M. le marquis de Carnoët ; à toi, Noémi, M. le baron Edmond de Ferville. Il est superflu que je vous dise que j'ai pris les précautions les plus scrupuleuses pour assurer votre bonheur ; aussi allez-vous me répondre, n'est-ce pas ? que vous me laissez maître de vos destinées, et que le même jour j'aurai la joie de vous conduire à l'autel. » </p>
+        <p> M. de Kervoz s'arrêta, attendant une réponse. </p>
+        <p> « Eh quoi ! vous vous taisez ! reprit-il au bout de quelques instants. </p>
+        <p> — Mon père, répondit Noémi, je ne puis qu'être touchée de votre sollicitude. Je connais mes devoirs envers vous, et toujours vous m'avez trouvée prête à vous obéir ; mais, dans une si grave circonstance, vous voudrez bien, n'est-il pas vrai ? me donner quelques jours pour réfléchir. </p>
+        <p> — Et qu'as-tu besoin de réfléchir, lorsque moi-même j'ai pris ce soin ? </p>
+        <p> — Mais, mon père... </p>
+        <p> — Je t'ai exprimé ma volonté. Veux-tu me causer un mortel chagrin ?... Et toi, Claire, ajouta M. de Kervoz, quelle va être ta réponse ? </p>
+        <p> — Celle de Noémi, mon bon oncle. Donnez-moi du temps pour penser à vos paroles... D'ailleurs, ma mère... </p>
+        <p> — Ta mère est de mon avis ; ainsi il n'est pas nécessaire de retarder une conclusion qu'appellent tous mes vœux. </p>
+        <p> — Pardonnez-moi, mon oncle, reprit Claire d'un ton ferme ; je dois réfléchir, et réfléchir sérieusement, à ce que vous venez de me dire. Ma mère approuvera, j'en suis certaine, ma résolution. </p>
+        <p> — Oui, mon frère, dit à son tour Mme de Rives. Je désire que Claire ne s'engage pas légèrement dans un nouvel état de vie. Donnez-lui quelques jours... </p>
+        <p> — Sortez ! sortez ! cria M. de Kervoz aux jeunes filles, qui, surprises de cette violence, s'empressèrent de quitter l'appartement. </p>
+        <p> — Eh quoi! Yolande, s'écria M.de Kervoz lorsqu'il fut seul avec sa sœur, prétendez-vous favoriser les idées vers lesquelles je vois Claire entraînée ? </p>
+        <p> — Quelles idées, Alain ? </p>
+        <p> — Vous me comprenez bien ; mais sachez une chose, c'est que jamais, non, jamais, je n'y donnerai mon consentement. </p>
+        <p> — Écoutez-moi, mon frère, dit avec tranquillité la vicomtesse. Je n'ai qu'une fille, et je ne veux pas, par un égoïste calcul d'amour maternel, la priver du seul bonheur auquel elle aspire peut-être. Je souffrirai beaucoup de son éloignement; mais j'aurai rempli mon devoir en ne mettant pas d'entraves à sa vocation. </p>
+        <p> — Fadaises ! s'écria M. de Kervoz avec emportement. Il n'y a point chez Claire de vocation, ainsi que vous voulez le dire, mais un aveuglement qu'a fait naître l'éducation qu'elle a reçue. Beau résultat, ma foi ! On élèvera une fille jusqu'à dix-huit ans, on lui donnera des talents, on cultivera son cœur et son esprit; tout cela pour la laisser ensuite aller se confiner dans un cloître! Jamais, non, jamais, je le jure, il n'en sera ainsi pour Claire. </p>
+        <p> — Je vous ferai observer, Alain, que je suis sa mère, et par conséquent juge... </p>
+        <p> — Oui, vous êtes sa mère, mais une mère aveugle ! s'écria encore plus violemment le gentilhomme. Par bonheur, je suis là, et moi qui lui ai servi de père, moi son tuteur, je saurai mettre obstacle à vos absurdes idées. Claire épousera le marquis de Carnoët, ou j'y perdrai mon nom ! » </p>
+        <p> Puis, au comble de la fureur, M. de Kervoz sortit, sans attendre une réponse de Mme de Rives. </p>
+      </div>
+      <div title="XXI" type="chapter">
+        <p> XXI </p>
+        <p> M. de Kervoz venait à peine de sortir, lorsque l'abbé Tréal fut annoncé à la vicomtesse. Il arrivait au château pour solliciter des secours en faveur d'une pauvre famille de Quimperlé. </p>
+        <p> « C'est Dieu qui vous envoie, s'écria Mme de Rives aussitôt qu'elle aperçut le bon prêtre. </p>
+        <p> — Qu'y a-t-il donc ? » demanda-t-il. </p>
+        <p> Mme de Rives l'instruisit des projets de M. de Kervoz. </p>
+        <p> « Et qu'a répondu Claire ? </p>
+        <p> — Elle a demandé du temps. </p>
+        <p> — C'est le seul parti à prendre. Encore faudrat-il agir avec la plus grande prudence ; M. votre frère est trop prévenu contre la vie religieuse pour que nous espérions qu'il se rende promptement, même aux meilleures raisons. Une autre considération est très-importante : Claire croit, et je suis aussi assez disposé à le croire, que sa vocation l'appelle vers Dieu. Mais, avant de céder à ce désir, il faut que des épreuves sérieuses nous soient un gage que son cœur n'a pas d'autres aspirations. </p>
+        <p> — J'ai déjà dit tout cela à ma fille, reprit la vicomtesse, et je l'ai trouvée prête à faire ma volonté dans tout ce qui ne tend pas à la détourner du but qu'elle se propose. </p>
+        <p> — Je désirerais l'interroger plus sérieusement que je ne l'ai encore fait, reprit l'abbé Tréal. </p>
+        <p> — Je vais la faire appeler, » dit Mme de Rives en sonnant, et en donnant au domestique qui se présenta l'ordre de prévenir Claire. </p>
+        <p> La jeune fille arriva bientôt, accompagnée de Noémi. On voyait que toutes les deux étaient sous le coup d'une grande émotion. Leurs yeux rougis témoignaient qu'elles s'étaient hâtées d'essuyer des larmes. </p>
+        <p> Les deux cousines saluèrent le curé de Sainte- Croix ; puis, par discrétion, Noémi voulait se retirer. </p>
+        <p> « Restez, dit l'abbé Tréal, restez, ma chère enfant. Vous êtes assez raisonnable, et surtout assez discrète, pour que nous ne craignions pas de parler devant vous. » </p>
+        <p> Noémi s'inclina et s'assit en silence. </p>
+        <p> « J'ai appris par votre mère, continua l'abbé en s'adressant à Claire, ce que vous a dit M. de Kervoz. Je sais combien vos goûts s'éloignent, du moins maintenant, du but qui vous est désigné... </p>
+        <p> — Oh ! dit Claire, en joignant les mains, que mon oncle m'ordonne les choses les plus difficiles, que ses ordres soient durs et injustes, n'importe ! j'appliquerai tous mes soins à le satisfaire ; mais jamais, non, jamais, je ne consentirai à agir contre la volonté de Dieu. Il m'appelle à son service, je m'y consacrerai. </p>
+        <p> — Cette résolution est bien grave , reprit M. Tréal ; car vous n'ignorez pas, ma chère Claire, quels sont les devoirs rigoureux attachés à la vie monastique. </p>
+        <p> — Non, je ne les ignore pas. J'ai vu à l'œuvre mes chères institutrices du couvent des Oiseaux. J'ai pu admirer leur foi, leur piété, leur dévouement ; je n'ai d'autre ambition que de marcher sur leurs traces. </p>
+        <p> — Il se mêle peut-être un peu d'enthousiasme à vos idées, répondit l'abbé; mais, quoi qu'il en soit, avant de prendre un parti définitif, il vous faut, mon enfant, subir au moins une année d'épreuves, qui nous assure que votre résolution n'a pas été prise avec légèreté ou avec une précipitation regrettable en toute circonstance, et dans celle-ci surtout. </p>
+        <p> — Je me soumettrai à ce que vous m'ordonnerez, répondit Claire. Mais, ma mère, ajouta-t-elle en s'agenouillant devant Mme de Rives, ma mère, me donnez-vous votre consentement plein et entier ? Ah ! s'il en est ainsi, que je n'entre pas dans une vie nouvelle sans recevoir votre bénédiction. </p>
+        <p> — Je te bénis, ma fille chérie, dit la vicomtesse en étouffant ses sanglots. Tu étais toute ma joie, tout mon bonheur ; mais Dieu t'appelle, je m'incline devant sa volonté... » </p>
+        <p> Mme de Rives s'interrompit, brisée par l'émotion, et Claire se jeta dans les bras de sa mère. Toutes les deux alors confondirent leurs larmes, pendant que, fort émus eux-mêmes, l'abbé Tréal et Noémi contemplaient ce touchant tableau. </p>
+        <p> Mais bientôt le vénérable pasteur fit entendre sa voix toujours respectée, pour demander quelque attention afin de concerter les mesures à prendre. </p>
+        <p> Il fut décidé que l'abbé Tréal annoncerait lui-même à M. de Kervoz qu'il ne devait pas espérer de conclure le mariage de Claire avec M. de Carnoët; que pour Noémi, tout en assurant son père de son obéissance, elle le suppliait de reculer son union au moins d'une année, en fondant cette demande sur, sa grande jeunesse et sur son extrême désir de ne pas encore quitter sa tante et sa cousine. </p>
+        <p> Après avoir donné quelques autres conseils fort sages sur la ligne de conduite à suivre envers M. de Kervoz, le curé de Sainte-Croix se retira. </p>
+      </div>
+      <div title="XXII" type="chapter">
+        <p> XXII </p>
+        <p> Peindre la colère de M. de Kervoz, lorsque, quelques jours plus tard, l'abbé Tréal lui annonça les intentions de Claire et de Noémi, serait chose impossible. Jamais peut-être le fougueux châtelain n'était entré dans une si grande fureur. Il alla jusqu'à accuser le vénérable curé, et lui reprocher de soutenir le fanatisme des jeunes filles. </p>
+        <p> Le bon prêtre ne releva pas cette étrange assertion, et n'entreprit point de prouver au gentilhomme que lui seul avait tort, puisque avant le bonheur de sa nièce il cherchait le sien propre. Il laissa passer l'orage, et remit à plus tard une explication décisive. </p>
+        <p> A peine seul, M. de Kervoz fit venir sa fille, et lui intima l'ordre de se préparer à épouser, dans un mois, le baron de Ferville. En vain Noémi voulut parler. </p>
+        <p> « Je n'écouterai rien, dit M. de Kervoz. Il est au moins certain que je serai obéi par ma fille. Quant à l'ingrate que j'aimais comme mon enfant, je saurai la punir ainsi qu'elle le mérite. » </p>
+        <p> Il n'y avait pas moyen de répliquer ; Noémi dut se soumettre. </p>
+        <p> « Ne t'afflige donc pas, lui dit Claire, lorsqu'elles furent toutes deux réunies dans la chambre de Mme de Rives. Tu n'as pas d'éloignement pour cette union; tu seras heureuse, je te le promets. Tu es trop bonne et trop pieuse pour que Dieu ne te bénisse pas. </p>
+        <p> — Mais, objecta Noémi, j'aurais tant voulu passer encore quelque temps avec toi! A peine sommes-nous réunies, qu'il faut nous séparer de nouveau. </p>
+        <p> — Nous ne serons pas séparées, répondit Claire, puisque M. de Ferville habite Quimperlé. Nous nous verrons très-souvent... </p>
+        <p> — N'importe, je ne serai plus libre... </p>
+        <p> — Il faut de la raison, mon enfant, interrompit Mme de Rives. Comme rien de sérieux ne s'oppose à ton mariage, tu ne dois point contrarier ton père, qui pense assurer ton bonheur. Puisque Claire, hélas ! doit lui résister, que de ta part du moins il trouve l'obéissance à laquelle il a droit. » </p>
+        <p> Noémi ne répondit pas. Elle se retira, toute rêveuse, dans sa chambre. Abandonnons-la pour quelques moments à ses préoccupations, pour savoir quel était l'époux qui lui était destiné. </p>
+        <p> De bonne heure orphelin, le baron Edmond de Ferville avait été élevé par un oncle maternel, qui, pénétré de ses devoirs, avait donné à son pupille la meilleure éducation. Le jeune homme répondit assez dignement à de tels soins ; toutefois ses principes religieux manquaient de solidité. M. de Kervoz n'était pas homme à voir là un grand mal, et il ne pesa pas assez sérieusement les conséquences si graves qui en pouvaient résulter. </p>
+        <p> M. de Ferville avait vingt-trois ans. Sa fortune était de cinquante mille francs de rentes; il était intelligent, et il avait beaucoup de belles qualités de cœur : le châtelain ne mit pas en doute que Noémi serait heureuse. </p>
+        <p> Le jeune baron habitait à Quimperlé le vieil hôtel de sa famille. En outre, plusieurs de ses terres, ainsi qu'un fort joli château qu'il possédait, confinaient presque aux propriétés de M. de Kervoz ; celui-ci ne devait donc pas être éloigné de sa fille, considération qui fut encore pour lui d'une grande importance. </p>
+        <p> Une justice à rendre à M. de Ferville, c'est qu'en sollicitant la main de Noémi il était surtout guidé par le respect et, l'estime que lui avaient inspirés les vertus de la jeune fille. La douceur de Mlle de Kervoz, sa modestie, sa piété, bien plus que sa fortune, avaient vivement impressionné le baron : tant il est vrai que les vertus chrétiennes forcent à l'admiration ceux mêmes qui n'ont pas le courage de s'avouer chrétiens ! </p>
+        <p> M. de Kervoz poussa activement les formalités du mariage, et, un mois après sa dernière conversation sérieuse avec sa fille, Noémi et Edmond recevaient, dans l'église Sainte-Croix, la bénédiction nuptiale, donnée par le curé lui-même, tandis que Claire, agenouillée sur les dalles du sanctuaire, élevait toute son âme à Dieu, et le suppliait de veiller sur le bonheur de sa cousine ! </p>
+      </div>
+      <div title="XXIII" type="chapter">
+        <p> XXIII </p>
+        <p> Laissons s'écouler une année, pendant laquelle aucun événement d'un grand intérêt n'est survenu. </p>
+        <p> Claire a soutenu sans faiblesse toutes les épreuves qui lui ont été imposées. Il n'est qu'une voix dans le château et les chaumières environnantes pour louer la modestie et la bonté de la jeune fille. M. de Kervoz lui-même, malgré tout le ressentiment qu'il garde à sa nièce pour avoir résisté à ses desseins, ne peut, au fond de son cœur, s'empêcher d'admirer son angélique conduite. Mais malheureusement il est loin encore de vouloir permettre qu'on lui parle des vœux les plus chers de Claire. </p>
+        <p> Au jour où nous sommes arrivés, le châtelain est bien heureux. Depuis trois semaines il est grand-père d'un ravissant petit garçon, et, pour la première fois depuis la naissance de son fils, Noémi doit venir passer l'après-midi au château. </p>
+        <p> Mme de Rives et Claire n'étaient pas moins impatientes que M. de Kervoz de voir la jeune mère; aussi, dès que la voiture de M. de Ferville parut au bout de l'avenue, toutes deux s'empressèrent au-devant de Noémi. </p>
+        <p> Avec quelles exclamations de joie elle fut reçue ! Avec quels soins le cher nouveau-né fut enlevé des bras de sa nourrice, pour passer successivement dans ceux de son grand-père, de Mme de Rives et de Claire ! Que de choses on avait à se dire, et combien le temps passa vite ! </p>
+        <p> Après le dîner, pendant que Noémi et sa cousine s'occupaient, ainsi que la vicomtesse, du petit Paul, c'était le nom de l'enfant, le baron s'adressa tout à coup à M. de Kervoz. </p>
+        <p> « Cher père, lui dit-il, j'ai à vous soumettre un projet qui, je le crois, obtiendra toute votre approbation. </p>
+        <p> — J'écoute, Edmond : qu'avez-vous à m'apprendre ? </p>
+        <p> — Je suis las de la vie calme et tranquille que je mène. Il me faut des occupations sérieuses, et d'ailleurs j'ai pensé qu'en plaçant mes capitaux dans la haute industrie je ne tarderais pas à doubler mes revenus. </p>
+        <p> — Et avez-vous donc besoin d'être plus riche, Edmond ? </p>
+        <p> — Mais, cher père, n'ai-je pas déjà un fils ? Je veux que plus tard il soit riche, très-riche, et je veux encore donner à ma chère Noémi tout le luxe auquel elle peut prétendre... </p>
+        <p> — Fort bien. Je vous ferai cependant observer que ma fille n'a pas de goûts somptueux. Je vous dirai encore que, si vous sentez réellement la nécessité de sérieuses occupations, vous pourriez, il me semble, mettre toute votre activité au service de vos propriétés, ainsi que je l'ai fait. </p>
+        <p> — Cela me serait impossible, dit le baron ; jamais je n'ai pu rien comprendre aux travaux agricoles... Un de mes amis de Lorient m'a écrit qu'il était chargé de la formation d'une société maritime, et il me demande si je veux adhérer à ce projet, qu'il me développe en grand et que je vous soumettrai. En deux mots, il s'agit de la construction de plusieurs bâtiments, destinés à trafiquer entre l'Amérique et la France. Les bénéfices doivent être considérables, et la mise de fonds relativement minime. </p>
+        <p> — Vous auriez tort, mon cher Edmond, croyez-moi, de vous lancer dans cette entreprise. Rien n'est moins certain que les opérations maritimes ; car, plus que toutes autres, elles sont soumises à mille chances mauvaises. Certes, je ne nie pas que bon nombre d'armateurs ne s'enrichissent ; mais combien en est-il aussi dont les espérances sont déçues ? Puisque vous avez déjà une fortune indépendante, ne la livrez pas à la merci du hasard. Croyez-en mon expérience, il pourrait vous arriver malheur, et alors quel cruel chagrin pour nous ! Y avez-vous réfléchi ? Avez-vous songé à toutes les conséquences de la détermination qu'on veut vous faire prendre ? </p>
+        <p> — Vous vous alarmez facilement, cher père, répondit M. de Ferville d'un ton contraint; mais veuillez être assuré que, si je me décide à faire partie de l'entreprise dont il s'agit, je saurai m'entourer de toutes les garanties possibles. </p>
+        <p> — Je vois, Edmond, répliqua M. de Kervoz, qu'avant de me demander mon avis vous étiez parfaitement fixé sur l'affaire dont vous venez de m'entretenir. Je ne pourrais, je le crains bien, changer votre résolution... Pourquoi alors avoir demandé mes conseils...? » </p>
+        <p> Le baron ne répondit pas, et cette journée, commencée si joyeusement, finit par un nuage de tristesse. </p>
+        <p> En aidant sa fille à monter en voiture, M. de Kervoz lui conseilla tout bas de combattre autant qu'elle le pourrait la résolution de son mari. Malheureusement, nous le savons, Noémi ne résistait jamais à une volonté fortement exprimée. </p>
+        <p> M. de Kervoz et M. de Ferville se séparèrent donc assez peu satisfaits l'un de l'autre ; car pour la première fois ils se trouvaient en désaccord. </p>
+      </div>
+      <div title="XXIV" type="chapter">
+        <p> XXIV </p>
+        <p> Quelques jours après, Noémi revint à Kervoz. La jeune femme était triste et contrainte, et ce fut avec un peu d'embarras qu'elle répondit aux questions amicales de sa famille. </p>
+        <p> M. de Kervoz, tout à la joie d'embrasser sa fille, ne remarqua pas d'abord le nuage répandu sur le front de Noémi ; mais, après les premiers épanchements, il s'empressa de demander si M. de Ferville avait abandonné ses projets. </p>
+        <p> Noémi répondit d'une manière évasive à cette question. </p>
+        <p> M. de Kervoz allait énumérer les chances de ruine attachées à la réalisation de l'entreprise, lorsqu'on vint le prier de se rendre tout de suite près de son ami le marquis de Castenec, qui avait à lui faire part d'une affaire extrêmement pressée. Le gentilhomme se hâta de suivre le messager. </p>
+        <p> « Nous reprendrons notre conversation plus tard, dit-il à sa fille, car j'espère bien que tu nous donnes la journée tout entière. » </p>
+        <p> A peine M. de Kervoz fut-il sorti, que Noémi se jeta dans les bras de Mme de Rives. </p>
+        <p> « Qu'as-tu donc ? » demandèrent à la fois, tout effrayées, la vicomtesse et Claire. </p>
+        <p> Mais la jeune femme sanglotait et ne répondait pas. </p>
+        <p> Pourquoi ce violent chagrin ? reprit vivement Mme de Rives. </p>
+        <p> — Hélas ! je vais vous quitter ! dit Noémi. </p>
+        <p> — Nous quitter ! s'écrièrent Claire et sa mère. </p>
+        <p> — Oui ! demain je pars pour Lorient, où j'habiterai désormais. </p>
+        <p> — Mais ce n'est pas possible ! dit Claire, au comble de la surprise. </p>
+        <p> — Ce n'est que trop vrai. Déjà mon mari a envoyé à Lorient quelques meubles dont il ne veut pas se séparer. Notre hôtel de Quimperlé restera à la garde du vieux Germain. Aujourd'hui ma femme de chambre termine les préparatifs indispensables de notre départ, et demain... » </p>
+        <p> Noémi ne put achever : un déluge de larmes inondait son visage. </p>
+        <p> « Mais comment M. de Ferville a-t-il pu se décider à exécuter ainsi ses projets sans en avertir au moins M. de Kervoz ? demanda la vicomtesse. </p>
+        <p> — Vous savez, ma tante, que mon père et mon mari se sont séparés un peu fâchés l'autre jour. Edmond m'a dit que, mon père ne voulant entendre parler de rien, il valait mieux agir sans Lui demander de nouveaux conseils. « Je suis bien libre, a-t-il ajouté, de faire ce que je crois le plus à propos pour nos intérêts. M. de Kervoz m'en voudra d'abord; mais le succès le désarmera.» </p>
+        <p> — Et tu as ainsi consenti ! dit Claire avec étonnement. </p>
+        <p> — Que pouvais-je faire ? répliqua Noémi. </p>
+        <p> — Mais, répondit Claire, tu aurais pu, ce me semble, prier M. de Ferville de différer de quelque temps au moins son départ. </p>
+        <p> — Et, ajouta Mme de Rives, la réflexion lui aurait fait entrevoir que, dans la carrière où il s'engage, toutes les probabilités ne sont pas pour le succès. Mais pourquoi te parler ainsi ? Cela ne peut qu'augmenter ton chagrin; car tu croiras, si le malheur vous frappe, que tu eusses pu l'éviter en agissant autrement ; tandis que, si je m'en rapporte au caractère de M. de Ferville, je suis persuadée que cela t'a été impossible. </p>
+        <p> — C'est bien vrai, ma tante, dit Noémi, heureuse de penser que la vicomtesse du moins ne lui reprocherait pas sa faiblesse de volonté. Oui, cela est bien vrai. Edmond est le meilleur des hommes ; mais il a une volonté à laquelle on ne saurait résister lorsqu'il l'a formellement exprimée. » </p>
+        <p> Claire, malgré son bon cœur et sa tendresse pour sa cousine, ne put s'empêcher de penser que la faiblesse de Noémi pourrait bien être la cause de graves malheurs. </p>
+        <p> « D'ailleurs, reprit Mme de Rives, comme de bons résultats peuvent suivre les opérations de M. de Ferville, il ne faut pas nous hâter de condamner sa précipitation. Dans tout ceci je ne vois que deux choses assez graves : le manque de déférence de ton mari envers mon frère, et la colère de M. de Kervoz, lorsqu'il apprendra votre départ. Il est à craindre que son ressentimentne dure longtemps... </p>
+        <p> — Oh ! ma tante, et toi, Claire, s'écria la jeune femme, vous prierez pour nous, n'est-ce pas ? vous tâcherez d'apaiser mon père ! </p>
+        <p> — En douterais-tu, chère cousine ? répondit Mlle de Rives en pressant les mains de Noémi. </p>
+        <p> — Tu vas sans doute annoncer à ton père ton prochain départ ? demanda la vicomtesse. </p>
+        <p> — Non, ma tante ; oh ! non, je craindrais trop de le voir entrer dans un de ces emportements qui me font peur. </p>
+        <p> — Tu ne peux cependant pas partir sans avoir fait tes adieux à ton père, dit vivement Claire. </p>
+        <p> — Je vais l'embrasser, dit Noémi, et dans mes baisers je mettrai toute mon âme... Dieu sait ce que je souffre de me séparer de lui et de vous, que j'aime tant... Mais il serait au-dessus de mes forces de quitter mon père encore tout agité par la colère... </p>
+        <p> — Ceci est de la faiblesse, reprit énergiquement Claire. Songe donc, Noémi, que mon oncle ne pourra encore qu'être plus fâché contre ton mari, si tu pars sans le lui avoir annoncé. Il pensera que M. de Ferville t'a commandé d'en agir ainsi... Il faut absolument que tu fasses tes adieux à ton père. </p>
+        <p> — Cela me serait impossible ! s'écria Noémi. La colère et les reproches de mon père me tueraient ! » </p>
+        <p> Claire regarda sa mère, et ce regard voulait dire à Mme de Rives d'essayer de vaincre la pusillanimité de la jeune femme. </p>
+        <p> « J'essaierais en vain, dit la vicomtesse, répondant au regard de sa fille. Tout ce que je puis faire, c'est d'employer mon influence sur mon frère, afin qu'il ne se laisse pas emporter à quelque extrémité fâcheuse, lorsqu'il se verra abandonné à la fois par sa fille et par son fils. </p>
+        <p> — Que dites-vous, ma tante ? abandonné par sa fille ! oh ! cela est affreux ! Vous me punissez trop de ma faiblesse. Vous savez si bien quel est mon amour pour mon père ! </p>
+        <p> — Que cet amour soit donc fort... » dit Claire. Elle allait continuer, mais M. de Kervoz entra dans le salon. </p>
+        <p> « Je reviens en hâte. Il me tardait d'être près de ma fille, dit-il. </p>
+        <p> — Et moi, je vais vous quitter, mon bon père, dit Noémi d'une voix tremblante. </p>
+        <p> — Me quitter ! Mais ne m'as-tu pas annoncé que tu me donnais toute la journée ? </p>
+        <p> — Hélas ! il me faut absolument rentrer à Quimperlé. </p>
+        <p> — Quoi donc te presse ainsi ? </p>
+        <p> — Je ne puis pas laisser mon fils si longtemps seul, répondit Noémi avec effort. </p>
+        <p> — Va ; je ne te retiens plus, répliqua M. de Kervoz, froissé du ton de sa fille, dont il ne comprenait pas le sens. </p>
+        <p> — Mon père, ne me reconduirez-vous pas ? </p>
+        <p> — Je te reconduirai certainement, » dit avec ironie M. de Kervoz. </p>
+        <p> Et, prenant le bras de sa fille, il se dirigea avec elle vers la voiture, suivi de Claire et de Mme de Rives. </p>
+        <p> « Ne m'en veuillez pas, mon bon père, dit Noémi les larmes aux yeux. Oh ! si vous saviez ce que je souffre... Vous ne me répondez pas: vous croyez qu'un caprice seul abrège les instantsque je devais vous donner : je vous en supplie, ne pensez pas cela. » </p>
+        <p> M. de Kervoz se taisait toujours. On était arrivé près de la voiture, et Noémi allait y monter, lorsque, se précipitant dans les bras de son père, elle l'étreignit de toutes ses forces, et au milieu de ses sanglots lui dit : </p>
+        <p> « Au revoir ! au revoir ! car je reviendrai souvent... N'en veuillez pas à Edmond, et aimez-nous toujours !... » </p>
+        <p> Puis, après avoir rapidement embrassé Mme de Rives et Claire, la jeune femme s'élança dans sa voiture, qui partit au galop des chevaux, avant que M. de Kervoz, étonné de l'agitation et des paroles de sa fille, eût pu rassembler ses idées. </p>
+      </div>
+      <div title="XXV" type="chapter">
+        <p> XXV </p>
+        <p> Plusieurs mois se passèrent. M. de Kervoz se montrait sombre et préoccupé. Il avait défendu qu'on parlât désormais devant lui de M. de Ferville et de Noémi. Ainsi que l'avaient prévu Mme de Rives et Claire, le vieux gentilhomme s'était trouvé aussi froissé de la manière dont sa fille l'avait quitté que du peu d'égards que lui avait témoigné son gendre. </p>
+        <p> Vainement les jeunes époux écrivaient-ils ; vainement la vicomtesse et Claire essayèrent-elles d'atténuer les torts de M. de Ferville, en les rejetant, ce qui était vrai, sur une étourderie dont il se repentait sans doute, M. de Kervoz se montrait inflexible. </p>
+        <p> Noémi avait plusieurs fois envoyé son fils au château. A chaque fois le gentilhomme s'était montré heureux d'embrasser son petit-fils, mais n'avait témoigné nul désir de revoir sa fille. Peut-être que si Noémi eût accompagné l'enfant et qu'elle-même l'eût placé dans les bras de son grand-père, peut-être, disons-nous, M. de Kervoz se serait-il laissé attendrir et eût-il oublié ses griefs. Mais la jeune femme, craignant des reproches, ne venait point au château, et son mari ne voulait pas s'y présenter avant d'avoir obtenu des résultats avantageux. </p>
+        <p> Voilà comment de la timidité et une fierté mal placée, d'un côté, comment un ressentiment trop prolongé, de l'autre, amenèrent la désunion dans une famille jadis si unie. </p>
+        <p> La vie au château se serait écoulée fort tristement, si Claire et sa mère n'en avaient su rompre la monotonie par une activité soutenue. </p>
+        <p> Elles étaient bien aidées dans leurs travaux par l'indifférence dans laquelle se renfermait M. de Kervoz, qui semblait être étranger à ce qui l'entourait. </p>
+        <p> Tout en déplorant l'état de son oncle et en s'étudiant, dans la mesure de ses forces, à le distraire de ses sombres pensées, Claire n'en mettait pas moins à profit la plus grande liberté dont elle jouissait, pour accomplir ses devoirs religieux. </p>
+        <p> C'est ainsi que, chaque matin, elle faisait, accompagnée soit de sa mère, soit de la femme de chambre de la vicomtesse, personne pieuse et sûre, le trajet de Kervoz à Quimperlé, pour assister au service divin. </p>
+        <p> Presque toujours après la messe, elle recevait une instruction du bon abbé Tréal, qui lui donnait aussi la liste des pauvres familles qu'elle devait secourir. Ces œuvres accomplies, Claire revenait au château pour le déjeuner. Ensuite elle aidait sa mère, étudiait ou se promenait un peu; puis elle visitait quelques chaumières des environs, s'enquérant des infortunes à soulager, des malades à consoler, des vertus à récompenser, des fautes à reprendre. </p>
+        <p> Claire était si charitable, si bonne, si simple, ses paroles étaient si douces et si touchantes, soit qu'elle louât, soit qu'elle fît une réprimande, que bientôt dans tous les environs on ne la nomma plus que « l'ange du château. » </p>
+        <p> Ce nom était mérité, et la jeune fille était bien réellement pour chacun un bon ange. D'où vient donc que, s'appliquant à répandre le bonheur autour d'elle, seule elle se montrait souvent mélancolique ? C'est que son cœur aspirait à une vie encore plus sainte que celle qu'elle pratiquait, à un dévouement encore plus entier ! </p>
+        <p> Mais l'abbé Tréal avait parlé, et sa parole était toujours obéie. Le vénérable curé de Sainte Croix avait pensé que la présence de la jeune fille était encore nécessaire au château. Glaire refoulait donc au plus profond de son cœur les désirs qui le remplissaient. En attendant, elle tâchait de se rendre de plus en plus digne de les réaliser. </p>
+        <p> Mme de Rives et sa fille s'étaient trois fois déjà rendues à Lorient, afin de tâcher d'amener M. de Ferville à se réconcilier avec son beau-père ; mais leurs efforts avaient été inutiles. Le jeune homme avait parfaitement reçu sa tante et sa cousine ; il leur avait dit combien il était touché de leur amitié ; mais en même temps il leur avait déclarésa ferme intention de ne point retourner à Kervoz avant d'avoir réalisé ses belles espérances. </p>
+        <p> « Cela ne tardera pas, du reste, disait-il, car mes affaires sont dans la meilleure voie. » </p>
+        <p> Il est inutile de dire que Noémi était charmée de chaque visite de Mme de Rives et de Claire. Elle souhaitait bien vivement voir cesser la mésintelligence qui la séparait de son père; mais elle ne pouvait se décider à prendre sur elle de presser la réconciliation. </p>
+        <p> Enfin vint une heureuse circonstance, dans laquelle la vicomtesse et Claire crurent avoir trouvé le moyen de fléchir la rigueur de M. de Kervoz, tout en ménageant la fierté de M. de Ferville ; et, après en avoir conféré avec Noémi, elles se hât��rent de tout préparer pour amener le résultat tant souhaité. </p>
+      </div>
+      <div title="XXVI" type="chapter">
+        <p> XXVI </p>
+        <p> Une après-midi, M. de Kervoz, triste et sombre, se tenait dans la salle à manger, lorsque Claire vint s'asseoir près de lui. </p>
+        <p> « Ne voulez-vous pas, mon cher oncle, venir faire une petite promenade ? » demanda-t-elle de sa voix la plus douce. </p>
+        <p> M. de Kervoz ne répondit que par un signe de tête négatif. </p>
+        <p> « Voyez donc, reprit la jeune fille sans se décourager, combien le ciel est pur et combien il fait bon respirer l'air tout chargé de suaves parfums des fleurs... Croyez-moi, venez jusqu'au bosquet de la rivière... Dites, le voulez-vous ? j'en aurais tant de plaisir ! </p>
+        <p> — Si cela peut te satisfaire, allons, » répliqua d'un ton distrait M. de Kervoz, en prenant le bras de la jeune fille. </p>
+        <p> C'était, en effet, une belle matinée de printemps. Dans la nature, tout paraissait revenir à une vie nouvelle. Les arbres étaient déjà touffus; les fleurs ouvraient leurs éclatants calices; les insectes bourdonnaient dans l'air, et les oiseaux recommençaient leurs joyeux concerts. Le soleil, un gai soleil des premiers jours d'avril, faisait resplendir ses rayons d'or dans les flots tranquilles de la Laita. </p>
+        <p> Un si agréable spectacle ne pouvait que disposer l'âme aux plus douces émotions; pourtant M. de Kervoz paraissait y rester insensible. D'un pas lent, il arriva au bosquet de la rivière, sous lequel il s'assit aux côtés de Claire. </p>
+        <p> Après un moment de silence, la jeune fille lui demanda : </p>
+        <p> « Est-ce que cette belle matinée ne vous inspire rien, mon oncle ? </p>
+        <p> — Que veux-tu dire par là ? </p>
+        <p> — Qu'il vous serait peut-être bien doux d'avoir à vos côtés une autre compagne que moi... </p>
+        <p> — Assez sur ce sujet, Claire. Tu sais bien que tu parles d'une ingrate. </p>
+        <p> — Oh ! je puis vous assurer que vous vous trompez, cher oncle. </p>
+        <p> — Je te le répète, n'en parlons plus. </p>
+        <p> — Pour aujourd'hui, je vous en prie, laissez-moi vous dire que la pauvre Noémi souffre bien cruellement d'être éloignée de vous. </p>
+        <p> — Je n'en crois rien. Qu'a-t-elle fait pour me le prouver ? </p>
+        <p> — Mais, mon bon oncle, vous savez que vous étiez fort outré contre elle ; puis, vous le savez encore, Noémi est si timide, qu'elle n'a osé affronter votre colère. </p>
+        <p> — Si elle m'eût aimé, elle n'aurait pu se résoudre à me traiter ainsi qu'elle l'a fait, et elle aurait bien su qu'à sa vue seule toute ma colère serait tombée. </p>
+        <p> — Bien vrai ? demanda vivement Claire. </p>
+        <p> — Oui, répondit M. de Kervoz, sans remarquer l'empressement de la jeune fille, et poursuivant le cours de ses idées. Oui, ma colère serait tombée ; car, malgré son ingratitude, malgré ma ferme volonté de l'oublier, je l'aime toujours... </p>
+        <p> — Embrassez-la donc ! » s'écria Claire, qui, après être allée doucement à l'entrée du bosquet, ramenait la tremblante Noémi et la plaçait dans les bras de son père. </p>
+        <p> Surpris, troublé, ému par les larmes et les caresses de sa fille, par les douces paroles de Claire, en vain M. de Kervoz voulait résister. Il fut bientôt vaincu, et un baiser tout rempli d'amour paternel scella la réconciliation. </p>
+        <p> Mais ce n'était pas assez. </p>
+        <p> « Serai-je la seule que vous appellerez près de vous, mon bon père ? demanda Noémi de sa voix la plus tendre. Et Edmond ? » </p>
+        <p> Le front de M. de Kervoz se rembrunit. </p>
+        <p> « Si vous saviez comme nous parlions souvent de vous, se hâta de dire la jeune femme. Oui, nous avons été bien coupables ; mais, après avoir agi si mal envers vous, Edmond n'a voulu vous demander son pardon qu'en vous annonçant en même temps que ses travaux et ses efforts avaient été récompensés. Aujourd'hui le succès lui a souri, et il serait tout à fait heureux si votre présence ne lui manquait. Il attend un mot de votre part: refuserez-vous de le prononcer ? Vous direz peut-être qu'il a trop écouté sa fierté ; mais en ma faveur, et comme vous m'avez pardonné, vous lui pardonnerez, n'est-ce pas ? Vous ne sauriez séparer votre fille de votre fils... » </p>
+        <p> Ces paroles n'étaient pas achevées, que Mme de Rives et M. de Ferville pénétraient sous le berceau. </p>
+        <p> « Pardonnez-moi, cher père, dit le jeune homme en tendant les mains à M. de Kervoz. Je n'ai pas répondu à votre tendresse et à votre sollicitude pour moi; mais, au respect que je vous témoignerai, vous connaîtrez mon repentir. » </p>
+        <p> Que pouvait répondre M. de Kervoz ? Moitié de gré, moitié doucement forcé par Noémi et Claire, il serra dans ses mains les mains que lui tendait son gendre, et tout fut oublié. </p>
+        <p> Dire la joie qui anima le reste de la journée serait impossible. On était si heureux de se revoir ! si heureux d'être de nouveau unis ! Que de choses à se dire ! que de projets à former ! Puis avec quelle satisfaction le vieux gentilhomme serrait dans ses bras le petit Paul, que venait d'amener sa nourrice ! </p>
+        <p> Choyé, embrassé, l'enfant, lui aussi, semblait être au comble du bonheur, et il l'exprimait vraiment bien en ne se lassant pas de répéter les quelques mots que, depuis un mois déjà, il prononçait, mots qui provoquaient, on le pense, un concert de louanges à l'adresse du bébé. </p>
+        <p> M. de Kervoz, Noémi et son mari remerciaient mille fois Mme de Rives et Claire de leur affectueuse intervention. </p>
+        <p> Enfin il fallut se séparer, mais non sans s'être promis de se revoir souvent, bien souvent... </p>
+        <p> Le soir, en embrassant Claire, M. de Kervoz lui dit : </p>
+        <p> « Je ne souhaite qu'une chose : que tu sois aussi heureuse que tu m'as rendu heureux. » </p>
+        <p> La jeune fille ne répondit pas, mais elle garda cette parole dans son cœur. </p>
+      </div>
+      <div title="XXVII" type="chapter">
+        <p> XXVII </p>
+        <p> Pendant près d'une année, l'harmonie la plus parfaite régna entre M. de Kervoz et M. de Ferville. La naissance d'un second enfant, d'une jolie petite fille, avait charmé le vieux gentilhomme, qui peu à peu avait perdu beaucoup de ses préventions contre le genre d'occupations qu'avait adopté le jeune baron. Souvent il se rendait à Lorient et passait plusieurs jours près de Noémi, accompagné de Claire ou de Mme de Rives. Ces visites étaient toujours une source de joie pour la famille. </p>
+        <p> Il y avait près de deux ans que M. de Ferville se livrait à des spéculations maritimes. Non content de faire partie d'une société d'armateurs, il avait aussi armé quelques navires pour son compte personnel. </p>
+        <p> Le jour où nous sommes arrivés, le jeune homme s'entretenait vivement avec son caissier, qu'il avait appelé dans son cabinet. </p>
+        <p> « Êtes-vous bien sûr de ce que vous m'avez annoncé, Dumont ? lui disait-il. </p>
+        <p> — Malheureusement, oui, monsieur le baron. L'année est mauvaise pour tous les armateurs, et en particulier pour vous. Les tempêtes qui n'ont cessé de régner ont causé, tant en France qu'à l'étranger, le naufrage d'un nombre énorme de navires, parmi lesquels figurent deux des vôtres. </p>
+        <p> — Et tout a été entièrement perdu ? </p>
+        <p> — Non. Un trois-mâts s'étant brisé sur les rochers de Croix, la plus grande partie de sa cargaison a pu être sauvée, mais elle se trouve fort avariée, et par conséquent ne pourra compenser la perte du navire. » </p>
+        <p> M. de Ferville devint très-pâle. </p>
+        <p> « Et à combien pensez-vous que doive se monter la perte totale ? </p>
+        <p> — Au moins à six cent mille francs. </p>
+        <p> — Six cent mille francs ! </p>
+        <p> — Peut-être davantage, reprit l'impassible Dumont, car les autres bâtiments ne sont pas arrivés, et qui sait s'ils reviendront sans accident ? » </p>
+        <p> M. de Ferville se tut un moment. </p>
+        <p> « Avez-vous fait le compte général que je vous ai demandé ? reprit-il. </p>
+        <p> — Oui, Monsieur, le voici. En laissant de côté les chances à courir avec les bâtiments que nous attendons, votre fortune personnelle se règle ainsi : un million de capital, et six cent mille francs à payer. Il nous reste donc juste quatre cent mille francs. </p>
+        <p> — C'est bien, Dumont ; laissez-moi ce compte ; nous en reparlerons. Je crois que je puis être sûr de votre discrétion. </p>
+        <p> — Monsieur le baron sait que je lui suis tout dévoué. </p>
+        <p> — Oui... mais, allez, Dumont. Je vous appellerai si j'ai besoin de vous. » </p>
+        <p> Le caissier s'inclina et sortit. </p>
+        <p> « Quel terrible coup ! s'écria M. de Ferville lorsqu'il fut seul. Plus de la moitié de ma fortune déjà engloutie ! et Dieu sait si je puis compter sur ce qui me reste, car le sort qui me poursuit peut également m'enlever mes autres navires... Et les comptes de notre société qui se sont aussi liquidés par des pertes !... Ah ! que j'ai eu tort de ne pas écouter M. de Kervoz !... Si je ne puis surmonter ces désastres, comment les apprendre à Noémi et à son père ?... » </p>
+        <p> Accablé par cette situation, il se laissa tomber la tète entre les mains ; mais bientôt se redressant avec énergie : </p>
+        <p> « Pourquoi me désespérer ainsi? dit-il; cela est indigne d'un homme d'honneur et de courage. Avec du travail et de la persévérance j'éviterai de plus grands malheurs. Maintenant il ne me reste qu'à ménager Noémi, en lui cachant autant que possible ce qui m'arrive. Je ne veux pas que sa tranquillité soit troublée. » </p>
+        <p> Ramené à l'espérance par ces courageuses réflexions, M. de Ferville rejoignit son caissier, afin de chercher avec lui le moyen de combler au plus tôt toutes les pertes, pour prévenir un ébranlement de crédit. </p>
+      </div>
+      <div title="XXVIII" type="chapter">
+        <p> XXVIII </p>
+        <p> Réunis dans le salon du château, M. de Kervoz, l'abbé Tréal, Mme de Rives et Claire parlaient avec animation. </p>
+        <p> « Ne voudrez-vous donc pas me voir heureuse, mon oncle ? » dit Claire en appuyant sur ses paroles. </p>
+        <p> M. de Kervoz se troubla, car sa nièce lui rappelait ses propres souhaits. </p>
+        <p> « Oui, répondit-il enfin, je veux te voir heureuse, et pour cela je crois ne rien épargner. Est-ce que depuis longtemps je ne te laisse pas libre d'aller chaque jour où tu le désires, bien que mes idées s'y opposent formellement ? Est-ce que je viens entraver aucune des œuvres de charité que tu entreprends, bien que quelques-unes me paraissent être dues à des sentiments exagérés ? Je suis donc aussi tolérant que possible ; ainsi ne m'en demande pas davantage. </p>
+        <p> — Mon bon oncle, reprit Claire, tant que vous avez été éloigné de votre fille, j'aurais cru être ingrate en me séparant de vous; mais maintenant que Noémi a recouvré votre amitié, vous et ma mère ne serez pas seuls. Permettez donc que je suive les penchants de mon cœur : laissez-moi obéir à Dieu. » </p>
+        <p> M. de Kervoz ne répondit pas. </p>
+        <p> « Mon frère, dit Mme de Rives, depuis longtemps, malgré le chagrin que j'éprouverai à me séparer de ma fille, je lui ai donné mon consentement : serez-vous donc plus inflexible que moi ? Souvenez-vous qu'en toute chose je vous ai consulté, et que j'ai toujours suivi vos conseils, car je vous devais beaucoup de reconnaissance. Pour la première fois nous nous trouvons en désaccord; mais il s'agit du bonheur de Claire: voudriez-vous donc la voir souffrir ? </p>
+        <p> — Réfléchissez, dit à son tour l'abbé Tréal ; depuis deux ans j'éprouve la vocation de Mlle de Rives, et je la reconnais sincère et inébranlable. Rien n'a pu la détourner de ses pieuses pensées. Je crois qu'on ne doit pas plus longtemps mettre obstacle à leur réalisation. Soyez convaincu que dans cette affaire j'ai apporté la plus grande prudence ; ayez foi en mon zèle. Soyez généreux, et, avant de penser à vous-même, songez que vous avez promis de remplacer près de Mlle de Rives le père qu'elle a perdu. </p>
+        <p> — N'ai-je donc pas rempli mes promesses ? demanda vivement M. de Kervoz. </p>
+        <p> — Un bon père doit chercher quelle est la véritable aspiration du cœur de ses enfants, répondit l'abbé Tréal. </p>
+        <p> — Eh bien ! s'écria avec explosion le vieux gentilhomme, je demande encore six mois pour me prononcer d'une manière définitive; si, au bout de ce temps, je reconnais par moi-même que Claire a réellement... sa vocation religieuse... peut-être... ne m'opposerai-je plus... » </p>
+        <p> Et, craignant de nouvelles instances, M. de Kervoz se hâta de quitter le salon. </p>
+        <p> « Encore des délais ! dit douloureusement Mlle de Rives. </p>
+        <p> — C'est plus que je n'aurais jamais attendu de mon frère, dit la vicomtesse. Prenons donc patience : six mois seront bien vite passés. D'ailleurs à cette époque tu seras majeure ; et je pourrais plus efficacement intervenir, si ton oncle s'opposait encore à tes projets. </p>
+        <p> — Votre mère a raison, Claire, dit l'abbé Tréal ; elle adopte le parti le plus sage. Attendez avec patience : Dieu vous tiendra compte des épreuves que vous subissez pour accomplir sa volonté. » </p>
+        <p> Claire, triste et pensive, ne répondit pas. Son âme volait déjà vers le terme qui lui était imposé. </p>
+      </div>
+      <div title="XXIX" type="chapter">
+        <p> XXIX </p>
+        <p> Malgré les précautions prises par M. de Ferville pour dissimuler à son beau-père les désastres qui l'avaient accablé, quelque bruit en vint aux oreilles de M. de Kervoz. </p>
+        <p> Toutes les préventions du gentilhomme se ranimèrent alors, et il essaya de persuader à M. de Ferville d'abandonner au plus tôt les affaires, pour se consacrer uniquement à l'amélioration de ses propriétés. Le baron refusa, et il y était bien forcé, ne voulant pas avouer à son beau-père qu'il n'était plus propriétaire que de nom de la majeure partie de ses terres. Ce refus, dont M. de Kervoz ne connaissait pas le véritable motif, jeta de nouveau quelque froid dans leurs relations, sans cependant aller jusqu'à une brouille complète. </p>
+        <p> Rien de bien saillant ne signala les cinq mois qui s'écoulèrent ensuite. Une seule personne comptait les jours : c'était Claire. Enfin arriva le terme fixé, et déjà la jeune fille suppliait sa mère de rappeler à M. de Kervoz la promesse qu'il avait faite, lorsqu'une lettre fut remise à Mme de Rives. Cette lettre était de Noémi. A peine la vicomtesse y eut-elle jeté les yeux qu'elle devint pâle et tremblante. </p>
+        <p> « Mon Dieu ! que vous annonce-t-on, ma mère ? » demanda Claire avec inquiétude. </p>
+        <p> Incapable de répondre, Mme de Rives tendit la lettre à sa fille. </p>
+        <p> Voici ce qu'écrivait Noémi : </p>
+        <lb/>
+        <p> « Ma bonne tante, </p>
+        <lb/>
+        <p> Un grand malheur nous frappe. Mon mari est ruiné ! Tout lui manque à la fois. Il est désespéré... Moi-même, en songeant a nos enfants, je sens aussi que le désespoir s'empare de mon âme... Mais, au milieu de ma douleur, une chose par-dessus toutes me cause le plus grand effroi : comment annoncer cette nouvelle à mon père ?... O ma tante, je vous supplie de ne pas nous abandonner !... Faites que mon père ne se porte pas contre mon mari à des violences de langage que je redoute ; car une brouille nouvelle, et cette fois définitive, suivrait les reproches... </p>
+        <p> Hélas ! mon mari est accablé par des circonstances que ne pouvaient conjurer toute sa prudence et tous ses efforts. Il a agi ainsi qu'il le devait, et c'est pour conserver intact l'honneur de son nom qu'il en est réduit aux extrémités où il se trouve. </p>
+        <p> Ma tante, et toi, ma chère Claire, unissez-vous pour plaider la cause d'Edmond ; faites que mon père, au lieu de reproches, lui tende la main, et je vous bénirai. </p>
+        <p> Venez près de nous; venez m'aider à supporter le coup cruel sous lequel je suis accablée !... Je ne puis écrire plus longuement ; les larmes remplissent mes yeux ! que Dieu me donne la force de ne pas succomber à ma douleur ! </p>
+        <lb/>
+        <p> NOÉMI. » </p>
+        <lb/>
+        <p> « Pauvre chère cousine ! s'écria Claire après la lecture de cette lettre, comment la servir ? Comment lui être utile ? Oh ! je crains bien que son père ne veuille pas nous écouter. </p>
+        <p> — Je le crains aussi, dit Mme de Rives, ou plutôt j'en suis certaine. Jamais mon frère ne pardonnera à M. de Ferville d'avoir repoussé ses avis. » </p>
+        <p> Pendant longtemps elles cherchèrent le moyen d'annoncer à M. de Kervoz sans l'irriter la triste nouvelle qu'elles venaient d'apprendre, lorsque la femme de chambre de la vicomtesse vint dire à sa maîtresse que le vieux gentilhomme la demandait et qu'il paraissait fort agité. </p>
+        <p> Troublées par ces dernières paroles, Mme de Rives et Claire descendirent au salon. </p>
+        <p> M. de Kervoz s'y promenait, de long en large, dans un état de surexcitation indicible. </p>
+        <p> « Eh bien ! je vous l'avais toujours dit, s'écria-t-il aussitôt qu'il aperçut sa sœur et sa nièce. Voilà où conduisent ces spéculations qui devaient produire de si beaux résultats... Edmond est ruiné !.... ruiné en deux ans à peine ! </p>
+        <p> — Qui vous a appris cela, mon frère ? </p>
+        <p> — Son caissier, qui, effrayé du désespoir où Edmond est plongé, m'écrit pour me prier d'aller à son aide... </p>
+        <p> — Et vous l'écouterez, n'est-ce pas, mon cher oncle ? demanda Claire en donnant à sa voix, déjà si douce, une expression plus sympathique que jamais. </p>
+        <p> — L'écouter ! s'écria M. de Kervoz, je ne serai pas assez fou ! N'ai-je pas, pour prévenir ces malheurs, fait tout ce qui était en mon pouvoir ? Mes conseils ont été repoussés. On a eu plus de foi en sa propre sagesse qu'en mon expérience. Eh bien ! qu'on en subisse les effets ! </p>
+        <p> — Mon frère, dit la vicomtesse, ne voudrez-vous pas vous souvenir qu'Edmond n'est pas seul enveloppé par ce malheur ? </p>
+        <p> — Mon oncle, ajouta Claire, songez à Noémi et à ses enfants. » </p>
+        <p> La colère de M. de Kervoz parut redoubler. </p>
+        <p> « Oui, j'y songe ! s'écria-t-il ; mais c'est pour les mettre à l'abri de nouvelles épreuves. Je sais ce que me commandent mes devoirs de père ; je les remplirai. Noémi et ses enfants trouverontun asile à Kervoz... </p>
+        <p> — Eh quoi ! interrompit Mme de Rives, vous voudriez séparer Noémi de son mari ? </p>
+        <p> — Encore une fois, je sais ce que je dois faire, et rien n'ébranlera mes résolutions. Je pars pour Lorient. </p>
+        <p> — Nous allons vous accompagner, dirent à la fois Mme de Rives et Claire. </p>
+        <p> — Non, non ; votre présence ne peut être utile... </p>
+        <p> — Mon oncle, dit Claire, vous ne voudriez pas nous empêcher de nous rendre près de Noémi. Elle souffre, elle pleure : notre place est à ses côtés. » </p>
+        <p> M. de Kervoz ne répondit point; mais d'un geste il indiqua qu'il attendrait sa sœur et sa nièce. </p>
+        <p> Les deux femmes se hâtèrent de faire leurs préparatifs, et quelques instants plus tard la voiture de M. de Kervoz se dirigeait rapidement vers Lorient. </p>
+      </div>
+      <div title="XXX" type="chapter">
+        <p> XXX </p>
+        <p> Retirée dans sa chambre avec ses enfants, Noémi se livrait aux plus tristes pensées. Des larmes coulaient lentement sur ses joues pâlies. Le malheur qui l'avait frappée l'avait rendue méconnaissable. On eût dit qu'elle était entièrement privée de force et de volonté. </p>
+        <p> M. de Ferville entra. </p>
+        <p> Lui aussi était bien changé. Un sombre désespoir était empreint sur son front, et ses yeux brillaient du feu de la fièvre. </p>
+        <p> « Plus d'espoir, dit-il d'une voix sourde. C'est en vain que j'ai cherché les moyens d'échapper à une ruine totale. Tout est perdu !... Noémi, pourrez-vous me pardonner ? » </p>
+        <p> Un sanglot seul fut la réponse de la jeune femme, dont le regard alla chercher les enfants qui, avec l'insouciance de leur âge, jouaient sur le tapis de la chambre. </p>
+        <p> M. de Ferville saisit ce regard. </p>
+        <p> « Je comprends votre silence, Noémi, reprit-il. Oui, je le sais, votre plus grand chagrin est pour l'avenir réservé à ces pauvres enfants. Mais, je vous en conjure, malgré l'épreuve que nous subissons, et qui peut vous faire douter de mes paroles, je vous en conjure, ayez foi en mon courage et en mon travail ! je n'épargnerai rien pour vous sauver de la misère... Et, pour me donner la force d'exécuter ces promesses, il ne me faut que votre généreux pardon ! </p>
+        <p> — Comment avez-vous pu croire, Edmond, dit avec tendresse la jeune femme, que je vous ferais des reproches ?... Pourquoi solliciter un pardon que je n'ai pas à accorder ?... </p>
+        <p> — Oh ! merci, s'écria M. de Ferville en baignant de larmes brûlantes les mains de sa femme; merci ; je me sens digne de votre générosité... Mais j'entends du bruit, ajouta-t-il : qui peut venir nous troubler ? Ce ne sont pas nos anciens amis. Ils ont fui dès l'annonce seule de ma ruine... » </p>
+        <p> Un cri de Noémi interrompit le jeune homme. M. de Kervoz, Mme de Rives et Claire entraient dans la chambre. </p>
+        <p> D'abord tremblante, à la vue de l'expression du visage de son père, Noémi se rassura sur un signe de Claire, et, par un mouvement plus prompt que la pensée, elle saisit ses deux enfants et les présenta à M. de Kervoz. </p>
+        <p> Ce mouvement, qui exprimait si bien les craintes de la jeune mère, arracha des larmes à Mme de Rives, qui serra les deux enfants sur son cœur, pendant que Claire se précipitait au cou de Noémi. </p>
+        <p> Un silence plein d'angoisse régna quelques instants ; mais bientôt M. de Kervoz, dont la vue de son gendre avait renouvelé toute la colère, lui adressa la parole en ces termes : </p>
+        <p> « J'ai appris votre ruine, Monsieur... </p>
+        <p> — Quoi ! déjà ! interrompit le jeune homme. </p>
+        <p> — Oui ; mais ne m'interrompez pas. En face d'un tel événement que mon expérience m'avait fait depuis longtemps prévoir, si vous vous souvenez, j'ai cherché à y apporter remède. J'emmène ma fille et ses enfants à Kervoz, où vous pouvez être sûr que je me conduirai envers eux en bon père... Quant à vous, Monsieur, si vous voulez continuer vos affaires , et le vieillard appuya sur ces mots, je mettrai à votre disposition une somme assez forte... Si vous voulez aussi venir habiter Kervoz, croyez que jamais aucune parole offensante ne blessera vos oreilles. Je saurai, à votre égard, agir en gentilhomme. » </p>
+        <p> Un rayon de joie illumina les traits de Noémi. Elle ne voyait que les offres de son père, et n'avait apporté aucune attention au ton avec lequel elles avaient été prononcées. Or, affectueux lorsqu'il s'était agi de Noémi et de ses enfants, M. de Kervoz était devenu froidement poli en s'adressant à M. de Ferville. Le jeune baron le remarqua, lui, et sa fierté, vivement blessée, colora son pâle visage d'une teinte pourpre. </p>
+        <p> « Je vous remercie, Monsieur, dit-il d'une voix ferme et brève. Je suis ruiné, il est vrai; mais je puis par le travail essayer de conjurer cette ruine : je le tenterai. Des relations d'affaires à l'étranger m'ont permis d'espérer un emploi selon mes goûts, avec chance de succès pour relever ma fortune. Je ne veux devoir qu'à moi seul ce bonheur. Je refuse vos offres, dont, encore une fois, je vous remercie; je vais partir, et, lorsque vous êtes entré, j'allais expliquera ma femme... </p>
+        <p> — Voudriez-vous donc, interrompit avec violence M. de Kervoz, faire que ma fille s'expatriât ? Ne souffre-t-elle déjà pas assez ? </p>
+        <p> — Noémi est libre ! répondit en frémissant de colère M. de Ferville. Je ne la forcerai pas à me suivre. Si la vie douce et calme du château de Kervoz lui sourit plus que près de moi une existence laborieuse et agitée, je ne chercherai pas à changer sa résolution. </p>
+        <p> — Que dites-vous, Edmond! s'écria Noémi, vous voulez vous séparer de moi ? </p>
+        <p> — Non, chère Noémi ; mais votre père craint pour vous les rigueurs de l'exil et de ma mauvaise fortune : les craignez-vous aussi ? </p>
+        <p> — Quoi ! dit vivement M. de Kervoz; Noémi, tu m'abandonnerais ! Je suis vieux : au retour, tu ne me trouverais plus... Et tes enfants, songe à leur avenir. </p>
+        <p> — N'y veillerai-je pas ? répliqua M. de Ferville. </p>
+        <p> — Oui, vous y veillerez, reprit avec ironie M. de Kervoz, vous y veillerez ; mais cela ne les empêchera pas d'ici là de souffrir mille privations. Noémi, songes-y ! tu tiens entre tes mains la vie de ces petits anges ; aie pitié d'eux : reste avec eux près de ton père ! </p>
+        <p> — Choisissez donc vite, Noémi, » dit froidement M. de Ferville, blessé au fond du cœur des paroles du vieux gentilhomme, et irrité que sa jeune femme ne les eût pas déjà relevées. </p>
+        <p> Hélas ! la pauvre Noémi était dans la plus terrible alternative où puisse jamais se trouver une âme faible, irrésolue et timide comme la sienne. Elle se révoltait à l'idée de se séparer de son époux, de priver ses enfants des caresses de leur père ; puis son cœur saignait aux accents touchants de M. de Kervoz, à la seule pensée de ne le plus revoir peut-être. </p>
+        <p> Dans la chambre, une autre personne que M. de Ferville frémissait d'impatience : c'était Claire, qui s'indignait de la faiblesse de sa cousine. Ah ! se disait-elle, peut-on hésiter à accomplir son devoir ? Il lui était bien permis à elle, la courageuse jeune fille, de ne pas comprendre ces hésitations d'un cœur faible; mais, toujours bonne, elle priait Dieu de donner à Noémi la force qui lui manquait. </p>
+        <p> Pour Mme de Rives, tout entière à la scène dont elle était témoin, son émotion se voyait aux larmes qui inondaient son visage et aux caresses qu'elle prodiguait aux deux petits enfants. </p>
+        <p> Enfin cette situation si douloureuse eut un terme. Trompé par l'indécision où sa femme paraissait plongée, M. de Ferville crut qu'elle cherchait à adoucir la forme d'un refus qu'elle voulait lui donner. Trop fier pour supporter cette idée, il dit à Noémi : </p>
+        <p> « Adieu, Madame; je vois quels sont vos vœux !... qu'ils s'accomplissent ! soyez heureuse. Je tâcherai d'oublier ce que j'avais un instant pensé, que toujours vous auriez voulu partager mon sort ! Adieu ! » </p>
+        <p> Et, se baissant rapidement vers ses enfants, il les embrassa avec une étreinte passionnée d'amour paternel, d'un geste les recommanda à la sollicitude de Mme de Rives, et sortit sans jeter un seul regard en arrière, avant que Noémi, suffoquée par l'émotion, eût pu dire une parole. Mais la jeune femme recouvra ses sens, et elle s'élança vers la porte avec une exclamation suprême !... Prompt comme l'éclair, M. de Kervoz lui barra le passage. </p>
+        <p> « Tu veux donc m'abandonner ? » dit-il. </p>
+        <p> Brisée par la douleur, la pauvre Noémi tomba sans connaissance dans les bras de son père. </p>
+        <p> « Mon Dieu ! disait une heure plus tard le vieux gentilhomme en soutenant la tète de sa fille, qui était toujours évanouie ; mon Dieu, si elle allait mourir ! </p>
+        <p> — Rassurez-vous, elle vivra, répondit Mme de Rives ; mais Dieu veuille que vous ne lui ayez pas porté un coup terrible ! » </p>
+        <p> En ce moment Claire rentrait. </p>
+        <p> « Il a été impossible de retrouver M. de Ferville, » dit-elle. </p>
+        <p> Un silence plein d'anxiété succéda à ces paroles. </p>
+      </div>
+      <div title="XXXI" type="chapter">
+        <p> XXXI </p>
+        <p> Le soir même de ce jour, Noémi était de nouveau installée dans son petit appartement du château de Kervoz. Mais, hélas ! elle était en proie au plus violent désespoir, et c'était en vain que son père épuisait tous les raisonnements pour la consoler. </p>
+        <p> « Edmond n'aurait pu que te faire une existence malheureuse, disait-il ; oublie-le pour ne songer qu'à moi, à tes enfants. » </p>
+        <p> Mais, loin d'écouter ces conseils, Noémi se livrait plus exclusivement à sa douleur, et suppliait son père de faire chercher son mari. </p>
+        <p> « Eh bien, oui, répondait M. de Kervoz, pour calmer la jeune femme; oui, je le chercherai ; je te conjure seulement de prendre un peu de repos.» </p>
+        <p> Noémi promettait, mais retombait bientôt dans les paroxysmes du désespoir. M. de Kervoz était lui-même désespéré. </p>
+        <p> « Que faire ? que faire ? disait-il. </p>
+        <p> — Vous employer de tout votre pouvoir et ne rien négliger pour retrouver M. de Ferville, répondit Mme de Rives. </p>
+        <p> — Prier Dieu et espérer, » ajouta Claire. Ces paroles rallumèrent la violence de M. de Kervoz et le rendirent injuste. </p>
+        <p> « Prier Dieu ! s'écria-t-il; oui, c'est tout ce que tu sais faire! Sans doute tu ne me dis cela que pour me rappeler que les six mois que j'avais demandés sont expirés ? Sans doute tu veux me faire comprendre que, bien que je sois plongé dans la douleur, je dois ne rien négliger pour hâter ton départ ?... </p>
+        <p> — Non, mon oncle, interrompit Claire d'une voix ferme et douce, non, je ne pense pas à moi en ce moment. Lorsque vous étiez heureux j'ai pu souhaiter de réaliser mes projets ; maintenant que le chagrin vous accable, mon devoir est de chercher à vous consoler. Je sacrifie sans regret toutes mes espérances jusqu'au jour où de nouveau la joie rentrera dans votre cœur. Alors seulement je vous demanderai de ne pas mettre obstacle à mes vœux. » </p>
+        <p> Ces simples paroles, dites d'un ton si calme et si pénétré, allèrent jusqu'à l'âme du vieux gentilhomme, et firent plus en quelques moments que n'avaient pu faire trois années d'instances et de supplications. Les yeux baignés de larmes bien douces, il tendit les bras à sa nièce en murmurant : </p>
+        <p> « Tu es un ange, Claire ! Mais je ne serai pas ingrat ! » </p>
+        <lb/>
+        <p> Quelques mois s'écoulèrent sans amener aucun événement à Kervoz. Malgré toutes les recherches, et bien que l'on n'eût rien épargné pour réussir, il avait été impossible de savoir où s'était retiré M. de Ferville. </p>
+        <p> En considérant les traits amaigris de sa fille et sa mortelle tristesse, en surprenant les larmes qu'elle versait en secret, M. de Kervoz maudissait la violence à laquelle il s'était livré envers son gendre, lorsqu'il lui eût été si facile de le ramener doucement au bonheur. De son côté, Noémi ne pouvait se pardonner d'avoir paru délaisser son époux ; combien elle déplorait sa faiblesse ! </p>
+        <p> Sans la présence de Claire et de sa mère, la vie aurait donc été bien triste au château ; mais la douce tendresse de Mme de Rives, les soins assidus de sa fille, ramenaient souvent le calme dans les cœurs ulcérés de M. de Kervoz et de la jeune femme. </p>
+        <p> Une autre personne encore savait faire naître l'espoir et ranimer le courage. On le devine, c'était l'abbé Tréal, qui ne manquait aucune occasion de faire entendre les consolations divines que la religion réserve aux âmes éprouvées. </p>
+        <p> Pour Claire, elle redoublait de ferveur et de bonnes œuvres ; sa sollicitude était vraiment admirable. Elle s'était spécialement chargée de veiller sur les enfants de Noémi ; rien n'égalait ses attentions pour eux ; aussi le petit Paul et la petite Adrienne avaient-ils pour elle la plus grande affection. </p>
+        <p> M. de Kervoz, malgré la douleur à laquelle il était en proie, observait la conduite de sa nièce et peu à peu perdait de ses préventions. Chaque jour il éprouvait que la vertu appuyée sur la piété est seule capable de tous les dévouements ; pourtant le respect humain le retenait encore dans son apparente indifférence. </p>
+      </div>
+      <div title="XXXII" type="chapter">
+        <p> XXXII </p>
+        <p> Un an s'écoula, et toujours la même incertitude régnait sur le sort de M. de Ferville, lorsque Claire suggéra à sa mère l'idée de faire une nouvelle démarche près de Dumont, l'ancien caissier du baron. </p>
+        <p> « Mais Dumont a déjà déclaré plusieurs fois qu'il ignorait comme nous la retraite de mon neveu, répondit la vicomtesse. </p>
+        <p> — Ma mère, dit Claire, je suis convaincue que mon cousin aura exigé de son ancien employé le secret le plus rigoureux. Dumont, vous le savez, était entièrement dévoué à M. de Ferville ; il lui aura aveuglément obéi. » </p>
+        <p> Mme de Rives fut aussi frappée de cette pensée. </p>
+        <p> « Comment, dit-elle, n'ai-je pas plus tôt songé à cela ? Demain, sans tarder davantage, j'écrirai à Lorient et je saurai faire parler Dumont. </p>
+        <p> — Ne pensez-vous pas aussi qu'il vaut mieux n'en pas parler à Noémi. Un espoir trompé lui serait peut-être funeste. </p>
+        <p> — Tu as toujours raison, ma chère Claire; il faut que nos démarches demeurent secrètes, non-seulement à cause de Noémi, mais encore à cause de mon frère, qui n'en serait peut-être pas satisfait ; car, après avoir longtemps cherché les traces de son gendre, M. de Kervoz est blessé de la persistance que M. de Ferville met à se dérober à une réconciliation. Agissons donc avec prudence. » </p>
+        <p> Le lendemain, sous un léger prétexte, Mme de Rives se rendit à Lorient, où, à peine arrivée, elle se présenta chez Dumont, qui d'abord feignit de ne pas savoir ce qu'on lui demandait. </p>
+        <p> « Soyez franc, lui dit Mme de Rives. Songez qu'il y va peut-être du bonheur de M. de Ferville, de sa femme et de ses enfants. Mon neveu avait toute confiance en vous : il vous a communiqué ses projets, j'en suis certaine. Par excès de délicatesse, ne compromettez pas plus longtemps son avenir. </p>
+        <p> — Jamais M. le baron ne me pardonnerait, répliqua Dumont en se trahissant involontairement. </p>
+        <p> — Vous venez de m'avancer que vous savez sa retraite, s'écria Mme de Rives. Je vous en conjure, ne me la cachez pas. Vous connaissez ma tendresse pour Mme de Ferville ; c'est pour lui épargner de plus longs chagrins que je vous supplie... </p>
+        <p> — Mais M. de Kervoz ? objecta Dumont, ébranlé. </p>
+        <p> — Il ignorera tout, momentanément. Faut-il, pour vous décider enfin, vous raconter mes projets ? Eh bien, soit. Si mon neveu est à l'abri du besoin, s'il s'est créé une position, je m'emploierai de tout mon pouvoir pour amener une réconciliation entre mon frère et lui. Si, au contraire, le sort lui est toujours défavorable, je compte lui faire passer une somme assez forte pour le mettre à même de se reconstituer une certaine aisance. Intelligent et travailleur comme il l'est, il y parviendra promptement. Vous le voyez, Dumont, je suis franche : me cacherez-vous encore ce qui peut tant influer sur le bonheur de M. de Ferville ? </p>
+        <p> — Non, Madame, votre bonté m'arrache ce que j'avais promis de garder toujours. Ah ! si je n'étais comme vous persuadé qu'il s'agit du bonheur de M. le baron, je ne le trahirais pas... Voici la vérité tout entière. Cruellement blessé par l'indifférence apparente de Mme la baronne, M. de Ferville vint se réfugier chez moi, pour échapper aux premières recherches qu'il supposait devoir être faites, comme elles le furent en effet. Il me demanda sur l'honneur mon serment de ne pas le trahir. Je tins parole. Par mes soins, le lendemain même du jour où eut lieu la séparation, M. le baron put secrètement se rendre à Hennebon, où il s'embarqua sur un brick de commerce, dont le capitaine, son ancien obligé, lui était tout dévoué. Il arriva en Angleterre, où il réside encore... </p>
+        <p> — Oh ! bien vite son adresse ! s'écria Mme de Rives. </p>
+        <p> — A Manchester, chez M. Dicksons, banquier; mais il a changé de nom. Vous devrez écrire à M. Derval ; encore, j'y songe, il serait peut-être bon que j'écrivisse l'adresse et quelques lignes, car il serait à craindre que la lettre ne vous fût renvoyée ou bien ne restât sans réponse. </p>
+        <p> — Croyez-vous donc que mon neveu soit blessé à ce point ? </p>
+        <p> — Oh ! oui, Madame. Il croit que M. de Kervoz a voulu l'humilier; il croit surtout que Mme a baronne est heureuse loin de lui : cela seul l'empêcherait de vous répondre. </p>
+        <p> — Eh bien, s'il en est ainsi, ne perdons pas un instant. Veuillez me donner tout de suite tout ce qu'il faut pour écrire : vous ajouterez quelques mots à ma lettre et y mettrez l'adresse. Je veux qu'elle parte aujourd'hui même. » </p>
+        <p> Dumont obéit, et une heure plus tard une lettre touchante de la vicomtesse était jetée à la poste. Ce soin pris, Mme de Rives revint à Kervoz, et elle raconta à sa fille tout ce qu'elle avait fait. Claire en conçut les plus vives espérances. </p>
+      </div>
+      <div title="XXXIII" type="chapter">
+        <p> XXXIII </p>
+        <p> Quinze jours plus tard, Mme de Rives recevait en secret ce billet de Dumont : </p>
+        <p> « Madame, je vous adresse la réponse que m'a faite M. le baron:. Ainsi que vous le verrez, il se refuse à tout rapprochement, et j'ai bien peur que vous ne puissiez vaincre Sa résistance. Je ne sais ce que vous déciderez, Madame ; mais la confiance avec laquelle vous avez agi envers moi m'engage à vous dire que quoi que vous entrepreniez pour M. le baron, si nies services peuvent vous être de quelque utilité, je m'em-presserai de me mettre à vos ordres; </p>
+        <lb/>
+        <p> Agréez, etc. </p>
+        <p> DUMONT. » </p>
+        <lb/>
+        <lb/>
+        <p> Dans ce billet était renfermée la réponse de M. de Ferville, ainsi conçue : </p>
+        <p> « Bien que je fusse en droit, mon cher Dumont, de vous faire quelques reproches pour ne pas avoir gardé le secret que je vous avais confié, comme je suis persuadé que votre dévouement pour moi a seul été cause de votre indiscrétion, je me borne à vous prier de ne pas renouveler vos tentatives de rapprochement. </p>
+        <p> « Je suis pourtant pénétré de l'affection et du bon vouloir que me témoigne Mme de Rives ; mais, tout en vous chargeant de lui exprimer ma reconnaissance, dites-lui que mon âme, trop profondément blessée, ne peut revenir à aucun espoir de réunion. </p>
+        <p> D'ailleurs, qu'irai-je retrouver en Bretagne ? Volontairement on a rompu les liens qui m'y appelleraient. Mes enfants seuls existent encore dans mes souvenirs; mais, comme il me serait impossible de leur donner la position à laquelle ils étaient destinés, je me résigne à vivre séparé d'eux, sûr du moins que ce sacrifice peut leur être utile ! </p>
+        <p> Cessez, Dumont, cessez absolument de vous prêter à aucune démarche tendant à ébranler ma résolution : elle est irrévocable. Vous avez déjà trop fait en donnant mon adresse ; mais si, à l'avenir, j'étais de nouveau sollicité d'accomplir ce que repousse ma ferme volonté, j'y suis décidé, je changerais de retraite, et nul ne connaîtrait le lieu où je me réfugierais. </p>
+        <p> Encore une fois, Dumont, dites à Mme la vicomtesse combien sa lettre m'a touché... L'affection de cette bonne parente sera pour moi un doux souvenir... </p>
+        <p> Adieu ; je ne puis vous parler plus longtemps. Soyez-moi toujours dévoué. Je ne souhaite qu'une chose, c'est de pouvoir vous prouver ma reconnaissance. </p>
+        <lb/>
+        <p> Edmond DE FERVILLE. » </p>
+        <lb/>
+        <lb/>
+        <p> Après avoir lu cette lettre, Mme de Rives s'empressa de la communiquer à Claire. La vicomtesse avait avec raison la plus grande confiance dans le tact et le bon sens de sa fille; aussi, depuis longtemps, la considérait-elle comme une amie et ne faisait-elle rien sans la consulter. </p>
+        <p> « Je suis sûre que nos pensées se sont rencontrées, dit Mlle de Rives après avoir tout appris de sa mère ; il faut, n'est-ce pas, avertir Noémi ? </p>
+        <p> — Oui, dit la vicomtesse ; mais, auparavant, ne devons-nous pas convenir de ce que nous avons à faire ? Je suis persuadée que, malgré ses résolutions, Edmond ne résisterait pas à une lettre de sa femme ; mais je suis persuadée aussi que cela ne suffirait pas pour amener la réconciliation désirée. M. de Ferville est trop fier pour revenir pauvre auprès de nous. Je cherche le moyen de le mettre à même, sans froisser sa susceptibilité, de se reconstruire une petite fortune. » </p>
+        <p> Claire réfléchit quelques moments. </p>
+        <p> Je crois, dit-elle bientôt, avoir trouvé ce moyen que vous cherchiez, ma bonne mère. Il est vrai qu'il vous faudra employer un petit stratagème; mais, en faveur de notre intention, Dieu, j'en suis sûre, nous pardonnera. </p>
+        <p> — Voyons, vite ! demanda Mme de Rives. </p>
+        <p> — Dumont est resté chargé des affaires de mon cousin. Eh bien, ne pourrait-on pas lui confier la somme que vous destinez à M. de Ferville ? Il la lui ferait passer comme provenant d'une créance qu'il n'espérait plus recouvrer.Mon cousin ne soupçonnera rien, et mettra à profit ce secours inattendu... </p>
+        <p> — Tu as mille fois raison, répondit Mme de Rives, et je vais en aller conférer avec Dumont. Mais il faut aussi que j'emporte une lettre de Noémi... </p>
+        <p> — Pardon, ma mère, si je vous interromps; mais il serait fort utile, à mon avis, que Noémi elle-même ignorât nos intentions. Elle ne doit être instruite que du succès. Il suffirait qu'elle écrivit à M. de Ferville qu'ayant appris le lieu de sa retraite elle ne peut différer plus longtemps de lui faire connaître ses véritables sentiments...Mais je n'ai pas besoin de vous donner ces avis. Mieux que moi, ma mère, vous savez les mesures qu'il convient de prendre. </p>
+        <p> — Tes conseils me sont fort utiles, ma chère Claire, et je ne saurais m'en priver : tout ce que tu viens de me dire est très-sensé, et je l'accomplirai sans y rien changer. Oui, il est essentiel que Noémi ignore ce que nous voulons faire pour son mari : elle en serait gênée, ou pourrait en concevoir des espérances qui peut-être ne se réaliseront point... Viens avec moi, ma chère enfant ; allons lui dire que nous savons où se trouve Edmond. » </p>
+        <p> Noémi, toujours triste, était seule dans sa chambre ; à la vue de sa tante et de sa cousine, elle essaya de sourire. Sans paraître remarquer son trouble, Mme de Rives et Claire s'assirent à ses côtés. </p>
+        <p> « Nous promets-tu de rester calme si nous te disons quelque chose que nous venons d'apprendre ? demanda la vicomtesse. </p>
+        <p> — Il s'agit d'Edmond ! s'écria Noémi, avec cette rapide intuition de la pensée qui devine un nom aimé avant qu'il soit prononcé. </p>
+        <p> — Eh bien oui ! répondit Mme de Rives ; je ne te le cacherai pas plus longtemps. Nous avons des nouvelles certaines de M. de Ferville. </p>
+        <p> — Par pitié ! continuez ma tante. Dites, ah! dites-moi tout; que je répare mon ingratitude, ma faiblesse... Je partirai à l'instant... </p>
+        <p> — Tu resteras, fit doucement Claire, en forçant sa cousine, qui s'était levée, à se rasseoir. Écoute, et juge si nous avons raison de te retenir. </p>
+        <p> — Oui, ta présence ici est nécessaire, dit alors Mme de Rives ; car elle sera le gage de la réconciliation de ton mari avec ton père, ce qui deviendrait impossible si tu t'éloignais... Et puis tu ne dois pas quitter tes enfants ; mais, raison sans réplique, c'est que tu ne peux aller retrouver ton mari, puisque la personne qui nous a donné de ses nouvelles, tout en voulant bien se charger de faire parvenir nos lettres à Edmond, ne veut pas davantage trahir le secret qui lui a été confié. </p>
+        <p> — Dites-moi son nom, je vous en supplie, reprit Noémi. Je la prierai tant, qu'elle me dira... </p>
+        <p> — Elle ne t'écouterait pas, interrompit Mme de Rives. Crois-moi, mon enfant ; suis mes conseils. Tu sais si je t'aime et si je désire ton bonheur; laisse-toi donc conduire par moi. Écris à Edmond, et n'apporte aucune entrave aux démarches que je jugerai utile de faire. » </p>
+        <p> Il fallut bien du temps pour décider Noémi à cesser ses questions. Il fallut lui représenter cent fois qu'elle compromettrait peut-être une réconciliation espérée, pour, mettre un terme à ses instances. Enfin les exhortations de Mme de Rives et de Claire triomphèrent du trouble de la jeune femme, et, plus calme, elle se mit en devoir d'écrire à M. de Ferville. </p>
+        <p> Nous n'essaierons pas de donner la lettre qu'elle lui adressa. Elle ne nous apprendrait rien que nous ne sachions déjà. Qu'il nous suffise de dire que l'âme tout entière de Noémi était passée dans ces lignes, desquelles devait, pensait-elle, sortir la réunion qu'appelait ses vœux. </p>
+        <p> La jeune femme promit en outre de ne point parler à M. de Kervoz de ce qui venait de se passer. Puis, la lettre terminée, Mme de Rives l'emporta, et le lendemain elle la confiait à Dumont, ainsi qu'une somme de cent mille francs, produit de la vente d'une rente de cinq mille francs sur l'État, vente qu'elle venait de faire par l'entremise de son banquier de Lorient. </p>
+        <p> Dumont, touché de ce généreux dévouement, promit tout ce que voulut Mme de Rives, et, en homme d'honneur, tint religieusement ses promesses. </p>
+        <p> « J'ai réalisé nos projets, dit Mme de Rives à Claire, en l'embrassant à son retour. Mais, pour cela, j'ai dû faire un sacrifice... Bien que tu m'y aies engagée, ne le regretteras-tu pas ? </p>
+        <p> — Oh ! ma mère ! pouvez-vous exprimer un tel doute ? Après tout ce que je dois à mon oncle, quel devoir plus sacré ai-je à accomplir que de chercher à lui rendre le bonheur ? </p>
+        <p> — Je n'en doutais pas, ma fille chérie, reprit la vicomtesse en serrant Claire sur son cœur ; mais je suis toujours si heureuse et si fière de tes généreux sentiments, que je ne saurais trop en provoquer l'expression............................................ </p>
+      </div>
+      <div title="XXXIV" type="chapter">
+        <p> XXXIV </p>
+        <p> Laissons passer deux années sur les événements que nous venons de retracer. Ce laps de temps s'est écoulé pour Noémi avec une lenteur désespérante, bien qu'une grande joie lui ait été donnée. </p>
+        <p> En effet, M. de Ferville, dans le premier mois qui suivit la réception de la lettre de sa femme, lui adressa par l'entremise de Dumont, qui le transmit à Mme de Rives, un billet dans lequel il lui disait qu'une heureuse circonstance lui permettait d'entrevoir le moment prochain où ils seraient de nouveau réunis. » </p>
+        <p> La vicomtesse et Claire avaient fort bien compris ce que signifiaient ces mots : Une heureuse circonstance. Pour Noémi, elle ne s'était attachée qu'à une seule idée : le retour de M. de Ferville. </p>
+        <p> Deux années donc se passèrent, et aucune autre nouvelle n'était parvenue au château. Enfin il arriva une lettre adressée à Noémi ; elle était ainsi conçue : </p>
+        <p> « Ma chère Noémi, </p>
+        <p> Mes efforts ont été récompensés. J'ai reconquis une petite fortune, et je viens vous demander de la partager. Je ne pourrai vous offrir sans doute une position aussi brillante que celle à laquelle vous étiez en droit de prétendre ; mais, si vous pensez réellement ce que vous m'avez écrit, vous ne refuserez pas de venir me rejoindre. </p>
+        <p> Je me suis attaché de toute la force de mon âme à l'espoir que vous avez fait luire à mes yeux ; cet espoir seul a guidé mes travaux : vous ne le briserez pas, j'en suis sûr. </p>
+        <p> Venez vite, Noémi ; amenez-moi nos enfants, mon cher Paul, ma petite Adrienne, qui doivent être si grands, si charmants... </p>
+        <p> Venez vite, bien vite, ma chère Noémi. N'oubliez cependant pas de dire à Mme de Rives et à sa fille que je serai toujours pour elles un parent affectueux et dévoué... Dites à votre père que je lui suis vivement reconnaissant des soins qu'il a eus pour nos chars petits enfants et pour vous. Je sais qu'il trouvera peu généreux de ma part qu'en le remerciant de ses soins je vous enlève à sa tendresse... Mais, bien que j'aie oublié ses torts envers moi, il serait au-dessus de mes forces d'habiter près de lui. </p>
+        <p> Vous saurez, Noémi, dire tout cela bien mieux que je ne puis vous l'exprimer... Encore une fois, à bientôt. </p>
+        <lb/>
+        <p> « Edmond DE FERVILLE. </p>
+        <lb/>
+        <p> P. S. Je rouvre ma lettre pour vous dire que, dans l'impatience où je suis de vous rejoindre, je pars immédiatement pour Saint-Malo, où je vous attendrai. De là nous passerons en Angleterre, où nous achèterons une petite propriété... Mais nous causerons de nos affaires lorsque nous serons réunis...Je serai à Saint-Malo deux jours après que vous aurez reçu ma lettre. Vous fixerez vous-même le moment de votre arrivée; mais écrivez-le-moi, je vous prie. </p>
+        <p> Je descendrai chez le correspondant de M. Dicksons, à qui je suis recommandé, M. Varnier, place Duguay-Trouin. A bientôt, à bientôt. » </p>
+        <lb/>
+        <p> Dans le salon de M. Varnier, le baron de Ferville marchait avec agitation. Ses traits, fatigués par le travail et le chagrin, étaient en ce moment contractés par une violente souffrance. </p>
+        <p> « Eh quoi ! se disait-il, j'ai pu me tromper à ce point ! Noémi a laissé sans réponse une lettre qui, je le croyais, devait amener notre réunion !... Oh ! grand Dieu ! le malheur me poursuivra-t-il donc toujours !... » </p>
+        <p> Des pas précipités retentirent dans la pièce qui précédait le salon. </p>
+        <p> Encore des importuns ? pensa M. de Ferville. Et il allait sortir, pour cacher sa douleur à des indifférents, lorsque la porté s'ouvrit toute grande... </p>
+        <p> Noémi, conduisant ses enfants, s'élança vers son mari, et, derrière elle, se tenaient M. de Kervoz, Mme de Rives et Claire. </p>
+        <p> Comment décrire la scène qui se passa ? comment peindre ces élans de bonheur, ces exclamations entrecoupées, ces questions et ces réponses qui s'entre-croisaient ? Laissons plutôt à leur joie ceux que si longtemps a séparés une épreuve cruelle ! </p>
+      </div>
+      <div title="XXXV" type="chapter">
+        <p> XXXV </p>
+        <p> Depuis quelque temps déjà toute la famille est réunie à Kervoz, et l'union la plus parfaite règne entre tous ses membres. Jamais il n'est question des tristes jours par lesquels on a acheté cette paisible existence. Tout est oublié : on ne pense qu'à être heureux de se retrouver ensemble. </p>
+        <p> Cependant une séparation allait troubler ce bonheur. Claire rappela bientôt à son oncle la promesse qu'il lui avait faite. </p>
+        <p> « Vous êtes au milieu de vos enfants, lui dit-elle rien ne vous en séparera désormais. Laissez-moi maintenant accomplir mes vœux les plus chers.» </p>
+        <p> La réponse de M. de Kervoz ne se fit pas attendre : </p>
+        <p> « Claire, aujourd'hui tu n'auras pas besoin de recourir aux supplications. Non que je t'aime moins qu'autrefois : Dieu m'est témoin que je te considère comme une fille bien-aimée ; mais tu m'as appris à savoir tout sacrifier pour donner le bonheur à ceux qu'on aime... Va où t'appelle un nouveau dévouement. Je n'oublierai jamais ce que je te dois... Je t'ai promis de ne pas être ingrat : je veux te donner la seule récompense qui puisse plaire à ton âme généreuse... Apprends que tes exemples ont changé mon cœur... Claire, ma chère Claire, grâce à toi je suis chrétien. » </p>
+        <p> Pour toute réponse, la jeune fille tomba à genoux, et une fervente action de grâces s'échappa de ses lèvres. </p>
+        <lb/>
+        <p> L'abbé Tréal et Mme de Rives devaient conduire Claire au couvent. Que de larmes et de regrets accompagnèrent ce départ ! </p>
+        <p> « Ah ! disait Noémi, combien je souffre de me séparer de toi, de toi qui t'es montrée la meilleure, la plus généreuse des amies ! Jamais je n'oublierai ce que je te dois de reconnaissance, et si je ne cherche pas à entraver ton départ, c'est que je veux ta félicité !... </p>
+        <p> — Adieu, disait M. de Ferville, adieu, Claire ; j'ai su tout ce que vous avez fait pour moi, tout ce que vous avez fait faire... Je serais écrasé par le poids de si grandes obligations, si je ne sentais, dans mon cœur, que je veux me rendre digne de votre générosité ;... </p>
+        <p> — Adieu, disait M. de Kervoz. Prie pour moi; prie pour nous : tes prières seront toujours exaucées ! » </p>
+        <p> Il fallut toute l'autorité de l'abbé Tréal pour séparer Claire de sa famille éplorée. Il n'y avait pas jusqu'aux petits enfants de Noémi qui, voyant s'éloigner celle qu'ils aimaient tant, ne s'attachassent à ses vêtements et ne voulussent la suivre. </p>
+        <p> Enfin cette scène eut un terme, et la jeune fille, essuyant les larmes que tant de preuves de tendresse avaient appelées dans ses yeux, prit place dans la berline, près de sa mère et de l'abbé Tréal. </p>
+        <lb/>
+        <p> L'instant est donc arrivé où Claire peut consacrer à Dieu le cœur qu'elle lui a voué ! Il est donc arrivé ce moment où, en paix, à l'ombre des autels, cette âme d'élite pourra accomplir la mission qui lui a été donnée ! et cette mission est une preuve nouvelle de sa générosité, de son dévouement ! </p>
+        <p> C'est dans l'ordre des sœurs de la Providence, de ces saintes femmes qui donnent tout, leur temps, leurs veilles, leurs soins incessants, leur vie même, à l'éducation des pauvres, c'est dans cet ordre que Claire a pris place. </p>
+        <p> Aimable, jolie, douée de rares talents, riche, la jeune fille a compté pour rien les avantages qu'elle eût pu en retirer dans ce monde. </p>
+        <p> « Dieu m'a tout donné, dit-elle ; à lui je dois tout consacrer. » </p>
+        <p> Sans doute il n'est pas accordé à toute nature d'élite de suivre l'exemple de Claire. Chacun ici-bas a sa mission qu'il doit remplir, selon les vues de la divine providence, et toute mission religieusement accomplie mérite le respect. Mais lorsqu'on rencontre dans la vie des âmes appelées, comme celle de Mlle de Rives, à l'état le plus parfait, de quelle admiration ne doit-on pas être saisi ! de quelle vénération ne doit-on pas les entourer ! </p>
+      </div>
+      <div title="XXXVI" type="chapter">
+        <p> XXXVI </p>
+        <p> EPILOGUE </p>
+        <lb/>
+        <p> L'école du bourg d'A *** est en fête. Les élèves, revêtues de leurs plus beaux habits, attendent, rangées dans la cour, l'institutrice qui leur a été annoncée. Pourquoi donc cet empressement inusité ? Nous l'apprendrons en parcourant des yeux le groupe qui se tient près de la porte d'entrée, </p>
+        <p> En effet, ne reconnaissons-nous pas le bon curé de Sainte-Croix, l'abbé Tréal, puis Mme de Rives, puis M. de Kervoz, Noémi, M. de Ferville, ainsi que leurs enfants ? Ils veulent donc être les premiers �� saluer la nouvelle institutrice ? </p>
+        <p> Oui, car celle qu'on attend et qui apparaît bientôt revêtue du costume des religieuses de la Providence, c'est Claire, ou plutôt sœur Paule, car Mlle de Rives est désormais inconnue au monde, et son nom ne doit plus être prononcé. </p>
+        <p> La voilà bien telle que nous l'avons connue, gracieuse, bonne, toujours aimable. C'est avec tendresse qu'elle répond aux témoignages d'amour de sa famille, avec tendresse encore qu'elle promet à ses élèves d'être pour elles une maîtresse vigilante, dévouée, attentive. </p>
+        <p> Ces promesses, elle les tiendra comme elle sait les tenir, et sa venue à A *** est déjà un gage de sa sincérité ; car sœur Paule, par son instruction, aurait pu prétendre à rester dans quelque grande ville pour diriger une classe plus importante. Elle a préféré un bourg de son pays, pensant avec raison pouvoir y accomplir plus de bien. </p>
+        <p> Comme à Kervoz on a été heureux d'apprendre cette nouvelle ! Du moins, on ne sera pas loin de celle qui a été et est encore le bon ange de la maison. Quelques lieues seulement sépareront d'elle. </p>
+        <p> Ne craignons pas que les relations de famille viennent quelquefois faire négliger à sœur Paule ses pieux travaux. Nous savons que jamais elle ne transige avec ses devoirs. </p>
+        <lb/>
+        <p> Depuis le moment que nous avons décrit, des années ont, passé. L'école d'A *** est florissante ; et, dans le bourg comme à Kervoz, il n'est qu'une voix pour bénir sœur Paule. </p>
+        <lb/>
+        <p> FIN </p>
+      </div>
+      <head/>
+    </body>
+    <back/>
+    <back/>
+  </text>
+</TEI>

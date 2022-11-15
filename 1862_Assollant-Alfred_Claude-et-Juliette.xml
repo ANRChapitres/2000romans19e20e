@@ -1,0 +1,388 @@
+<?xml version='1.0' encoding='UTF8'?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> Claude et Juliette </title>
+        <author from="1827" key="" name="Assollant, Alfred" sex="male" to="1886"/>
+        <edition n=""/>
+        <editor name="Hachette" where="Paris"/>
+      </titleStmt>
+      <publicationStmt>
+        <date type="created" when="1862"/>
+        <date type="issued" when="1862"/>
+      </publicationStmt>
+      <editionStmt>
+        <profileDesc tag="non-canon" type="genre">
+          <textClass>
+            <keywords>
+              <term>littérature jeunesse</term>
+            </keywords>
+          </textClass>
+        </profileDesc>
+      </editionStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docAuthor/>
+        <docTitle>
+          <titlePart main="Claude et Juliette"/>
+          <titlePart sub=""/>
+        </docTitle>
+      </titlePage>
+    </front>
+    <body>
+      <head> Alfred Assollant </head>
+      <lb/>
+      <lb/>
+      <lb/>
+      <head> CLAUDE ET JULIETTE </head>
+      <lb/>
+      <lb/>
+      <div title="I. Où il est clairement prouvé que la vertu trouve toujours sa récompense, et que le premier devoir d'un Français est de venir au secours de la beauté" type="chapter">
+        <head> I </head>
+        <head> Où il est clairement prouvé que la vertu trouve toujours </head>
+        <lb/>
+        <p> En 1846, vivait à Paris, sur les hauteurs de la place du Panthéon, un jeune peintre d'un laideur si rare, que ses camarades l'avaient surnommé Quasimodo. Il avait le nez long et gros, les cheveux crépus, les yeux petits et enfoncés sous l'arcade sourcilière, la bouche fendue jusqu'aux oreilles, et le menton pointu. Sa taille était droite, ses bras longs et nerveux, ses mains larges et fortes, et ses pieds d'une longueur excessive. </p>
+        <p> Le beau n'est pas toujours camarade du bon. Quasidomo était la douceur même. Il était instruit, habile dans son art, plein d'esprit, de courage, et amoureux de la gloire. Un seul défaut déparait ses belles qualités et le rendait insupportable à lui-même. C'était une tristesse incurable dont il ne disait le secret à personne. Il aimait la beauté avec une passion que Phidias, Raphaël et Titien seuls ont connue, et il ne pouvait se regarder dans une glace sans frémir. Presque tous les hommes sont laids, il faut l'avouer; mais l'habitude, la vanité, l'ignorance des vrais principes de la beauté physique, le plaisir qu'on éprouve à se tromper soi même, leur cachent ordinairement cette cruelle infirmité. Malheureusement, le pauvre Quasimodo avait trop étudié son art, et il était trop sincère avec lui-même pour se faire illusion. Il n'était que laid, et il se croyait effroyable. Il ne s'en consolait pas. Les railleries de ses camarades, qu'il supportait sans se plaindre, mettaient le comble à sa douleur. Vingt fois il avait songé à se tuer; mais il avait ving-deux ans, et à cet âge, peut-on désespérer de tout? On veut vivre, ne fût-ce que par curiosité. Il n'espérait pas être aimé. Il pouvait aspirer à la gloire; et qu'y a-t-il de plus désirable sur la terre? </p>
+        <p> Un soir, ces réflexions l'ayant occupé plus que de coutume, il s'accorda un sursis, et résolut de vivre jusqu'à trente ans: à cet âge, pensa-t-il, si je n'ai ni amour ni gloire, je me tuerai. Ayant pris cette sage résolution, il vit que le temps était beau, que la lune éclairait Paris, et il alla se promener aux Champs-Élysées. </p>
+        <p> Il avait à peine fait cent pas dans la grande avenue, lorsqu'il aperçut une jeune fille, simplement vêtue et d'une tournure gracieuse, qui marchait devant lui. Un gros homme, orné de breloques, d'une canne et d'épais favoris, la suivait de près, en marmottant à voix basse quelques paroles que le peintre n'entendit pas, mais dont il devina le sens. La jeune fille, sans répondre, traversa la chaussée et continua sa route sur le trottoir opposé. Le gros homme la suivit et recommença son discours. Pendant ce temps, le peintre réfléchissait. </p>
+        <p> «Que fait là cette femme? il est minuit. Ce n'est pas l'heure où les pensionnaires courent les rues. Cherche-telle les aventures? Mais elle fuit ce gros homme. Peut-être est-il trop gros. A quoi tient la vertu des femmes? Peut-être est-ce une femme vertueuse qui aime le clair de lune. Cela se voit quelquefois. Dans tous les cas, il est clair que ce gros homme la gêne fort. Qu'importe qu'elle soit vertueuse ou non?» </p>
+        <p> Il traversa la chaussée à son tour. </p>
+        <p> «Voilà, se dit-il, une belle occasion de faire le chevalier errant. Bayard, sans peur et sans reproche, ne l'eût pas laissée échapper. Si j'allais au secours de la beauté en danger! C'est une de ces occasions où, si l'on n'est pas sublime, ou est tout à fait ridicule. Sublime ou ridicule, il y a de quoi réfléchir. Attendons encore.... Décidément, ce gros homme est insupportable. Quelle parole grossière a-t-il pu lui dire? La jeune fille marche comme si elle courait. Elle regarde de tous côtés. Que cherche-t-elle? un sergent de ville, sans doute. Hélas! Le sergent de ville est aujourd'hui le successeur de Roland et de Bayard, et le défenseur de la belle Angélique. O temps! ô moeurs!... Puisque le sergent de ville n'est pas à son poste, faisons ce qu'il aurait dû faire.» </p>
+        <p> Il boutonna son paletot, hâta le pas, et joignit bientôt le couple qu'il suivait. Au même instant, le gros homme terminait son discours par cette péroraison décisive: </p>
+        <p> «Une chaumière et mon coeur, mademoiselle. La chaumière vaut un million.» </p>
+        <p> Tout en parlant, il prenait la jeune fille par le bras et cherchait à l'entraîner. Celle-ci poussa un cri de frayeur. Tout à coup, le gros homme, saisi à son tour par deux mains vigoureuses, tourna brusquement sur lui-même, et se trouva face à face avec le peintre. </p>
+        <p> «Qui êtes-vous? que me voulez-vous? s'écria-t-il. </p>
+        <p> —Je suis le cousin de mademoiselle, répondit le peintre d'un ton ferme, et je vous prie de chercher fortune ailleurs. </p>
+        <p> —Le cousin! ah! ah! la plaisanterie est bonne. Vous êtes bien jeune pour un cousin, monsieur le défenseur des belles. </p>
+        <p> —Cousin ou non, dit le peintre, je vous défends de la suivre. </p>
+        <p> —Et de quel droit, mon brave? </p>
+        <p> —Du droit du plus fort.» </p>
+        <p> A ce mot, le gros homme leva sa canne sur son adversaire: celui-ci l'arracha de ses mains et la jeta au loin. </p>
+        <p> «Monsieur, s'écria le gros homme, vous me payerez cher cette injure. Donnez-moi votre adresse. </p>
+        <p> —Volontiers je m'appelle Jean Claude, et je demeure place du Panthéon, 5. </p>
+        <p> —Eh bien, Jean Claude, demain je vous enverrai mes témoins. </p>
+        <p> —C'est bon, brave homme. Je te conseille de tenir mieux ton épée que ta canne.» </p>
+        <p> Le gros homme s'éloigna en grommelant, et Jean Claude, sans s'inquiéter de ses menaces, se retourna vers sa protégée pour la rassurer. </p>
+        <p> C'était la plus rare et la plus naïve beauté qu'on pût voir; à quoi puis-je la comparer? Il y a des figures plus délicates, des nez mieux dessinés, des bouches plus fines. On aurait peine à trouver une physionomie plus douce et plus attrayante. Ce n'était pourtant qu'une lingère. </p>
+        <p> «Qu'elle est belle! pensa le peintre. Dieux immortels! je vous remercie de m'avoir préservé du suicide!... mais quelle idée singulière de courir seule, la nuit, dans les Champs-Élysées!» </p>
+        <p> Claude fut bientôt interrompu dans ses réflexions. </p>
+        <p> «Monsieur, lui dit la jeune fille avec une grâce charmante, je vous remercie de m'avoir protégée contre ce méchant homme, et je vous prie de me pardonner la fâcheuse querelle où vous vous êtes engagé à cause de moi. </p>
+        <p> —Ne parlons pas de cette querelle, répondit-il avec émotion. Je voudrais, mademoiselle, vous donner ma vie tout entière.» </p>
+        <p> Elle fit un mouvement d'inquiétude. Il s'en aperçut. </p>
+        <p> «Pardonnez-moi ma hardiesse, dit-il tristement. Je mourrais de douleur si j'avais pu vous offenser, et je vois que vous vous défiez de moi. Que faut-il que je fasse pour vous rassurer?» </p>
+        <p> Elle garda le silence. </p>
+        <p> «Je vous entends, mademoiselle. Vous voulez que je vous quitte. J'obéis. Peut-être avez-vous un frère ou un père que vous craignez d'inquiéter? Hélas! regardez-moi: qui pourrait prendre ombrage d'une si effroyable laideur? Quelle femme n'est pas en sûreté près de moi? Souffrez que je vous accompagne, ou tout au moins que je vous suive. Tout à l'heure, vous avez pu voir à quel danger vous étiez exposée. </p>
+        <p> —Monsieur, dit-elle en souriant, je ne puis accepter votre offre généreuse. Il y a loin d'ici à Passy. </p>
+        <p> —Quoi! vous allez seule à Passy, et vous ne craignez pas les rôdeurs de barrières? </p>
+        <p> —Hélas! monsieur, je crains tout; mais que puis-je faire? Je suis ouvrière, seule à Paris depuis trois semaines, et je travaille dans un magasin de lingerie. Je n'ai d'autre famille qu'une tante qui est fruitière à Passy, et qui m'a élevée. Ce soir, elle m'écrit qu'elle est malade, et qu'elle me prie d'aller la voir. Si j'y manquais, elle croirait que je la néglige et que je l'aime moins, elle qui a pour moi toute la tendresse d'une mère. On n'a voulu me laisser sortir qu'après dix heures et la fermeture du magasin. </p>
+        <p> —Voilà, pensa Claude, une histoire bien naturelle. Ai-je affaire à une Agnès ou à une femme trop habile? Mais quel intérêt peut-elle avoir à me tromper?—Mademoiselle, dit-il tout haut, la nuit est belle, le clair de lune est magnifique. Peu importe que j'aille à Passy ou à Saint-Mandé. Permettez-moi de vous accompagner; la route n'est pas sûre. Ayez confiance en moi. Je vous jure qu'au premier signe je serai prêt à vous quitter.» </p>
+        <p> La jeune fille hésita quelque temps et prit le bras de son compagnon. </p>
+        <p> C'est une chose singulière que l'imagination. Claude avait vivement désiré que son offre fût acceptée, et tout à coup il se repentit de l'avoir faite. </p>
+        <p> «Ce ne sont pas mes paroles qui la rassurent, pensa-t-il, c'est ma difformité.» </p>
+        <p> Cette idée troubla sa joie, et il garda quelque temps le silence. </p>
+        <p> «Monsieur, lui dit la jeune fille, pourquoi êtes-vous triste? Avez-vous perdu quelqu'un de vos parents ou de vos amis? </p>
+        <p> —J'ai tout perdu, dit Claude en soupirant. Mon père, vieux capitaine en retraite, qui vivait de sa pension et qui ne connaissait rien de plus beau que l'épaulette, me fit élever comme un savant. Il rêvait de me voir prendre des villes et succéder à Vauban? </p>
+        <p> —Qu'est-ce que M. Vauban? demanda-t-elle naïvement. </p>
+        <p> —C'est un caporal qui s'ennuya de tuer les hommes et qui voulut enseigner l'art de les nourrir. On le mit en demi-solde. </p>
+        <p> —Et votre père voulait que vous fussiez caporal? </p>
+        <p> —Caporal.... ou général, c'est tout un. Malheureusement, j'avais quelques dispositions pour le dessin. Un grand peintre me prit en affection, et m'apprit à aimer l'art et l'éternelle beauté. Je laissai la géométrie à ceux qui en vivent, et je me fis peintre. </p>
+        <p> —En bâtiments? </p>
+        <p> —Non; peintre de paysages. </p>
+        <p> —De paysages? Qu'est-ce que cela? Excusez mon ignorance, monsieur, j'en suis toute honteuse; mais je n'ai jamais appris qu'à lire, à écrire, à faire les comptes de ma tante et à coudre des chemises. </p>
+        <p> —Vous savez coudre, dit Claude avec enthousiasme, et vous parlez de votre ignorance! Allez, vous êtes trop modeste! Combien de demoiselles, élevées à grand frais loin des yeux de leurs mères, devraient aller à votre école! Pieuse et sainte ignorance! Plût à Dieu que toutes les filles de France fussent aussi ignorantes que vous, elles trouveraient plus aisément des maris. </p>
+        <p> —Je vous crois, monsieur, sans savoir pourquoi; mais vous ne répondez pas à ma question. Qu'est-ce qu'un peintre de paysages? </p>
+        <p> —Pas grand'chose, ma chère enfant. C'est un pauvre homme qui ne sait ni semer le blé, ni le moissonner, ni le moudre, ni le faire cuire, ni bâtir une maison, ni raboter des planches, ni tracer un chemin, ni ferrer un cheval, ni forger, ni faire aucun métier qui serve à qui que ce soit. </p>
+        <p> —C'est donc un fainéant? </p>
+        <p> —Point du tout. C'est un des êtres les plus occupés de la création. Ce que Dieu a fait, il l'imite, et, quand il a fait assez fidèlement le portrait d'un pré, d'une étable et de deux cochons, on dit qu'il a du génie. C'est un Poussin, un Claude Lorrain, un Ruysdaël. </p>
+        <p> —Pardonnez-moi, monsieur, de vous interrompre sans cesse. Vous disiez donc que vous vous étiez fait peintre de paysages? </p>
+        <p> —Oui, et j'eus le malheur de réussir. Mon père mourut peu de temps après, désespéré de voir que je renonçais pour toujours aux demi-lunes et aux contrescarpes, et aux épaulettes qui en sont la suite naturelle. Depuis sa mort, je vis seul. Le grand peintre dont j'étais l'élève est mort lui-même, et je n'ai point d'amis parmi mes camarades. </p>
+        <p> —Pourquoi, monsieur? Vous paraissez si bon et si obligeant! </p>
+        <p> —Que sais-je? Dans les arts, on n'aime pas celui qui réussit. On le trouve orgueilleux; il veut se distinguer de la foule. C'est d'un mauvais exemple. Je souffre d'ailleurs d'une infirmité. </p>
+        <p> —Vous êtes malade? </p>
+        <p> —Oui, d'une maladie morale; la plus cruelle de toutes. Regardez-moi. Ne remarquez-vous rien? </p>
+        <p> —Non. </p>
+        <p> —Quoi! ma laideur effroyable ne vous étonne pas? </p>
+        <p> —Pourquoi m'étonnerait-elle? Tous les hommes me semblent laids. Je ne suis pas assez habile pour juger du plus ou du moins. </p>
+        <p> —Eh bien, elle étonne tellement mes camarades, qui se disent mes amis, qu'ils m'ont surnommé Quasimodo. </p>
+        <p> —Quasimodo! quel est ce nom-là? </p>
+        <p> —C'est celui d'un sonneur de cloches, bossu, boiteux et borgne, qui devint amoureux d'une duchesse, et qui se pendit par amour pour elle. </p>
+        <p> —Y a-t-il longtemps? </p>
+        <p> —Au temps de Napoléon. </p>
+        <p> —N'était-ce pas un dimanche? </p>
+        <p> —Précisément. </p>
+        <p> —Et n'est-ce pas depuis ce temps que le dimanche d'après Pâques a pris son nom? </p>
+        <p> —Comme vous dites. Vous ne lisez donc pas de romans? </p>
+        <p> —Jamais. Ma tante me l'a défendu. </p>
+        <p> —Quel âge avez-vous? </p>
+        <p> —Dix-sept ans. </p>
+        <p> —Et comment vous appelez-vous? </p>
+        <p> —Juliette. </p>
+        <p> —Juliette! Juliette! que ce beau nom est doux!» </p>
+        <p> Les deux promeneurs approchaient de Passy. Claude était ravi de l'extraordinaire naïveté de la jeune fille. La naïveté n'est pas le défaut des Parisiennes ni peut-être des femmes de France, à quelque degré de l'échelle qu'on les prenne. Il offrit à Juliette de faire son portrait secrètement, et de l'offrir à la vieille tante le jour de sa fête; il prit l'intérêt le plus vif au récit de tous les petits chagrins de la jeune fille, et des persécutions de ses camarades, qui se moquaient de sa simplicité; enfin, il obtint la promesse qu'elle viendrait le voir dans son atelier le dimanche suivant, et qu'il pourrait commencer son portrait ce jour-là. </p>
+        <p> Il était temps, car ils arrivaient à la porte de la fruitière. Claude, le coeur pénétré d'une joie inconnue, offrit d'attendre la jeune fille; mais elle le remercia de son offre obligeante. </p>
+        <p> «Demain matin, dit-elle, je retournerai à Paris en omnibus.» </p>
+        <p> Claude partit comme un trait et courut jusqu'au matin dans les bois de Saint-Cloud et de Ville-d'Avray. Il criait, il chantait, il bondissait, il se livrait à toutes les folies que connaissent les jeunes gens qui ont le bonheur d'aimer. </p>
+        <p> «Dieux immortels! s'écriait-il, je ne suis plus le laid, le difforme, le triste Quasimodo, le rebut de l'espèce humaine. J'aime, et l'amour m'a fait ton égal, ô puissant Jupiter! </p>
+        <p> L'amour est le plus puissant des dieux! O resplendissantes étoiles, mondes lointains qui roulez à travers les espaces, parmi les êtres innombrables qui vous habitent, y eut-il jamais un être vivant plus heureux que moi? Que me manque-t-il aujourd'hui? Qu'elle m'aime à son tour, que j'enseigne l'amour à cette jeune âme ignorante et vierge! Y réussirai-je?» </p>
+        <p> En rentrant chez lui, il esquissa de mémoire le portrait delà jeune fille et la représenta donnant le bras à un homme qui tournait le dos au spectateur. Comme il terminait cette esquisse, un de ses anciens camarades d'atelier entra. </p>
+        <p> «Bonjour, Claude. </p>
+        <p> —Bonjour, Buridan.» </p>
+        <p> Le nouveau venu était un grand garçon bien fait, robuste, content de lui-même et d'un talent médiocre. Il regarda l'esquisse de Claude par-dessus son épaule. </p>
+        <p> «Où as-tu pris cette fille-là? dit-il. </p>
+        <p> —C'est une cousine. </p>
+        <p> —Je t'en fais mon compliment. Les cousines sont très présentables dans ta famille. Est-ce qu'elle a posé pour toi? </p>
+        <p> —Non. Je fais son portrait de mémoire. </p>
+        <p> —Quelle mémoire? celle du coeur? </p>
+        <p> —Buridan, tu m'ennuies. </p>
+        <p> —Tu fais le mystérieux avec un ami; c'est mal. </p>
+        <p> —Il n'y a pas de mystère. Hier, je me promenais. J'ai rencontré une jeune fille charmante qui se débattait contre un gros homme à breloques. J'ai envoyé promener les breloques, et j'ai offert mon bras à Juliette. </p>
+        <p> —Ah! elle s'appelle Juliette. Joli nom, ma foi!.. Qu'ont dit les breloques? </p>
+        <p> —Qu'elles m'enverraient des témoins, ce matin. </p>
+        <p> —A la bonne heure. Voilà une affaire crânement engagée. La fille est-elle belle? </p>
+        <p> —Comme Vénus. </p>
+        <p> —Laquelle? Vénus callipyge? Il n'y paraît guère dans ton dessin. </p>
+        <p> —Mon cher, tu es insupportable avec tes plaisanteries. </p>
+        <p> —Et toi, avec tes réticences. N'ai-je pas le droit de m'informer si elle est maigre? Moi, je pense sur ce point comme le magnifique sultan. Je n'aime que les femmes cylindriques. </p>
+        <p> —Laissons-la le sultan. Veux-tu être mon témoin? </p>
+        <p> —Accordé; mais tu me feras voir l'original de ton esquisse. </p>
+        <p> —Viens dimanche, à neuf heures du matin; tu la verras. </p>
+        <p> —En es-tu déjà là? Qui l'eût cru de cet innocent Quasimodo? A qui se fier, grand Dieu! La nature vous pétrit un homme le plus mal qu'elle peut; elle élève son nez comme la bosse d'un chameau, elle enfonce ses yeux comme des trous de vrille, elle termine son menton en pointe, et ce gaillard, ainsi fait, séduit à première vue une jeune vierge trop peu callipyge, qui résiste à des breloques de similor?» </p>
+        <p> Claude haussa les épaules sans répondre; il pouvait, d'un mot, faire cesser cette plaisanterie, si cruelle pour lui; mais il n'oserait avouer sa souffrance et la plaie secrète dont son coeur était dévoré. Il se remit au travail. </p>
+        <lb/>
+        <lb/>
+      </div>
+      <div title="II. Terrible duel. Heureux déjeuner. Comment le beau Buridan mit la nappe aidé de la jeune Pasithéa." type="chapter">
+        <head> II </head>
+        <head> Terrible duel. Heureux déjeuner. Comment le beau Buridan mit la nappe aidé de la jeune Pasithéa. </head>
+        <lb/>
+        <p> On frappa à la porte, et deux hommes boutonnés jusqu'au cou entrèrent. </p>
+        <p> «Messieurs, dit l'un d'eux, qui de vous est M. Jean Claude? </p>
+        <p> —C'est moi, répondit celui-ci. </p>
+        <p> —Monsieur, continua l'orateur d'un ton diplomatique, vous avez gravement insulté M. le comte de Seckendorf, et nous venons de sa part vous demander une réparation. </p>
+        <p> —Monsieur, dit Claude, votre ami n'est-il pas un gros homme avec des favoris noirs, des breloques et une canne? </p>
+        <p> —Précisément. </p>
+        <p> —De quoi se plaint-il? </p>
+        <p> —D'une grave injure. Il ne nous a donné aucun détail. </p>
+        <p> —Je vais vous en donner, moi. </p>
+        <p> M. le comte de Seckendorf a insulté hier une jeune fille sans défense. Je passais, j'ai voulu la protéger, il a levé sur moi sa canne. Je l'ai arrachée de ses mains et jetée sur la chaussée. Voilà toute l'injure. C'est à vous, messieurs, de voir quelle réparation peut demander votre ami. </p>
+        <p> —Monsieur, dit celui qui avait déjà parlé, ceci ne nous regarde pas. Seckendorf veut se battre et il se battra. </p>
+        <p> —Comme il vous plaira. M. le comte de Seckendorf est-il Français? </p>
+        <p> —Non, monsieur; il a comme moi l'honneur d'être Prussien. </p>
+        <p> —Je vous en fais à tous deux mon compliment. Soyez assez bon, monsieur, je vous prie, pour lui dire de ma part que cette querelle est une vraie querelle d'Allemand; du reste, je suis à ses ordres. Quelle est votre heure? </p>
+        <p> —Trois heures. </p>
+        <p> —Votre arme? </p>
+        <p> —Le sabre. </p>
+        <p> —Et le lieu? </p>
+        <p> —Vincennes, derrière les bosquets d'Idalie. </p>
+        <p> Les deux envoyés sortirent. </p>
+        <p> —Sais-tu te battre? dit Buridan. </p>
+        <p> —Moi! point du tout. </p>
+        <p> —Le Prussien va te découper comme une mauviette. </p>
+        <p> —Je l'en défie, dit Claude. J'ai le poignet solide, le pied leste, et du sang-froid. Ces trois choses valent bien cent leçons de Grisier.» </p>
+        <p> A trois heures, Claude, accompagné de Buridan et d'un autre témoin, arrivait au bosquet d'Idalie. Il y trouva son adversaire. Les sabres mesurés et les cérémonies d'usage terminées, les deux adversaires se mirent en garde. </p>
+        <p> Dès la première passe, les deux témoins de Claude frémirent. Seckendorf était de première force au sabre. Claude seul ne désespéra point. Il s'escrimait d'estoc et de taille, attaquant toujours avec un vivacité inouïe et ne cherchant pas à se défendre. La seule chose prudente qu'il pût faire était de ne montrer aucune prudence. Au bout d'une minute, il reçut dans la poitrine la pointe du sabre du Prussien et tomba. Le vainqueur essuya proprement son sabre sur l'herbe, endossa sa redingote et partit avec ses témoins sans prononcer une parole. </p>
+        <p> Claude s'évanouit. On le transporta chez lui. </p>
+        <p> «La blessure est grave, dit le chirurgien à Buridan, mais il n'en mourra pas. Le sang qu'il a perdu est la seule cause de sa faiblesse.» </p>
+        <p> Buridan s'assit à côté du lit et prit soin du blessé. </p>
+        <p> Le dimanche suivant, Claude était hors d'affaire. Trop faible encore pour se lever, il ne songeait plus qu'à la visite de Juliette. Dès cinq heures du matin, il s'agitait impatiemment dans son lit. Neuf heures sonnèrent, et une main légère frappa à la porte. </p>
+        <p> «Vénus est exacte comme un huissier, dit Buridan. </p>
+        <p> —Au nom du ciel! dit Claude, ouvre la porte et épargne-lui tes mauvaises plaisanteries.» </p>
+        <p> Juliette entra, et fut très surprise de trouver Claude dans son lit. Elle fit un pas en arrière. </p>
+        <p> «Pardon, messieurs, dit-elle, je me trompe, sans doute. </p>
+        <p> —Non, voua ne vous trompez pas, céleste jeune fille, dit le beau Buridan. Vous êtes ici dans le palais de Raphaël. Malheureusement, Raphaël a reçu un coup de sabre dans le sternum, et je remplis, par intérim, le rôle de grand-maître des cérémonies. </p>
+        <p> —Quoi! vous êtes blessé, monsieur, et à cause de moi peut-être? </p>
+        <p> —Rassurez-vous, mademoiselle, dit Claude, c'est une blessure très légère, et je suis trop heureux,... </p>
+        <p> —De mourir à votre service, interrompit Buridan. Oui, mademoiselle, des chevaliers français tel est le caractère. </p>
+        <p> —Buridan, s'écria Clause, viens ici. </p>
+        <p> Scélérat, lui dit-il tout bas, tu veux donc me faire mourir. Tu vas l'effrayer et l'obliger de partir. Je me sens de l'appétit. Va commander le déjeuner. </p>
+        <p> —Pour trois? demanda le peintre. </p>
+        <p> —Assurément.» </p>
+        <p> Buridan sortit, la belle Juliette s'approcha de Claude et lui dit d'une voix émue: </p>
+        <p> «Combien je regrette, monsieur, le malheur qui vous frappe. Je ne me consolerai jamais d'en avoir été cause. </p>
+        <p> —Mademoiselle, dit Claude voulez-vous guérir d'un seul coup ma blessure et me rendre plus heureux que je ne le fus jamais? Donnez-moi votre main.» </p>
+        <p> Juliette la tendit avec un sourire charmant. Le bon Claude la baisa avec une telle dévotion que la jeune fille rougit et alla s'asseoir près de la fenêtre. </p>
+        <p> «Je viens de l'effrayer comme un sot, pensa Claude. O malheur éternel! je l'adore, et elle ne m'aimera jamais.» </p>
+        <p> Des deux côtés, le silence devenait embarrassant. Le peintre vit que Juliette allait sortir; il fit un effort sur lui-même. </p>
+        <p> «Mademoiselle, dit-il, reconnaissez-vous cette esquisse, que j'ai commencée le lendemain de notre rencontre?» </p>
+        <p> Elle la regarda et la trouva fort ressemblante. </p>
+        <p> «Ah! monsieur, dit-elle naïvement, que vous m'avez faite belle! Est-ce le portrait que vous voulez me donner pour la fête de ma tante? </p>
+        <p> —Non, Juliette, ceci est un souvenir que je garderai éternellement de la première heure de ma vie où j'aie goûté un bonheur parfait. Quant à votre portrait, vous l'aurez, si vous voulez poser seulement quelques heures devant moi. </p>
+        <p> —Oui, monsieur, aussi longtemps que vous voudrez. Ma tante sera bien heureuse.» </p>
+        <p> Buridan rentra, suivi d'un garçon de restaurant qui portait dans ses bras un déjeûner fort convenable. Le vin surtout n'y manquait pas. </p>
+        <p> «O la plus belle des Grâces, dit Buridan, divine Pasithéa, aidez-moi, je vous prie, à mettre la nappe. </p>
+        <p> —Monsieur, dit simplement Juliette, je le veux bien; mais pourquoi m'appelez-vous la divine Pasithéa? </p>
+        <p> —Pasithéa, dit le peintre, était une impératrice qui n'avait pas sa pareille pour raccommoder les serviettes de son mari et ourler son linge. </p>
+        <p> —Eh bien, monsieur, c'est justement mon fort, et de plus, je fais de belles chemises, je m'en vante. </p>
+        <p> —Voilà, dit Buridan, une rencontre admirable; j'ai besoin justement d'une douzaine de chemises, et si vous voulez bien vous charger de la commande, ma chère demoiselle Pasithéa.... </p>
+        <p> —Juliette, monsieur, interrompit-elle. </p>
+        <p> —C'est cela même, Juliette Pasithéa. </p>
+        <p> —Le déjeuner sera froid, dit Claude, qui craignit quelque plaisanterie trop forte de son ami. Mangeons.» </p>
+        <p> Le déjeuner fut très gai. Claude était plongé dans les ravissantes délices d'un premier amour. Tout ce que disait Juliette lui paraissait admirable. Son ingénuité le remplissait de joie. Il était devant elle comme une mère qui trouve dans les premières paroles de son enfant des symptômes d'un génie supérieur. Elle demandait à boire avec une grâce sans pareille. Elle se renversait sur sa chaise d'une façon toute divine. Elle riait avec une délicatesse exquise. Oh! les belles dents! les purs diamants! Oh! la bouche petite et gracieuse! Oh! les yeux bleus et doux! Oh! les cheveux fins et soyeux! Claude n'avait pas tort d'admirer. C'était une chevelure abondante et épaisse comme une forêt des tropiques. Disons tout en un mot. Elle était vraiment belle, et Claude l'adorait. </p>
+        <p> Pendant ce temps, Buridan ne perdait pas un coup de dent. C'était un bon compagnon, peu mélancolique, qui aimait toutes les femmes, et qui, moyennant quelques complaisances, les tenait quitte de tout. Claude s'étant égaré dans une théorie platonique, Buridan lui répondit avec chaleur: </p>
+        <p> «Mon petit, ta méthode peut être bonne, mais la mienne est excellente. Les femmes sont faites pour rire, pour aimer et pour avoir des enfants. Hors de là, elles ne sont bonnes à rien. </p>
+        <p> —Oh! dit Claude indigné. </p>
+        <p> —Tu as beau te récrier, reprit Buridan, il faut se soumettre à l'inflexible vérité. Dis-leur qu'elles sont belles, elles te sauteront au cou; parle-leur de philosophie, tu les verras bâiller comme des carpes hors de l'eau. Prends la plus vertueuse de toutes, dis-lui qu'elle a le pied bien fait, elle relèvera sa robe jusqu'au genou. Tu ne peux pas savoir tout cela, mon pauvre Quasimodo; tu vis comme un ermite, et les pensées de ce monde ne t'occupent guère; mais je les connais, moi, et je te jure que la plus sage de toutes est une écervelée. </p>
+        <p> —Tais-toi, malheureux ivrogne, dit Claude, et cuve en paix ton vin. N'outrage pas la seule partie du genre humain qui vaille encore quelque chose. Qui es-tu pour parler ainsi? Parce que tu barbouilles quelques singes et quelques chats, tu te crois un grand homme et quelque chose de précieux sur la terre. Réponds-moi, Buridan; combien de gens ont barbouillé, barbouillent et barbouilleront mille fois mieux que toi? Quelle idée as-tu mise au monde? Quelle invention as-tu faite pour la patrie? Toi qui n'atteins dans tes oeuvres la beauté véritable que par hasard, et qui souvent la défigures; toi qui es fier de quelques coups de pinceau où peut-être son ombre a laissé des traces, tu oses mépriser la femme, qui est la beauté même, l'éternelle beauté, et la seule image de Dieu sur la terre! Sur la foi de quelques créatures qui ne sont d'aucun sexe, tu oses dire que les femmes ne sont faites que pour la joie et les plaisirs. Rentre en toi-même, malheureux Buridan, et confesse ton repentir, si tu ne veux pas que la foudre céleste te punisse de ton blasphème. </p>
+        <p> —Brrrr! dit le peintre en allumant un cigare, comme tu pérores pour un homme qui a reçu deux pouces de fer entre la troisième et la quatrième côte! Respectons ce sexe aimable, puisque tu le protéges. Divine Pasithéa, fumez-vous? </p>
+        <p> —Non, monsieur, je vous remercie. </p>
+        <p> —C'est dommage; voilà un vrai puro .» </p>
+        <p> En même temps, il entonna, d'une voix puissante cette chanson: </p>
+        <div type="poem">
+          <lg>
+            <l> Aux environs de Lille en Flandre (bis) </l>
+            <l> Lon lan la {bis) </l>
+          </lg>
+          <lg>
+            <l> Je rencontrai deux Flamandes (bis) </l>
+            <l> Lon lan la. (bis) </l>
+          </lg>
+        </div>
+        <p> Ici le sage Claude interrompit fort à propos le chanteur. </p>
+        <p> «Que le diable t'emporte! dit Buridan, à moitié ivre. On ne peut donc plus rire ici. On ne boit plus, on ne chante plus, on parle poliment des belles. Si cela continue, on ne pourra plus fumer. Adieu, les amis. Je reviendrai quand vous serez plus gais. </p>
+        <p> Son départ fit grand plaisir à Claude. </p>
+        <p> «Votre ami est bien amusant, dit Juliette, mais il est bien mal élevé. </p>
+        <p> —C'est un charmant garçon, répliqua le peintre, qui a été mon témoin mardi dernier et qui a grand soin de ma blessure; mais il n'est pas habitué à parler aux honnêtes femmes. </p>
+        <p> —Est-ce qu'il a des maîtresses? demanda la jeune fille. </p>
+        <p> —Je n'en sais rien, répondit Claude étonné. Pourquoi me faites-vous cette question? </p>
+        <p> —J'ai parlé au hasard, dit-elle en rougissant. Qu'est-ce que cela me fait, que M. Buridan ait des maîtresses ou non?» </p>
+        <p> Si Claude avait eu plus d'expérience, cette rougeur subite l'eût inquiété. Peu à peu, Juliette devint pensive, et ne répondit plus qu'à peine aux discours du jeune homme. Après quelques instants, elle se leva, promettant de revenir. </p>
+        <p> Huit jours après, Claude, encore fatigué de la perte de son sang, mais déjà guéri, commença le portrait de la belle Juliette. On croira aisément qu'il n'allait pas vite en besogne. Aucune esquisse ne lui paraissait digne de son modèle. Il s'était fait pendant la semaine un plan de campagne profondément combiné. «Puisque le hasard veut que j'aie rencontré, disait-il, l'une des plus jolies filles de Paris, et à coup sûr l'une des plus innocentes, je veux qu'elle n'ait pas d'autre maître que moi. Le ciel m'a refusé la beauté, mais il m'a laissé l'ascendant qu'un esprit cultivé et une passion forte donnent à un homme sur une femme ignorante et pure. J'éclairerai son esprit, j'élèverai son âme, je lui ferai connaître le ciel et la terre, et peut-être pourrai-je surmonter les obstacles que m'oppose la nature. Le destin se lassera de poursuivre un malheureux.» </p>
+        <p> Claude était éloquent; il était savant comme un peintre de ce seizième siècle, où Michel-Ange et Raphaël connaissaient et pratiquaient à la fois tous les arts. Tout le monde sait la puissance de la solitude. Le peintre, plein de force et de génie, avait vécu comme les solitaires de la Thébaïde; ses passions, longtemps contenues, n'en étaient que plus fortes. Il aimait Juliette avec la violence d'un homme qui aime pour la première fois, et qui n'attache de prix qu'à l'amour. </p>
+        <p> Elle se sentait troublée devant lui sans savoir pourquoi. Il affectait de lui parler peinture; mais ses yeux ardents, fixés sur elle, l'instruisaient assez de ce qu'il ne voulait pas avouer. Il était heureux d'aimer; mais le sentiment de son irrémédiable laideur glaçait la parole sur ses lèvres. Le triste nom de Quasimodo lui revenait sans cesse à l'esprit. La laideur n'est-elle pas, comme la vieillesse, l'antipode de l'amour? </p>
+        <p> Après une heure de travail, la belle Juliette voulut retourner à Passy. Claude l'accompagna, et la conduisit à travers le bois de Boulogne. La matinée était belle; les arbres étaient couverts de feuilles; le ciel était pur, et les oiseaux chantaient sur la cime des chênes. Claude se sentait rempli d'une joie délicieuse. Il courait légèrement dans les allées, entraînant sa compagne, qui était aussi gaie que lui-même. Il jouissait du bonheur de faire goûter le premier à cette âme naïve le fruit de l'arbre de la science. Il lui expliquait tout ce qu'il voyait; il lui parlait botanique, religion, philosophie, histoire même, proportionnant son langage à la faiblesse de cette intelligence encore peu exercée. Il lui enseignait les lois et les moeurs des animaux, des végétaux et leurs amours; il parlait des pays lointains, de l'Italie, qu'il avait vue; de l'Orient, qu'il voulait voir et qu'il devinait déjà. La jeune fille écoutait ses discours avec une admiration profonde; elle comprenait tout, et elle questionnait toujours. Au sortir du bois, Claude voulut se retirer. </p>
+        <p> «Pourquoi ne venez-vous pas avec moi? dit-elle. </p>
+        <p> —Votre tante ne me connaît pas. </p>
+        <p> —Elle vous connaît parfaitement. Croyez-vous que je n'aie point parlé de vous le premier jour, et du service que vous m'avez rendu? Suis-je si ingrate? Ma tante sera ravie de vous voir. Elle sait la surprise que vous lui ménagez, et serait offensée si vous refusiez de venir chez elle. </p>
+        <p> —Par le Dieu vivant! pensa le peintre, je suis en veine aujourd'hui. Une journée tout entière avec elle! Aurais-je osé l'espérer?» </p>
+        <p> Là-dessus, sans faire la moindre objection, il suivit la jeune fille et entra chez la fruitière. </p>
+        <p> C'était une grosse femme gaie, rouge de teint, active, bavarde, prompte à faire connaissance, et regardant comme ses amis tous ceux qu'elle connaissait. Elle était riche, et quarante mille francs placés en rentes sur l'État, joints aux profits de son petit commerce, ajoutaient à son bonheur. Elle avait une tendresse aveugle pour sa nièce, qu'elle regardait comme le miroir de la sagesse et comme un puits d'érudition. </p>
+        <p> A peine eut-elle vu le peintre, qu'elle lui donna la main, le fit asseoir, le fit manger, le fit parler, et lui vanta sa nièce, de sorte qu'au bout de trois quarts d'heure, Claude croyait avoir vécu toute sa vie dans la maison et prenait goût à la fruiterie. </p>
+        <p> Le dimanche suivant était le jour de la fête de la bonne femme, et il fut convenu que Claude se hâterait de terminer le fameux portrait, et que la fruitière donnerait ce jour-là un grand dîner, suivi d'un bal de voisins. </p>
+        <p> Claude partit. A peine était-il sur le seuil que Juliette le rappela. Il accourut, léger comme un chevreuil. </p>
+        <p> «A propos, dit-elle, puisque ma tante donne un grand dîner dimanche, ne voulez-vous pas amener quelqu'un de vos amis? </p>
+        <p> —Je n'ai guère d'amis, dit Claude. </p>
+        <p> —Et ce monsieur qui vous a servi de témoin, et qui m'appelait la divine Pasithéa, comment le nommez-vous? </p>
+        <p> —Buridan. </p>
+        <p> —Il est bien mal élevé, mais il nous fera rire. N'est-ce pas, tante, tu veux bien que M. Claude l'invite? </p>
+        <p> —Si je le veux! dit la fruitière. Tu n'as qu'à parler, ma petite, et tout ce que tu demanderas te sera servi sur-le-champ. </p>
+        <p> —Je l'amènerai, dit Claude. Et vous, Juliette, ne m'accorderez-vous rien en échange? </p>
+        <p> —Que voulez-vous que je vous donne? </p>
+        <p> —Cette rose que vous tenez. </p>
+        <p> —La voici.» </p>
+        <p> Claude rentra chez lui, plein d'amour et d'illusions. Il aimait, et paraît son idole de toutes les vertus. Juliette s'endormit eu rêvant que Buridan l'embrassait. </p>
+        <lb/>
+        <lb/>
+      </div>
+      <div title="III. Grandes réjouissances. L'oie aux marrons et la famille Ventéjols. Ressemblance de M. Paturot et de Napoléon. Geneviève de Brabant et la phrénologie. Pensées diverses. Conclusion." type="chapter">
+        <head> III </head>
+        <head> Grandes réjouissances. L'oie aux marrons et la famille Ventéjols. Ressemblance de M. Paturot et de Napoléon. Geneviève de Brabant et la phrénologie. Pensées diverses. Conclusion. </head>
+        <lb/>
+        <p> Le lendemain, Buridan vint dans l'atelier de son ami. </p>
+        <p> «Eh bien! dit-il, comment va ton coup de sabre, chevalier de la Triste-Figure? </p>
+        <p> —Parfaitement. J'en serai quitte pour une cicatrice. </p>
+        <p> —Qu'est devenue la petite Pasithéa? </p>
+        <p> —Une estimable lingère de la rue Vivienne. </p>
+        <p> —Son portrait est-il terminé? </p>
+        <p> —Pas encore. Elle doit venir ce soir, après son travail, pour me donner une séance. </p>
+        <p> —Heureux coquin! ce n'est pas à un bel homme comme moi qu'une pareille chance arrivera jamais. Ainsi, tu n'as pas besoin de courir les rues à la recherche de l'amour. Tu as du pain sur la planche. </p>
+        <p> —Que veux-tu dire? </p>
+        <p> —Parbleu! il est bien clair que les petites filles ne viennent pas à dix heures du soir dans ton atelier pour entendre les histoires de la Morale en action . </p>
+        <p> —Mon cher Buridan, tu es beau, tu es bien fait, tu as de l'esprit, tu as de l'argent, mais tu n'as pas le sens commun. Apprends que je suis trop heureux d'avoir trouvé cette petite fleur des champs, cette rose sauvage, poussée entre deux pavés de Paris, pour la souiller même d'un désir. Premièrement, s'il me plaisait de lui dire que je l'aime, je doute que la confidence fût bien reçue; secondement, je ne le ferai pas par égard pour moi-même. L'idéal est trop rare et trop beau pour que je me hâte de le transformer en une vulgaire et prosaïque réalité. </p>
+        <p> —Salut, dit Buridan, à l'amant de l'idéal, à l'esclave des belles, au vertueux Amadis. Claude, tu n'es pas de ce temps. Songe donc, mon cher ami, que nous sommes en plein Paris, en plein dix-neuvième siècle, en pleine civilisation. Songe que nous avons un roi, une charte, deux Chambres, des électeurs, des usines, des chemins de fer et des bureaux de tabac. Songe qu'il faut vivre comme tout le monde, et sors de ton rêve sublime et ridicule. Cette petite est jolie, elle paraît bonne enfant. Tu n'as pas le temps de prendre femme et d'interrompre tes travaux pour donner la becquée à toute une marmaille. L'Institut et la postérité te réclament. Cependant, il ne faut pas vivre seul; cela est immoral. Va donc, et puisque le hasard t'offre une proie facile et qui n'est pas à dédaigner, par amour pour toi-même, pour ta patrie et pour la gloire, fais-en ta Fornarina. Tu hausses les épaules, tu fais le vertueux! Honnête et splendide idiot! Si tu ne la prends pas, quelqu'autre la prendra. Un de ces soirs, un cocher robuste et largement abreuvé de vin d'Argenteuil lui offrira son coeur et sera accepté, et tu resteras sur la rive, dans la pose ridicule d'Hercule à qui Nessus enlève Déjanire. </p>
+        <p> —Tu me fais regretter, dit Claude, la commission dont elle m'a chargée. </p>
+        <p> —Quelle commission? </p>
+        <p> —Tu es prié d'assister à la dissection d'une oie aux marrons, dimanche prochain, chez sa tante, la fruitière de Passy. On dansera. </p>
+        <p> —Quoi! vraiment, la bonne femme m'invite. </p>
+        <p> —Et moi aussi, par dessus le marché. </p>
+        <p> —Décidément, cette petite a du discernement. Eh bien! va pour l'oie aux marrons; cela m'amusera.» </p>
+        <p> Le dimanche suivant, grâce au zèle de Juliette, qui venait poser tous les soirs dans l'atelier de Claude, le portrait était terminé. Le peintre, accompagné de Buridan, l'apporta à la fruitière en grande cérémonie. </p>
+        <p> Celle-ci, pour n'être pas dérangée dans un si grand jour, avait dès le matin fermé sa boutique. Elle attendait ses invités dans sa chambre à coucher, dont elle avait fait à cette occasion une salle à manger. Un bonnet blanc à larges plis ornait sa bonne et rougeaude figure. Autour d'elle, et dans une attitude recueillie, les yeux fixés sur l'oie aux marrons qui rôtissait devant le feu, se tenaient huit personnes pleines de calme et de dignité. C'était, par ordre d'importance, le boulanger, M. Paturot, avec sa femme et sa fille, Mlle Cécile Paturot, et le marchand de vin, M. Ventéjols, avec sa femme, ses deux fils, âgés, l'un de huit ans, l'autre de dix ans, et sa fille, Mlle Caroline Ventéjols, âgée de quatorze ans. </p>
+        <p> Quand les deux amis entrèrent, il y eut un grand mouvement dans l'honorable société qui regardait rôtir l'oie. Ce fut quelque chose de semblable à ce que les sténographes de la défunte Assemblée nationale exprimaient par le mot: sensation . La bonne fruitière ayant prévenu ses amis qu'elle devait recevoir deux messieurs qui dînaient chez les ministres et qui portaient des gants les jours de fête, on s'attendait à des merveilles. </p>
+        <p> L'attente générale fut un peu déçue. Claude entra, donna la main à la fruitière et à Juliette, leur montra le portrait qui était fort ressemblant, salua tout le monde et s'assit. Il fut trouvé fier, et, si l'on n'avait été plus pressé de dîner que de médire, il n'aurait pas été épargné. </p>
+        <p> Buridan, qui ne doutait de rien, fit une entrée magnifique. Il se jeta dans les bras de la fruitière et de Juliette, ce qui séduisit du premier coup les deux dames et ne plut guère à Claude. Puis il serra cordialement la main de tous les assistants, et tira par mégarde les oreilles d'Athanase Ventéjols, l'aîné des fils du marchand de vin. </p>
+        <p> Cela fait, on se mit à table. Je passe sous silence, le cliquetis des fourchettes et le bruit des verres. </p>
+        <p> «Vous avez une bonne figure, dit tout à coup Buridan au marchand de vin en tournant la salade; car, excepté celui de son métier, il avait toutes sortes de talents. A table, vous avez l'air de Napoléon. L'auriez-vous connu, par hasard? </p>
+        <p> —Moi, monsieur, point du tout, dit Ventéjols; mais ma mère a connu un hussard de la vieille garde, qui le voyait fréquemment. </p>
+        <p> —C'est une chose surprenante que ces rencontres, continua Buridan; il avait une redingote grise. </p>
+        <p> —Mais la mienne est noire. </p>
+        <p> —Qu'importe? C'est toujours une redingote. Il avait des bottes à l'écuyère. </p>
+        <p> —Je n'ai que des souliers, dit Ventéjols. </p>
+        <p> —Eh bien, quelle différence y voyez-vous? Qu'est-ce qu'un soulier! c'est une botte à qui l'on a coupé la tête. </p>
+        <p> —C'est pourtant vrai, dit le marchand de vin. </p>
+        <p> —Je parie, dit Buridan, que votre femme s'appelle Joséphine. </p>
+        <p> —Et vous gagnerez votre pari, monsieur, elle s'appelle Joséphine-Eudoxie-Césarine. Hein! Césarine, quel honneur pour toi de t'appeler Joséphine, comme la femme de l'empereur des Français, roi d'Italie. </p>
+        <p> —Il y a pourtant une différence, ajouta le peintre. </p>
+        <p> —Laquelle? demanda le marchand de vin inquiet. </p>
+        <p> —Il avait un chapeau à cornes.» </p>
+        <p> Cette conclusion admirable enleva l'assemblée. Buridan devint le roi du festin. Il chanta, il fit des calembours, il imita le glou-glou des bouteilles, le chant du coq, celui du canard la veille des jours de pluie, celui de la poule amoureuse. Tous les yeux étaient fixés sur lui, et, excepté Claude, tout le monde l'admirait. </p>
+        <p> «Je ne m'étonne pas, dit M. Paturot à sa femme, que ce gaillard dîne souvent chez les ministres. Si j'étais M. Guizot, il ne dînerait que chez moi. </p>
+        <p> —Papa, dit Cécile Paturot, prie M. Buridan de nous chanter quelque chose.» </p>
+        <p> D'un geste, Buridan commanda le silence. </p>
+        <p> «Surtout, lui dit Claude, fais attention que tu chantes devant des dames. </p>
+        <p> —C'est bien, austère Caton,» répliqua Buridan. </p>
+        <p> La recommandation de Claude fut fort mal reçue. On l'attribua à la jalousie, et les dames regardèrent le peintre de travers. </p>
+        <p> «Maman, dit Caroline Ventéjols, qu'est-ce que c'est qu'un austère Caton? </p>
+        <p> —Tu le vois bien, répondit aigrement la mère, c'est un homme très laid qui est jaloux, qui ne s'amuse pas et qui ne veut pas qu'on s'amuse.» </p>
+        <p> Un regard sévère du père rétablit le calme dans la famille Ventéjols. Claude entendit ce dialogue et sourit. Malheureusement, il regarda Juliette qui était sa voisine à table, et qui l'écoutait avec distraction. Il remarqua qu'elle n'avait d'attention que pour les discours de Buridan, et il se sentit le coeur serré d'une tristesse mortelle. Il se résignait à n'être pas aimé; mais la voir aimer un autre que lui, c'était une douleur trop forte pour Claude. Hélas! pensait-il, j'aurai le nom et le sort du pauvre Quasimodo. Pendant ces réflexions, Buridan chantait: </p>
+        <lb/>
+        <p> Après cette célèbre complainte, qui est l'Iliade du Messager boiteux et de l'Almanach de Liége , Buridan, content d'avoir égorgé le traître Golo, céda la parole à M. Paturot. Chacun chanta à son tour, et Claude lui-même, avec plus de chaleur et de verve que personne. Le dîner finit gaiement par une séance de phrénologie, où Buridan fit admirer la variété de ses connaissances. M. Paturot, jaloux de voir son compère Ventéjols comparé à Napoléon, se soumit le premier à l'examen du savant. </p>
+        <p> «Monsieur, dit le peintre en palpant le boulanger avec gravité, votre tête présente les plus singuliers phénomènes que la science ait eu depuis longtemps occasion d'observer. Le front est d'un boulanger ordinaire, mais l'occiput annonce une intelligence sans bornes, et le sinciput, une fermeté rare. Ce que vous avez décidé, vous le voulez fermement, n'est-ce pas? </p>
+        <p> —Oh! monsieur, dit Paturot se redressant avec orgueil, je suis comme un marbre. Si ma femme me résistait, je lui casserais les reins! Si ma fille me désobéissait, je la jetterais par la fenêtre. C'est mon caractère.» </p>
+        <p> Tout le monde se mit à rire, et Mme Paturot voulut réclamer; mais Buridan fit signe de se taire. L'assemblée était tout oreilles. </p>
+        <p> «Monsieur, continua Buridan, je vous en félicite. C'est cette rare et héroïque fermeté qui fait les grands hommes. Au besoin, vous seriez Brutus. </p>
+        <p> —Qu'est-ce que Brutus? demanda Cécile. </p>
+        <p> —Parbleu! dit sa mère, tu le vois bien, c'est une brute, un imbécile comme ton père, qui ne voit pas que monsieur se moque de lui. </p>
+        <p> —Silence, ma femme! dit Paturot d'une voix menaçante. </p>
+        <p> —Oh! cria la dame d'une voix acariâtre, tes gros yeux ne me font pas peur. Depuis vingt ans que nous sommes mariés, je te connais bien. Tu es toujours le même: Constant-Fidèle Paturot, qui... </p>
+        <p> —Vous êtes intrépide, interrompit l'impitoyable Buridan. </p>
+        <p> —Comme un lion, monsieur. Je suis tambour de la garde nationale, et j'ai failli être soldat, c'est tout dire. </p>
+        <p> —Passons, dit le peintre, aux traits du visage. Vous avez le nez grand et gros. Avouez que vous êtes un grand scélérat. </p>
+        <p> —Monsieur, dit Paturot d'un ton suppliant, parlez plus bas, je vous en conjure. Il faut bien que jeunesse se passe, et si ma femme le savait! Voulez-vous me perdre?» </p>
+        <p> L'examen se prolongea au milieu des plaisanteries de tous les convives. De la phrénologie Buridan passa à la chiromancie, et trouva moyen d'intriguer et de contenter tout le monde. Quand il tint la main de Juliette entre les siennes: </p>
+        <p> «Voici, dit-il, une ligne qui annonce qu'il vous arrivera bientôt un grand bonheur. Vous aimerez un jeune homme blond et vous en serez passionnément aimée. Il y aura un mariage dans l'année.» </p>
+        <p> En même temps, il lui serra doucement la main, Juliette baissa les yeux et rougit. Que faisait Claude? Il assistait, impassible en apparence, aux succès de son ami, et il faisait d'horribles efforts pour rire de ses plaisanteries. </p>
+        <p> «Hélas! pensait-il, voilà comme il faudrait être pour plaire à Juliette. Elle n'a d'yeux que pour lui. Il est beau! O douleur! ô malheureux Quasimodo.» </p>
+        <p> On dansa beaucoup, et Buridan ne brilla pas moins par ses entrechats que par ses discours. Il sut plaire à tout le monde, et surtout à la bonne fruitière qu'il fit valser en dépit de ses cinquante-cinq ans. Il se multipliait pour faire sauter les femmes et pour boire avec les hommes. </p>
+        <p> A minuit, tous les conviés se retirèrent, Claude et Buridan, priés de revenir, le dernier surtout, s'y engagèrent volontiers, et partirent ensemble pour Paris, à pied. Sur la route, Claude, absorbé dans ses tristes réflexions, gardait le silence. </p>
+        <p> «Tout le bonheur que je m'étais promis, pensait-il, s'envole en un instant. Un étourdi, en se jouant, m'enlève celle que j'aime. </p>
+        <p> —Qu'as-tu donc? lui dit Buridan étonné, je ne te reconnais pas. As-tu du vague à l'ame . </p>
+        <p> —Ce n'est rien, répondit Claude, honteux de sa faiblesse. Le grand air m'a fait mal. </p>
+        <p> —Un buveur d'eau, dit Buridan avec compassion, ne devrait s'aventurer qu'avec des gens de sa secte. Va te coucher, Basile, tu sens la fièvre.» </p>
+        <p> Les deux amis se séparèrent. Le lendemain, Claude attendit inutilement Juliette. Elle ne devait plus revenir dans son atelier. Trois semaines s'écoulèrent sans événement. Le peintre avait besoin de toute sa philosophie pour ne pas aller voir la vieille fruitière. Enfin, il partit un dimanche pour Passy. </p>
+        <p> «Ah! vous voilà, monsieur, dit la bonne femme en le voyant. Pourquoi ne venez-vous pas plus souvent?» </p>
+        <p> Claude allégua un travail important et pressé. </p>
+        <p> «Où est Juliette? demanda-t-il. </p>
+        <p> —Je l'attends depuis ce matin, répondit la fruitière. Restez avec nous; monsieur votre ami doit la conduire et vous partirez avec lui. </p>
+        <p> —Ah! c'est Buridan qui est chargé de la conduire, dit Claude qui pâlit de douleur et de jalousie. Est-ce que vous ne trouvez pas que c'est un guide bien jeune pour Mlle Juliette! </p>
+        <p> —Qu'importe! dit la fruitière. Les jeunes gens aiment à rire, mais Juliette est sage. Entre nous, je crois bien que M. Buridan lui fait la cour. Ma nièce n'est pas un mauvais parti. Après ma mort, savez-vous qu'elle aura plus de 60,000 francs! </p>
+        <p> —A quoi bon détromper cette pauvre femme, se dit le peintre. Tous mes avis ne la rendront pas plus sage, et je passerais pour un jaloux et un malhonnête homme.» </p>
+        <p> Enfin, Buridan et Juliette arrivèrent, les yeux brillants et pleins de gaieté. Ils racontèrent qu'ils s'étaient égarés dans le bois de Boulogne, et qu'ils avaient poussé jusqu'à Saint-Cloud. Juliette salua Claude avec amitié, mais avec froideur; il lut son sort dans les yeux de la jeune fille, et partit désespéré. Buridan ne chercha pas à le retenir. </p>
+        <p> Quelques jours après, Claude frappa à la porte de son ami dès six heures du matin. Buridan à demi-habillé entrebâilla la porte. </p>
+        <p> «As-tu besoin de moi? dit-il à Claude. </p>
+        <p> —Non. Je venais te voir. </p>
+        <p> —Diable! le moment n'est pas favorable. Il y a des dames. Pasithéa, c'est notre ami Claude, celui qui a fait ton portrait et qui s'est fait sabrer pour toi. Veux-tu le recevoir. </p>
+        <p> —Y penses-tu? dit Juliette. </p>
+        <p> —Parbleu! si j'y pense. Tu es charmante en bonnet de nuit, et Claude sera bien aise de te voir.» </p>
+        <p> Claude reconnut la voix de celle qu'il aimait. Il sortit, la mort dans l'âme, sans dire un mot à Buridan. Il alla à Vincennes, et de là à Passy. Il rentra chez lui sans pouvoir apaiser la fièvre qui le dévorait. Il haïssait Juliette, et Buridan, et lui-même, et toute la nature. Il était tenté de les tuer tous les deux, mais sa douceur naturelle reprit le dessus. Après tout, pensa-t-il, aucun des deux n'est cause de mon malheur. Pourquoi ai-je aimé celle qui ne pouvait pas m'aimer? Je le savais d'avance; j'ai dû m'y résigner. Le mal est en moi, et non ailleurs. Tant que je vivrai, je serai malheureux; mourons donc. </p>
+        <p> Ayant résolu de se tuer, il chargea son pistolet, et écrivit à Juliette la lettre suivante: </p>
+        <p> «Juliette, je vous aimais, et vous êtes la maîtresse d'un autre! Quand vous recevrez ce billet, je serai mort. Adieu!» </p>
+        <p> Il cacheta ce billet, le porta lui-même à la poste, et l'affranchit avec un sang-froid singulier. En rentrant, il s'assit, appuya sur son coeur le canon du pistolet, et fit feu. La balle traversa le coeur. Claude mourut sur le champ. </p>
+        <p> Le soir, Juliette, assise près de Buridan, lut tout haut la lettre funèbre, et poussa un cri. Buridan courut chez son ami. On lui montra le corps inanimé du malheureux peintre. Le testament de Claude était ainsi conçu: </p>
+        <p> «Je lègue ma fortune, qui se compose de vingt mille francs, à Châteauroux, ma ville natale. Je désire que le conseil municipal fasse construire un grand gymnase gratuit, destiné à développer dans le peuple la force et la beauté du corps, qui sont si nécessaires au bonheur et à la tranquillité de l'âme.» </p>
+        <p> Deux mois après la mort de Claude, Juliette, abandonnée par Buridan, revenait tristement à Passy. </p>
+        <p> «Ah! si j'avais pu aimer Claude, disait-elle à sa tante, je ne serais pas si malheureuse aujourd'hui.» </p>
+        <p> Claude eut tort de se tuer. Tôt ou tard, il aurait oublié Juliette; il aurait aimé et on l'aurait aimé. «Toute âme est soeur d'une âme.» </p>
+        <lb/>
+        <p> FIN </p>
+        <p> End of the Project Gutenberg EBook of Claude et Juliette, by Alfred Assollant  *** END OF THIS PROJECT GUTENBERG EBOOK CLAUDE ET JULIETTE ***  ***** This file should be named 16874-h.htm or 16874-h.zip *****  This and all associated files of various formats will be found in:  http://www.gutenberg.org/1/6/8/7/16874/  Produced by Carlo Traverso, Renald Levesque and the Online  Distributed Proofreading Team at http://www.pgdp.net. This  file was produced from images generously made available  by the Bibliothèque nationale de France (BnF/Gallica)  Updated editions will replace the previous one--the old editions  will be renamed.  Creating the works from public domain print editions means that no  one owns a United States copyright in these works, so the Foundation  (and you!) can copy and distribute it in the United States without  permission and without paying copyright royalties. Special rules,  set forth in the General Terms of Use part of this license, apply to  copying and distributing Project Gutenberg-tm electronic works to  protect the PROJECT GUTENBERG-tm concept and trademark. Project  Gutenberg is a registered trademark, and may not be used if you  charge for the eBooks, unless you receive specific permission. If you  do not charge anything for copies of this eBook, complying with the  rules is very easy. You may use this eBook for nearly any purpose  such as creation of derivative works, reports, performances and  research. They may be modified and printed and given away--you may do  practically ANYTHING with public domain eBooks. Redistribution is  subject to the trademark license, especially commercial  redistribution.  *** START: FULL LICENSE ***  THE FULL PROJECT GUTENBERG LICENSE  PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK  To protect the Project Gutenberg-tm mission of promoting the free  distribution of electronic works, by using or distributing this work  (or any other work associated in any way with the phrase "Project  Gutenberg"), you agree to comply with all the terms of the Full Project  Gutenberg-tm License (available with this file or online at  http://gutenberg.net/license).  Section 1. General Terms of Use and Redistributing Project Gutenberg-tm  electronic works  1.A. By reading or using any part of this Project Gutenberg-tm  electronic work, you indicate that you have read, understand, agree to  and accept all the terms of this license and intellectual property  (trademark/copyright) agreement. If you do not agree to abide by all  the terms of this agreement, you must cease using and return or destroy  all copies of Project Gutenberg-tm electronic works in your possession.  If you paid a fee for obtaining a copy of or access to a Project  Gutenberg-tm electronic work and you do not agree to be bound by the  terms of this agreement, you may obtain a refund from the person or  entity to whom you paid the fee as set forth in paragraph 1.E.8.  1.B. "Project Gutenberg" is a registered trademark. It may only be  used on or associated in any way with an electronic work by people who  agree to be bound by the terms of this agreement. There are a few  things that you can do with most Project Gutenberg-tm electronic works  even without complying with the full terms of this agreement. See  paragraph 1.C below. There are a lot of things you can do with Project  Gutenberg-tm electronic works if you follow the terms of this agreement  and help preserve free future access to Project Gutenberg-tm electronic  works. See paragraph 1.E below.  1.C. The Project Gutenberg Literary Archive Foundation ("the Foundation"  or PGLAF), owns a compilation copyright in the collection of Project  Gutenberg-tm electronic works. Nearly all the individual works in the  collection are in the public domain in the United States. If an  individual work is in the public domain in the United States and you are  located in the United States, we do not claim a right to prevent you from  copying, distributing, performing, displaying or creating derivative  works based on the work as long as all references to Project Gutenberg  are removed. Of course, we hope that you will support the Project  Gutenberg-tm mission of promoting free access to electronic works by  freely sharing Project Gutenberg-tm works in compliance with the terms of  this agreement for keeping the Project Gutenberg-tm name associated with  the work. You can easily comply with the terms of this agreement by  keeping this work in the same format with its attached full Project  Gutenberg-tm License when you share it without charge with others.  1.D. The copyright laws of the place where you are located also govern  what you can do with this work. Copyright laws in most countries are in  a constant state of change. If you are outside the United States, check  the laws of your country in addition to the terms of this agreement  before downloading, copying, displaying, performing, distributing or  creating derivative works based on this work or any other Project  Gutenberg-tm work. The Foundation makes no representations concerning  the copyright status of any work in any country outside the United  States.  1.E. Unless you have removed all references to Project Gutenberg:  1.E.1. The following sentence, with active links to, or other immediate  access to, the full Project Gutenberg-tm License must appear prominently  whenever any copy of a Project Gutenberg-tm work (any work on which the  phrase "Project Gutenberg" appears, or with which the phrase "Project  Gutenberg" is associated) is accessed, displayed, performed, viewed,  copied or distributed:  This eBook is for the use of anyone anywhere at no cost and with  almost no restrictions whatsoever. You may copy it, give it away or  re-use it under the terms of the Project Gutenberg License included  with this eBook or online at www.gutenberg.net  1.E.2. If an individual Project Gutenberg-tm electronic work is derived  from the public domain (does not contain a notice indicating that it is  posted with permission of the copyright holder), the work can be copied  and distributed to anyone in the United States without paying any fees  or charges. If you are redistributing or providing access to a work  with the phrase "Project Gutenberg" associated with or appearing on the  work, you must comply either with the requirements of paragraphs 1.E.1  through 1.E.7 or obtain permission for the use of the work and the  Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or  1.E.9.  1.E.3. If an individual Project Gutenberg-tm electronic work is posted  with the permission of the copyright holder, your use and distribution  must comply with both paragraphs 1.E.1 through 1.E.7 and any additional  terms imposed by the copyright holder. Additional terms will be linked  to the Project Gutenberg-tm License for all works posted with the  permission of the copyright holder found at the beginning of this work.  1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm  License terms from this work, or any files containing a part of this  work or any other work associated with Project Gutenberg-tm.  1.E.5. Do not copy, display, perform, distribute or redistribute this  electronic work, or any part of this electronic work, without  prominently displaying the sentence set forth in paragraph 1.E.1 with  active links or immediate access to the full terms of the Project  Gutenberg-tm License.  1.E.6. You may convert to and distribute this work in any binary,  compressed, marked up, nonproprietary or proprietary form, including any  word processing or hypertext form. However, if you provide access to or  distribute copies of a Project Gutenberg-tm work in a format other than  "Plain Vanilla ASCII" or other format used in the official version  posted on the official Project Gutenberg-tm web site (www.gutenberg.net),  you must, at no additional cost, fee or expense to the user, provide a  copy, a means of exporting a copy, or a means of obtaining a copy upon  request, of the work in its original "Plain Vanilla ASCII" or other  form. Any alternate format must include the full Project Gutenberg-tm  License as specified in paragraph 1.E.1.  1.E.7. Do not charge a fee for access to, viewing, displaying,  performing, copying or distributing any Project Gutenberg-tm works  unless you comply with paragraph 1.E.8 or 1.E.9.  1.E.8. You may charge a reasonable fee for copies of or providing  access to or distributing Project Gutenberg-tm electronic works provided  that  - You pay a royalty fee of 20% of the gross profits you derive from  the use of Project Gutenberg-tm works calculated using the method  you already use to calculate your applicable taxes. The fee is  owed to the owner of the Project Gutenberg-tm trademark, but he  has agreed to donate royalties under this paragraph to the  Project Gutenberg Literary Archive Foundation. Royalty payments  must be paid within 60 days following each date on which you  prepare (or are legally required to prepare) your periodic tax  returns. Royalty payments should be clearly marked as such and  sent to the Project Gutenberg Literary Archive Foundation at the  address specified in Section 4, "Information about donations to  the Project Gutenberg Literary Archive Foundation."  - You provide a full refund of any money paid by a user who notifies  you in writing (or by e-mail) within 30 days of receipt that s/he  does not agree to the terms of the full Project Gutenberg-tm  License. You must require such a user to return or  destroy all copies of the works possessed in a physical medium  and discontinue all use of and all access to other copies of  Project Gutenberg-tm works.  - You provide, in accordance with paragraph 1.F.3, a full refund of any  money paid for a work or a replacement copy, if a defect in the  electronic work is discovered and reported to you within 90 days  of receipt of the work.  - You comply with all other terms of this agreement for free  distribution of Project Gutenberg-tm works.  1.E.9. If you wish to charge a fee or distribute a Project Gutenberg-tm  electronic work or group of works on different terms than are set  forth in this agreement, you must obtain permission in writing from  both the Project Gutenberg Literary Archive Foundation and Michael  Hart, the owner of the Project Gutenberg-tm trademark. Contact the  Foundation as set forth in Section 3 below.  1.F.  1.F.1. Project Gutenberg volunteers and employees expend considerable  effort to identify, do copyright research on, transcribe and proofread  public domain works in creating the Project Gutenberg-tm  collection. Despite these efforts, Project Gutenberg-tm electronic  works, and the medium on which they may be stored, may contain  "Defects," such as, but not limited to, incomplete, inaccurate or  corrupt data, transcription errors, a copyright or other intellectual  property infringement, a defective or damaged disk or other medium, a  computer virus, or computer codes that damage or cannot be read by  your equipment.  1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right  of Replacement or Refund" described in paragraph 1.F.3, the Project  Gutenberg Literary Archive Foundation, the owner of the Project  Gutenberg-tm trademark, and any other party distributing a Project  Gutenberg-tm electronic work under this agreement, disclaim all  liability to you for damages, costs and expenses, including legal  fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT  LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE  PROVIDED IN PARAGRAPH F3. YOU AGREE THAT THE FOUNDATION, THE  TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE  LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR  INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH  DAMAGE.  1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a  defect in this electronic work within 90 days of receiving it, you can  receive a refund of the money (if any) you paid for it by sending a  written explanation to the person you received the work from. If you  received the work on a physical medium, you must return the medium with  your written explanation. The person or entity that provided you with  the defective work may elect to provide a replacement copy in lieu of a  refund. If you received the work electronically, the person or entity  providing it to you may choose to give you a second opportunity to  receive the work electronically in lieu of a refund. If the second copy  is also defective, you may demand a refund in writing without further  opportunities to fix the problem.  1.F.4. Except for the limited right of replacement or refund set forth  in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER  WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO  WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.  1.F.5. Some states do not allow disclaimers of certain implied  warranties or the exclusion or limitation of certain types of damages.  If any disclaimer or limitation set forth in this agreement violates the  law of the state applicable to this agreement, the agreement shall be  interpreted to make the maximum disclaimer or limitation permitted by  the applicable state law. The invalidity or unenforceability of any  provision of this agreement shall not void the remaining provisions.  1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the  trademark owner, any agent or employee of the Foundation, anyone  providing copies of Project Gutenberg-tm electronic works in accordance  with this agreement, and any volunteers associated with the production,  promotion and distribution of Project Gutenberg-tm electronic works,  harmless from all liability, costs and expenses, including legal fees,  that arise directly or indirectly from any of the following which you do  or cause to occur: (a) distribution of this or any Project Gutenberg-tm  work, (b) alteration, modification, or additions or deletions to any  Project Gutenberg-tm work, and (c) any Defect you cause.  Section 2. Information about the Mission of Project Gutenberg-tm  Project Gutenberg-tm is synonymous with the free distribution of  electronic works in formats readable by the widest variety of computers  including obsolete, old, middle-aged and new computers. It exists  because of the efforts of hundreds of volunteers and donations from  people in all walks of life.  Volunteers and financial support to provide volunteers with the  assistance they need, is critical to reaching Project Gutenberg-tm's  goals and ensuring that the Project Gutenberg-tm collection will  remain freely available for generations to come. In 2001, the Project  Gutenberg Literary Archive Foundation was created to provide a secure  and permanent future for Project Gutenberg-tm and future generations.  To learn more about the Project Gutenberg Literary Archive Foundation  and how your efforts and donations can help, see Sections 3 and 4  and the Foundation web page at http://www.pglaf.org.  Section 3. Information about the Project Gutenberg Literary Archive  Foundation  The Project Gutenberg Literary Archive Foundation is a non profit  501(c)(3) educational corporation organized under the laws of the  state of Mississippi and granted tax exempt status by the Internal  Revenue Service. The Foundation's EIN or federal tax identification  number is 64-6221541. Its 501(c)(3) letter is posted at  http://pglaf.org/fundraising. Contributions to the Project Gutenberg  Literary Archive Foundation are tax deductible to the full extent  permitted by U.S. federal laws and your state's laws.  The Foundation's principal office is located at 4557 Melan Dr. S.  Fairbanks, AK, 99712., but its volunteers and employees are scattered  throughout numerous locations. Its business office is located at  809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email  business@pglaf.org. Email contact links and up to date contact  information can be found at the Foundation's web site and official  page at http://pglaf.org  For additional contact information:  Dr. Gregory B. Newby  Chief Executive and Director  gbnewby@pglaf.org  Section 4. Information about Donations to the Project Gutenberg  Literary Archive Foundation  Project Gutenberg-tm depends upon and cannot survive without wide  spread public support and donations to carry out its mission of  increasing the number of public domain and licensed works that can be  freely distributed in machine readable form accessible by the widest  array of equipment including outdated equipment. Many small donations  ($1 to $5,000) are particularly important to maintaining tax exempt  status with the IRS.  The Foundation is committed to complying with the laws regulating  charities and charitable donations in all 50 states of the United  States. Compliance requirements are not uniform and it takes a  considerable effort, much paperwork and many fees to meet and keep up  with these requirements. We do not solicit donations in locations  where we have not received written confirmation of compliance. To  SEND DONATIONS or determine the status of compliance for any  particular state visit http://pglaf.org  While we cannot and do not solicit contributions from states where we  have not met the solicitation requirements, we know of no prohibition  against accepting unsolicited donations from donors in such states who  approach us with offers to donate.  International donations are gratefully accepted, but we cannot make  any statements concerning tax treatment of donations received from  outside the United States. U.S. laws alone swamp our small staff.  Please check the Project Gutenberg Web pages for current donation  methods and addresses. Donations are accepted in a number of other  ways including including checks, online payments and credit card  donations. To donate, please visit: http://pglaf.org/donate  Section 5. General Information About Project Gutenberg-tm electronic  works.  Professor Michael S. Hart is the originator of the Project Gutenberg-tm  concept of a library of electronic works that could be freely shared  with anyone. For thirty years, he produced and distributed Project  Gutenberg-tm eBooks with only a loose network of volunteer support.  Project Gutenberg-tm eBooks are often created from several printed  editions, all of which are confirmed as Public Domain in the U.S.  unless a copyright notice is included. Thus, we do not necessarily  keep eBooks in compliance with any particular paper edition.  Most people start at our Web site which has the main PG search facility:  http://www.gutenberg.net  This Web site includes information about Project Gutenberg-tm,  including how to make donations to the Project Gutenberg Literary  Archive Foundation, how to help produce our new eBooks, and how to  subscribe to our email newsletter to hear about new eBooks.  *** END: FULL LICENSE *** </p>
+      </div>
+      <head/>
+    </body>
+    <back/>
+    <back/>
+  </text>
+</TEI>
