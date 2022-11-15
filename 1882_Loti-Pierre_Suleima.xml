@@ -1,0 +1,448 @@
+<?xml version='1.0' encoding='UTF8'?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> Suleïma </title>
+        <author from="1850" key="" name="Loti, Pierre" sex="male" to="1923"/>
+        <edition n=""/>
+        <editor name="Calmann Lévy" where="Paris"/>
+      </titleStmt>
+      <publicationStmt>
+        <date type="created" when="1882"/>
+        <date type="issued" when="1882"/>
+      </publicationStmt>
+      <editionStmt>
+        <profileDesc tag="canon" type="genre">
+          <textClass>
+            <keywords/>
+          </textClass>
+        </profileDesc>
+      </editionStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docAuthor/>
+        <docTitle>
+          <titlePart main="Suleïma"/>
+          <titlePart sub=""/>
+        </docTitle>
+      </titlePage>
+    </front>
+    <body>
+      <div title="Avant-propos" type="preface">
+        <p> Avant-propos </p>
+        <p> C e sera une histoire bien décousue que celle-ci, et mon ami Plumkett était d'avis de l'intituler : Chose sans tête ni queue. </p>
+        <p> Elle embrassera douze années de notre ère et tiendra, je pense, en une vingtaine de chapitres (dont un prologue, comme dans les pièces classiques). </p>
+        <p> L'intrigue ne sera pas très corsée ; il y aura un intervalle de dix ans pendant lequel il ne se passera rien du tout, et puis, brusquement, cela finira par un tissu de crimes. </p>
+        <p> Il y aura deux personnages portant le même nom, une femme et une bête ; et leurs affaires seront tellement amalgamées, qu'on ne saura plus trop, à certains moments, s'il s'agit de l'une ou s'il s'agit de l'autre. Mes aventures personnelles viendront s'y mêler aussi, et, pour comble de gâchis, les réflexions de Plumkett. </p>
+        <p></p>
+      </div>
+      <div title="Prologue" type="chapter">
+        <p> Prologue </p>
+        <p> C 'était en Algérie, à Oran, en 1869, époque à laquelle j'étais presque un enfant. </p>
+        <p> Plumkett avait encore tous ses cheveux. C'était un matin de mars. Oran se réveillait sous un ciel gris. </p>
+        <p> Nous étions assis devant un café qu'on venait d'ouvrir dans le quartier européen. Nous n'avions pas froid, parce que nous arrivions de France ; mais les Arabes qui passaient étaient entortillés dans leurs manteaux et tremblaient. </p>
+        <p> Il y en avait un surtout qui paraissait transi ; il traînait une espèce de bazar portatif qu'il étalait devant nous et s'obstinait à nous vendre à des prix extravagants des colliers en pâte odorante et des babouches. </p>
+        <p> Une petite fille pieds nus, en haillons, se cramponnait à son burnous ; une délicieuse petite créature, qui était tout en grands yeux et en longs cils de poupée. Elle avait un peu l'exagération du type indigène, ainsi que cela arrive chez les enfants. Les petits Arabes et les petits Turcs sont tous jolis avec leur calotte rouge et leurs larges prunelles noires de cabris ; ensuite, en grandissant, ils deviennent très beaux ou très laids. </p>
+        <p> C'était sa fille Suleïma, nous dit-il. En effet, c'était possible après tout : en décomposant bien cette figure de vieux bandit et en la rajeunissant jusqu'à l'enfance, on comprenait qu'il eût pu produire cette petite. </p>
+        <p> Nous donnions des morceaux de sucre à Suleïma, comme à un petit chien ; d'abord elle se cachait dans le burnous de son père, puis elle montrait sa tête brune, en riant d'un gros rire de bébé, et en demandait d'autres. Elle retournait ce sucre dans ses petites mains rondes, et le croquait comme un jeune singe. </p>
+        <p> Nous disions à ce vieux : « Elle est bien jolie, ta petite fille. Veux-tu nous la vendre aussi ? » C'était dans toute la candeur de notre âme ; nous nous amusions de l'idée d'emporter cette petite créature d'ambre, et d'en faire un jouet. Mais le vieil Arabe, nullement candide, écarquillait ses yeux, en songeant que sa fille réellement serait belle, et souriait comme un mauvais satyre. </p>
+        <p> Les gens du café nous contèrent son histoire : il venait d'arriver à Oran, où il était sous la surveillance de la police, ayant fait autrefois le métier de détrousseur dans le désert. </p>
+        <p> M'étant querellé avec Plumkett, je pris, après déjeuner, la route des champs, et passai par la montagne pour rentrer à Mers-el-Kébir, où nous attendait notre vaisseau. </p>
+        <p> Je montai assez haut d'abord, au milieu de roches rougeâtres qui avaient des formes rudes et étranges. Il faisait vraiment froid, et cela me surprenait dans cette Algérie que je voyais pour la première fois. Je m'étonnais aussi de rencontrer ça et là, parmi des plantes inconnues, des tapis d'herbe fine avec des petites marguerites blanches comme en France. </p>
+        <p> Le temps était aussi sombre qu'en Bretagne. Le vent courbait les broussailles et les herbes ; il s'engouffrait avec un bruit triste, partout dans les ravins et les grandes déchirures de pierre. </p>
+        <p> J'arrivais maintenant à une crête de montagne. </p>
+        <p> Un gros nuage passait la tête derrière, et le vent l'émiettait à mesure ; en sifflant, ce vent l'éparpillait sur l'herbe, le faisait courir autour de moi en flocons gris comme de la fumée. Cela me semblait fantastique et sinistre, de voir s'enfuir sur l'herbe ces petits morceaux de nuage qu'on aurait pu attraper avec les mains ; et je m'amusais à courir après en tendant les bras pour les prendre comme cela arrive dans les rêves… </p>
+        <p> Je me reposais à l'abri dans un recoin de rochers où donnait un rayon de soleil. Près de moi, tout à coup, un bruit léger d'herbe froissée. Je regardai : une tortue ! </p>
+        <p> Une tortue, drôle à force d'être petite, un atome de tortue ; son écaille jaune à peine formée, toute couverte de dessins en miniature. </p>
+        <p> En bas, très loin, sur une route qui fuyait dans la direction du Maroc, on voyait cheminer des silhouettes efflanquées de chameaux que conduisaient des Arabes vêtus de noir. (Le Ramadan, où l'on s'habille de laine sombre, tombait en mars cette année-là.) Je pris cette petite tortue et la mis dans ma poche. A bord, nous décidâmes de l'appeler Suleïma. </p>
+        <p> Je restai trois mois dans cette Algérie. Pour la première fois, je vis le printemps splendide d'Afrique. </p>
+        <p> Souvent je rencontrai Suleïma (la petite fille) trottant pieds nus dans les rues d'Oran, pendue au burnous sordide du marchand de babouches. </p>
+        <p> Puis, un jour, mon navire reçut l'ordre de partir pour le Brésil, et je m'en allai, n'emportant des deux Suleïma que la tortue. </p>
+        <p></p>
+      </div>
+      <div title="I" type="chapter">
+        <p> I </p>
+        <p> 25 mars 1879 </p>
+        <p> Dix ans plus tard. </p>
+        <p> … Dans notre pays, cette année, le printemps tarde à venir, et c'est encore l'hiver pâle et triste. </p>
+        <p> La nuit de mars tombe lentement, et je suis seul dans ma chambre… </p>
+        <p> Jamais, depuis mon enfance déjà lointaine, je n'étais resté si longtemps au foyer. Six mois, c'est un long repos ! Et je l'aime, ce foyer que j'ai tant de fois déserté. Et, chaque fois que je le quitte, je sens une angoisse en songeant qu'au retour je pourrais y trouver peut-être encore quelque place vide. Les figures très chéries qui me le gardent sont déjà, hélas ! marquées par le temps ; je vois bien qu'elles s'affaiblissent avec les années, et cela me fait peur. </p>
+        <p> Je ne sais rien de triste comme la tombée des nuits d'hiver, ces airs ternes et mourants que prennent les choses, ce silence de ma maison, augmente encore par le silence de la petite ville qui l'enserre. </p>
+        <p> Auprès de moi, il y a Suleïma qui dort (Suleïma la tortue). Depuis les premières fraîcheurs de novembre, elle est enfermée dans sa boîte, qui est pareille à celles où couchent les perruches, et elle dort son sommeil de petite bête hibernante. Il y a dix ans qu'elle habite ma maison, tenant fidèle compagnie aux hôtes du foyer pendant que je cours le monde, et gâtée assurément comme l'ont été fort peu de tortues. </p>
+        <p> L'idée me vient d'ouvrir cette boîte : on voit son dos poli, à moitié enfoui dans un matelas de foin très fin. </p>
+        <p> Elle est devenue fort grosse depuis le jour où je l'ai prise dans la montagne d'Oran, par un temps d'hiver comme celui d'aujourd'hui. </p>
+        <p> Et, en regardant Suleïma, je retrouve des souvenirs arabes. La figure enfantine de Suleïma, la petite fille, repasse dans mon esprit, pour la première fois depuis tant d'années : Suleïma mangeant ses morceaux de sucre avec un petit air de singe espiègle et charmant. </p>
+        <p> Ma pensée se promène vaguement dans cette Algérie où je ne suis plus revenu ; je revois de loin cette époque plus jeune, où les pays nouveaux me jetaient en plein visage leur intraduisible étrangeté, avec une puissance de couleur et de lumière qui me semble aujourd'hui perdue… </p>
+        <p> Comme ici mon imagination s'obscurcit et s'éteint !… Mes souvenirs des pays du soleil s'éloignent, s'embrument, prennent les teintes vagues des choses passées. Ils se mêlent dans ma mémoire et dans mes rêves ; et tout se confond un peu, les minarets de Stamboul, les sable du Soudan, les plages blanches d'Océanie, et les villes d'Amérique, et les écueils sombres de la « mer Brumeuse ». </p>
+        <p> C'est là l'impression la plus décevante de toutes : sentir qu'on s'ennuie au foyer de famille !… </p>
+        <p> Mais qu'y faire ? Il y a toujours ce vent d'inconnu et d'aventures qui nous talonne tous, et sans lequel notre métier ne serait pas possible ; quand une fois on a respiré ce vent-là, on étouffe après, en air calme ; toutes les choses douces et aimées, après lesquelles on a soupiré quand on était au loin, deviennent peu à peu monotones, incolores ; et, sourdement, on rêve de repartir. </p>
+        <p> Et puis ce crépuscule de mars est par trop triste aussi ; on dirait un suaire qui tombe, et ma chambre prend un air funèbre… Si j'allais à côté, dans ma chambre turque, pour essayer de changer ? J'ouvre une double porte, et soulève une portière d'un vieux rose cerise à feuillages d'or. C'est le coin le plus retiré de la maison, cette chambre turque, et les fenêtres, qui donnent sur une cour et des jardins, sont toujours fermées. </p>
+        <p> Je regarde au-dedans : il y fait déjà nuit, et le velours rouge du mur a l'air noir ; par places, on voit briller la lame courbe d'un yatagan, la crosse damasquinée d'un fusil, ou le dessin bizarre d'une vieille broderie ; une odeur de latakié et d'encens traîne dans l'air, qui est lourd et froid. Il s'y fait un silence particulier : on dirait qu'on entend la nuit venir. </p>
+        <p> Et voilà que cette chambre me jette ce soir un souvenir déchirant de ce Stamboul d'où j'ai apporté toutes ces choses. </p>
+        <p> Pourtant ce n'est pas l'Orient, tout cela ; j'ai eu beau faire, le charme n'y est pas venu ; il y manque la lumière, et un je ne sais quoi du dehors qui ne s'apporte pas. Ce n'est pas l'Orient, et ce n'est pas davantage le foyer ; ce n'est plus rien. Je regrette à présent d'avoir détruit ce qui existait avant, qui était bien plus simple, mais qui était plein des souvenirs de mon enfance car il n'y a plus que cela de bon pour moi : pouvoir, à certains moments, oublier ma vie d'homme dépensée ailleurs, et me retrouver ici enfant, tout enfant ; c'est l'illusion que je m'amuse à chercher par toute sorte de moyens, conservant, respectant mille petites choses d'autrefois, avec une sollicitude exagérée. </p>
+        <p> Où est donc ma mère ? Il y aura tantôt deux heures que je ne l'ai vue, et il me prend une grande envie de sa présence. Je laisse retomber la portière de couleur cerise et je m'en vais. </p>
+        <p> Un instant je cherche ma mère dans la maison, sans la trouver. Elle est unique, cette maison, d'ailleurs ; on dirait toujours qu'on y joue à cache-cache ; elle est vraiment trop grande à présent, pour nous trois qui restons. </p>
+        <p> Je rencontre Mélanie, qui traverse la cour, enflant le dos, avec un air gelé. </p>
+        <p> « Mélanie, savez-vous où est madame ? Mon Dieu ! elle était là tout à l'heure, monsieur Pierre. » Allons, je verrai ma mère un peu plus tard, à l'heure du dîner. Je vais monter au second étage trouver ma grand-tante Berthe. </p>
+        <p> Dans les escaliers, l'obscurité s'est déjà faite. </p>
+        <p> Etant enfant, j'avais peur le soir dans ces escaliers ; il me semblait que des morts montaient après moi pour m'attraper les jambes, et alors je prenais ma course avec des angoisses folles. </p>
+        <p> Je me souviens bien de ces frayeurs ; elles étaient si fortes, qu'elles ont persisté longtemps, même à un âge où je n'avais déjà plus peur de rien. </p>
+        <p> J'essaye de monter quatre à quatre ce soir, pour retrouver, dans la vitesse, un peu de ces impressions d'autrefois. Mais non, hélas ! les formes qui s'allongeaient, les bras noirs qui passaient à travers les barreaux des rampes, les mains des fantômes, n'y sont plus… </p>
+        <p> Plus même moyen d'avoir cette peur-là ! Au second, j'ouvre la porte d'une chambre calfeutrée, et j'entre. On dirait qu'il n'y a personne, car rien ne bouge. Pourtant, une intelligence est là qui veille. </p>
+        <p> « C'est toi, petit ? » dit une voix de quatre-vingt-dix ans qui part d'un grand fauteuil au coin du feu. </p>
+        <p> La tête qui s'enfonce dans les coussins a été jadis bien belle ; on la devine encore aux lignes droites et régulières du profil. Les yeux ternes ne voient plus, mais derrière ce miroir obscurci par les années l'intelligence a gardé sa flamme claire. </p>
+        <p> Tous les jours, tous les jours, elle est là, à ce même coin de feu, la vieille, vieille tante Berthe. </p>
+        <p> « C'est toi, petit ? » Je réponds : « Oui, tante. » Je touche une pauvre main ridée qui se tend vers moi en tremblant et en tâtant, et puis je m'assieds par terre à ses pieds. (Je déteste les chaises. Plumkett dit même que c'est là un des indices de ma nature et de mes mauvaises fréquentations : ne savoir plus m'asseoir comme tout le monde, et toujours m'étendre ou m'accroupir comme font les sauvages.) Cela a été bien souvent ma place de cet hiver : là, devant ce feu, par terre, au pied du fauteuil de ma grand-tante Berthe, lui faisant conter des histoires du temps passé, ou écrivant sous sa dictée de curieuses vieilles choses que personne ne sait plus. </p>
+        <p> Dans le corridor, une grande pendule sonne lentement six fois, c'est l'heure triste et grise du chien et loup. </p>
+        <p> « Dis-moi, petit (elle m'a conservé ce nom ; en effet, je suis toujours le plus jeune, l'enfant, pour elle qui a vu passer trois générations)… dis-moi, petit, à vos cloches de bord, n'est-ce pas, vous sonnez deux coups doubles pour six heures, trois coups doubles pour sept heures, et quatre, pour huit ? Oui, tante Berthe. </p>
+        <p> Et vous dites piquer les heures, au lieu de sonner, comme nous disons, nous autres, les gens de terre ? Oui, continue-t-elle d'une voix plus lente, comme fouillant dans les profondeurs d'un passé presque mort, parmi toutes ces choses accumulées dans sa vieille mémoire, oui, je me souviens ; quand j'étais petite fille et que nous habitions notre campagne de la Tublerie, j'entendais les soirs d'été ces cloches des navires de la rade… » Or, il y a environ quatre-vingts ans que tante Berthe était une petite fille, et quatre-vingts ans aussi que cette Tublerie a été vendue par mon arrière-grand-père. Ces matelots qui sonnaient ces cloches, et qui étaient jeunes alors, sont morts de vieillesse depuis longtemps ; leurs navires sont démolis et tombés en poussière. Et ces soirs d'été où ces cloches s'entendaient sur la mer… c'est singulier, ils m'apparaissent, dans ce lointain, plus lumineux que les nôtres et plus beaux. Ce n'est rien, pourtant, quatre-vingts ans, quand il s'agit des transformations lentes, des règles sensiblement immuables du Cosmos. </p>
+        <p> « Dis-moi, ta tortue a-t-elle commencé à se remuer, petit ? Non, tante, elle n'est pas réveillée. Signe de retard dans les saisons, vois-tu. Je parierais que nous aurons encore de la gelée blanche cette nuit ; je la sens qui me tombe sur les épaules. </p>
+        <p> Remonte un peu mon châle, je te prie. Et puis fais flamber le feu, cela t'occupera. » Le fait est que tout s'en mêle : la grosse bûche se consume comme avec souffrance, exhalant une petite flamme intermittente et pâle. Elle se refuse à mieux flamber. </p>
+        <p> Tante Berthe se met à chanter d'une petite voix cassée et flûtée, qui semble venir de très loin dans le passé ; elle chante en marquant la mesure avec son pied, un vieux noël du pays que j'ai noté hier sous sa dictée. </p>
+        <p> Après, elle ne dit plus rien, et s'affaisse dans une sorte de somnolence. Il lui faut du bruit à présent pour redevenir gaie et spirituelle ; il lui faut des visites, du mouvement autour d'elle et de la lumière.' Et la nuit grise continue de descendre… Je crois que je vais m'assoupir, moi aussi, dans une sorte de rêve mélancolique. Ce qui me manque au foyer, c'est l'élément jeune, c'est quelque chose qui réponde à ma jeunesse à moi. Cette maison, qui jadis était joyeuse, est bien vide à présent et bien morne ; on dirait qu'il s'y promène des fantômes. Ma vie s'y écoule, tranquille et régulière, en compagnie de vieilles personnes, bien chéries pourtant ; mais il me semble par instants que, moi aussi, je suis devenu vieux, et que c'est fini à jamais du soleil, de la mer, et des aventures, et des pays lumineux de l'islam. </p>
+        <p> Et, là, auprès de ma vieille tante, je me perds dans des rêves bizarres de vieillesse et de mort, pendant que la nuit froide de mars s'épaissit lentement autour de nous. </p>
+        <p></p>
+      </div>
+      <div title="II" type="chapter">
+        <p> II </p>
+        <p> 4 avril 1879 (Huit jours après.) … </p>
+        <p> Sous mes pieds, des montagnes rouges, ondulant au loin en lignes tourmentées. Autour de moi, des lentisques, des lavandes, des tapis de fleurs exotiques aux senteurs d'aromates ; dans l'air, les parfums capiteux d'un printemps plus chaud que celui de l'Europe. </p>
+        <p> Un grand paysage aride, désert, vu de très haut : aux premiers plans de montagnes, des lumières crues, heurtant de grandes ombres dures, toute la gamme des gris ardents et des bruns rouges ; dans les fuyants infinis des lointains, des bleus limpides et des nuances d'iris… Un air vivifiant et chaud, un ciel plein de rayons. </p>
+        <p> Là-bas, sur la route qui fuit et se perd dans la direction du Maroc, une bande d'Arabes passe et disparaît. Et, en haut, éclaire le grand soleil d'Afrique !… </p>
+        <p> C'était bien inattendu, cette Algérie ! Cela me charme et me grise, après ce long hiver sombre, où je m'étais affaissé sur moi-même, comme si la jeunesse et la vie m'eussent abandonné. </p>
+        <p> Je suis seul au milieu de ces montagnes. </p>
+        <p> Je regarde et je respire. C'est donc vrai, qu'il y a encore au monde de l'espace et du soleil. Hélas ! comme il me paraît terne et pâle, vu d'ici, ce temps que je viens de passer au foyer de famille ! C'est navrant d'éprouver cette impression, mais je sens que je m'éveille d'une sorte de sommeil, que hantaient là-bas des visions douces et mélancoliques. </p>
+        <p> Je me reconnais ici, je reconnais tout ce qui m'entoure, tous les détails de cette nature, toutes ces fleurettes arabes, les glaïeuls rouges, les lentisques parfumés, les larges mauves roses, les pâquerettes jaunes et les hautes graminées ; toutes les plantes, toutes les senteurs de ce pays, tout, les lignes rudes des montagnes, les grandes roches rouges du Marabout, et là-bas le cap de Mers-el-Kébir, qui s'aplatit et s'écrase dans la mer bleue comme le dos bossu d'un méhari ; surtout je reconnais et j'aime ce je ne sais quoi d'âpre et d'indéfinissable qui est l'Afrique !… </p>
+        <p> Il y a dix ans, j'avais couru ce pays, ces mêmes montagnes, et cueilli ces mêmes fleurs. J'avais fait un long séjour ici, et je passais mes journées à errer par là, dans ces sentiers de chèvres, dans ces ravins pleins de pierres et pleins de soleil. Je galopais beaucoup sur les chevaux d'un certain Touboul, et je coupais en route de gros bouquets odorants que je rapportais le soir à mon bord. Je n'avais pas tout à fait vingt ans ; en moi, il se faisait un mélange de passion et d'enfantillage, mais l'enfant dominait encore. </p>
+        <p> Et je retrouve ici tous ces souvenirs oubliés ; ils sortent des feuilles des chamérops et des aloès, ils me reviennent dans toutes ces senteurs de plantes. </p>
+        <p> Voici, tout près, au-dessus de ma tête, ce creux de pierre où certain jour je ramassai Suleïma la tortue, qui, depuis cette époque, tient compagnie fidèle là-bas aux bonnes vieilles du foyer… </p>
+        <p> Peut-être est-ce parce que je m'y sens encore étonnamment jeune que j'aime tant ce pays. </p>
+        <p> Et puis, comme c'était inattendu ! Un ordre brusque, comme il en arrive en marine, des adieux précipités, un bateau rapide, et, ce matin, à quatre heures, au lever du jour, la terre d'Afrique était en vue. </p>
+        <p> Avec émotion je regardais se dessiner, se rapprocher ces montagnes rouges de Mers-el-Kébir, qui me ramenaient à dix ans dans le passé, et j'aspirais cette senteur de l'Algérie, toujours la même, qui déjà nous arrivait au large, mélange de parfums d'herbes et d'odeurs de Bédouins. </p>
+        <p> Et vite j'ai mis pied à terre, pressé de m'enfoncer le plus loin possible dans la campagne de ce pays. </p>
+        <p></p>
+      </div>
+      <div title="III" type="chapter">
+        <p> III </p>
+        <p> Mers-el-Kébir, 5 avril </p>
+        <p> A onze heures, Plumkett, dont le navire est voisin du mien, vient me prendre en tartane et, après une heure de traversée sur l'eau bleue du golfe, nous arrivons à Oran. </p>
+        <p> Par hasard, nous sommes bien disposés l'un et l'autre, et contents d'être ensemble, ne nous étant pas rencontrés depuis longtemps. Oran, par ce beau soleil, ce temps splendide, nous paraît aujourd'hui très pittoresque et très africain. </p>
+        <p> Nous décidons d'aller revoir le lac Salé et le village de Mizerguin. Mais, avant, par respect pour notre tradition de jeunesse, il faut nous reposer en plein air, devant le café Soubiran. Et nous voilà, assis dans la rue, sous ces tentes, éventés par de grands souffles chauds qui nous apportent du sable. </p>
+        <p> Devant nous, appuyée à un mur blanc, il y a une jeune fille arabe, en haillons qui nous regarde avec deux yeux noirs déjà effrontés, mais bien beaux… Un ressouvenir, un je ne sais quoi de déjà connu, me repasse en tête, et je l'appelle : « Suleïma ! » Elle relève un peu ses sourcils, l'air étonné, et mord sa petite lèvre rouge, et puis se cache sous son voile en souriant. </p>
+        <p> Je lui dis : « Tu es Suleïma, la fille de Kaddour, la petite à qui je donnais tous les jours des morceaux de sucre ici, il y a dix ans ? Regarde-moi, tu ne te souviens pas ? Oui, dit-elle, je suis bien Suleïma-ben-Kaddour. » Mais elle a oublié ces morceaux de sucre et s'étonne un peu que je la connaisse par son nom. Et puis elle continue de rire, et ce rire très particulier dit clairement le vilain métier qu'elle a déjà commencé à faire. </p>
+        <p> Cette promenade au lac Salé, je ne sais pourquoi, ne me tente plus ; après tout, on est très bien à Oran, assis à l'ombre. </p>
+        <p> Cependant, pour le plaisir de galoper en compagnie de Plumkett… </p>
+        <p> Les chevaux sont commandés depuis la veille ; on nous les amène et nous voilà partis. </p>
+        <p> La route est longue au soleil ; la campagne, pierreuse, sauvage, parfumée. </p>
+        <p> Rien que des palmiers nains et des lavandes, mélangeant au milieu de toutes ces pierres les nuances ternes de leurs deux verdures ; de temps en temps un grand glaïeul rouge jetant là-dessus sa couleur éclatante, ou bien un berger bédouin, demi-nu avec capuchon de laine, promenant des chèvres brunes. </p>
+        <p> Vers quatre heures nous arrivons à Mizerguin. Nous commandons notre dîner à l'auberge du village, et nous poussons plus loin : je veux cependant montrer à Plumkett certaine vallée où j'étais venu il y a dix ans, un jour d'hiver, avec mon ami John B…, qui disait que c'était le pays de Mignon . </p>
+        <p> Cette vallée était charmante en janvier ; elle avait une mélancolie tranquille et suave avec ses grands arbres dépouillés et ses orangers en fleur. </p>
+        <p> Aujourd'hui, c'est un autre charme : c'est la splendeur du printemps, mais d'un printemps qui n'est pas le nôtre. Tout autour, la montagne aride, et ici, une profusion, un luxe inouï de fleurs, un pêle-mêle délicieux de la nature d'Afrique avec celle d'Europe. </p>
+        <p> Il y a des « bouillées » d'iris qui se penchent sur l'eau ; il y a, parmi les palmiers et les orangers, des recoins humides, ombreux comme des recoins du Nord, où des buissons d'aubépines sont tout fleuris et tout blancs, sous de grands peupliers frêles. </p>
+        <p> Nous dînons dans cette auberge de Mizerguin à la même place qu'il y a dix ans. Et cela me rend très pensif, de me retrouver à cette table, dans ce village ignoré ; d'être encore jeune, après tant de courses par le monde, tant d'années passées, tant de choses évanouies… </p>
+        <p> Il y a dix ans, il faisait froid ici ; un vilain vent d'hiver balayait cette route ; et puis, je me rappelle que nous avions quitté la table pour regarder une noce de colons qui passait, avec une belle mariée en blanc et un violon en tête. Tout cela nous avait même paru un bizarre assemblage de choses : un village d'Algérie, une soirée d'hiver très froide, et une pauvre noce campagnarde défilant gaiement en musique, au crépuscule, devant des Bédouins et des chameaux. </p>
+        <p> A la tombée de la nuit, nous remontons à cheval, pour rentrer bon train à Oran. </p>
+        <p> Au couchant, le ciel qui s'éteint est vert comme une lueur de phosphore. Quand on vient de quitter l'hiver de France, il faut deux ou trois jours pour que les yeux ne s'étonnent plus de la lumière de ce pays. </p>
+        <p> Il est nuit close quand nous arrivons à la ville. Les boutiques européennes, les échoppes arabes sont éclairées. Les matelots, les spahis, les zouaves, font tapage dans les rues. Et toutes ces filles brunes au regard noir, mauresques ou juives, qui les appellent aux portes, hélas ! me troublent aussi… Plumkett me parle, et je ne l'écoute plus ; je lui dis des choses quelconques qui sont absurdes ; mon esprit ne peut plus suivre le sien. Et ces créatures, et ce printemps, et cette vie chaude et libre, et les effluves capiteux de ce pays, de plus en plus me montent à la tête et me grisent. Puis, je m'aperçois maintenant que cette petite Suleïma personnifie ce grand trouble inattendu ; je tremble en songeant tout à coup qu'elle est là à ma merci, si je la veux. Une pudeur me retient pourtant, surtout devant Plumkett ; il y voit toujours trop clair, lui, dans tout ce que je voudrais cacher. Et puis, ces sortes d'amour-là, qu'il faut subir, me confondent et me font douter de tout… </p>
+        <p> Je suis encore un peu grisé ce soir par mon retour en Algérie, par le grand soleil, par toutes les senteurs de ce printemps arabe. Je sais que c'est l'affaire des premiers moments ; ce sera passé demain. J'essayerai de chasser cette petite fille, au moins par respect pour d'autres, qui ont passé avant elle dans mon cœur, et que j'aime encore… </p>
+        <p> Plumkett imagine d'aller au bain maure, où nous commençons à nous quereller. Lui, veut coucher au bain ; je trouve, moi, la chose absurde et tiens à rentrer à Mers-el-Kébir. </p>
+        <p> Cette discussion nous conduit fort tard, et il en résulte qu'il n'y a plus de voitures sur la place d'Oran. </p>
+        <p> De onze heures à minuit, il nous faut faire à pied cette longue route de Mers-el-Kébir. Le temps s'est couvert : nuit noire. Ce n'est même pas très prudent, cette promenade, sans avoir pris seulement un bâton. </p>
+        <p> Plumkett prétend que c'est ma faute, et moi, je lui en veux parce que la pluie commence. Sur ce dernier point, je sens que je suis dans mon tort, et j'en deviens d'autant plus insupportable. Lui m'écoute avec son calme de philosophe qui m'exaspère. </p>
+        <p> L'image de Suleïma me poursuit et je médite de le laisser là tout seul, pour rebrousser chemin vers Oran. </p>
+        <p> Enfin nous voici sur le port de Mers-el-Kébir ; nous réveillons un batelier, et, par grosse mer, sous la pluie à torrents, nous montons dans une petite barque qui se remplit d'eau. Nous arrivons à bord trempés et de détestable humeur. </p>
+        <p></p>
+      </div>
+      <div title="IV" type="chapter">
+        <p> IV </p>
+        <p> Mers-el-Kébir, 6 avril </p>
+        <p> Pluie fine et temps gris jusqu'au soir. </p>
+        <p> Ma journée se passe à Oran, où je suis seul cette fois, comme je l'avais désiré ; mais cette pluie change tout, l'entraînement est passé et le charme n'y est plus. </p>
+        <p> Pourtant, hélas ! j'ai dit à Suleïma de m'attendre dans la Kasbah ce soir à dix heures. </p>
+        <p> Cinq heures du soir. Les autres officiers de mon bord se préparent à retourner à Mers-el-Kébir et me demandent si je pars aussi avec eux. Résolument je réponds que oui ; je monte en voiture et nous rentrons ensemble. </p>
+        <p></p>
+      </div>
+      <div title="V" type="chapter">
+        <p> V </p>
+        <p> A près dîner, en remontant sur le pont, je regarde là-bas, dans la direction d'Oran, et ma résolution ne tient plus. Ces sortes de résolutions, la nuit tiède qui tombe les emporte toujours. </p>
+        <p> La pluie est passée. Le ciel est assombri encore par des nuages opaques, d'un gris livide, qui se tiennent par longues bandes, et semblent très haut, très loin de notre monde. Le vent vient de terre, et la montagne mouillée nous envoie ses senteurs plus fortes. </p>
+        <p> Il est déjà tard. Je trouve encore sur le quai de Mers-el-Kébir une petite voiture ouverte, attelée de deux bêtes maigres qui s'emballent au départ. Le vent de cette course me fouette délicieusement le visage, une demi-heure durant, jusqu'aux portes de la ville. Je monte à pied au quartier maure, et Suleïma est là qui m'attend, au point convenu, dans un carrefour noir. </p>
+        <p> La rue que Suleïma habite est une très vieille petite rue, haut perchée, sur le bord d'un ravin qui semble, la nuit, n'avoir plus de fond. </p>
+        <p> A Oran, on ne trouve pas, comme à Alger, de ces belles habitations mauresques d'autrefois, qui gardent dans leur décrépitude le charme de leur splendeur morte. Cette maison de Suleïma est sordide et misérable. </p>
+        <p> D'abord nous traversons une Cour des Miracles, puis des corridors, où elle m'entraîne par la main parce qu'il fait noir, et nous montons par une échelle. </p>
+        <p> Je me laisse conduire, en tenant dans l'obscurité cette main frêle de jeune fille ; déjà elle m'impressionne, cette pauvre petite main de prostituée, parce que j'ai vu, au jour, qu'elle a du henné sur les ongles, comme une autre main orientale que j'ai bien adorée. </p>
+        <p> Un grenier avec une natte, un matelas blanc et une couverture arabe : c'est la chambre de Suleïma. Elle allume une petite lampe de cuivre par terre, puis fait signe que nous sommes chez nous. </p>
+        <p> Et me voici, à demi étendu sur cette couche, contemplant Suleïma, qui est debout devant moi, éclairée en dessous par la flamme de sa lampe. Elle est svelte comme une forme grecque dans ses longs vêtements blancs ; elle a relevé ses bras nus au-dessus de sa t��te, et son ombre qui monte au plafond noir ressemble à une ombre d'amphore. </p>
+        <p> Elle me regarde en souriant, et son sourire est doux et bon ; son regard n'a plus du tout l'effronterie de la rue ; c'est une chose qu'on lui a apprise, cette effronterie-là, et cela ne lui est pas naturel. </p>
+        <p> Avec ses yeux trop grands et la régularité exquise de ses traits, elle a l'air ce soir d'une madone brune. </p>
+        <p> Elle ne sait pas encore bien faire son métier sans doute ; car autrement, pour sûr, elle serait moins pauvre. </p>
+        <p> Quand elle va et vient par la chambre, elle a ce léger balancement des hanches qui est toute la grâce d'une femme, et que, chez nous, les hauts talons et les étroites chaussures ont changé en autre chose d'artificiel ; les femmes antiques devaient avoir ce balancement-là, qui n'est possible qu'avec des pieds nus. </p>
+        <p> Ses vêtements sont imprégnés de cette odeur qu'ont toutes les femmes d'Orient, même les plus pauvres. Il semble aussi qu'elle sente le désert, et ses mouvements de petite fille nerveuse, encore maigre, ont par instants une souplesse et une élasticité de sauterelle. </p>
+        <p> Il y a ces deux ou trois mêmes questions éternelles, échangées toujours entre deux êtres qui vont se livrer l'un à l'autre, lorsqu'ils ne sont pas rapprochés par le vice tout seul, lorsqu'il y a encore chez eux un peu de ce quelque chose qu'on a appelé l'âme. On veut savoir d'où on vient, qui on est, qui on a été. Cette curiosité est un reste de pudeur, et comme une aspiration vers du vrai amour. </p>
+        <p> Nous causons tous deux dans un sabir un peu espagnol ; elle l'a appris avec les petites juives, dit-elle, et, en le parlant, elle y met partout, hors de propos, les aspirations dures de la langue du désert. </p>
+        <p> … Les morceaux de sucre à la porte du café Soubiran… Oui, elle croit bien qu'elle commence à s'en souvenir… Mais elle était si petite alors !… Elle s'est assise en croisant les jambes, pour chercher plus à son aise dans sa mémoire, comme si c'était très important. Et puis, réflexion faite, elle déclare que non ; je lui ai conté une histoire, cela ne peut pas être moi : il y a trop longtemps que cela se serait passé, et je n'aurais pas l'air si jeune. </p>
+        <p> Du reste, depuis cette époque, elle a fait un long séjour dans l'intérieur ; son père l'avait ramenée dans le cercle de Biskra, son pays, là-bas, très loin dans le Sud. D'abord on a marché longtemps à pied, et puis on a fait route avec une caravane ; elle-même était sur un chameau, avec des dames arabes. On est passé dans le pays où il n'y a plus que des sables… </p>
+        <p> Oui, moi aussi, je le connais, ce pays, où il n'y a plus que des sables. Je m'y suis enfoncé plus loin que Suleïma, par le Soudan noir, et j'y ai souffert. Je le retrouve, à mesure qu'elle en parle avec sa simplicité d'enfant. Et, pendant que mes yeux se ferment et que la petite lampe s'éteint, je vois très bien, sous le ciel éternellement bleu et sur les sables roses, passer cette caravane… </p>
+        <p></p>
+      </div>
+      <div title="VI" type="chapter">
+        <p> VI </p>
+        <p>II y a des grillons qui chantent dans le mur. C'est un bruit d'été, et cela porte bonheur. </p>
+        <p> Vers le milieu de la nuit, nous entendons au-dessous de nous quelqu'un bouger. L'échelle craque et remue. </p>
+        <p> Et Suleïma s'éveille, inquiète : « As-tu de l'argent dans tes vêtements ? » dit-elle. </p>
+        <p> Puis elle se lève pour le cacher sous notre oreiller. </p>
+        <p> « Mon père pourrait venir avec son frère te le prendre !… » </p>
+        <p></p>
+      </div>
+      <div title="VII" type="chapter">
+        <p> VII </p>
+        <p> J e me levai dès que le ciel parut blanchir, ne voulant pas voir ce bouge où j'avais dormi. Dans l'obscurité encore, je descendis cette échelle, je traversai un couloir en tâtant les murs, et puis une cour ; j'ouvris une vieille porte à verrou de fer, et me trouvai dans la rue. </p>
+        <p> La Kasbah, encore endormie, sentait bon, l'air du matin était pur et délicieux. </p>
+        <p> Je dominais un ravin plein d'aloès. </p>
+        <p> Je me couchai au bord. Le fond en était encore indistinct, perdu dans l'obscurité noire. </p>
+        <p> Il y avait partout une rare finesse de teintes dans des gammes grises, et comme une grande puissance de couleurs dans la nuit ; et puis d'étonnantes transparences d'air, et des senteurs suaves de pays chaud. </p>
+        <p> D'abord mes yeux mal éveillés gardaient une fatigue légère et voluptueuse, et puis cela passait, à mesure que naissait lentement la lumière. </p>
+        <p> Un Bédouin marchand de lait de chèvre, qui dormait par terre dans son burnous au milieu de son troupeau, s'éveilla pour m'en offrir. Toutes ces grosses houppes d'un noir roux, qui faisaient autour de moi des taches sur le gris pâle des choses, c'étaient ses chèvres qui étaient couchées ; elles commençaient à se secouer avec de petits bruits de clochettes. Puis maintenant ces plantes sur lesquelles je m'étais étendu et qui étaient de grandes mauves d'Algérie se coloraient vivement en rose. </p>
+        <p> On entendit une porte tourner sur ses ferrures, dans ce silence du matin, et une première petite échoppe arabe s'ouvrit, où l'on vendait du café avec des beignets au miel, à l'usage des gens matinaux. Deux hommes commencèrent à cuisiner cela dehors, au-dessus d'une petite flamme que déjà le jour faisait pâlir, et qui tremblait avec un air de feu follet. </p>
+        <p> Maintenant elle arrivait vite, la lumière, la grande lumière couleur d'or rose, et elle balayait le souvenir de cette nuit et de ce bouge noir. Et je respirais délicieusement la fraîcheur saine de ce matin ; je me baignais et me retrempais dans cette pureté-la ; c'était une impression de bien-être physique d'une intensité extraordinaire ; c'était comme une ivresse d'exister… </p>
+        <p> Etrange rajeunissement que le grand matin apporte toujours aux sens dans les pays du soleil, et qui n'est peut-être rien, après tout, rien qu'une sensation fausse et un mirage de vie… </p>
+        <p> A la porte d'Oran, j'achetai de gros bouquets de roses à des femmes qui se rendaient au marché, et je pris au pas rapide la route de Mers-el-Kébir. </p>
+        <p> A mi-chemin, un grand nuage, qui montait très vite dans le ciel clair, creva sur ma tête. Ce fut la pluie à torrents, et je me réfugiai, avec mes roses, dans une ferme espagnole. Mais le temps passait ; à huit heures et demie, il fallait être à bord et avoir changé de costume pour l'inspection. Tant pis, je repris ma route sous l'ondée, et arrivai au Téméraire , trempé, ruisselant, comme sortant d'un bain. </p>
+        <p> Du reste, on est habitué depuis quelques jours à me voir faire sur ce vaisseau des entrées pareilles. </p>
+        <p></p>
+      </div>
+      <div title="VIII" type="chapter">
+        <p> VIII </p>
+        <p> 17 avril </p>
+        <p> Suleïma me confiait hier ses projets d'avenir. </p>
+        <p> Pauvre petite fille irresponsable, qui me fait pitié ! Voici : Elle est très ambitieuse. Elle a déjà amassé un peu d'argent, et elle le cache dans un recoin que son père ne connaît pas. Bientôt elle se fera faire un collier à plusieurs rangs de louis d'or disposés dans le goût musulman ; et puis, en emportant sa richesse à son cou, elle s'en retournera dans le Sud, dans le cercle de Biskra, où elle est née, pour y trouver un mari qui n'en saura rien, et devenir une grande dame de l'endroit. </p>
+        <p> Que dire à cela ? Et d'ailleurs, quelle sorte de sermon serais-je bien en droit de lui faire, puisque, moi aussi, j'y aurai contribué, à ce collier d'or !… </p>
+        <p></p>
+      </div>
+      <div title="IX" type="chapter">
+        <p> IX </p>
+        <p> 20 avril </p>
+        <p> Une vie très agitée que la nôtre. Avec le service déjà compliqué de l'escadre, beaucoup d'expéditions et de courses ; les quelques kilomètres qui nous séparent d'Oran parcourus en coup de vent, à toute heure du jour ou de la nuit, en voiture ou à cheval, avec la préoccupation perpétuelle d'arriver trop tard ; et, sous prétexte de fraterniser avec l'armée algérienne, des punchs à tout casser avec les spahis, zouaves et chasseurs d'Afrique. </p>
+        <p> Ces montagnes rouges de Mers-el-Kébir, cette route d'Oran bordée d'aloès, peuplée de spahis et de Bédouins, j'aime assez tout cela, qui me rappelle un monde de souvenirs très jeunes. Mais cette sorte d'enivrement des premiers jours est bien passée. </p>
+        <p> D'ailleurs, on l'a encore gâtée, cette Algérie, depuis seulement dix ans que je la connais, et c'est plus loin dans le Sud qu'il faudrait à présent aller la chercher. </p>
+        <p> Ici, la couleur est déjà frelatée, et il y a des gens en burnous qui entendent l'argot de barrière ; on réussira bientôt à faire de ce pays quelque chose de banal et de pareil au nôtre, où il n'y aura plus de vrai que le soleil. </p>
+        <p></p>
+      </div>
+      <div title="X" type="chapter">
+        <p> X </p>
+        <p> 25 avril </p>
+        <p> Nous partions le lendemain, et notre dernière nuit venait de finir. </p>
+        <p> Aux premières blancheurs incertaines du jour, je m'en allais, et j'étais déjà dans l'échelle par où l'on descendait du taudis sombre, quand Suleïma, qui semblait s'être endormie, se leva et vint jeter ses bras autour de mon cou. Que me voulait-elle, la pauvre petite perdue ?… Elle savait bien que je n'avais plus d'argent et que d'ailleurs je ne reviendrais plus… Le baiser d'adieu qu'elle vint me donner là, et que je lui rendis avec un peu de mon âme, je ne l'avais pas acheté. D'ailleurs il n'y a pas de louis d'or qui puisse payer un baiser spontané qu'une petite fille charmante de seize ans vous donne. Tous deux, sans le vouloir, nous avions un peu joué Rolla … </p>
+        <p> Dehors, dans la rue endormie, je retrouvai le Bédouin couché au milieu de ses chèvres ; et l'échoppe qui s'ouvrait, avec les deux Maures cuisinant leurs beignets sur la même flamme de feu follet ; et les senteurs de plantes qui montaient du ravin aux aloès, et le bien-être, et la fraîcheur délicieuse du matin. Mais je m'en allais d'un pas moins léger que le premier jour, et cette fois je regrettais le bouge noir. Et, tout le temps que je cheminai sur cette route de Mers-el-Kébir, au beau soleil levant, le long des aloès vert pâle et des grands rochers rouges, je songeai avec un peu de tristesse à ce pauvre baiser de petite abandonnée… </p>
+        <p> Dans l'après-midi, nous donnions un bal à bord, et, le soir, un dîner d'adieu à des officiers de l'armée algérienne. </p>
+        <p> Après ce dîner, deux lieutenants de spahis très gentils du reste qui se sont pris pour Plumkett et moi d'une grande affection, parce qu'ils sont un peu gris, veulent absolument que nous les reconduisions jusqu'à Oran ; ils ont justement deux chevaux en plus, disent-ils, qui attendent là, à Mers-el-Kébir, dans le fort. </p>
+        <p> J'avais pourtant bien décidé de ne plus remettre les pieds à terre avant le départ ; et d'ailleurs je suis de service ce soir, je « prends le quart » à minuit. </p>
+        <p> Mais cette idée de retourner à Oran une dernière fois me trouble un peu la tête. Pourvu que je sois de retour à minuit, pour ce quart, qui s'en apercevra ?… </p>
+        <p> Allons, nous les reconduirons, puisqu'ils y tiennent. </p>
+        <p> Dans le fort de Mers-el-Kébir, il y a une vingtaine de chevaux sellés, que gardent des spahis arabes. Il s'en trouve en effet deux de trop, et cela tombe à point. </p>
+        <p> C'est joli, dans cette vieille forteresse hispano-mauresque, tous ces chevaux éclairés par la lune, et tous ces burnous. Il y a des clartés d'argent sur les groupes arabes, et de longues traînées d'ombres, qui descendent des murailles. Par cette nuit. pure et délicieuse, à travers cette transparence de l'air d'Afrique, tout cela est très lumineux dans le vague, et semble agrandi ; tous ces manteaux blancs et rouges agités au milieu de chevaux impatients qui piaffent, c'est encore de la vraie Algérie, cela. Nous en voyons plus qu'il n'y en a, assurément : on dirait une armée du Prophète, et autour de nous ces hauts pans de murs crénelés, bien ordinaires en plein jour, se dressent ce soir sous la lune comme des choses enchantées. </p>
+        <p> Les chevaux se sont grisés d'avoine ; les cavaliers, d'autre chose. Tout cela s'ébranle, se met en route avec force cabrioles, part au galop sur la route bordée d'aloès, et traverse le village comme une fantasia. </p>
+        <p> Une demi-heure après, cet ouragan s'abat aux portes d'Oran ; tout le monde a tenu bon et rien n'est cassé. </p>
+        <p> A toute force il me faut être rentré à minuit, comme feu Cendrillon. Quelques minutes tout au plus à passer à Oran, et vite je fais monter Plumkett dans le quartier maure, sous prétexte de lui montrer la Kasbah la nuit. </p>
+        <p> Dans le haut d'une vieille petite rue sombre, au bord d'un ravin sans fond, je m'arrête, je regarde et je cherche ; j'écoute à une porte, je frappe, et puis j'appelle. </p>
+        <p> « Que faites-vous, mon pauvre Loti ? » dit Plumkett, qui trouve que le lieu a mauvaise mine. </p>
+        <p> … Mais non, Suleïma n'est pas là ce soir. Elle ne m'attendait plus. </p>
+        <p> Vite, il faut redescendre au quartier français, prendre une voiture pour Mers-el-Kébir, et donner bon pourboire au cocher. </p>
+        <p> A minuit juste, je suis de retour, pour prendre le quart jusqu'à quatre heures du matin, et, à cinq heures, au jour levé, nous appareillons pour Alger. </p>
+        <p></p>
+      </div>
+      <div title="XI" type="chapter">
+        <p> XI </p>
+        <p> E n mer, 26 avril </p>
+        <p> Enfermé dans ma chambre de bord, j'essaye de dormir. </p>
+        <p> Et puis je me réveille triste, et je remonte sur le pont pour regarder cette côte d'Oran qui doit paraître encore. </p>
+        <p> Je les connais, ces tristesses des réveils, légères ou profondes, qui ont été partout, les compagnes les plus fidèles de ma vie. </p>
+        <p> Mais, aujourd'hui, je n'attendais pas celle-ci ; et je cherche Plumkett, à qui j'éprouve le besoin d'en faire part. </p>
+        <p></p>
+      </div>
+      <div title="XII" type="chapter">
+        <p> XII </p>
+        <p> C ela passera, dit-il avec un grand calme et l'air de penser à autre chose. </p>
+        <p> – Mais je le sais bien, que cela passera ! Ne faites donc pas le garçon stupide, Plumkett, vous qui comprenez. A la fin, vous êtes irritant, je vous assure. Cela passera, c'est incontestable, et même cela ne serait jamais venu, sans son pauvre petit baiser d'adieu. Je puis vous dire aussi très positivement vu le peu de racine que cela a eu le temps de prendre que, dans trois jours, il n'y aura plus rien. » </p>
+        <p> Mais c'est cette certitude qui est triste, et aussi ce cynisme tranquille avec lequel tous les deux nous en parlons. </p>
+        <p> Plumkett et moi, nous faisons les cent pas, tournant comme deux automates au même point et sur le même pied, ce qui est une habitude de marins. </p>
+        <p> Nous ne nous disons plus rien, ce qui est devenu une habitude à nous, après nous être trop parlé. En effet, nous nous connaissons si bien, et nos pensées se ressemblent tellement, que ce n'est même plus la peine de perdre du temps à nous contredire pour essayer de nous donner le change. </p>
+        <p> En vérité, il y a des instants où c'est une gêne et une fatigue de tant se connaître ; on ne sait plus par où se prendre pour se trouver encore quelque chose de neuf. </p>
+        <p> Le navire file doucement dans tout ce bleu de la Méditerranée, et le beau soleil de dix heures inonde nos tentes blanches… Quoi de commun entre cette petite créature arabe et moi-même ?… Parce qu'elle était jolie, nous avons été rapprochés par une de ces attractions aussi anciennes que le monde et aussi inexplicables que lui. </p>
+        <p> Et ce regret d'un moment, qu'elle me laisse et qui va finir, est pour moi un mystère sombre, parce qu'il ressemble terriblement à des regrets déchirants que j'ai éprouvés pour d'autres, et qui sont passés aussi. </p>
+        <p> C'est la même chose, tout cela, quoi qu'on en dise et comment qu'on l'appelle ; cela procède des mêmes causes, aveugles et matérielles, pour aboutir aux mêmes fins. L'amour, le grand amour, dont nous cherchons à faire quelque chose de divin et de sublime, il est tellement pareil, hélas ! à celui qu'on achète en passant, que leur grande parenté me fait peur… </p>
+        <p> « Elle était bien jolie, avouez-le, Plumkett ! ? ? ?… L'air d'une sauterelle ! » </p>
+        <p> Plumkett a toujours le mot très juste pour désigner certaines affinités que peuvent avoir les gens avec les bêtes ou les choses. Cela m'irrite qu'il soit précisément tombé sur ce mot de sauterelle, qui a du vrai, et que j'avais trouvé, moi aussi. </p>
+        <p> Ses grands yeux, sa maigreur de petite fille, l'élasticité, la détente jeune et brusque de ses membres, sa légèreté de bayadère… à cause de tout cela, je lui avais donné, moi aussi, ce nom de sauterelle ( Djeradah , en arabe), dans son acception la plus ensoleillée et la plus jolie. </p>
+        <p> Pauvre petite sauterelle du désert, égarée sur les pavés d'Oran et destinée à la fange finale, qui sait ce qu'elle aurait pu devenir, élevée ailleurs que dans la rue, à la merci des zouaves ? Et alors son baiser et son adieu me revenaient encore en tête, me jetant dans une rêverie triste. </p>
+        <p> Mystère que tout cela, enchantement des sens et du soleil. Car, après tout, si elle n'avait pas été jolie, et sans ce printemps arabe, est-ce que jamais je me serais soucié d'elle ? Tout n'est bien que charme du regard et charme de la forme, choses que le temps vient faner d'abord, et après, pourrir… </p>
+        <p> En haut, sur nos têtes, nous brûlant à travers les tentes blanches, il y avait ce soleil, radieux, éternel, que j'ai vu, partout et toujours, sourire de son même sourire de sphinx, sur les regrets vagues qui ne durent pas, comme sur les grands déchirements et les grands désespoirs, qui, hélas ! passent aussi. </p>
+        <p> Il m'a toujours attiré irrésistiblement, ce soleil ; je l'ai cherché toute ma vie, partout, dans tous les pays de la terre. Encore plus que l'amour, il change les aspects de toute chose, et j'oublie tout pour lui quand il paraît. Et, dans certaines contrées de l'Orient, dans le grand ciel éternellement bleu, jamais adouci, jamais voilé, sa présence continuelle me cause une mélancolie inexprimable, plus intime et plus profonde que la tristesse des brumes du Nord. </p>
+        <p> Mais c'est en Afrique, dans les sables de la grande Mer-sans-Eau , que je me suis senti le plus étrangement près de sa personnalité dévorante. </p>
+        <p> Il est mon Dieu ; je le personnifie et l'adore dans sa forme la plus ancienne et par suite la plus vraie, la plus terrible aussi et la plus implacable : Baal !… Et, même aujourd'hui, le Baal que je conçois, c'est Baal Zéboub , le Grand Pourrisseur. </p>
+        <p> J'ai vu les vieux temples de l'Amérique australe, où on l'adorait sous une espèce moins compréhensible pour nos intelligences de l'ancien monde ; je l'ai cherché aussi là, dans les sanctuaires détruits, entre les murs couverts de bas-reliefs mystérieux, vestiges d'une antiquité qui n'est pas la nôtre et qu'on ne connaît plus. Mais non, celui-là était un Baal étranger et lointain ; je ne le saisissais plus, ce soleil qui a fait éclore les races humaines à peau jaune et à peau rouge, et toute la nature de ces régions par trop éloignées. Et, là, en cherchant à embrasser mon Dieu, je me sentais me perdre et m'abîmer dans une sorte de vide et de terreur sans nom. </p>
+        <p> C'est dans notre vieux monde à nous, que je puis un peu le sentir et le comprendre, le Baal créateur et pourrisseur, quand il se lève, dans le ciel toujours profond et bleu, au-dessus des villes blanches et mortes de l'islam, ou des grandes ruines de cet Orient qui est notre berceau. Surtout, quand il passe sur l'Afrique musulmane et sur l'infini des sables du Sahara ; et, plus tard, lorsque je sentirai approcher la pâle vieillesse, c'est dans ce grand désert que j'irai lui porter mes ossements à blanchir. </p>
+        <p> … Ce que je dis là n'est plus intelligible pour personne. Même cet ami qui marche près de moi, et qui sait lire mes pensées les plus secrètes, ne me comprendrait plus. Ce sont des intuitions mystérieuses, venues je ne sais d'où, qui par instants m'échappent à moi-même ; j'ose à peine les formuler et les écrire… </p>
+        <p></p>
+      </div>
+      <div title="XIII" type="chapter">
+        <p> XIII </p>
+        <p> 20 juin 1880 </p>
+        <p> Un an plus tard, dans mon pays. La splendeur de juin. </p>
+        <p> J'étais revenu depuis deux jours au foyer. Assis dans la cour, sous des vignes et des chèvrefeuilles, dans un coin d'ombre, je regardais Suleïma (la tortue) trotter au soleil sur les pavés blancs. </p>
+        <p> C'étaient encore les premiers moments de cette grande joie du retour. </p>
+        <p> Car cette joie qu'on a eue d'abord à embrasser sa mère, et à revoir ceux qu'on aime même les fidèles domestiques qui ont fini par devenir de la maison et qu'on embrasse aussi, cette joie est prolongée ensuite par une foule de petits détails tout à fait inconnus à ceux qui ne sont jamais partis. Il faut au moins trois ou quatre jours pour retrouver l'une après l'autre les mille petites choses douces et les habitudes oubliées du foyer. </p>
+        <p> Et puis on regarde partout : les rosiers ont poussé, toutes mes plantes ont encore grandi, c'est plus touffu, et sur les pierres il y a plus de mousse. Dans les appartements, on fouille les coins et recoins, pour revoir un tas de choses qui sont des souvenirs d'enfance, ou des souvenirs qu'on avait rapportés d'ailleurs même des fleurs séchées qui habitent dans des tiroirs. </p>
+        <p> Il y a aussi les vêtements de maison, en toile, qu'on se dépêche de reprendre. Toujours les mêmes, ceux-là, depuis plusieurs années ; je prie instamment qu'on ne me les change pas, bien qu'ils ne soient plus absolument présentables, parce que je me retrouve plus enfant, dès que je les ai remis sur moi. </p>
+        <p> Assis dans la cour, dans mon coin d'ombre, je regardais Suleïma, qui passait dans le soleil, en marchant très vite comme une tortue qui a quelque chose de pressé à faire. </p>
+        <p> Et je me rappelais cette question entendue autrefois, un triste soir de mars : « Dis-moi, petit, la tortue est-elle éveillée ? » </p>
+        <p> Elle n'est plus là, la pauvre grand-tante qui l'avait prononcée, cette phrase ; en mon absence, elle a quitté la terre. </p>
+        <p> Au retour, j'ai trouvé son grand fauteuil vide, roulé au mur, recouvert d'une housse blanche, immaculée, comme ces voiles qu'on jette sur les morts. </p>
+        <p> Elle avait bien pleuré, cette dernière fois, en me disant adieu, toute courbée entre ses oreillers, pressentant qu'elle ne me reverrait plus. </p>
+        <p> Sa place au foyer était une place à part, et elle y laisse un vide particulier. C'est quelque chose du passé qui s'en est allé ; ce sont des liens avec les jours d'autrefois qui se sont rompus. Elle était une personne d'un autre siècle ; nulle part il n'y avait par le monde une intelligence contemporaine de la sienne, demeurée si fine, si vive et si profonde. </p>
+        <p> Et, à présent, celle flamme qui avait tant duré s'est éteinte, ou s'en est allée brûler ailleurs dans des régions mystérieuses… </p>
+        <p> J'ai le cœur bien serré du départ de ma vieille tante… </p>
+        <p> Elle était très réveillée aujourd'hui, la tortue. Elle traînait vivement sa carapace trop lourde sur ses petites pattes ayant forme de pieds lilliputiens d'hippopotame, et s'en allait la tête en l'air, en regardant de droite et de gauche. Sur les pavés blancs, sur les petits rochers, elle marchait en zigzags, heurtant les pots de fleurs par maladresse, ou disparaissant le long du mur au midi derrière les beaux cactus à fleurs rouges. Sous ce soleil, aussi chaud assurément que celui de son pays, elle s'imaginait sans doute avoir retrouvé une Algérie en miniature. </p>
+        <p> Comme moi, quand j'étais tout enfant, j'avais ici des petits recoins qui me représentaient le Brésil, et où j'arrivais vraiment à avoir des impressions et des frayeurs de forêt vierge, l'été, quand ils étaient bien ensoleillés et bien touffus. </p>
+        <p> Ma chatte Moumoutte s'occupait beaucoup de Suleïma ; elle la guettait par farce, au débouché de ces pots de fleurs ; sautait dessus tout à coup, le dos renflé et la queue de côté, avec un air plaisant, et donnait un coup de patte sur le dos de bois de cette camarade inférieure. Ensuite elle venait à moi en me regardant, comme pour me dire : « Crois-tu qu'elle est drôle, cette bête ; depuis déjà pas mal d'étés que nous nous connaissons, je n'en suis pas encore revenue, de l'étonnement qu'elle me cause ! » Et puis elle se couchait, câline, prenant un air de fatigue extrême, et bondissait tout à coup, les oreilles droites, les yeux dilatés, quand quelque pauvre petit lézard gris, craintif, avait remué dans le lierre des murs… </p>
+        <p> Il y a des années que je connais ce manège de chatte et de tortue, au milieu de ces mêmes cactus ; tout ce petit monde de bêtes et de plantes continue son existence tranquille au foyer, tandis que, moi, je m'en vais au loin, courir et dépenser ma vie ; tandis que les figures vénérées et chéries qui ont entouré mon enfance disparaissent peu à peu, et font la maison plus grande et plus vide… </p>
+        <p> Et tous ces bruits d'été dans cette cour, comme ils sont toujours les mêmes ! Les bourdonnements légers des moucherons qui dansent dans l'air tiède, les poules qui causent dans le jardin de nos voisins, et les hirondelles qui chantent à pleine gorge, là-haut, sur les arrêtoirs des contrevents de ma chambre. </p>
+        <p> Mon Dieu, comme j'aime tout cela ; comme on est bien ici, et quelle chose fatale que cette envie qui me prend toujours de repartir… </p>
+        <p></p>
+      </div>
+      <div title="XIV" type="chapter">
+        <p> XIV </p>
+        <p> H ier, pour ma première nuit passée au foyer, j'ai fait un rêve noir. </p>
+        <p> Dans la journée, j'étais entré dans ma chambre turque, pour saluer en arrivant tous ces souvenirs d'un passé mort qui dorment là, dans les tentures venues de Stamboul. </p>
+        <p> C'est tout fermé comme d'habitude, et un peu de jour filtrait à peine sur ces choses rares et dépaysées. </p>
+        <p> J'y trouvai un aspect d'abandon, comme dans les appartements longtemps inhabités, et une odeur de Turquie restée encore dans l'air. C'était bien de l'Orient, mais sans la lumière et sans la vie. </p>
+        <p> A quoi bon, décidément, avoir apporté tout cela, et qu'est-ce qu'ils sont venus faire au foyer, ces pauvres chers souvenirs d'une époque de mon existence qui ne peut plus être recommencée ?… </p>
+        <p> Je n'ouvre jamais ces fenêtres, pour laisser perdre ici la notion du lieu, et y garder un peu l'illusion de mon vrai logis turc celui d'autrefois qui donnait là-bas sur la Corne-d'Or. </p>
+        <p> Ce jour-là, je les ouvris toutes grandes, et la lumière tomba en plein, une fois par hasard, sur ces choses anciennes, faites pour le soleil, qui se mirent à briller, dans des tons extraordinaires, de reflets de soie et d'éclats de métal. </p>
+        <p> Et puis, en me penchant au-dehors, je contemplai longuement cette vue mélancolique qu'on a de ces fenêtres et que, depuis pas mal de temps, j'avais oubliée : des jardins avec des roses, des murs avec du lierre, et, au loin, la plaine unie sur laquelle la rivière trace une raie brillante. </p>
+        <p> Jadis ma grand-tante Berthe se tenait dans cet appartement (c'était bien avant que je ne m'en fusse emparé pour en faire un lieu oriental). Et, comme ces fenêtres donnent au couchant, elle me faisait appeler le soir, du temps de ma petite enfance, pour me montrer les couchers du soleil, quand ils étaient très beaux. </p>
+        <p> Moi, alors, je montais quatre à quatre, de peur de les manquer, car ils passaient très vite. </p>
+        <p> … Dans ce temps-là, pour sûr, ces couchers de soleil qu'on voyait par les fenêtres de ma tante Berthe avaient une splendeur que n'ont plus ceux d'aujourd'hui. </p>
+        <p> Dans mon rêve d'hier, j'étais entré aussi dans cette chambre turque, et j'y avais trouvé un vieillard, assis sur un divan, un vieillard affaissé et à demi mort un vieillard qui était moi… </p>
+        <p> Autour de nous, les choses agrandies avaient pris une magnificence sombre ; les objets s'étaient faits sinistres, et tous ces dessins de l'art musulman d'autrefois semblaient symboliser des mystères. </p>
+        <p> Alors, comme dans la journée, j'écartai les épais rideaux de soie et j'ouvris la fenêtre. Il entra une lueur de rêve. On vit les jardins et la plaine là-bas, tout cela étrange sous un coucher de soleil jaune, et ayant quelque chose de la désolation du Grand-Désert. </p>
+        <p> Et la lumière tomba aussi sur la figure de ce vieillard, qui était bien moi, et que je regardais, debout devant lui, avec pitié, et dégoût, et terreur. </p>
+        <p> Je devinais toute son existence : il avait continué de s'éparpiller, de se gaspiller par le monde, et à présent il allait mourir seul, n'ayant pas même su se faire une famille. Dans ses yeux qui étaient les miens éteints par les années il n'avait rien gardé de tout ce soleil qu'il avait dû voir pendant sa vie ; il avait une expression terne, désolée et maudite. </p>
+        <p> Une voix prononça le mot islam . </p>
+        <p> « L'islam », répéta le vieillard… et on eût dit que tout un monde de choses mortes s'éveillaient et s'agitaient dans la cendre de sa tête, des souvenirs de Stamboul, la mer bleue, des armes brillantes au soleil… </p>
+        <p> Je n'étais plus debout devant lui. Ses pensées étaient les miennes ; j'étais lui-même, nous ne faisions plus qu'un. Et je me débattais, comme étouffé dans une espèce de nuit qui s'épaississait toujours, et je suppliais des êtres à peine ébauchés qui se penchaient sur moi de m'emporter loin de ce pays, où j'allais mourir, de m'emporter une dernière fois, là-bas, en Orient, dans la lumière et dans le soleil… </p>
+        <p></p>
+      </div>
+      <div title="XV" type="chapter">
+        <p> XV </p>
+        <p> 21 juin 1880 </p>
+        <p> Un des recoins de la terre où je me suis toujours trouvé bien, c'est ici, sur un certain banc vert où jadis, dans le bon temps heureux, je venais faire mes devoirs à l'ombre et apprendre mes leçons, les jambes en l'air toujours, dans des poses nullement classiques, élève peu studieux, rêvant de voyages et d'aventures. </p>
+        <p> A présent que j'ai tout vu, au lieu de rêves, ce sont des souvenirs. Cela se ressemble et cela se mêle. Et, quand je me retrouve sur ce banc, je ne sais plus trop distinguer les uns des autres. </p>
+        <p> Parmi ces souvenirs que le hasard ramène, il y en a de tristes et d'adorés qui passent à leur tour, et qui tout à coup me font me redresser et tordre mes mains d'angoisse. Ils s'en vont comme les autres, mon Dieu, et le temps peu à peu rend ces retours moins déchirants. </p>
+        <p> C'est mon vrai chez-moi, ce banc vert, malgré tous mes enthousiasmes éprouvés pour d'autres climats et d'autres lieux. Rien ne change alentour. Il y a toujours, à côté, les mêmes iris jaunes, qui sortent en grande gerbe d'un bassin d'eau fraîche entre des pierres moussues ; et les herbes humides sur lesquelles se posent les libellules égarées venues de la campagne. Plus loin, au beau soleil, la rangée des cactus aux grandes fleurs exotiques ; et puis toujours les mêmes roses blanches sur les murs ; les mêmes plantes retombant de partout, plus longues peut-être, plus incultes, envahissant davantage, comme sur les tombeaux, à mesure que la maison est plus dépeuplée et plus silencieuse. </p>
+        <p> Ce mois de juin est bien beau ; le ciel est bien pur et bien bleu. Et pourtant ce n'est pas encore cette splendeur de l'Orient, ni cette lumière de l'Afrique ; c'est plus voilé et plus doux ; c'est autre chose . Et la nostalgie me prend quelquefois, de ce grand soleil et de ce Baal implacable qui rayonne là-bas… </p>
+        <p> Aujourd'hui, en songeant à cette Afrique, j'ai retrouvé par hasard l'image de Suleïma. Pauvre petite sauterelle du Désert, vite je l'ai chassée de ma mémoire avec une sorte de pudeur, n'admettant pas que son souvenir à elle vînt me trouver jusqu'ici. </p>
+        <p> A ce moment même, dans ses vêtements noirs de veuve, je voyais passer ma mère très chérie qui m'envoyait son bon sourire. Elle traversait la cour, à l'ombre du grand bégonia à fleurs rouges, et, de loin, elle me semblait un peu courbée, avec une démarche plus vieillie. Les séparations peut-être, les chagrins !… Alors, je sentis un serrement de cœur inexprimable, en songeant qu'en effet elle était déjà très âgée, et je comptai à vues humaines combien d'années elle me resterait encore, elle qui résume à présent toutes mes affections terrestres. </p>
+        <p> Et puis je me fis à moi-même un grand serment de ne plus la quitter, de demeurer toujours là près d'elle, dans la paix bienfaisante du foyer… </p>
+        <p> Les ombres s'allongeaient, les coins de soleil devenaient plus dorés et certaines fleurs se fermaient. </p>
+        <p> Le soir de ma troisième journée de retour approchait, tranquille et tiède, tandis que les hirondelles noires faisaient en l'air, avec des cris aigus et des courbes folles, leur dernière grande chasse du soir avant l'heure grise des chauves-souris. Je regardais toutes ces choses familières à mon enfance avec une mélancolie douce, comme ayant fini mes longues promenades par le monde, et ne devant plus jamais les perdre de vue. </p>
+        <p> … L'amour qu'on a pour sa mère, c'est le seul qui soit vraiment pur, vraiment immuable, le seul que n'entache ni égoïsme, ni rien, qui n'amène ni déceptions ni amertume, le seul qui fasse un peu croire à l'âme et espérer l'éternité. </p>
+        <p></p>
+      </div>
+      <div title="XVI" type="chapter">
+        <p> XVI </p>
+        <p> … Encore un an après. (Deux ans, depuis le baiser d'adieu de Suleïma.) </p>
+        <p> Nous courions ventre à terre, Si-Mohammed et moi, sur la route de Sidi-Ferruch à Alger. C'était en mai. </p>
+        <p> Le ciel bas, sombre, menaçait d'un déluge, et nous avions lancé nos chevaux, qui s'étaient emballés. </p>
+        <p> Nous approchions d'Alger, et tout le long du chemin il y avait la foule habituelle du dimanche, qui rentrait aussi, par peur de la pluie : des matelots et des zouaves, fraternisant dans tous les cabarets ; des boutiquiers de la rue Bâb-Azoun, endimanchés et en goguette. Nous balayions cette route, et on se rangeait. </p>
+        <p> La terre et la verdure, mouillées par les pluies de la veille, étaient fraîches et avaient bonne odeur. </p>
+        <p> Il fallut ralentir, à cause de ce monde. Nos bêtes faisaient mille sottises. Le cheval de Si-Mohammed, qui était un étalon noir, sautait, s'enlevait des quatre membres à la fois, gesticulant ensuite en l'air avec ses jambes de devant ; ou bien jetait la tête de droite et de gauche, pour essayer de mordre la botte de mon ami, laquelle était en cuir du Maroc brodé d'or. </p>
+        <p> « Qu'il est méchant ! disait Mohammed, tranquille, avec son accent arabe. Regarde comme il est méchant ! » Le mien, qui était de la couleur d'une souris avec une queue flottante, s'en allait tout de côté en sautillant, et encensait de la tête avec beaucoup de grâce. Il n'y mettait pas de malice, lui ; c'était de la jeunesse et de l'enfantillage. Et je le laissais faire à sa guise, tout occupé d'admirer le calme de Mohammed sur sa grande gazelle enragée. </p>
+        <p> On entendait le bruit des sabots ferrés frappant le sol par saccades, et le bruit des harnais de cuir subitement raidis par des mouvements de cou, et le cliquetis des croissants d'argent que le cheval de Mohammed portait pendus à son poitrail, et puis, à la cantonade, les imprécations de ces gens qui se garaient. </p>
+        <p> Près de la porte Bâb-el-Oued, l'étalon noir fit par surprise un grand saut (dit « saut de mouton ») suivi d'une ruade, et Mohammed, lancé par-dessus la tête de son cheval, tomba en avant sur les mains. </p>
+        <p> « Ce n'est rien, dit-il ; mais j'ai sali mes gants ! » II était horriblement vexé devant tout ce monde. </p>
+        <p> Il remonta, agile comme un Numide. Aussitôt on vit jaillir des filets de sang sous ses éperons, et son cheval eut un tremblement des reins, avec un hennissement de douleur. </p>
+        <p> « II ne pleuvra pas, dit-il. Nous avons encore le temps de traverser la ville et d'aller au Jardin d'Essai entendre la musique de quatre heures. » Et nous traversâmes Alger. </p>
+        <p> Il y eut des incidents nouveaux : mon cheval voulut à toute force entrer à reculons dans un poste de zouaves, et faillit y réussir malgré les éperons qui faisaient perler des gouttes rouges sur sa robe couleur de souris. </p>
+        <p> C'est drôle, ces idées obstinées qu'ont les bêtes. </p>
+        <p> Nous, quand nous nous entêtons à faire des choses absurdes, en général, nous ne savons pas pourquoi. </p>
+        <p> Les bêtes, le savent-elles ? A moitié route de ce jardin, la pluie nous prit. Des gouttes lourdes, tombant lentement d'abord ; et puis pressées, rapides ; une de ces pluies torrentielles d'Afrique. Et vite, il fallut tourner bride. </p>
+        <p></p>
+      </div>
+      <div title="XVII" type="chapter">
+        <p> XVII </p>
+        <p> N ous fuyons sous l'ondée, au galop, saisis par ce déluge, Si-Mohammed tout courbé sur sa grande selle à fauteuil, baissant la tête, ayant ses beaux burnous et sa gandourah de soie blanche trempés de pluie et de boue. </p>
+        <p> En dedans de la porte Bâb-Azoun, nous sautâmes à bas de nos chevaux pour nous réfugier sous le péristyle d'un monument public, jetant les brides à des portefaix qui étaient là tapis contre un mur. </p>
+        <p> « Prenez garde, ils se battent ! » cria Mohammed en s'éloignant. </p>
+        <p> Les hommes comprirent et gardèrent les chevaux séparément, le plus loin possible l'un de l'autre. (C'est une habitude connue des chevaux arabes de se battre dès qu'on les rapproche.) </p>
+        <p></p>
+      </div>
+      <div title="XVIII" type="chapter">
+        <p> XVIII </p>
+        <p> C ette grande bâtisse neuve où la pluie nous avait fait entrer par hasard, était le tribunal de guerre. On jugeait une empoisonneuse, amenée des cercles du Sud de la zone militaire. </p>
+        <p> En haut, une galerie supérieure, disposée en tribune, dominait la salle. Nous y montâmes et nous vîmes l'accusée sur son banc. Elle était voilée entièrement, affaissée, effondrée une masse informe de burnous et de draperies blanches. </p>
+        <p> Les juges étaient de vieux officiers de l'armée d'Afrique, aux figures jaunies, éteintes par les fatigues et la vie de garnison. </p>
+        <p> On lut l'acte d'accusation, qui était à faire frémir. </p>
+        <p> Elle avait empoisonné, l'un après l'autre, ses trois maris, et, en dernier lieu, la chienne d'un grand Agha. </p>
+        <p> Et nous regardions, Mohammed et moi, cette forme blanche, chargée de crimes, imaginant là-dessous le visage épouvantable d'une femme vieille et sinistre. </p>
+        <p> L'interprète commanda à l'accusée de se lever et d'ôter son voile. </p>
+        <p> Alors elle s'avança vers la table des juges, rejeta tous ses burnous avec un geste étonnamment jeune et apparut à la manière de Phryné, dans son beau costume d'Arabe du Sud, la taille cambrée et la tête haute… </p>
+        <p> Moi, je l'avais devinée avant qu'elle eût dévoilé son visage. Dès qu'elle avait marché, dès qu'elle s'était levée, je l'avais pressentie et reconnue à un je ne sais quoi de déjà aimé et d'inoubliable… </p>
+        <p> Et pourtant elle était très changée, Suleïma ; elle était transfigurée et bien belle. La petite sauterelle du Désert s'était développée tout à coup au grand air de là-bas ; sous ses vêtements libres, elle avait pris la splendeur de lignes des statues grecques, elle s'était épanouie en femme faite et admirable. </p>
+        <p> Ses beaux bras étaient nus, elle était couverte de bracelets et de colliers et portait la volumineuse coiffure à paillettes de métal des femmes de l'intérieur, qui jetait sur sa beauté un mystère d'idole. </p>
+        <p> Elle promenait autour d'elle la flamme insolente de ses grands yeux noirs de vingt ans, regardant avec aplomb ces hommes, ayant conscience d'être désirée par eux tous. </p>
+        <p> Un officier de zouaves, l'un des juges, pendant qu'elle tournait la tête, lui envoya par derrière un baiser ; les autres étaient là, souriant cyniquement à cette accusée, les plus vieux échangeant tout bas des grivoiseries de caserne… </p>
+        <p> Et, moi, je cherchais son regard. Enfin il monta jusqu'à moi et s'y arrêta : sans doute un souvenir, d'abord vague, lui traversait l'esprit, et puis elle se rappelait mieux, elle me reconnaissait… Mais que lui importait après tout que ce fût moi ou autre ; je ne pouvais plus rien pour elle, et ce sentiment qu'elle avait eu un matin, en me donnant son baiser de petite fille, n'avait peut-être pas duré deux heures… </p>
+        <p> Quant à moi, une pensée folle d'amour m'emportait vers elle, à présent qu'il y avait entre nous cette barrière de crimes ; à présent qu'elle était une chose perdue appartenant à la justice, et aussi inviolable qu'une fille sacrée. </p>
+        <p> Même ses crimes lui donnaient tout à coup sur mes sens un charme ténébreux, et ce souvenir de l'avoir possédée devenait une chose absolument troublante. </p>
+        <p> J'aurais voulu dire cela à ces hommes qui la convoitaient, leur faire savoir à tous que j'avais eu une fois son seul vrai baiser, son seul mouvement un peu pur de tendresse et d'amour… </p>
+        <p> A présent c'était fini en elle de tout sentiment humain ; le vice l'avait prise tout entière, et, sous l'enveloppe encore admirable, rien ne restait plus. </p>
+        <p> Pourtant quand ses yeux se levaient vers moi, il me semblait qu'ils changeaient, qu'ils avaient encore quelque chose d'attendri, de suppliant, de presque bon ; mais cela passait vite, et, quand ils regardaient le tribunal et la foule, ils exprimaient le défi farouche et dur. </p>
+        <p> Aucun remords, aucune pudeur. </p>
+        <p> Elle parlait, et l'interprète traduisait : « Ses maris d'abord l'avaient ruinée ; elle n'avait seulement plus de quoi s'acheter à manger avec son pain dans sa prison. Le dernier lui avait pris tout son argent et même son collier à trois rangs de louis d'or. </p>
+        <p> Ce collier qu'elle avait à présent était en cuivre ; et, comme preuve, elle en arrachait des paillettes, qu'elle lançait aux juges avec dédain. </p>
+        <p> « Quant à la chienne de l'Agha, ce n'était pas vrai. Toute la tribu pourrait le dire : elle était morte d'une certaine gale de chiens !… » </p>
+        <p> L'averse était passée ; il était cinq heures. Il nous fallut à toute force nous arracher de là ; remonter à cheval et aller nous mettre en tenue. Il y avait le soir un dîner au palais de Mustapha, chez le gouverneur d'Alger, en l'honneur d'un grand-duc de Russie, et nos deux uniformes étaient officiellement conviés à faire nombre à cette table. (Si-Mohammed était capitaine au 1 er spahis.) Nous partîmes, fort troublés de l'avoir vue ; irrités de penser qu'elle était à la merci de ces officiers, et que ces juges-là allaient peut-être faire tomber une tête si belle. </p>
+        <p> Au dîner, nous fûmes tous deux très distraits moi très triste. Ma pensée s'en allait souvent, de la salle illuminée où j'étais, à la prison noire ou dormait Suleïma, et toutes sortes de projets insensés germèrent jusqu'au lendemain dans ma tête. </p>
+        <p></p>
+      </div>
+      <div title="XIX" type="chapter">
+        <p> XIX </p>
+        <p> L e lendemain, dès le matin, je m'acheminai vers ce quartier d'Alger où est la prison. </p>
+        <p> C'était encore le calme délicieux des premières heures du jour ; très bas dans le ciel, le Baal resplendissait comme un grand feu d'argent. </p>
+        <p> La notion plus exacte des situations et des choses m'était revenue avec le jour, comme il arrive d'ordinaire. J'espérais seulement qu'en allant là de très bonne heure, avant le lever des gens de justice, j'obtiendrais peut-être, par un procédé vieux comme le monde, la permission de la voir. </p>
+        <p> Je sonnai à cette porte de prison, et, en affectant un ton très dégagé et très bref, je m'adressai au gardien. </p>
+        <p> C'était impossible, naturellement, je l'avais prévu : il aurait fallu des démarches longues, que personne n'aurait comprises, et pour lesquelles d'ailleurs le temps manquait (nous partions à midi pour Tunis). </p>
+        <p> J'avais envie d'offrir de l'argent à cet homme ; j'étais venu pour cela, et c'était le moment de risquer ce coup décisif. Mais maintenant j'hésitais : il avait par hasard l'air honnête… Je n'osais plus. </p>
+        <p> D'ailleurs, elle n'avait pas été condamnée à mort ; on avait déclaré les preuves insuffisantes, me dit-il ; cinq années de prison, c'était tout ce qu'on avait osé lui donner. Les juges aussi, évidemment, l'avaient trouvée belle. </p>
+        <p> Et l'histoire finit de la manière la plus banale du monde. Je donnai à ce gardien un louis, en lui disant, sur un ton redevenu naturel et poli : « Portez-le à cette Suleïma, et dites-lui, je vous prie, que c'est de la part du Roumi qui lui donnait des morceaux de sucre à la porte d'un café d'Oran, quand elle était petite fille. » Tant pis ! Je voulais que mon souvenir au moins allât encore une fois jusqu'à elle, et je n'avais rien trouvé de mieux que cet expédient pitoyable. </p>
+        <p> Si-Mohammed m'attendait au coin de la place du Gouvernement ; nous avions pris rendez-vous sous les arcades d'un grand café français qui est là. Assis à l'ombre, je lui contai ce dénouement, et il sourit d'un air légèrement ironique, en regardant les lointains bleus de la Méditerranée. </p>
+        <p> Dix heures approchaient. La journée s'annonçait terriblement chaude, et des tourbillons de poussière commençaient à courir par les rues. </p>
+        <p> En haut, le Baal brillait d'un éclat terne et lourd, le ciel s'obscurcissait, prenait cette teinte bleu de plomb qui est particulière aux journées accablantes où le sirocco souffle du désert. </p>
+        <p> Onze heures maintenant. Finies les douces flâneries d'Alger sous les arcades blanches. Il était temps de partir, peut-être pour ne revenir jamais. </p>
+        <p> Si-Mohammed vint me conduire à mon canot. Nous descendîmes ensemble, par les grands escaliers de la Marine, sur le quai qui était désert et inondé de soleil. </p>
+        <p> Et, à midi, quand je vis Alger s'éloigner, tout blanc dans la grande chaleur, sous le ciel obscurci de sable, je me mis à songer à ce Grand-Désert, un peu oublié depuis cinq années, par suite de voyages ailleurs. Je sentais son voisinage, à cette grande fournaise du Sahara, qui par derrière cette ville et le Sahel nous envoyait sa soif et son sable. Et voilà maintenant qu'au lieu d'un regret pour Suleïma et pour l'Algérie, c'était un regret poignant pour ce désert qui me prenait tout à coup ; un regret pour ce Bled-el-Ateuch, le plus grand et le plus mystérieux de tous les sanctuaires de Baal ; un regret pour le Soudan noir, pour ce temps déjà lointain où j'ai vécu là-bas, et souffert… Et je comprenais une fois de plus quelle chose folle et dévorante cela est, de s'éparpiller par le monde, de s'acclimater partout, de s'attacher à tout, de vivre cinq ou six existences humaines, au lieu d'une seule bonne, comme font les simples qui restent et meurent dans le coin de monde toujours chéri où leurs yeux se sont ouverts. </p>
+        <p></p>
+      </div>
+      <div title="XX" type="chapter">
+        <p> XX </p>
+        <p> S uleïma la tortue est une personne de mœurs régulières qui vivra pour le moins cent ans. Cela dure indéfiniment, les tortues, comme les reptiles. Elle trottera encore au soleil, sur les pavés blancs, parmi les pots de cactus à fleurs rouges, quand depuis longtemps, la vraie Suleïma et moi, nous serons morts ; elle dans quelque bouge de prostituées, après avoir vendu et revendu sa forme admirable, et moi, qui sait où ?… Il n'y aura plus sous le soleil trace de nous-mêmes, ni de nos corps, ni de nos deux âmes si différentes, un instant rapprochées par ce charme inconscient des sens, par ce mystère étrange qui est l'amour. </p>
+        <p> Et, quand mes arrière-petits-neveux regarderont Suleïma la tortue, trotter, parmi les fleurs de ces étés d'alors, on leur contera que cette bête a été prise en Algérie par un grand-oncle, un aïeul inconnu. </p>
+        <p> Assurément ils ne se représenteront pas cette capture en hiver, dans la montagne d'Oran, par un jour sombre de vent et de pluie, au milieu des fleurettes délicates de mars. </p>
+        <p> Et le grand-oncle aussi leur apparaîtra sous des teintes étranges de légende !… </p>
+        <p></p>
+      </div>
+      <div title="XXI" type="chapter">
+        <p> XXI </p>
+        <p> I ls la trouveront à peu près écrite ici, ces enfants à venir, l'histoire très simple de ce grand-oncle et de cette tortue… </p>
+      </div>
+      <head/>
+    </body>
+    <back/>
+    <back/>
+  </text>
+</TEI>

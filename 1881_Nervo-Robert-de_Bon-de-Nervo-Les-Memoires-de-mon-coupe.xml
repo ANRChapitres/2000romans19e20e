@@ -1,0 +1,1038 @@
+<?xml version='1.0' encoding='UTF8'?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> Les Mémoires de mon coupé (1881) </title>
+        <author from="1842" key="" name="Nervo, Robert de (Baron)" sex="male" to="1909"/>
+        <edition n=""/>
+        <editor name="Calmann Levy" where="Paris"/>
+      </titleStmt>
+      <publicationStmt>
+        <date type="created" when="1881"/>
+        <date type="issued" when="1881"/>
+      </publicationStmt>
+      <editionStmt>
+        <profileDesc tag="non-canon" type="genre">
+          <textClass>
+            <keywords>
+              <term/>
+            </keywords>
+          </textClass>
+        </profileDesc>
+      </editionStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docAuthor/>
+        <docTitle>
+          <titlePart main="Bon de Nervo. Les Mémoires de mon coupé (1881)"/>
+          <titlePart sub=""/>
+        </docTitle>
+        <div type="dedication">
+          <epigraph> /« A lutter sans péril, on triomphe sans gloire. »/ </epigraph>
+        </div>
+      </titlePage>
+    </front>
+    <body>
+      <div title="PROLOGUE" type="chapter">
+        <head> PROLOGUE </head>
+        <p> Les choses ont leur langage comme les hommes. – Elles ont, comme nous, leurs sentiments, leurs impressions, leurs souvenirs : – comme nous, elles savent les raconter à qui sait les comprendre. C’est ainsi que la plume sait à quiet pourquoi elle a écrit – que le cachet sait le secret qu’il a scellé de son empreinte – que la pendule sait l’heure à laquelle son aiguille a marqué l’arrivée ou le départ de la personne aimée – que les portraits vivent et parlent ; – ainsi enfin que tout ce qui est nôtre sait nous redire aux yeux et à l’oreille quelqu’un de ces mille souvenirs qui semblent recommencer la vie elle-même ; – avec toutes les joies, les douleurs, les amours, les folies qui l’ont traversée. </p>
+        <p> C’est pourquoi mon coupé, lui aussi, a voulu raconter quelque chose – pas tout – de ce qu’il a vu et entendu : – histoire – drame – conte ou roman...... </p>
+        <p> Écoutez-le donc – c’est lui qui parle. </p>
+        <p> Baron DE NERVO. </p>
+      </div>
+      <div title="LES MÉMOIRES DE MON COUPÉ" type="chapter">
+        <head> LES MÉMOIRES DE MON COUPÉ </head>
+        <div title="I – QUI JE SUIS" type="chapter">
+          <head>IQUI JE SUIS </head>
+          <p> Je suis né à Paris – Binder m’a fait. – A mes moindres détails de toilette, d’élégance, de forme, il a donné tous ses soins paternels. </p>
+          <p> J’ai une jolie tournure, une coupe fine et légère – ma caisse est de couleur verte – mon train du vermillon le plus pur – mes rechampis sont noirs et lustrés – mon vernis clair comme un miroir, on s’y mire – mes lanternes sont rondes, argentées, du cristal le plus pur ; elles éclairent, et scintillent comme des étoiles. </p>
+          <p> Sur mes portières sont finement peintes les armoiries du dernier maître auquel j’appartiens, le baron de Nervo. </p>
+          <p> Elles sont celles-ci : </p>
+          <p> D’or à 4 cantons posés dans les angles de l’Écu – au 1 de Gueules au dextrochère, armé d’argent, la main de carnation tenant un sabre du même, aux 2 et 3 d’azur, à la tour d’argent ruinée à senestre et au chef d’argent, chargé d’une croix de sinople. </p>
+          <p> Ma devise est celle-ci. </p>
+          <p> Faire sans dire </p>
+          <p> Tel est mon extérieur. </p>
+          <p> MON INTÉRIEUR </p>
+          <p> Mon intérieur est simple et coquet, plutôt mystérieux. </p>
+          <p> Mon drap est vert, mes galons sont pareils. </p>
+          <p> Rien de doux, de moelleux comme mes coussins – de plus discrets que les stores de soie verte qui se déroulent et s’abaissent sur un signe de celui ou de celle qui ne veut être vu ; </p>
+          <p> – aux pieds un épais tapis. </p>
+          <p> Devant : un petit strapontin à volonté. </p>
+          <p> Au-dessus, une petite glace pour réparer au besoin le désordre de la toilette ou celui d’une chevelure ébouriffée. </p>
+          <p> Au-dessous, une mignonne petite caisse en acajou à deux tiroirs, dont l’un à bouton pareil, l’autre fermé par une petite clef en or ; – celle qu’on porte à une chaîne, sur soi ; – la clef des secrets. </p>
+          <p> A droite et à gauche, les boîtes aux lettres, aux cartes de visite – puis toutes les petites poches, les petits coins habituels à un coupé galant, discret et parfumé : – un boudoir roulant. </p>
+          <p> Tel est mon intérieur. </p>
+          <p> MES CHEVAUX </p>
+          <p> Je suis bien attelé – deux jolis chevaux, aux bonnes allures, m’enlèvent là où il faut aller. </p>
+          <p> Ils sont jeunes, tranquilles, obéissants surtout ; – habitués qu’ils sont aux longues promenades au pas, à à travers bois et ombrages ; – habitués qu’ils sont à comprendre et à partager ce qui se dit derrière eux, – chères et charmantes bêtes qu’elles sont. </p>
+          <p> MON COCHER </p>
+          <p> Le cocher qui me mène est un grand et bel Italien – Il s’appelle Pio. </p>
+          <p> Quoique d’une ville où les yeux et les oreilles sont singulièrement ouverts – la ville de Naples – Pio ne voit rien, n’entend rien, ne sait rien. </p>
+          <p> Pio ne parle jamais, il ignore qui est monté dans son coupé, qui en est descendu. </p>
+          <p> Il ne sait point où il a été, d’où il est venu. – Il est aveugle, muet – c’est le roi dès cochers. </p>
+          <p> Il est cependant connu de tout le monde par la livrée de son maître : – Pardessus blanc – collet rouge – boutons aux armes – cocarde – chapeau galonné argent. </p>
+          <p> Tel, ce coupé du mystère et s’il n’avait voulu raconter lui-même, comme il le fait aujourd’hui, certaines de ses aventures ; ce ne serait certainement pas le fidèle Pio qui aurait parlé ; – sa langue se serait plutôt séchée dans sa bouche. </p>
+        </div>
+        <div title="II – MES MAITRES" type="chapter">
+          <head> II MES MAITRES </head>
+          <p> J’ai appartenu à deux maîtres </p>
+          <p> Le premier n’était pas le premier venu. </p>
+          <p> Il n’était ni notaire, ni médecin, ni agent de change : Il était prince de sang royal et des meilleures races. </p>
+          <p> Fuyant le ciel brumeux de la Haye et les mœurs brumeuses de ce triste pays ; – fuyant les étiquettes ennuyeuses de la cour de ses illustres aïeux ; le prince d’O...... avait pensé que Paris était encore, même en république, la plus libre, la plus douce et la plus galante des résidences ; aussi était-ce dans cette bonne, chère et commode capitale qu’il s’était fixé. </p>
+          <p> Il n’avait apporté avec lui aucun des airs, aucune des coutumes, nulle des prétentions qui accompagnent d’ordinaire les altesses royales. – Il y était un simple voyageur, sans train, sans aides de camp, sans luxe, sans ambition, – sans autre ambition que celle d’être libre et de s’amuser. </p>
+          <p> Aussi sur ce point, était-il plus que prince : prince et demi ! – Les fins dîners, les éternels soupers, les longues nuits avec les demi-mondaines et les belles petites ; – tels étaient ses loisirs, telle sa société. </p>
+          <p> Nous logions rue Auber dans un petit appartement fort coquet – nous mangions chez Bignon, au coin du boulevard ; – c’est là qu’était notre quartier général, là, que moi, pauvre coupé, je faisais jour et nuit des stations interminables, fatiguant quatre chevaux qui nous suffisaient à peine ; car il fallait courir nuitamment tout Paris, – alleraux rendez-vous de l’une, à la recherche de l’autre – conduire celle-ci ou celle-là au théâtre, à l’Opéra, au cirque, à Mabille ; l’en ramener ; – mener enfin cette vie de polichinelle galant qui était celle de mon royal maître. </p>
+          <p> C’est dire assez, peut-être trop, que le coupé du prince jouissait d’une assez mauvaise réputation, – réputation qui, à tort ou à raison, lui est un peu restée. </p>
+          <p> La mort du prince, déjà épuisé avant l’âge, par tant de fatigues, et d’amours frelatés de tous les crus ; me mit ensuite aux mains de certain autre maître, presque anonyme, du général comte X qui ne me garda que quelques mois – après une saison aux eaux de Bagnères-de-Luchon, il était venu, l’hiver suivant, mourir à Nice, en ne me laissant pour tout souvenir qu’un manuscrit, assez curieux et assez tendre dont j’aurai à parler ; une jolie histoire amoureuse. </p>
+          <p> Aujourd’hui, j’appartiens à un maître qui n’est ni prince ni général. </p>
+          <p> – Le baron de Nervo se contente d’être ce qu’il est. </p>
+          <p> Ses mœurs et ses habitudes ne sont point celles de mon premier maître. </p>
+          <p> Il est du monde – fort galant, fort empressé auprès des jolies femmes – un peu libre, libre-échangiste surtout ; – un peu inconstant dans ses affections. </p>
+          <p> Il aime tout ce qui est nouveau, tout ce qui est jeune ; – la fleur prête à s’épanouir – les senteurs qui parfument – les yeux qui parlent – l’esprit qui tout ose et tout dit en son charmant langage, en français : – il aime la fantaisie, l’élégance, l’humour et l’amour. </p>
+          <p> Mon maître est âgé, mais il est resté jeune ; – jeune de tournure, d’allure, de cœur, d’illusions, d’espérances. – Les années ne sont pour lui que des dates, quelquefois des souvenirs. </p>
+          <p> Oublieux du passé, le présent a ses préférences – de l’avenir, il ne se préoccupe ; il le rêve clair, joyeux, fleuri, éternel ; – c’est dire que, pour avoir changé de maître, le coupé du baron n’en reste pas moins ouvert à toutes les jeunesses, toutes les roses, tous les sourires de la vie. </p>
+          <p> On raconte sur ce pauvre coupé, sur ses audaces, sur ses oublis, sur ses crimes, mille histoires vraies ou fausses, à faire dresser les cheveux sur la tête ; – aussi le craint-on, le redoute-t-on, et nul n’entrerait, dit-on, dans son intérieur capitonné sans une certaine appréhension ! – Vaines terreurs ! – Il est moins méchant que sa méchante réputation. </p>
+          <p> Aujourd’hui, il ne fera que raconter quelques-unes des fantaisies, quelques-uns des romans ou des drames de celles qui se sont assises sur ses mystérieux coussins. – Témoins : La Morte-Vivante – Le Poison de la terrible Vera – Les doux et honnêtes amours de Mlle Isabelle ; etc., etc. </p>
+          <p> Il entre en scène. </p>
+        </div>
+      </div>
+      <div title="LES DEUX BALCONS" type="chapter">
+        <head> LES DEUX BALCONS </head>
+        <div title="I" type="chapter">
+          <head> I </head>
+          <p> J’appartiens donc au prince d’O… – Je suis sa chose, sa moitié – son confident – l’écho et le témoin de tout ce qu’il fait et rêve – de toutes ses joies, de tous ses amours – amours nombreux, multiples, de couleurs et de qualités différentes – amours de tous les mondes, amours de Paris, amours de prince. </p>
+          <p> Mon maître m’attelle jour et nuit-il me promène partout, dans tous les quartiers, dans tous les boudoirs, dans tous les buen-retiros des belles petites. </p>
+          <p> – Il me confie le soin des plus jolies femmes. </p>
+          <p> Jamais coupé, sous ses stores de soie, n’a vu de plus jolis minois, de plus blanches épaules, de plus blanches mains, de plus petits pieds, de plus amoureux sourires. – Je ne suis plus un coupé, je suis un boudoir, le boudoir aux petits secrets – aux grandes tragédies – aux coups de poignard – aux duels d’amoureux ; voyez plutôt et écoutez : </p>
+        </div>
+        <div title="II" type="chapter">
+          <head> II </head>
+          <p> A la fin de janvier 187., j’avais été attelé toute la journée, il neigeait et le soir vers onze heures, voilà qu’il me fallait aller avec mon prince, faire une visite, une visite amoureuse sans doute, au numéro… de la rue Auber. </p>
+          <p> Là, mon maître descendit et me laissa seul à la porte, avec le cocher et le pauvre cheval qui, la tête basse, semblaient se conformer à leur triste sort. </p>
+          <p> Il en est ainsi : – Pendant que le maître, bien encapuchonné dans sa fourrure, monte sur un moelleux tapis, les degrés d’un escalier bien chauffé ; nous trois, le cocher, le cheval et moi, presque ensevelis sous la neige, nous réfléchissions. </p>
+          <p> Le prince était attendu, c’était un rendez-vous. </p>
+          <p> La déesse était seule : – son mari était sorti, il ne rentrait ordinairement de son cercle, que vers les trois heures de la nuit. – Il était un joueur, joueur heureux, gagnait souvent, et lorsqu’on gagne, on reste où l’on gagne. – Pauvre mari qui ne se doutait pas que lorsqu’il gagnait au cercle, il perdait ailleurs. </p>
+          <p> La femme de l’heureux joueur était une personne charmante. – Sans être du monde des belles petites, elle était de celui des femmes galantes. </p>
+          <p> La femme galante, à Paris, est mariée et baronne. – De son mari, elle n’a grande cure – s’il est joueur et il l’est ordinairement, il rapporte au logis ses bonheurs de jeu – c’est un métier lucratif et nécessaire. </p>
+          <p> La femme galante a de 20 à 25 mille livres de rente, elle en dépense 100 mille. – Elle est jolie, coquette, provocante. </p>
+          <p> L’argent, l’élégance et l’amour jouent dans son existence un seul et même rôle – ils sont comme une trinité qui n’en fait qu’une seule et même passion, un seul et même besoin. </p>
+          <p> Le monde que voit la femme galante, sans être le monde vrai, n’est pas non plus le monde interlope, non. </p>
+          <p> – C’est le monde des artistes, le monde des théâtres, le monde des gens d’esprit. </p>
+          <p> Celle chez qui le prince avait rendez-vous, la baronne X… était presque une artiste. – D’un esprit fin, d’une conversation variée, primesautière, humoristique ; elle chantait, fredonnait avec grâce ce que d’autres disent avec talent ; – en un mot, elle plaisait, – elle faisait plus, elle charmait, et quand une femme a charmé, elle a tout dit. </p>
+          <p> Le prince avait remarqué cette femme à l’Opéra, où elle avait sa loge, entre les colonnes : loge sans cesse remplie de fleurs, et de tous ceux qui les offraient, et ils étaient nombreux. </p>
+          <p> A la première vue de cette personne, si entourée, si élégante, si désirable, le prince avait senti comme quelque chose qui l’avait frappé, là où l’on sait ; avait senti la blessure qui ne se cicatrise que par la possession ; – il se fit présenter, il était pris. </p>
+          <p> De là à une, à deux, à des visites plus fréquentes, il n’y avait qu’un pas, et bientôt (plus tôt même que cela n’eût dû être), le prince était plus que l’ami. </p>
+          <p> – Enfin, le soir où nous le voyons quitter son coupé, monter l’escalier et entrer dans le sanctuaire, il avait galant rendez-vous chez la belle. </p>
+          <p> Un rendez-vous, à onze heures, chez une femme, lorsque son mari est absent, absent pour toute la nuit est chose grave – on y joue ordinairement son cœur, quelquefois sa bourse, quelquefois aussi sa vie ! </p>
+          <p> Ce fut le dernier enjeu que le prince y jouait. </p>
+        </div>
+        <div title="III" type="chapter">
+          <head> III </head>
+          <p> Dans le boudoir parfumé qui n’est point à décrire – (les boudoirs sont tous parfumés de la même odeur, celle d’une jolie femme), – le prince trouva la déesse attendant son bonheur, ce bonheur qui allait être troublé d’une si dramatique manière. </p>
+          <p> Ce que se dirent, ce que se confièrent les deux amoureux durant ces premières heures, on le devine ; mais ce que nul d’entre eux ne pouvait soupçonner, c’est ce qu’apportait vers deux heures la rentrée de celui qu’on n’attendait pas. </p>
+          <p> Ce soir-là, la grande partie s’était engagée au cercle vers les minuit. – Le mari de la déesse avait d’abord été heureux, plus qu’heureux, il avait gagné près de 200 mille francs ; puis tout à coup la chance avait tourné, et de point en point, l’heureux joueur avait tout reperdu, de plus, ce qu’il avait sur lui. </p>
+          <p> Emporté par le désir de la revanche, il avait alors sauté dans une voiture, remonté quatre à quatre son escalier et il rentrait pour ressortir après avoir repris quelque argent, lorsqu’il lui avait semblé entendre quelque chose, quelque bruit dans la chambre voisine de celle de sa femme ; dans son boudoir. </p>
+          <p> Il prêta l’oreille, crut se tromper – puis s’y reprit – puis s’y reprit encore ; puis presque sûr, quoique doutant encore, il appela sa femme, – elle se nommait Hortense – « Hortense, lui dit-il, vous ne dormez pas ? » </p>
+          <p> Hortense ne dit mot : – troublée, éperdue, surprise, la tête presque sous l’oreiller : « Fuyez, dit-elle au prince, fuyez par le balcon ! » </p>
+          <p> Fuir par le balcon, c’était chose plus facile à dire qu’à faire – cependant, il n’y avait point à hésiter : – le mari était là, il allait entrer, faire une esclandre, – tuer l’amant peut-être ! </p>
+          <p> Que faire ? </p>
+          <p> Le prince n’hésita point, il rassembla comme il put ses vêtements et hardiment, par la fenêtre du boudoir, il s’engagea sur le balcon. </p>
+          <p> Là, il se rajusta, se couvrit de son mieux et chercha quelque issue, quelque fenêtre, quelque porte, quelque escalier, pour sortir, et aller rejoindre son coupé qui l’attendait toujours dans la rue. </p>
+          <p> Une fois donc sur ce balcon, le prince cherchait toujours, lorsque soudain, il se sentit arrêté par une barre de fer. </p>
+          <p> C’était la séparation qui existait entre deux appartements contigus. – Cette séparation, cette grille était haute d’un mètre, le prince la franchit vivement, redescendit de l’autre côté et se crut sauvé. </p>
+          <p> Dans quel pays nouveau se trouvait-il ? Chez qui était-il ?… à cette heure de la nuit ? </p>
+        </div>
+        <div title="IV" type="chapter">
+          <head> IV </head>
+          <p> Le balcon sur lequel le prince avait émigré était celui d’un autre ménage. </p>
+          <p> Cette fois, ce ménage n’était pas celui d’une femme galante. – Le pays était un pays honnête, connu, blasonné. </p>
+          <p> L’une des fenêtres était à demi éclairée – derrière la persienne fermée, une veilleuse jetait ses lueurs mystérieuses. – Un silence complet régnait, celui du sommeil, sans doute, lorsque tout à coup, le prince sembla entendre comme des pas, comme quelqu’un qui montait un escalier. – Il était deux heures et demie du matin. </p>
+          <p> – Puis les pas s’arrêtèrent, puis il entendit comme une clef qui entrait dans une serrure, puis une porte se refermait, puis, après quelques minutes, un bruit de voix, de deux voix sembla s’élever. </p>
+          <p> Ces deux voix n’étaient pas du même sexe : – Il y avait une voix d’homme, voix de reproche, de colère – puis une voix de femme, voix de douceur, de larmes. </p>
+          <p> On accusait et on se défendait. </p>
+          <p> Le mari, – car c’était un mari – était rentré, avait trouvé de la lumière dans la chambre de sa femme, – en avait demandé la raison et, cherchant, furetant partout, s’était imaginé – jaloux qu’il était, – que sa femme n’était point seule dans son appartement. </p>
+          <p> Sa femme, la comtesse de X… très connue à Paris dans le monde, était une personne aussi charmante qu’irréprochable. </p>
+          <p> On avait bien dit sur elle, comme sur toutes les jolies femmes, quelques-unes de ces petites indiscrétions, de ces petites fables qui tombent d’elles-mêmes, mais qui ont le très grave inconvénient d’allumer dans le cœur des maris l’une de ces jalousies qui deviennent une véritable folie. </p>
+          <p> M. le comte de X… était donc ce mari jaloux, – jaloux de tout et de tous – jaloux au bal – jaloux à dîner, à souper, à l’Opéra, aux courses ; – jaloux du moindre ruban, de la moindre dentelle que portait sa femme ; – jaloux, un jour par exemple – de certaine ombrelle rouge qui, selon lui, devait être quelque signe convenu : – un jaloux féroce en un mot ! </p>
+          <p> Surprendre sa femme en faute, – en faute de pensée, de parole ou d’action, était chez ce mari la seule occupation, le seul but de sa vie. </p>
+          <p> Or, arriver la nuit à l’improviste – trouver une lampe allumée – sa femme non endormie ; il y avait là, il devait y avoir là quelque chose : – de là, la dispute, de là, le mari qui accuse, et la femme qui se défend – de là, les recherches du mari, partout, sous le lit, dans tous les cabinets, sous tous les fauteuils, derrière tous les rideaux ! – Vaines recherches ! </p>
+          <p> La femme avait beau jurer de son innocence, rien n’arrêtait le jaloux ; lorsque soudain, il crut entendre un bruit au dehors, sur le balcon, un pas. – Il y avait quelqu’un sur le balcon ! </p>
+          <p> La femme nia, le jaloux persista et aussitôt, sa petite lanterne à la main, (celle qu’il laissait chaque nuit chez le portier pour rentrer chez lui, ) il ouvrit la fenêtre et là, se trouva nez à nez avec un individu, le chapeau rabattu sur les yeux, – l’air inquiet, ahuri, désolé. </p>
+          <p> « Que faites-vous ici ? lui dit-il. – Qui êtes-vous ? répondez. » </p>
+          <p> – « Je ne suis point ce que vous croyez, repartit le prince, je suis égaré sur ce balcon – je ne demande qu’à descendre, qu’à sortir – laissez-moi aller, de grâce, je vous en prie ! » </p>
+          <p> – « Comment, répliqua le jaloux, vous êtes ici, à cette heure, pour entrer chez moi, d’où vous sortez peut-être, – d’où vous sortez, n’est-ce pas ? avouez-le, et vous voulez que je vous laisse aller, jamais ! » </p>
+          <p> « Oui, vous êtes un voleur, un voleur que je vais faire arrêter, oui, je vais crier au voleur ! » </p>
+          <p> Puis, lui mettant sous les yeux sa lanterne et reconnaissant le prince, (si connu de tout le monde). </p>
+          <p> « Comment, c’est vous, monseigneur, qui vous introduisez ainsi chez la femme des autres, et vous voulez que je vous laisse aller, jamais, jamais, et si vous êtes un gentilhomme, demain.... ! » </p>
+          <p> Le prince eut beau affirmer que le mari se trompait, affirmer qu’il se trouvait là, sur ce balcon, par un hasard qu’il ne pouvait expliquer ; le jaloux ne voulut rien voir, rien entendre ; la querelle s’envenima, on se menaça, des mots on allait en venir aux mains, et le pauvre prince allait être arrêté et mené au poste, comme un vulgaire voleur, lorsque poussé à bout, et forcé de se défendre, il accepta la réparation qui lui était demandée et se mit à la disposition du jaloux, pour le lendemain. </p>
+          <p> Il était plus de trois heures lorsque, plus mort que vif, transi de froid et d’émotion, le prince regagna le coupé qui l’attendait depuis près de quatre heures à la porte du voisin, ou plutôt de cette voisine, chez laquelle il était entré comme un prince et d’où il était sorti comme un amoureux surpris, ou un malfaiteur – par ce double balcon, ce maudit balcon, qui allait être la cause d’une si tragique aventure. </p>
+        </div>
+        <div title="V" type="chapter">
+          <head> V </head>
+          <p> Les témoins du prince furent bientôt trouvés, on ne les nomme pas – les amis du comte de X… en firent autant de leur côté, et le lendemain, moi, pauvre coupé, j’étais attelé et le cocher me conduisait au fond du bois de Boulogne – Il était neuf heures. </p>
+          <p> Nous n’allions jamais à cette heure au bois, ni surtout dans cette solitaire partie du bois qui est proche de Boulogne. – Là, sur un mot du prince, le cocher s’arrêta près d’un grand fourré et voici ce que vit le coupé : </p>
+          <p> Le prince et ses deux amis étant descendus y rencontrèrent un autre monsieur, avec deux autres personnes. </p>
+          <p> On se montra deux longs pistolets, on les chargea ; puis on mesura des pas, puis on plaça mon maître à certaine distance, tandis que les autres faisaient de même ; – puis à un signal donné, j’entendis deux coups de feu secs, – puis l’un des deux combattants tourna sur lui-même et tomba la face contre terre (ce n’était pas le prince). – Il était mort, mort sur le coup. </p>
+          <p> Alors le prince et ses amis remontèrent en voiture et ce fut fini. </p>
+          <p> Voilà, ce que moi, pauvre coupé, j’avais vu et entendu dans la sinistre nuit de janvier 187. : – un rendez-vous amoureux troublé – une fuite du galant sur le balcon voisin – une querelle de mari jaloux – un duel et une mort d’homme ! </p>
+          <p> Mais cette histoire ne devait pas finir ainsi. </p>
+        </div>
+        <div title="VI" type="chapter">
+          <head> VI </head>
+          <p> Le prince qui avait tué le mari, ignorait absolument pour qui il avait été obligé de se battre. </p>
+          <p> Quelle était cette personne, la cause innocente de cette grande jalousie ? – Quelle était cette veuve ainsi privée à jamais de son mari d’une façon si étrange, et il faut le dire, si grotesque ? </p>
+          <p> Était-elle jolie, laide, désolée ? – toutes choses qu’on veut savoir, surtout quand on est la cause, même involontaire, d’un si terrible événement. </p>
+          <p> Le prince se mit immédiatement à la recherche de cette énigme. </p>
+          <p> Voici ce qu’il apprit : </p>
+          <p> La comtesse de X… était mariée depuis quelques années à peine. C’était un mariage d’arrangement, l’amour n’y était pour rien. </p>
+          <p> Ils avaient tous les deux de la fortune – Les deux familles se valaient ; – même monde, – mêmes relations, – bonne noblesse des deux côtés. </p>
+          <p> La comtesse jeune et jolie, – nous l’avons dit, – aimait le monde. Elle y était fort entourée – son mari, le plus jaloux des maris, – nous l’avons dit aussi – ne la menait dans le monde qu’à regret, – toujours le premier au milieu du cotillon ou du souper, à vouloir rentrer ; – enfin, vous savez, un de ces tristes et insupportables tyrans qui adorent leurs femmes, en essayant de les priver de tous les plaisirs permis, pour jouir seuls du cercle, du baccarat, et quelquefois de certains autres. </p>
+          <p> Ce ménage était donc de ceux qu’on peut appeler troublés, par les scènes continuelles d’une jalousie injurieuse et sans motifs. </p>
+          <p> Hélas ! lorsqu’une semblable injure est faite à une femme, souvent elle lui donne des idées qu’elle n’aurait jamais eues, et on a vu les plus sages accusées de légèretés, ne devenir légères et coupables que par esprit de vengeance et de contradiction. </p>
+          <p> La comtesse était sur cette pente dangereuse, lorsqu’elle était devenue veuve. </p>
+          <p> Telle était celle que le prince voulait absolument connaître. </p>
+          <p> Tous les moyens furent essayés, employés pour y arriver ; mais d’un côté, – pour la veuve, recevoir le meurtrier de son mari ; – et de l’autre, pour le prince, se trouver près de la femme de celui qu’il venait de tuer ; – c’était pour les deux une situation, presque impossible. </p>
+          <p> Le prince cependant, avec l’espèce d’entêtement et de volonté que suggère une semblable aventure, n’insista, ne persista que plus. – Par ses amis, par les intermédiaires qu’il trouva, par l’or et l’argent, par tous les moyens plus ou moins permis, il se fit jour, et il arriva. </p>
+          <p> La comtesse, il faut se hâter de le dire, après la première douleur s’était assez vite consolée. – Comme la veuve de la légende, comme les veuves du royaume de Malabar, elle ne s’était point condamnée au bûcher – elle ne s’était point coupé les cheveux – elle n’avait pas laissé ses beaux yeux se rougir de trop de larmes ; tout cela l’aurait enlaidie ; – non, sous le grand voile de crêpe dont elle s’était enveloppée, elle restait encore la plus jolie des veuves. </p>
+          <p> Ce fut donc sous ce voile mystérieux que le prince la connut. </p>
+          <p> La première entrevue fut difficile – la seconde moins – la troisième presque de l’affection, et de visite en visite, bientôt on ne put se passer l’un de l’autre. </p>
+          <p> Le veuvage appelle ordinairement la consolation. – Or, il arriva qu’un jour, le consolateur parla d’autre chose – il arriva que l’amour arriva, – et que le prétendu voleur du balcon entrait désormais libre, amoureux et heureux, auprès de celle qui devint un jour sa maîtresse adorée ! </p>
+          <p> Étrange histoire qui commence par un rendez-vous chez une femme galante – se poursuit et se dramatise par la fuite du galant sur un balcon voisin, celui d’une sage inconnue – amène par un duel la mort d’un mari jaloux – et finit par un amour insensé pour la veuve même de celui qu’on a tué ! </p>
+          <p> Cette liaison défendue dura cependant et ne finit qu’avec la mort du prince. – Cette charmante personne fût celle qu’il aima le plus. </p>
+          <p> Le pauvre coupé avait commencé, un soir de neige, par la porte d’à côté : dorénavant c’était à celle du numéro suivant qu’il passait ses jours et presque ses nuits, attendant fidèlement, à une porte amie, le royal aventurier : </p>
+          <p> DES DEUX BALCONS. </p>
+        </div>
+      </div>
+      <div title="LE MANUSCRIT DU GÉNÉRAL" type="chapter">
+        <head> LE MANUSCRIT DU GÉNÉRAL </head>
+        <div title="I" type="chapter">
+          <head> I </head>
+          <p> Après la mort du prince d’O…, je fus acheté par le général comte X. – Il ne me garda pas longtemps. </p>
+          <p> – Après une courte saison aux eaux de Bagnères-de-Luchon, il était venu mourir à Nice. </p>
+          <p> On ne sait jamais à qui on succède, – si avec son nouveau maître, on sera plus ou moins tranquille, plus ou moins heureux qu’avec le premier ; – toutefois, lorsqu’on a eu pour maître et seigneur un irrégulier, un coureur de belles comme le prince, on pouvait espérer de meilleurs jours et surtout de meilleures nuits. </p>
+          <p> Le général (presque anonyme) était, en effet, un de ces maîtres qui, dans leurs suprêmes années, ont rapporté comme l’ordre et la discipline de leurs premières armes. </p>
+          <p> Son portrait, le voici : </p>
+          <p> Le général X ne devait guère dépasser ses douze lustres. Sa vie s’était passée toute à la guerre. – On l’avait vu partout où il y avait eu un coup de sabre à donner ou à recevoir. – On l’avait trouvé successivement en Crimée, à Solferino, au Mexique, frappant d’estoc et de taille – il en avait rapporté les blessures qu’il venait soigner aux eaux. </p>
+          <p> Il était grand, mince, d’une taille élégante et souple – sa tournure était galante – le casque qu’il avait d’abord porté, lorsqu’il était au service d’Espagne, et d’autres fatigues l’avaient fait un peu chauve ; c’était mieux, car il avait le front haut, large, ouvert, celui de l’intelligence – tout cela avec de grands yeux, de belles dents, un profil fin et sérieux. </p>
+          <p> Son caractère était plutôt un peu philosophique, dans la bonne et agréable acception du mot – ses réparties, ses conversations respiraient une sorte d’humour et d’imprévu qui plaisait. </p>
+          <p> Son cœur, quelque éprouvé qu’il eût été, avait conservé ses émotions les plus tendres. </p>
+          <p> Amateur passionné du beau sexe, toujours galant, toujours amoureux et toujours inconstant ; il papillonnait autour de toutes les fleurs et semblait avoir pris pour sa devise, ce vers : </p>
+          <div xml:lang="fr">
+            <l xml:lang="fr"> J’ai l’âge d’un vieillard et le cœur d’un jeune homme. </l>
+          </div>
+          <p> Tel mon nouveau maître, le général. </p>
+        </div>
+        <div title="II" type="chapter">
+          <head> II </head>
+          <p> Le général, paraît-il, avait une étrange habitude ; il écrivait chaque jour, le soir, ce qui lui était arrivé dans la journée – c’est ainsi qu’à sa mort et lorsque le baron, mon maître actuel, devint possesseur du fameux coupé, il y trouva ce que nous avons appelé : </p>
+          <p> Le Manuscrit du Général. </p>
+          <p> La première chose que fait quelqu’un, lorsqu’il devient possesseur d’un objet quelconque, d’un meuble ; c’est de l’examiner, de le retourner, de le fouiller jusque dans ses coins et recoins les plus secrets. </p>
+          <p> Qui sait ce qu’on trouvera ? C’est ce que le baron fit aussitôt. </p>
+          <p> Tout fut fouillé, interrogé, examiné dans toute ma personne. – Extérieur, intérieur, les coussins moelleux, les stores de soie, la glace, la boîte aux cartes de visite, tout fut reconnu et le baron passant à la petite caisse en acajou qui existait entre les deux glaces, avait déjà ouvert le premier tiroir et s’apprêtait à ouvrir le second ; lorsqu’il sentit une résistance. </p>
+          <p> Ce second tiroir était fermé à clef – la serrure était une serrure de sûreté, la clef manquait, comment faire ? – Et puis, que renfermait ce tiroir ? des secrets peut-être, – des secrets de femme, ceux qu’on enferme, qu’on cache, qu’on garde et dont on a la clef sur soi, la petite clef d’or attachée à la chaîne de sa montre ! </p>
+          <p> Rien de possible pour avoir, pour retrouver cette clef ; il fallut donc faire ouvrir ce tiroir par une main mercenaire, par un ouvrier. – </p>
+          <p> On l’ouvrit et on y trouva le secret d’une femme. </p>
+          <p> C’était un manuscrit fort long, écrit jour par jour, c’était l’histoire dernière des dernières amours du pauvre général, l’histoire de tout ce que moi, fidèle coupé, j’avais vu, su, et entendu, et que voici ; – le titre était : </p>
+          <p> L’AMOUR AUX EAUX </p>
+          <p> Titre étrange qui promettait. </p>
+          <p> En tête, on lisait cette maxime de La Bruyère : </p>
+          <p> « Ce roman n’est pas vrai, non, il y manque le vraisemblable ! » </p>
+          <p> Et cependant, ajoutait le général, il a existé ! </p>
+          <p> Il y avait là évidemment un roman, une femme, une histoire d’amour. </p>
+          <p> La scène s’ouvre : </p>
+          <p> Le général, son coupé et ses trois chevaux sont installés à Luchon, dans une charmante villa, la villa Diana, celle qui existe au milieu de la verdure et des sapins, au bout du parc, près de l’allée des bains. </p>
+          <p> Le général est un habitué, un passionné de la délicieuse vallée au milieu de laquelle s’élève la petite cité de Bagnères-de-Luchon. </p>
+          <p> Il y vient chaque année, depuis 25 ans, – il y connaît tout le monde, – fait chaque année des connaissances nouvelles, avec cette société cosmopolite qui apporte, en elle, tous les goûts, toutes les allures, tous les charmes, toutes les faiblesses de celles qui, en moins de 30 jours, se sont donné pour régime et pour hygiène le don de plaire, d’aimer et de se faire aimer ! </p>
+          <p> Pour une semblable besogne, la journée ne se compose pas, comme ailleurs, dans les villes par exemple, de plus ou moins d’heures perdues. – Dans le monde des villes, l’amour a ses étapes, ses longueurs, ses distances, ses longues attentes, ses longues désillusions, ses longues douleurs ; – ici, aux eaux, le jour des amours se compose d’heures, de minutes, de secondes dont pas une n’est à perdre. </p>
+          <p> Cette vie des eaux, ce monde des eaux est donc un monde propre et particulier – un monde dans lequel chacun apporte sa note, sa couleur, sa personnalité ; toutes marquées au coin d’un seul et unique but, d’un seul et unique sentiment : </p>
+          <p> LE PLAISIR ! </p>
+          <p> Plaisir des yeux, plaisir d’un jour, plaisir d’un mois – amour des eaux, monde des eaux – arrivée de tous et de toutes, – prétentions de tous et de toutes – fautes, chutes, souvenirs et regrets : – C’est ce que le général, – passé maître en cette délicate matière, – peignait dans son curieux manuscrit, en traits si vifs, si colorés et si vrais, qu’on eût dit un peintre arrachant à sa palette toutes les couleurs dont il avait su vivifier son charmant tableau ; – qu’on eût dit un livre, un guide, un guide-bijou dont chaque feuillet retraçait quelque chose du riant voyage à travers ce pays des eaux, ce monde des eaux, du plaisir et des amours ! </p>
+        </div>
+        <div title="III" type="chapter">
+          <head> III </head>
+          <p> Le monde des eaux, selon le général, ne ressemble à nul autre. – Toutes les classes, les situations, les natures, les prétentions, s’y rencontrent et s’y coudoient. </p>
+          <p> Aller aux eaux, est devenu en France, une mode d’abord, une nécessité de santé ensuite. </p>
+          <p> On va aux eaux, parce qu’on est jolie, élégante, qu’on veut montrer son joli visage, ses jolies toilettes, courir à pied, à cheval, sur la terre et sur l’onde et se laisser aimer. </p>
+          <p> La nécessité de santé, entre, à son tour, pour quelque chose dans la saison des eaux. – On est depuis l’hiver, affaiblie, on ne digère plus, l’anémie physique a amené l’anémie morale ; – on appelle le médecin, le cher docteur, le complaisant, et sur l’heure, une bonne consultation a ordonné Vichy, Trouville, Luchon, Biarritz et tutti quanti. </p>
+          <p> Le voyage décidé, il faut qu’on s’y prépare. </p>
+          <p> Pour une femme, les préparatifs d’une saison d’eaux ne sont pas peu de chose. – On a sa réputation de jolie femme, et, pour la soutenir, que de détails, de conditions et de préparatifs ne faut-il pas ? </p>
+          <p> La couturière, la chapelière, la cordonnière sont mandées, et, à grande vitesse, comme le wagon déjà retenu, tout a été commandé : – robes du matin, du jour, du soir – amazone – bottes et bottines – gants à huit ou douze boutons – bas rayés, brodés de toutes couleurs – bijoux en cas de bals – chapeaux Directoire, Rembrandt toques, et toquets : – En quinze jours, Virot, Laferrière, Worth ont livré leurs trésors. – C’est à se mettre à genoux devant ; c’est flambant, pimpant, provoquant : – on part, – on est parti, – on est arrivé. </p>
+          <p> L’arrivée en toutes choses est le point capital. – Aux eaux l’arrivée est chose importante. </p>
+          <p> Il en est qui arrivent seules, il en est qui arrivent à deux. </p>
+          <p> Arriver avec son mari, cela est bien, est mieux pour la première entrée en scène ; cependant, beaucoup d’élégantes arrivent seules. – Cela a un certain air qui ne déplaît point. – Qui est-on ? – D’où vient-on ? – Tout cela est de la chronique des eaux. – Les suppositions, les erreurs, les racontars, les potins, font la joie d’une soirée ; – on en parle, on en discute, et discuter quelqu’un, une jolie femme surtout, c’est déjà pour elle une notoriété ; – aux eaux, la notoriété est un succès. </p>
+          <p> Toutefois, arriver n’est pas tout – il faut savoir arriver. </p>
+          <p> Or, arriver de la gare en calèche, avec des caisses à robes et à chapeaux aussi neuves que gigantesques, à son chiffre, avec un sac de voyage en joli maroquin, une robe du matin et un chapeau simples ; c’est une des conditions de la bonne arrivée de l’élégante, c’est une promesse. </p>
+          <p> Celle qui arriverait avec un méchant chapeau fané, des malles fermées avec des cordes et dessus ces malles des adresses à la main ; serait une personne perdue, perdue au moins pour les premiers jours. – Il faudrait pour qu’elle se réhabilitât que le contenu fût en complet désaccord avec le contenant, et encore ! </p>
+          <p> Où va-t-on descendre ? toujours au grand hôtel du lieu, car il y a partout un grand hôtel, – ou mieux, dans une villa retenue d’avance. </p>
+          <p> C’est là qu’on s’est installé et, un matin, le lendemain de l’arrivée ordinairement, on vous apporte un registre sur lequel vous êtes invité ou invitée à mettre vos noms, prénoms, qualités et qui pis est ; votre âge, – Impertinence ! </p>
+          <p> Lorsqu’on a un nom et des qualités connues, un trait de plume en fait l’affaire. – Comtesse A. ou B. – 29 ans, – jamais plus, souvent moins. </p>
+          <p> Lorsqu’on est d’un monde moins connu, plus équivoque, cette déclaration a, aux eaux, une importance capitale – comme ce registre est copié par la liste officielle des étrangers, il faut à tout prix y figurer en rang, nom et qualité – en noblesse. </p>
+          <p> On a connu, aux eaux, une foule de personnes qui n’avaient de particule et de titre que la saison durant – se faire princesse, duchesse ou marquise serait trop fort ; mais être, pour deux mois seulement, comtesse ou baronne, baronne surtout, cela se voit partout, – des barons, on ne parle pas, il en foisonne comme du chiendent dans un pré. </p>
+          <p> Les qualités, c’est bien autre chose. – Aux eaux, tout le monde est de qualité ; – rentiers, propriétaires, avocats, licenciés en beaucoup de choses, tout s’y trouve ; et puis, il y a la catégorie des anciens : – ancien sénateur, – ancien député, – ancien ministre, – ancien préfet, – ancien receveur-général, – ancien officier ; et tout ce qui, en France, accuse l’instabilité des services et des gouvernements passés, présents et futurs. On a compris d’avance que tout ce monde venu d’un peu partout, diffèrent par ses origines, sa situation, ses tendances, ses opinions et surtout ses mœurs ; que ce monde soit un monde composé de presque autant de mondes que de personnes. </p>
+        </div>
+        <div title="IV" type="chapter">
+          <head> IV </head>
+          <p> Et d’abord : </p>
+          <p> Il y a le monde de Paris – celui-là se divise presqu’à l’infini. – Le faubourg Saint-Germain et le faubourg Saint-Honoré ne vivent pas ensemble. – La haute banque ne vit pas avec la petite finance. – La jeunesse dorée des deux sexes se recrute de toutes les jeunes et jolies Parisiennes, quelles qu’elles soient, c’est le monde où l’on s’amuse. </p>
+          <p> La société de province est aux eaux ce qu’elle est chez elle, gourmée, divisée de caste, d’opinion, de situation, de prétention ; elle fait bande à part. – C’est ainsi qu’aux eaux, on trouve à côté du groupe parisien, le groupe de Marseille, celui de Toulouse, parlant chacun son langage ; je devrais dire son patois, très haut, très criard, et regardant d’en haut ou d’en bas, tout ce qui n’est pas de la Cannebière, du Capitole, ou d’autres lieux. </p>
+          <p> La société étrangère joue de son côté, aux eaux, un rôle très considérable. – Pour elle, venir aux eaux, c’est venir montrer ses jolis visages et ses jolies robes, elle n’y saurait manquer. </p>
+          <p> Les Espagnoles, les Américaines et les Russes, y figurent en première ligne. </p>
+          <p> Les Espagnols se mêlent très rarement – à quelque province qu’ils appartiennent (et cela est chez eux un trait caractéristique), de quelque société, de quelque famille qu’ils soient ; ils ne se réunissent qu’entre eux, ne dansent qu’entre eux, ne parlent que leur langue. – Les femmes espagnoles sont jolies, aimables, élégantes. – Là où elles sont, elles règnent à peu près, par leurs charmes qui sont grands. – L’amour et la valse sont le régime à elles ordonné par le médecin. – Avec l’amour et la valse, on guérit tous les maux. </p>
+          <p> Les Américaines sont essentiellement sociables, elles sont de tous les groupes où l’on s’amuse. </p>
+          <p> Arrivées à Paris pour acheter des robes et des chapeaux, aux eaux pour les montrer ; – là où le violon, les parties de campagne, les pique-niques les appellent, elles vont. – Comme elles sont en général, très jolies ; elles ne laissent point d’avoir autour d’elles une cour nombreuse. </p>
+          <p> La société russe joue, aux eaux, comme partout, un rôle à elle. </p>
+          <p> La femme russe apporte en elle son esprit fin, sa conversation imagée, sa distinction, sa frivolité, son charme. – Elle ne dédaigne pas la galanterie – elle valse, elle polke, elle soupe ; elle mène à grandes guides tout ce qui lui tombe sous la main, affection, amitié ou amour – elle est agréable et charmante, – aux eaux, comme partout elle est une ressource, et mieux un plaisir ; quelquefois plus, un sentiment. – S’il dure, c’est bien, – s’il ne dure pas, c’est un des bons souvenirs qu’on emporte, mais qu’on ne retrouve pas. – On les accuse d’être un peu inconstantes, mobiles ; – mais le ciel n’est pas toujours bleu et puis aussi, l’homme n’est pas parfait. </p>
+          <p> Il y a, aux eaux, un autre monde douteux, équivoque, qui a pour sobriquet la moitié du vrai monde. – Ce demi-monde s’y présente d’abord sous les dehors les plus discrets, – allure réservée, conversation sérieuse, yeux baissés, toilette noire ; c’est le prélude de la comédie, avec les mouchoirs armoriés, les éventails armoriés ; les porte-monnaie couronnés, des couronnes partout. </p>
+          <p> Les cartes de visite sont toutes de comtesse et de baronne, et toutes, par componction, portent des noms de saints ou de saintes : Saint-Georges – Saint-André – Saint-Clair ; c’est presque un martyrologe et les martyrs ne manquent jamais dans ce calendrier. </p>
+          <p> « J’ai connu aux eaux, (dit le général), une certaine comtesse, sur la carte de laquelle j’ai lu : – « La comtesse de M., CHANOINESSE HONORAIRE. » – Honoraire ! Il paraît qu’il existe un chapitre où il y a des chanoinesses en exercice et des chanoinesses en retraite. – « Celle dont je parle, ajoutait le général, était d’ailleurs une chanoinesse charmante ; blonde, blanche, les yeux bleus, petite bouche, lèvres de grenade, lèvres curieuses. – En vérité, elle ne méritait pas la retraite, et je doute fort qu’elle l’eût prise ! » </p>
+          <p> S’associer à l’un de ces mondes, poursuit le manuscrit, est cependant chose nécessaire, si on ne veut pas vivre comme un ours. </p>
+          <p> C’est avec l’un de ces mondes, qu’il faut exister, déjeuner, dîner, aller en partie, en voiture, à cheval, luncher sur l’herbe, parler de toutes choses ; – d’amitié d’abord, d’amour quelque-fois, vivre enfin deux ou trois mois. </p>
+          <p> Les parties d’abord : – On sait ce qu’elles sont aux eaux, un nid à querelles ou à sympathies. </p>
+          <p> Vous projetez une promenade, un déjeuner. – Qui en sera ? – Si madame X en est, madame Z n’y veut aller, – Si Monsieur A n’est point invité, madame B n’ira point ; et puis, il y a les demoiselles, et puis, il y a les places dans les voitures ; – graves questions. </p>
+          <p> Être, durant deux ou trois heures, nez à nez avec telle ou telle personne, c’est presque aussi grave que de passer une huitaine à la campagne ; – il faut donc choisir ses partenaires. </p>
+          <p> Lorsque l’amour y entre pour quelque chose, tout est bien. – Lorsque seulement il y a sympathie de sentiment ou d’esprit, tout va encore ; mais lorsque rien ne lie ces voyageurs de hasard, il y a fort à regarder – alors, le chapitre des déconvenues et des désillusions a commencé, c’est un des chapitres de l’histoire des eaux. </p>
+          <p> Le chapitre des bals, des valses, des cotillons est presque aussi scabreux, s’il n’est plus. </p>
+          <p> Danser souvent avec la même personne est, aux eaux, presque un engagement – de part et d’autre, on s’y fait, on s’y plaît, et l’on a vu bien des chagrins plus ou moins vifs, plus ou moins désagréables, naître de ces accouplements fortuits et regrettés. </p>
+          <p> Tel, ce monde des eaux, si bien crayonné par le général, qui en avait une si grande habitude : – Aussi, chaque année, le voyait-on, un des premiers, aller, tantôt à la gare, tantôt le long de l’allée d’Etigny, attendre les arrivants. </p>
+          <p> Aux eaux, les arrivants sont un des grands intérêts du jour, – on va à la découverte, comme Christophe Colomb, à celle d’un nouveau monde. – Quel sera ce monde ? – Qui arrive ? – Qui est arrivé ? – C’est la question du jour, celle du moment, quelquefois celle du cœur. </p>
+          <p> A ce titre, elle intéressait plus que personne le général, qui, en dépit de son âge, sentait encore tout jeune en lui. </p>
+          <p> En latin : Semper virens ! </p>
+          <p> En français : Toujours vert ! toujours vert-galant ! </p>
+        </div>
+        <div title="V" type="chapter">
+          <head> V </head>
+          <p> « Un jour donc, dit le général, nous étions, mon coupé et moi, arrêtés vers le milieu de l’allée d’Étigny, vis-à-vis du café du célèbre Arnative, le Brébant de l’endroit ; lorsque nous vîmes une calèche s’arrêter. </p>
+          <p> « Deux personnes, deux femmes en descendirent. </p>
+          <p> L’une d’elles était âgée, la mère, la tante peut-être ; l’autre était jeune, la fille ou la nièce ; – derrière elles, un omnibus avec deux femmes de chambre et des caisses, des caisses à contenir tout le magasin du Louvre ! – C’était correct, neuf, propre – point de ficelles, point de cordes ; – c’était aristocratique, cela avait un air distingué, le contenu devait ressembler au contenant, – cela plaisait. » </p>
+          <p> Le général remarqua, plus peut-être qu’il ne l’eût dû, ces arrivantes qu’il ne connaissait pas, et quelque chose, une de ces choses qui frappent au premier abord, lui avait déjà parlé, – il est ainsi dans la vie certains avertissements, certains pressentiments qui ne trompent point, qui souvent décident d’un sentiment ou d’une aventure ! </p>
+          <p> Puis, quand on cherche, il est rare qu’on ne trouve pas. – Or le général était mieux qu’un chercheur, il était un trouvère. </p>
+          <p> Lorsqu’on a cette vocation du trouvère, on n’est pas trouvère à demi – on va, on vient, on épie, et on ne s’arrête que lorsqu’on a trouvé – c’est un métier qui n’a pas grande analogie avec les maux qu’on va essayer de guérir, avec les bronchites, les laryngites et tous autres prétextes des eaux ; mais c’est un métier qui a son charme, son intérêt, quelquefois il vous mène au bonheur ! – Cela s’est vu. </p>
+          <p> Le général, le plus friand des chercheurs, était donc depuis quelques jours à la recherche des deux personnes qu’il avait vues débarquer à la petite maison de l’allée d’Étigny, lorsqu’une circonstance fortuite, un hasard vint le servir à souhait. </p>
+          <p> Le hasard ! – On en médit beaucoup, on le conteste beaucoup, on en plaisante beaucoup ; – c’est lui cependant qui vient, à son heure, nous donner ce que nous cherchons. </p>
+          <p> En amitié, comme en amour, comme en toutes choses, c’est lui qui, la plupart du temps, est notre maître, notre charmant maître, tenant à la main le fruit qu’il a cueilli à la branche permise ou défendue, et nous l’offrant comme pour le goûter. </p>
+          <p> C’est ce hasard qui, au jour écrit, entr’ouvrit donc l’horizon de l’aventure amoureuse, dont moi, coupé fidèle, je fus le témoin, presque l’acteur et le complice. </p>
+        </div>
+        <div title="VI" type="chapter">
+          <head> VI </head>
+          <p> A Luchon, il y a, au bout de l’allée du parc, adossé aux grands sapins de la montagne, un chalet recouvert en chaume – c’est la buvette. </p>
+          <p> C’est à cette buvette que, chaque matin, buveurs et buveuses, malades et bien portants, curieux et curieuses, viennent en galant déshabillé du matin, boire quelques gouttes de cette eau qui guérit tous les maux, tous ; excepté certain que nulle eau jamais n’a su guérir, celui dont nous savons tous le nom – mal chronique et délicieux. </p>
+          <p> Là, il y a, chaque matin, vers les dix heures, foule énorme, – c’est là qu’on se trouve, qu’on se retrouve, – là, qu’on fait connaissance quand on en a le désir. </p>
+          <p> Faire connaissance aux eaux est certainement chose facile, mais souvent chose délicate. – Il y a choix et choix et quelquefois, souvent même, on a à regretter certaines de ces liaisons, de ces passions balnéaires qu’on n’avouerait pas ailleurs. </p>
+          <p> Pour cela, il y a, comme en toutes choses, le flair. – On a le flair de la bonne compagnie, comme on a le flair de l’équivoque. – Pour le délicat, le connaisseur, il est des signes, des notes, des couleurs, des nuances qui lui sont une révélation. – Le chapeau, la robe de telle ou telle, n’est point le chapeau ou la robe de telle autre, – tel chapeau parle, tandis que tel autre crie ! – Le langage des choses est tout aussi éloquent que celui de la parole, – il n’y a pas à s’y tromper. </p>
+          <p> Le matin donc où le général, mon maître, fit, sous le chaume de la buvette, la connaissance de celle qui devait lui être, durant de longs jours, plus qu’une affection ; un gros orage avait tout à coup éclaté. </p>
+          <p> Grand émoi parmi les buveuses. – La plupart avaient les en-tout-cas, ou les parasols de leurs frères ou de leurs maris ; elles s’enfuirent. </p>
+          <p> Deux dames restaient seules, c’étaient les deux dames de l’allée d’Étigny ; – celles que mon maître avait vues arriver il y a quelques jours et qui, reposées du voyage, sortaient pour la première fois. </p>
+          <p> Elles n’avaient point de parasols. Mon maître en avait un, il les aborda, leur offrit le sien qui fut d’abord poliment refusé, puis agréé – et sans autre présentation, il demanda d’aller le rechercher chez elles – ce qui lui fut accordé. – Aux eaux, l’étude des personnes, de leur situation, de leur nature, est chose bientôt faite, – on est à la campagne, en pleine liberté d’allures, de dires, on se livre instantanément. </p>
+          <p> La connaissance ainsi faite, le coupé était, chaque jour, à la porte de ces dames, la relation s’établit, la sympathie prit naissance : – un autre sentiment devait bientôt suivre. </p>
+        </div>
+        <div title="VII" type="chapter">
+          <head> VII </head>
+          <p> Les deux nouvelles connaissances du général étaient la tante et la nièce. </p>
+          <p> La tante, madame Anderson, était Américaine. – Elle était venue en France pour soigner sa santé, déjà altérée par la perte de son mari qu’elle adorait et qu’elle pleurait encore. – Elle habitait avec sa nièce, miss Jane, la ville de Montpellier, où elle avait trouvé les meilleurs médecins qui l’avaient, sinon guérie, du moins soulagée. </p>
+          <p> Madame Anderson était une personne de quarante ans environ – encore jolie – calme comme la douleur, – souriante au moindre rayon de soleil, très agréable. </p>
+          <p> Elle avait l’esprit orné, savait de notre littérature, de toutes nos célébrités artistiques tout ce qu’on doit savoir, – elle avait un réel talent sur le piano ; – elle était enfin par sa grâce, par sa douceur, presque une personne accomplie ; – par la tournure de son esprit, presque une Française. </p>
+          <p> Sa nièce, miss Jane, était une grande personne de vingt ans. – Elle était remarquablement faite, rien de plus souple que sa longue et flexible taille, – ses cheveux étaient blonds, – sa peau celle d’une pêche, – elle avait les yeux spirituels, ils n’étaient ni bleus ni noirs, mais d’un merveilleux éclat. – Le nez était grand et agréablement busqué, la bouche bien fendue, des dents de nacre, des mains et des pieds de race ; – en un mot, tout dans l’extérieur de cette personne annonçait la distinction. </p>
+          <p> Sa nature, facile à surprendre, était de celles qui se livrent et s’accusent d’elles-mêmes. </p>
+          <p> Au premier abord, aux premières de ses paroles, elle était devinée. </p>
+          <p> Miss Jane avait dû, déjà à son âge, éprouver quelque grande passion ; peut-être quelque grand mécompte. </p>
+          <p> Avait-elle aimé, sans l’être ? – Avait-elle été aimée, sans réciprocité de sa part, on ne sait, – mais, dans sa conversation, son air, ses yeux, le pli de sa bouche ; il y avait parfois tant de tristesse et de dépit qu’il devait y avoir eu là quelqu’une de ces aventures assez communes aux jeunes Américaines, quelqu’un de ces souvenirs qui avait laissé là une blessure non guérie, toujours présente, encore saignante. Que s’était-il passé ? – on le devinait, elle le disait presque sans le dire. Puis, tout se terminait toujours par ce sentiment si étrange chez une personne de son âge : « Elle détestait les jeunes gens ! </p>
+          <p> C’était donc un jeune homme qui avait fait la blessure ! </p>
+          <p> De là, et sous ce souvenir, l’imagination de miss Jane était plutôt portée vers le côté sombre de la vie que vers tout autre. </p>
+          <p> Il est des personnes qui dans les affections, dans l’amour, cherchent plutôt les chagrins que les joies. – Pour elles, la passion (rendue par le sens primitif du mot) est une souffrance ; – elles souffrent et trouvent cette douleur plus poétique que le bonheur ; – en un mot, elles ont l’amour triste. </p>
+          <p> Chacun et chacune a son amour. – On a l’amour triste, l’amour gai, l’amourjaloux, – l’amour fidèle, l’amour léger. – On a l’amour du poignard, – l’amour du sourire, – l’amour muet, – l’amour chantant ; – comme on a le vin jaloux, muet, querelleur, gai, chantant : – tous les deux sont une ivresse qui grise les sens, le cœur, qui fait perdre la tête, quelquefois plus. – Certains en guérissent, d’autres en conservent un inoubliable souvenir ! </p>
+          <p> Miss Jane paraissait être une de ces dernières. – La blessure était encore ouverte, presque encore saignante, mais peut-être aussi en voie de guérison, les eaux sont si puissantes ! </p>
+          <p> Quel devait être le guérisseur ? Là semblait être le secret. </p>
+        </div>
+        <div title="VIII" type="chapter">
+          <head> VIII </head>
+          <p> On a compris que, lorsque du matin au soir, on ne se quitte pas, la connaissance est plus que bientôt nouée ; aussi le coupé aidant, déjà en quelques jours, le général était-il comme de la maison. </p>
+          <p> La tante ne pouvait quedifficilement aller à pied, le coupé lui fut offert, elle l’accepta, et dès lors il n’est de sorte de courses, de promenades, d’excursions à travers bois et prés et montagnes que le fidèle cocher ne fît faire au trio improvisé. </p>
+          <p> Les deux dames étaient au fond, le général sur le strapontin, les yeux dans les yeux de celle que déjà, sans savoir pourquoi (sait-on jamais ces choses-là ?), il aimait ; il aimait en dépit de son âge ; comme on aime quand on l’oublie, et qu’on a devant soi, à se toucher, une charmante et douce enfant, inconnue hier, adorée aujourd’hui. </p>
+          <p> Pour un homme de l’âge du général, cela peut sembler ridicule, mais cela était. L’espérance et l’illusion étaient là, l’illusion dont on a dit : </p>
+          <l xml:lang="fr"> Cette blonde enchanteresse, </l>
+          <p> Aux perfides yeux, </p>
+          <l xml:lang="fr"> Qui nous berce en la jeunesse </l>
+          <p> Et nous poursuit vieux, </p>
+          <l xml:lang="fr"> Vous l’avez tous vue en rêve, </l>
+          <p> Vous savez son nom, </p>
+          <l xml:lang="fr"> Adam l’avait nommée Ève : </l>
+          <p> C’est l’illusion ! </p>
+          <p> C’était aussi l’espérance qui dore tout ce qu’elle voit des couleurs qu’elle seule connaît, et puis encore n’y avait-il pas pour le galant général le charmant vers de Nadaud qui avait dit d’un autre vert-galant : </p>
+          <l xml:lang="fr"> D’ailleurs votre acte de baptême </l>
+          <l xml:lang="fr"> Est depuis longtemps périmé ; </l>
+          <l xml:lang="fr"> On reste jeune tant qu’on aime, </l>
+          <l xml:lang="fr"> Puis on rajeunit d’être aimé ! </l>
+          <p> Le sera-t-il ? – là était la grande question. </p>
+          <p> Toutefois, la sympathie y était. On se voyait tous les jours, on ne se quittait guère, on en était enfin au premier chapitre du roman qui en comporte et en inspire tant d’autres ; lorsqu’un accident, un événement imprévu, mais bienheureux, vint tout à coup changer cette sympathie en une aventure plus intime, en une aventure presque amoureuse. </p>
+          <p> La tante tomba subitement plus malade, elle était obligée de garder la chambre. </p>
+          <p> Elle fut tendrement soignée par sa nièce, et un jour qu’un mieux s’était prononcé, quel ne fut point l’étonnement du général lorsque la tante toute attristée de la réclusion de sa nièce, lui dit qu’elle la lui confiait, le priant de la remplacer, de la promener, de la mener un peu partout ? </p>
+          <p> La mission était aussi périlleuse que la confiance était grande. </p>
+          <p> Dès ce jour, le coupé partait chaque matin avec les deux âges, – pour aller par monts et par vaux respirer l’air pur et embaumé, la saveur perfide des herbes, des pins, qui grise comme le vin ; – pour aller deux à deux, causer de tout et de rien, – dire et redire ce que le coupé seul a entendu, – baisser les stores lorsqu’il y avait trop de soleil, – et dans ce charmant pays le soleil dure tout le jour ; – puis tous deux revenaient auprès de la tante heureux et presque honteux de tout ce que, dans ce cher coupé, on avait pu penser, rêver, demander, faire peut-être. </p>
+          <p> Hélas ! hélas ! la tante ne guérissait point, – chez elle le mal empirait, comme l’autre mal chez les deux coupables, déjà presque chassés du paradis ; lorsqu’un événement bien plus grave encore vint compliquer la situation. </p>
+        </div>
+        <div title="IX" type="chapter">
+          <head> IX </head>
+          <p> Miss Jane montait parfaitement à cheval. – A Luchon, toutes les dames montent à cheval, et chaque matin, on voit un escadron d’amazones traverser l’allée d’Étigny, pour aller s’égarer partout où l’on s’égare, où l’on rit, où l’on déjeune sur l’herbe, sous les noirs sapins, avec ceux qu’on aime ou qu’on a choisis pour cavaliers, durant la saison. </p>
+          <p> Miss Jane avait voulu faire comme tout le monde, et le lendemain, vêtue d’une délicieuse amazone, lui serrant la taille, lui dessinant de ravissantes formes, le chapeau sur l’oreille ; elle était à cheval avec le général, suivis tous deux, à vingt pas de distance, par les deux guides, aveugles et muets comme tous les guides, – c’est leur condition. </p>
+          <p> On fit ainsi pendant plusieurs jours de suite le tour de tout le pays. – La vallée du Lys, – le lac d’Oo, – Saint-Bertrand de Comminges, toutes les forêts, toutes les cascades, tous les grands pics furent visités, – on y déjeunait et on revenait le soir soigner la bonne tante, – un délice ! </p>
+          <p> Dans ces promenades, sous ces berceaux de verdure, au bord de ces ruisseaux argentés, durant ces longs silences, à travers ces longs regards ; que se disaient, que se demandaient ces deux coupables ; la main dans la main ? – Ce secret est encore celui que les deux complices de tous ces amours, les deux chers chevaux, qui semblaient tout entendre et tout comprendre, n’ont jamais révélé ; – et si une fois, plusieurs fois, au détour du chemin, un bras indiscret a tendrement pressé une taille adorée, nul que le chemin ne l’a jamais vu. – Les guides rien. </p>
+          <p> Or, un matin, il était neuf heures, on devait aller déjeuner à la vallée du Lys et on était monté à cheval ; lorsque arrivés à la sortie de Luchon, près du couvent de l’Espérance ; le cheval du général, effrayé par un enfant qui portait au bout d’un bâton, en guise de drapeau, un mouchoir rouge ; fit tout à coup trois tête-à-queue : – aux deux premières, le général tint bon, à la troisième, perdant l’équilibre, il était désarçonné et tombait, la tête en arrière, sanglant et sans vie. </p>
+          <p> On juge de l’effroi, de l’émotion de Jane. – Immédiatement à bas de son cheval, elle se jeta sur le blessé et aidée du guide, elle le porta au couvent des sœurs de l’Espérance, dont on n’était séparé que de quelques pas. </p>
+          <p> Là, les sœurs accoururent, essayèrent de ranimer le blessé qui ne revenait pas, puis au bout de quelque temps, de beaucoup de temps, la vie semblant renaître peu à peu, les yeux se rouvrirent et la première parole du mourant, fut : – Jane ! </p>
+          <p> Jane, en effet, la mort au cœur, les larmes aux yeux, avait déjà, – avec cette révélation intime, propre seulement à ceux qui aiment – mesuré tout le danger auquel venait d’échapper son ami, et elle-même, pâle, défaite, s’était presque trouvée mal. </p>
+          <p> Une calèche passait, – on y mit le blessé et ce funèbre convoi rentra à Luchon, et déposa à l’hôtel Bonne-maison, où habitait le général, celui qui avait vu la mort de si près. </p>
+        </div>
+        <div title="X" type="chapter">
+          <head> X </head>
+          <p> La maladie fut longue, – le coup était terrible. – Les médecins arrivèrent et comme la fièvre était ardente, ils ne purent rien dire jusqu’au lendemain. </p>
+          <p> La nuit, cette fièvre ne put qu’empirer. – Une sœur veillait près du malade. </p>
+          <p> Vers deux heures, le délire s’empara du pauvre blessé, et à travers quelques mots sans suite, un songe, un songe affreux lui apparut : </p>
+          <p> Des grands rideaux de son lit, un spectre, une femme enveloppée d’un voile blanc, sortit ; elle l’ouvrit. </p>
+          <p> Elle avait les cheveux blancs, la figure affreuse, ridée, des dents longues et jaunes, – les ongles longs et pointus. – Elle était horrible ! </p>
+          <p> « Qui es-tu ? lui dit le blessé. » </p>
+          <p> – « Je suis la vieillesse, fit-elle, et tendant ses mains décharnées ; désormais, ajouta-t-elle, nous sommes frère et sœur ! » </p>
+          <p> – « Jamais, s’écria le blessé, arrière, arrière ! » </p>
+          <p> Puis éclatant d’un rire sarcastique, le fantôme disparut. </p>
+          <p> Cette fois encore, la vieillesse, la vraie avait été conjurée, repoussée, vaincue. </p>
+          <p> La maladie du général dura vingt-trois grands jours, – durant ces vingt-trois jours, que se passa-t-il ? Que devint cette aventure, cet amour, celle qui l’inspira, Jane enfin ? </p>
+          <p> Jane, comme toutes celles qui savent ce qu’est la souffrance physique et morale, celle du corps et du cœur ; fut un ange de soins et de consolations. </p>
+          <p> Durant ces longs jours, sans cesse au chevet du blessé, elle le quitta à peine – témoin des moindres accidents, des moindres défaillances de son ami. – Puis, peu à peu, avec cette secrète joie qui dit tant de choses, épiant des yeux de son cœur les progrès de la convalescence ; elle semblait renaître avec les forces qui, elles aussi, revenaient comme à souhait. </p>
+          <p> Enfin le malade fut sur pied et tout se prépara pour la première sortie. </p>
+          <p> La première sortie du malade, le premier air, la première brise du dehors, le premier rayon de soleil ; c’est comme la vie qui recommence. – Il faut avoir été malade, mourant, pour sentir ce qu’il y a de charme dans le sourire de cette nature qui semble vous reconnaître. </p>
+          <p> Le malade seul, qui durant de longs jours et de longues nuits, n’a connu que les rideaux de son lit, l’air enfermé de sa chambre, – presque un tombeau ; – le malade seul sait toute cette jeune et fraîche et douce jouissance ; – celle d’un enfant qui verrait, pour la première fois, la fleur s’entr’ouvrir après la rosée du matin ! </p>
+          <p> La première sortie fut, on le pense bien, en coupé, dans ce coupé chéri, qui savait tant de choses, – le coupé du bon souvenir. </p>
+          <p> Où alla-t-on cette première fois ? Jane seule dans une tendre et sainte intention en décida. </p>
+          <p> Jane n’appartenait point à la religion du général, son temple n’était pas le même, mais son cœur lui avait dit qu’il n’est point de culte privilégié pour remercier Dieu, que le Dieu qui donne ou rend la santé est le Dieu de tous, et obéissant à cette sainte pensée, elle avait voulu que la première sortie du blessé fût pour le couvent près duquel la chute du cheval avait eu lieu, – que là où on avait failli trouver la mort, il fallait remercier de la vie ; et le coupé se dirigea vers le saint lieu. </p>
+          <p> L’amour (car il y avait bien quelque chose de ce nom dans cette liaison), l’amour a d’étranges inspirations, de singuliers mystères ; voyez : </p>
+          <p> Voici une jeune personne et un coupable qui s’aiment, qui se sont aimés d’un sentiment presque défendu, – qui, sous les stores d’un discret coupé, se le sont dit et répété ; et voici cette même personne allant saintement remercier le Dieu qui lui rend, sain et sauf, celui qui a jeté dans sa vie tant de tourments et de troubles ! – Il en est cependant ainsi du cœur de la femme ! Elle aime son malheur, c’est le malheur qui la rend heureuse ; quand elle le perd, elle le redemande. </p>
+          <p> On arriva au couvent des sœurs. </p>
+          <p> A cette heure de l’arrivée des deux convalescents il y avait une cérémonie, une fête. – La cloche, celle qui mêle sa voix à toutes nos émotions, à toutes nos joies, à toutes nos tristesses, la cloche sonnait : les enfants, toutes les petites filles étaient à genoux, priant, chantant des cantiques de cette jeune et tendre voix qui parfume le cœur comme l’encens ! – De tous les bruits de la terre, les deux seuls qui montent jusqu’au ciel, sont le chant et la prière ; – les deux amis joignirent leur prière à la prière des petits enfants, et Dieu les exauça. </p>
+        </div>
+        <div title="XI" type="chapter">
+          <head> XI </head>
+          <p> Ce devoir rempli, la vie recommença comme auparavant. </p>
+          <p> Partout, à chaque heure du matin ou du soir, on était ensemble ; – Jane avec la fierté d’avoir rendu à la vie celui qu’elle aimait ; – le blessé avec cette autre fierté de montrer partout celle qui l’avait sauvé. – Double honneur de l’amour ! </p>
+          <p> Tout cela dura ce que dura la saison, puis bientôt, trop tôt, il fallut songer au départ. – La tante avait recouvré quelques forces ; il fallait partir, se séparer, se dire adieu. </p>
+          <p> L’adieu, hélas, est comme une parole de mort ! – Dire adieu, c’est ne point savoir si on se retrouvera, – quand on se retrouvera, – comment on se retrouvera, – comment on retrouvera le cœur, l’esprit, les yeux, la bouche, la voix qu’on a tant aimés ? </p>
+          <p> Aux premiers jours de l’automne de cette adorable saison qui, dans la nature, apporte avec elle le charme du souvenir et la mélancolie de l’adieu, on se dit donc adieu. </p>
+          <p> On avait, durant deux longs mois, vécu de la même vie, des mêmes joies, des mêmes tourments, de la même maladie, de la même convalescence ; ces choses-là et bien d’autres ne pouvaient s’oublier et ne s’oublièrent pas. </p>
+          <p> La Bruyère, au commencement de ce manuscrit, avait dit dans son épigraphe, qu’à certain roman il manquait le vraisemblable ; était-ce vrai de celui du général ? – oui et non. </p>
+          <p> L’amour est un sentiment si personnel que jamais il ne se présente sous la même forme. – Il est vraisemblable, il est invraisemblable. – Il dure, il ne dure pas. – Il n’a ni âge, ni temps, ni règle. – Il est immuable, il est mobile, mobile comme l’orage qui gronde, comme l’azur qui reparaît aussitôt ! – Tel, dans ses diverses phases, celui du général et de la charmante Jane ! </p>
+          <p> On partit donc, et comme dans Daniel Rochat, la toile se baissa sur celte- pièce dans laquelle chacun s’en alla de son côté : sans s’être aimé assez pour s’aimer toujours. </p>
+          <p> En post-scriptum : Le général ajoute que d’abord on s’écrivit, puis moins, puis que bientôt la tante mourut et qu’alors miss Jane regagna l’Amérique. </p>
+          <p> On a su depuis, qu’elle s’y était mariée à quelqu’un qui lui avait donné beaucoup de fortune et beaucoup d’enfants. </p>
+          <p> Ce fut de la sorte, qu’un parasol offert à une jolie personne, pendant un orage, engendra cette aventure. </p>
+          <p> Là, finissait le prétendu manuscrit. </p>
+          <p> Le général l’avait appelé : L’Amour aux eaux. Son véritable titre n’était-il pas plutôt : A côté de l’amour ? </p>
+          <p> Le coupé seul peut le dire. </p>
+        </div>
+      </div>
+      <div title="LA MORTE VIVANTE" type="chapter">
+        <head> LA MORTE VIVANTE </head>
+        <div title="I" type="chapter">
+          <head> I </head>
+          <p> Nous sommes avec le baron, mon maître, à Monaco – nous y passons une partie de l’automne. </p>
+          <p> Qu’est-ce que Monaco ? </p>
+          <p> MONACO est le délicieux coin de terre où tout se rencontre à souhait. </p>
+          <p> Il est borné : – au nord, par le jeu, – à l’occident, par le hasard, – au midi, par l’amour, – à l’orient, par toutes les espérances. </p>
+          <p> Tout s’y voit – tout s’y trouve. </p>
+          <p> On y trouve la mer bleue, le flot tranquille, le ciel d’azur, la brise des soirs – on y trouve, tous les arbres, toutes les plantes, toutes les fleurs de la terre ; mêlées, confondues, orgueilleuses, – en massifs, en corbeilles, en adorables ceintures. </p>
+          <p> On y voit au loin, les grands rochers rouges, les grandes montagnes azurées – çà et là, partout, des villages, des hameaux, des maisonnettes, des villas aux façades peintes – on y voit, sur le miroir de la mer, toute une myriade de petites voiles blanches qui courent et voltigent, comme les oiseaux volent au ciel. </p>
+          <p> C’est dans cette oasis dorée que se rencontre, que se coudoie la terre entière ; – le monde de tous les mondes, attiré, fasciné par tous les plaisirs défendus qu’il vient y savourer, en toute liberté d’allures, de convoitises, d’espoirs et de déceptions. </p>
+          <p> C’est la patrie préférée des jeux défendus et charmants de l’amour et du hasard. </p>
+          <p> Le hasard y a sa grande part, toute sa part. – C’est lui qui nous y fait rencontrer ceux et celles qu’on ne pouvait trouver que là – ceux et celles qui, un moment, disparus de la scène du monde, – un moment exilés de cette terre où ils ont eu ce qu’on appelle des malheurs ; sont venus se réfugier sous ce ciel clément, doré, indulgent et discret. </p>
+          <p> L’amour, ce traître, y compte, de son côté, nombre de ses charmantes victimes, – c’est là que tous ceux et celles qui ont dû fuir se sont réfugiés, – là que les absents, les échappés, les condamnés, les coupables, les surpris se retrouvent – là aussi que les morts ou ceux qu’on croyait morts revivent ; témoin celle que nous appellerons la Morte Vivante ; – elle que tous croyaient morte, enterrée, oubliée, et qui cependant vivait, vivait de toute sa vie, après l’histoire la plus invraisemblable et la plus vraie. </p>
+          <p> Ce n’était qu’ici, à Monaco, qu’une semblable découverte pouvait être faite et c’est encore moi, fidèle et heureux coupé, qui devais en avoir les prémices et la gloire. – C’est encore moi qui devais, sous la soie de mes stores, voir et entendre ce que nul, avant moi, n’avait vu et entendu. </p>
+          <p> Je le raconte. </p>
+        </div>
+        <div title="II" type="chapter">
+          <head> II </head>
+          <p> Au milieu de la foule qui encombre, anime et distingue parfois les passants de Monaco, le baron, mon maître, avait remarqué une personne, une femme d’une allure étrange. </p>
+          <p> Toujours seule, ne parlant à personne, elle était habituellement suivie par un vieux domestique qui paraissait lui être plus que dévoué. </p>
+          <p> Cette personne était grande, d’une figure douce – le regard était timide, voilé comme d’un crêpe – son air était mélancolique – sur ses lèvres, le sourire semblait absent depuis longtemps. </p>
+          <p> Elle était jeune et ce qui semblait étrange, extraordinaire, ce qui prêtait à ce jeune et frais visage un air en même temps qu’un charme singuliers, c’est que ses cheveux étaient tout à fait blancs. – Cette blancheur des cheveux luttant avec cette fraîcheur du teint, avec cet éclat des yeux, avec cette rougeur des lèvres ; – cette vieillesse enfin alliée à cette charmante jeunesse donnaient à ce visage quelque chose d’inexpliqué qui sollicitait l’attention, le désir, la curiosité ! </p>
+          <p> Elle se promenait chaque jour aux mêmes lieux, s’asseyait aux mêmes places, sur les mêmes bancs ; ne connaissait personne et ne semblait en avoir le désir. </p>
+          <p> Le soir, elle était toujours une des premières assise aux premiers fauteuils de la salle des concerts ; elle aimait la musique, on le devinait ; – la musique tendre, mélancolique, celle qui fait pleurer était celle qu’elle préférait : on le voyait à ses yeux, à son air, à son émotion – c’était un cœur évidemment blessé – c’était une personne qui avait évidemment souffert – une de celles qui avaient ét�� victime, victime de qui ? d’elle-même ou d’un autre ? – d’un être aimé ou d’un indigne ? – trompée peut-être ! </p>
+          <p> Là était l’énigme. Mon maître, très friand de l’inconnu, très chercheur, un peu trouvère, essaya longtemps de parvenir aux portes fermées de ce sanctuaire, essaya par tous les moyens, les moyens les plus mercenaires, de soulever le voile du grand secret. – Celui qui était préposé à la garde du temple, le vieux domestique était incorruptible, muet, de marbre, insensible à toute espèce de transaction, de ruse ; – une froide et immobile statue ! </p>
+          <p> Un hasard – car, ici comme ailleurs, c’est toujours le hasard qui vient à point nous ouvrir, à son temps, à son heure, la porte auprès de laquelle nous frapperions en vain – un hasard donc commença à percer le mystère. </p>
+          <p> C’était à l’un des concerts du matin, dans la grande salle de spectacle de Garnier, il y avait peu de monde, on jouait du Mozart, et la belle inconnue, un peu émue, avait laissé tomber son éventail, lorsque le baron, mon maître, s’empressa de le ramasser. </p>
+          <p> La personne fut polie, mieux que polie, un sourire effleura ses lèvres, le remerciement échappé de sa douce voix fut gracieux, plus que gracieux, quelques mots furent échangés. – Puis, à la fin du concert, un salut respectueux termina cette entrée en scène. </p>
+          <p> Le lendemain, mon maître et moi, nous étions sur la route de Menton, lorsque, dans une calèche découverte, nous rencontrâmes l’inconnue, toujours accompagnée de son vieux domestique. – Mon maître mit la tête à la portière du coupé, et salua – on lui rendit son salut par un sourire de connaissance : la connaissance de l’éventail du concert. </p>
+          <p> Quelques jours se passèrent de la sorte, quelques jours pendant lesquels on se rencontrait un peu partout, excepté dans les salons de jeu, où l’inconnue n’entrait jamais ; et toujours on se reconnaissait et on se saluait. </p>
+          <p> Quelle pouvait donc être cette personne ? </p>
+          <p> A coup sûr, ce n’était ni une demi-mondaine, ni une étrangère, elle n’avait les allures ni de l’une ni de l’autre ; elle était bien Française, très réservée, très correcte, très comme il faut, et surtout très simple : – toujours vêtue de noir, de noir agrémenté de jais, toujours soignée, élégante même, une veuve peut-être ! </p>
+          <p> Mais enfin, comment faire pour parvenir à déchirer le voile, pour savoir quel était le secret, l’énigme, quelle était cette existence solitaire ; – pour savoir ce qu’elle était venue faire à Monaco ? – pourquoi elle y était ? – quel était son nom ? Tout cela est une torture pour celui qui cherche, celui qui, à tout prix, veut tout savoir. </p>
+          <p> A la villa où elle était descendue, rien de plus. – Là, elle s’appelait Mme Durand, elle venait de Paris – on la croyait veuve. – Elle était seule, sa femme de chambre était une jeune fille prise à Monaco même – elle ne recevait aucune lettre, aucune visite, en un mot, avec cette existence isolée, solitaire, on l’eût prise pour une morte. </p>
+          <p> Le baron, mon maître, plus intrigué que jamais, par tous ces renseignements stériles, toutes ces recherches vaines, persista néanmoins et avec toute la volonté qui le caractérise, arriva cependant à en savoir un peu plus. </p>
+          <p> La connaissance de l’éventail s’élargit, s’accentua. – Sous le prétexte d’un goût semblable pour la musique, on prit goût d’être assis aux concerts l’un près de l’autre ; puis petit à petit, ce concert du matin devint comme un rendez-vous ; puis un jour, on s’arrangea pour aller visiter ensemble le palais du prince. </p>
+          <p> Le baron qui connaissait le palais, se proposa comme cicerone – ce fut lui qui expliqua tout ce qu’il y avait de curieux : statues, tableaux, fresques – ce fut lui qui revint, ce jour-là, avec l’inconnue dans la calèche de cette dernière, et, au grand étonnement de tous et de lui-même, lui qui la reconduisit à sa villa. </p>
+          <p> Et cependant, il n’en savait pas davantage. – Il ne savait que ce que tout le monde savait ; c’est que la belle aux cheveux blancs avait visité avec lui le palais du prince ; rien de plus. </p>
+          <p> Mais le voile devait peu à peu s’entr’ouvrir et, la confiance aidant, bientôt la vérité tout entière, cette vérité qu’on cherchait depuis si longtemps, devait enfin percer les ténèbres. </p>
+          <p> Ce fut encore le coupé, le fidèle coupé qui, le premier, entendit cette révélation. </p>
+          <p> Ce jour-là, on avait voulu aller visiter la première ville d’Italie, la première que l’on trouve après la frontière, la ville de San-Remo. </p>
+          <p> La reine d’Italie y était, elle y avait attiré, outre la cour, une multitude d’étrangers de tous pays, et de par ce monde, San-Remo était devenue comme une petite capitale, avec tout le mouvement et presque le luxe de chevaux, de voitures, de toilettes, de théâtres inhérent à toutes les stations où se trouve, même en passant, un souverain ou une souveraine. </p>
+          <p> On fit donc le voyage ensemble, et le matin, un matin de novembre, par un soleil doux et radieux, le coupé et son contenu se mettaient en route. </p>
+          <p> La route de Monaco à San-Remo n’a rien de bien particulier, ce n’est donc point par les régions qu’on traverse qu’on peut être distrait. </p>
+          <p> La conversation s’engagea, – on fut, d’un côté, très retenue, très discrète ; – de l’autre, plus pressé, plus curieux, presque indiscret : « Je vois bien, dit l’inconnue, que vous cherchez depuis longtemps à savoir qui je suis ; vous n’êtes pas le seul ; mais pour le dire il faudrait que je fusse plus que sûre de votre discrétion – il faudrait être sûre de vous, comme je la suis de la justice de Dieu ! – mais nous arrivons et si j’ai à vous en dire davantage, ce ne pourra être que plus tard, alors que je serai certaine, plus que certaine de votre discrétion ; car je suis surveillée et tout m’est interdit sous peine de mort ! » </p>
+          <p> On a compris de quel sentiment fut saisi mon maître à cet aveu, à ce commencement d’aveu, – moi-même, déjà accoutumé par mes deux anciens maîtres à tant de choses et de personnes si étranges, je sentis mes stores trembler, tout mon intérieur s’émouvoir ! </p>
+          <p> Qui était cette personne ? qu’allait-elle révéler ; une aventure, – une fuite, un scandale, – un crime peut-être ? – tout cela devait être du dernier tragique. Le cocher, les chevaux, mon maître et moi en tremblèrent ; – nous arrivions à San-Remo. </p>
+          <p> A San-Remo, nous trouvions la ville en fête. </p>
+          <p> La reine Marguerite, dont c’était l’anniversaire de naissance, recevait les hommages des grands et des petits – toute la ville était pavoisée – dans la journée, elle s’était rendue au cirque des chevaux, nous y fûmes, comme de simples et curieux voyageurs ; elle sous le voile de crêpe qui lui cachait le visage ; nous vîmes tout sans être vus et le soir, par une adorable nuit, sous le feu des étoiles de ces climats enchantés ; tous les deux, enfoncés dans les recoins du cher coupé, nous étions : – moi, sollicitant toujours l’histoire promise, – elle, la remettant toujours à ce lendemain, qui arriva enfin. </p>
+        </div>
+        <div title="III" type="chapter">
+          <head> III </head>
+          <p> Ce lendemain si désiré, fut un soir. Vers sept heures, après une journée brûlante, on était sur un petit chemin, au bord de la mer – la brise caressait le visage d’un air frais et pur – on n’entendait que le bruissement cadencé du flot sur le rivage – tout se taisait. – La nature elle-même semblait attentive au grand secret qui allait sortir de cette bouche de femme, et le coupé lui aussi attendait avec anxiété ce que jamais peut-être, dans sa longue et étrange existence, il n’avait entendu ! </p>
+          <p> Voici ce que raconta cette bouche : </p>
+          <p> « Je ne suis point Mme Durand. </p>
+          <p> « Durand est un nom qui m’a été imposé par la force, – par la force et le malheur, par le malheur que je n’ai point mérité. Je suis la marquise X… </p>
+          <p> « A l’âge de dix-neuf ans, j’ai épousé le marquis X, – homme de fort grande maison, spirituel, du meilleur monde, irréprochable sous tous rapports. </p>
+          <p> « Le marquis avait peu de fortune, j’en avais une considérable, la communauté d’affection nous réunit et je dois dire que jamais, dans les premiers temps du moins, un nuage quelconque ne vint la troubler. </p>
+          <p> « Notre maison était bonne, hospitalière, nous y recevions nos amis surtout – une seule dissemblance dans les goûts nous séparait parfois, trop souvent peut-être. – J’aimais le monde à la folie, j’étais jeune, jolie, élégante ; – mon mari aimait moins le monde et tout ce qu’il entraîne avec lui ; – de là, certaines dissidences, certains petits orages qui cependant se terminaient toujours par la paix du ménage. </p>
+          <p> « Après l’hiver et lorsque les bals, les courses et tout ce qui amuse une jeune femme avaient pris fin, nous partions pour la campagne – nous avions, en Bourgogne, un fort beau château, nous y passions longtemps et si parfois, nous faisions une absence, c’était pour aller aux eaux à la mode, demander plaisirs et santé – nous n’avions pas d’enfants. </p>
+          <p> « Vous avez compris sans doute d’avance qu’au bal et un peu partout, une jeune et jolie femme devait être et était quelque peu entourée. – On n’a point de blanches épaules, de longs cheveux, quelque mouvement dans l’esprit, quelque charme dans l’air, la taille, le sourire sans être remarquée ; – je le fus, comme le sont et le seront toutes les femmes, toutes celles qui ont un peu le désir de plaire ; quelle est la femme qui n’a pas cette coquetterie ? – mais tout cela, sans faute aucune – coquette, oui, mais pure, mais fidèle à mon cher mari. </p>
+          <p> « Entre tous ceux de ce monde qui bourdonnent autour des fleurs, il en était un, je l’avoue, qui m’avait plu particulièrement. </p>
+          <p> « C’était un jeune officier autrichien, attaché à l’ambassade de Paris. </p>
+          <p> « Il avait vingt-cinq à trente ans, appartenait à l’une des grandes familles de Vienne, il était fort beau garçon, très galant, très empressé, comme sont tous ceux qui courent après ce qu’ils n’obtiennent que si rarement. – Mais la lutte et l’espérance doublent les forces des amoureux, et le comte Rodolphe H. était plus amoureux que nul autre. </p>
+          <p> « La première connaissance se fit à l’ambassade de Russie, sous les auspices du prince Orloff, – elle se continua un peu partout. </p>
+          <p> « Partout, aux valses, aux cotillons, au spectacle, aux courses, mon brillant cavalier se trouvait être le comte – on en parlait comme on parle de toutes choses à Paris, mais ces petits bavardages se perdaient dans la foule de mille autres semblables, et de cette liaison, nul ne s’occupait plus sérieusement qu’elle n’en valait la peine – quant à mon mari, homme du monde par excellence, il savait ce qu’était tout cela, et n’avait garde de s’en occuper. </p>
+          <p> « Tout allait donc ainsi, lorsqu’un soir, à la sortie du bal, le comte Rodolphe, en m’aidant à mettre mon manteau, osa me glisser dans la main, quelque chose. </p>
+          <p> « Je sentis – je devinai – c’était un billet. – Je le mis dans mon gant et un peu troublée, un peu émue d’avoir sur moi quelque chose de ce genre, je me jetai dans ma voiture, pressée et curieuse de lire ce billet. </p>
+          <p> « Je rentrai et quand ma femme de chambre m’eut laissée, – à la lueur de ma petite veilleuse, j’ouvris et je lus. </p>
+          <p> « Mon Dieu ! – le billet ne disait que ce qu’ils disent tous, – vous savez : beaucoup d’amour, le mot y était – tous les sacrifices offerts – un dévouement sans bornes – quelque chose qui devait être éternel – rien de moins, rien de plus ! – de réponse, on n’en demandait pas encore. </p>
+          <p> « Je mis le billet dans un petit coffret dont seule j’avais la clef, pendue à la chaîne de mon col, avec la croix de jeune fille que m’avait donnée ma mère et le lendemain, je retournai au bal. </p>
+          <p> « Le lendemain, même cour, mêmes attentions du comte, mais aussi, pendant le cotillon – qui dura bien trois grandes heures que je trouvai courtes, je l’avoue ; – demande de la part du comte d’une réponse quelconque. – A cette demande, j’eus encore cette fois le courage de répondre : non, jamais ! – comme si le mot jamais fût jamais un mot d’amour ! </p>
+          <p> « Alors, second billet, cette fois plus grave et plus dangereux ! – On demandait un rendez-vous, non pas chez moi, mais ailleurs, n’importe où, à l’exposition des tableaux par exemple ; et on disait que si, tel jour, à telle heure, à dix heures du matin, on pouvait se rencontrer dans telle salle, devant tel tableau ; on serait le plus heureux des hommes ! </p>
+          <p> « Cela me semblait bien dangereux, j’eus cependant la faiblesse d’y aller. </p>
+          <p> « En entrant dans cette salle, je n’eus pas besoin de chercher longtemps, – quelque chose me disait intérieurement que le tableau indiqué devait être à telle place, et que le comte m’y avait précédée – il y était ! » </p>
+          <p> Que se dit-on dans cette entrevue ? que se passa-t-il ? quels engagements prit-on ? – La marquise ne se les rappelait qu’à demi, mais le fait est que dès lors, plus d’un matin, elle sortit seule. </p>
+          <p> Cela parut étrange à son mari. – La curiosité d’abord, un commencement de jalousie ensuite firent leur jeu, et un matin, le mari suivit sa femme. </p>
+          <p> Elle entra à l’église, et ressortit par une autre porte. – Le mari devant la porte de l’église s’était arrêté et comme honteux de sa méfiance, il était rentré chez lui. </p>
+          <p> On continua ainsi à se voir en secret, toujours aussi à s’écrire, danger plus grand que tout autre ; lorsqu’une fatalité, une de ces fatalités qui jettent dans un ménage le désastre et la mort, vint tout découvrir. </p>
+        </div>
+        <div title="IV" type="chapter">
+          <head> IV </head>
+          <p> Méfiez-vous des lettres – les lettres restent – les lettres disent tout, même ce qui n’est peut-être pas. – Elles s’écrivent, elles s’inspirent sous l’empire d’un sentiment, d’un rêve, d’un désir qui n’est point la réalité – qui le plus souvent n’est pas partagé. – Elles racontent, elles inventent, elles peignent en traits de flamme ce que seul ressentent le cœur et l’amour ! – Méfiez-vous des lettres, ce sont celles qui ont toujours tout perdu – hier c’était par des lettres que M. Santerre avait soupçonné l’infidélité de sa femme – hier, c’était par une lettre d’avis, une lettre d’envoi, malheureusement et par erreur adressée à Mme de Tilly, que cette dernière apprenait l’infidélité de son mari qui envoyait de Paris un mobilier à une jolie lingère, sa maîtresse ! – Dans le cas de la pauvre marquise c’était également par une lettre que tout se devait découvrir. </p>
+          <p> La marquise avait pour confidente, presque pour complice, sa femme de chambre ; c’était à elle, sous son couvert que lui parvenaient les lettres du comte. </p>
+          <p> Or, un matin, il était dix heures, le marquis rentrait de quelque course, lorsqu’il trouva dans la loge du portier, le facteur distribuant les lettres de la maison. – Au milieu des siennes, au milieu de celles de sa femme, il en trouva une adressée à sa femme de chambre. – Cette lettre, on ne sait pourquoi, lui sembla suspecte – il y a des pressentiments. </p>
+          <p> Elle n’était pas d’une écriture commune comme celle d’un domestique. – Loin de là, l’écriture, l’adresse étaient d’une main fine, correcte ; mais par les jambages des lettres et surtout par la manière dont l’adresse était mise (le mot Paris et le nom de la rue étaient en haut, au lieu d’être en bas, ) le marquis crut reconnaître quelque habitude d’un étranger ; c’est ainsi, en effet, qu’ils mettent leurs adresses. </p>
+          <p> Il soupçonnait à moitié le jeune officier, il soupçonnait un peu tout le monde ; – il ouvrit la lettre. </p>
+          <p> Elle disait tout et rien. – Rien pour la femme, tout pour le jaloux. </p>
+          <p> « Je ne vous en dirai pas aujourd’hui exactement les termes, poursuivit la marquise, mais cette cause de tous mes malheurs est demeurée telle dans ma mémoire, que le sens devait être celui-ci : </p>
+          <p> « Que de temps, que de siècles depuis notre dernière entrevue ! – Je vous verrai ce soir au bal de l’ambassade – vous me direz où et quand nous pourrons nous revoir ! – ce moment, cette heure délicieuse, ne me les faites pas attendre ! – Je vous aime, comme un fou, un fou qui pour une de ces minutes adorées donnerait sa vie – à ce soir ! » </p>
+          <p> « Cette lettre qui disait et qui ne disait pas – cette lettre qui était en même temps un souvenir et une espérance fut ma mort – mon mari s’en empara, prépara, combina sa vengeance – une séparation ne lui suffisait pas – il lui fallait autre chose – quelque chose de plus atroce, de plus cruel, voici ce qui arriva. » </p>
+        </div>
+        <div title="V" type="chapter">
+          <head> V </head>
+          <p> « Un matin, il était neuf heures, j’étais couchée – il entra dans ma chambre ; pâle, blême, hautain, comme sûr du coup qu’il allait porter, de la sentence qu’il allait prononcer. </p>
+          <p> « Il avait une lettre à la main et d’une voix brève, ferme, et calme, voici ce qu’il me dit : </p>
+          <p> « Cette lettre que je tiens, que voici, est celle que vous écrit le comte Rodolphe X. – celui qui depuis trop longtemps vous suit, vous aime et vous a séduite – vous avez avec lui des rendez-vous, j’en ai la preuve, ici, – vous l’aimez ! </p>
+          <p> « Si je l’avais voulu, j’aurais pu vous surprendre tous deux, – j’aurais pu vous tuer tous les deux, j’aurais pu me battre avec votre amant – j’aurais pu vous traduire en adultère devant les tribunaux, vous faire condamner, enfermer… Je ne ferai rien de tout cela – ma vengeance sera tout autre : – dès ce jour, je vous condamne à mort ! » </p>
+          <p> La marquise eut beau nier, conjurer, supplier, la sentence s’accomplit. </p>
+          <p> Le marquis simula d’abord une grave maladie de sa femme, – puis, il se procura à prix d’or un cadavre à l’amphithéâtre de l’École de médecine, puis il mit ce cadavre dans le lit de sa femme, puis il annonça sa mort, puis il lui fit des obsèques magnifiques. </p>
+          <p> Pendant ce temps, un vieux domestique, un geôlier, était chargé d’emmener la marquise hors de France. </p>
+          <p> Là, elle devait changer de nom, s’y cacher, s’y défigurer, une pension lui était faite et comptée chaque mois par ce domestique. – Sous aucun prétexte quel qu’il fût, elle ne pouvait rentrer en France. Les mesures les plus graves étaient prises, à cet effet – en un mot, elle était MORTE. </p>
+          <p> La terrible sentence fut exécutée, telle qu’elle avait été prononcée. </p>
+          <p> « C’est ainsi, acheva la marquise, que vous me voyez ici, sous le nom de Mme Durand, déguisée, presque défigurée. – Les cheveux blancs que je porte ne sont pas les miens, je suis blonde et ne me découvre que seule, le soir, au moment de mon coucher ! » </p>
+          <p> Telle l’étrange histoire que racontait à mon maître cette pauvre femme, plus malheureuse que coupable ! </p>
+          <p> Le baron se lia particulièrement avec cette condamnée. – Elle était une personne d’un grand charme – son exil, sa mort durèrent ainsi quelques années et ce ne fut qu’au commencement de l’année dernière que, son mari étant mort, le vieux geôlier qui la gardait, vint lui annoncer qu’elle était libre. </p>
+          <p> Alors, la marquise se souvint de celui qui, involontairement et par un amour insensé, avait causé tous ses malheurs ; ils se rejoignirent, s’aimèrent, et aujourd’hui ils sont, l’un et l’autre à Vienne, mariés, heureux et reçus partout. – Nous sommes restés des bons amis. </p>
+          <p> C’est ainsi que le coupé du baron, confident du plus étrange et plus tendre roman, avait su qui était : </p>
+          <p> LA MORTE VIVANTE. </p>
+        </div>
+      </div>
+      <div title="LE THÉ VERT" type="chapter">
+        <head> LE THÉ VERT </head>
+        <head> I </head>
+        <p> La jolie princesse B… avait engagé certain baron à venir un soir, prendre une tasse de thé, chez elle. – La carte disait : Intime. </p>
+        <p> Le baron, qui se méfiait à raison de lui-même, saute dans son coupé et porte à la princesse le refus suivant : </p>
+        <l xml:lang="fr"> Si le thé vert est un poison </l>
+        <l xml:lang="fr"> Et si l’amour en est un autre, </l>
+        <l xml:lang="fr"> Princesse, il n’est pas de maison </l>
+        <l xml:lang="fr"> Plus dangereuse que la vôtre ! </l>
+        <p> Le lendemain, le baron trouvait dans son coupé un petit billet parfumé, qui disait : </p>
+        <l xml:lang="fr"> Rassurez-vous, baron, l’amour le plus ardent </l>
+        <l xml:lang="fr"> Ne fait jamais mourir : à peine on déraisonne. </l>
+        <l xml:lang="fr"> Quant au thé vert c’est un poison si lent, </l>
+        <p> Qu’il n’a jamais tué personne. </p>
+        <p> C’est pourquoi le baron allait le lendemain, prendre chez la princesse </p>
+        <p> du thé vert. </p>
+      </div>
+      <div title="LA BALEINE D'EZA" type="chapter">
+        <head> LA BALEINE D’EZA </head>
+        <div title="I" type="chapter">
+          <head> I </head>
+          <p> Ici, rien de dramatique ni d’affreux Ici, rien de dramatique ni d’affeux – rien du poignard ou du poison – ni sang, ni cadavre, – mais, comme aurait dit Mme de Sévigné : la chose que nul, dans les siècles des siècles, dans le passé, le présent ou l’avenir, n’aura vu ou ne verra, – la chose la plus étonnante, la plus nouvelle, la plus surprenante, la plus étrange, la plus rare, la plus incroyable qui se soit jamais vue en ces parages, – sur les tranquilles et clairs rivages d’une mer sans profondeur, sur la rivière de Nice. </p>
+          <p> C’est encore mon coupé qui veut, – acteur et témoin, – raconter cette nouvelle aussi invraisemblable qu’elle est vraie. </p>
+          <p> C’était vers la fin de mars 187. ; un matin, de très bonne heure, mon maître demandait immédiatement son coupé. </p>
+          <p> On m’attela à la hâte, et bientôt, au grand trot des chevaux, le fidèle cocher Pio me conduisait au bout de la promenade des Anglais. </p>
+          <p> J’y trouvais une foule, à pied, en voiture qui se pressait près du pont Magnan. </p>
+          <p> Ce pont passe sur une petite rivière qui n’a point d’eau – c’est une sœur du Paillon qui n’en a pas davantage – une sœur du Manzanarès de Madrid qui n’en a jamais eu ; – ces trois rivières n’offrant aux blanchisseuses du lieu que le plus mince des filets d’eau. </p>
+          <p> Que s’était-il passé et qu’allaient faire à cette heure matinale, de si bonne heure, toute cette foule, tous ces visages altérés, inquiets, anxieux, interrogateurs ? </p>
+          <p> Le voici : </p>
+          <p> Dans la nuit, un bruit étrange s’était fait à l’embouchure de la petite rivière, tous les voisins s’étaient levés et, à leur grand étonnement, et à leur plus grand effroi, ils avaient vu, bien vu une énorme baleine, à demi échouée près des arches du pont. </p>
+          <p> La baleine ne fréquente ordinairement que les grandes mers, les mers profondes, les mers du Nord. – Les flots de l’Océan sont sa patrie préférée ; – c’est là, au fond de ces sombres abîmes qu’elle naît, qu’elle vit, qu’elle engendre, qu’elle mange les petits poissons, qu’elle règne sur tous les autres sujets de son vaste empire. – Dans les mers azurées et paisibles, sur les côtes de notre Méditerranée, dans ces eaux transparentes où l’on voit presque le fond ; jamais, au grand jamais, baleine grande ou petite n’avait paru ; celle cependant qu’on prétendait avoir vue était, d’après ces témoins, un monstre de première et aristocratique espèce. </p>
+          <p> La baleine du pont Magnan mesurait une énorme longueur – ses écailles brillaient comme des diamants – de sa puissante queue elle battait la terre et l’eau avec fracas – de ses naseaux grands ouverts, elle lançait à une hauteur de plus de 20 pieds l’eau qui retombait en bouillonnant. – Puis, comme saisie d’un mal intérieur, comme saisie du mal d’enfant, ses flancs s’étaient entr’ouverts et un homme, un prophète, un nouveau Jonas en était sorti. </p>
+          <p> Vers l’an 800 avant J.-C., c’est-à-dire, il y a près de 20 siècles, sous Jéroboam II, déjà, un premier Jonas, l’un des petits prophètes, enfermé durant trois jours dans le corps d’une baleine, avait été chargé par le Seigneur-Dieu, d’annoncer aux habitants de Ninive la Corrompue, que s’ils ne se repentaient point de leurs crimes, s’ils n’offraient à la colère divine des gages de leur repentir, Ninive serait brûlée par le feu du ciel. </p>
+          <p> Un délai de quarante jours avait été accordé aux coupables pour se repentir et expier. </p>
+          <p> Jonas I er avait alors couru à Ninive et avait annoncé la terrible sentence. </p>
+          <p> A ces mots, les Ninivites effrayés avaient fait pénitence et Dieu leur avai pardonné. </p>
+          <p> Telle la légende sacrée. – Semblable au Jonas des temps anciens, Jonas II, celui qui était sorti, au pont Magnan, des flancs de la baleine II, avait, à son tour, annoncé aux habitants de Nice la Coupable, que si le lendemain, à deux heures, tous, grands et petits, nobles et roturiers, hommes, femmes, ou demoiselles, – du grand, du petit, du demi-monde et autres, n’avaient demandé à Dieu, pardon public de tous les affreux péchés commis, durant un trop célèbre carnaval, – par pensées, par paroles et surtout par actions, – la ville de Nice serait brûlée par le feu du ciel. – Tel était l’arrêt suprême, prononcé et transmis, par le petit prophète du XIX e siècle, Jonas II, le Jonas de Nice. </p>
+          <p> L’endroit du pèlerinage, celui où Dieu devait accorder ou refuser le pardon, était indiqué : – c’était dans la petite baie d’ Eza, près de Beaulieu, que l’arrêt devait être prononcé, devant pécheurs et pécheresses, à la confusion de tous et de toutes. </p>
+          <p> Puis Jonas et la baleine avaient disparu. </p>
+        </div>
+        <div title="II" type="chapter">
+          <head> II </head>
+          <p> A ce récit, à cette nouvelle, à cette menace, à cette condamnation quelque étranges qu’ils aient paru ; une consternation générale s’était répandue dans toute cette population, hier encore si pimpante et si gaie. – Les uns crurent, les autres ne crurent point, mais tous, comme frappés d’une même stupeur, demeurèrent muets et bouleversés. </p>
+          <p> Immédiatement alors, on vit tous les théâtres, tous les cercles, toutes les maisons fermer leurs portes. – Instantanément, partout le silence se fit ; le silence de la mort. – Tout s’arrêta, voitures, piétons, promeneurs. – Les rues, les places, les promenades furent désertes ; les églises seules s’emplirent de larmes, de prières, et de repentirs. </p>
+          <p> – Si ces repentirs ne s’élevaient point à la hauteur, à la nature comme à la dimension des péchés ou des crimes commis ; bientôt les flammes devaient envahir la ville. – Sous la morsure de ces flammes vengeresses tout s’écroulait et de cette ville fameuse mais coupable, de cette ville où régnaient, hier encore, les plaisirs et les amours ; il ne restait que des cendres, des cendres sur lesquelles la colère de Dieu devait semer le sel qui rend à jamais tout stérile et désert. </p>
+          <p> Sous l’empire d’un tel passé, au souvenir de semblables crimes, on vit alors prosternées au pied des autels, couvertes de voiles de deuil, toutes celles qui, hier encore, dans tous les bals de ce célèbre et coupable carnaval, avaient laissé voir plus que leurs blanches épaules ; – toutes celles dont les regards, les sourires avaient fait de ces blessures qui ne se guérissent que par le péché ; – toutes celles qui par pensées secrètes et charmantes avaient été presque plus coupables que par l’action défendue, – toutes celles qui directement ou indirectement, voulantes ou non, trompeuses ou trompées, consentantes ou surprises avaient cédé ; – tout cet escadron enfin de Madeleines éplorées, implorant à genoux la miséricorde de celui qui aurait défendu qu’on leur jetât la première pierre ; – toutes celles, en un mot, qui se repentaient. </p>
+          <p> Chez les femmes surtout, la faute et le repentir se tiennent par la main – dans la faute comme dans le repentir, les femmes ont de ces élans, de ces sincérités qu’elles seules connaissent. – seules, elles savent, quelque coupables qu’elles aient été, toucher le Juge suprême, désarmer la colère divine. </p>
+          <p> Ce Juge devait-il être plus sévère pour Nice que pour Ninive ? c’est ce que cette foule anxieuse allait savoir, au lieu fixé pour le grand rendez-vous, – à l’heure où la sentence suprême devait être rendue : </p>
+          <p> à EZA à deux heures. </p>
+        </div>
+        <div title="III" type="chapter">
+          <head> III </head>
+          <p> Le lendemain donc, dès dix heures, tout ce que Nice compte de cabriolets, de voitures, de charrettes de toutes formes, de tout âge, de toute contenance, était sur pied et prenait la route d’Eza. </p>
+          <p> Le coupé de mon maître était un des premiers. – Avec lui, était l’une des plus jolies et des plus coupables peut-être de toutes celles qui allaient implorer le pardon. </p>
+          <p> Toute cette foule de pénitents, de pénitentes, à pied, à cheval, en voiture, récitant des prières, versant des pleurs, chantant des cantiques ; avait sa couleur, cette couleur de pénitence et de pèlerinage qui frappe et impose ! </p>
+          <p> C’était quelque chose de triste, de solennel, d’intime, de suppliant, de repentant, comme le sentiment qui le dictait – c’était comme la légende, comme la Fête du Pardon. </p>
+          <p> Par une espèce de raillerie, le ciel, au contraire, était d’une légèreté, d’une transparence sans pareilles, – la mer d’un azur incomparable ; – le soleil brillait, les oiseaux chantaient et voletaient, les poissons sautaient dans l’eau ; la nature tout entière, en un mot, gaie, jeune et innocente semblait ne rien comprendre à toutes ces tristesses. </p>
+          <p> La route qui s’étend de Nice à Eza se déroule sur une longueur de plus de deux grandes heures, presque toujours au bord de la mer. </p>
+          <p> Eza est un petit village, un petit reposoir couché sur le gazon, au pied des premiers pics des Alpes. – Devant ses blanches maisonnettes s’étend une immense et gracieuse courbe, une sorte de crique, arrondie, profonde, limpide, protégée de tous les vents ; – une sorte d’oasis au bord de la mer. </p>
+          <p> Dans cette oasis, une foule de petits bateaux de pêcheurs, qui partis chaque nuit, reviennent chaque malin, les filets pleins de poissons qu’ils ont pris. </p>
+          <p> A droite et à gauche du village, tous les arbres, toutes les plantes, toutes les fleurs, toutes les herbes odorantes de la montagne – partout les haies sont de roses, les murailles tapissées de lierres, de grands géraniums, de grands lilas – c’est un petit paradis, secret, embaumé, l’un de ces recoins chéris qui ne savent rien des bruits de la terre, et qui d’accord avec le ciel sont toujours purs, heureux et souriants. </p>
+          <p> On laisse à penser ce qui dut se passer dans ce petit coin, lorsqu’on vit arriver cette avalanche de voitures, de piétons ; lorsqu’on entendit tous ces chants, toutes ces lamentations, toutes ces prières ! – que s’était-il passé, quel événement, quelle révolution amenait tous ces pèlerins improvisés ? </p>
+          <p> Les habitants d’Eza surent bientôt le motif du pélerinage. – </p>
+          <p> L’heure cependant, l’heure fixée approchait, et toute la foule, rangée sur le rivage, à genoux, les mains jointes attendait le moment où, de cette immense mer, devaient sortir la baleine et son prophète ! – Vaine attente ! – sur la mer, pas une ride – de baleine rien, – de Jonas rien et déjà chacun se regardait d’un air étrange ; lorsque certain vieux, à longue mémoire, probablement dans le secret, se leva, tira de sa poche un almanach et éclatant du plus franc rire que mortel ait jamais poussé ; annonça à haute et formidable voix : – « que la fameuse baleine du pont Magnan, la baleine d’Eza n’était : qu’ un gros poisson d’avril ! </p>
+          <p> C’était, en effet, le 1 er avril, et ce fut ainsi que Nice la Coupable, sans renoncer à Satan, à ses pompes et à ses œuvres, échappa cette fois encore au feu du ciel. </p>
+          <p> La mystification fut alors gaiement célébrée, – les pèlerins et les pèlerines organisèrent des danses, à l’abri des gros oliviers – le vin coula sous les caroubiers et les amours firent le reste. </p>
+          <p> Le coupé du baron, mystifié comme tout le monde, revint à Nice avec sa jolie compagne et on a prétendu que sous ses stores, il n’y eut ni pénitence, ni pénitente. </p>
+          <p> Ne le croyez point, il est un peu gascon. </p>
+        </div>
+      </div>
+      <div title="LE HASARD" type="chapter">
+        <head> LE HASARD </head>
+        <div title="I" type="chapter">
+          <head> I </head>
+          <p> Qu’est-ce que le hasard ? Le hasard est notre maître à tous, – c’est lui qui fait en son temps, selon son caprice ou sa volonté notre sort, notre bonheur, notre malheur – notre vie tout entière. </p>
+          <p> C’est lui qui fait naître les occasions, les amitiés, les amours – lui qui nous accouple à celles qu’il lui plaît, quelles qu’elles soient ; riches ou pauvres, bonnes ou mauvaises, jolies ou laides, plus que laides quelquefois, – lui, en un mot, qui dispose de nous, de nos impressions, de nos sentiments, comme un maître absolu, implacable. </p>
+          <p> Dire tout ce que le hasard a fait des pauvres mortels, ce serait refaire l’histoire de tous, exhumer tout ce que la vie de l’homme a subi d’événements, d’aventures plus étranges, plus incroyables les unes que les autres. – </p>
+          <p> L’histoire véridique et contemporaine qu’on va lire dira tout ce que ce hasard doublé de la fatalité (ils se tiennent par la main) peut amener dans la vie d’un homme. </p>
+          <p> Depuis plusieurs années, mon séjour habituel à Biarritz avait mis mon maître et moi (le coupé) en relations avec un gentilhomme espagnol dont le château n’était qu’à quelques lieues de Bayonne. </p>
+          <p> Le baron, mon maître, avait été longtemps officier dans l’armée espagnole – ses relations avec tout ce qui touche et rappelle l’Espagne étaient en même temps restées un souvenir et une affection – on n’oublie jamais le pays où l’on a porté sa première épaulette, pas plus qu’on n’oublie sa première maîtresse ; – le double honneur sous lequel on a servi. </p>
+          <p> Ce gentilhomme espagnol s’appelait le comte del Guadalquivir. – Il était né près de Séville, d’une famille distinguée, il n’avait qu’un frère, l’aîné, celui qui avait le titre et la fortune, le nom et le majorat ; – quant à lui, semblable à un cadet de Gascogne, il était un cadet d’Andalousie, pauvre, rapé, sans un maravédis ; mais d’autre part un hidalgo dans la véritable acception du mot – coureur de fillettes – adorateur de toutes les Vénus de la banlieue de Séville, gai, agréable, adoré de tout ce petit peuple de manolas , de grisettes à mantilles, plus jolies, plus coquettes, plus galantes mille fois (et c’est beaucoup dire) que toutes les marquises d’Amaëgui de Barcelone et de toutes les Espagnes ! – Il aimait la fille du peuple, c’était son goût. </p>
+          <p> Le frère du comte, au contraire, celui qui avait le titre et l’argent, était un prodigue, un prodigue qui, en quelques années, eut bientôt dévoré tout son avoir avec les marquises de Madrid. – Il mourut. </p>
+          <p> A la mort du frère aîné, il ne restait que ce qui n’avait pu être dépensé, le majorat ; qui revint naturellement au frère cadet. – Ainsi commença sa fortune, sa fortune d’écus comme sa fortune politique, car il est aujourd’hui grand d’Espagne, décoré de tous les ordres, invité à la table de tous les rois et de toutes les reines, un fort riche et grand seigneur. </p>
+          <p> Or, ce grand seigneur qui depuis la mort de son frère s’était fixé à Paris, avait des habitudes étranges – sans famille, sans liens d’aucune sorte, il vivait au hasard du jour, de l’heure et du moment ; lorsqu’un soir, ce hasard lui fit faire une de ces rencontres qui devait décider de son sort, de son cœur et de sa vie. </p>
+          <p> C’était l’hiver, il pleuvait et le comte à pied son parapluie à la main était entré chez Bignon, pour dîner. </p>
+          <p> Après son dîner, vers huit heures, il sortait et comme il pleuvait encore, il traversait le boulevard pour chercher une voiture, lorsqu’il vit passer une jeune femme, une jeune fille toute mouillée, et pressant le pas, – elle rentrait chez elle. </p>
+          <p> Par un mouvement instinctif, le comte s’avança vers cette personne, la couvrit de son parapluie, et lui demanda où elle allait, où elle logeait. </p>
+          <p> Elle logeait, hélas, bien loin, aux Batignolles. </p>
+          <p> Le comte, toujours obéissant au même sentiment (plutôt la compassion que tout autre) lui offrit de la reconduire chez elle à pied, sous son parapluie, ce qu’elle accepta ; – il pleuvait tant ! </p>
+          <p> Il ne faut pas croire que cette fille du peuple eût en elle, comme tant d’autres, un de ces attraits qui, dès le premier coup d’œil, entraînent et captivent un homme, un homme tel que le comte surtout, l’ancien galant de toutes les jolies filles de Séville et autres lieux ; – loin de là. </p>
+          <p> Cette jeune fille était laide, de cette laideur de visage dans laquelle il n’est pas un trait qui rachète l’autre. </p>
+          <p> Ni peau, ni teint, ni cheveux, ni sourire – rien de la taille, rien des mains, des pieds, une grosse voix ; mais deux yeux qui dans leur vive et sombre flamme révélaient quelque chose de fatidique, de diabolique, d’infernal – un Méphistophélès féminin. </p>
+          <p> On arriva à la maison, à la mauvaise et pauvre maison de la jeune fille. – C’était une sorte de masure, perdue dans l’immense faubourg, comme le serait un arbre dans une immense forêt. – Sur quelle branche était perché le nid ? – Ce n’était point assurément sur une des premières, mais sur une de celles qui reçoivent la première goutte de pluie, la première caresse du soleil, sur la dernière, tout en haut de l’arbre. – On monta, et là, le comte retenu par on ne sait quel secret empire, resta quelques heures. </p>
+          <p> Là il apprit ce qu’était cette personne, ce qu’elle faisait, comment elle vivait. </p>
+          <p> Justine (c’était son nom) vivait de son travail. – Elle était corsetière, allait à l’atelier le matin, en revenait le soir, c’était son état et son gagne-pain, – elle était d’ailleurs sage, honnête et rangée. </p>
+          <p> A ce récit simple et vrai, le comte se sentit comme pris d’un certain intérêt, et le lendemain, à pareille heure, il était revenu. – C’était le commencement de l’habitude. </p>
+          <p> L’habitude, chez l’homme, chez nous tous est un tyran ; – elle est dans les choses, dans les lieux, dans les personnes ; c’est une seconde nature, un velours sur lequel coule la vie. – Quand elle nous manque, nous sommes malades et nous y retournons. </p>
+          <p> On a beaucoup dit et beaucoup écrit, par exemple, qu’en amitié, comme en amour, comme en une simple relation, il était facile de rompre une habitude, ne le croyez point ; on le jure, on le rêve et le lendemain on la reprend. – Le bûcheron de La Fontaine, fatigué de la vie, avait jeté son fagot et implorait la mort ; la mort parut, il rechargea son fagot et reprit l’habitude de sa misère ! ainsi de nous. </p>
+          <p> Le comte donc, désormais l’esclave de cette nouvelle habitude continua à aller voir chaque soir cette personne. – Puis un jour, il la tira de son réduit et l’établit dans un petit appartement propret et simple. – Puis un jour, comme fasciné par cet être sans beauté, sans esprit, sans charme d’aucune sorte ; il céda plus encore, il prit chez lui, avec lui, cette fille du peuple. </p>
+          <p> Bien des années se sont écoulées depuis cette aventure et toujours cette étrange personne habite avec le comte, plus subjugué, plus esclave que jamais. </p>
+          <p> L’aimait-il ? – En était-il aimé ? </p>
+        </div>
+        <div title="II" type="chapter">
+          <head> II </head>
+          <p> L’été, on passe les mois de chaleur à la campagne. – Le château de Bella-vista est situé sur la frontière française, et espagnole, près d’Hendaye, sur les bords de la Bidassoa. – En face, toute cette chaîne de montagnes au pied desquelles s’élève la vieille Fontarabie, la ville de Charles-Quint, – au loin la grande mer. </p>
+          <p> C’est dans cette ravissante maison de campagne, qu’un matin mon maître, et le coupé attelé en poste, nous arrivions pour déjeuner. </p>
+          <p> Le comte del Guadalquivir n’y était pas. Il avait été passer la journée à Biarritz, nous l’avions croisé en route. </p>
+          <p> La maîtresse de la maison (car elle l’était tout à fait devenue), Justine offrit quelques heures de repos, un bon déjeuner, après quoi « si vous voulez, dit-elle, votre coupé nous reconduira à Biarritz, j’y rejoindrai le comte et ce soir, je reviendrai avec lui par le train de nuit. » </p>
+          <p> – Accepté ! – </p>
+          <p> Ce fut donc avec cette étrange personne que, deux heures durant, seul à seule, dans mon doux intérieur capitonné, le baron put essayer de saisir, de traduire le secret de cette étrange nature. </p>
+          <p> Quelque chose de bref, d’arrêté, d’inculte, plus encore de sauvage. – Ni esprit, ni charme, mais quelque chose qui, en dépit de cette laideur, commande et asservit – quelque chose qui est, à la fois, un tyran et un maître, un maître qui ose tout, qui brave tout, – qui fait peur, qui retient sans captiver, mais qui s’impose ! – Telle cette personne, un attrait – une menace – une fatalité ! </p>
+          <p> Nous avons bien dit : une fatalité, celle qui bientôt devait amener une suprême et terrible catastrophe. </p>
+          <p> Un jour, le comte avait vu ce qu’il n’eût jamais dû voir. </p>
+          <p> Un de ses amis, un intime, un jeune homme avait, lui aussi, succombé à l’irrésistible fascination de cette fille. Pour lui, Justine avait trahi son bienfaiteur. </p>
+          <p> Le comte vit tout, ne dit rien, ne fit – rien, ni en paroles, ni en action – aucune observation, aucune plainte, nul reproche ; mais peu à peu, sa santé s’affaiblit et à la fin d’août dernier (1880), il s’éteignait blessé à mort, comme s’éteignent les trahis et les vaincus. </p>
+          <p> Tel ce hasard qui, un jour d’hiver, avait pris naissance dans une mansarde – tel l’empire du regard fatal et satanique de la plus laide personne que la terre ait enfantée. </p>
+          <p> La beauté n’est donc pas la seule qui exerce sur nous son empire – le démon de la laideur, paraît-il, a aussi le sien, peut-être plus puissant, plus absolu et surtout plus durable – la beauté n’a qu’un jour, la laideur demeure immuable. </p>
+          <p> A cette étrange domination, à cette terreur on succombe et, comme le galérien, on s’habitue à sa chaîne quelle qu’elle soit, l’amour n’y est de rien, pour rien, on sert non pas sa maîtresse, mais son maître, et on se tait. </p>
+          <p> Tel ce pauvre comte del Guadalquivir, asservi et trahi par celle qui lui devait tout, – trahi par une de ces trahisons dont on meurt, et il en mourut. </p>
+          <p> C’est de toutes ces vilaines tristesses que le coupé fut encore, par hasard, le confident et le témoin. </p>
+        </div>
+      </div>
+      <div title="LA COMTESSE DE CHATILLON" type="chapter">
+        <head> LA COMTESSE DE CHATILLON </head>
+        <head> I </head>
+        <p> Les familles ont, comme les personnes, leurs traditions, leurs mœurs propres – c’est comme une légende qui se perpétue d’âge en âge – comme une chaîne qui descend d’anneau en anneau – anneaux dorés, fleuris, galants de tous les temps, de tous les mondes. </p>
+        <p> Là, rien n’est nouveau, tout est copie – voyez plutôt : </p>
+        <p> Le 17 août 1661, le financier, de célèbre et galante mémoire, Fouquet donnait, en son château de Vaux, une fête mémorable au grand roi Louis XIV. </p>
+        <p> Sur tous les plafonds de cette royale demeure était inscrite cette célèbre devise, la sienne : Quo non ascendam ? – où ne monterait pas l’écureuil (Fouquet) poursuivant une couleuvre (Colbert). </p>
+        <p> Cette allusion et plus que cela, l’impertinence du portrait de Mlle de La Vallière, le sein nu et les cheveux dénoués, entourée d’amours, dans la pose la plus lascive ; n’avaient pu qu’irriter la vengeance et la jalousie de son royal amant, – Fouquet fut arrêté. </p>
+        <p> Ses papiers furent saisis et dans la fameuse cassette de fer du château de Saint-Mandé, on trouva étiqueté le détail par noms, prénoms et qualités de toutes ses maîtresses, de toutes les lettres amoureuses de chacune de ces dames – le tout par paquet, enveloppé d’une faveur de couleur différente, – puis, détail curieux, et bien d’un financier, le détail par livres, sous et deniers des sommes dépensées pour chacune d’elles. </p>
+        <p> C’étaient Mlles de Menneville – du Fouilloux – de Treseson – d’Asserac – duchesse de Châtillon – cette dernière figurait pour le plus gros chiffre, 250,000 livres, et à son dossier figurait aussi, en première page, la curieuse et galante lettre qui avait servi d’introducteur à cette libidineuse liaison. </p>
+        <p> La duchesse disait : </p>
+        <p> « J’ai la taille la plus belle, la mieux prise qui se puisse voir – ma démarche est tout à fait agréable et en toutes mes actions j’ai un air infiniment spirituel. – Mon visage est un ovale des plus parfaits – mon front est un peu élevé, ce qui sert à la régularité de l’ovale. – Mes yeux sont bien brillants et bien fendus – mon regard est doux, plein de feu et d’esprit – j’ai le nez assez bien fait et pour la bouche, je puis dire que je l’ai non seulement belle et bien faite, mais infiniment agréable par mille petites façons qu’on ne peut voir en aucune autre bouche – j’ai les dents fort belles et bien rangées – mes cheveux sont d’un châtain clair et bien lustrés – ma gorge est plus belle que laide – pour les bras et les mains, je ne m’en pique pas, mais pour la peau, je l’ai douce et fort déliée – on ne peut voir pied mieux tourné ; la jambe et surtout la cuisse mieux faites que je ne les ai, la cuisse surtout. </p>
+        <p> « Signé : D sse de CHATILLON. » </p>
+        <p> Il paraît que dans la famille des Châtillon, cet usage de faire ainsi soi-même son portrait s’est perpétué (bon chien chasse de race). En voici la suite continuée de nos jours : </p>
+        <p> C’était en 187. – Nous étions installés, comme de coutume, dans notre villa de Monaco, lorsqu’avait lieu l’inauguration du grand théâtre de Garnier, une merveille. </p>
+        <p> La foule, une foule comme jamais on n’en avait vue, était accourue et le soir, tous les diamants, toutes les perles, toutes les fleurs et tous les jolis visages de tous les mondes éclairaient cette salle divine – une longue file de voitures attendait au bas des marches du grand péristyle – le coupé du baron était au premier rang. </p>
+        <p> Il faisait une admirable nuit, les quatre glaces du coupé étaient baissées et il attendait, lorsqu’une petite main, finement gantée, s’approchant vivement de l’une des portières, y laissa tomber quelque chose. </p>
+        <p> C’était une lettre sur papier glacé, elle portait au revers de l’enveloppe une couronne de comtesse, surmontant la lettre c – point d’adresse. </p>
+        <p> Mon maître, en rentrant dans son coupé, trouva cette lettre, il la sentit, elle était d’une femme. </p>
+        <p> Aussitôt chez lui et la bougie allumée, il l’ouvrit. – La signature d’abord : – Comtesse de Châtillon. </p>
+        <p> Elle disait : </p>
+        <p> « J’ai l’esprit vif, alerte, inventif, je suis grande – bien prise dans ma taille que j’ai souple et voluptueuse – j’ai des cheveux noirs, ils défieraient l’aile du corbeau, ils sont fins comme la soie, doux aux doigts. – Mes yeux sont grands, mes cils longs, mon regard brûlant, jamais une larme ne les a voilés, ni rougis – mes dents sont blanches – mes lèvres rou ges, épaisses, elles appellent le baiser qu’elles seules savent rendre. – Le front est pur – l’air superbe, un peu sauvage, mais il s’apprivoise. – J’ai les mains potelées, le pied cambré. – Rivale heureuse de la Vénus Callypige, j’ai la gorge audacieuse, la cuisse ronde, douce et éloquente, en un mot, je suis jolie et..... </p>
+        <p> « Comtesse de CHATILLON. » </p>
+        <p> Il paraît que chez les dames de Châtillon, certaines parties du corps principalement s’étaient perpétuées dans leurs formes amoureuses, la cuisse par exemple. </p>
+        <p> Quant au prix de toutes ces jolies choses, le chiffre manquait. </p>
+        <p> Le billet n’était pas pour nous et le coupé voisin de celui du baron prétendait que la comtesse s’était trompée de voiture, mais pas..... de portrait. </p>
+        <p> Il le savait. </p>
+      </div>
+      <div title="LE BEAU NICOLAS OCONITCKIKOFF" type="chapter">
+        <head> LE BEAU NICOLAS OCONITCKIKOFF </head>
+        <div title="I" type="chapter">
+          <head> I </head>
+          <p> OCONITCKIKOFF est un affreux nom, nul ne sait le prononcer, même les Russes – aussi celui qui est le grand héros de cette petite histoire s’appellera-t-il plutôt de son prénom NICOLAS, prénom facile et chanté par Fahrbach, en une polka célèbre, ah, ah, ah , que savent tous les enfants, tous les gamins de France et de Navarre, de Vienne et autres lieux. </p>
+          <p> Nous sommes cette fois à Biarritz, nous y sommes installés dans une jolie villa, sur le bord de la mer, près du grand bain – coupé, chevaux, tous y sont à merveille. </p>
+          <p> Ici, mon maître connaît tout le monde, tout le monde, le monde russe surtout. – Mon maître a été longtemps à l’ambassade de France à Pétersbourg, il y a quelque quarante ans, l’empereur Nicolas regnante . Tous les Russes et leurs familles lui sont donc presque comme des compatriotes et des amis. </p>
+          <p> Ce fut ainsi que mon maître eut bientôt fait connaissance avec celui qui va être le héros de cette véridique et plaisante histoire, avec le jeune comte Nicolas, autrement dit le Beau Nicolas ! </p>
+          <p> Le comte Nicolas Oconitckikoff est Russe – il appartient à l’une des meilleures familles du gouvernement de Saratoff. – Il était officier dans la cavalerie de la garde impériale lorsqu’une aventure désagréable, un duel, l’obligea à donner sa démission et à quitter la Russie – aventure galante, bonheur et malheur auxquels semblait être prédestiné le beau Nicolas. </p>
+          <p> Nous étions donc à Biarritz fort tranquilles et fort empressés auprès des jolies femmes qui y abondent, lorsqu’un soir, au Casino, on joua la polka de Fahrbach, polka dans laquelle le refrain ah, ah, ah, est chanté par des musiciens de l’orchestre. </p>
+          <p> A cet air, à ce refrain, le comte pâlit tout à coup, se pencha vers moi, puis d’un air effaré, inquiet, désolé : « Je ne puis rester ici, me dit-il, demain je vous dirai pourquoi ! » </p>
+          <p> Pourquoi cet air avait-il désespéré à ce point le comte, ce fut ce qu’il s’empressa de me dire, le lendemain, dans le petit trajet de Biarritz à Bayonne que nous fîmes ensemble dans le cher coupé. </p>
+          <p> On pense à quel degré ma curiosité, la curiosité presque féminine d’un homme était surexcitée. </p>
+          <p> J’écoutai donc. </p>
+          <p> A son départ de Pétersbourg, le comte Nicolas ne sachant guère où se fixer erra longtemps, il habita successivement plusieurs villes dans lesquelles il ne se fit point connaître, et finalement vint échouer à Anvers. </p>
+          <p> Anvers est une grande ville, riche, animée – tout y est facile, les relations sont étendues – Anvers commerce avec le monde entier, on y est sociable, élégant, tout s’y trouve – c’est une résidence qu’on peut aussi très facilement quitter quand on veut ; c’est un avantage pour un étranger que ne retiennent point certains liens de famille, de parenté ou d’affection. </p>
+          <p> Là, le comte s’installa. – Il avait de la fortune, il était un fort bel homme, très agréable de conversation, d’esprit et de manières ; il fut donc très facilement admis et reçu partout, dans le meilleur monde d’Anvers. </p>
+          <p> La société d’Anvers se compose, comme partout, de différentes classes ; l’élément qu’on pourrait appeler noble n’y joue point le rôle principal, le commerce maritime y a le pas – cette société est riche, animée – tous les grands industriels, les grands armateurs ont hôtel à Anvers, maison de campagne, presque palais, dans les environs – ils y mènent la grande vie. </p>
+          <p> Le comte Nicolas eut bientôt fait connaissance avec cette société. </p>
+          <p> Entre autres personnes, il avait plus particulièrement connu la famille d’un riche armateur, celle de Mme X – nous l’appellerons de son petit nom, Rosita. </p>
+        </div>
+        <div title="II" type="chapter">
+          <head> II </head>
+          <p> Mme Rosita était Espagnole, – elle était de Cadix et ce fut dans cette ville que celui qui devait être son mari, passant un jour avec son navire, la vit, en devint épris, la demanda en mariage et l’épousa. </p>
+          <p> Mme Rosita était une superbe Andalouse – petite, mais modelée comme une statue, le teint mat, les yeux noirs, les dents de nacre, les cheveux aile de corbeau : tout en elle annonçait la femme passionnée que sait seul engendrer le vif et brûlant soleil de l’Andalousie : – un feu. </p>
+          <p> Mme Rosita avait avec elle sa sœur, beaucoup plus jeune qu’elle – celle-ci blonde, fluette, romantique, presqu’une fille de la mélancolique Allemagne, une Marguerite de Faust. </p>
+          <p> Entre ces deux natures, nul rapport, nulle ressemblance, tout différent ; l’esprit, le cœur, jusqu’à la démarche, le timbre de la voix, le sens du regard, le sens du sourire. – L’une aurait menacé du poignard, l’autre se serait défendue par les larmes. </p>
+          <p> Introduit dans cet intérieur, ce dangereux intérieur, le comte, le beau Nicolas dut éprouver et éprouva, dès le premier moment, plus qu’une gêne secrète. – Il était lui aussi, jeune, libre, très galant, tout disait qu’il devait être bientôt très amoureux. </p>
+          <p> L’amour a fait bien des victimes. Il devait être une de celles-là. </p>
+          <p> Dès les premiers jours, raconte-t-il, son esprit, ses yeux, ses sens, bien plutôt que son cœur hésitèrent grandement, hésitèrent entre le fruit permis et le fruit défendu. </p>
+          <p> Le fruit permis, la jeune fille, lui était facile, doux ; c’eût été pour la vie tout entière, la consolation de bien des malheurs aussitôt oubliés et comme sanctifiés. </p>
+          <p> Mais le fruit défendu était là, avec son empire, cet empire, cet attrait auxquels tous succombent, on ne sait pourquoi. – Pourquoi ? parce qu’il est défendu. </p>
+          <p> Voici donc le beau Nicolas amoureux de Rosita et en peu de jours, en moins de jours qu’il ne faut pour l’écrire, fou de cette folie qui n’a de terme que dans la possession et encore ! </p>
+          <p> Mme Rosita ne fut pas longtemps, pas assez longtemps insensible aux galanteries du comte, et elle l’invita à venir passer quelque temps avec eux à la campagne, – sans cérémonie, comme un ami – un ami à la campagne ! </p>
+          <p> Le mari trouvait bien que sa femme avait été un peu vite dans cette amitié, mais celle-ci lui avait adroitement insinué que peut-être le comte serait pour sa sœur un parti avantageux, et que s’ils se plaisaient, ils pourraient un jour s’épouser. </p>
+          <p> Le mari n’y vit pas plus loin. Il encouragea même cette espérance et tout alla au mieux dans ce monde des amours. </p>
+          <p> La liberté de la campagne, on la connaît. – Les promenades dans les allées solitaires – les longues soirées sur le banc du jardin – les grands couchers de soleil – les muettes clartés de la lune, – puis les parfums des fleurs, des arbres ; – puis l’âcre et perfide odeur des foins, ce poison secret qui vient solliciter tous vos sens ; – tout, chez deux êtres qui ne se déplaisent pas, les mène, les entraîne malgré eux, malgré tout à la faute, à la grande faute, à celle que nulle volonté, nulle force n’a jamais su maîtriser. – Là, tout vous entraîne à l’abîme, vous jette entre les bras de celui que vous aimez ! </p>
+          <p> Il en fut ainsi. </p>
+          <p> Au bout de quelques jours, le comte était l’amant de Rosita, à l’insu de sa sœur, à l’insu du mari qui, comme tant d’autres, n’en avait pas même le soupçon. </p>
+          <p> Cela dura ainsi quelque temps, lorsqu’un jour cependant, le mari avait cru s’apercevoir de quelque chose. – Deux regards échangés entre les deux coupables lui avaient été comme une révélation. </p>
+          <p> Le mari ne dit rien, observa, patienta, sortit, rentra à l’improviste, cherchant sa proie ( quœrens quem devoret ), car il y avait là une proie à dévorer, et un jour, il annonça tranquillement qu’il s’embarquait pour quelques jours. – Il avait une affaire à Londres, quarante-huit heures devaient lui suffire. </p>
+          <p> Il ne s’embarqua point. – Il se cacha et rentrant un jour à l’improviste, il trouva le comte aux genoux de sa femme ! – tableau – explication. </p>
+          <p> L’explication était toute simple. – Le comte amoureux de la sœur de Mme Rosita, lui demandait sa main ! </p>
+          <p> Le mari, quoique encore tant soit peu incrédule, donna cependant dans le mensonge, n’y vit, en apparence, rien que de naturel et même se montra plus que pressé de voir s’accomplir ce projet d’union. </p>
+          <p> Ce premier orage s’évanouit donc ainsi, comme un gros nuage qui passe sans grêle ni pluie et l’azur étant revenu, les amours recommencèrent de plus belles. </p>
+          <p> Second départ simulé, du mari, mais aussi second retour, – dans celui-là, la foudre qui éclate et qui tue ! </p>
+          <p> C’est chose difficile à raconter, mais le coupé en a entendu de telles qu’une de plus ou de moins ne ternira point sa renommée. – La langue française d’ailleurs sait tout dire : – même en soulevant le voile, elle a des termes pour toutes choses. </p>
+        </div>
+        <div title="III" type="chapter">
+          <head> III </head>
+          <p> Un soir donc d’été, il était minuit. – La nuit était claire comme le plein jour. – Les étoiles brillaient d’un éclat indiscret – un silence complet régnait, et toutes les lumières du château s’étaient éteintes, lorsqu’un homme, mettant sa clef dans la serrure de la grille du parc, s’introduisait vivement dans le vestibule du château et montait l’escalier qui lui était connu. </p>
+          <p> C’était le mari, </p>
+          <p> Toujours de plus en plus soupçonneux, il avait simulé une seconde absence et rentrait comme rentre un jaloux, un mari trompé, comme rentrent le soupçon, la vengeance, </p>
+          <p> Le comte Nicolas était auprès de sa maîtresse. – A ce bruit de pas que connaissait, que devinait Rosita (on ne se trompe pas en ces moments suprêmes), « Mon mari, s’écria-t-elle, fuyez. » </p>
+          <p> On a deviné le reste. – Le pauvre amant surpris, affolé, n’a que le temps de rassembler dans ses bras tous les vêtements qui lui tombent sous la main, puis il saute par une fenêtre et s’enfuit. </p>
+          <p> O malheur, un énorme chien de garde s’éveille, s’élance après le fugitif en aboyant, le suit, le poursuit et, au moment où le pauvre comte franchit le saut-de-loup qui longe la route et qu’il tombe de l’autre côté ; l’horrible dogue saute avec lui, le prend, le serre dans ses terribles griffes, et de sa gueule écumante, de ses longues et terribles dents lui dévore le dos tout entier. </p>
+          <p> Alors, le comte meurtri, déchiré, à demi mort, s’enfuit, et gagne, presque nu, sanglant, et demi mort le village voisin. </p>
+          <p> On juge de la scène qui dut se passer dans la chambre de Rosi ta, entre son mari et elle, scène flagrante, indéniable, patente, car le pauvre comte, faut-il le dire, n’avait pu emporter, avait oublié une de ces choses sans lesquelles on ne peut marcher. Il avait oublié ses bottines ! </p>
+          <p> De là, scandale dans tout le pays, dans toute la ville d’Anvers – de là procès en adultère, et divorce des deux époux. </p>
+          <p> Qu’avait à faire le comte après cette aventure ? – Quitter Anvers. – A Anvers, il était connu de tous, tous savaient qui était le beau Nicolas, et pour comble de malheur, alors commençait la vogue de la fameuse polka de Fahrbach : Le voilà, Nicolas ah, ah, ah ! </p>
+          <p> Dès ce jour donc, aussitôt qu’il sortait, un bataillon de gamins acharnés à sa suite, le poursuivait aux cris de : Ah, ah, ah, le voilà Nicolas, le beau Nicolas ! </p>
+          <p> Le comte quitta alors Anvers, essaya d’habiter quelques autres villes de Belgique, mais le mot était donné et partout où il allait, où il paraissait, dans les rues, au théâtre, dès qu’on le voyait, il retrouvait le fameux air, qui partout le suivait comme une accusation, comme un remords. </p>
+          <p> Vaincu en Belgique, il se réfugia alors en France et vint à Biarritz essayer de trouver le calme qui le fuyait depuis si longtemps. </p>
+          <p> Il se croyait donc délivré, lorsqu’un soir, au casino de Biarritz, entendant de nouveau ce maudit air, il s’était cru de nouveau reconnu, poursuivi, et était sorti de la salle. </p>
+          <p> Vaine appréhension ! La France est plus discrète et mon coupé et moi, nous étions les seuls qui, par lui, avaient appris les aventures et les malheurs </p>
+          <p> du beau Nicolas, </p>
+        </div>
+      </div>
+      <div title="VERA LA JALOUSE" type="chapter">
+        <head/>
+        <div title="II" type="chapter">
+          <head> II </head>
+          <p> Mlle Vera K… est Russe de nation. – Elle est jeune, plutôt agréable que jolie, intelligente, d’un esprit ouvert, libre et avisé. – Elle saisit tout, comprend tout, et a dans le regard cette sagacité qui devine tout sans qu’on le lui explique – ses yeux parlent et écoutent – toutefois, dans ce regard, à la fois fulgurant et voilé, il y a comme un éclair qui traverserait un nuage précurseur de la foudre – c’est un symptôme. </p>
+          <p> Mlle Vera, pour des motifs qu’il est inutile de beaucoup approfondir, s’est séparée de sa famille qui habite Odessa. – Elle est libre, elle a de la fortune et elle en jouit, – elle est sinon une grande dame, du moins une grande demoiselle. </p>
+          <p> Dans cette situation de cœur et de fortune, dans cette indépendance assez ordinaire aux femmes russes à l’étranger, son cœur ne pouvait rester longtemps isolé et insensible. Mlle Vera avait distingué quelqu’un et l’aimait. </p>
+          <p> Ce quelqu’un était un grand jeune homme assez beau – d’apparences assez froides – d’esprit assez renfermé, un homme dont on ne dit rien et dont on peut tout soupçonner, – la dissimulation par exemple, pour ne rien dire de plus. </p>
+          <p> Ce jeune gars était Suédois. Il avait été officier dans ce pays, avait quitté le service et sans occupation, comme sans fortune, il avait (on ne devine guère comment) fait le caprice ou la fantaisie de Mlle Vera. – Il était joueur, et joueur heureux, ce qui est rare. – Bref, ces deux natures, si distinctes, s’étaient accouplées. </p>
+          <p> Mlle Vera avait tous les dehors et tous les agréments que donne la fortune, une bonne maison, de nombreux domestiques. </p>
+          <p> Parmi eux, une camériste, une femme de chambre d’une remarquable beauté. </p>
+          <p> Maria, c’était son nom, était Italienne. – Rome l’avait vue naître. – Elle était une grande personne, aux traits grecs d’une blanche statue – grand profil, grandes formes, grande stature, quelque chose qu’on sculpte et qui impose – un statuaire en aurait fait une déesse et aurait écrit au bas de la statue : </p>
+          <p> Incessu patuit Dea ! </p>
+          <p> tant, dans cette majesté, cette pureté il y avait de souveraine beauté. </p>
+          <p> Maria, quelque belle qu’elle fût, n’en tirait point vanité. Elle n’aimait personne et une femme qui n’aime pas ignore presque quels sont ses attraits. </p>
+          <p> Après quelques jours passés à Monaco, Mlle Vera, avec laquelle mon maître et son coupé avaient fait plus ample connaissance, partit pour Paris : l’Exposition allait s’ouvrir. </p>
+          <p> On convint de s’y retrouver et quelques semaines après, mon maître, les chevaux et moi, nous étions à Paris installés chez nous, faubourg Saint-Honoré. </p>
+          <p> Vera, arrivée depuis peu, s’était de son côté fort bien installée. – Elle habitait un fort joli appartement, dans le même quartier, rue Montaigne. </p>
+          <p> La reconnaissance de la relation de Monaco fut affectueuse. – Vera, son amant et mon maître se virent souvent, l’amitié se noua, la vie fut mêlée, on allait aux mêmes endroits, et le coupé était de toutes ces parties, de tous ces plaisirs qu’offre seule la libre et inépuisable ville qui s’appelle Paris. </p>
+        </div>
+        <div title="III" type="chapter">
+          <head> III </head>
+          <p> Tout allait donc à souhait dans le meilleur des mondes joyeux, lorsqu’un jour Vera se sentit atteinte d’un véritable chagrin – Maria, sa camériste, la quittait, elle était obligée de retourner à la hâte à Rome. Sa mère se mourait, elle voulait recevoir son dernier soupir. </p>
+          <p> Cette séparation toute naturelle fut pour Vera toute une tristesse. – Les femmes vivent avec leurs caméristes plus qu’on ne se l’imagine, les étrangères surtout. – La camériste est celle qui a tout vos petits secrets quand elle n’a pas les grands, – celle qui sait vos impressions, vos joies, vos larmes quelquefois. – Elle est comme la confidente ou la complice de tous vos sentiments. – La quitter, la voir partir, c’est presque voir arriver la solitude ; – avec une autre, est-on sûre de retrouver ce qu’on perd ? – c’est une nouvelle connaissance à faire, – c’est une nouvelle confidence de soi-même à livrer à autrui, – c’est un désastre. </p>
+          <p> Néanmoins et malgré tous ces inconvénients qui étaient grands, devant une mère mourante, on ne pouvait retenir la fille ; Maria partit. </p>
+          <p> Elle fut mal remplacée. La vie continua ainsi, un peu attristée et cette tristesse s’accrut bientôt d’une sorte d’inquiétude qui vint tout à coup s’emparer de Vera. </p>
+          <p> Son amant, le jeune officier, n’était plus le même. – Comme grisé par la vie de Paris, il sortait souvent, rentrait à des heures défendues, et plus taciturne que jamais il ne rapportait au logis qu’une certaine tristesse et un silence glacial. </p>
+          <p> Vera s’en alarma. – Où allait-il ainsi ? – Où dépensait-il ses matinées ? – Où passait-il ses soirées ? – C’était une énigme. – Maintes fois, plus peut-être qu’elle ne l’eût dû, Vera le questionna, le poursuivit, le fatigua de toutes ses questions, elle n’obtint rien que des lieux communs, les lieux communs des hommes, dérangés surtout, le cercle, – le bois, les amis, les courses, les théâtres. </p>
+          <p> Vera qui sortait peu, parce que son amant était toujours dehors, commença alors cette série de douleurs qui débutent par la curiosité et finissent parla jalousie – elle avait eu jusqu’alors auprès d’elle, à ses côtés, à ses genoux celui qu’elle avait choisi ; le voir ainsi loin d’elle était une situation qu’elle ne pouvait tolérer. </p>
+          <p> Dans les fréquents entretiens qu’elle avait avec le baron, mon maître, elle avait commencé par s’en étonner, bientôt après par s’en plaindre. – Le baron répondait qu’à Paris la vie est faite de telle sorte qu’on ne s’appartient guère, qu’une connaissance, une relation en amène une autre, et qu’avec la légèreté, et le peu d’importance de ces relations aussitôt oubliées que commencées, il n’y entrevoyait aucun danger. </p>
+          <p> Vera ne l’entendait pas ainsi, elle voulait savoir – on lui cachait quelque chose, elle voulait le découvrir – tous les moyens, disait-elle, lui seraient bons pour arriver à cette découverte. </p>
+          <p> Elle en était là, lorsque justement, au milieu des innombrables affiches et circulaires qui sont chaque jour distribuées à Paris, elle en reçevait une qui lui sembla le moyen si longtemps, si ardemment désiré, – la clef qui devait ouvrir la porte du secret où, sans doute, son infidèle amant avait son refuge. </p>
+          <p> Cette circulaire, qui est d’une maison bien connue, la maison M....., offre de donner à qui le veut tous les renseignements jour par jour, heure par heure, sur ceux ou celles dont on veut connaître les faits et gestes. </p>
+          <p> C’est une sorte de police privée, de police des mœurs fort utile, fort bien servie, mais fort chère. </p>
+          <p> Un agent qu’on paye, ou pour le jour, ou pour la nuit, ou pour les deux ; est chargé de suivre partout où elle entre, la personne surveillée. – Si cette personne entre dans une maison, l’agent l’attend à la porte ou chez le concierge – si elle dîne au restaurant, l’agent dîne à une autre table – si elle entre au théâtre, l’agent l’y suit, sait avec qui elle parle, sort et rentre chez elle. – Si elle va au bois en calèche, en vittoria, l’agent l’y suit comme il peut, même à cheval si la personne y monte ; – en un mot, cet agent est comme un second vous-même, comme votre propre ombre qui, le jour ou la nuit, ne vous quitte d’un œil, ni d’une semelle. </p>
+          <p> L’offre de la circulaire était tentante – elle devait bien se payer un peu cher, mais Vera était riche et puis, quand femme veut savoir quelque chose, quand femme présumée trahie veut savoir, même son malheur ; rien ne lui coûte. </p>
+          <p> Arrangement fut donc pris, et un agent secret fut engagé à grand prix, pour suivre jour et nuit le délinquant et rendre compte enfin de sa désertion. </p>
+        </div>
+        <div title="IV" type="chapter">
+          <head> IV </head>
+          <p> Les premiers jours, le jeune galant suivi ne donna point lieu à de grandes découvertes ; le cercle, et quelques courses insignifiantes paraissaient employer sa journée. </p>
+          <p> Le soir, il ressortait bien, mais si caché qu’à peine pouvait-on le suivre. </p>
+          <p> – Un soir cependant, l’agent le vit entrer dans un petit théâtre – Il l’y suivit – là, le galant se fit ouvrir une loge ; puis, avant la fin de la pièce, il sortit : sa piste fut perdue. </p>
+          <p> Cependant il fallait en finir et un soir qu’il entrait chez Brébant avec une grande femme voilée, l’agent le dépista et sûr de sa capture, au lieu ( d’aller à son tour dîner, il demeura à la porte du n o 12, jusqu’à ce qu’on en sortît. </p>
+          <p> Minuit sonnait lorsque le couple sortait, remontait en un fiacre qui l’attendait, n o 3,842, et se faisait reconduire, où ? </p>
+          <p> L’agent sauta dans un autre fiacre et suivit – c’était dans un fort joli petit hôtel donnant sur le parc Monceau qu’on s’était arrêté. </p>
+          <p> Le lendemain, l’agent y retourna, demanda, questionna, et enfin, avec quelques louis, il apprit que l’hôtel était habité par la comtesse Farini, et que le monsieur du dîner chez Brébant, le monsieur rentré la veille à minuit avec la comtesse, le surveillé, l’infidèle, venait l’y voir tous les jours, ordinairement de trois à quatre heures. </p>
+          <p> Le flagrant délit était clair. </p>
+          <p> Rapport fait à Vera, celle-ci allait enfin connaître le grand secret, le secret de son malheur ! – C’est chose étrange, comme lorsqu’on soupçonne quelque malheur, au lieu de le fuir, on s’y précipite : – mais c’est la loi de nature – on veut savoir et avec la prescience même d’une catastrophe, on saura. </p>
+          <p> Le lendemain donc Vera faisait demander au baron, mon maître, son coupé pour une course urgente, elle devait le lui renvoyer aussitôt après. </p>
+        </div>
+        <div title="V" type="chapter">
+          <head> V </head>
+          <p> A l’heure indiquée, trois heures, Vera s’habilla, émue, nerveuse, d’un mauvais regard, puis elle cacha quelque chose dans son manchon ; puis, comme décidée à on ne sait quoi, elle monta dans le coupé et dit au cocher : « – Parc Monceau, tel numéro. » </p>
+          <p> Arrivée, elle demanda la comtesse Farini – monta et se fit annoncer sous un faux nom, celui de Mme Jordan. </p>
+          <p> Elle entra. </p>
+          <p> Dans le fond d’un boudoir à peine éclairé, était une femme assise, elle lisait. </p>
+          <p> Au moment où Vera entra, la personne se leva et alla au-devant d’elle : </p>
+          <p> « Maria ! s’écria Vera en la fixant. </p>
+          <p> Madame ! » fit la fausse comtesse en baissant les yeux. </p>
+          <p> On devine ce terrible drame de jalousie, c’est Maria qui l’a raconté. </p>
+          <p> « C’est donc vous, Maria, s’écria Vera, en s’avançant sur elle, les yeux en feu, vous, ma femme de chambre qui m’avez ainsi volé celui que j’aime ; – vous qui, depuis trop longtemps, sous un faux nom, me trompiez ! </p>
+          <p> « Vous n’avez pas à nier ! – Tenez, sous ce rideau, quel est ce portrait ? Celui de mon amant, – A votre doigt, quelle est cette bague ? la mienne propre ! – Vous n’êtes qu’une infâme, – vous ne méritez que la mort, – et affolée, aveuglée de rage et de vengeance, Vera, tirant alors de son manchon un revolver, ajusta sa rivale et fit feu ! </p>
+          <p> Le coup manqua, la chambre se remplit de fumée, Maria appela ; – mais déjà Vera s’était précipitée dans l’escalier. – Là, elle se heurta contre quelqu’un qui montait : Lui ! – Ressortant alors son revolver de son manchon et l’appuyant, à bout portant, sur le crâne de l’infidèle : « Tiens, » lui dit-elle, en faisant feu : Vera ! – et il tomba mort à ses pieds. </p>
+          <p> Regagnant aussitôt le coupé, Vera s’y jeta et d’une voix de désespoir « Chez le baron, » cria-t-elle au cocher. </p>
+          <p> Le cocher avait alors précipitamment ramené Vera chez le baron et il raconte qu’entré dans la cour, et ne voyant descendre personne, il avait ouvert la portière. – Grand Dieu ! au lieu de la belle Vera, il n’avait trouvé.... qu’un cadavre ! </p>
+          <p> La jalouse, la pauvre Vera venait de s’empoisonner ! – Le chaton de la bague où se trouvait le poison était encore ouvert, à son doigt déjà froid. </p>
+          <p> C’est ainsi que finit dans ce coupé, cette lamentable histoire d’une jalouse ; trompée par celui qu’elle aimait, trahie par celle qui jadis avait été sa perfide camériste. </p>
+          <p> On a compris alors pourquoi, après une telle aventure, le coupé du baron inspire une sorte d’effroi. </p>
+          <p> Certains ne l’appellent plus que : le Coupé de la suicidée. </p>
+        </div>
+      </div>
+      <div title="POUR VOUS EMBRASSER COMBIEN ?" type="chapter">
+        <head> POUR VOUS EMBRASSER COMBIEN ? </head>
+        <p> Une ravissante comtesse, elle est Napolitaine, vendait pour les pauvres – c’était en plein air – aux doux rayons d’un soleil de printemps, à Nice. – Tout à coup, le tonnerre gronde, la pluie ! – Déroute – tout le monde fuit. – On lui offre le coupé pour la ramener, elle accepte et s’y jette en riant. – Pas une goutte d’eau n’avait mouillé la jolie fleur. </p>
+        <p> Ils étaient tous deux assis l’un près de l’autre, dans ce petit réduit capitonné, les stores à demi baissés, lorsque le diable et la charité aidant : </p>
+        <p> « Comtesse, lui dit-il, pour vous embrasser, combien ? </p>
+        <p> « Pour les pauvres, fit-elle, c’est cent francs ! » </p>
+        <p> Tirant alors de son carnet un billet de mille francs, il le lui donna et lui baisa.... la main ! </p>
+        <p> « Et pour les amoureux, combien ? « Vous êtes un impertinent ! » fit-elle. On était arrivé. </p>
+        <p> Elle n’était pas trop fâchée, car en quittant l’impertinent, elle lui disait avec un sourire, et quel sourire ! </p>
+        <p> Merci, pour les pauvres ! (textuel.) </p>
+      </div>
+      <div title="JAMBE DE BOIS" type="chapter">
+        <head> JAMBE DE BOIS </head>
+        <div title="I" type="chapter">
+          <head> I </head>
+          <p> Le cocher qui conduit le coupé du baron, lorsqu’il est à Paris, Alfred a une jambe de bois ; d’où ce surnom qui est devenu son nom propre, le nom sous lequel il est connu, appelé partout, dans toutes les files des courses, des matinées, des soirées, des concerts, des bals. </p>
+          <p> Alfred, qui est un jeune et joli garçon, avait bel et bien ses deux jambes comme tout le monde, lorsqu’il en perdit une, la droite, non pas à Magenta ou à Solferino, mais à un assaut, à une embuscade d’une tout autre nature. </p>
+          <p> Pour dire l’amoureuse et fatale histoire de cette pauvre jambe, il faut d’abord aller à Pétersbourg, y assister à un bal de la cour, – passer par Londres, – revenir à Paris et, à la sortie d’un bal, ramener chez elle une jolie femme, dans le fameux coupé. </p>
+        </div>
+        <div title="II" type="chapter">
+          <head> II </head>
+          <p> Dans l’hiver de 1878, l’empereur Alexandre donnait un grand bal au – palais d’hiver de Pétersbourg. </p>
+          <p> Les chroniqueurs du lieu racontent à ce sujet, sous le voile du mystère, la petite anecdote qui ouvre d’une si singulière façon l’histoire de la jambe de bois. </p>
+          <p> Tous ceux et celles qui connaissent la cour de Russie savent ce qu’est en ces jours, en ces nuits de gala, le palais d’hiver : </p>
+          <p> Une merveilleuse suite de salles, de salons dorés, ornés des marbres les plus précieux, ciselés d’or, émaillés des peintures les plus rares, vivants de toutes les statues dont la mythologie a fait des déesses ; – tous ces salons éclairés de mille feux, rayonnants de toutes les beautés, de toutes les élégances, de tous les uniformes des jeunes et galants officiers. – C’est là, qu’au son de merveilleux orchestres, l’empereur reçoit ses invités et partage les plaisirs qu’il offre, avec une magnificence qui n’a d’égale que sa courtoisie. </p>
+          <p> Dans ces bals, tout le monde ne danse pas ensemble. – Il y a les quadrilles de la famille impériale et les quadrilles réservés aux grandes-duchesses, dans lesquels ne fi gurent que les personnes d’un certain rang, invitées expressément. </p>
+          <p> Or, ce jour-là, raconte le chroniqueur russe, un jeune officier de la garde, donnant le bras à une fort jolie femme, s’était mêlé, sans trop le savoir, au quadrille d’honneur. </p>
+          <p> Sur certaines représentations qui lui en avaient été faites, l’empereur en avait témoigné son étonnement à son jeune officier, l’engageant à être à l’avenir plus réservé dans ses quadrilles et dans le choix de ses danseuses. </p>
+          <p> Le jeune officier, qui était un homme d’esprit, avait sa revanche toute prête et quelques jours après, dans un autre bal, il ne choisissait pour sa danseuse, rien moins que celle qui passait pour être la Mademoiselle de La Vallière du nouveau Louis XIV. – C’était une adroite repartie et cette fois, son choix était loin de trouver les objections faites à l’occasion de la première danseuse. </p>
+          <p> Cette personne, qui va jouer dans cette aventure le rôle principal, n’était point, en effet, dit-on, sans quelque reproche. </p>
+          <p> Mme Olga K....... n’était ni princesse. ni comtesse, elle avait mieux, elle avait la beauté, une irrésistible beauté ! </p>
+          <p> De taille ordinaire, Mme Olga avait dans l’expression de son air, de son visage, de sa démarche tout un charme, – un de ces charmes qui sourient de tous les côtés. </p>
+          <p> Ses yeux bleus et tendres parlaient discrètement, sa bouche laissait apercevoir les plus petites et les plus blanches dents du monde, son teint était mat et transparent. </p>
+          <p> Son corps était un marbre vivant et animé – sous ce marbre, le sang coulait gaiement dans de petites veines bleues – ses bras, ses mains, ses pieds étaient ceux d’une fine nature – sa taille était fine, souple, cambrée, elle marchait, dansait, valsait comme personne, – elle était enfin, entre toutes, la plus belle, la plus jolie, la plus entourée, mais aussi la plus jalousée. </p>
+          <p> Cette sorte de jalousie avait bien, d’après la chronique ou l’envie, quelques motifs. </p>
+          <p> Mariée à quelqu’un dont elle faisait peu de cas, elle avait eu, dit-on, un passé assez orageux, assez orageux même pour que ses rivales trouvassent étrange qu’elle fût reçue à la cour ; cependant elle y était admise, – mais après ce qui était arrivé au quadrille d’honneur, elle avait senti l’espèce d’injure qui lui avait été faite et elle avait quitté la Russie. </p>
+          <p> A la cour de la reine Victoria, elle avait bien eu aussi quelques petits désagréments, enfin elle était arrivée à Paris. </p>
+        </div>
+        <div title="III" type="chapter">
+          <head> III </head>
+          <p> A Paris, dans ce pays de la liberté, ce pays dans lequel tout le monde, et une jolie femme surtout, trouvent toujours leur place ; Mme Olga avait été bientôt l’objet de toutes les admirations et de toutes les convoitises. </p>
+          <p> Dans tous les bals, toutes les soirées, sa beauté était comme une fleur autour de laquelle tous les papillons vieux ou jeunes venaient à l’envi voltiger et déposer leurs hommages. </p>
+          <p> Toutefois, il faut dire qu’à son départ de Pétersbourg, un jeune et noble Russe l’avait suivie et était arrivé à Paris avec elle. – Loin de Pétersbourg, il se croyait seul, il se trompait. </p>
+          <p> A Paris, il en était un autre, le vicomte de Simors, grand, beau et spirituel jeune homme qui, dès le jour où il avait vu la belle Russe, en était devenu, lui aussi, fou d’amour. </p>
+          <p> Les deux rivaux se rencontraient donc souvent, plus souvent certainement qu’ils ne l’eussent voulu, tantôt chez elle, tantôt au bal, aux soirées, partout enfin où elle allait. </p>
+          <p> On a déjà deviné de quelles jalousies, de quelles haines, de quelles secrètes vengeances étaient animés, l’un contre l’autre, les deux rivaux. – Ils se cherchaient, s’épiaient, se surveillaient, ne sachant lequel était ou serait l’heureux – croyant tout, espérant tout, doutant de tout – amoureux enfin, jaloux et décidés à tout tenter contre le rival, contre le vainqueur ! que n’inspire pas la jalousie ? – Le crime même ! </p>
+          <p> Un soir donc, c’était en mai 1879, il y avait un grand bal au ministère des affaires étrangères, le baron, mon maître y était, et le coupé était rangé à la file du quai d’Orsay. </p>
+          <p> Ce soir-là, Mme Olga était au bal, elle était plus ravissante que jamais. </p>
+          <p> Nul des deux rivaux, des deux amoureux ne s’y trouvait. </p>
+          <p> Vers trois heures du matin, Mme Olga se trouva fatiguée, elle n’avait demandé sa voiture qu’à cinq heures, elle pria le baron de vouloir bien la ramener. </p>
+          <p> Le baron, on le pense bien, avait accepté avec bonheur. </p>
+        </div>
+        <div title="IV" type="chapter">
+          <head> IV </head>
+          <p> Le coupé demandé, Mme Olga y monta avec le baron, et on se mit en route pour la place Vendôme où logeait la belle Russe. </p>
+          <p> A ce moment de monter en voiture, le baron avait remarqué qu’une autre voiture suivait de près la sienne et que même lancée au grand trot, elle l’avait dépassée. </p>
+          <p> Il n’y fit pas plus d’attention. Au bout de quelques moments, on arrivait place Vendôme, et là, le baron, descendu de son coupé, offrait la main à la belle, lorsque soudain un coup de feu avait éclaté. </p>
+          <p> A quelques pas, embusqué dans une porte, était un jeune homme, le jaloux, le jeune Russe qui, prenant le baron pour M. de Simors, son rival, avait tiré sur lui ce premier coup de pistolet. – La balle avait passé sur la tête du baron et s’était perdue ; lorsqu’un second coup, tiré d’une main plus sûre, avait également passé sur la tête du baron, mais avait été frapper la jambe droite du pauvre cocher et la lui avait brisée. </p>
+          <p> On lui fit l’amputation et on la remplaça par une jambe de bois. </p>
+          <p> Voyez la fatalité : voici un jeune cocher qui, parce qu’il a pour maître un homme galant et un galant homme, reçoit la balle qui n’était destinée ni à son maître, ni à lui, et qui reste toute sa vie avec le triste souvenir de cette fatale erreur : une jambe de bois. </p>
+          <p> Le nom lui en est resté. </p>
+        </div>
+      </div>
+      <div title="PAS LA MORT !" type="chapter">
+        <head> PAS LA MORT ! </head>
+        <p> Il y avait matinée, matinée élégante chez la marquise A. – C’était à Nice, en pleine floraison, en plein printemps – tout souriait, les personnes, les choses, le ciel, le flot, l’amour aussi. Dans cette matinée, les jolies avaient décidé de décorer d’un ruban ceux avec qui elles devaient, le soir, danser le cotillon, au bal de la duchesse de Pomar. </p>
+        <p> A chacun, à genoux devant sa belle, la distribution des rubans se fit, lorsque l’un d’eux, un Français, un galant, réclama l’accolade, l’accolade qui se donne ordinairement à celui qu’on décore ; – c’est l’usage et la consécration du ruban. </p>
+        <p> De là, grande émotion parmi les dames et l’engagement de donner la réponse, le soir, à la première valse. Celle qui avait donné le ruban vert à mon maître n’annonçait pas devoir être une des plus sévères. – Pour essayer de l’attendrir, de la mieux disposer à l’accomplissement du devoir, le coupé vola alors chez la fleuriste ; on l’emplit de roses et de camélias et on les porta immédiatement chez la belle avec ces mots : </p>
+        <l xml:lang="fr"> A vos pieds prosterné, </l>
+        <l xml:lang="fr"> Le nouveau décoré </l>
+        <p> Attend son sort, </p>
+        <l xml:lang="fr"> L’accolade ou la mort ! </l>
+        <p> Le soir, à la première valse, et comme le décoré lui demandait la réponse, en enlaçant de ses bras une délicieuse taille, la belle lui dit à l’oreille : </p>
+        <p> Pas la mort ! </p>
+      </div>
+      <div title="MADEMOISELLE ISABELLE" type="chapter">
+        <head> MADEMOISELLE ISABELLE </head>
+        <div title="I" type="chapter">
+          <head> I </head>
+          <div type="dedication">
+            <epigraph xml:lang="fr"> /« A lutter sans péril, on triomphe sans gloire. »/ </epigraph>
+          </div>
+          <p> La lutte est partout, dans les personnes, dans les choses, dans les sentiments, dans les passions ; – dans les passions nobles surtout, dans la plus noble de toutes : dans l’amour. </p>
+          <p> L’amour sans lutte, celui qui vient se dénouer paisiblement, naturellement, n’est point l’amour. </p>
+          <p> Au véritable amour, il faut les orages, les larmes, les désespoirs, – il faut, comme au combattant les bruits de la guerre, les hardiesses de l’attaque, les honneurs de la défense, – il faut l’image de la victoire toujours présente, toujours espérée ! – on a été battu hier, ce matin : – ce soir, on sera victorieux. </p>
+          <p> Du rang, de la famille, de la situation, de la différence des croyances religieuses, l’amour se rit et les brave. – Tous les tragiques, tous les romanciers, tous les dramaturges ont mis sur la scène, dans leurs écrits, ce sentiment combattu – celui qui, toujours vainqueur, est resté, reste et restera toujours immortel ! </p>
+          <p> Sur ce thème de la lutte entre l’amour et la foi, tous les grands maîtres ont trouvé leurs plus dramatiques accents. </p>
+          <p> Ainsi, ils ont évoqué, vivifié ce grand sentiment qui l’emporte sur tous autres, – cette passion qui brise toutes les barrières, sort victorieuse des plus intimes épreuves, et vient confondre dans le même amour deux cœurs et deux consciences tout à l’heure séparés. </p>
+          <p> Ainsi de l’amour ! </p>
+          <p> Ce n’est que lorsqu’on a ainsi combattu, espéré, desespéré, souffert, pleuré, sacrifié, qu’on est digne de celle qu’on aime, et qu’on peut se présenter fièrement à ses amis et à ses ennemis. </p>
+          <p> Là est la magie et l’honneur de la victoire. </p>
+          <p> Celui dont le coupé du baron veut raconter ici le combat et la victoire fut un de ces heureux, il combattit, il souffrit, il espéra, il désespéra, il aima, – son sacrifice fut son triomphe ! </p>
+        </div>
+        <div title="II" type="chapter">
+          <head> II </head>
+          <p> Mon maître et moi, nous passons habituellement nos hivers à Nice ; tout nous y attire. </p>
+          <p> Ailleurs, à Paris surtout, l’hiver est chose affreuse – la pluie éternelle, les froids noirs, les neiges, les glaces, toutes les inclémences viennent vous y assiéger à l’envi – le feu, l’éternel coin du feu vous enchaîne devant ces éphémères chaleurs, la nuit est de bonne heure, la lampe brûle plus des deux tiers du jour ; – nulle possibilité d’aller, de venir, – enfin, privation à nulle autre semblable, rien du soleil, du divin soleil que les anciens adoraient comme le dieu qui réchauffe, colore et vivifie tout. </p>
+          <p> A Nice, point d’hiver. – Là, dès l’aurore, un soleil radieux a réchauffé la nature entière – tout ce qui a vie sur la terre s’est éveillé, caressé par ces rayons divins – les arbres, les fleurs, les herbes, les insectes, les oiseaux, tout chante à la fois. – La mer elle-même, qui n’a ni verdure ni fleurs, a dans ses flots miroités toutes les nuances et toutes les couleurs printanières ; – l’œil pénètre jusques au fond de ses plus secrètes transparences, partout les joyeux poissons sautent en se jouant, partout l’écume argentée qui caresse ses rivages a ses voix et ses harmonies ! </p>
+          <p> Le ciel, lui, est tout d’azur, et durant ces longues et claires journées, c’est comme un concert que tout ce qui est créé chante au divin auteur de toutes ces merveilles. </p>
+          <p> La nuit, les nuits sont radieuses, une myriade d’étoiles les illuminent et scintillent. </p>
+          <p> C’est ainsi que dans cette adorable contrée, l’esprit et le cœur semblent sans cesse ouverts à tout ce qui charme, qui sourit, – à toutes les tendres, nobles et pures et saintes émotions. – Là, il semble qu’on ne soit venu que pour prendre de la vie toutes les douces joies, laissant aux pays des noirs frimas les noires pensées et les noires douleurs ! </p>
+          <p> Tel l’hiver à Nice. Ce délicieux climat explique ainsi pourquoi tous ceux et celles qui ont souci de cet incomparable bien-être viennent, – hirondelles fidèles, – y faire leur nid sur quelque branche dorée de cette forêt enchantée. </p>
+          <p> C’est là, que mon maître et moi, nous nous étions liés d’une douce intimité avec la famille étrangère qui va devenir ce roman lui-même. </p>
+        </div>
+        <div title="III" type="chapter">
+          <head> III </head>
+          <p> Mme Romero del Puente est Cubaine, elle habitait la Havane, lorsque certains événements l’obligèrent à quitter la colonie. </p>
+          <p> Le climat qui, par sa douceur, paraissait ressembler le plus à celui de la Havane était celui de Nice – c’est là qu’elle s’était fixée depuis plus de quatre ans. </p>
+          <p> Mme del Puente avait avec elle sa fille, Mlle Isabelle ; – une enfant quand elle était arrivée, elle était devenue une grande personne – elle avait vingt ans. </p>
+          <p> Ml le Isabelle, l’héroïne de ce roman, était une grande jeune fille aux traits accusés, comme tous les enfants du pays du soleil. – Brune, de grands yeux noirs et langoureux, – des cheveux jusqu’à ses pieds, – une bouche qui aurait partagé une cerise en deux – des dents perlées, un air de reine – la taille souple, de petites mains, de plus petits pieds : – un type. </p>
+          <p> Le caractère, l’air, les manières, la voix : ceux d’une personne sûre d’elle-même ; avec ses idées, ses volontés, mais aussi ses tendresses et surtout ses préférences, et peut-être aussi une certaine prescience du sentiment qu’elle ne devait, qu’elle ne voulait partager tout entier, sans mélange, qu’avec celui qu’elle aimerait, – qu’elle aimerait assez pour l’épouser. </p>
+          <p> Telle Mlle Isabelle. Durant deux ou trois ans, un jeune homme, fort bien d’ailleurs, riche, spirituel, de bonnes et élégantes manières, avait rencontré Mlle Isabelle. </p>
+          <p> La première fois, c’était à Trouville, pendant la saison des bains. – Comme danseur et fort beau danseur il lui avait été présenté et avait dansé avec elle plus peut-être qu’il ne l’eût dû. </p>
+          <p> L’année suivante, on s’était retrouvé à la saison de Biarritz – on avait fait de même et cette fois, mieux encore, on était devenu le danseur choisi et préféré de tous les cotillons – le cotillon est chose plus dangereuse qu’on ne pense, il dure longtemps, des heures ; – la connaissance s’y fait, s’y noue plus étroitement – la fantaisie ou le caprice y naissent, – quelquefois l’amour suit. </p>
+          <p> Ici, c’était l’amour qui avait commencé chez le jeune homme et qui suivait. </p>
+          <p> Peut-être, existait-il des deux côtés ? M. Élias Worms était de Francfort-il appartenait à l’une des familles les plus considérables et les mieux posées de cette ville – il avait une trentaine d’années – nous avons dit ses avantages extérieurs, nous devons ajouter qu’il était d’un caractère doux, égal, fort tendre, fort amoureux ; – mais aussi, que sur certaines choses, sur certains sujets, il avait, comme Mlle Isabelle, ses idées arrêtées. </p>
+          <p> En présence : – deux caractères, deux volontés peut-être différentes – l’Amour au milieu ! – Qui triomphera ? </p>
+        </div>
+        <div title="IV" type="chapter">
+          <head> IV </head>
+          <p> C’était donc la troisième année de ce roman déjà ébauché, qui s’ouvrait, lorsque M. Élias arrivait à Nice, pour y passer l’hiver, disait-il ; mais mieux, pour y retrouver celle qui déjà avait fait dans son cœur sa première blessure, blessure charmante, pour laquelle il n’est qu’un remède. </p>
+          <p> L’hiver commença avec ses joies habituelles, bals, concerts, spectacles, joies auxquelles Mme del Puente et la belle Isabelle prirent toute leur part. </p>
+          <p> Élias, de son côté, n’en manqua pas une – celle qu’il aimait y était, il la rencontrait chaque jour, chaque soir ; les valses et les cotillons suivaient, c’était un délice, un délice à moitié partagé, lorsqu’un événement désagréable, un deuil de famille vint tout à coup jeter un voile noir sur les beaux yeux d’Isabelle. </p>
+          <p> Dès lors, plus de monde, de bals, de joies, – le respect des morts et la solitude. </p>
+          <p> Élias, qui n’était point de la famille, mais qui aspirait à en être, se sentit aussi comme en deuil ; il se sépara du monde et n’eut d’autre plaisir (il faudrait dire, bonheur) que de se joindre aux tristesses de celle qu’il aimait. </p>
+          <p> Chaque matin et la plupart du temps, chaque soir, il venait tenir compagnie aux affligées ; – il entrait ainsi dans le secret adorable et intime du cœur au fond duquel il croyait avoir lu d’avance sa destinée. </p>
+          <p> Or, il arriva, qu’en même temps et au moment de ce deuil, le baron, mon maître, avait fait une chute qui devait le retenir chez lui, blessé, pendant assez longtemps. </p>
+          <p> Mon maître blessé et ses amies en deuil, le coupé leur fut offert – on aimait à faire des promenades dans la campagne, le coupé devait alors conduire ces dames là où leur dirait leur fantaisie, la disposition de leur esprit ; – aujourd’hui, sur les bords radieux de la mer, demain sous le sombre feuillage des grands pins, à travers bois, monts et vallées. </p>
+          <p> Toutefois, comme Mme del Puente était d’une santé délicate, elle laissait plus souvent sortir sa fille, accompagnée de sa femme de chambre, une Anglaise – alors, Mlle Isabelle ne manquait ni un jour, ni une heure de ces promenades qu’elle aimait tant, peut-être pour un motif qui déjà était son secret ; – le secret de son cœur. </p>
+          <p> Élias, qui savait les heures de la promenade, montait à cheval de son côté, suivi de son domestique, rejoignait le coupé, et on soupçonne ce que devaient se dire dans ces jolies rencontres les deux amoureux ; – car ils l’étaient. </p>
+          <p> Tous les bois, tous les secrets vallons des alentours furent ainsi parcourus. – Arrivés au petit chemin de la montagne, au petit sentier couvert de la forêt, on descendait, et là, deux à deux, dans l’intimité du cœur, du regard, – quelquefois du silence, de ce silence qui, en amour, dit tant de choses, – on passait des heures entières ; – on marchait, on s’arrêtait, on allait boire à une source, on allait s’asseoir sur le banc de gazon.... on s’aimait ! </p>
+          <p> Enfin, au bout de quelque temps, de quelques jours, Élias, pressé d’arriver à son bonheur, demandait à Isabelle, quand il pourrait faire officiellement sa demande à sa mère ? </p>
+          <p> – Comment cette demande devait-elle se faire ? A quelle heure ? Isabelle devait-elle être présente ou absente ? – Tous ces détails furent discutés entre les amoureux, et il fut convenu, que le lendemain, – dans sa visite habituelle du matin, – Élias seul ferait à la mère d’Isabelle la grande demande. </p>
+          <p> – Isabelle ne devait pas être présente. </p>
+          <p> Tout se passa comme il avait été convenu. </p>
+          <p> Le lendemain à deux heures, Élias trouvait Mme del Pu ente dans son petit salon – ému et cependant sûr de lui, il lui demanda la main de sa fille. </p>
+          <p> Mme del Puente, qui avait depuis longtemps deviné ce que devinent toujours les mères, ne parut point étonnée de cette démarche et, d’une voix presque souriante : « Ma fille, répondit-elle, n’épousera jamais que celui qu’elle aimera – tout donc dépend d’elle seule – faites-vous aimer et à cette condition, tout mon consentement vous est acquis. » </p>
+          <p> « Mais, répliqua timidement Élias, si nous étions presque d’accord ; alors, madame, vous ne vous y opposeriez pas ? » </p>
+          <p> « Certainement, non, répliqua la mère ! » </p>
+          <p> La partie était gagnée. A ce moment, Isabelle entrait. </p>
+          <p> Sa mère lui dit ce qui venait de se passer. Isabelle, dans le secret de cette petite comédie, sourit, tendit sa main à Élias qui la baisa, elle lui était accordée. – Toute la joie des deux amoureux rayonnait dans leurs yeux attendris – ils étaient fiancés. </p>
+          <p> Hélas ! pourquoi fallait-il que ce bonheur ne durât qu’un jour ! </p>
+        </div>
+        <div title="V" type="chapter">
+          <head> V </head>
+          <p> Le lendemain de ces fiançailles, c’était un dimanche, il était dix heures, Isabelle et sa mère se rendaient à l’église pour y entendre la messe, lorsqu’elles rencontrèrent Élias. – Élias les accompagna et lorsqu’ils furent à la porte de l’église, Isabelle lui dit : « Entrez avec nous, nous prierons ensemble ! »– A ces mots, Élias, troublé, avait baissé les yeux et avait répondu : – « Pardon, je ne puis ! » </p>
+          <p> On a toujours les pressentiments des mauvaises choses. – Isabelle, durant toute la messe, se sentit inquiète, troublée – Pourquoi Élias n’avait-il pas voulu entrer à l’église avec elle ? – Était-il un indigne, un insouciant, un mauvais ? – Toutes ces idées, tous ces doutes se croisèrent dans son pauvre cœur – Élias devait venir vers trois heures, faire sa visile habituelle, elle allait enfin savoir ce pourquoi ? – ce secret qui déjà lui avait fait tant de mal ! </p>
+          <p> A trois heures, Élias arriva. – Il trouva Isabelle seule dans le petit salon, plus grave, plus triste, plus sévère qu’elle n’avait jamais été ! </p>
+          <p> « Me direz-vous enfin, Élias, fit-elle, pourquoi vous n’avez pas voulu entrer, ce matin, à l’église avec nous ? </p>
+          <p> – Je ne le pouvais, répondit-il. </p>
+          <p> – Mais pourquoi donc, pourquoi ? </p>
+          <p> – Parce que, faut-il vous le dire, Isabelle, je ne suis point de votre religion, parce que… Je suis juif ! » </p>
+          <p> La foudre, la foudre sans éclairs, serait tombée sur la pauvre Isabelle qu’elle ne l’aurait pas frappée d’un coup plus affreux ! « Juif ! fit-elle. » </p>
+          <p> Les peuples ont leur tradition comme les familles. – Il y a quelque chose dans le sang, dans l’âme, dans le cœur qui se transmet d’âge en âge, sans qu’on sache comment ! </p>
+          <p> En Espagne, les juifs avaient été, de tout temps, l’objet de l’animadversion, plus encore du mépris public. – On ne les voyait point, on ne les voulait nulle part, ni dans les familles, ni dans les armées – c’est contre les juifs principalement que la terrible Inquisition avait déployé toutes ses fureurs – de cette caste détestée, il était resté, comme il reste encore un de ces sentiments de répulsion qui ne s’expriment point – pour une Espagnole, épouser un juif était donc une honte, une chose qui ne s’était jamais vue, une chose qui ne se pouvait ; – l’amour lui-même, l’amour le plus ardent jamais ne s’y serait abaissé ! – Il était juif ! </p>
+          <p> A ces mots qui lui donnaient la mort, Isabelle alors, les yeux en feu, la bouche contractée, s’était rapprochée d’Élias et d’une voix saccadée : </p>
+          <p> « Comment voulez-vous, Élias, que j’épouse un juif, le frère de ceux qui ont crucifié le Dieu que j’adore ! – Ma mère n’y saurait consentir et moi, jamais ! – Vous savez combien je vous aime, mais m’unir à celui qui n’a pas le même Dieu que moi, est-ce possible ? – Voyons, vous m’aimez, – votre amour (vous me l’avez dit mille fois) ne connaît point d’obstacles, – eh bien, que cet amour sache faire son sacrifice ? – Venez à nous, venez à notre Dieu, c’est un Dieu de consolation, lui seul nous donnera le bonheur ! – Faites cela pour votre amour, pour le mien ! Élias ! » </p>
+          <p> Élias, interdit, sembla hésiter, balbutia quelques mots, puis subitement et comme se reprenant, se retrouvant ! « Je ne le puis, fit-il, – que diraient mes frères ? Non, non, mon honneur et ma conscience me le défendent, je ne le puis. » </p>
+          <p> Devant l’amant, Isabelle avait échoué ! </p>
+          <p> Inspirée par cet amour que rien ne rebute, ni n’abaisse même chez une femme ; Isabelle essaya alors de s’adresser à un autre sentiment, à cette autre fibre du cœur de l’homme qui a si rarement résisté. </p>
+          <p> « Voyons, Élias, lui dit-elle, si Dieu bénit notre union, – et il la bénira ; – dans quelle religion seront élevés nos chers petits enfants, dans celle de leur mère ! – Chez les chrétiens, c’est la mère qui, sur ses genoux, leur fait faire le premier signe de croix, la mère qui leur enseigne la première prière, et vous, leur père, vous auriez un autre dieu ! Non, Élias, non venez, nous vous ouvrons les bras ! » – Puis ne se contenant plus et versant un torrent de larmes : « C’est moi qui vous le demande, moi qui vous aime, moi qui vous prie, qui vous supplie ! – au nom de notre amour, de nos chers petits enfants, cédez, cédez, – soyez chrétien ! » </p>
+          <p> A ces mots, Élias, éperdu, se troubla, hésita, ne dit ni oui ni non, et cependant résista encore ! </p>
+          <p> Alors Isabelle se leva. Ils se regardèrent d’un air presque désespéré, puis se dirent des yeux comme un éternel adieu ! </p>
+          <p> Un tendre détail cependant. – Durant ce triste entretien, une larme d’Isabelle était tombée sur la main d’Élias – Élias, en partant, avait approché de ses lèvres cette larme adorée, et l’avait baisée ! – Était-ce un présage ? </p>
+        </div>
+        <div title="VI" type="chapter">
+          <head> VI </head>
+          <p> La nuit, dit-on, porte de sages conseils – Isabelle passa cette nuit dans la douleur, mais en même temps, sa résolution était prise, une de ces résolutions qui font la vie tout entière. </p>
+          <p> Le lendemain donc, à neuf heures, Isabelle entrait chez sa mère – elle était pâle, mais droite, mais sûre, presque fière de ce qu’elle allait dire – ainsi de toutes les grandes résolutions. </p>
+          <p> « Ma mère, dit-elle, vous savez si j’aimais Élias, c’est l’époux que mon cœur avait choisi – Dieu ne permet point cette union, il n’admet au pied de ses autels que ceux qui sont ses enfants – Élias refuse d’être de ce nombre – je me retire donc de ce monde et j’épouse le Seigneur, mon maître – demain j’entre au couvent. » </p>
+          <p> On a compris la douleur de la pauvre mère, rien n’y fit. – Le lendemain, Isabelle était partie pour le couvent de la Visitation, où elle entrait comme novice. </p>
+        </div>
+        <div title="VII" type="chapter">
+          <head> VII </head>
+          <p> Un mois, un siècle se passèrent, durant lesquels toutes les douleurs, toutes les solitudes, toutes les absences de l’objet aimé, toutes les hésitations, vinrent tour à tour assiéger le cœur d’Élias. </p>
+          <p> Enfin, un matin, il se présentait chez la mère d’Isabelle et demandait à la voir. </p>
+          <p> Il était ému, et cependant presque calme – un certain rayon de contentement et d’espérance illuminait son pâle visage. </p>
+          <p> Il entra, et se jetant à ses pieds : « Aujourd’hui, madame, aujourd’hui, ma mère, lui dit-il, je suis digne d’elle… Je suis chrétien ! » </p>
+          <p> Pendant un mois, il s’était fait instruire et avait embrassé la religion de celle qu’il aimait. On juge de la joie de tous. Isabelle fut prévenue, ses larmes coulèrent, elle sortit du couvent et vint, en courant, embrasser sa mère et son Élias, désormais son fiancé et son époux ! </p>
+          <p> Le mariage eut lieu bientôt après, en grande pompe, au milieu de tous les amis, de tous les curieux de cette tendre et romanesque aventure. </p>
+          <p> C’était, des deux côtés, la lutte et la victoire de l’amour. </p>
+          <p> Souvenir touchant : – C’était le cher coupé qui avait été le premier témoin des petits secrets des deux amoureux, ce fut lui qui, le jour du mariage, – rempli de fleurs, ses chevaux et son cocher pomponnés, – conduisit à l’église : </p>
+          <p> Mademoiselle Isabelle. </p>
+        </div>
+      </div>
+      <div title="A DEUX OU TROIS TEMPS ?" type="chapter">
+        <head> A DEUX OU TROIS TEMPS ? </head>
+        <p> Nous allions au bal chez la duchesse de X… dans son joli retiro de Nice, et sous le feu discret de mes lanternes, mon maître admirait les grands yeux bleus de la petite marquise de R…, tout emmitouflée dans sa pelisse ; – un printemps dans une fourrure. </p>
+        <p> « Marquise, lui dit-il, je vous retiens la première valse. » – Un petit sourire fut la réponse. </p>
+        <p> « A combien de temps valsez-vous ? à deux temps ou à trois temps ? </p>
+        <p> – A trois temps, dit la marquise, c’est la meilleure. </p>
+        <p> – La meilleure, répliqua le baron, n’est ni à deux temps ni à trois temps – la meilleure, c’est la valse à vingt ans (vingt temps) c’est la vôtre ! </p>
+        <p> Et elle la valsa à vingt ans. </p>
+        <p> FIN </p>
+        <p> PARIS. – Impr. J. CLAYE. – A. QUANTIN et C e , rue S t -Benoit. </p>
+      </div>
+      <head/>
+    </body>
+    <back/>
+    <back/>
+  </text>
+</TEI>
