@@ -1,0 +1,2010 @@
+<?xml version='1.0' encoding='UTF8'?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> La Vérité sur Rocambole </title>
+        <author from="1829" key="" name="Ponson du Terrail, Pierre" sex="male" to="1871"/>
+        <edition n=""/>
+        <editor name="Edmond Dentu" where=""/>
+      </titleStmt>
+      <publicationStmt>
+        <date type="created" when="1867"/>
+        <date type="issued" when="1867"/>
+      </publicationStmt>
+      <editionStmt>
+        <profileDesc tag="non-canon" type="genre">
+          <textClass>
+            <keywords>
+              <term>cycles et séries</term>
+              <term>roman d'aventures</term>
+            </keywords>
+          </textClass>
+        </profileDesc>
+      </editionStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docAuthor/>
+        <docTitle>
+          <titlePart main="La Vérité sur Rocambole"/>
+          <titlePart sub=""/>
+        </docTitle>
+      </titlePage>
+    </front>
+    <body>
+      <div title="I" type="chapter">
+        <byline> Pierre Alexis Ponson du Terrail </byline>
+        <p> LA VÉRITÉ SUR ROCAMBOLE </p>
+        <p> Dernière partie du Dernier mot de Rocambole </p>
+        <p> La Petite Presse – 21 août 1866 au 8 août 1867 – 350 épisodes </p>
+        <p> E. Dentu La Vérité sur Rocambole – 1 volume 1867 </p>
+        <p> (cf  mémento bibliographique  ) </p>
+        <head> I </head>
+        <p> Mes chers lecteurs, </p>
+        <p> Ceci n’est point un roman. C’est une confidence que je vous fais et qui me procure le plaisir de causer avec vous, plaisir rare, hélas! pour un romancier. </p>
+        <p> Nous étions trois, un soir, il y a dix ou douze ans de cela, dans un cabinet du pavillon d’Armenonville, au bois de Boulogne; – c’est-à-dire mon ami Gustave Claudin, Bergerette et moi. </p>
+        <p> Vous connaissez tous le spirituel journaliste, le causeur aimable et intarissable qu’on appelle Gustave Claudin. </p>
+        <p> Quand je vous aurai dit que Bergerette avait vingt ans, des dents éblouissantes et un de ces rires de franc aloi qui vont si bien à la jeunesse, vous la connaîtrez aussi bien que nous. </p>
+        <p> Claudin, qui n’était pas alors chevalier de la Légion d’honneur, rédacteur d’un grave journal et un personnage quasi-officiel comme aujourd’hui, s’était embarqué, en lissant sa moustache noire, dans une de ces théories paradoxales dont il emportera le secret avec lui. </p>
+        <p> Bergerette roulait dans ses doigts mignons des boulettes de mie de pain et les lui jetait au nez. </p>
+        <p> Quant à moi, en dépit du feu d’artifice de Claudin et des éclats de rire de Bergerette, j’étais sombre comme le traître d’un mélodrame, au quatrième acte, veille de son châtiment. </p>
+        <p> M. Delamarre – de la maison Delamarre, Martin Didier et C e – ancien garde-du-corps, ancien régent de la Banque de France, et pour lors directeur du journal la Patrie, m’avait fait venir le matin, et m’avait dit: </p>
+        <p> – La politique est au calme absolu, la cour d’assises chôme: nous n’avons ni une petite guerre, ni un joli procès criminel à mettre sous la dent de la Patrie, et voici le renouvellement d’octobre qui approche. Faites-moi donc une de ces grandes machines qu’on met à cheval sur deux trimestres et qui retiennent l’abonné inconstant, en amusant sa femme et ses filles. </p>
+        <p> Cela pouvait se traduire ainsi: </p>
+        <p> – Confectionnez-moi, je vous prie, un petit roman de cent feuilletons; donnez-moi le titre demain, et nous commencerons dans huit jours. </p>
+        <p> Voilà pourquoi j’étais sombre. </p>
+        <p> – Mon bon ami, me dit Claudin, la chose est pourtant bien simple. Refais quelqu’un de ces romans qui ont eu un succès étourdissant, il y a une dizaine d’années. </p>
+        <p> – Tu en parles à ton aise! </p>
+        <p> – Monte-Cristo, par exemple! </p>
+        <p> – Avec Dumas pour collaborateur, alors? </p>
+        <p> – Les Mystères de Paris , si tu veux. </p>
+        <p> – Je ne sais pas un mot d’argot. </p>
+        <p> – Tu l’apprendras… </p>
+        <p> – Où et comment? </p>
+        <p> Le garçon qui nous servait, entra sur ces derniers mots. </p>
+        <p> Ce garçon a droit à une silhouette de deux lignes. </p>
+        <p> C’était un homme de cinquante ans, un peu obèse, aux cheveux crépus et blancs, à la démarche majestueuse. S’il avait eu une clef dernière le dos, on l’eût pris pour un chambellan. </p>
+        <p> Ce mot argot lui produisit un certain effet; jusque-là il nous avait servis avec d’autant plus d’empressement que nous étions à peu près seuls au pavillon, et que Bergerette, qui était bonne fille, faisait monter la carte avec une aimable complaisance. </p>
+        <p> Mais à ce mot d’argot, sa figure, épanouie jusque-là, se rembrunit. </p>
+        <p> Il nous regarda avec défiance, nous servit avec distraction, et il fallut le sonner plusieurs fois pour obtenir une assiette. </p>
+        <p> Au dessert il disparut. </p>
+        <p> À cette époque-là, une circulaire ministérielle avait défendu l’argot au théâtre. </p>
+        <p> Claudin me dit: </p>
+        <p> – C’est quelque censeur destitué qui a échangé ses ciseaux contre une serviette. </p>
+        <p> Un autre garçon nous apporta le café et nous ne pensâmes plus au premier. </p>
+        <p> Il pleuvait un peu, une de ces pluies fines, serrées, comme le mois d’octobre en apporte sous son aile brumeuse. </p>
+        <p> – Qu’allons-nous faire de notre soirée? demanda Bergerette. Je voudrais aller quelque part. </p>
+        <p> – Il pleut… </p>
+        <p> – Et les voitures? </p>
+        <p> – Tu sais que la nôtre est découverte, d’ailleurs c’est une pluie d’orage, attendons. </p>
+        <p> – Un petit lansquenet? dit Claudin. </p>
+        <p> – À trois? </p>
+        <p> – Dame! </p>
+        <p> Le bruit d’une voiture se fit entendre, et je m’approchai de la fenêtre. </p>
+        <p> C’était un joli fiacre amenant cinq personnes, et ces cinq personnes étaient des amis à nous que la pluie avait surpris dans le bois. </p>
+        <p> – Venez donc jouer au lansquenet! leur criai-je. </p>
+        <p> Mon appel fut entendu, et un quart d’heure après nous étions installés autour d’une table recouverte d’un tapis bleu. </p>
+        <p> Tout le monde a joué au lansquenet; tout le monde connaît ce jeu bizarre, fantasque et plein des écarts les plus monstrueux. </p>
+        <p> Il y a presque toujours pendant toute une taille et souvent durant une soirée entière, une carte qui sort plus souvent que les autres. </p>
+        <p> Tantôt c’est un as qui fait invariablement gagner le banquier; tantôt c’est une dame qui lui porte éternellement malheur. </p>
+        <p> Ce soir-là, il y eut une carte qui se représenta tant et si souvent que celui qui l’avait contre lui considérait son argent comme perdu, même avant que le coup fût joué. </p>
+        <p> Cette carte enguignonnée n’était autre que le valet de cœur. </p>
+        <p> Galuchet , comme on l’appelait, faisait perdre tout le monde. </p>
+        <p> À minuit, on jouait encore. </p>
+        <p> Nous demandâmes du champagne et des cigares. </p>
+        <p> Ce fut le garçon qui nous avait servis à table qui se présenta au coup de sonnette. </p>
+        <p> Il avait perdu sa physionomie défiante, et son sourire, un peu majestueux, épanouissait de nouveau ses lèvres. </p>
+        <p> La partie continuait. </p>
+        <p> La main était à Bergerette. </p>
+        <p> – Vous allez voir, dit-elle, que je ne crains pas Galuchet. </p>
+        <p> La première carte qu’elle tourna fut un valet de cœur; la seconde un autre valet de cœur. </p>
+        <p> – Un refait! s’écria-t-on. </p>
+        <p> – Un autre refait! dit-elle. </p>
+        <p> À notre grande stupéfaction, elle avait amené deux autres valets de cœur. </p>
+        <p> Personne n’osait plus tenir. </p>
+        <p> – C’est de l’argent sûr, cependant, dit la pécheresse en souriant, il n’y a plus de valets de cœur. </p>
+        <p> On tint le coup. </p>
+        <p> Un troisième refait de valets de cœur arriva. </p>
+        <p> En ce moment le garçon à cheveux blancs franchissait le seuil du petit salon, portant un immense plateau de verres et de bouteilles. </p>
+        <p> – Les valets de cœur ont une chance d’enfer! s’écria Claudin. </p>
+        <p> Soudain le garçon jeta un cri et le plateau tomba bruyamment sur le parquet. </p>
+        <p> Et le garçon épouvanté prit la fuite en murmurant: </p>
+        <p> – Les valets de cœur! les valets de cœur! toujours les valets de cœur!… </p>
+        <p> Le bruit des verres cassés avait fait monter la maîtresse de l’établissement et le maître d’hôtel, que le garçon à cheveux blancs avait failli renverser dans l’escalier, tant sa fuite était précipitée. </p>
+        <p> – Je vous avais pourtant bien recommandé, dit la belle madame Leblond à son maître d’hôtel, de renvoyer cet homme: vous savez qu’il est fou! </p>
+      </div>
+      <div title="II" type="chapter">
+        <head> II </head>
+        <p> Cet esclandre amena, comme on le pense bien, explications sur explications. </p>
+        <p> Le maître d’hôtel et les autres garçons de l’établissement eurent chacun leur petite version. </p>
+        <p> Le maître d’hôtel nous dit: </p>
+        <p> – Cet homme est venu ici, il y a huit jours, demander de l’ouvrage. </p>
+        <p> « Il avait de bonnes façons, nous l’avons pris, et pendant les deux premiers jours, il a très-bien fait son service. </p>
+        <p> « Le soir du second jour, il nous a demandé la permission d’aller à Paris. </p>
+        <p> « Il devait revenir par le dernier train du chemin de fer. </p>
+        <p> « À minuit, on ferme les grilles du Bois, et comme il n’était point rentré, nous avons pensé qu’il avait couché à Paris. </p>
+        <p> « Mais le lendemain, à quatre heures, comme on attelait la jument au cabriolet dans lequel je vais à la halle, nous l’avons vu sortir de ce massif d’arbres qui est là en tirant sur le Jardin d’acclimatation: ses habits étaient en désordre, il était pâle, défait, et on voyait à la boue de ses chaussures qu’il avait erré toute la nuit. </p>
+        <p> « – Que faites-vous donc, lui dis-je, d’où venez-vous? pourquoi n’êtes-vous pas rentré? </p>
+        <p> « Il me regarda d’un air égaré: </p>
+        <p> « – J’ai eu peur, me dit-il. </p>
+        <p> « – Peur de quoi? </p>
+        <p> « – Je suis sûr qu’ils sont sur mes traces. </p>
+        <p> « – Qui? </p>
+        <p> « – Mes ennemis. C’est pour cela que je ne suis pas rentré. Je pensais que peut-être ils m’attendaient dans les environs. </p>
+        <p> « – Vous avez donc des ennemis? </p>
+        <p> « Ses dents claquèrent, à cette question: </p>
+        <p> « – Dieu vous garde des valets de cœur! me dit-il. </p>
+        <p> « Et il alla se réfugier dans l’office. </p>
+        <p> « De ce moment, j’ai bien vu qu’il était toqué. Mais nous sommes en automne, il vient moins de monde, et nos garçons nous quittent facilement. Ce qui fait, ajouta le maître d’hôtel que je n’ai pas renvoyé celui-là. </p>
+        <p> – Tiens, me dit Claudin à l’oreille, tu cherches des sujets de roman. En voilà un… </p>
+        <p> – Plaît-il? </p>
+        <p> – Et un joli titre: les Valets de cœur. </p>
+        <p> Je ne répondis pas, occupé que j’étais à écouter la version du sommelier. </p>
+        <p> Celui-ci disait: </p>
+        <p> – Aventure couche en haut, tout à côté de moi. Il n’y a qu’une cloison assez mince qui sépare la mansarde qu’on lui a donnée, de celle où nous logions le chef et moi. </p>
+        <p> « Dès la première nuit qu’il a couché ici, nous l’avons entendu tourner, retourner, se relever, se recoucher, gémir, parler tout haut. </p>
+        <p> « Le chef est allé frapper à sa porte: </p>
+        <p> « – Est-ce que vous êtes malade, Aventure? lui a-t-il dit. </p>
+        <p> « – Non, nous a-t-il répondu à travers la porte. Excusez-moi, je rêvais. </p>
+        <p> « La nuit suivante, il a recommencé son vacarme. </p>
+        <p> Ça nous a intrigués et nous avons percé un petit trou dans la cloison, puis nous sommes montés les premiers pour le voir se coucher. </p>
+        <p> « Il a commencé par verrouiller sa porte et donner deux tours de clef; alors il a posé un revolver et un pistolet sur la chaise qui lui sert de table de nuit. </p>
+        <p> « D’abord il s’est endormi. </p>
+        <p> « Mais tout à coup il s’est éveillé en sursaut et s’est mis à pousser des cris: </p>
+        <p> « – Grâce! disait-il, grâce! ne me tuez pas… je ne dirai rien… je ne suis qu’un pauvre domestique… je n’ai pas d’argent… je ne sais pas où M. le duc serre ses valeurs… si je le savais, je vous le dirais… mais je ne le sais pas… grâce! grâce! Rocambole! </p>
+        <p> – Oh! le bon nom! s’écria Claudin. </p>
+        <p> – Un nom excellent, en effet, pensai-je, et que je retiens dès aujourd’hui. </p>
+        <p> – Mais qu’était-ce donc que ce Rocambole? demanda Bergerette qui s’amusait à ce récit comme à la première scène d’un mélodrame. </p>
+        <p> – Je ne sais pas, répondit le sommelier. Tout ce que je puis vous dire, c’est que le lendemain, tandis que nous déjeunions, le chef lui demanda: </p>
+        <p> « – Comment va Rocambole? </p>
+        <p> « Il laissa échapper son assiette, qui tomba sur le parquet avec son couteau, et prit la fuite après nous avoir regardés de travers. </p>
+        <p> La belle madame Leblond compléta le chapitre des dépositions. </p>
+        <p> – Cet homme est entré ici, dit-elle, en nous affirmant qu’il était cocher au besoin. </p>
+        <p> « Mon cocher était malade hier, et j’avais besoin d’aller à Paris. </p>
+        <p> « J’ai fait atteler, et cet homme est monté sur le siége. </p>
+        <p> « Il conduit sagement et très-bien. J’ai fait plusieurs courses dans Paris. </p>
+        <p> « Vers trois heures, en sortant d’une maison de la rue Rossini, je lui dis: </p>
+        <p> « – Menez-moi rue de la Pépinière. » </p>
+        <p> « Jusque-là, il avait été fort calme; il est devenu tout pâle. </p>
+        <p> « – Jamais! m’a-t-il répondu. </p>
+        <p> « – Comment, jamais? </p>
+        <p> « – Vous me donneriez des millions que je ne passerais pas rue de la Pépinière. </p>
+        <p> « – Mais j’ai besoin d’y aller. </p>
+        <p> « – Ça ne me regarde pas. Je suis prêt à descendre du siége; mais je n’irai pas par là… je ne veux pas être assassiné… Vous ne savez donc pas que c’était là qu’ils se réunissaient?… </p>
+        <p> « – Qui? </p>
+        <p> « – Les Valets de cœur! </p>
+        <p> « J’étais à sa discrétion; car vous pensez bien que je ne pouvais pas me mettre moi-même sur le siége de mon coupé. </p>
+        <p> « Je suis donc revenue ici; seulement j’ai dit à Auguste de faire son compte à cet homme et de le renvoyer. </p>
+        <p> – C’est bien ce que j’ai fait, répondit le maître d’hôtel; mais il s’est jeté à mes genoux en me disant que si je le renvoyais, il ne trouverait plus où se placer; qu’il avait des ennemis mystérieux qui le poursuivaient partout. </p>
+        <p> – Mais enfin, interrompit un des joueurs, où est-il maintenant? </p>
+        <p> – Il a pris sa course vers la porte Maillot, dit un des garçons. </p>
+        <p> – Oh! dit Auguste, le maître d’hôtel, soyez tranquille, il reviendra. </p>
+        <p> – Je l’espère bien, murmurai-je. </p>
+        <p> On me regarda avec un certain étonnement. </p>
+        <p> – Hé! hé! dit Gaudin, voici le romancier qui s’éveille. </p>
+        <p> « Tu cherches un sujet, mon camarade, quærens quem devoret, hein? </p>
+        <p> « En attendant, allons nous coucher, car il est près de minuit. » </p>
+        <p> Tandis qu’on attelait mon modeste phaéton, je pris à part le maître d’hôtel: </p>
+        <p> – Mon cher Auguste, lui dis-je, voulez-vous être aimable pour moi. </p>
+        <p> – Que dois-je faire, monsieur? </p>
+        <p> – Quand cet homme reviendra, ne le bousculez pas, ne le grondez pas, n’ayez pas l’air de vous souvenir de ce qui s’est passé. </p>
+        <p> – Mais? monsieur… </p>
+        <p> – Je tiens à le revoir, et je serai ici demain matin. </p>
+        <p> En effet, le lendemain, il faisait un temps superbe, et j’arrivais à huit heures du matin au pavillon d’Armenonville pour prendre le verre de madère des cavaliers. </p>
+        <p> Mais Aventure n’était pas revenu. </p>
+        <p> Pendant trois jours je déjeunai et je dînai à Armenonville. </p>
+        <p> On ne revit pas Aventure, et il ne revint pas chercher sa malle. </p>
+        <p> Cependant M. Delamarre (de la maison Delamarre, Martin Didier et C ie ) ancien régent de la banque, ancien garde du corps, etc., me pressait pour avoir un titre. </p>
+        <p> – Eh bien! lui répondis-je un matin, annoncez: </p>
+        <p> Le club des Valets de cœur. </p>
+        <p> Le soir, l’annonce parut dans la Patrie . </p>
+        <p> Le lendemain je reçus une singulière missive par la poste. </p>
+        <p> Papier grossier, enveloppe découpée à la main, cachetée avec de la cire à ficelle, écriture inégale et sans orthographe, tel était ce message. </p>
+        <p> On me disait: </p>
+        <p> « Si vous voulez des renseignements, on vous en donnera. </p>
+        <p> « Rocambole est au pré , à viocque. Nous n’avons plus peur de lui. </p>
+        <p> « Trouvez-vous demain soir à la barrière de la Villette, au coin de la rue de Flandres chez le père Bravard, marchand de vins. </p>
+        <p> « Un homme de la bande de Timoléon. » </p>
+        <p> Cette lettre m’intrigua plus encore que la singulière aventure du pavillon d’Armenonville. </p>
+        <p> Je la montrai à Bergerette. </p>
+        <p> – Je pense bien que tu n’iras pas, me dit-elle. </p>
+        <p> – Mais si, répondis-je. La Patrie avant tout. </p>
+        <p> Et le soir, en effet, je fis mes préparatifs pour cette excursion hors Paris. </p>
+      </div>
+      <div title="III" type="chapter">
+        <head> III </head>
+        <p> J’étais au collége lors de l’apparition première des Mystères de Paris. </p>
+        <p> Ce n’était pas un succès, c’était un triomphe. </p>
+        <p> La curiosité publique n’avait peut-être jamais été surexcitée à un plus haut point, et nos jeunes imaginations étaient chauffées à blanc par le récit des malheurs de la Goualeuse et des exploits du Chourineur. </p>
+        <p> Mais ce n’est pas l’œuvre seulement qui intéressait alors; c’était l’auteur aussi. </p>
+        <p> Eugène Süe vivait en dehors , comme on dit. Homme du monde, membre fondateur du Jokey-Club, il avait eu jusque-là une réputation de dandysme tellement établie, qu’on se demandait comment ce même homme, aristocrate avant tout, avait pu creuser, étudier, fouiller des types comme ceux du Maître d’école et de la Chouette, décrire l’Île des Ravageurs et le Tapis franc de l’Ogresse. </p>
+        <p> Je ne sais pas ce qu’on disait dans le monde, mais je puis vous raconter ce qu’on disait dans notre lycée, où le journal des Débats nous arrivait clandestinement chaque jour. </p>
+        <p> Quand venait le soir, disait-on, un grand et bel homme brun, au teint un peu coloré, à la barbe soignée, à la mise élégante et distinguée, arrivait en cabriolet rue de la Pépinière 98. </p>
+        <p> Il sortait du club où il avait dîné. </p>
+        <p> Le suisse ouvrait les deux battants de la porte cochère, le superbe trotteur faisait résonner sous ses pieds le pavé de la cour et venait s’arrêter au perron. </p>
+        <p> Alors le bel homme aux favoris bruns jetait les guides à un tigre haut de trois pieds, gravissait lestement le perron, traversait une antichambre gardée par deux lions si merveilleusement empaillés qu’on les aurait crus vivants, et s’enfermait dans un cabinet de travail où de rares initiés avaient seuls le privilége de pénétrer à de certaines heures. </p>
+        <p> Pour Paris entier, Eugène Süe était chez lui et travaillait. </p>
+        <p> Cependant une demi-heure après, par la petite porte, un homme en blouse, coiffé d’une casquette, portant une barbe inculte, sortait furtivement. </p>
+        <p> Quelquefois même, disait-on, une hotte et un crochet de chiffonnier complétaient cet accoutrement. </p>
+        <p> Cet homme quittait l’aristocratique quartier du faubourg Saint-Honoré; il se dirigeait vers la petite Pologne d’abord, puis vers les barrières du nord de Paris, ou bien descendait vers la Cité, et on ne le revoyait plus jusqu’au petit jour. </p>
+        <p> Eugène Süe allait étudier ses héros pris sur le fait. </p>
+        <p> Voilà l’histoire qu’on racontait, l’histoire que tout le monde croyait alors, dont je doute fort aujourd’hui, mais à laquelle j’éprouvai le besoin de croire aveuglément, le jour où je reçus cette étrange lettre que je donnais dans le chapitre précédent. </p>
+        <p> Quand je vous aurai dit que j’avais alors vingt-quatre ans, que je venais d’employer le premier argent mignon que m’eût donné la littérature à m’acheter un cheval et un panier que je montrais quatre ou cinq heures par jour sur le boulevard, ce qui m’a fait alors une collection d’ennemis des plus variés, vous me trouverez, n’est-ce pas, beaucoup plus naïf que vaniteux, et vous me pardonnerez d’avoir osé, ce soir-là, quitter mon paletot pour m’en aller en blouse au rendez-vous qui m’était assigné? </p>
+        <p> J’avais scrupuleusement observé la mise en scène. Il ne me manquait plus pour refaire les Mystères de Paris qu’une toute petite chose, l’inimitable talent d’Eugène Süe. </p>
+        <p> Voulez-vous me dire, je vous prie, si l’on doute de quelque chose à vingt-quatre ans, surtout quand on soupe avec Gustave Claudin? </p>
+        <p> Donc, à neuf heures du soir, les mains dans mes poches, ma casquette enfoncée sur mes yeux, je fis mon entrée chez le père Bravard, le marchand de vins de la rue de Flandres, à la Villette. </p>
+        <p> Ici, j’avoue encore, à ma honte, que mon apparition ne produisit aucune sensation. </p>
+        <p> Deux auvergnats jouaient à l ’Impériale dans un coin de la salle attenante au comptoir et que deux chandelles éclairaient à grand’peine. </p>
+        <p> Le père Bravard, un gros homme réjoui, m’apporta une chope et j’attendis. </p>
+        <p> Les auvergnats ne levèrent pas même les yeux. </p>
+        <p> Un maçon soupait d’un morceau de fromage et d’un demi-litre de vin. </p>
+        <p> Il ne me regarda pas et continua son repas. </p>
+        <p> Enfin, un quart d’heure après un homme entra qui regarda à droite et à gauche, et s’en alla, ne trouvant pas, sans doute, la personne qu’il cherchait. </p>
+        <p> J’attendis encore. </p>
+        <p> Une demi-heure plus tard, le même homme revint. J’eus le temps de l’examiner. </p>
+        <p> Il était vêtu d’une redingote noire percée aux coudes, coiffé d’un chapeau déformé, chaussé de grosses bottes éculées. </p>
+        <p> Sa figure, niaise et commune, était encadrée par un collier de barbe sale. </p>
+        <p> Il me regarda avec plus d’attention; je lui fis un signe, et il s’approcha. </p>
+        <p> – Est-ce vous qui m’avez écrit? lui demandai-je. </p>
+        <p> Sa physionomie exprima une sorte d’étonnement naïf. </p>
+        <p> – Qui donc que vous êtes? me dit-il. </p>
+        <p> Je lui dis mon nom; son étonnement redoubla. </p>
+        <p> J’avais alors de petites moustaches blondes, un air juvénile et gringalet qui ne répondait nullement à ma littérature. </p>
+        <p> J’ai passé quinze ans de ma jeunesse à écrire des romans, noirs peuplés de pourfendeurs et d’aventuriers; j’ai abusé des échelles de soie, des poisons multicolores, des trappes qui s’ouvrent et engloutissent leurs victimes; et je ne suis jamais entré dans une maison où on ne me connaissait pas, sans qu’on me dît: « Ah! mon Dieu! et nous qui vous croyions brun, grand, carré des épaules, la moustache en croc et l’air farouche! » </p>
+        <p> J’avais heureusement dans ma poche la lettre qu’on m’avait écrite, et cet homme me dit naïvement: </p>
+        <p> – Je n’aurais jamais cru que c’était vous. </p>
+        <p> – C’est donc vous qui m’avez écrit? </p>
+        <p> – Oui. </p>
+        <p> – Et vous ne me connaissez pas de vue? </p>
+        <p> – Non. </p>
+        <p> – C’est donc le garçon du pavillon d’Armenonville qui vous a parlé de moi? </p>
+        <p> – Je ne sais pas ce que vous voulez dire. </p>
+        <p> – Alors, comment avez-vous eu l’idée de m’écrire? </p>
+        <p> – J’ai vu sur le journal que vous alliez parler des Valets de cœur. </p>
+        <p> – Bon! </p>
+        <p> – Et, comme j’étais de la bande à Timoléon… </p>
+        <p> – Qu’est-ce que Timoléon? </p>
+        <p> – Celui qui a arrêté Rocambole. </p>
+        <p> – Mais, qu’est-ce que Rocambole? </p>
+        <p> Il me regarda avec une sorte d’hébêtement. </p>
+        <p> – Comment! vous ne le savez pas? me dit-il. </p>
+        <p> – Non. </p>
+        <p> – Pourtant les valets de cœur et lui ça ne fait qu’un. </p>
+        <p> – C’est pour savoir tout cela que je suis venu. </p>
+        <p> Je fis apporter du vin et je me mis à questionner mon inconnu. </p>
+        <p> Certes il n’était pas muet; il était même assez loquace, et il bavarda pendant plus de deux heures, au bout desquelles je lui donnai quarante francs, dont il se montra fort satisfait. </p>
+        <p> Mais ce qu’il me raconta était si confus, si obscur, si inintelligible que je n’y compris qu’une seule chose: c’est qu’il y avait une bande de malfaiteurs dont le chef s’appelait Rocambole, de son nom de guerre; que ce Rocambole était au bagne, et qu’un homme qui faisait de la police en amateur, une sorte de Vidocq au petit pied appelé Timoléon avait contribué à son arrestation. </p>
+        <p> Je quittai donc le cabaret fort mécontent du peu de clarté du récit que m’avait fait ce brave homme et je rentrai chez moi me disant: </p>
+        <p> – Décidément, j’aurai plutôt fait d’inventer l’histoire des valets de cœur. </p>
+        <p> Cependant M. Delamarre (de la maison Martin Didier, Delamarre et C ie , ancien garde du corps, ancien régent de la banque de France, etc.) m’avait fait écrire, le jour même, par le bon Charles Schiller, le secrétaire aimé de la rédaction de la Patrie, pour me demander de la copie. </p>
+        <p> Je répondis à Schiller: </p>
+        <p> « Mon cher ami, </p>
+        <p> « Donne-moi huit jours et tu verras… » </p>
+        <p> Que verrait-il? </p>
+        <p> Je n’en savais absolument rien. Mais il y a si longtemps que j’écris au bas de mon feuilleton ces mots sacramentels: « La suite à demain » que j’étais convaincu que le demain dont je parlais aurait une suite. </p>
+      </div>
+      <div title="IV" type="chapter">
+        <head> IV </head>
+        <p> Le lendemain, en effet, il me vint une idée. </p>
+        <p> Elle était écrasante de simplicité. </p>
+        <p> – Si quelqu’un peut me raconter l’histoire de Rocambole, me dis-je, c’est Rocambole lui-même. </p>
+        <p> Or Rocambole est au bagne, et il sera ravi de voir ses aventures mises en lumière. </p>
+        <p> Les gens de cette sorte aiment le bruit et la publicité. </p>
+        <p> La pensée dominante du condamné à mort est de bien mourir sous les yeux de la foule. </p>
+        <p> Je vais donc aller voir Rocambole. </p>
+        <p> Mais où? </p>
+        <p> J’avais oublié de demander à l’homme de Timoléon dans quel bagne il était. </p>
+        <p> Or, il y a douze ans, Brest et Rochefort existaient encore. </p>
+        <p> Je ne pouvais donc pas m’exposer à perdre quinze jours pour faire le voyage de Toulon, tandis que celui que je cherchais serait peut-être à Rochefort ou à Brest. </p>
+        <p> Le plus simple était donc de m’en aller à la préfecture de police, et de m’adresser au bureau des prisons. </p>
+        <p> Il était huit heures du matin, aucun bureau n’est ouvert avant dix heures. J’avais donc le temps de faire mes préparatifs de départ. </p>
+        <p> Il était évident que je pourrais partir le soir même, que la Patrie m’obtiendrait une passe de chemin de fer et que le surlendemain je serais soit à Toulon, soit à Brest, soit à Rochefort. </p>
+        <p> Bergerette, qui se promettait d’être du voyage, fit ma petite malle, j’endossai un vêtement noir, et à dix heures précises j’étais au bureau des prisons . </p>
+        <p> De toutes les administrations, la plus courtoise est sans contredit la préfecture de police. </p>
+        <p> Je trouvai un sous-chef qui me reçut avec la plus grande politesse et se mit à ma disposition aussitôt que je lui eus expliqué le but de ma visite. </p>
+        <p> – Monsieur, me dit-il, je ne suis ici que depuis quelques mois, et je ne sais absolument rien de ce que vous me demandez. Mais je vais me renseigner et dans une demi-heure vous serez satisfait. </p>
+        <p> Il m’installa dans son cabinet, m’offrit les journaux du matin, et me laissa. </p>
+        <p> J’attendis non point une demi-heure, mais une heure. </p>
+        <p> Au bout de ce temps, le sous-chef revint. </p>
+        <p> C’était bien lui, et cependant ce n’était plus lui. </p>
+        <p> Qu’il me soit permis de m’expliquer: </p>
+        <p> Quand il avait quitté son bureau il était aimable, souriant, empressé. Peut-être était-il un de mes lecteurs habituels et, par suite, désireux de m’être agréable. </p>
+        <p> Je le vis revenir calme, froid, sévère, et il me parut vieilli de dix ans. </p>
+        <p> – Monsieur, me dit-il, avec une politesse glacée, j’ai transmis votre demande à M. le chef de bureau. </p>
+        <p> Le chef de bureau en a référé à M. le préfet de police. </p>
+        <p> M. le préfet a fait compulser les livres d’écrou et je suis chargé de vous répondre que la personne dont vous parlez ne figure sur aucun d’eux. </p>
+        <p> – Comment! m’écriai-je, il n’y a pas de forçat du nom de Rocambole? </p>
+        <p> – Monsieur, me répondit sèchement le sous-chef de bureau, au bagne on n’a pas de nom, on est inscrit sous un numéro. </p>
+        <p> Et d’un geste il me fit comprendre qu’il était inutile d’insister. </p>
+        <p> Quand je fus dans la rue, ou plutôt sur le quai, je m’accoudai sur le parapet, et comme Planchet, le valet de l’immortel d’Artagnan, je me mis à faire des ronds dans l’eau. </p>
+        <p> On a depuis ce temps-là ajouté à la langue verte une formule qui dépeint fort bien ma situation d’alors. </p>
+        <p> Je venais de remporter une veste. </p>
+        <p> Autant par profession que par goût, je suis observateur, et le changement d’attitude, de formes et de physionomie du sous-chef de bureau ne m’avait point échappé. </p>
+        <p> Le mystère, au lieu de s’éclaircir, se compliquait étrangement. </p>
+        <p> On me disait que Rocambole n’existait pas. Mais pourquoi me le disait-on avec cette politesse aiguë et tranchante qui contrastait si fort avec la manière avenante dont j��avais d’abord été reçu? </p>
+        <p> Et nouvel Œdipe, je me pris corps à corps avec cette énigme nouvelle. </p>
+        <p> Et, comme Œdipe, je finis par deviner. </p>
+        <p> L’administration ne se souciait pas qu’on fit un roman sur Rocambole. </p>
+        <p> Pourquoi? </p>
+        <p> C’était facile à comprendre. Les Valets de cœur avaient dû être une association dangereuse, travailler dans les sphères élevées de la société; et il était plus que probable qu’ils avaient été mêlés à de certains événements qu’il était inutile de rappeler. </p>
+        <p> Mais le romancier prend son bien où il le trouve. </p>
+        <p> Et puis j’étais devenu curieux comme un lecteur. </p>
+        <p> Et je remontai en voiture, me disant: </p>
+        <p> – À tout prix, je dénicherai Rocambole. </p>
+        <p> Le bon Schiller m’avait écrit la veille au soir. </p>
+        <p> Quand je rentrai de mon infructueuse excursion, je trouvai une nouvelle lettre de lui. </p>
+        <p> « Monsieur Delamarre (de la maison Delamarre, Martin Didier, etc.), me disait-il, veut « te voir tout de suite. » </p>
+        <p> Je courus chez M. Delamarre, qui m’invita à déjeuner, et me dit: </p>
+        <p> – Mon cher enfant, j’ai reçu des réclamations pour votre titre les Valets de cœur. Changez-le. </p>
+        <p> – Mais, monsieur… </p>
+        <p> – Je ne puis vous en dire plus long. Changez votre titre. </p>
+        <p> Il me sembla que la voix de M. Delamarre ressemblait en ce moment à celle du sous-chef de bureau. </p>
+        <p> Je n’insistai pas, mais bien que je n’aie pas l’honneur d’être Breton, je suis doué d’une jolie dose d’entêtement, et je rentrai chez moi avec la volonté bien arrêtée de raconter l’histoire de Rocambole si je la savais – et même si je ne la savais pas. </p>
+        <p> Le soir, Claudin et moi nous fumions tranquillement un cigare chez D…, un peintre qui vient d’être décoré, il y a huit jours, et qui alors habitait les hauteurs du quartier Saint-George. Nous étions grimpés sur la toiture de zinc de son atelier, et nous avions Paris sous nos pieds. </p>
+        <p> Paris étincelant de lumières et laissant monter jusqu’à nous sa respiration cyclopéenne. </p>
+        <p> Tout à coup je jetai mon cigare et je m’écriai: </p>
+        <p> – J’ai trouvé! </p>
+        <p> – Quoi? me dit Claudin, l’histoire de Rocambole? </p>
+        <p> – Non, mais le titre de mon roman. </p>
+        <p> – Voyons? </p>
+        <p> – Les Drames de Paris. </p>
+        <p> – Excellent. Mais Rocambole? </p>
+        <p> – J’inventerai son histoire, si je ne puis faire mieux, répondis-je. Mais j’ai le pressentiment, ajoutai-je, que cette histoire, je la saurai. </p>
+        <p> Comme on le va voir, je ne me trompais pas. </p>
+      </div>
+      <div title="V" type="chapter">
+        <head> V </head>
+        <p> Laissez-moi ouvrir une parenthèse. </p>
+        <p> L’histoire de Rocambole était destinée à la Patrie . Il est donc juste que je vous donne au trait , une physionomie de ce journal. </p>
+        <p> La Patrie habitait et habite encore rue du Croissant; ses bureaux communiquaient avec la rue des Jeûneurs . </p>
+        <p> La rue du Croissant et la rue des Jeûneurs, au milieu de ce Paris des Mille et une Nuits que nous fait depuis dix ans M. le préfet de la Seine, ont conservé leur cachet d’originalité assez laide, et j’espère bien que M. le sénateur Haussmann passera par là un de ces jours. </p>
+        <p> La rue des Jeûneurs est toute au commerce des étoffes et des draps. </p>
+        <p> La rue du Croissant toute aux journaux. </p>
+        <p> Au numéro 12, c’est la Patrie , au numéro 16, le Siècle, à gauche et à droite une foule de boutiques ouvertes chez les marchands de vins pour la vente d’une trentaine de petits et grands journaux. </p>
+        <p> Vers le milieu, à droite de la rue des Jeûneurs, il y a ce qu’un notaire appellerait un vaste immeuble. </p>
+        <p> Trois grandes cours bordées de hautes constructions, le tout loué aux plus importantes maisons de gros de Paris, et formant la propriété de M. Delamarre, le directeur d’alors du journal la Patrie . </p>
+        <p> Un tout jeune homme, un conscrit de lettres, ou un fruit sec littéraire qui avait un roman en quatre volumes sous le bras, se présentait à la Patrie par la porte de la rue du Croissant. </p>
+        <p> Il montait au premier étage, (aujourd’hui c’est au second) demandait à voir le rédacteur en chef et était reçu par Philippe. </p>
+        <p> Qu’était-ce et qu’est-ce encore que Philippe? </p>
+        <p> Un homme entre deux âges, à l’œil intelligent, au sourire aimable et un peu caustique, que l’on prenait au premier abord pour un garçon de bureau et qui était, au fond, l’homme de confiance de M. Delamarre. </p>
+        <p> Philippe toisait le nouveau venu. </p>
+        <p> Il semblait deviner ce qu’il avait dans son sac. </p>
+        <p> Il flairait un bon ou un mauvais roman. </p>
+        <p> Si, à son idée, le roman était bon, si le romancier juvénile marquait bien , Philippe lui disait d’un ton protecteur: </p>
+        <p> – M. Delamarre n’est pas visible. Mais laissez-moi votre manuscrit et revenez dans huit jours. </p>
+        <p> Cinq fois sur dix, Philippe avait eu un flair excellent. </p>
+        <p> Ce roman était lu et reçu. </p>
+        <p> Si Philippe, au contraire, avait affaire à un de ces bohèmes de brasserie qui, au lieu de travailler, passent leur vie à dénier du talent à tout homme arrivé, il lui ouvrait à deux battants la porte du cabinet du bon Schiller. </p>
+        <p> Ce bon Schiller a bien mérité ce nom que lui ont décerné tous ceux qui le connaissent. </p>
+        <p> Il a un aimable sourire, une voix sympathique; il a usé des flots d’éloquence souvent pour faire triompher une cause obscure qui lui paraissait juste. </p>
+        <p> Ce bon Schiller recevait l’auteur, gardait le manuscrit, le remettait le soir même à M. Delamarre. </p>
+        <p> M. Delamarre se bornait à cette question: </p>
+        <p> – Par où est entré l’auteur? </p>
+        <p> – Par la rue du Croissant. </p>
+        <p> – Ah! </p>
+        <p> Ce ah ! était un arrêt de mort. </p>
+        <p> M. Delamarre aimait qu’on s’adressât directement à lui. </p>
+        <p> Un an après, le manuscrit dormait encore dans les cartons de la Patrie et n’avait pas été lu. </p>
+        <p> Tout le secret de Philippe consistait en ceci: Il déposait respectueusement sur la table de nuit de M. Delamarre, qui demeurait rue des Jeûneurs, le manuscrit du jeune homme qu’il avait pris sous sa protection. </p>
+        <p> Si la vengeance est le plaisir des dieux, la reconnaissance est quelquefois le bonheur des hommes… de lettres, et je déclare ici que c’est à Philippe que je dois ma collaboration de huit années à la Patrie. </p>
+        <p> Depuis que mon premier feuilleton s’était étalé dans les colonnes du journal, j’entrais par la rue des Jeûneurs. </p>
+        <p> M. Delamarre aimait à me voir: il me faisait causer, il se plaisait à feuilleter ma jeune imagination. </p>
+        <p> Je m’en allai donc ce jour-là à dix heures frapper à la porte de son cabinet. </p>
+        <p> J’apportais mon nouveau titre: Les Drames de Paris. </p>
+        <p> – Parfait! médit M. Delamarre. Le titre est excellent. Voyons le sujet! </p>
+        <p> – Mon plan n’est pas fini, répondis-je. </p>
+        <p> – Voyons toujours! </p>
+        <p> J’étais pris au piége. Je m’exécutai. J’inventai, au pied levé, un prologue qui se passait dans la neige, au retour de la campagne de Russie, je créai des types plus ou moins originaux, je combinai des situations, je m’armai de tout mon arsenal ordinaire, le vieux manoir breton, le soldat héroïque, la femme du monde persécutée, l’ouvrière veilleuse, l’échelle de corde qu’on tend par les nuits noires, et le poison qui endort au lieu de tuer. J’empruntai aux riches, séance tenante, je fis de la mère Fipart une chouette, et Eugène Süe n’a jamais réclamé, du reste; j’ébauchai une manière de Monte-Cristo – que mon cher maître Alexandre Dumas me le pardonne! – Je crois même que mon excellent ami Paul Féval me prêta, sans s’en douter, cet enfant dont on vole si souvent l’héritage et qui le retrouve toujours, grâce à trois hommes rouges et barbus. </p>
+        <p> M. Delamarre balançait sa tête de droite à gauche. Il était ravi. </p>
+        <p> – À l’œuvre! me dit-il quand j’eus fini mon dévergondage, et envoyez-moi de la copie demain matin. </p>
+        <p> Je m’en allai par la passerelle ancienne qui reliait le cabinet du directeur à la maison de la rue du Croissant. </p>
+        <p> J’éprouvais le besoin de dire bonjour au bon Schiller. </p>
+        <p> Un de mes confrères était dans son cabinet et me serra la main froidement. </p>
+        <p> Ce confrère avait déplu à Philippe, et son roman dormait d’un sommeil paisible depuis dix-huit mois dans un grand carton vert qui portait cette étiquette: </p>
+        <p> Manuscrits à lire. </p>
+        <p> En me prenant la main, il me dit d’un ton lugubre: </p>
+        <p> – Quand finissez-vous! </p>
+        <p> Je n’avais pas encore commencé! </p>
+        <p> J’ai toujours été un peu gamin. Au lieu de prendre en pitié mon infortuné confrère, je trouvai plaisant de lui répondre: </p>
+        <p> – Je ne finirai pas. </p>
+        <p> – Comment? </p>
+        <p> – Les Drames de Paris auront pour le moins deux mille feuilletons – et il y aura une suite. </p>
+        <p> Mon pauvre confrère tomba à la renverse, et je me sauvai en riant. </p>
+        <p> En rentrant chez moi, je racontai mon aventure à Bergerette. </p>
+        <p> – Vois-tu d’ici, lui dis-je, un roman qui ne finirait jamais, ce serait drôle. </p>
+        <p> – Et c’est possible, me dit-elle, si j’en crois le monsieur qui sort d’ici et qui reviendra demain matin. </p>
+        <p> – Hein? </p>
+        <p> – Ce monsieur dit qu’il savait l’histoire de Rocambole. </p>
+        <p> Je fis un vrai saut de carpe. </p>
+        <p> Bergerette acheva: </p>
+        <p> – Et il viendra demain te la raconter! </p>
+      </div>
+      <div title="VI" type="chapter">
+        <head> VI </head>
+        <p> Je passai le reste de la journée et une partie de la soirée à mettre en ordre, la plume à la main, le plan un peu insensé que j’avais développé au pied levé, à M. Delamarre, (de la maison Delamarre, Martin Didier et C e , etc.), et j’attendis le lendemain avec une impatience sans bornes. </p>
+        <p> Quel était ce mystérieux personnage qui devait me raconter l’histoire de Rocambole? </p>
+        <p> Il n’avait laissé ni son nom, ni son adresse… </p>
+        <p> À dix heures précises, le lendemain, la porte de mon cabinet s’ouvrit et je vis entrer un homme coiffé d’un tricorne, vêtu d’un habit gris, tenant d’une main une sacoche et de l’autre un portefeuille. </p>
+        <p> C’était un garçon de la banque de France. </p>
+        <p> Je n’avais souscrit aucun billet, et l’arrivée de cet homme m’étonna beaucoup. </p>
+        <p> – Monsieur, me dit-il d’un ton de mystère, il n’y a que des gros sous dans ma sacoche et mon portefeuille est gonflé de vieux journaux; mais je suis surveillé de près et j’ai emprunté ce déguisement pour pénétrer jusqu’à vous sans éveiller l’attention. </p>
+        <p> – Comment? lui dis-je, est-ce donc vous qui êtes venu hier? </p>
+        <p> – Oui, monsieur! </p>
+        <p> Je sonnai pour défendre ma porte. </p>
+        <p> Quand mon domestique fut sorti, le prétendu garçon de banque jeta négligemment sa sacoche sur ma table de travail et s’assit sans façon en face de moi. </p>
+        <p> – Monsieur, me dit-il, je me nomme Timoléon, et je vais vous dire en deux mots qui je suis. J’ai été voleur… </p>
+        <p> Je saluai. </p>
+        <p> – Après je suis entré dans la police secrète. </p>
+        <p> Je saluai de nouveau. </p>
+        <p> – Mais l’administration s’est épurée: avec le nouveau régime, on n’a plus voulu dans les rangs de la police que des gens n’ayant jamais rien eu à démêler avec la justice. </p>
+        <p> « On m’a congédié, et on a eu tort, car je rendais de véritables services. </p>
+        <p> – Je n’en doute pas. </p>
+        <p> – C’est moi qui ai arrêté Rocambole. </p>
+        <p> Un soupir de soulagement gonfla ma poitrine. </p>
+        <p> – Il existe donc! m’écriai-je. </p>
+        <p> – Il est au bagne de Brest, mais je crois qu’il sera prochainement transféré au bagne de Toulon. </p>
+        <p> – Cependant, hier matin, au bureau des prisons… </p>
+        <p> – On vous a dit que Rocambole n’existait pas! </p>
+        <p> – Précisément. </p>
+        <p> Un sourire vint à ses lèvres. </p>
+        <p> – Cela devait être, me dit-il. </p>
+        <p> – Pourquoi? </p>
+        <p> – Parce que Rocambole a été, pendant un moment, un grand personnage. </p>
+        <p> – En vérité! </p>
+        <p> – Et l’administration ne se soucie pas qu’on mette en lumière ses ténébreuses aventures. </p>
+        <p> – Mais vous allez me dire toute la vérité, vous? </p>
+        <p> Il sourit de nouveau: </p>
+        <p> – Un instant, fit-il. Causons d’abord… </p>
+        <p> J’attendis qu’il s’expliquât. </p>
+        <p> – Monsieur, reprit-il, je vous l’ai dit, la préfecture m’a congédié. </p>
+        <p> – Bon! </p>
+        <p> – Je n’ai pas fait fortune; j’ai une fille à élever et je suis obligé, pour vivre, d’exercer quelques petites industries. </p>
+        <p> « Ainsi, par exemple, je retrouve les objets perdus ou volés, pour le compte des simples particuliers; je fais suivre les maris volages et les femmes qui trompent leurs maris. </p>
+        <p> « Je fais, comme on dit, argent de tout. </p>
+        <p> – Bon! lui dis-je, je comprends. Vous voulez me vendre vos révélations. </p>
+        <p> – Oui et non. </p>
+        <p> – Comment cela? </p>
+        <p> – J’ai des notes assez détaillées; avec ces notes, vous ferez un roman, et ce roman, j’en suis certain, aura un grand succès. Je vous vends mes notes. </p>
+        <p> Je fronçai légèrement le sourcil. Il devina ma pensée et me dit aussitôt: </p>
+        <p> – Un homme de lettres n’est ni un capitaliste, ni un propriétaire. Peut-être n’avez-vous pas cinquante louis dans votre tiroir, et vous demander de l’argent d’avance serait une folie. Voici donc ce que je vous propose. Vous me ferez quatre billets de mille francs chacun, à l’ordre de M. de Moléon. Je m’anoblis pour les besoins de ma profession. </p>
+        <p> « Ces billets seront échelonnés de trois ou six mois, causés valeur en recherches faites à la bibliothèque, et payables à la caisse du journal la Patrie. Je vous vends quatre mille francs les matériaux d’un roman en dix volumes. </p>
+        <p> « Est-ce trop cher? » </p>
+        <p> À cette époque, mes chers lecteurs, quatre mille francs étaient pour moi un joli denier; c’était au moins [mot(s) manquant(s)] de ce que je gagnais dans mon année. </p>
+        <p> J’hésitai donc à répondre. </p>
+        <p> – C’est à prendre ou à laisser, me dit Timoléon. Voyez si cela vous convient. </p>
+        <p> – Et si je ne puis rien faire de vos notes? lui dis-je enfin. </p>
+        <p> – J’ai prévu le cas. </p>
+        <p> – Ah! </p>
+        <p> – Vous ne me ferez des billets qu’après les avoir lues. Cependant, comme vous êtes un honnête homme, je vous demanderai une garantie. </p>
+        <p> – Parlez! </p>
+        <p> – Vous allez me donner votre parole d’honneur que, si mes notes ne vous conviennent pas, vous renoncerez à faire un roman sur Rocambole. </p>
+        <p> – Je vous la donne. </p>
+        <p> – C’est bien, me dit-il. </p>
+        <p> Et, se levant: </p>
+        <p> – Vous aurez mes notes ce soir. Je repasserai dans huit jours. </p>
+        <p> Et il reprit sa sacoche et son portefeuille, et s’en alla. </p>
+        <p> Trois heures après, je reçus par la poste un volumineux manuscrit, cacheté avec soin. </p>
+        <p> Je m’enfermai dans mon cabinet, défendis ma porte à tout le monde, même à Bergerette, même à mon ami Claudin, et je m’enfonçai dans la lecture du manuscrit. </p>
+        <p> C’était naïf de forme, sans orthographe aucune, mais dans une langue mélangée d’argot à chaque phrase; c’était clair et d’un prodigieux intérêt. </p>
+        <p> L’histoire des Valets de cœur, l’éducation de cet enfant de Paris qui se nommait Joseph Fipart, dit Rocambole, par ce gredin d’Andrea, s’y trouvaient tout au long. </p>
+        <p> Les vrais noms seuls ne s’y trouvaient pas. </p>
+        <p> Mon singulier collaborateur avait eu soin de m’en prévenir par une note au crayon placée en tête de la première page, et, le plus souvent, au lieu d’inventer un nom, il se servait d’initiales. </p>
+        <p> À deux heures du matin, j’avais terminé cette étrange lecture. </p>
+        <p> Par une de ces coïncidences bizarres si communes dans la vie réelle, et qui, cependant, ne devrait exister que dans la fiction, l’histoire de Rocambole avait une ressemblance étonnante avec ce plan de roman que j’avais imaginé. </p>
+        <p> Je n’ai inventé que fort peu de chose dans la première partie des drames de Paris qui à eu pour titre l’Héritage mystérieux . </p>
+        <p> Ce peu de chose le voici: </p>
+        <p> J’ai donné un frère à sir Williams, le maître de Rocambole, et j’ai inventé l’histoire de l’héritage. </p>
+        <p> J’ai trouvé la substance de tout le reste dans les notes diffuses de Timoléon. </p>
+        <p> Mais quand j’eus achevé ma lecture, une chose en ressortit claire et nette pour moi. </p>
+        <p> Timoléon avait pour Rocambole une haine vivace et terrible, et c’était certainement un acte de vengeance qu’il accomplissait en me fournissant ces documents. </p>
+        <p> Ce qui fit qu’une singulière réflexion me vint: </p>
+        <p> – Les Valets de cœur ne sont pas tous au bagne. </p>
+        <p> « Et si Rocambole s’y trouve, si Williams est mort assassiné par son élève, il y a certainement quelqu’un de leur bande qui vit tranquillement à Paris et dont la publication de mon roman troublera la sécurité. </p>
+        <p> « Je risque un joli coup de couteau d’un côté; et peut-être bien que cette femme qui, dans les notes de Timoléon, s’est appelée tour à tour la Baccarat et la comtesse Artoff, trouvera mauvais qu’on s’occupe d’elle et se plaindra nettement au préfet de police. » </p>
+        <p> Cette double réflexion persécuta mon esprit toute la journée du lendemain. </p>
+        <p> J’allai dîner chez Grosse-Tête et j’en sortis un peu tard, à neuf heures: il pleuvait et le boulevard était désert. </p>
+        <p> Cependant un homme sortit du passage de l’Opéra et se mit à me suivre. </p>
+        <p> Je demeurais alors rue de Bellefond; je gagnai donc le faubourg Montmartre. </p>
+        <p> L’homme me suivait toujours. </p>
+        <p> Je pris la rue Cadet; un pas lourd et mesuré continua à retentir derrière moi. </p>
+        <p> Comme tout le monde, j’ai eu peur à mes heures. </p>
+        <p> Un frisson me passa dans le dos, et il me sembla qu’un valet de cœur était à mes trousses. </p>
+      </div>
+      <div title="VII" type="chapter">
+        <head> VII </head>
+        <p> Il n’y a pas bien loin de la place Cadet à la rue Bellefond. </p>
+        <p> Mais la rue Rochechouart monte comme un Calvaire, et j’avais beau allonger le pas, il me semblait que je n’arriverais jamais. </p>
+        <p> L’inconnu marchait toujours derrière moi. </p>
+        <p> Cela ne dura peut-être en réalité que cinq minutes, mais pendant ces cinq minutes j’eus le temps de me raconter à moi-même une horrible histoire. </p>
+        <p> Une histoire absurde, du reste, et qui avait défrayé ma jeune imagination de collégien, au temps où le Juif Errant paraissait dans le Constitutionnel. </p>
+        <p> On avait dit alors que, rentrant un soir chez lui, M. Eugène Süe avait été arrêté par des hommes affublés d’une longue robe, le visage noirci, qui lui avaient posé un masque de poix sur le visage. </p>
+        <p> Puis on l’avait jeté dans une voiture, et pendant plusieurs heures, aveugle, à demi étouffé, il avait roulé dans Paris, sans savoir où on le conduisait. </p>
+        <p> On ne l’avait débarrassé de son masque et tiré de la voiture que pour le faire entrer dans une salle convertie en tribunal et dans laquelle siégeaient des hommes en robe rouge. </p>
+        <p> Là on l’avait condamné à mort, et le jugement disait que la sentence serait exécutée dans les trois mois, à moins que l’impie ne consentît à laisser inachevé ce roman qui attaquait si violemment certains hommes et certains principes. </p>
+        <p> Je vous ai dit que cette histoire était absurde; ce qui ne m’empêcha point d’y croire fermement et de me dire: </p>
+        <p> – Si les amis de Rodin se sont portés à cette légère extrémité envers Eugène Süe, que feront donc de moi les compagnons de Rocambole? </p>
+        <p> Au moment où je faisais cette réflexion, je tournai l’angle de la rue Bellefond et je me croyais déjà sauvé, car il y avait alors au n° 38 un poste de police. </p>
+        <p> Mais l’homme qui marchait derrière moi me posa la main sur l’épaule en ce moment, et je m’arrêtai pétrifié. </p>
+        <p> À cent pas, je voyais la lanterne rouge du poste. Si j’avais crié, on serait venu à mon aide. </p>
+        <p> Mais aucun son ne put jaillir de ma gorge crispée et, me retournant, je me risquai à affronter le regard de celui qui m’abordait avec un pareil sans-gêne. </p>
+        <p> C’était non pas un homme, mais un géant. Il me sembla qu’il avait dix pieds. Sa main couvrait toute mon épaule. </p>
+        <p> Cependant, il n’avait pas l’air méchant, et son visage était même débonnaire. </p>
+        <p> – Ne craignez rien, monsieur, me dit-il, je ne suis plus voleur. </p>
+        <p> Il l’avait donc été? </p>
+        <p> J’étais ému et abasourdi. Ma terreur avait fait place à une sorte de stupéfaction. </p>
+        <p> Il poursuivit: </p>
+        <p> – Je ne suis plus voleur et je suis même devenu honnête homme. Ne craignez donc rien ni pour votre montre, ni pour votre bourse. </p>
+        <p> La parole me revint. </p>
+        <p> – Alors, lui dis-je, que me voulez-vous? </p>
+        <p> – Je désire que vous m’accordiez un moment d’entretien. </p>
+        <p> J’avais toujours les yeux fixés sur cette bienheureuse lanterne rouge qui m’apparaissait comme un phare au naufragé. </p>
+        <p> Il devina ma pensée et me dit: </p>
+        <p> – Allons jusque devant le poste, monsieur, là, vous vous sentirez plus tranquille, et vous m’écouterez certainement. </p>
+        <p> Il y avait dans la grosse voix de ce colosse quelque chose d’humble et de suppliant qui me fit rougir de ma peur. </p>
+        <p> Je ne voulus pas être avec lui en reste de générosité. </p>
+        <p> – Mais, lui dis-je, nous sommes fort bien ici pour causer. </p>
+        <p> – Comme vous voudrez, me dit-il. </p>
+        <p> J’attendis. </p>
+        <p> – Monsieur, reprit-il, vous avez annoncé dans le journal la Patrie , un roman intitulé: Les Valets de cœur ? </p>
+        <p> – Oui, répondis-je. </p>
+        <p> – Et dont Rocambole doit être le héros? </p>
+        <p> – Précisément. </p>
+        <p> Et je me disais tout bas: </p>
+        <p> – C’est un homme de sa bande, très-certainement. Prenons garde! </p>
+        <p> Le géant reprit: </p>
+        <p> – Un certain Timoléon vous a même donné des notes. </p>
+        <p> – En effet, répondis-je. </p>
+        <p> – Timoléon est une canaille, monsieur. </p>
+        <p> Il prononça ces mots froidement, avec calme, avec conviction, comme on dirait « il pleut » au moment où la pluie tombe. </p>
+        <p> – Mais, monsieur… </p>
+        <p> – Rocambole vaut mieux qu’on ne croit, dit-il. </p>
+        <p> – Ah! vraiment? </p>
+        <p> – Il a été méchant, mais il s’est repenti. </p>
+        <p> Je crus deviner sa pensée: </p>
+        <p> – Et bien! lui dis-je, je vous promets que mon roman aura un dénouement fort beau en son honneur. </p>
+        <p> – Ce n’est pas ce que je viens vous demander. </p>
+        <p> – Que voulez-vous donc alors? </p>
+        <p> Il baissa la voix et me dit: </p>
+        <p> – Rocambole est au bagne de Brest; mais personne ne le sait, excepté le préfet de police et moi. </p>
+        <p> Là-bas, il porte un numéro, et comme il ne parle jamais, on ne sait pas ce qu’il a été. </p>
+        <p> Je suis le seul homme avec qui il soit en correspondance secrète. </p>
+        <p> – Eh bien? </p>
+        <p> – Il m’a écrit aujourd’hui même. Un ouvrier du port avait apporté dans l’arsenal un numéro de la Patrie dans lequel on annonçait votre roman. </p>
+        <p> Ces derniers mots m’inquiétèrent: </p>
+        <p> – S’opposerait-il par hasard à la publication du roman? demandai-je. </p>
+        <p> – Non, monsieur. </p>
+        <p> – Alors, que désire-t-il? </p>
+        <p> – Monsieur, reprit le géant, il y a de par le monde une très-grande dame que Rocambole a aimée comme sa sœur. C’est elle qui est la cause de son repentir. Il mourrait de douleur si le vrai nom de cette dame paraissait dans votre livre. </p>
+        <p> – Mais, répondis-je, Timoléon a eu bien soin de changer tous les noms dans ses notes. </p>
+        <p> – Ne vous y fiez pas. </p>
+        <p> – Ah! bah! </p>
+        <p> – Timoléon, je vous le répète, est une canaille. Il en veut à Rocambole, et peut-être vous a-t-il donné les noms vrais. Dans tous les cas, changez-les. </p>
+        <p> – Et puis? </p>
+        <p> – Et puis, monsieur, dit le géant, c’est là tout ce que Rocambole vous demande. </p>
+        <p> – Pas autre chose? </p>
+        <p> – Absolument rien. Bonsoir, monsieur… </p>
+        <p> Il fit mine de s’en aller. Je le retins: </p>
+        <p> – Encore un mot, lui dis-je. </p>
+        <p> Il s’arrêta. </p>
+        <p> – Vous êtes l’ami de Rocambole, n’est-ce pas! </p>
+        <p> – Je me ferai tuer pour lui quand il voudra. </p>
+        <p> – Ne prenez pas en mauvaise part ce que je vais vous dire. </p>
+        <p> – Parlez, monsieur. </p>
+        <p> – Au bagne, on n’est pas heureux… </p>
+        <p> – Dame! non… </p>
+        <p> – Et peut-être qu’un peu d’argent… </p>
+        <p> Cet homme au visage vulgaire eut un fin sourire: </p>
+        <p> – Je vous remercie, monsieur, me dit-il; mais le jour où Rocambole voudra un million, on le lui enverra… </p>
+        <p> Il me salua et tourna les talons, me laissant abasourdi. </p>
+        <p> Je rentrai chez moi, en proie à un sentiment tout nouveau. </p>
+        <p> De romancier, j’étais devenu lecteur. </p>
+        <p> L’histoire de Timoléon ne me suffisait plus: ce que je voulais, c’était voir Rocambole. </p>
+        <p> Quel était donc cet homme qui, souillé de crimes, avait su inspirer de semblables dévouements? </p>
+        <p> Ah! si M. Delamarre (de la maison Delamarre, Martin Didier et C ie , etc.) n’avait pas été si pressé de faire son renouvellement d’octobre, comme j’aurais demandé huit jours pour aller faire un petit voyage à Brest. </p>
+        <p> Mais j’étais annoncé pour le lundi suivant. </p>
+        <p> Nous étions au jeudi soir. </p>
+        <p> Le lendemain donc, à cinq heures et demie du matin, mon domestique m’alluma mon feu comme à l’ordinaire. </p>
+        <p> Je me mis au travail avant le jour, mais à chaque instant, j’interrompais ma besogne et me disais: </p>
+        <p> – Je voudrais pourtant bien voir Rocambole! </p>
+      </div>
+      <div title="VIII" type="chapter">
+        <head> VIII </head>
+        <p> La première partie des Drames de Paris parut sans interruption. </p>
+        <p> Cela s’appelait, je l’ai déjà dit, l’ Héritage mystérieux . </p>
+        <p> Les journaux, à cette époque, faisaient peu d’annonces, et ignoraient l’affiche rouge, verte ou jaune qui tapisse aujourd’hui si agréablement les murs de Paris. </p>
+        <p> Cependant il se manifesta une hausse dans la vente du numéro, et les abonnés augmentèrent. </p>
+        <p> Quelques gens par trop puritains réclamèrent; entre autres une vieille dame qui écrivit à la direction cette lettre qu’on me communiqua: </p>
+        <p> « Monsieur, </p>
+        <p> « Le roman de M. Ponson du Terrail est excessivement amusant, mais il est immoral. Jamais on ne me persuadera qu’une créature comme la Baccarat puisse avoir des sentiments humains. </p>
+        <p> « Ces femmes-là sont des monstres, et feu mon mari, qui était un homme de sens et un sous-chef de mérite dans une grande administration, les évita toujours avec soin. </p>
+        <p> « Je n’ai pas de préjugés, croyez-le bien, et mon âge (cinquante-sept ans) me permet de lire bien des choses. </p>
+        <p> « C’est ainsi que j’ai pris un véritable plaisir aux aventures du chevalier de Faublas, et que le Sopha, de M. Crébillon fils, m’a beaucoup amusée. </p>
+        <p> « Malheureusement, j’ai une fille de vingt-deux ans dont l’imagination est très-exaltée, et la lecture des Drames de Paris lui est pernicieuse. </p>
+        <p> « D’un autre côté, je voudrais cependant savoir la fin, et je ne trouve aucune bonne raison à donner à ma fille pour supprimer mon abonnement à la Patrie. </p>
+        <p> « Ne pourriez-vous faire deux éditions: – une pour moi, avec feuilleton – l’autre, sans feuilleton, pour ma fille? </p>
+        <p> « Un mot de réponse me ferait plaisir. </p>
+        <p> « Votre servante, </p>
+        <p> «HENRIETTE A THANASE , rentière, » </p>
+        <p> Un bon curé de village n’y alla pas par quatre chemins: </p>
+        <p> « Monsieur Ponson du Terrail, disait-il, est un misérable qui a certainement commis tous les crimes dont il rend son héros responsable… » </p>
+        <p> M. Delamarre, un peu ému, fit appeler le caissier. </p>
+        <p> Le caissier prit connaissance de la lettre du bon curé et répondit: </p>
+        <p> – Nous vendrons trois mille exemplaires de plus. </p>
+        <p> – Alors, continuons, dit philosophiquement le directeur de la Patrie . </p>
+        <p> L’ Héritage mystérieux enjamba sur deux renouvellements et eut soixante-dix-huit feuilletons… </p>
+        <p> M. Delamarre me fit venir au soixante-quinzième et me dit: </p>
+        <p> – Est-ce que vous ne pourriez pas me faire une suite! </p>
+        <p> – J’y compte bien, répondis-je, mais il faudrait un autre titre. </p>
+        <p> – Voyons? </p>
+        <p> – Le club des Valets de cœur. </p>
+        <p> Je m’attendais à voir bondir M. Delamarre, car je me souvenais de l’opposition formelle qu’il avait faite à ce titre. </p>
+        <p> Il se borna à froncer un peu le sourcil. </p>
+        <p> – Venez me voir aux docks, me dit-il. </p>
+        <p> Peu de gens ont connu comme moi cet esprit actif, ingénieux, infatigable qui s’appelait M. Delamarre. </p>
+        <p> C’était, comme on dit, un chercheur. </p>
+        <p> Chaque jour, il s’éveillait avec une idée nouvelle, presque toujours hardie, sinon excellente. </p>
+        <p> Un jour, il avait imaginé de faire du pain avec du gluten. </p>
+        <p> Six semaines après, dans la maison attenante aux bureaux de la Patrie , maison qui lui appartenait également, il installait une boulangerie. </p>
+        <p> Le pain ne réussit pas. </p>
+        <p> L’année suivante, M. Delamarre, dans le même immeuble, créa les docks de la vie à bon marché. </p>
+        <p> On y vendait de tout, des aliments et des vêtements, des chaussures et du lait, des denrées coloniales et des chapeaux. </p>
+        <p> Cela dura une année, peut-être un peu moins. Puis on ferma boutique. </p>
+        <p> Une seule personne trouva la liquidation un peu chère, ce fut M. Delamarre qui avait vendu d’excellentes marchandises au prix des médiocres et avait galamment perdu une centaine de mille francs à cet essai philanthropique. </p>
+        <p> Les docks étaient alors à l’apogée de leur succès. </p>
+        <p> S’extasier sur les docks, c’était faire à M. Delamarre un plaisir sans égal. </p>
+        <p> Je fis mieux que m’extasier, j’achetai un chapeau, un parapluie, une douzaine de couteaux et un panier de pale ale . </p>
+        <p> Je m’étais conduit comme le dernier des courtisans et cette basse flatterie porta ses fruits. </p>
+        <p> Le soir même, on annonça en tête de la Patrie que les Drames de Paris auraient une suite et que cette suite s’appellerait: </p>
+        <p> Le Club des Valets de cœur </p>
+        <p> Seulement, M. Delamarre m’accordait une interruption, c’est-à-dire un congé de deux mois. </p>
+        <p> Or, ce congé, je savais bien comment je l’utiliserais. </p>
+        <p> Je m’en irais à Brest, et je verrais Rocambole. </p>
+        <p> Huit jours après, ma malle était faite. </p>
+        <p> Restait à me chercher un compagnon de voyage. </p>
+        <p> J’étais en froid avec Bergerette, pour des motifs qui appartiennent trop à ma vie privée pour que je vous en fasse part. </p>
+        <p> J’écrivis à Claudin: </p>
+        <p> « Veux-tu venir en Bretagne? » </p>
+        <p> Claudin me répondit: </p>
+        <p> « J’entre au Moniteur Universel , et en fermant ma fenêtre, hier soir, le ciel m’est apparu tout rouge, c’est bon signe. » </p>
+        <p> Donc pas de Claudin, pas de Bergerette. </p>
+        <p> Avec qui donc partirais-je? </p>
+        <p> J’ai un vieux camarade, un peu bizarre, un peu quintcux, peut-être, mais qui, sous le prétexte qu’il est né à Brest, côte de Recouvrance, se croit obligé à être le plus droit et le plus chevaleresque des hommes. </p>
+        <p> Cœur loyal, comme dirait Gustave Aimard, tête bretonne, caractère un peu pointu et ayant la déplorable faiblesse d’introduire dans ses livres d’adorables femmes blondes, phthisiques au troisième degré. </p>
+        <p> Quand une femme le remarquait jadis, et ce n’était pas rare, il lui demandait avec anxiété: </p>
+        <p> – Est-ce que vous ne toussez pas un peu? </p>
+        <p> Sur une réponse affirmative de la belle, il tombait à ses genoux. </p>
+        <p> Je vous le présenterais bien, si vous ne le connaissiez pas déjà et si vous n’aviez lu dix romans charmants de lui. </p>
+        <p> Je me borne donc à vous le nommer – c’est Étienne Énault. </p>
+        <p> Énault m’avait dit si souvent qu’il était Breton, et que revoir sa Bretagne était le plus cher de ses vœux, que je courus chez lui: </p>
+        <p> – Viens-tu avec moi? lui dis-je. </p>
+        <p> Il accepta. Nous partîmes. </p>
+        <p> Pas de chemin de fer alors, autre que celui de Paris à Nantes par Orléans. </p>
+        <p> Le lendemain, nous étions à Angers; le surlendemain à Rennes, et deux jours plus tard à Brest. </p>
+        <p> La Bretagne, la vraie, celle des légendes et des poëmes, la terre des chouans et des chevaliers, de la bonne duchesse Anne et des vieux rois celtes, cesse aux portes de Brest. </p>
+        <p> Quand vous avez franchi la double enceinte des fortifications et que la rue de Siam, triste, mal pavée, bordée de maisons noires, vous apparaît, le cœur se serre et les tempes se mouillent d’une sueur froide. </p>
+        <p> L’ hôtel des Voyageurs, celui où nous descendîmes est morose à l’œil; sa salle à manger ressemble à un réfectoire de cloître, éclairé tout au bout par une croisée unique. </p>
+        <p> On nous logea sous les toits. </p>
+        <p> À Brest, quiconque n’a ni uniforme, ni ruban rouge, est peu de chose et on ne fait guère cas de lui. </p>
+        <p> Le voyage avait été une fête; l’arrivée à Brest était une manière d’enterrement. </p>
+        <p> – Oh! si je ne venais pas rechercher la maison où je suis né! me disait Énault. </p>
+        <p> – Ah! si je n’avais pas envie de voir Rocambole! pensai-je. </p>
+        <p> Et nous dînâmes du bout des lèvres, songeant au déjeuner que nous avions fait la veille à Morlaix, la ville aux joyeux visages, aux braves femmes souriantes, aux collines vertes qui se hérissent des plus pittoresques maisons du monde. </p>
+        <p> Puis notre dîner fini, nous descendîmes vers le port par cette abominable rue de Siam dont le pavé vous meurtrit les pieds, au point de vous donner le tétanos . </p>
+      </div>
+      <div title="IX" type="chapter">
+        <head> IX </head>
+        <p> Nous étions alors au printemps, en plein mois de mai, et les jours étaient longs. </p>
+        <p> Un beau soleil, presque chaud, éclairait tout le reste de la Bretagne, il ne pleuvait qu’à Brest. </p>
+        <p> Mais Brest a une réputation que les Bretons traduisent par un mot quelque peu inconvenant: </p>
+        <p> Brest disent-ils, est… le pot de chambre de la Bretagne. </p>
+        <p> Cela est vrai, il y pleut cinq jours sur sept. </p>
+        <p> Cependant il suffit d’un coup de vent pour balayer les nuages, surtout vers le soir. </p>
+        <p> Alors l’unique promenade de la ville, le cours d’Ajot, se peuple comme par enchantement, et la rade apparaît étincelante avec son horizon de collines vertes, au milieu desquelles la rivière de Chateaulin s’ouvre tout à coup un passage. Il avait plu tout le jour, il pleuvait durant notre dîner, il pleuvait quand nous sortîmes de l’hôtel. Nous n’étions pas au bout de la rue de Siam que les derniers rayons du soleil couchant percèrent les nuages et ricochèrent sur l’eau noire du port, comme des broderies d’or sur un manteau de velours. </p>
+        <p> Dieu fait bien ce qu’il fait, dit un proverbe, et ce proverbe est surtout vrai pour Brest. </p>
+        <p> Quand le ciel est gris, les maisons hideuses, noires, infectes qui bordent le port et qu’on a aujourd’hui sous les pieds, du haut de ce pont gigantesque qui n’a qu’une arche et s’ouvre pour laisser passer les vaisseaux à trois ponts, ces maisons noires, disons-nous, sont moins repoussantes à l’œil. </p>
+        <p> Vienne un ciel d’azur et un beau soleil, et Brest vous apparaît dans toute sa morne tristesse. </p>
+        <p> Au bout de la rue de Siam, on trouve un escalier de cent marches qui descend au port. </p>
+        <p> Le pont, de niveau avec la première marche, passe au-dessus des maisons. </p>
+        <p> Mais alors il n’existait pas encore; il fallait descendre l’escalier et passer dans un vaste bateau qui vous traversait à Recouvrance. </p>
+        <p> Il était trop tard pour visiter l’arsenal et par conséquent le bagne. </p>
+        <p> Énault me disait: </p>
+        <p> – Je suis de Recouvrance, et je voudrais revoir la maison où je suis né. Malheureusement, j’ai quitté mon pays si jeune, que j’ai oublié le nom de la rue. </p>
+        <p> Mais Recouvrance, n’est pas bien grand, allons-y! </p>
+        <p> – Comme tu voudras, répondis-je, mais tâche de retrouver ta maison ce soir, car demain… </p>
+        <p> – Demain? </p>
+        <p> – Nous ne quitterons pas l’arsenal. </p>
+        <p> Nous passâmes à Recouvrance. </p>
+        <p> Là, les maisons sont encore plus noires et plus misérables que sur la rive opposée. </p>
+        <p> Un dédale de petites ruelles tortueuses environne le port. </p>
+        <p> C’est là que vivent les pêcheurs et les femmes de marins. </p>
+        <p> Là grouillent des centaines d’enfants à peine vêtus qui feront un jour des hommes vaillants. </p>
+        <p> La femme du marin est économe; elle vit de peu, elle élève ses enfants avec presque rien. </p>
+        <p> Un pauvre logis lui suffit. </p>
+        <p> Le mari est peut-être sous le ciel bleu des Indes, la femme et les enfants vivent dans cette atmosphère goudronnée, au bord de cette mer noire, dans ces rues infectes et sous cette pluie éternelle, sans murmurer, sans se plaindre, avec l’espérance au cœur. </p>
+        <p> Quand vient le soir, pour peu qu’un rayon de soleil glisse entre deux nuages et éclaire la rade, la femme du marin prend son fils par la main, et tout deux gravissent les hauteurs de Recouvrance, prennent le chemin gazonné des fortifications et vont s’asseoir tout près de la poudrière. </p>
+        <p> C’est là le cours d’Ajot des pauvres gens de Recouvrance. </p>
+        <p> De là on découvre la rade tout entière, et sur la droite le Goulet; la mer est calme, le ciel clément, il ne pleut pas. </p>
+        <p> La femme du marin dit à son fils en lui désignant le Goulet: </p>
+        <p> – Ton père est là-bas… tout là-bas… </p>
+        <p> – Quand reviendra-t-il? demande l’enfant. </p>
+        <p> – Dans un an, dit la pauvre délaissée en soupirant. </p>
+        <p> Puis elle reporte son œil humide sur sa progéniture. </p>
+        <p> Le bambin a cinq ans; l’an qui vient, on le mettra à l’école des mousses. </p>
+        <p> Qui sait? </p>
+        <p> Quelle est la mère du mousse qui n’a vu dans ses rêves son fils paré de l’aiguillette d’or? </p>
+        <p> Recouvrance est dans ce tableau. C’est la ville pauvre, la ville robuste, muette en sa tristesse et d’où sortiront des hommes. </p>
+        <p> À huit heures retentit le coup de canon qui annonce la fermeture de l’arsenal. </p>
+        <p> Cette détonation nous surprit dans une ruelle qui s’appelle fièrement rue Jean-Bart. </p>
+        <p> Une église abandonnée se trouve au milieu. </p>
+        <p> Devant cette église, il y a une manière de place de dix mètres carrés, sur laquelle jouent les enfants du quartier. </p>
+        <p> Les mères, assises au seuil des portes, travaillent en se regardant. </p>
+        <p> Nous nous étions arrêtés en cet endroit un peu avant le coup de canon. </p>
+        <p> Parmi ces enfants qui jouaient, il en était un qui avait attiré notre attention, avec ses cheveux blonds bouclés, ses joues rosées, ses grands yeux bleus. </p>
+        <p> On eût dit un chérubin descendu du ciel dans ce cloaque. </p>
+        <p> Nous cherchâmes la mère des yeux; et nous l’eûmes bientôt reconnue à l’expression de son regard, qui ne quittait pas l’enfant. </p>
+        <p> C’était une toute jeune femme, vingt-trois ans peut-être. </p>
+        <p> L’enfant en avait cinq. </p>
+        <p> Elle était blonde, un peu pâle, un peu triste à travers un beau sourire qui épanouissait ses lèvres chaque fois que son fils tournait la tête vers elle. </p>
+        <p> Tout à coup au bout de la rue retentirent des pas sourds, mesurés, frappés en cadence, avec un cliquetis métallique. </p>
+        <p> En même temps nous vîmes apparaître une escouade de forçats marchant deux par deux et conduits par deux gardes-chiourmes. </p>
+        <p> Les enfants continuèrent à jouer; mais celui que nous avions remarqué leva les yeux, examina la troupe infâme et reconnut sans doute au milieu d’elle quelqu’un qu’il aimait, car il s’élança au-devant des forçats et nous le vîmes se jeter au cou de l’un d’eux. </p>
+        <p> Les gardes-chiourmes ne dirent mot. </p>
+        <p> Le compagnon de chaîne du forçat s’arrêta tout naturellement. </p>
+        <p> Le forçat prit l’enfant dans ses bras, mit un baiser sur les boucles blondes de sa chevelure et le reposa à terre. </p>
+        <p> En même temps aussi sa jeune mère, qui tout à l’heure était assise sur le seuil de sa porte, se leva, vint tendre la main au forçat et lui dit quelques mots que nous ne pûmes entendre. </p>
+        <p> Puis les forçats continuèrent leur chemin, la mère alla se rasseoir mélancolique, l’enfant retourna auprès de ses petits camarades, mais il ne joua plus. </p>
+        <p> Ce malheureux, couvert de la livrée de l’infamie, au cou de qui sautait le chérubin, à qui cette belle jeune femme tendait la main, était-il donc le père et le mari? </p>
+        <p> Pour que cela fût possible, il aurait fallu que cet homme, jadis matelot, eût été condamné à mort pour quelque acte de rébellion envers ses chefs, puisqu’il eût vu sa peine commuée en celle des travaux forcés; car, à Recouvrance, on n’eût pas toléré, sans cela, une femme de forçat. </p>
+        <p> Nous avions eu le temps de voir cet homme. </p>
+        <p> Il était grand, un peu pâle, avec des yeux intelligents et doux. </p>
+        <p> En dépit de la chaîne qu’il traînait, sa démarche avait quelque chose de fier et de hautain. </p>
+        <p> C’était un homme qui pouvait avoir vingt-sept ou vingt-huit ans, et, pendant qu’il embrassait l’enfant, j’avais eu le temps de l’examiner tout à mon aise et de me graver ses traits dans la mémoire. </p>
+        <p> Ce petit événement, si naturel pourtant dans les rues de Brest, nous intrigua assez pour nous faire entrer dans une buvette qui se trouvait juste en face de l’endroit où les forçats s’étaient arrêtés. </p>
+        <p> Une vieille femme, avenante et un peu bavarde, était au comptoir. </p>
+        <p> Tandis quelle nous versait deux verres de fil-en-quatre, je la questionnai. </p>
+        <p> – C’est donc le père de cet enfant? lui demandai-je. </p>
+        <p> – Non, me dit-elle; c’est peut-être mieux que son père. </p>
+        <p> – Que voulez-vous dire? </p>
+        <p> – C’est son sauveur. L’enfant se noyait; il l’a repêché, et il s’en est fallu de peu qu’il ne se noyât lui-même. </p>
+        <p> Il y avait un drame tout entier dans cette réponse, et je comprenais maintenant les caresses de l’enfant et la poignée de main de la mère. </p>
+        <p> – Comment l’appelez-vous donc ce forçat? demanda Énault. </p>
+        <p> La vieille sourit. </p>
+        <p> – Vous savez bien, dit-elle, que les forçats n’ont plus de nom. </p>
+        <p> – C’est juste. </p>
+        <p> – Celui-là, c’est le numéro Cent-dix-sept . </p>
+        <p> Je m’étais pris à rêver, et je regardais l’enfant qui était maintenant sur les genoux de sa mère, qui le couvrait de baisers. </p>
+      </div>
+      <div title="X" type="chapter">
+        <head> X </head>
+        <p> Un soupçon avait traversé mon esprit. </p>
+        <p> J’étais venu à Brest pour voir Rocambole; qui me disait que le forçat qui avait sauvé l’enfant n’était pas lui? </p>
+        <p> Nous quittâmes le débit de boissons et nous reprîmes notre excursion à travers les petites rues noires de Recouvrance. </p>
+        <p> Énault s’arrêtait de temps en temps, regardait une maison, avait un moment d’espoir, puis se remettait en route. </p>
+        <p> Ce n’était pas celle-là. </p>
+        <p> Comme nous montions vers les fortifications, nous entendîmes une musique militaire et nous nous arrêtâmes. </p>
+        <p> L’école des mousses venait de manœuvrer à terre… </p>
+        <p> Tous ces bambins marchaient fièrement au son du clairon, et au pas gymnastique, l’arme sur l’épaule gauche. </p>
+        <p> La population se pressait sur leur passage. </p>
+        <p> Jeunes femmes, petites fillettes, vieux soldats et vieux matelots, formaient la haie pour les voir. </p>
+        <p> C’était l’avenir qui passait. </p>
+        <p> Plus d’une mère, apercevant son fils dans les rangs, lui envoyait un baiser avec ses doigts. </p>
+        <p> Plus d’un loup de mer disait de sa rude voix émue: </p>
+        <p> – J’étais comme ça, moi. </p>
+        <p> Quand l’école fut passée, Énault jeta un cri. </p>
+        <p> – Je me reconnais, dit-il. </p>
+        <p> – Où cela? </p>
+        <p> – Ici. Je me rappelle bien maintenant… les mousses passaient sous nos fenêtres et c’est là… </p>
+        <p> Et il me montrait une maison sur la gauche. </p>
+        <p> Cette maison bâtie en briques avait une grande porte. </p>
+        <p> Énault, pris d’une subite émotion, me disait: </p>
+        <p> – Oui… oui… c’est bien cela… nous demeurions au second… il doit y avoir une cour avec des arbres, et au milieu de cette cour un puits. </p>
+        <p> Nous entrâmes. </p>
+        <p> À Recouvrance, les concierges sont inconnus; on entre partout et tout droit. </p>
+        <p> On monterait jusqu’au sixième étage d’une maison que personne ne vous arrêterait pour vous dire: </p>
+        <p> – Où allez-vous! </p>
+        <p> Quand nous fûmes dans le vestibule, Énault s’arrêta: </p>
+        <p> – C’est singulier, me dit-il, l’escalier était à droite, il me semble. </p>
+        <p> – Et celui-là est à gauche. </p>
+        <p> – On aura changé l’escalier de place. </p>
+        <p> La maison avait bien une cour; mais il n’y avait pas de puits. </p>
+        <p> – On l’aura comblé, me dit Énault. </p>
+        <p> – Je ne vois pas d’arbres non plus, lui dis-je. </p>
+        <p> – On les aura coupés. </p>
+        <p> Néanmoins, comme il n’était pas bien sûr, nous sortîmes. </p>
+        <p> – Si ce n’est pas celle-là, me dit-il, c’est une maison à peu près semblable de la même rue? </p>
+        <p> – Oui. </p>
+        <p> Vingt pas plus loin nous trouvâmes une autre maison absolument semblable à celle que nous quittions. </p>
+        <p> – La voilà! s’écria Énault. </p>
+        <p> L’escalier était à gauche du vestibule, mais il n’y avait pas de cour. </p>
+        <p> – On aura bâti, me dit-il, il y a si longtemps!… </p>
+        <p> Une vieille femme descendait l’escalier, nous l’interrogeâmes. </p>
+        <p> – Ya-t-il longtemps que vous demeurez ici? </p>
+        <p> – Plus de quarante ans, répondit-elle. </p>
+        <p> Énault lui parla de son père qui était, je crois intendant militaire. </p>
+        <p> La vieille l’écouta, puis elle lui dit: </p>
+        <p> – C’est bien possible… il y a toujours des officiers dans la maison; il y en a eu de tout temps. </p>
+        <p> Nous n’étions pas plus avancés. </p>
+        <p> Un quart d’heure après, nous trouvions une troisième maison. </p>
+        <p> – Oh! cette fois, s’écria Énault, c’est bien ici. </p>
+        <p> Il y avait un puits dans la cour, et des arbres, et l’escalier était à gauche. </p>
+        <p> Malheureusement les arbres étaient jeunes, le puits paraissait tout neuf et nous aperçûmes sur la porte le millésime de 1840. </p>
+        <p> – On aura reconstruit la maison, me dit mon pauvre ami, mais c’est bien elle! </p>
+        <p> – Tu m’as déjà dit cela des deux autres… </p>
+        <p> – C’est désolant et bizarre tout de même, reprit-il, de ne pouvoir retrouver la maison où l’on est né. </p>
+        <p> – Comment! répondis-je, mais au lieu d’une, tu en retrouves trois… et tu vas ressembler à Homère dont sept villes se disputaient l’honneur de lui avoir donné le jour. </p>
+        <p> Énault accepta ce compliment sans trop de protestations, et nous quittâmes Recouvrance. </p>
+        <p> Il était nuit. </p>
+        <p> Nous retraversâmes le port en bateau et nous remontâmes cette horrible rue de Siam jusqu’à la hauteur du champ de bataille. </p>
+        <p> C’est là que se trouve le café des officiers de marine; c’était là que nous avions affaire, comme on va le voir. </p>
+        <p> J’avais à Paris un ami, un capitaine de dragons, l’homme le meilleur et le plus bourru du monde. Il était plus chatouilleux de mon honneur que du sien, et bien souvent il a cassé mon cordon de sonnette à cinq heures du matin, pour m’apporter un numéro de l’ancien Figaro , direction Bourdin, lequel numéro était consacré en partie à démontrer aux populations que j’étais un crétin de la plus belle venue. </p>
+        <p> Mon bourru capitaine était, dans ces occasions solennelles, accompagné d’un autre capitaine. </p>
+        <p> Tous deux venaient me demander mes instructions pour me servir de témoins. </p>
+        <p> Je prenais connaissance du numéro incriminé, et le leur rendais en disant: </p>
+        <p> – Mais, on ne parle que de mes livres. </p>
+        <p> – Eh bien? </p>
+        <p> – Eh bien! ça ne me regarde pas. Ces messieurs ont bien le droit de les trouver mauvais. </p>
+        <p> Mon excellent capitaine ne comprenait pas et se retirait en maugréant. </p>
+        <p> Or, je n’ai jamais vu de capitaine plus répandu que ce capitaine-là. </p>
+        <p> Il connaissait tout le monde, dans l’armée et hors de l’armée, dans la marine et dans les colonies. </p>
+        <p> – Vous allez à Brest, m’avait-il dit. Attendez donc, j’y connais du monde. </p>
+        <p> Et il m’avait donné deux douzaines de lettres de recommandation, dont dix pour des lieutenants de vaisseau, trois ou quatre pour des capitaines, une pour un contre-amiral et enfin une dernière pour un cousin à lui que j’avais rencontré à Paris, et qui était enseigne à bord de la Némésis . </p>
+        <p> L’enseigne Marjolin, c’était son nom, était un tout jeune homme, très-aimable, très liant et qui certainement se mettrait en quatre pour nous être agréable. </p>
+        <p> Nous entrâmes donc au café de la Marine, et bientôt toutes mes lettres furent distribuées. </p>
+        <p> Brest devint plus gai. On nous offrit du punch et nous reçûmes cet accueil courtois, quoique un peu froid et cérémonieux, qui est le propre des officiers de mer, toujours plus réservés que ceux de terre. </p>
+        <p> M. Marjolin nous reconduisit à l’hôtel et nous donna rendez-vous pour le lendemain, huit heures du matin, aux portes de l’Arsenal: </p>
+        <p> Je lui avais parlé de Rocambole. </p>
+        <p> C’était la première fois qu’il entendait prononcer ce nom. </p>
+        <p> – Mais, me dit-il, soyez tranquille, si cet homme est au bagne de Brest, le commissaire du bagne ne fera aucune difficulté, et vous pourrez l’interroger tout à votre aise. </p>
+        <p> Je ne pus lui cacher le singulier accueil que j’avais reçu trois ou quatre mois auparavant à la préfecture de police. </p>
+        <p> Il se mit à rire et me dit avec cet accent d’orgueil qui caractérise si bien les marins: </p>
+        <p> – Vous oubliez qu’ici nous sommes chez nous? </p>
+        <p> Et sur ces mots, il nous souhaita le bonsoir. </p>
+      </div>
+      <div title="XI" type="chapter">
+        <head> XI </head>
+        <p> Quand on est entré dans l’Arsenal, quand on a dépassé le parc à boulets, on aperçoit devant soi une sorte de rampe qui forme deux coudes brusques. </p>
+        <p> Au bout du premier on trouve la corderie et la voilure, vastes bâtiments qui se prolongent jusqu’aux scieries. Puis on tourne la rampe, on lève la tête et on voit une immense façade percée de nombreuses fenêtres grillées, de voûtes profondes, de portes basses et cintrées. </p>
+        <p> Cette façade, ce bâtiment gigantesque placé à un côté, au-dessous de la ville, au-dessus du port, auquel on arrive par cette rampe, on l’aperçoit aussi bien du bas de la rue Siam que des hauteurs de Recouvrance. </p>
+        <p> C’est le bagne! </p>
+        <p> Au coup de canon, cette sombre demeure, silencieuse à ce point jusque-là, qu’on l’aurait dite inhabitée, cette demeure, disons-nous, s’emplissait tout à coup d’un immense murmure, de bruits sourds et de cliquetis étranges. </p>
+        <p> Les portes s’ouvraient, les forçats descendaient à la fabrique, enchaînés deux par deux, rangés par escouade et conduits par les argousins. </p>
+        <p> M. Marjolin, notre complaisant cicerone, avait voulu nous faire jouir de ce coup d’œil. </p>
+        <p> Nous l’avions trouvé à la porte de l’Arsenal à l’heure indiquée. </p>
+        <p> Nous étions entrés avec lui et nous étions devant le bagne lorsque les forçats sortirent. </p>
+        <p> Nous pûmes les voir presque un à un, les examiner successivement, ces maudits de la société, à mesure qu’ils passaient devant nous. </p>
+        <p> Les uns, qui n’avaient point perdu tout sentiment humain, courbaient la tête en apercevant des étrangers. </p>
+        <p> Les autres, soumis, résignés, nous regardaient avec indifférence. </p>
+        <p> D’autres attachaient sur nous un œil cynique et moqueur. </p>
+        <p> Énault et moi, nous tressaillîmes tout à coup, et je pressai le bras de M. Marjolin en lui disant: </p>
+        <p> – Le voilà! </p>
+        <p> – Qui? </p>
+        <p> – Le forçat qui a sauvé l’enfant. </p>
+        <p> Nous lui avions raconté cette histoire la veille, tandis qu’il nous reconduisait à notre hôtel. </p>
+        <p> – Ah! fit-il, je le connais. C’est le numéro Cent dix-sept, un très-bon forçat. </p>
+        <p> Au bagne, dans la langue usuelle de quiconque se trouve en contact avec les condamnés, on dit un b on et un mauvais forçat. </p>
+        <p> Le mauvais forçat est celui qui se montre cynique, sans repentir, indiscipliné, travaille le moins possible, s’ingénie à se faire envoyer à l’infirmerie et essaye de s’évader. </p>
+        <p> Le bon forçat est, par conséquent, tout le contraire. </p>
+        <p> Cent-dix-sept était un bon forçat. </p>
+        <p> Quand il passa près de nous, il salua M. Marjolin, non point seulement parce qu’il devait le saluer, mais très-certainement parce qu’il y trouvait une satisfaction réelle. </p>
+        <p> Le jeune officier, chargé pendant quelques mois d’un service dans l’Arsenal, s’était trouvé en contact avec les forçats, et s’était montré fort bon pour eux. </p>
+        <p> Il nous regarda aussi avec une certaine curiosité bienveillante, et parut se souvenir de nous avoir rencontrés le jour précédent. </p>
+        <p> Sa figure intelligente et distinguée; son regard calme, sa démarche presque hautaine, m’impressionnèrent plus alors que la veille. </p>
+        <p> Quand il fut loin, je dis à M. Marjolin: </p>
+        <p> – Je jurerais que c’est lui. </p>
+        <p> – Qui, lui? </p>
+        <p> – Rocambole. </p>
+        <p> – Rien n’est plus facile à savoir, me dit-il, allons à l’écrou. </p>
+        <p> Nous entrâmes en effet, chez le greffier en chef du bagne. </p>
+        <p> – Mon cher monsieur, lui dit M. Marjolin, y a-t-il moyen de savoir le nom du numéro Cent-dix-sept? </p>
+        <p> – Rien n’est plus facile, répondit le greffier. </p>
+        <p> Il se leva de son bureau, s’approcha de l’immense casier qui renfermait les livres d’écrou et prit celui qui correspondait au numéro cent dix-sept. </p>
+        <p> Puis ayant cherché la page correspondante, il la mit sous nos yeux. </p>
+        <p> Voici ce que nous lûmes: </p>
+        <p> « Joseph Fipart, condamné aux travaux forcés à perpétuité par la Cour d’assises de Seine-et-Oise. Né à Paris. Âgé de trente ans. Recommandé à l’administration comme très-dangereux. » </p>
+        <p> Comme Timoléon avait changé tous les noms dans son manuscrit, ce nom de Joseph Fipart ne m’apprenait absolument rien… </p>
+        <p> M. Marjolin me dit: </p>
+        <p> – Je ne vois rien qui ressemble à Rocambole, dans cette note-là, si le personnage qui répond à ce nom est tel que vous me l’avez dépeint. </p>
+        <p> – Sauf ces mots, répondis-je en posant mon doigt sur le livre d’écrou: Recommandé comme très-dangereux. </p>
+        <p> – Il y a beaucoup de forçats dangereux, comme l’entend l’administration, dit l’enseigne en souriant. </p>
+        <p> – Ah! </p>
+        <p> – On appelle ainsi tous ceux qui songent à s’évader. </p>
+        <p> – Et je puis vous affirmer, nous dit le greffier en chef, que l’administration s’est trompée pour celui-là. </p>
+        <p> – Vraiment? </p>
+        <p> – Il est ici depuis cinq ans. </p>
+        <p> – Bon! </p>
+        <p> – Et jamais il n’a cherché à s’évader: c’est un bon forçat. </p>
+        <p> M. Marjolin ajouta: </p>
+        <p> – Il m’a même semblé qu’on le traitait avec douceur. </p>
+        <p> – C’est vrai, dit le greffier, c’est un homme courageux. Dernièrement il a sauvé un enfant qui se noyait. </p>
+        <p> – Est-il porté sur le tableau des grâces? </p>
+        <p> – Non, il a refusé. </p>
+        <p> Ces mots produisirent sur nous quelque étonnement. </p>
+        <p> Le greffier continua: </p>
+        <p> – Ses notes sont excellentes; après cet acte de courage, il a été appelé chez le commissaire, qui l’a félicité, et lui a annoncé son intention de le porter sur le tableau. Il a répondu que sa condamnation était juste, qu’il avait perdu le droit de rentrer dans la société et qu’il était résigné à finir ses jours au bagne. </p>
+        <p> – Et il a trente ans! m’écriai-je. Sait-on pourquoi il a été condamné? </p>
+        <p> – Pour assassinat, dit le greffier. Mais nos livres d’écrou ne font jamais mention du crime. Et quand le forçat est mort ou libéré, ce n’est pas ici qu’on peut puiser des documents sur lui. </p>
+        <p> – C’est égal, murmurai-je, il a beau s’appeler Joseph Fipart… </p>
+        <p> – Vous pensez que c’est Rocambole? </p>
+        <p> – Oui. </p>
+        <p> – Nous avons un autre moyen de le savoir. </p>
+        <p> – Lequel? </p>
+        <p> – C’est de le lui demander, répondit l’enseigne. </p>
+        <p> – Rocambole? murmurait le greffier, un singulier nom!… et que j’entends prononcer pour la première fois. </p>
+      </div>
+      <div title="XII" type="chapter">
+        <head> XII </head>
+        <p> En effet, nous eûmes beau questionner le greffier en chef, il nous répondit avec une absolue bonne foi: </p>
+        <p> – Jamais je n’ai entendu prononcer ce nom: même par les forçats. S’il y a au bagne de Toulon un forçat qui se nomme Rocambole, personne ne le sait, je vous le garantis. </p>
+        <p> M. Marjolin nous disait, de son côté: </p>
+        <p> – Il est fort rare, sinon inouï, qu’un forçat qui a eu un nom célèbre dans les annales du crime, ne cherche pas à faire survivre ce nom ici, où l’homme n’est plus qu’un numéro; et, d’après ce que vous me dites, l’homme dont vous parlez, aurait été un criminel célèbre. </p>
+        <p> – Certes, oui. </p>
+        <p> – Néanmoins, poursuivit l’enseigne, je vous renouvelle ma proposition. </p>
+        <p> – Qui consiste? </p>
+        <p> – À venir visiter la Némésis qui est en rade. Je vais faire armer un canot, et deux mots dits à un argousin-chef suffiront pour que nous ayons dans notre équipe de forçats le numéro Cent-dix-sept. </p>
+        <p> La proposition de M. Marjolin était trop séduisante, comme vous le pensez bien, pour que je songeasse à la refuser. </p>
+        <p> Moins d’une demi-heure après nous sortions du port dans un canot manœuvré par douze forçats. </p>
+        <p> Un treizième était à la barre. </p>
+        <p> Et ce treizième, c’était le Cent-dix-sept. </p>
+        <p> J’allai m’asseoir auprès de lui. </p>
+        <p> – Y a-t-il longtemps que vous êtes ici? lui demandai-je. </p>
+        <p> – Cinq ans, me répondit-il. </p>
+        <p> Sa voix était calme, résignée, plus mélancolique que triste. </p>
+        <p> – Et vous y êtes à perpétuité? </p>
+        <p> – Vous le voyez à mon bonnet vert. </p>
+        <p> – Ne prenez pas, lui dis-je en baissant la voix, les questions que je vous adresse pour de l’indiscrétion ou de la curiosité banale. </p>
+        <p> Il me regarda et parut attendre que je m’expliquasse. </p>
+        <p> – Je vous ai vu hier dans la rue Jean-Bart, continuai-je. </p>
+        <p> – Oui… en effet… il me semble vous avoir aperçu, monsieur. </p>
+        <p> – Un enfant vous a sauté au cou! </p>
+        <p> – Oui. C’est le petit d’Yvonne Slouarec, la femme d’un gabier d’artimon à bord de la Valeureuse . </p>
+        <p> – On m’a dit que vous lui aviez sauvé la vie. </p>
+        <p> – C’est vrai, dit-il simplement. L’enfant était sur le quai à jouer. Ses petits camarades le poursuivaient; il prend son élan pour leur échapper, et, arrivé au bord du quai, ne peut se retenir et tombe à l’eau. </p>
+        <p> « J’étais à demi-chaîne et par conséquent maître de mes mouvements. </p>
+        <p> « Du pont de la Némésis, qui était dans le port et où nous déchargions des gueuses de fonte, j’avais tout vu. </p>
+        <p> « L’eau est noire, dans le port; elle n’a aucune transparence. L’enfant avait disparu. </p>
+        <p> « Il y avait beaucoup de monde sur le quai, mais personne n’osait se jeter à l’eau. </p>
+        <p> « J’enroulai ma chaîne autour de mes reins et je me laissai tomber du haut du pont de la Némésis. </p>
+        <p> « Je nageai jusqu’à l’endroit où l’enfant avait disparu; je plongeai à plusieurs reprises, et enfin je fus assez heureux pour le ramener. </p>
+        <p> « Il était évanoui; mais on parvint à le ranimer. </p>
+        <p> « Depuis ce temps-là le pauvre petit vient me sauter au cou toutes les fois que je passe devant sa maison, et sa mère est bien bonne pour moi. </p>
+        <p> – Est-ce que vous ne souffrez pas beaucoup? lui dis-je. </p>
+        <p> – Je subis ma peine, répondit-il. </p>
+        <p> – Mais vous devez avoir des heures de désespoir? </p>
+        <p> – Non, je suis résigné. </p>
+        <p> – Vous devez regretter le monde où vous avez vécu? </p>
+        <p> Il tressaillit et me regarda. </p>
+        <p> Puis, après un nouveau silence: </p>
+        <p> – Je ne regrette rien, dit-il. J’ai été condamné justement et je suis mort au monde. </p>
+        <p> Je fis alors un signe à Énault. </p>
+        <p> Ce signe avait été convenu à l’avance entre nous. </p>
+        <p> Énault m’appela tout haut par mon nom, en me disant: </p>
+        <p> – Vois comme la rade est splendide, en ce moment! </p>
+        <p> Cent dix-sept tressaillit de nouveau; il me sembla même qu’il me regardait avec curiosité. </p>
+        <p> J’avais, comme on le pense bien, calculé cet effet, et je m’étais tenu ce raisonnement: </p>
+        <p> – « Au moment où j’allais commencer la publication des Drames de Paris et me servir des notes de Timoléon, un homme m’a abordé un soir au coin de la rue Bellefond, me disant qu’il était en correspondance avec Rocambole et que celui-ci s’était ému à l’annonce de mon roman. </p>
+        <p> « Donc, si Cent dix-sept n’était autre que Rocambole, si maître, d’ailleurs, qu’il fût de lui, cet homme se trahirait en entendant prononcer mon nom. » </p>
+        <p> En effet, je venais de remarquer un tressaillement chez cet homme, et il me parut de bon augure. </p>
+        <p> – Puisque vous savez qui je suis, lui dis-je, vous ne vous étonnerez pas de la question que je vais vous faire. </p>
+        <p> – Je tâcherai d’y répondre, monsieur. </p>
+        <p> – Je cherche un forçat du nom de Rocambole. </p>
+        <p> – Ah! fit-il. </p>
+        <p> – Le connaîtriez-vous? </p>
+        <p> – Non. </p>
+        <p> Je remarquai chez lui un léger frémissement des narines. Cependant son visage demeura impassible, et il ajouta: </p>
+        <p> – C’est un singulier nom, en effet. </p>
+        <p> – C’est vrai. </p>
+        <p> – Mais êtes-vous sûr qu’il soit au bagne de Brest? </p>
+        <p> – Très-sûr. On me l’a affirmé à Paris. </p>
+        <p> – C’est possible, dit-il avec indifférence. Mais ici nous n’avons plus de nom. </p>
+        <p> – Pardonnez-moi, continuai-je avec une certaine émotion, mais il m’a semblé… </p>
+        <p> Il me regarda avec plus d’attention. </p>
+        <p> – Que vous n’étiez ni un criminel vulgaire, ni un homme de moyenne éducation, poursuivis-je. </p>
+        <p> Il ne répondit pas. </p>
+        <p> – Vous avez dû appartenir au monde élevé, continuai-je. Peut-être… </p>
+        <p> Il m’arrêta d’un geste. </p>
+        <p> – Monsieur, me dit-il, je suis mort au monde, je vous l’ai dit. </p>
+        <p> – Et il ne vous reste pas un rayon d’espoir au cœur? </p>
+        <p> – Non, monsieur. </p>
+        <p> – Eh bien! repris-je, laissez-moi aller jusqu’au bout. </p>
+        <p> – C’est que j’essaye d’oublier, me dit-il, et il y a de la cruauté à me forcer à me souvenir. </p>
+        <p> Il disait cela simplement, avec tristesse, mais sans amertume. </p>
+        <p> – Oh! lui dis-je, si j’avais pu douter encore, je ne douterais plus maintenant. </p>
+        <p> – De quoi donc ne douteriez-vous pas, monsieur? </p>
+        <p> – C’est vous, c’est bien vous. </p>
+        <p> Il fixa sur moi un regard dont je ne pus supporter la froide limpidité. </p>
+        <p> – Je ne vous comprends pas, dit-il. </p>
+        <p> – C’est vous qui êtes Rocambole? </p>
+        <p> Un sourire vint à ses lèvres: </p>
+        <p> – Je m’appelle Joseph Fipart, me répondit-il, comme vous pourrez vous en convaincre par le livre d’écrou. </p>
+        <p> Et il y eut alors dans son geste, dans son œil, dans son attitude, quelque chose d’étrange, de dominateur, qui me subjugua. </p>
+        <p> Je sentis que cet homme me courbait, en ce moment, sous sa propre volonté. </p>
+        <p> Il ne voulait pas être interrogé. Je ne trouvai plus un mot et j’allumai un cigare pour me donner une contenance. </p>
+        <p> Bientôt le canot aborda l’échelle de tribord de la Némésis . </p>
+        <p> Je voulus alors glisser deux louis dans la main du Cent-dix-sept. </p>
+        <p> Il me refusa, sans hauteur, mais avec fermeté. </p>
+        <p> – Excusez-moi, monsieur, dit-il, mais je n’accepte jamais rien. </p>
+        <p> . . . . . . . . . . . . . . . . . . . . . </p>
+        <p> Nous visitâmes la Némésis . </p>
+        <p> Quand nous repartîmes, Cent-dix-sept n’était plus à la barre et se trouvait confondu avec les autres forçats. Nous revînmes à terre. </p>
+        <p> Je fis part à M. Marjolin de l’insuccès de ma tentative. </p>
+        <p> – Vous voyez bien, me dit-il, que ce n’est pas Rocambole. </p>
+        <p> – J’ai la conviction que c’est lui, au contraire, répliquai-je. </p>
+        <p> – Eh bien! me dit l’aimable officier, je vais me mettre en campagne, et je vous assure que j’aurais des renseignements. </p>
+        <p> – Quand? </p>
+        <p> – Demain. </p>
+        <p> Mais comme on va le voir, les renseignements de M. Marjolin devaient arriver trop tard, car en rentrant à l’hôtel, le soir, je trouvai une lettre à mon adresse. </p>
+      </div>
+      <div title="XIII" type="chapter">
+        <head> XIII </head>
+        <p> Qui donc pouvait m’écrire à Brest? </p>
+        <p> La lettre ne venait point par la poste, elle avait été apportée par un commissionnaire. </p>
+        <p> Ce commissionnaire l’avait jetée sur la table du bureau et s’était retiré sans mot dire. </p>
+        <p> L’écriture de la suscription m’était inconnue, l’enveloppe était d’un papier commun et grisâtre. </p>
+        <p> Je l’ouvris. </p>
+        <p> « Monsieur, me disait-on, Rocambole désire vous voir, il se fie à votre loyauté, attendez-le ce soir à onze heures, dans votre chambre, et prévenez qu’on laisse monter. » </p>
+        <p> Je tendis la lettre à Énault. </p>
+        <p> Il la lut et haussa les épaules. </p>
+        <p> – Mon bon ami, me disait-il, tu es la victime d’une jolie mystification. </p>
+        <p> – Plaît-il? </p>
+        <p> – Sans doute, comment veux-tu que Rocambole vienne ici? au coup de canon les forçats sont réintégrés dans le bagne et il n’en reste plus un seul dans les rues de Brest. </p>
+        <p> – Peut-être s’est-il évadé. </p>
+        <p> – Non, je crois le contraire, moi. </p>
+        <p> – Voyons? </p>
+        <p> – Tu as parlé de ce forçat introuvable, presque fantastique, au café de la Marine. Il y avait là plusieurs jeunes officiers, des aspirants moqueurs, des enseignes enchantés de se moquer d’un Parisien naïf. </p>
+        <p> – Eh bien? </p>
+        <p> – On va t’envoyer tout à l’heure un Rocambole de convention. </p>
+        <p> – Je reconnaîtrai bien le vrai, sois tranquille. </p>
+        <p> – Pour cela, il faudrait que tu l’eusses vu… </p>
+        <p> – Mais je l’ai vu! </p>
+        <p> – Où? quand? et comment? </p>
+        <p> – Puisque je t’affirme que c’est le Cent-dix-sept. </p>
+        <p> – Tarare! murmura Énault, je crois bien que tu deviens fou. </p>
+        <p> Et il prit possession de sa chambre, me laissait fumer un cigare à ma fenêtre. </p>
+        <p> Onze heures n’étaient pas loin; la rue de Siam, presque déserte, était éclairée par la pleine lune qui brillait au ciel de tout son éclat. </p>
+        <p> Chaque fois qu’un rare passant remontait la rue j’avais un battement de cœur. </p>
+        <p> Mais le passant s’éloignait, et j’en étais pour mes frais d’émotion. </p>
+        <p> Enfin onze heures sonnèrent aux horloges voisines. </p>
+        <p> Il n’y avait plus personne dans la rue. </p>
+        <p> Tout à coup j’entendis un bruit de voiture, et je vis apparaître deux lanternes au coin de la rue de la Mairie. </p>
+        <p> À Brest, les fiacres sont rares, les équipages de maître le sont plus encore. </p>
+        <p> À part le sous-préfet et quelques hauts fonctionnaires, deux ou trois armateurs retirés et une douzaine de propriétaires, personne n’a de voiture. </p>
+        <p> Aussi, en été surtout, passé dix heures du soir, les piétons n’ont pas à craindre d’être écrasés. </p>
+        <p> La voiture qui tournait la rue de la Mairie était une voiture de maître; cela se voyait aisément à ses grandes lanternes blanches munies de bougies. </p>
+        <p> Mais elle ne fixa mon attention que médiocrement, attendu que je ne pouvais pas supposer que Rocambole viendrait en voiture. </p>
+        <p> Cependant mon émotion et mon anxiété me reprirent, lorsque je vis l’équipage entrer dans la rue de Siam et venir s’arrêter à la porte de l’hôtel. </p>
+        <p> Un homme en descendit. </p>
+        <p> Il était enveloppé dans un caban qui, au jour, devait être bleu d’ordonnance, et sur les manches duquel la lune fit étinceler des broderies. </p>
+        <p> Décidément ce n’était pas, ce ne pouvait être Rocambole. </p>
+        <p> J’attendis encore. </p>
+        <p> Mais il n’y avait pas cinq minutes que la porte cochère de l’hôtel s’était refermée sur l’homme au caban qu’on frappa deux coups discrets à la mienne. </p>
+        <p> J’allai ouvrir. </p>
+        <p> Je tenais ma bougie à la main et sa lumière tomba d’aplomb sur mon visiteur. </p>
+        <p> J’avais devant moi un homme de taille moyenne, aux cheveux grisonnants, portant des favoris roux qui lui encadraient tout le bas du visage. </p>
+        <p> Sous le caban je vis un uniforme d’officier de marine. </p>
+        <p> – Pardon, monsieur, lui dis-je, je crois que vous vous trompez. </p>
+        <p> J’avais hâte de me débarrasser de cet intrus, dans l’espoir de voir apparaître Rocambole. </p>
+        <p> – Non, monsieur, me répondit-il, je ne me trompe pas, et c’est bien à vous que j’en ai. </p>
+        <p> Sur ces mots il entra et force me fut de fermer ma porte. </p>
+        <p> Tout aussitôt, il se débarrassa de son caban, et en dix secondes ses cheveux gris, ses favoris roux tombèrent et je poussai un cri d’étonnement. </p>
+        <p> Dans le brillant officier, je venais de reconnaître le forçat Cent-dix-sept. </p>
+        <p> – Vous! m’écriai-je. </p>
+        <p> Il mit un doigt sur sa bouche: </p>
+        <p> – Parlez bas, monsieur, me dit-il, vous pourriez me perdre. </p>
+        <p> J’étais stupéfait. </p>
+        <p> – C’est donc vous qui êtes Rocambole! </p>
+        <p> – C’est moi. </p>
+        <p> Puis attachant sur moi ce regard magnétique dont j’avais déjà subi l’influence: </p>
+        <p> – Monsieur, me dit-il, je vous crois un homme d’honneur et je me fie à vous. </p>
+        <p> – Oh! soyez tranquille, répondis-je. Mais comment avez-vous pu venir ici? </p>
+        <p> – Il y a bal à la Majorité, me répondit-il, et pour ne pas vous faire attendre, j’ai pris la voiture de l’amiral G… Comme il ne quittera le bal qu’à cinq heures, j’ai le temps de la lui renvoyer. </p>
+        <p> Mon étonnement se changeait en stupeur. </p>
+        <p> – Mais enfin, lui demandai-je, comment êtes-vous sorti du bagne? </p>
+        <p> – Ce serait trop long à vous raconter, me dit-il, et puis c’est un secret que je désire garder. Du reste, je serai rentré bien avant le coup de canon. </p>
+        <p> – Vous rentrerez? </p>
+        <p> – Mais sans doute. </p>
+        <p> – Comment! m’écriai-je, vous êtes hors du bagne, vous avez scié vos fers, vous pouvez sortir de Brest, grâce au déguisement sous lequel vous êtes venu et vous hésitez?… </p>
+        <p> – Je vous dirai même mieux, monsieur, répondit-il, en souriant. Si je voulais sortir de Brest tout à l’heure, rien ne me serait plus facile. La voiture de l’amiral, qui a une maison de campagne à Lambezellec, passerait les deux portes sans même être visitée. </p>
+        <p> – Et vous rentrerez au bagne! </p>
+        <p> – Après avoir causé avec vous. </p>
+        <p> – Mais quel homme êtes-vous donc? </p>
+        <p> – Je suis, me répondit-il, un homme qui a été un grand coupable et qui s’incline sans murmurer devant le châtiment. </p>
+        <p> – Vous vous repentez? </p>
+        <p> – Oui. D’abord… </p>
+        <p> – Et… ensuite? </p>
+        <p> – Écoutez, monsieur, me dit-il, si je suis venu ici, croyez bien que ce n’est ni un intérêt d’argent, ni le désir de poser, naturel aux gens de ma profession, si tant il est vrai que l’infamie en soit une. </p>
+        <p> « Il vous a plu d’écrire un roman dont je suis le héros. </p>
+        <p> « J’en ai lu la première partie. Tout n’est pas rigoureusement exact, et un homme, cent fois plus misérable que moi, a laissé percer sa haine dans les notes qu’il vous a données. </p>
+        <p> – Vous venez me demander des rectifications? </p>
+        <p> – Non, dit-il avec indifférente, il n’est question que de moi. Laissez cela ainsi. Mais pour la suite… </p>
+        <p> – Vous me donnerez des notes, vous? </p>
+        <p> – Oui, monsieur. Vous les recevrez à Paris avant quinze jours; et, ajouta-t-il en souriant, je ne vous les ferai point payer, moi, comme Timoléon, à qui vous avez souscrit quatre mille francs de billet. </p>
+        <p> – L’argent vous est dont devenu indifférent? </p>
+        <p> – Je n’en ai pas besoin. Si j’en voulais… </p>
+        <p> Il compléta sa pensée par un sourire et n’alla pas plus loin. </p>
+        <p> – Mais, enfin, lui dis-je, vous restez donc au bagne, repentant et résigné? </p>
+        <p> – D’abord. </p>
+        <p> – Et ensuite?… répétai-je. </p>
+        <p> Il était debout devant moi, pâle, triste, presque hautain. </p>
+        <p> – Ensuite? fit-il, vous voulez le savoir? </p>
+        <p> – Oui. </p>
+        <p> – J’ai au cœur une ardente affection, une affection de frère. </p>
+        <p> – Vous avez une sœur? </p>
+        <p> Un amer sourire crispa ses lèvres. </p>
+        <p> – Pas tout à fait, me dit-il. Un jour, j’ai rencontré un homme sur le pont d’un navire. Cet homme était un marin, parti jeune de France, et qui y revenait après une absence de vingt ans. </p>
+        <p> « Une mère, une sœur l’attendaient. </p>
+        <p> « Il était marquis, l’attendait en France une grande situation de fortune; il n’avait qu’à paraître, pour que le monde lui ouvrit ses portes à deux battants. </p>
+        <p> « Par une de ces fatalités étranges, que rien ne saurait expliquer, j’étais de l’âge de cet homme, j’avais sa taille, je lui ressemblais… une mère devait s’y tromper… </p>
+        <p> – Après? demandai-je avec anxiété, car je vis une larme qui roula lentement de ses grands yeux d’un bleu sombre, sur sa joue pâlie. </p>
+      </div>
+      <div title="XIV" type="chapter">
+        <head> XIV </head>
+        <p> – Après! reprit-il en essuyant cette larme qui roulait sur sa joue, le navire sur lequel nous revenions en France, cet homme et moi, fit naufrage. </p>
+        <p> – Et il se noya? </p>
+        <p> – Non. Nous nous sauvâmes à la nage; nous abordâmes une petite île, et là, j’assassinai le malheureux. </p>
+        <p> « Vous devinez le reste, n’est-ce pas? </p>
+        <p> « Affublé de ses habits, muni de ses papiers, j’arrivai à Paris. </p>
+        <p> « Sa mère et sa sœur me tendirent les bras… » </p>
+        <p> Il s’arrêta de nouveau, dominé par une impérieuse émotion. </p>
+        <p> Je lui avançai une chaise, car il était demeuré debout jusque-là. </p>
+        <p> Il s’assit, et s’efforçant de sourire: </p>
+        <p> – C’est la corde douloureuse de mes souvenirs que vous faites vibrer en ce moment, me dit-il, pardonnez-moi. </p>
+        <p> Puis il reprit: </p>
+        <p> « Pendant deux ans, Paris entier m’a pris pour un vrai marquis, cette mère m’a appelé son fils, cette jeune fille son frère. </p>
+        <p> « Et je les ai aimées toutes deux, avec adoration. </p>
+        <p> « Celle que j’appelais ma mère est morte dans mes bras, après m’avoir béni, et j’ai pleuré de vraies larmes. </p>
+        <p> « Celle que j’appelais ma sœur ignore encore et qui je suis, et ce que je suis devenu. Elle ne le saura jamais. </p>
+        <p> « C’est pour cela que je reste ici, comprenez-vous? </p>
+        <p> « Un sentiment honnête et pur est tombé un jour dans mon âme vile et corrompue et l’a touchée. </p>
+        <p> « Si une étoile tombait du ciel dans la fange, ne croyez-vous pas que la fange deviendrait étincelante comme du rubis? </p>
+        <p> « Oui, n’est-pas? </p>
+        <p> « Eh bien! cet amour devenu fraternel m’a sauvé. </p>
+        <p> « Je me suis repenti. </p>
+        <p> – Et vous ne sortirez jamais du bagne? lui demandai-je. </p>
+        <p> – Jamais, à moins que… </p>
+        <p> Il parut hésiter. </p>
+        <p> – À moins? insistai-je. </p>
+        <p> – Qu’il me fût donné de racheter mon passé. </p>
+        <p> Mais comme s’il se fût repenti d’avoir prononcé ces derniers mots, il se hâta d’ajouter: </p>
+        <p> – Mais ce n’est point de cela qu’il s’agit et ce n’est pas pour cela que je suis venu vous voir. </p>
+        <p> J’attendis qu’il s’expliquât. </p>
+        <p> – Vous avez maintenant le secret de mon cœur. J’ai une seule affection au monde, et je viens vous supplier, vous qui allez écrire mon histoire, de la respecter. </p>
+        <p> – Que voulez-vous dire? </p>
+        <p> – Ceci. Changez bien les noms, déguisez bien les détails et les événements. Si la femme dont je vous parle venait à deviner la vérité, je crois qu’elle en mourrait. </p>
+        <p> Il me demandait cela avec des larmes dans la voix. </p>
+        <p> Je lui promis tout ce qu’il voulut. </p>
+        <p> – Excusez-moi, me dit-il alors, mais il se fait tard. L’Amiral peut avoir besoin de sa voiture et il est temps de la lui envoyer. Permettez-moi donc de vous quitter. </p>
+        <p> Et il rajusta ses favoris et la perruque de cheveux grisonnants, remit son caban, qu’il avait ôté un moment, replaça sur sa tête sa casquette galonnée, et je me pris alors à le regarder. </p>
+        <p> Le diable lui-même n’aurait pas deviné en lui un forçat. </p>
+        <p> – Ainsi, lui dis-je quand il fut prêt à partir, je recevrai vos notes? </p>
+        <p> – Dans quinze jours. Adieu, monsieur… </p>
+        <p> Je voulus lui tendre la main, il refusa. </p>
+        <p> – Non, me dit-il, ma main est souillée… Si jamais je me réhabilite… </p>
+        <p> Il n’acheva pas et fit un pas vers la porte. </p>
+        <p> – Ne vous reverrai-je donc jamais? lui demandai-je. </p>
+        <p> – Si vous restez à Brest, et que vous reveniez à l’Arsenal, vous m’apercevrez. Mais, me dit-il, j’ai encore une grâce à vous demander. </p>
+        <p> – Parlez. </p>
+        <p> – Personne à Brest ne sait mon vrai nom. Si vous venez à l’Arsenal, ne le prononcez pas. </p>
+        <p> – Votre recommandation est inutile. Nous partons demain. </p>
+        <p> – Ah! </p>
+        <p> – Mais laissez-moi, à mon tour, vous faire une dernière question. </p>
+        <p> Sa main qui déjà pressait le bouton de la porte, s’arrêta. </p>
+        <p> – Comment se fait-il, lui dis-je, que votre procès n’ait pas fait plus de bruit? </p>
+        <p> – À Paris il eût eu un grand retentissement; mais j’ai été jugé à Versailles, et il y avait tant de gens intéressés à ce que cette affaire fût étouffée, qu’on m’a jugé à huis-clos. </p>
+        <p> – Je comprends. </p>
+        <p> Il me salua une dernière fois et sortit. </p>
+        <p> Penché à ma fenêtre, je le vis sortir de l’hôtel et monter en voiture. </p>
+        <p> Le garçon de nuit lui ouvrit la portière avec les marques d’un grand respect. </p>
+        <p> Puis la voiture disparut à l’angle de la rue de la Mairie, et alors je me frottai les yeux pour être bien sûr que je ne dormais pas. </p>
+        <p> Il n’en était pas de même de mon compagnon de voyage. </p>
+        <p> Énault était rentré dans sa chambre, avait allumé deux bougies et s’était mis à travailler. </p>
+        <p> Je frappai, il ne répondit pas. </p>
+        <p> La clef était sur la porte, j’entrai. </p>
+        <p> Je le trouvai les deux bras allongés sur son papier et sa tête sur ses deux bras. </p>
+        <p> Une bordée de coups de canon ne l’eût pas réveillé. Il avait écrit environ huit lignes. </p>
+        <p> J’en conclus qu’il s’était endormi bien avant l’arrivée de Rocambole, et je me retirai sur la pointe du pied. </p>
+        <p> Le lendemain, en effet, j’étais encore au lit quand il entra dans ma chambre. </p>
+        <p> – Eh bien? me dit-il. </p>
+        <p> – Eh bien! quoi? fis-je d’un air dépité. </p>
+        <p> – As-tu vu Rocambole? </p>
+        <p> – Non. </p>
+        <p> – J’en étais sûr. Ces messieurs les aspirants t’ont mystifié. C’est clair. </p>
+        <p> – Je commence à le croire. </p>
+        <p> – Et il y a autre chose que tu ferais bien de croire aussi, me dit-il d’un ton moqueur. </p>
+        <p> – Quoi donc? </p>
+        <p> – C’est que Rocambole n’existe pas. </p>
+        <p> – Oh! par exemple! </p>
+        <p> – Et c’est un hardi coquin appelé Timoléon qui s’est moqué de toi. </p>
+        <p> – Après cela, lui dis-je avec indifférence, c’est bien possible. </p>
+        <p> – Alors tu renonces à le chercher? </p>
+        <p> – Tout à fait. </p>
+        <p> – Qu’allons-nous faire aujourd’hui? </p>
+        <p> – Prendre la diligence et nous en aller. </p>
+        <p> – Je ne demande pas mieux, répondit Énault qui brûlait de retourner à Morlaix, où il avait fait une conquête. </p>
+        <p> Mais comme nos impressions de voyage ne sont point du domaine de ce récit, je me borne à vous dire que dix jours plus tard nous étions à Paris. </p>
+        <p> Plusieurs lettres m’attendaient. </p>
+        <p> Une de Bergerette qui demandait à faire la paix; une autre du bon Schiller qui me disait: </p>
+        <p> « M. Delamarre (de la maison Delamarre, Martin Didier et C ie ) désire commencer la seconde partie de ton roman un peu plus tôt. On a baissé depuis ton départ. </p>
+        <p> « Mets-toi donc à la besogne le plus vite possible. » </p>
+        <p> Je répondis à Schiller: </p>
+        <p> « Je suis prêt à commencer dans huit jours. » </p>
+        <p> Enfin le surlendemain de mon arrivée, un facteur des messageries impériales se présenta chez moi. </p>
+        <p> Comme ce fut Bergerette qui alla lui ouvrir, vous devinez, n’est-ce pas, que j’avais répondu à sa lettre. </p>
+        <p> Le facteur portait sous son bras un registre et à la main un paquet. </p>
+        <p> Le timbre de Brest me fixa sur la nature de ce colis. </p>
+        <p> C’étaient les notes que m’avait promises Rocambole. </p>
+      </div>
+      <div title="XV" type="chapter">
+        <head> XV </head>
+        <p> C’étaient bien, en effet, les notes du forçat qui m’arrivaient sous une enveloppe de toile cirée. </p>
+        <p> Je passai toute la nuit à les lire. </p>
+        <p> Elles avaient la longueur d’un volume in-8°. </p>
+        <p> Combien de volumes ai-je fait avec cela? Je n’en sais rien. </p>
+        <p> Mais c’est qu’aussi celui qui les avait écrites ne s’était pas complu aux développements. </p>
+        <p> C’était un véritable sommaire; mieux que cela même, un compte-rendu de sténographe. </p>
+        <p> Orthographe irréprochable, style négligé, mais clair et qui sentait l’homme qui avait été mêlé longtemps à des gens d’éducation. </p>
+        <p> Si le criminel était hors ligne, évidemment l’homme n’était pas ordinaire. </p>
+        <p> Çà et là un paysage en quatre coups de crayon, un caractère dessiné en dix lignes accusaient chez ce condottiere moderne une nature essentiellement artiste. </p>
+        <p> Et quelles connaissances pratiques de certaines choses! </p>
+        <p> Il savait sur le bout du doigt la vie élégante, le high-life, la haute vie, comme disent les Anglais. </p>
+        <p> Et le cheval! et la chasse! et les femmes du demi et du quart du monde! </p>
+        <p> Je ne pus, en terminant, me défendre de cette réflexion que j’accompagnai d’un soupir: </p>
+        <p> – Quel dommage que les gens du vrai monde soient moins intelligents que celui-là, en général, et non en particulier, bien entendu! </p>
+        <p> Les notes de Rocambole rapprochées de celles de Timoléon jetaient un jour tout nouveau sur cette association mystérieuse des Valets de cœur. </p>
+        <p> Au fond, le sujet était identique et en dépit des noms changés chez l’un et chez l’autre, je connaissais les mêmes personnages; mais là cessait la similitude. </p>
+        <p> Le récit de Rocambole était humain; on sentait, on éprouvait, on frissonnait parfois, on s’attendrissait aussi, en le lisant. </p>
+        <p> Celui de Timoléon ressemblait, au contraire, à un réquisitoire. </p>
+        <p> On devinait que cet homme n’avait eu qu’un but, assombrir ce tableau déjà si sombre et achever d’avilir cet homme déjà couvert de crimes. </p>
+        <p> Huit jours après, j’étais à l’œuvre et laissant de côté le travail de Timoléon, je ne me servais que de celui de Rocambole. </p>
+        <p> Les Valets de cœur parurent. </p>
+        <p> On a toujours mauvaise grâce à parler de soi; cependant, qu’on me le pardonne! je dois dire que le succès des Valets de cœur dépassa de beaucoup l’ Héritage mystérieux. </p>
+        <p> J’avais vu Rocambole; je pouvais donc le dépeindre hardiment, correctement. </p>
+        <p> Ses notes étaient trop considérables pour que je pusse me borner à une seule partie. </p>
+        <p> Je les divisai donc en deux. </p>
+        <p> Les Valets de cœur terminés, j’annonçai une suite qui aurait pour titre: les Exploits de Rocambole. </p>
+        <p> Puis je me reposai quelques mois. </p>
+        <p> Mais, durant mon repos, il m’arriva une singulière aventure, comme on va le voir. </p>
+        <p> Depuis une quinzaine d’années, je me lève régulièrement à cinq heures en été, à six heures en hiver. Dans cette dernière saison, je commence donc toujours à travailler à la lumière. </p>
+        <p> Il m’arriva, vers le milieu de novembre, de me lever un matin et de me trouver en face de ma table de travail sans une feuille de papier. </p>
+        <p> J’ai des confrères qui achètent des rames de papier blanc. </p>
+        <p> Si je les imitais, l’épouvante s’emparerait de moi et je n’écrirais jamais une ligne. </p>
+        <p> Le public y gagnerait peut-être, mais mon budget… </p>
+        <p> Or, n’en déplaise à quelques bons petits camarades qui, dénaturant mon nom, m’ont appelé Ponson du Travail , je suis né paresseux et je mourrai tel. </p>
+        <p> Pour me mettre à la besogne, chaque matin, je me fais une foule de raisonnements plus ingénieux et plus perfides les uns que les autres. </p>
+        <p> Ma volonté lutte avec ma paresse comme une mère avec son fils qui ne veut pas aller à l’école. </p>
+        <p> Cela vous explique pourquoi je n’ai jamais que deux ou trois cahiers de papier à lettre chez moi. </p>
+        <p> Je me raconte, en les achetant, que ce sont les derniers, et j’ai la bonne foi momentanée de croire à la parole que je me donne. </p>
+        <p> Donc, ce matin-là, je n’avais pas de papier. </p>
+        <p> Mais pas un feuillet, et l’imprimerie attendait. </p>
+        <p> Il y a un aimable homme, à la Patrie : tête fière, intelligente, toujours jeune; hors de l’atelier de typographie, c’est un gentleman parfait. </p>
+        <p> Dans l’atelier, cet homme charmant, me faisait alors l’effet de la tête de Méduse. </p>
+        <p> C’est M. Auguste Salomon, le metteur en pages. </p>
+        <p> – Je n’ai plus de copie! me disait-il d’un air terrible. </p>
+        <p> Et sa jolie figure devenait pour moi laide à faire peur, du jour où j’étais en cours de publication à la Patrie. </p>
+        <p> Elle m’apparaissait dans mes rêves, elle me poursuivait à table, au bain, à la promenade; il me semblait toujours l’entendre me crier: </p>
+        <p> « Je n’ai plus de copie! » </p>
+        <p> Et ce matin-là, c’était vrai. Il n’y avait pas un feuillet dans son carton, pas une ligne sur le marbre. </p>
+        <p> À huit heures et demie, on venait chercher mon feuilleton. </p>
+        <p> Je ne pouvais pourtant pas me piquer une veine avec un poignard et l’écrire avec mon sang sur ma chemise. </p>
+        <p> On m’aurait accusé de voler M. Barginet de Grenoble, qui a écrit, voici quarante ou cinquante ans, un roman qui a fait la joie de ma douzième année, et qui s’appelle la Chemise sanglante . </p>
+        <p> Le plus simple était d’acheter du papier. </p>
+        <p> Mais où? </p>
+        <p> Les papetiers ne travaillent que pour les gens du monde, ils ignorent que les gens de lettres se lèvent à l’heure où les premiers se couchent – il n’y a pas à six heures du matin un seul papetier ouvert à Paris. </p>
+        <p> Je ne connaissais aucun de mes voisins, par la raison bien simple que je venais de quitter la rue Bellefond pour le boulevard Montmartre; mais ce ne serait vraiment pas la peine de s’efforcer d’être ingénieux dans ses livres, si on ne l’était un peu pour soi-même. </p>
+        <p> Après deux minutes de réflexion, voici ce que je trouvai: </p>
+        <p> Le restaurant Vachette est ouvert toute la nuit; et on y trouve du papier. </p>
+        <p> Je m’habillai donc et je traversai le boulevard sous une petite pluie fine qui me fit envier la condition heureuse des papetiers. </p>
+        <p> Aujourd’hui, je me serais borné à demander du papier au maître d’hôtel, en m’autorisant du chef actuel de l’établissement, M. Brébant, qui est bien plus notre ami à tous que notre restaurateur… </p>
+        <p> Mais alors?… </p>
+        <p> Je demandai donc bravement à souper, moi qui n’avais pas faim et je m’installai dans le petit salon du premier, qui est si bruyant et si pittoresque les nuits de bal d’opéra. </p>
+        <p> On m’apporta tout ce que je demandai et je me mis à travailler… et à souper… </p>
+        <p> Une seule personne était dans le salon, à l’autre bout, sirotant un verre de n’importe quoi. </p>
+        <p> C’était un homme bien couvert, mais sa mine délabrée, son linge fripé, ses bottes mouchetées de fange disaient qu’il avait passé la nuit. </p>
+        <p> Son œil atone décelait cette ivresse calme, froide, abrutie, des buveurs d’absinthe de profession. </p>
+        <p> Si j’avais l’honneur d’être législateur, je mettrais sur l’absinthe un impôt tel qu’il faudrait être archi-millionnaire pour en boire un verre le dimanche. </p>
+        <p> Cet homme me regardait écrire avec une curiosité presque bienveillante, lorsque le garçon qui me servait m’appela par mon nom. </p>
+        <p> Ce fut un coup de théâtre. </p>
+        <p> L’œil atone devint sinistre et flamboyant; le corps plongé dans une molle langueur se roidit; le visage hébété retrouva soudain une lueur d’intelligence. </p>
+        <p> Et cet homme se leva, et, à mon grand étonnement, il vint s’asseoir devant moi, posa les deux coudes sur la table, et me regardant en face, il me dit: </p>
+        <p> – Vous n’avez donc pas peur d’un coup de poignard? </p>
+        <p> Les ivrognes m’inspirent plus de dégoût que de crainte. </p>
+        <p> Néanmoins je jugeai prudent de me lever et de me mettre en garde contre toute agression. </p>
+        <p> Il ne bougea pas, lui, mais me regardant avec des yeux féroces, il ajouta: </p>
+        <p> – Je n’étais pas à Paris, quand vous vous êtes permis de raconter tout de travers l’histoire des Valets de cœur . Je ne suis ici que d’hier, et depuis hier je vous cherche… Puisque le hasard se charge du rapprochement, nous allons causer, hein?… </p>
+      </div>
+      <div title="XVI" type="chapter">
+        <head> XVI </head>
+        <p> Le garçon avait quitté la salle. </p>
+        <p> Mon singulier adversaire et moi nous étions seuls. </p>
+        <p> Je ne suis ni un hercule ni un boxeur de premier ordre, mais j’ai pratiqué à peu près tous les exercices du corps, depuis l’équitation jusqu’à l’escrime, en passant par cette science vulgaire, mais utile, qui a nom la savate. </p>
+        <p> Je commençai donc par faire un bond en arrière laissant la table entre nous; et comme je n’avais pas de poignard, je m’armai fort tranquillement du couteau qui m’avait servi à manger du pâté de foie gras. </p>
+        <p> Il est vrai que ce couteau était rond, mais enfin c’était un couteau. </p>
+        <p> Mon altitude fit-elle réfléchir cet homme? </p>
+        <p> Je n’en sais rien. </p>
+        <p> Mais au lieu de se ruer sur moi, il baissa la voix au contraire, et, se rasseyant, il me dit: </p>
+        <p> – Vous vous trompez, monsieur, ce n’est pas ici que je veux m’expliquer avec vous. </p>
+        <p> Je ne perdis point ma position de défense et j’attendis. </p>
+        <p> Il continua, toujours à voix basse et me regardant avec ses grands yeux féroces: </p>
+        <p> – Je suis un des Valets de cœur. On a condamné Rocambole, mais moi je m’en suis tiré. Ils ne me repinceront pas, soyez tranquille. </p>
+        <p> – Mais enfin, lui dis-je, que me voulez-vous? </p>
+        <p> – Je veux que vous ne parliez plus des Valets de cœur. </p>
+        <p> – Ah! vous voulez?… </p>
+        <p> – Oui, je le veux. Et tenez-vous pour averti. </p>
+        <p> Sur ces mots il se leva de nouveau et fit un pas de retraite. </p>
+        <p> Puis, clignant de l’œil: </p>
+        <p> – Vous auriez la partie trop belle ici, ajouta-t-il. On m’arrêterait. </p>
+        <p> Et il sortit, oubliant de payer ce qu’il devait. </p>
+        <p> Le garçon revint; je le questionnai. </p>
+        <p> – C’est un ivrogne, me dit le garçon. Il vient ici toutes les nuits et il cherche toujours querelle à quelqu’un. </p>
+        <p> – Comment, toutes les nuits? </p>
+        <p> – Oui, monsieur. </p>
+        <p> – Depuis longtemps? </p>
+        <p> – Depuis plus d’un an. </p>
+        <p> Ces mots me rassurèrent complètement. </p>
+        <p> Cet homme qui se donnait pour un Valet de cœur et qui se disait arrivé de la veille à Paris, n’était qu’un buveur d’absinthe plaisant et lugubre. </p>
+        <p> Il avait trouvé drôle de jouer ce rôle-là vis-à-vis de moi. </p>
+        <p> Je terminai donc tranquillement mon feuilleton. </p>
+        <p> Le lendemain, je ne pensais plus à cette petite mésaventure, et mon feuilleton continuait à paraître. </p>
+        <p> Deux jours plus tard, en rentrant chez moi, après le spectacle, en traversant mon cabinet et m’approchant de ma table de travail, je fis tout à coup un pas en arrière, et il me passa dans le dos un léger frisson. </p>
+        <p> J’avais vu Rocambole au bagne, j’avais lu ses notes, et ses notes et celles de Timoléon étaient parfaitement d’accord sur un point, l’existence d’une bande de malfaiteurs appelés les Valets de cœur . </p>
+        <p> Or partout où ces gens-là, jadis, avaient coutume de commettre un méfait, ils laissaient une trace de leur passage. </p>
+        <p> Cette trace était une carte – et cette carte un Valet de cœur . </p>
+        <p> À en croire les notes de Timoléon et celles de Rocambole, on avait quelquefois trouvé ce Valet de cœur cloué avec un poignard sur la poitrine d’un homme assassiné. </p>
+        <p> Or, ce que je venais d’apercevoir sur ma table de travail, au milieu, c’était une carte, et cette carte était un Valet de cœur!… </p>
+        <p> On m’avait fait grâce du poignard; mais la carte était fixée à mon appuie-main par une épingle. </p>
+        <p> Stupéfait, un peu ému, je la pris, je la tournai et la retournai dans mes doigts. </p>
+        <p> Au dos, il y avait deux mots écrits au crayon: </p>
+        <p> Prenez garde! </p>
+        <p> Était-ce un ami ou un ennemi qui m’avertissait? </p>
+        <p> Je ne passai pas, comme bien on pense, une fort bonne nuit et, j’agitai très-sérieusement la question de savoir si je ne cesserais pas, sous un prétexte quelconque, la publication d’un livre dont les droits d’auteur me paraissaient devoir être payés en coups de couteau. </p>
+        <p> Mais, comme je l’ai dit, j’avais alors vingt-quatre ans, et à cet âge-là il n’y a pas d’insomnie complète. </p>
+        <p> J’avais donc fini par m’endormir et il était bien près de huit heures – moi qui me levais à six – que j’étais encore au pays du cauchemar. </p>
+        <p> Un bruit m’éveilla, on frappait à ma porte. </p>
+        <p> – Monsieur, me dit mon domestique, un homme désire vous voir tout de suite: il est dans votre cabinet. </p>
+        <p> Mon léger frisson me reprit. </p>
+        <p> – Comment est-il? demandai-je; a-t-il mauvaise mine? </p>
+        <p> – Mais non, monsieur. Seulement, il est très-grand. </p>
+        <p> – Ah! </p>
+        <p> – Et large à proportion. </p>
+        <p> Je sautai à bas de mon lit et passai dans mon cabinet à peine vêtu. </p>
+        <p> Un homme m’y attendait en effet; une manière de géant, à l’air bonasse, du reste, et qui me salua respectueusement: </p>
+        <p> – Vous ne me reconnaissez peut-être pas, monsieur? me dit-il. </p>
+        <p> – Non… cependant… il me semble… </p>
+        <p> Et, en effet, mes souvenirs étaient fort confus. </p>
+        <p> – C’est moi qui vous ai abordé un soir rue Bellefond. </p>
+        <p> – Bon! pensai-je, nous y voilà! c’est un valet de cœur! </p>
+        <p> – Monsieur, reprit cet homme, vous avez eu une vilaine histoire, il y a trois jours. </p>
+        <p> – Mais… </p>
+        <p> – Un homme vous a fait des menaces, au café Vachette. </p>
+        <p> – C’est vrai. </p>
+        <p> – C’est pour cela que je viens, monsieur. </p>
+        <p> – Comment? m’écriai-je, vous aussi, vous ne voulez pas que je publie mon roman? </p>
+        <p> – C’est tout le contraire, puisque cela plaît à Rocambole. </p>
+        <p> – Alors pourquoi venez-vous? </p>
+        <p> – Pour vous protéger. </p>
+        <p> Mon étonnement devenait de l’ébahissement. </p>
+        <p> Le colosse continua: </p>
+        <p> – Vous êtes allé à Brest, n’est-ce pas? </p>
+        <p> – Oui. </p>
+        <p> – Vous avez vu le Maître? </p>
+        <p> – Qui ça, le Maître ? </p>
+        <p> – Rocambole donc, nous l’appelons ainsi, et du fond du bagne, il nous commande et nous lui obéissons. </p>
+        <p> – Bien. </p>
+        <p> – Il vous a envoyé ses notes et c’est avec cela que vous travaillez? </p>
+        <p> – Sans doute. </p>
+        <p> – Et bien! voilà ce que Venture ne veut pas croire. </p>
+        <p> – Qu’est-ce que Venture? </p>
+        <p> – L’homme qui vous a cherché querelle. </p>
+        <p> – C’est donc réellement un valet de cœur. </p>
+        <p> – Oui, monsieur. </p>
+        <p> – Et il ne veut pas de la publication du roman? </p>
+        <p> – C’est-à-dire qu’il a juré de vous tuer, à moins qu’on ne lui montre une lettre du Maître. </p>
+        <p> – Et cette lettre? </p>
+        <p> – J’ai écrit à Brest. Je l’attends. Nous l’aurons dans 8 jours. Mais, d’ici là… </p>
+        <p> – Eh bien? </p>
+        <p> – Vous me permettrez de ne pas vous quitter. </p>
+        <p> – Je cours donc un sérieux danger? </p>
+        <p> – Oui, monsieur; vous ferez même bien de ne pas sortir sans moi. </p>
+        <p> – Je ne sortirai même pas du tout, si cela peut vous faire plaisir. </p>
+        <p> – Cela vaut encore mieux; car Venture n’est pas seul; ils sont quatre ou cinq à avoir ces idées-là. Heureusement que, quand le Maître aura parlé… </p>
+        <p> – Croyez-vous qu’ils lui obéiront? </p>
+        <p> – Ah! certainement oui, allez! acheva le colosse avec un accent de conviction qui passa de ses lèvres dans mon esprit. </p>
+        <p> Je me résignai. </p>
+        <p> Pendant trois jours, je ne quittai pas mon domicile, et je ne vis Paris que du haut de mon balcon qui donne, du reste, sur le boulevard. </p>
+        <p> Le colosse s’était installé chez moi, ne faisait pas de bruit, partageait mes repas et me parlait alors de Rocambole comme il eût parlé d’un saint. </p>
+        <p> Le quatrième jour, il se mit sur le balcon vers huit heures du soir, posa deux doigts sur sa bouche et siffla. </p>
+        <p> – Que faites-vous? </p>
+        <p> – J’avertis un camarade. </p>
+        <p> – Pourquoi faire? </p>
+        <p> Un coup de sifflet qui semblait partir du café Mazarin domina le bruit des voitures qui grinçaient sur le macadam détrempé. </p>
+        <p> Le colosse se retourna vers moi. </p>
+        <p> – Cela veut dire, monsieur, que le Maître a écrit et que vous pouvez être tranquille. Venture ni les autres ne feront plus rien pour vous chagriner. </p>
+        <p> Et il s’en alla, sans vouloir accepter même une gratification. </p>
+        <p> Depuis ce jour là, en effet, je n’entendis plus parler de Venture; mais l’homme n’est pas parfait, comme l’a prouvé dans un petit chef-d’œuvre notre cher et regretté camarade Lambert Thiboust, et je gardai rancune à cet homme qui m’avait fait passer une si mauvaise nuit. </p>
+        <p> Aussi, plusieurs années après, lorsque je fis représenter à l’Ambigu le drame de Rocambole en collaboration avec Anicet et Blum, nous arrangeâmes-nous pour que, au second acte, Venture fût tué d’un coup de pistolet, au fond d’une barque en face de l’île de Croissy, par Rocambole lui-même. </p>
+        <p> Je ne crois pas qu’il en soit mort, mais il a été certainement très-humilié de quitter la pièce avant le cinquième acte, et cela lui apprendra à venir molester un pauvre romancier qui fait tranquillement son feuilleton pour ne point irriter M. Delamarre (de la maison Delamarre, Martin Didier et C e .). </p>
+      </div>
+      <div title="XVII" type="chapter">
+        <head> XVII </head>
+        <p> Les Valets de cœur eurent plus de cent feuilletons. </p>
+        <p> Leur dénoûment atteignait juste la moitié des notes que m’avait fournies Rocambole. </p>
+        <p> Je demandai un nouveau repos, et je fus interrompu pour deux ou trois mois. </p>
+        <p> Mais, pendant cette interruption, la suite des aventures de mon héros courut, comme on va le voir, un sérieux danger. </p>
+        <p> Les Tables tournantes venaient de passer l’océan, portées à bras tendus par un médium américain, et de se produire dans le monde à la stupéfaction générale. </p>
+        <p> Vous vous souvenez tous, n’est-ce pas, qu’il y a une dizaine d’années, ce fut une passion, une fureur, une rage. </p>
+        <p> Le plus petit guéridon devenait un oracle, et l’esprit d’un grand homme quelconque vous faisait la politesse de le venir habiter et de répondre, par l’intermédiaire de son pied unique, à toutes vos questions. </p>
+        <p> Je pourrais bien vous raconter, sans quitter la plume, une vingtaine de volumes fabriqués avec des anecdotes sur les tables tournantes. Mais, rassurez-vous, je ne vous parlerai que de celle de la Patrie . </p>
+        <p> Avec cet esprit ingénieux, chercheur, toujours avide de l’inconnu, qui le caractérisait, M. Delamarre ne pouvait pas laisser passer inaperçu le nouveau phénomène. </p>
+        <p> Un jour il invita à dîner toute la rédaction, et nous dit: </p>
+        <p> – Mes enfants, je vous réserve pour ce soir une petite surprise; je vous montrerai un médium, et, Dieu aidant, nous trouverons le mot de l’énigme. </p>
+        <p> En effet, au dessert, on vit apparaître un homme tout de noir vêtu, au visage ascétique, aux yeux inspirés, devant lequel on plaça une petite table, et qui nous dit gravement: </p>
+        <p> – Qui voulez-vous que j’évoque? </p>
+        <p> Chacun nomma un grand homme quelconque de l’antiquité ou du moyen âge. M. Delamarre, qui s’amusait fort, prit la parole et nous dit: </p>
+        <p> – Vous savez que la Patrie a accueilli les réclamations des habitants de Montmartre, qui se plaignent de n’avoir pas d’eau potable. Je compte les soutenir très-chaudement auprès de l’administration, et pour cela je ne négligerai rien. </p>
+        <p> « Or les vieilles chroniques nous apprennent qu’au temps du roi saint Louis on trouvait à Montmartre d’excellente eau. </p>
+        <p> « D’où venait-elle? Les chroniques ne nous le disent point, mais saint Louis doit le savoir. </p>
+        <p> « Monsieur le médium, évoquez-nous donc saint Louis. » </p>
+        <p> M. Delamarre avait un sourire un peu moqueur sur les lèvres, car je jure bien qu’alors il ne croyait guère aux tables tournantes. ». </p>
+        <p> La table commença à s’agiter imperceptiblement sous les mains du médium; puis elle leva un pied, et frappa trois coups. </p>
+        <p> L’esprit évoqué nous annonçait qu’il était dans la table et tout à fait à notre disposition. </p>
+        <p> Vous savez tous comment s’établissait une conversation entre les vivants et les morts qui faisaient élection de domicile dans un guéridon. </p>
+        <p> La table frappait du pied autant de coups qu’il en fallait pour désigner la place des lettres dans l’alphabet; on unissait ensuite les lettres, puis les mots, et on obtenait ainsi la réponse de l’esprit. </p>
+        <p> On demanda donc à saint Louis qui voulait bien nous répondre, où les Montmartrois se procuraient de l’eau. </p>
+        <p> La réponse nous stupéfia. </p>
+        <p> – Dans le Mançanarez, nous répondit-il en espagnol. </p>
+        <p> Nous fîmes tous un haut-le-corps. </p>
+        <p> Comment était-il admissible que les habitants de Montmartre allassent puiser leur eau dans une rivière d’Espagne? </p>
+        <p> Ensuite, et ceci était tout aussi bizarre, pourquoi Louis IX parlait-il espagnol à des Français? </p>
+        <p> – Je sais bien, nous dit M. Delamarre que le bon roi avait été élevé par sa mère, Blanche de Castille, et qu’elle avait dû lui apprendre l’espagnol… Mais ce n’est pas une raison suffisante. </p>
+        <p> Et il dit au magnétiseur: </p>
+        <p> – Demandez-lui donc s’il ne se laisse pas abuser par la confusion de ses souvenirs. Il est impossible de croire que les gens de Montmartre fissent le voyage de Madrid chaque fois qu’ils avaient soif. </p>
+        <p> L’esprit fut interpellé de nouveau. </p>
+        <p> Il avoua qu’il n’avait pas compris notre première question et qu’il avait cru qu’on lui parlait non des Montmartrois, mais des Madrilènes; que pour ce qui concernait les premiers, il n’en savait absolument rien. </p>
+        <p> – Vous devriez pourtant le savoir, dit M. Delamarre, vous qui avez été roi de France. </p>
+        <p> – Jamais, répondit l’esprit. Ce n’est pas moi. </p>
+        <p> – Vous êtes pourtant saint Louis? </p>
+        <p> – Oui. </p>
+        <p> – Louis IX, roi de France? </p>
+        <p> – Non. </p>
+        <p> – Qui êtes-vous donc? </p>
+        <p> – Saint Louis de Gonzague. </p>
+        <p> On partit d’un éclat de rire et M. Delamarre dit au médium: </p>
+        <p> – Je crois, monsieur, que vous n’êtes pas très-fort sur la vie des saints. </p>
+        <p> Ce jour-là, les tables tournantes n’eurent qu’un médiocre succès. </p>
+        <p> Mais le lendemain, puis les jours suivants, on recommença des expériences. </p>
+        <p> Une foule de célébrités de l’autre monde vinrent causer familièrement avec M. Delamarre et ses rédacteurs, et peu à peu ils gagnèrent du terrain et s’immiscèrent quelque peu dans nos affaires. </p>
+        <p> Fénelon, ayant été consulté sur le feuilleton, répondit que mon roman était immoral. </p>
+        <p> C’était son droit. Cependant le caissier prit ma défense et proposa d’en appeler à Charlemagne. </p>
+        <p> Charlemagne se fit attendre une grande demi-heure. </p>
+        <p> Mais quand il arriva, il nous fit ses excuses et nous donna pour raison qu’il était un train de lire un chant de l’ Orlando forioso quand on l’avait évoqué. </p>
+        <p> Cela me parut d’un bon augure. </p>
+        <p> On lui soumit la question, il parut réfléchir un moment et nous dit enfin: </p>
+        <p> – Fénelon aurait raison, si les Mémoires de Rocambole étaient à l’usage des couvents et des pensionnats de jeunes filles, mais les lecteurs de la Patrie peuvent digérer cette nourriture un peu épicée. </p>
+        <p> « Je suis un homme de bon conseil, croyez-moi, et si mon neveu Roland m’avait écouté, il n’eût point fini d’une si pitoyable façon. </p>
+        <p> « Eh bien! fiez-vous à mon opinion, les romans n’ont jamais fait de mal à personne. C’est de mon temps que datent tous les récits de la Table ronde, et je puis vous affirmer qu’ils eurent beaucoup de succès. » </p>
+        <p> Comme on le voit, Charlemagne me sauva ce jour-là, et Rocambole lui doit une fière chandelle. </p>
+        <p> La troisième partie parut sans interruption et cette fois, M. Delamarre me fit appeler et me dit: </p>
+        <p> – Il faut faire une quatrième partie. </p>
+        <p> – Impossible! répondis-je. </p>
+        <p> – Pourquoi? </p>
+        <p> – Mais parce que je n’ai plus de notes. </p>
+        <p> – Bien! </p>
+        <p> – J’ai laissé Rocambole au bagne. </p>
+        <p> – Eh bien! faites l’en sortir. </p>
+        <p> – Mais… c’est que… </p>
+        <p> – Il n’y a pas de mais, me dit le directeur de la Patrie d’un ton impérieux, nous avons augmenté nos abonnés et notre vente de la rue, il nous faut du Rocambole; si le vrai vous fait défaut, inventez en un autre. </p>
+        <p> Je n’eus pas le courage de résister et je taillai ma plume pour écrire: </p>
+        <p> LES CHEVALIERS DU CLAIR DE LUNE </p>
+        <p> Hélas! habent sua fata libelli , et vous allez voir quelle devait être la destinée de ce nouveau roman. </p>
+      </div>
+      <div title="XVIII" type="chapter">
+        <head> XVIII </head>
+        <p> À partir de ce moment, comme vous le pensez bien, les personnages des premiers récits disparurent. </p>
+        <p> Pour me conformer au désir que m’avait exprimé Rocambole, le dénoûment du dernier épisode avait été transporté en Espagne, bien que, en réalité, il eût eu lieu en France. </p>
+        <p> Rocambole n’était pas au bagne de Cadix, mais à celui de Brest. </p>
+        <p> Il fallait donc, absolument, trouver une intrigue de fantaisie et des personnages imaginaires, puis un beau matin, c’est-à-dire à la fin d’un feuilleton quelconque, faire apparaître Rocambole. </p>
+        <p> Je me conformai à ce programme, ne sachant point combien je le regretterais un jour. </p>
+        <p> Toujours pour satisfaire mon héros mystérieux, je l’avais défiguré, ce qui, je l’avoue, était tout à fait faux. </p>
+        <p> La comtesse Artoff n’avait point poussé l’amour de la vengeance jusqu’à cet acte d’atroce barbarie. </p>
+        <p> Mais Rocambole ne songeait point alors à sortir du bagne, et j’avais dû lui faire cette concession, toujours en vue de dérouter la plupart de ceux qui auraient intérêt à savoir s’il avait ou non existé réellement. </p>
+        <p> Je ne vous raconterai pas les Chevaliers du clair de lune, et cela pour deux raisons: la première, c’est qu’ils ne vous amuseraient pas; la seconde, c’est que je ne me rappelle guère que ceci: </p>
+        <p> Un coquin titré avait besoin un jour d’un homme habile. Il se rendait rue de la Michodière et trouvait dans une manière de bureau de placement, un monsieur qui changeait dix fois de costume, de perruque et de visage en dix secondes. </p>
+        <p> C’était le Rocambole imaginé pour les besoins de ce nouveau roman. </p>
+        <p> Les Chevaliers du clair de lune eurent un succès médiocre, dès le début. </p>
+        <p> Cependant j’espérais mettre la main sur quelque épisode inédit de l’histoire des Valets de cœur; et voici sur quoi je fondais mes espérances. </p>
+        <p> Pas plus dans les notes de Rocambole que dans celles de Timoléon, je n’avais trouvé un mot, ni un fait qui se rapportât à ce mystérieux garçon de salle du pavillon d’Armenonville, qui avait été la cause première de la publication des Drames de Paris . </p>
+        <p> – Ah! me disais-je quelquefois, si je pouvais seulement retrouver cet homme, je saurais bien le faire parler. </p>
+        <p> Et je courais tous les cafés, tous les restaurants de Paris, espérant le découvrir. </p>
+        <p> – Je trouverai toujours bien le moyen de l’intercaler dans mon roman, me disais-je. </p>
+        <p> Et les Chevaliers du clair de lune paraissaient toujours. </p>
+        <p> Il y a sur le boulevard Montmartre, au numéro 17, un office de changeurs sur la porte duquel on lit: </p>
+        <p> Charles Monteaux et Benjamin Lunel. </p>
+        <p> Entrez-y à quatre heures, et vous tous qui avez entendu dire tant de singulières choses de ce qu’on est convenu d’appeler les gens d’argent, vous serez bien étonnés, je vous l’affirme. </p>
+        <p> Vous entendrez parler du dernier livre de madame Sand, de la dernière pièce de Dumas fils et du violoncelliste en vogue, et de mademoiselle Patti qui nous a fui, et de notre cher maëstro Offenbach qui nous ravit chaque soir sur deux ou trois théâtres à la fois. </p>
+        <p> Cet homme au sourire spirituel, à la barbe blonde, à l’air aimable que vous voyez à son bureau, c’est M. Monteaux. </p>
+        <p> Vous l’avez rencontré à la première des Idées de madame Aubray, vous le verrez demain à la représentation de gala de l’Opéra. </p>
+        <p> Il sait tout et cause de tout. Il aime les gens de lettres, les artistes et les auteurs, il leur donne d’excellents conseils pour le placement de leurs petites économies, et quelquefois des conseils fort judicieux et marqués au coin d’une saine critique pour leurs livres. </p>
+        <p> À côté de lui, cette figure brune, accentuée, mélange de la race bordelaise et du sang portugais, est celle de M. Benjamin Lunel, le gentleman qui fait courir, l’habitué, comme son associé, de toutes les solennités artistiques. </p>
+        <p> Que si vous entrez à quatre heures, vous trouverez assis autour d’eux une demi-douzaine de flâneurs tous connus, sinon célèbres, depuis Habban le courriériste, plein d’humour du Charivari, qui nous fait rire aux larmes en signant Castorine, jusqu’à Lafont, l’inimitable comédien. </p>
+        <p> Notre pauvre Lambert Thiboust y venait souvent et il y a fumé bien des cigares. </p>
+        <p> Or donc, un soir, à quatre heures, j’étais chez Monteaux, comme on dit, à fumer et à m’enquérir des nouvelles du jour, lorsqu’un homme entra et demanda la monnaie de mille francs. </p>
+        <p> J’étouffai un cri à sa vue et lui sautai presque au collet. </p>
+        <p> C’était mon garçon de salle du pavillon d’Armenonville. </p>
+        <p> – Cette fois, lui dis-je, je vous tiens, et vous ne m’échapperez pas! </p>
+        <p> Il pâlit, balbutia et me dit: </p>
+        <p> – Monsieur, ne faites pas d’esclandre. Je suis prêt à vous suivre. </p>
+        <p> Et il sortit en effet. Mais je le tenais par le bras à la grande stupéfaction des personnes qui avaient assisté à cette scène. </p>
+        <p> Quand nous fûmes sur le boulevard, il me dit: </p>
+        <p> – Je sais qui vous êtes… Vous êtes l’ami de Rocambole… </p>
+        <p> Je fis une légère grimace qu’il ne comprit pas, et il poursuivit: </p>
+        <p> – Si vous voulez m’emmener chez vous, je vous dirai tout. </p>
+        <p> – Vrai? </p>
+        <p> – Je vous le jure. </p>
+        <p> Et il tremblait en parlant. </p>
+        <p> Je l’emmenai chez moi, et il me suivit sans résistance. Mais, quand nous fûmes dans mon cabinet et bien seuls, il se jeta à mes genoux: </p>
+        <p> – J’aime autant, me dit-il, en finir tout de suite. </p>
+        <p> – Comment! en finir? </p>
+        <p> – Sans doute, Rocambole a juré ma mort… Eh bien! tuez-moi!… </p>
+        <p> Je voulus le rassurer; mais il secoua la tête: </p>
+        <p> – Non, me dit-il, j’aime autant mourir… la vie que je mène est affreuse… tuez-moi… seulement, ne me faites pas souffrir… </p>
+        <p> Je commençais à comprendre que j’avais un fou devant moi. </p>
+        <p> Mais comment ce fou était-il en liberté? </p>
+        <p> Comment avait-il des billets de mille francs en sa possession? </p>
+        <p> Il y avait là une énigme que je me jurai d’éclaircir. </p>
+        <p> Et, feignant d’abonder dans son sens, je lui dis: </p>
+        <p> – J’ai des ordres sévères, et je ne sais pas encore ce que Rocambole décidera. Cependant je vous promets de remplir ma pénible mission avec humanité. En attendant, vous allez rester ici. </p>
+        <p> Une idée lumineuse m’était venue. </p>
+        <p> – Timoléon, m’étais-je dit, doit connaître cet homme. </p>
+        <p> Et, tandis que le malheureux se tenait devant moi dans l’attitude d’un patient qui attend l’heure de son supplice, j’écrivis à Timoléon quelques lignes, en le priant de venir sur-le-champ. </p>
+        <p> Mon domestique partit avec ma lettre, et j’avoue que l’heure qui s’écoula me parut longue. </p>
+        <p> On n’est pas en tête-à-tête avec un fou avec l’esprit aussi calme et le cœur aussi joyeux que si l’on avait affaire à une jolie femme. </p>
+      </div>
+      <div title="XIX" type="chapter">
+        <head> XIX </head>
+        <p> Pendant cette heure-là, mon fou se promena de long en large dans mon cabinet, comme une bête fauve dans une cage. </p>
+        <p> Quelquefois il s’arrêtait et me regardait moitié furieux, moitié tremblant. </p>
+        <p> Puis il recommençait sa promenade, d’un pas inégal et brusque, marmottant des paroles sans suite au milieu desquelles revenait sans cesse le nom de Rocambole. </p>
+        <p> Un moment, il me fit frémir. </p>
+        <p> J’avais sur ma cheminée un joli revolver de Lefaucheux, arme toute nouvelle, et qui commençait à faire une concurrence sérieuse aux pistolets américains du colonel Kolt. </p>
+        <p> Le fou s’en approcha, le prit et le tourna plusieurs fois dans ses mains. </p>
+        <p> Le revolver était muni de ses six cartouches. </p>
+        <p> Le fou essaya de l’armer; heureusement ce pistolet est muni d’une baguette qui forme broche et qui empêche le cylindre de tourner. </p>
+        <p> Peut-être dus-je mon salut à cette circonstance. </p>
+        <p> Je me précipitai sur cet homme et je lui arrachai le revolver des mains. </p>
+        <p> Il n’opposa du reste aucune résistance. </p>
+        <p> – Je voulais me brûler la cervelle, me dit-il avec calme et presque en souriant. </p>
+        <p> – Ou me tuer, lui dis-je. </p>
+        <p> Il se jeta à mes genoux et protesta de la véracité de ses paroles. </p>
+        <p> – Non, non, me dit-il, je suis incapable d’un meurtre. Je ne suis pas un valet de cœur, moi. </p>
+        <p> Il prit une chaise et s’assit, puis il posa sa tête dans ses deux mains, les coudes sur ses genoux et parut résigné à attendre que Rocambole eût décidé de son sort. Car il ne doutait pas que la lettre qu’il m’avait vu remettre à mon domestique ne lui fût destinée. </p>
+        <p> Enfin, j’entendis le bruit d’une clef dans la serrure de l’antichambre. </p>
+        <p> C’était mon domestique qui rentrait, et je compris qu’il n’était pas seul, car d’autres pas que les siens se firent entendre. </p>
+        <p> La porte s’ouvrit et Timoléon parut. </p>
+        <p> Il s’arrêta stupéfait, sur le seuil, à la vue de mon prisonnier. </p>
+        <p> À sa vue aussi, mon homme, qui avait levé la tête, eut un geste de surprise. </p>
+        <p> Puis, une grande joie se peignit sur son visage. </p>
+        <p> – Ah! dit-il, vous venez me sauver, n’est-ce pas? </p>
+        <p> Timoléon me regarda: </p>
+        <p> – Que faites-vous donc de cet imbécile? me demanda-t-il. </p>
+        <p> – Cet imbécile? </p>
+        <p> – Oui, c’est mon ancien secrétaire. </p>
+        <p> – Hein? </p>
+        <p> – Il est devenu fou en écrivant sous ma dictée l’histoire de Rocambole. </p>
+        <p> – Que voulez-vous donc dire? </p>
+        <p> – Je le vois bien. Sa folie consiste à se croire une victime des Valets de Cœur dont il n’a jamais entendu parler autrement que par moi. </p>
+        <p> – Comment! il n’a jamais vu Rocambole? </p>
+        <p> – Jamais! </p>
+        <p> – Il ne lui est arrivé aucune aventure… fâcheuse? </p>
+        <p> – Aucune. </p>
+        <p> J’étais abasourdi. </p>
+        <p> – Mais enfin, lui dis-je, d’où vient-il? que fait-il? comment s’appelle-t-il? </p>
+        <p> – Je l’avais pour secrétaire, je l’ai renvoyé. </p>
+        <p> – Bon! </p>
+        <p> – Il a fait alors tous les métiers; il a été cocher, chasseur, valet de pied, majordome. Pour le moment, je crois qu’il est au service de la princesse D…, une Russe qui habite la rue Drouot. </p>
+        <p> Ceci m’expliquait le change du billet de mille francs. </p>
+        <p> – Enfin, acheva Timoléon, il se nomme Joseph Roux, mais il a la déplorable manie de se faire appeler Venture, en souvenir d’un des hommes de Rocambole. </p>
+        <p> – Bien!… j’y suis. </p>
+        <p> . . . . . . . . . . . . . . . . . . . . . </p>
+        <p> Comme on le voit, ma dernière espérance venait de s’évanouir. </p>
+        <p> Néanmoins les Chevaliers du clair de lune poursuivirent leur carrière à travers mille péripéties et mille ennuis. </p>
+        <p> Les esprits frappeurs avaient complètement envahi les bureaux de la Patrie. </p>
+        <p> Dénoncé par l’un d’eux comme se livrant à des opérations hasardeuses, le bon caissier, qui était venu ni souvent à mon aide, avait été congédié. </p>
+        <p> Une foule de morts illustres s’élevèrent contre le Rocambole de fantaisie qui traversait mon roman. </p>
+        <p> Un jour M. Delamarre me fit venir et me dit: </p>
+        <p> – Il faut faire disparaître Rocambole! </p>
+        <p> – Pourquoi? </p>
+        <p> – On a consulté de nouveau Fénelon. </p>
+        <p> – Ah! </p>
+        <p> – Et Fénelon persiste dans son opinion. </p>
+        <p> – Mais Charlemagne? </p>
+        <p> – Charlemagne, me répondit gravement le directeur de la Patrie, a bien d’autres chats à fouetter que de s’occuper de vous. </p>
+        <p> Rocambole disparut. Le roman fut long, trop long même, car les esprits achevèrent de me perdre dans celui de M. Delamarre. </p>
+        <p> J’avais été l’enfant gâté de la maison, j’en devins le paria. </p>
+        <p> Mon roman terminé, je quittai la Patrie , et, j’émigrai successivement à la demi-douzaine de grands journaux politiques qui n’étaient point fréquentés par les gens de l’autre monde. </p>
+        <p> Je passai de l’ Opinion nationale au Constitutionnel , et du Pays à la France. </p>
+        <p> Sept ou huit années s’étaient écoulées et je ne songeais plus ni à Rocambole ni aux esprits qui m’avaient chassé des colonnes de la Patrie, lorsque, un soir, comme je rentrais chez moi, on me remit une carte. </p>
+        <p> Elle portait un nom qui m’était inconnu: </p>
+        <p> Le major Avatar. </p>
+        <p> Mon domestique me dit: </p>
+        <p> – Ce monsieur reviendra demain. Mais si monsieur soupe toujours avec M. Gustave Claudin au Café anglais, il est possible que monsieur rencontre cette personne. </p>
+        <p> – Au Café anglais? </p>
+        <p> – Oui. </p>
+        <p> Je n’avais guère envie de souper, mais la curiosité m’entraîna et je pris la route du Café anglais, où j’étais certain de trouver Claudin et Xavier Aubryet, encore un esprit charmant et paradoxal que vous connaissez tous. </p>
+        <p> Qu’était-ce donc que le major Avatar? </p>
+      </div>
+      <div title="XX" type="chapter">
+        <head> XX </head>
+        <p> Claudin n’était pas au Café anglais. Aubryet non plus. </p>
+        <p> Deux ou trois gandins que je connaissais à peine achevaient de souper dans un coin du petit salon du premier. </p>
+        <p> J’appelai Philippe. </p>
+        <p> C’était le garçon qui nous servait d’ordinaire. </p>
+        <p> – Connaissez-vous le major Avatar? lui dis-je. </p>
+        <p> – Oui, monsieur, me répondit-il. C’est un officier russe qui vient ici depuis quelques jours; mais je crois bien qu’il est parti. </p>
+        <p> – Depuis quand? </p>
+        <p> – Je ne sais pas. Tout ce que je puis vous dire c’est qu’il a parlé avant-hier de son prochain départ. </p>
+        <p> – Ah! </p>
+        <p> Comme cette exclamation m’échappait, un homme entra. </p>
+        <p> – Le voilà, me dit Philippe. </p>
+        <p> Je vis un homme de trente-six à trente-huit ans, mince, avec de petites moustaches brunes, d’une mise élégante et simple qui vint droit à moi et me dit: </p>
+        <p> – Je vous demande mille pardons, monsieur, de vous avoir dérangé. </p>
+        <p> Et il s’assit à ma table. </p>
+        <p> Je le regardais avec curiosité et je me disais: </p>
+        <p> « Il me semble que j’ai déjà vu ce personnage quelque part. » </p>
+        <p> Il fit un signe au garçon qui se retira discrètement, et nous demeurâmes seuls. </p>
+        <p> – Monsieur, me dit-il alors en souriant, je vois que vous ne me reconnaissez pas. </p>
+        <p> – En effet, répondis-je. </p>
+        <p> – Rassemblez bien vos souvenirs… </p>
+        <p> – C’est ce que je m’efforce de faire… mais… </p>
+        <p> – Mais vous n’y parvenez pas? </p>
+        <p> – Je vous l’avoue en toute humilité. </p>
+        <p> – Vous me connaissez pourtant beaucoup, bien que vous m’ayez vu deux ou trois fois à peine. </p>
+        <p> Cette voix claire, bien tranchée, sympathique, ce regard franc et fier achevaient de me dérouter. </p>
+        <p> Il se mit à sourire: </p>
+        <p> – Voyons, me dit-il, avez-vous oublié votre voyage en Bretagne? </p>
+        <p> Je tressaillis. </p>
+        <p> – Et la rue Jean-Bart, poursuivit-il, et le forçat Cent-Dix-Sept? </p>
+        <p> J’étouffai un cri. </p>
+        <p> – C’est moi, me dit-il. </p>
+        <p> – Vous! </p>
+        <p> – Oui. </p>
+        <p> – Rocambole! </p>
+        <p> Il posa un doigt sur ses lèvres: </p>
+        <p> – Chut! on pourrait nous entendre… </p>
+        <p> Et comme je lui témoignais une véritable inquiétude, non pour moi, mais pour lui, il se hâta d’ajouter, sans rien perdre de son calme: </p>
+        <p> – Oh! rassurez-vous… je n’ai rien à craindre… </p>
+        <p> – C’est donc vous? </p>
+        <p> – Sans doute. </p>
+        <p> – Mais vous étiez condamné à perpétuité? </p>
+        <p> – Oui. </p>
+        <p> – Alors on vous a gracié? </p>
+        <p> – Non. Je me suis évadé. </p>
+        <p> – Et vous dites que vous n’avez rien à craindre? </p>
+        <p> Un sourire mélancolique vint à ses lèvres: </p>
+        <p> – Absolument rien, me dit-il, j’ai acquis le droit de rester libre. </p>
+        <p> – Comment cela? </p>
+        <p> – Oh! fit-il, c’est une histoire trop longue pour que j’entreprenne de vous la raconter ici, il nous faudrait plus d’une nuit pour cela, mais j’ai des notes à votre adresse. </p>
+        <p> – Vraiment? </p>
+        <p> – Et vous pourrez faire un nouveau roman que vous appellerez ma Résurrection . </p>
+        <p> Je le regardais avec une sorte de stupéfaction. </p>
+        <p> – Monsieur, reprit-il, mon évasion n’a rien qui doive vous étonner, si vous vous souvenez comment je suis allé vous voir à l’ Hôtel des Voyageurs à Brest. </p>
+        <p> – En effet, balbutiai-je. </p>
+        <p> – Seulement je me suis évadé non du bagne de Brest, mais de celui de Toulon, où l’on m’avait transféré. </p>
+        <p> – Mais observai-je, ne m’aviez-vous pas dit que vous vouliez mourir au bagne? </p>
+        <p> – C’est vrai. </p>
+        <p> Il pencha un moment la tête sur sa poitrine, et je devinai qu’il était en proie à une véritable émotion. </p>
+        <p> Puis il reprit: </p>
+        <p> – Tant qu’ elle n’a rien su, je suis resté au bagne. </p>
+        <p> Il faisait allusion à cette femme que dans le roman j’ai appelée Blanche de Chamery et qu’il avait fini par aimer comme sa sœur. </p>
+        <p> – Mais elle sait tout, maintenant, continua-t-il, et elle m’a pardonné. Alors, puisque j’avais le pardon de l’ange, j’ai voulu avoir celui des hommes. J’ai voulu mettre au service du bien cette intelligence, ce courage, cette énergie que j’avais eus pour le mal. Vous le verrez par la note que je vous laisse. </p>
+        <p> – Mais, lui dis-je, vous quittez Paris? </p>
+        <p> – Oui, je reviens de Londres et je vais dans l’Inde. </p>
+        <p> – Dans l’Inde! </p>
+        <p> – J’ai une mission… une tâche plutôt, que je me suis imposée… et je veux la remplir… Après… </p>
+        <p> Il hésita. </p>
+        <p> – Après? fis-je. </p>
+        <p> – Si Dieu ne veut pas m’accorder le repos de la tombe, je continuerai à marcher droit devant moi, allant partout où il y aura des oppresseurs et des victimes, pour terrasser les premiers et relever les autres. </p>
+        <p> Il me dit cela simplement, sans emphase; mais, en ce moment, il me parut haut de six pieds, et je me demandai si c’était vraiment le même homme que j’avais vu couvert de la livrée de l’infamie. </p>
+        <p> – Je serais allé chez vous demain, poursuivit-il si je ne vous eusse rencontré ici. Je pars demain soir. </p>
+        <p> – Et vous allez dans l’Inde? </p>
+        <p> – Oui. </p>
+        <p> – Mais vous en reviendrez? </p>
+        <p> – Dans deux ans, à moins que je ne fasse naufrage ou que je meure. </p>
+        <p> – Et vous m’apportez des notes? </p>
+        <p> – Un homme qui m’est dévoué et qui a été le compagnon assidu et journalier de cette seconde période de ma vie que vous ne connaissez pas encore, vous les portera demain. </p>
+        <p> Il se nomme Milon. </p>
+        <p> Sur ces derniers mots, il se leva, et me salua. </p>
+        <p> Je voulus lui tendre la main. </p>
+        <p> – Non, me dit-il, pas encore. Je ne suis pas réhabilité. </p>
+        <p> Et il sortit, me saluant une seconde fois, et me laissant véritablement stupéfait. </p>
+      </div>
+      <div title="XXI" type="chapter">
+        <head> XXI </head>
+        <p> Le lendemain, en effet, je reçus la visite de Milon. </p>
+        <p> Il m’apportait les notes de Rocambole. </p>
+        <p> Je mis huit jours à les lire. </p>
+        <p> Elles s’arrêtaient à la fin de la Résurrection, c’est-à-dire au moment où Vanda et Milon, suivant Rocambole à la trace de son sang, arrivèrent à la rivière et perdirent cette trace. </p>
+        <p> À ces notes, il avait ajouté ces mots: </p>
+        <p> « Monsieur, </p>
+        <p> « Peut-être vous dirai-je quelque jour comment je me suis repêché, et ce que je suis devenu entre ce moment-là et le jour où je vous ai revu, c’est-à-dire hier soir. </p>
+        <p> « Pour le moment, je ne puis disposer que de ces modestes confidences. </p>
+        <p> Votre serviteur, </p>
+        <p> « Rocambole. » </p>
+        <p> J’étais sans doute en froid avec la Patrie, et il ne fallait pas même songer à proposer cette nouvelle série des exploits de mon héros à M. Delamarre, qui, du reste, était en train de vendre son journal. </p>
+        <p> Cependant les derniers Mémoires de Rocambole étaient selon moi beaucoup plus intéressants que les premiers. </p>
+        <p> D’un autre côté, j’avais d’autres engagements et plusieurs choses à finir. </p>
+        <p> J’avais même dit à Milon: </p>
+        <p> « Je ne vous promets pas de publier tout de suite ce nouveau roman. J’attendrai qu’une occasion se présente. » </p>
+        <p> Et, comme on va le voir, l’occasion ne se fit pas attendre. </p>
+        <p> La presse quotidienne à un sou était née, depuis la publication des premiers Drames de Paris, et cette presse n’était représentée encore que par le Petit Journal. </p>
+        <p> Un soir à une première représentation du Théâtre Déjazet, je ne sais plus qui me présenta à un monsieur qui portait des lunettes d’or. </p>
+        <p> C’était M. Polydore Millaud. </p>
+        <p> M. Millaud me témoigna sa satisfaction de cette rencontre et me demanda un roman. </p>
+        <p> – Vous savez, me dit-il, que je ne publie que des réimpressions, et je les paye au tarif de la Société des Gens de lettres. </p>
+        <p> J’autorisai M. Millaud à chercher dans mon bagage ce qui lui conviendrait, et un mois après, je trouvai dans les colonnes du Petit Journal un roman que j’ai fait il y a plus de dix ans: Le Diamant du Commandeur . </p>
+        <p> La publication terminée, la caisse de la Société des Gens de lettres me compta quelques centaines de francs et je n’entendis plus parler de M. Millaud. </p>
+        <p> Mais un soir d’août de l’année 1865, comme je flânais sur le boulevard Montmartre, une main me prit au collet; et une voix sonore et sympathique me dit: </p>
+        <p> – Je ne vous lâche plus. </p>
+        <p> La voix et la main appartenaient à M. Félix Clément, un jeune savant qui fait les bulletins scientifiques du journal la France , et qui est un ami de la maison Millaud. </p>
+        <p> – Non, reprit-il, je ne vous lâche plus et vous allez venir avec moi. </p>
+        <p> – Où cela? </p>
+        <p> – Au Petit Journal. </p>
+        <p> – Pourquoi faire? </p>
+        <p> – Votre Diamant du Commandeur a eu du succès. </p>
+        <p> – Bon! </p>
+        <p> – Et Millaud voudrait réimprimer les Exploits de Rocambole. </p>
+        <p> Je suivis Félix Clément; j’écoutai la proposition de Millaud et je lui répondis: </p>
+        <p> – Voulez-vous la Résurrection de Rocambole ? </p>
+        <p> – Inédit? </p>
+        <p> – Oui. </p>
+        <p> Un quart d’heure après je sortais du Petit Journal, et tout était convenu. </p>
+        <p> On allait annoncer mon roman, et la publication commencerait en octobre. </p>
+        <p> Le soir même, je quittai Paris pour aller ouvrir la chasse et je n’y revins qu’à la fin d’octobre, alors que tout le prologue de la Résurrection avait déjà paru. </p>
+        <p> Le pays que j’habite en automne est un petit village perdu au bord de la forêt d’Orléans. </p>
+        <p> Le maire reçoit le Journal du Loiret, l’instituteur primaire le Petit Moniteur, et les nouvelles de Paris y sont rares. </p>
+        <p> Tandis que je massacrais des lièvres et des perdreaux tout en envoyant chaque jour mon feuilleton par la poste, cet excellent M. Millaud, qui entend la publicité à merveille, avait couvert les murs de Paris d’affiches pyramidales annonçant le Bagne , l’ Échafaud , etc.… </p>
+        <p> Les voitures du Petit Journal avaient promené ces affiches pendant quinze jours. </p>
+        <p> Tout cela me fit frémir à mon retour. </p>
+        <p> Heureusement le roman réussit, et Rocambole remporta une nouvelle victoire. </p>
+        <p> Pendant sept ou huit mois les nouvelles aventures de mon héros s’étalèrent dans les colonnes du feuilleton du Petit Journal; on se passionna pour Rocambole devenu vertueux; on s’intéressa aux malheurs d’Antoinette à Saint-Lazare. </p>
+        <p> À propos de Saint-Lazare, je dois avouer que j’ai commis un petit faux bien innocent. </p>
+        <p> Les notes de Rocambole ne me suffisaient pas pour décrire cette prison. Je voulais voir de mes yeux. </p>
+        <p> M. Millaud demanda une autorisation pour moi. Elle lui fut refusée; mais on lui permit, personnellement, de visiter Saint-Lazare avec son fils . </p>
+        <p> J’ai donc appelé Millaud papa tout un dimanche que nous avons consacré à visiter la prison du faubourg Saint-Denis. </p>
+        <p> Je conduisis la Résurrection de Rocambole jusqu’à la dernière page des notes que Milon m’avait apportées. </p>
+        <p> Alors Millaud me dit ce que m’avait déjà dit M. Delamarre: </p>
+        <p> – Faites-moi une suite. </p>
+        <p> Mais je me souvenais des Chevaliers du clair de lune, et je refusai. </p>
+        <p> Et puis, la Petite Presse venait de naître sous le nom de Presse illustrée, et elle m’avait passé au cou une chaîne d’or et de fleurs. </p>
+        <p> J’émigrai donc à la Presse illustrée, avec le secret espoir que Rocambole me donnerait de ses nouvelles au premier jour. </p>
+        <p> On va voir que je ne me trompais pas. </p>
+      </div>
+      <div title="XXII" type="chapter">
+        <head> XXII </head>
+        <p> Il y a un an de cela. </p>
+        <p> Nous avions dîné, un de mes amis et moi, au chalet de la Porte-Jaune. </p>
+        <p> Ne croyez pas que ce fût précisément par goût, car je dois confesser que la cuisine de cet établissement ne rappelle celle du Café anglais qu’avec modestie et modération. </p>
+        <p> Mais j’avais, avec ledit ami, un projet de drame dont un tableau devait se passer à Nogent-sur-Marne. Le drame n’a jamais été écrit, du reste. Il faisait une de ces belles nuits d’été où le ciel tout parsemé d’étoiles, mais dépourvu du moindre rayon de lune, laisse la terre dans une complète obscurité. </p>
+        <p> Entre la Porte Jaune et le champ de manœuvre de Vincennes, le bois est coupé d’une demi-douzaine de routes qui divergent en tous les sens, et rien n’est plus aisé que d’aller à Saint-Maur ou à Joinville quand on croit aller à Paris. </p>
+        <p> Nous n’étions pas encore à ces maisons en briques qu’on appelle la Vacherie, que mon ami s’aperçut qu’il avait oublié son paletot. </p>
+        <p> – Eh bien, lui dis-je, retournez le chercher, vous me rattraperez sur la route. </p>
+        <p> Et je tendis les rênes à mon domestique qui passa de son siége sur mon coussin et tourna bride. Mon cigare aux lèvres, les mains dans mes poches, je me mis à marcher droit devant moi. </p>
+        <p> Au bout d’un quart-d’heure je me retournai. J’avais un assez bon trotteur et il me semblait qu’il devait avoir eu le temps de retourner à la Porte-Jaune et d’en revenir. </p>
+        <p> L’obscurité la plus profonde régnait autour de moi, et je n’aperçus pas de lanterne. </p>
+        <p> Je cheminai un quart d’heure encore; puis un autre. </p>
+        <p> Aucun bruit de roue n’arrivait à mon oreille, aucune lanterne ne se montrait derrière moi. Je traversai ainsi le champ de manœuvre, passai sous le donjon et gagnai la nouvelle route qui rejoint à Saint-Mandé le boulevard Daumesnil, lequel, on le sait, aboutit à la Bastille. </p>
+        <p> Comme c’était le chemin que nous avions pris en venant, il ne me parut pas possible que mon ami, mon domestique et mon cheval en prissent un autre et je me dis philosophiquement: </p>
+        <p> – Allons! toujours! </p>
+        <p> Ce fut ainsi que j’atteignis Saint-Mandé, au moment où ma montre indiquait six heures du soir. </p>
+        <p> L’avenue était déserte. Mais j’aperçus un cabaret sur la gauche dont la porte fermée, du reste, laissait filtrer un rayon de clarté. </p>
+        <p> J’avais laissé éteindre mon cigare, et je n’avais pas de feu. </p>
+        <p> Je frappai donc à la porte pour en demander. </p>
+        <p> On parut hésiter à ouvrir. </p>
+        <p> J’entendis à travers la porte quelques chuchottements. </p>
+        <p> Je frappai de nouveau. </p>
+        <p> Cette fois la porte s’ouvrit, et une vieille femme parut sur le seuil. </p>
+        <p> – Que voulez-vous? me demanda-t-elle. </p>
+        <p> – Un verre de bière et du feu pour mon cigare, répondis-je. </p>
+        <p> Elle me regarda attentivement, grâce au rayon de clarté qui sortant du cabaret m’enveloppait, et parut sans doute satisfaite de l’examen, car elle s’effaça pour me laisser entrer. </p>
+        <p> Il y avait un homme dans le cabaret. </p>
+        <p> Assis devant une table, tout au fond, auprès du comptoir, il avait la tête appuyée dans ses mains. </p>
+        <p> Son chapeau de feutre gris à larges ailes lui couvrait la moitié du visage; et je n’eusse fait aucune attention à lui, s’il ne m’eût regardé fixement et n’eût laissé échapper un geste de surprise. </p>
+        <p> En même temps il ôta son chapeau. </p>
+        <p> Je demeurai stupéfait. </p>
+        <p> – Le major Avatar! balbutiai-je. </p>
+        <p> Il mit un doigt sur les lèvres: </p>
+        <p> – Chut! fit-il. </p>
+        <p> En même temps, il me fit signe de m’asseoir à sa table. </p>
+        <p> La vieille femme avait été quelque peu surprise de cette scène de reconnaissance. </p>
+        <p> Le major lui dit: </p>
+        <p> – Donnez à monsieur ce qu’il vous demande et allez vous coucher, la mère. </p>
+        <p> – Ce sera comme vous voudrez, monsieur, répondit-elle avec soumission. </p>
+        <p> Je venais de comprendre que Rocambole n’était point fâché de causer avec moi, mais qu’il ne voulait pas le faire devant témoins. </p>
+        <p> La cabaretière posa devant moi un bock de bière, un briquet rempli d’allumettes et gagna une espèce d’échelle qui conduisait à une soupente dans laquelle elle couchait sans doute. </p>
+        <p> Rocambole – car c’était bien lui – me regarda et me dit en souriant: </p>
+        <p> – Vous vous demandez ce que je fais ici, n’est-ce pas? </p>
+        <p> – En effet… </p>
+        <p> – Je travaille . </p>
+        <p> Je me mépris au sens de ce mot qui en argot signifie voler , et je lui dis: </p>
+        <p> – Comment! vous avez donc repris votre ancien métier? </p>
+        <p> Il ne se fâcha point et me répondit avec douceur: </p>
+        <p> – Vous vous trompez. Je n’ai pas cessé de me bien conduire depuis que je suis sorti du bagne. </p>
+        <p> – Ah! fis-je en respirant. </p>
+        <p> – Le mot travailler est, dans ma bouche, pris dans son vrai sens. </p>
+        <p> – Mais… </p>
+        <p> – Tenez, à cette heure, je suis en train de dénouer un de ces drames dont vous ferez quelque jour deux cents feuilletons. </p>
+        <p> – Vraiment? </p>
+        <p> Il se leva, alla ouvrir la porte que la vieille avait fermée et me dit: </p>
+        <p> – Venez voir. </p>
+        <p> Je le suivis sur le seuil. </p>
+        <p> – Voyez-vous cette maison en construction, là, de l’autre côté de la route, me dit-il. </p>
+        <p> – Oui. </p>
+        <p> – Elle vous paraît habitée… Eh bien! la nuit dernière dans les caves de cette maison, il s’est joué une comédie terrible. </p>
+        <p> – Comment cela? </p>
+        <p> – Un homme allait mourir du plus épouvantable des supplices. </p>
+        <p> Je le regardai, me demandant s’il ne se moquait pas un peu de moi. </p>
+        <p> – Un supplice chinois, poursuivit-il, la privation du sommeil… </p>
+        <p> – Et… cet homme… </p>
+        <p> – Je l’ai sauvé. </p>
+        <p> À cette révélation, j’éprouvai le besoin de me tâter pour me convaincre que je ne devenais pas et que je n’étais pas la victime d’un cauchemar. </p>
+        <p> Un bruit de roues se faisait maintenant entendre dans le lointain, et deux lanternes brillaient à l’extrémité de l’avenue. </p>
+        <p> – Ah! dis-je, je crois que voilà ma voiture. </p>
+        <p> – Votre voiture? </p>
+        <p> – Oui. Elle est retournée à la Porte-Jaune. </p>
+        <p> – Vous vous trompez, me dit Rocambole, ce n’est pas votre voiture. </p>
+        <p> – Qu’en savez-vous! </p>
+        <p> – C’est la mienne. </p>
+        <p> Les lanternes étaient assez près maintenant, pour que je pusse distinguer la forme de la voiture. </p>
+        <p> C’était un petit omnibus, comme on en voit aux gares des chemins de fer. </p>
+        <p> Et, comme elle s’arrêtait à la porte du cabaret, Rocambole cria: </p>
+        <p> – Milon, est-ce toi? </p>
+        <p> – Oui, Maître, répondit une voix. </p>
+        <p> Et je pus voir sur le siége le colosse qui tenait les rênes en mains. </p>
+      </div>
+      <div title="XXIII" type="chapter">
+        <head> XXIII </head>
+        <p> La voiture, l’attelage, tout cela était au moins bizarre. </p>
+        <p> Rocambole souriait de mon étonnement. </p>
+        <p> – Un jour, me dit-il, vous aurez l’explication de tout cela. </p>
+        <p> Puis, se tournant vers Milon: </p>
+        <p> – Va voir si elle est prête? </p>
+        <p> – Oui, maître, répondit Milon. </p>
+        <p> Nous demeurâmes seuls auprès des chevaux, et nous vîmes Milon se diriger vers la maison en construction. </p>
+        <p> Je le suivis des yeux jusqu’au milieu du jardin; mais là, il disparut comme si la terre se fût entrouverte sous ses pas. </p>
+        <p> J’eus beau le chercher, je ne le vis plus. </p>
+        <p> Rocambole souriait toujours. </p>
+        <p> Ce diable d’homme était perpétuellement environné de mystères. </p>
+        <p> – Ne cherchez pas, me dit-il. Plus tard encore, tout vous sera expliqué; et puisque nous avons dix minutes devant nous, profitons-en. </p>
+        <p> – Ah! nous avons dix minutes? </p>
+        <p> – Pas davantage. </p>
+        <p> – Mais vous rentrez dans Paris, ce soir? </p>
+        <p> – Non, je vais, par les boulevards extérieurs, à la gare du Nord. </p>
+        <p> – Comment! lui dis-je, vous repartez? </p>
+        <p> – Oui, je vais à Londres. C’est de là que je vous écrirai. </p>
+        <p> – Quand? </p>
+        <p> – Au premier jour. </p>
+        <p> – Mais depuis quand êtes-vous revenu de l’Inde? </p>
+        <p> – Depuis quarante-huit heures. </p>
+        <p> Je le questionnai vainement; il ne voulut rien me répondre si ce n’est ceci: </p>
+        <p> – J’ai lutté avec les étrangleurs. </p>
+        <p> – Les Thuggs? </p>
+        <p> – Oui, les Thuggs de l’Inde. </p>
+        <p> – Et vous avez été victorieux, j’imagine? </p>
+        <p> – Sans cela, serais-je ici? </p>
+        <p> – C’est juste. Je vous demande pardon. </p>
+        <p> J’avais toujours les yeux fixés sur la maison en construction. </p>
+        <p> – Vous vous demandez ce que Milon est allé faire là? me dit-il. </p>
+        <p> – En effet. </p>
+        <p> – Il est allé chercher ma compagne de voyage. </p>
+        <p> – Vanda? </p>
+        <p> – Non, Vanda est déjà partie. </p>
+        <p> Une lumière brilla tout à coup à travers les fenêtres sans volets de cette maison qui m’intriguait tant. </p>
+        <p> Puis je vis apparaître Milon qui portait une lanterne à la main. </p>
+        <p> Une femme enveloppée dans un grand burnous de cachemire blanc marchait auprès de lui. </p>
+        <p> – Voilà ma voyageuse, me dit Rocambole. </p>
+        <p> En effet, la femme s’approcha de la voiture et un moment les rayons des lanternes tombèrent sur son visage. </p>
+        <p> J’éprouvai un véritable éblouissement. </p>
+        <p> Jamais je n’avais vu de femme aussi belle. </p>
+        <p> Elle me regardait avec un certain étonnement; il lui dit en l’aidant à monter en voiture: </p>
+        <p> – Ne craignez rien… ce n’est pas monsieur qui nous trahira. </p>
+        <p> Puis, se penchant à mon oreille: </p>
+        <p> – Dans la note que je vous enverrai de Londres, il sera souvent question d’une femme: la Belle Jardinière . </p>
+        <p> – Ah! </p>
+        <p> – C’est elle. </p>
+        <p> Et sur ces mots il me salua, monta sur le siège et prit les rênes. </p>
+        <p> Milon demeurait sur la route. </p>
+        <p> – Et moi, Maître, dit-il. </p>
+        <p> – Toi, répondit Rocambole, tu as mes instructions. Suis-les de point en point. Adieu. </p>
+        <p> – Au revoir. Maître, dit Milon. </p>
+        <p> Rocambole fit un appel de langue et rendit la main, les trotteurs s’élancèrent, et l’omnibus se trouva lancé sur la route. </p>
+        <p> Je me retrouvai, alors, seul avec Milon. </p>
+        <p> Je mourais d’envie de le questionner; tandis que je cherchais une formule, il me dit: </p>
+        <p> – Excusez-moi, monsieur, de vous laisser seul ainsi au milieu de la route. Mais j’ai des ordres… </p>
+        <p> Et il me salua et s’en alla. </p>
+        <p> De nouveau, il entra dans le jardin de la maison en construction. </p>
+        <p> De nouveau, il disparut à mes yeux avant d’avoir atteint l’édifice. </p>
+        <p> L’omnibus était loin et je n’apercevais même plus ses lanternes. </p>
+        <p> D’un autre côté je n’avais pas la moindre nouvelle de ma propre voiture. </p>
+        <p> La curiosité l’emporta chez moi sur le désir que j’avais de ne pas contrecarrer les plans de Rocambole. </p>
+        <p> Je m’élançai vers le jardin, bien décidé à savoir comment Milon avait pu se dérober tout à coup à mes regards. </p>
+        <p> Mais grande fut ma déception. </p>
+        <p> Il n’y avait, dans le jardin, d’autre ouverture qu’un puits. </p>
+        <p> Je pris une pierre et je la jetai dedans. </p>
+        <p> J’entendis l’eau clapoter. </p>
+        <p> Il était assez difficile d’admettre que Rocambole eût ordonné à Milon de se noyer. </p>
+        <p> Ce n’était pas dans le puits qu’il était descendu. </p>
+        <p> J’avais un mystère de plus à ajouter à tous ceux que j’avais déjà racontés. </p>
+        <p> Je fis le tour de la maison en construction. </p>
+        <p> Portes et fenêtres étaient ouvertes. </p>
+        <p> Je la parcourus, et nulle part je ne trouvai trace d’habitants. </p>
+        <p> Enfin, comme je m’en revenais découragé sur la route je vis une lueur dans le lointain. </p>
+        <p> D’abord on eût dit une étoile tombée du ciel et cherchant à y remonter. </p>
+        <p> Puis l’étoile se dédoubla. </p>
+        <p> Puis enfin je reconnus distinctement les deux lanternes d’une voiture. </p>
+        <p> En même temps j’entendis le trot rapide et sonore de mon double poney. </p>
+        <p> C’était bien mon ami qui revenait. </p>
+        <p> – Halte! criai-je, comme la voiture arrivait sur moi; mais que vous est-il donc arrivé? </p>
+        <p> – C’est ce diable de bois de Vincennes qui est la cause du retard, répondit mon ami. </p>
+        <p> – Comment cela? </p>
+        <p> – Il y a vingt routes qui se croisent. </p>
+        <p> – Eh bien? </p>
+        <p> – Eh bien! au tournant de la Porte Jaune , nous avons pris la route de Joinville-le-Pont, croyant prendre celle de Paris, et ce n’est qu’à Joinville que nous nous sommes aperçus de notre erreur. </p>
+        <p> – Il n’y a pas grand mal à cela, répondis-je en reprenant ma place, mon fouet et mes rênes. </p>
+      </div>
+      <div title="XXIV" type="chapter">
+        <head> XXIV </head>
+        <p> Quinze jours après l’aventure que je viens de raconter, un pli volumineux m’arriva par la poste. </p>
+        <p> Ce pli portait des timbres anglais. </p>
+        <p> Je l’ouvris. </p>
+        <p> Il contenait un manuscrit divisé en cinq cahiers. </p>
+        <p> C’étaient les Mémoires de Rocambole, depuis le jour où il avait disparu, à la suite de son étrange duel avec la russe Vasilika. </p>
+        <p> La première partie s’appelait les Ravageurs , la seconde les Millions de la Bohémienne, la troisième la Belle Jardinière , la quatrième enfin le Retour de Rocambole . </p>
+        <p> Nos lecteurs connaissent tous les détails de cette quadruple épopée. </p>
+        <p> Mais ce qu’ils ne connaissent pas, c’est la lettre d’envoi qui accompagnait le manuscrit. </p>
+        <p> Elle était datée de la prison de Newgate et conçue en ces termes: </p>
+        <p> « Monsieur, </p>
+        <p> « Quand vous serez arrivé à la dernière page des notes ci-jointes, vous vous demanderez ce que sont devenu et Marmouset et Vanda, et mon fidèle Milon, et le traître Tippo-Runo, ainsi que le trésor de l’infortuné Rajah Osmany. </p>
+        <p> « Malheureusement; il m’est impossible de vous le dire, ne le sachant pas moi-même. </p>
+        <p> « Je suis en prison depuis huit jours. </p>
+        <p> « J’ai employé ce temps à rédiger les notes que je vous adresse et qu’un prisonnier libéré, qui va sortir d’ici dans une heure, se charge de vous faire parvenir. </p>
+        <p> « Vous allez certainement vous demander comment il se fait qu’un homme qui, comme moi, sortait si facilement du bagne de Brest et dont vous avez raconté la surprenante évasion du bagne de Toulon, s’amuse à demeurer prisonnier des Anglais. </p>
+        <p> « Je vais vous répondre: </p>
+        <p> « J’ai commis un crime, selon la loi maritime anglaise; mais j’ai rendu précédemment, comme vous pourrez le voir par mes notes un grand service à l’Angleterre en la débarrassant du chef des Étrangleurs, Ali-Remjeh, son plus mortel ennemi. </p>
+        <p> « Je puis me fier à Marmouset et à Vanda du soin de mettre en sûreté le trésor du rajah; et je veux que le traître Tippo-Runo vienne s’asseoir à côté de moi sur le banc de la cour martiale. </p>
+        <p> « J’ai été interrogé par les magistrats. </p>
+        <p> « Ils connaissent mon passé; ils savent qui j’ai été, mais ils savent aussi que le vice-roi des Indes m’a donné des lettres de réhabilitation. </p>
+        <p> « Je ne suis donc détenu que pour ce fait, d’avoir essayé de jeter sur la côte un bâtiment qui naviguait sous pavillon britannique. </p>
+        <p> « Mais si je puis prouver la trahison et l’infamie de Tippo-Runo, je serai acquitté. </p>
+        <p> « Or, pour cela, on a écrit, sur ma demande, à Calcutta. </p>
+        <p> « Le vice-roi fera faire une enquête. </p>
+        <p> « L’indien Nadir se chargera certainement de fournir toutes les preuves à la charge du major sir Edwards Linton, surnommé Tippo-Runo. </p>
+        <p> « Dans ce cas-là, je serai acquitté. </p>
+        <p> « Je préfère donc de beaucoup être jugé que m’évader. </p>
+        <p> « Mais rassurez-vous, monsieur, votre roman n’y perdra rien; et bien certainement, avant que vous ayez épuisé les notes que je vous transmets, j’aurai de nouvelles aventures à vous raconter. </p>
+        <p> « Votre héros dévoué et obéissant. </p>
+        <p> « Rocambole. » </p>
+        <p> Quand ce manuscrit et cette lettre me parvinrent, je terminais dans la Presse illustrée un roman intitulé les Cosaques . </p>
+        <p> La Presse illustrée était à la veille de subir une transformation et de devenir la Petite presse. </p>
+        <p> Le premier numéro de cette dernière parut avec le premier chapitre de ces nouveaux mémoires de Rocambole. </p>
+        <p> Il y a de cela près d’un an. </p>
+        <p> Voici un mois que je suis arrivé à la fin des notes de mon héros, et j’allais me trouver dans la nécessité d’interrompre, sans pouvoir vous expliquer pourquoi, lorsqu’une lettre de M. Gruau, de Tours, m’a amené à vous dire enfin ce qu’il y avait de vrai sur ce personnage étrange appelé Rocambole. </p>
+        <p> Mais tout finit; et, arrivé au bout de ce récit, j’allais me retrouver dans le même embarras lorsque j’ai reçu hier soir la lettre suivante: </p>
+        <p> « Cher maître, </p>
+        <p> « Je suis libre: j’en ai fini avec Tïppo-Runo. Comment? c’est ce que je vous dirai bientôt. </p>
+        <p> « Pour aujourd’hui, esclave de la mission que je me suis donnée, je me trouve mêlé à toute cette affaire qui se dénoue en ce moment devant les tribunaux de Londres. </p>
+        <p> « Au mois de novembre, je vous enverrai de nouvelles notes. </p>
+        <p> « Votre héros, </p>
+        <p> « Rocambole. » </p>
+        <p> Vous le voyez, mes chers lecteurs, je suis donc forcé de m’arrêter et, d’attendre de nouveaux documents. </p>
+        <p> Mais je ne puis ni vous quitter ni quitter la Petite Presse. </p>
+        <p> Et en attendant la suite des Aventures de Rocambole, il a été convenu hier avec la direction de cette petite feuille, qui a quatre ou cinq cent mille lecteurs, que je vous donnerais la suite d’un autre roman demeuré inachevé jusqu’à ce jour, et que certainement vous avez lu, ou dont tout au moins, vous avez entendu parler, ne fût-ce que par la pièce jouée au théâtre impérial du Châtelet cent soixante-sept fois: </p>
+        <p> La Jeunesse du roi Henri . </p>
+        <p> FIN </p>
+      </div>
+      <head/>
+    </body>
+    <back/>
+    <back/>
+  </text>
+</TEI>
