@@ -1,0 +1,854 @@
+<?xml version='1.0' encoding='UTF8'?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Le roi aux yeux de rêve</title>
+        <author from="1875" key="" name="Petitjean de la Rosière, Jeanne-Marie" sex="female" to="1947"/>
+        <edition n=""/>
+        <editor name="Édition du Dauphin" where="Paris"/>
+      </titleStmt>
+      <publicationStmt>
+        <date type="created" when="1955"/>
+        <date type="issued" when="1955"/>
+      </publicationStmt>
+      <editionStmt>
+        <profileDesc tag="non-canon" type="genre">
+          <textClass>
+            <keywords>
+              <term>roman sentimental</term>
+            </keywords>
+          </textClass>
+        </profileDesc>
+      </editionStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docAuthor/>
+        <docTitle>
+          <titlePart main=""/>
+          <titlePart sub=""/>
+        </docTitle>
+      </titlePage>
+    </front>
+    <body>
+      <p>Le roi aux yeux de rêve</p>
+      <p> </p>
+      <p>Édition de référence :</p>
+      <p>Édition du Dauphin, Paris.</p>
+      <div title="Première partie" type="part">
+        <head>Première partie</head>
+        <div title="I" type="chapter">
+          <head>I</head>
+          <p> </p>
+          <p>Elles s’en allaient à pas pressés, dans le sentier qui longeait la lande, les deux toutes petites filles presque de la même taille : Claire Sibreux et sa cousine, Luz Talmez. Claire, blonde, bien potelée ; Luz, brune à la peau ambrée, aux grands yeux noirs pleins de vivacité et de malice. Elles avaient six ans et, tout en se disputant assez fréquemment, elles s’entendaient fort bien pour faire de nombreuses sottises. Ainsi en était précisément ce matin-là. Hier, Luz avait dit à sa cousine :</p>
+          <p>– Mathurin annonce qu’il va geler cette nuit. Te rappelles-tu comme l’étang était joli, l’année dernière, avec cette glace dessus ? Demain, ce sera la même chose. Veux-tu que nous allions le voir ?</p>
+          <p>Mollement, Claire avait objecté :</p>
+          <p>– Mais c’est défendu. On nous punira.</p>
+          <p>– Non, puisqu’on ne le saura pas. Nous irons pendant que Mademoiselle donnera à Albert sa leçon de latin. Et ce sera bien plus amusant que d’être avec les grandes personnes qui nous empêchent de nous approcher.</p>
+          <p>Claire n’avait plus opposé de résistance. Et voilà pourquoi les deux cousines se trouvaient en ce matin de décembre sur le chemin de l’étang de Penbaol, où jamais encore elles ne s’étaient aventurées seules.</p>
+          <p>Cette liberté les grisait, et en particulier Luz, plus vibrante que Claire. Elle bavardait, bavardait...</p>
+          <p>– Tiens, regarde ces corbeaux, Clairette ! Qu’ils sont gros ! Ah ! là-bas, c’est le père Le Miro, avec sa chèvre et son vieux chien ! Pourvu qu’il n’aille pas dire qu’il nous a vues ! Ah ! le petit garçon de Kerlozo !</p>
+          <p>Claire demanda :</p>
+          <p>– Où ça ?</p>
+          <p>– Là... Tu ne vois pas ? Dans le chemin.</p>
+          <p>– Ah ! oui, oui ! Qu’il est mal habillé ! On dirait un petit pauvre.</p>
+          <p>Et Claire plissa dédaigneusement ses lèvres.</p>
+          <p>Dans le chemin bas que surplombait le sentier où marchaient les petites filles s’avançait un garçonnet d’une douzaine d’années. Il allait dans la même direction que Claire et Luz, mais en flânant. Elles le dépassèrent bientôt. En entendant le bruit léger de leurs pas sur le sol rocailleux, il leva la tête et leur jeta un coup d’œil distrait. Dans son visage aux traits fins, hâlé par le vent et le soleil, rêvaient de grands yeux à la nuance changeante, bleus ou verts, selon le moment. Sa chevelure blonde, longue et embroussaillée, tombait sur son front en mèches folles. Il était vêtu d’une culotte rapiécée, en étoffe de coton bleu fort déteinte, et d’une petite veste en drap râpé, verdâtre, trouée aux coudes, qui enserrait son corps maigre et nerveux. Ses pieds chaussés de gros bas de laine déchirés s’enfonçaient dans des sabots. Les mains dans ses poches, il s’en allait, le regard perdu dans le rêve, l’allure souple et singulièrement élégante. En dépit de sa mise pauvre, il n’avait aucunement l’apparence d’un campagnard. Et, de fait, un sang très aristocratique coulait dans ses veines. Il s’appelait Hoël de Pendeguy, et ses ancêtres avaient été, jadis, les seigneurs de tout le pays. Maintenant, il ne restait plus au marquis de Pendeguy, chef de nom et d’armes, que son vieux château de Kerlozo, en partie ruiné, et quelques landes où paissaient une demi-douzaine de moutons.</p>
+          <p>Le père d’Hoël, officier, avait épousé une jeune fille sans fortune. Quand Hoël, à sept ans, se trouva orphelin, il n’avait guère, comme ressource, que sa pension d’enfant de militaire. Le marquis de Pendeguy, son grand-oncle paternel, le recueillit à Kerlozo. Le vieillard vivait là, dans la solitude, avec une seule servante, presque aussi âgée que lui. Il ne sortait guère, sinon pour aller jeter un coup d’œil sur ce qu’il appelait pompeusement « ma bergerie », laquelle se composait de six moutons maigres que suffisait à garder un vieux chien hargneux et pelé, à demi aveugle. Le reste du temps, M. de Pendeguy consultait les anciennes chroniques de sa maison, prenait des notes, se promenait pendant des heures à travers les ruines de sa demeure, en marmottant et en faisant de grands gestes. Dans le pays, on le croyait un peu fou. Cependant, il avait le regard très lucide et conversait de façon sensée, quand, par hasard, il daignait adresser la parole à quelqu’un. Il se disait très pauvre et portait des vêtements minables qui semblaient avoir reçu toutes les pluies du ciel breton, depuis un demi-siècle. Certains le prétendaient surtout avare. Mais le vieux marquis, sans s’inquiéter de ces jugements, continuait son existence frugale et solitaire, que ne vint changer en rien la présence du petit Hoël</p>
+          <p>L’enfant fut mis aussitôt à la garde des moutons, avec Kennoch, le vieux chien. Du pain et du lait, de la bouillie de blé noir, parfois quelques pommes de terre cuites sous la cendre devinrent sa nourriture d’un bout de l’année à l’autre. Le linge, les vêtements soignés, confectionnés par les mains maternelles, furent remplacés, vaille que vaille, à mesure qu’ils s’usaient, par les soins de Perrine, la servante maladroite et rustique, qui négligeait le raccommodage et que trous et taches n’offusquaient guère. Hoël, abandonné à lui-même, vagabondant tout le jour à travers le pays, fût devenu une sorte de petit sauvage, si, vers sa neuvième année, M. de Pendeguy ne s’était avisé qu’il convenait tout de même de lui faire donner quelque instruction. Dans ce but, et bien qu’il fût fort loin d’être dévot – personne dans le pays ne se rappelait l’avoir vu à l’église depuis des années – il confia l’enfant aux bons soins du recteur de Pelcoat, village voisin de Kerlozo. Le prêtre, depuis longtemps, avait remarqué cet enfant si différent, par les allures et la physionomie, des autres garçonnets du pays. Il soupirait en songeant à l’abandon dans lequel était laissée cette petite âme. Ce fut donc avec joie qu’il accueillit la démarche de son peu exemplaire paroissien, et, tombant volontiers dans le panneau que lui tendait celui-ci, il accepta de faire gratuitement l’instruction de l’enfant, après que le vieillard se fût plaint longuement de sa pauvreté qui l’empêchait de faire élever le futur marquis de Pendeguy comme il l’eût voulu.</p>
+          <p>Hoël, d’abord rétif à la perspective de ce nouveau programme d’existence, céda vite devant la bonté patiente du professeur et l’intérêt que présentait l’étude à une nature intelligente et réfléchie telle que la sienne. Mais, aussitôt la leçon finie et les devoirs terminés, il s’évadait à travers landes et champs, toujours seul ��� car il était fier et, s’il échangeait volontiers quelques mots avec les enfants de paysans, s’il avait fait de quelques-uns d’entre eux ses camarades de jeux, il n’acceptait la compagnie de personne, quand il s’en allait ainsi, les yeux pleins de rêve, comme en ce clair matin d’hiver, lorsque le dépassèrent les petites filles des Trois-Chênes. Elles trottinaient devant lui, de leur petit pas pressé. L’air était vif et sec, car il avait gelé cette nuit, comme l’avait bien dit Luz à sa cousine. À droite, au flanc de la ravine, le givre étincelait sur les branches nues des chênes tordus, avant de se fondre sous le soleil. Dans la lumière pâle, Kerlozo, bien assis sur son roc, dressait ses tours éventrées, en partie couvertes d’un lierre épais. De loin, il avait toujours grand air, le vieux château. Hoël le considérait avec complaisance. M. de Pendeguy, bien que ne s’occupant guère de son petit-neveu, lui avait narré parfois quelque récit extrait des chroniques de la famille, et, voyant l’attention passionnée de l’enfant, il se décidait, depuis quelque temps, à lui confier ces chroniques elles-mêmes pour qu’il y apprit l’histoire de sa race. Hoël connaissait ainsi les exploits de ses ancêtres qui avaient tenu haut rang à la cour de Bretagne. À travers le château il recherchait leur souvenir, se représentait leur existence. Et cette demeure minée, dans laquelle il vivait comme un pauvre, lui semblait le signe tangible de sa noblesse qu’il n’eût pas échangé contre un monceau d’or.</p>
+          <p>Sans souci du froid piquant, il continuait de flâner le long de la lande. Sur le ciel d’un bleu pâli, les corbeaux passaient en jetant leur dur croassement. Dans la clarté douce du soleil d’hiver, l’étang de Penbaol apparut gelé, étincelant, entre les roseaux de ses rives. Autrefois, il appartenait aux Pendeguy. Des pêches magnifiques s’y étaient faites, jadis, et les carpes de Penbaol avaient grand renom dans toute la Bretagne. Aujourd’hui, il était la propriété de M. Sibreux, le père de Claire, qui exploitait le domaine des Trois-Chênes, proche de Pelcoat.</p>
+          <p>Un instant. Hoël demeura ébloui par le soleil qui se réfléchissait dans la nappe d’eau glacée. Quand il souleva les paupières, il vit les petites filles tout au bord de l’étang. La voix claire de Luz parvint jusqu’à lui :</p>
+          <p>– Tu ne veux pas aller sur la glace ? Moi, j’y vais. Ce sera si amusant !</p>
+          <p>Hoël ouvrait la bouche pour crier :</p>
+          <p>– Attention ! C’est dangereux !</p>
+          <p>Mais, déjà, l’impétueuse petite fille se trouvait sur l’eau gelée, trop superficiellement gelée. Car, sous le poids léger, elle craqua doucement, et Luz s’enfonça, avec un cri d’effroi.</p>
+          <p>D’un bond, Hoël fut sur la berge. Il quitta sa veste, se débarrassa de ses sabots et plongea dans l’eau glacée. Luz s’accrocha à lui. Il détacha les petites mains qui menaçaient de paralyser ses mouvements, et, se retenant à la berge heureusement toute proche, il réussit à y ramener l’enfant évanouie.</p>
+          <p>Claire, jetant des cris affreux, s’enfuyait au hasard. Hoël leva les épaules, en murmurant dédaigneusement :</p>
+          <p>– C’est bête, les filles !</p>
+          <p>Après un court instant de réflexion, il étendit sa veste sur la petite fille ruisselante, puis, laissant là ses sabots qui l’auraient gêné, il prit sa course vers les Trois-Chênes.</p>
+          <p>À quelque distance des bâtiments de la ferme se trouvait la maison d’habitation, reconstruite une dizaine d’années auparavant, M. Sibreux trouvant trop peu confortable la vieille maison des ancêtres. C’était une bâtisse blanche et quelconque, précédée d’une cour ornée de corbeilles fleuries. Précisément, quand Hoël franchit la grille, Mme Sibreux se tenait sur le large perron, près de l’institutrice qui demandait ses élèves à tous les échos. À la vue de l���enfant mouillé et tout rouge d’avoir tant couru, elle s’écria :</p>
+          <p>– Qu’est-ce qu’il y a, petit ? Que viens-tu faire ici ?</p>
+          <p>– Madame, une de vos petites filles est tombée dans l’étang. Je l’ai repêchée, mais il faudrait aller vite la chercher, pour qu’elle n’ait pas trop froid.</p>
+          <p>– Une des petites ?... Ô ciel !</p>
+          <p>Toute pâle, Mme Sibreux s’élançait vers Hoël, lui saisissait le bras...</p>
+          <p>– Laquelle ? Claire ou Luz ?</p>
+          <p>– Ah ! je ne sais pas leur nom, moi, madame ! C’est une petite qui a des cheveux bruns...</p>
+          <p>– Luz, alors !</p>
+          <p>Laissant échapper un soupir de soulagement, Mme Sibreux, se tournant vers l’institutrice consternée, dit vivement :</p>
+          <p>– Faites chauffer son lit, je vous prie, mademoiselle !... Appelez Mathurin, qu’il m’aide à la rapporter... Toi, petit, conduis-moi... Ah ! mais, c’est que tu es bien mouillé !</p>
+          <p>Hoël claquait des dents. Il expliqua :</p>
+          <p>– J’ai laissé ma veste sur la petite fille. Il faut que j’aille la chercher.</p>
+          <p>– Attends !</p>
+          <p>Elle rentra dans le vestibule, prit une pèlerine de drap qu’elle jeta sur les épaules de l’enfant. Puis en courant, elle se dirigea vers l’étang, précédée par Hoël. Presque aussitôt les rejoignit Mathurin, le domestique des Trois-Chênes. Ce fut lui qui emporta Luz toujours sans connaissance, tandis qu’Hoël, échappant aux remerciements de Mme Sibreux, s’enfuyait vers Kerlozo.</p>
+        </div>
+        <div title="II" type="chapter">
+          <head>II</head>
+          <p> </p>
+          <p>Luz fut très malade, à la suite de ce bain glacé. Un moment, on la crut perdue. Enfin, elle entra en convalescence, et aussitôt elle voulut qu’on lui racontât comment elle avait été sauvée.</p>
+          <p>– Il est très brave, ce petit garçon, dit-elle d’un ton admiratif. Il faudra que j’aille le remercier, dites, mademoiselle ?</p>
+          <p>– Ce sera convenable, en effet, ma petite.</p>
+          <p>Claire, qui était présente, déclara :</p>
+          <p>– Maman lui a dit merci déjà. Et il s’est sauvé, à ce moment-là. Hier, papa l’a vu de loin, sur la lande, et l’a appelé. Alors il s’est mis à courir, bien vite de l’autre côté.</p>
+          <p>Mlle Élise convint :</p>
+          <p>– C’est un enfant un peu sauvage, et très fier, paraît-il. Mais M. le recteur assure qu’il a des sentiments excellents et une intelligence rare.</p>
+          <p>Les jours qui suivirent, Luz reprit un peu de force et put commencer de jouer avec sa cousine. Son petit visage pâli semblait moins maigre et ses beaux yeux noirs recouvraient leur vivacité. Le jour de l’Épiphanie, comme la température était d’une douceur extrême, le médecin autorisa une courte promenade, aux alentours de la maison. Au retour, Luz devait se joindre à ses cousins et à leurs amis, qui tiraient les Rois cet après-midi-là.</p>
+          <p>Elle s’en alla donc avec Mlle Élise, laissant Claire qui papotait au milieu des autres petites filles. À pas lents, pour ne pas fatiguer la convalescence, institutrice et élève s’engagèrent sur la route qui passait devant la maison. Or, à un tournant, elles se trouvèrent nez à nez avec Hoël qui s’en venait en rêvant. Luz jeta un cri de joie et se précipita sur le garçonnet qui avait eu un sursaut de surprise.</p>
+          <p>– Ah ! petit garçon, je suis contente de vous rencontrer ! Je voulais vous dire merci !... grand merci, parce que vous m’avez tirée de l’eau !</p>
+          <p>En enlevant son vieux feutre verdi pour saluer Mlle Élise – car il avait conservé les principes de politesse enseignés par sa mère – Hoël répondit d’un air indifférent :</p>
+          <p>– Oh ! ce n’est pas la peine !</p>
+          <p>– Mais si, c’est la peine ! Sans vous, je serais noyée ! Ma tante et mademoiselle l’ont bien dit.</p>
+          <p>Mademoiselle appuya :</p>
+          <p>– Certes, cette petite imprudente peut bien vous être reconnaissante, mon enfant – et nous aussi.</p>
+          <p>Hoël, l’air ennuyé, froissait entre ses doigts son chapeau. Évidemment, il avait fort envie de s’esquiver. Mais une petite main saisit sa manche, et Luz dit d’un ton de prière légèrement impérative :</p>
+          <p>– Je voudrais vous embrasser, pour vous remercier.</p>
+          <p>Hoël la regarda, d’un air surpris et perplexe. Elle se haussait, pour arriver jusqu’à lui. L’émotion, le contentement de payer sa dette faisait briller ses yeux. Hoël se pencha, et deux petites lèvres tièdes s’appuyèrent sur sa joue. Alors Luz lui cria joyeusement :</p>
+          <p>– Là, je vous ai bien dit merci, comme cela !</p>
+          <p>– Oh ! sûr ! Vous êtes une très gentille petite fille, et il aurait été bien dommage que vous restiez dans l’étang.</p>
+          <p>Hoël souriait maintenant. Ses yeux devenaient plus doux en se posant sur la petite fille rieuse et vive. Depuis cinq ans, personne ne l’avait embrassé. Et ce baiser d’une enfant étrangère, en lui rappelant ceux de sa mère, attendrissait son cœur devenu un peu farouche.</p>
+          <p>Tout à coup, une idée surgit dans le cerveau de Luz...</p>
+          <p>– Vous allez venir tirer les Rois avec nous !</p>
+          <p>– Tirer les Rois !</p>
+          <p>Encore un souvenir. Quelques semaines avant sa mort, Mme de Pendeguy avait réuni, le jour des Rois, les petits camarades de son fils. Ils avaient bien joué et ensuite ils s’étaient partagé la galette dorée. Hoël avait trouvé la fève, et ses amis avaient crié joyeusement : « Le roi boit ! » Mais depuis lors... ah ! depuis lors, que de fêtes avaient passé, toutes pareilles pour lui dans ce triste Kerlozo.</p>
+          <p>– N’est-ce pas, mademoiselle, qu’il peut venir tirer les Rois avec nous ?</p>
+          <p>Mlle Élise hésita. Que dirait Mme Sibreux, assez pointilleuse, si on lui amenait ce garçonnet mal vêtu, aux cheveux en broussaille ? D’autre part, il avait bien mérité ce petit plaisir.</p>
+          <p>Déjà Luz tirait par la main Hoël récalcitrant.</p>
+          <p>– Venez, je vous dis ! La galette est très bonne, Julienne la fait si bien ! Et puis il y a d’autres gâteaux, et des sirops... Et puis vous serez peut-être roi !</p>
+          <p>– Non, je ne veux pas... Non... Non...</p>
+          <p>Mais il se laissait faire, ne sachant comment résister à cette jolie petite créature impérieuse. Tant et si bien qu’il se trouva, quelques instants plus tard, au seuil de la salle à manger, où, autour de la table, venaient de s’asseoir les jeunes hôtes des Trois-Chênes.</p>
+          <p>Il s’arrêta net en voyant cette réunion, ces têtes curieuses qui se tournaient vers lui, et voulut fuir. Mais la main de la petite fille s’agrippait à lui. Luz s’écria d’une voix claire :</p>
+          <p>– Tante Germaine, j’amène le petit garçon qui m’a empêchée d’être noyée, pour qu’il tire les Rois avec nous !</p>
+          <p>Mme Sibreux, occupée à découper la galette, se détourna vivement, et ses yeux bleus, surpris et mécontents, se dirigèrent vers la porte. Elle dit d’un ton contrarié :</p>
+          <p>– Vraiment, Luz, tu aurais pu, avant, t’informer si...</p>
+          <p>Mais se souvenant aussitôt de la dette contractée à l’égard de cet enfant, elle se reprit, en ajoutant :</p>
+          <p>– Mais oui, qu’il vienne aussi prendre sa part de galette. Serrez-vous un peu, mes enfants, pour lui faire une petite place.</p>
+          <p>Une expression de surprise dédaigneuse apparut sur le visage d’Albert Sibreux, gros garçon de quatorze ans, très poseur. Claire pinça les lèvres, en murmurant avec mépris :</p>
+          <p>– Ah ! bien, ce pauvre, avec nous !</p>
+          <p>Mais déjà Luz entraînait triomphalement Hoël vers la table. Elle le fit asseoir à la place préparée pour elle, puis alla chercher une assiette, une cuiller, un verre et vint s’installer près de lui.</p>
+          <p>Tous les regards étaient tournés vers le petit étranger. Lui, le premier émoi passé, supportait cette curiosité avec une fière aisance. Ses yeux, en ce moment verts comme la mer et mystérieux comme elle, allaient de l’un à l’autre, indifférents, presque dédaigneux. Il ne semblait aucunement gêné par sa pauvre mise, par les trous de ses manches, par son vieux chapeau, qu’il avait posé sur ses genoux. Et Mlle Élise songeait, en le regardant, que ce miséreux à la mine fière et au fin visage avait l’air d’un petit prince déguisé en pauvre, parmi ces enfants bien vêtus.</p>
+          <p>Mme Sibreux posa au milieu de la table la galette recouverte d’une serviette, en disant :</p>
+          <p>– Allons, prenez chacun votre part. Les petites filles, d’abord...</p>
+          <p>Luz chuchota à l’oreille d’Hoël :</p>
+          <p>– Je voudrais tant être reine !</p>
+          <p>Mais hélas ! il n’y avait pas la moindre fève dans le morceau que fouillaient les petits doigts impatients !</p>
+          <p>À leur tour, les garçons glissaient leur main sous la serviette. Le dernier, Hoël y mit la sienne, – une main brune, mais très fine. Ses dents blanches et superbes mordirent sans hâte dans la pâte feuilletée. Autour de lui, on se demandait, l’un à l’autre : « Est-ce toi qui l’as ? Est-ce vous ? » Et c’était non, toujours. Ils avaient tous mangé leur part, maintenant. Seul Hoël finissait la sienne. Et il dit tranquillement :</p>
+          <p>– C’est moi qui l’ai.</p>
+          <p>Au bout de ses doigts, il montrait la fève. Luz s’écria joyeusement :</p>
+          <p>– Ah ! tant mieux !</p>
+          <p>De nouveau, tous les regards convergeaient vers le petit étranger. Le gros Albert dit entre haut et bas, avec un rire étouffé : « Le joli roi, ma foi ! » Claire eut une moue de mépris. Parmi les autres, quelques-uns ricanèrent.</p>
+          <p>Un tressaillement courut sur le visage d’Hoël, et les yeux couleur d’océan se foncèrent, comme la mer aux jours d’orage. D’un mouvement brusque, l’enfant se mit debout. Sa main frémissante jeta la fève dans l’assiette de Luz...</p>
+          <p>– Tenez, c’est vous qui serez ma reine. Les autres...</p>
+          <p>Du geste, du regard, il exprimait son ardent dédain. Sa tête se redressait, ses yeux assombris toisaient orgueilleusement les enfants un peu stupéfaits. Puis il sortit, avant que personne eût songé à faire un mouvement pour le retenir, Luz s’écria :</p>
+          <p>– Oh ! qu’est-ce qu’il a ?</p>
+          <p>Et elle se jeta à bas de sa chaise, poux courir après lui. Mais sa tante l’arrêta au passage.</p>
+          <p>– Laisse-le ! C’est un enfant mal élevé, un petit sauvage.</p>
+          <p>– Mais non, il est très gentil, tante Germaine ! C’est parce que les autres avaient l’air de se moquer de lui...</p>
+          <p>– Il n’a pas de raison pour être tellement susceptible. C’était déjà bien joli qu’on lui permit de s’asseoir parmi vous, fait comme il l’est. Maintenant, je crois que nous lui avons suffisamment payé notre dette, et je te défends, Luz, de l’amener désormais ici.</p>
+          <p>– Mais, tante Germaine...</p>
+          <p>– Tais-toi, et va te rasseoir.</p>
+          <p>Luz, la bouche plissée par la contrariété, obéit sans empressement. Albert dit avec un rire lourd :</p>
+          <p>– Eh bien ! la reine sans roi, bois un peu, qu’on puisse crier : « La reine boit ! »</p>
+          <p>Deux yeux noirs, pleins de colère, s’attachèrent sur le visage narquois.</p>
+          <p>– Non, je ne boirai pas, puisqu’il est parti. Et c’est mon roi... C’est mon roi, là !</p>
+          <p>Pierre Duchamp, un garçonnet pâle et prétentieux, ricana :</p>
+          <p>– Un roi miteux !</p>
+          <p>Les yeux noirs se tournèrent vers lui, et la petite voix furieuse cria :</p>
+          <p>– Je l’aime bien mieux que vous !</p>
+          <p>Mme Sibreux intervint, de ce ton sec qu’elle prenait volontiers à l’égard de sa nièce.</p>
+          <p>– Allons, c’est assez, Luz ! Tais-toi, et mange.</p>
+          <p>On passa aux enfants des pâtisseries diverses, on versa du sirop dans les verres. Luz mangea sans entrain et ne but pas, comme elle l’avait dit. C’était un peu dur, car la galette lui avait donné soif.</p>
+          <p>Mais son petit cœur généreux s’obstinait à protester ainsi contre l’injustice dont Hoël de Pendeguy était l’objet. Et elle tint bon jusqu’au bout, en dépit des moqueries d’Albert et de Claire.</p>
+        </div>
+        <div title="III" type="chapter">
+          <head>III</head>
+          <p> </p>
+          <p>M. Sibreux était le fils cadet d’un notaire de Ploërmel. Un oncle maternel, son parrain, lui avait légué sa propriété des Trois-Chênes où il vint habiter aussitôt après son mariage. Le rapport qu’il en retirait, joint à la dot rondelette de sa femme, lui constituait de jolis revenus. De ce fait, et aussi parce qu’il occupait nombre de gens du pays à la culture et à l’élevage, les deux sources de sa fortune, il était une des personnalités importantes de Pelcoat et de ses environs. Brave homme, d’intelligence médiocre, mais cordial et prêt à rendre service, il était généralement sympathique. Mais on n’aimait guère sa femme, poseuse et froide, orgueilleuse de sa fortune, ni ses enfants, trop gâtés, déjà dédaigneux de tout ce qu’ils jugeaient au-dessous d’eux.</p>
+          <p>Une cousine germaine de M. Sibreux avait épousé un Péruvien, Estevan Talmez, qui exerçait à Lima la profession de médecin. Elle mourut peu après la naissance de Luz, en faisant promettre à son mari, dont elle prévoyait le prochain remariage, de confier l’éducation de l’enfant à ses parents de France, tout au moins jusqu’à sa quinzième année.</p>
+          <p>Estevan tint parole. Et voilà pourquoi Luz se trouvait aux Trois-Chênes, élevée avec sa cousine Claire, sous la direction de Mlle Élise. Celle-ci était la seule qui comprit la petite nature vive et aimante, pas très facile, mais droite, généreuse, et toute pétrit de riches promesses. M. Sibreux témoignait à sa nièce une bonté paternelle, mais, en général, ne s’en occupait guère. Mme Sibreux se montrait assez souvent sèche et impatiente à son égard. Le gros Albert ne savait que la taquiner sournoisement. Quant à Claire, dont Mlle Élise essayait vainement de combattre l’égoïsme, elle s’arrangeait toujours pour mettre sa cousine en avant et rejeter sur elle toute la faute, quand elles avaient fait à elles deux quelque sottise.</p>
+          <p>Luz, néanmoins, restait affectueuse et gaie. Aussitôt après ses fréquentes colères, elle demandait gentiment pardon, alors que Claire s’éternisait dans la plus sombre bouderie. Et quand il lui arrivait de frapper sa cousine, au cours d’une dispute, elle en témoignait un ardent repentir.</p>
+          <p>– Oh ! c’est vrai, que je suis méchante ! disait-elle en jetant ses bras autour du cou de Claire.</p>
+          <p>Mlle Élise songeait :</p>
+          <p>– Ce sera plus tard une délicieuse nature, physiquement et moralement. Mais, en grandissant, elle souffrira de ne pas trouver, dans sa famille, des sentiments qui répondent aux siens.</p>
+          <p>En attendant, Luz semblait se trouver parfaitement heureuse, en dépit des gronderies fréquentes de la tante Germaine. Cependant, depuis le jour des Rois, quelque chose paraissait la tourmenter.</p>
+          <p>Un après-midi, elle se promenait seule avec Mlle Élise.</p>
+          <p>– C’est très vilain à tante Germaine d’avoir laissé partir comme cela le petit garçon du château !</p>
+          <p>Mlle Élise, qui était de cet avis, répliqua néanmoins :</p>
+          <p>– Vous n’avez pas à juger les actes de votre tante, ma petite. D’ailleurs, cet enfant a été un peu brusque, un peu trop susceptible.</p>
+          <p>– Mais non, il avait bien raison ! J’ai entendu ce qu’a dit Albert, et j’ai vu la grimace de Claire, je lui aurais donné une claque, pour la peine !</p>
+          <p>– Eh bien ! eh bien ! voilà du joli !</p>
+          <p>Là-dessus, Mlle Élise sermonna fermement son élève. Mais aujourd’hui Luz ne se laissait pas convaincre. Elle répétait, en secouant ses boucles brunes :</p>
+          <p>– C’est très vilain ! Je voudrais revoir le petit garçon pour lui dire que j’ai eu beaucoup de peine.</p>
+          <p>Mais elle n’apercevait Hoël que de loin en loin. L’enfant semblait éviter avec le plus grand soin les habitants des Trois-Chênes. Le dimanche, il assistait à la première messe, et c’était en vain que Luz le cherchait parmi les petits garçons du patronage, assis dans le chœur, à la grand-messe.</p>
+          <p>– Il est très fâché, pensait-elle avec chagrin, comme c’est ennuyeux !</p>
+          <p>À la fin de mars, Claire tomba malade de la grippe. Elle commençait à peine à se remettre lorsque Mlle Élise et Albert furent pris à leur tour. Luz se vit dès lors un peu négligée, ce qui n’était pas pour déplaire à sa nature indépendante. Et un beau matin, elle se trouva seule sur le chemin de Kerlozo, où elle avait résolu de se rendre, pour voir Hoël.</p>
+          <p>Un joli chemin, qui s’en allait tout tortueux entre des haies où déjà s’annonçait le printemps. Des violettes se cachaient dans l’herbe des fossés. Luz en cueillait au passage et en aspirait le parfum discret. Elle croisa le père Le Mirro – décidément, on le rencontrait toujours quand on faisait quelque escapade ! – et donna une caresse à son chien qui marchait gravement derrière une chèvre d’âge vénérable, paisible et presque aveugle. Le vieux eut un rire semblable à un gloussement et marmotta dans sa barbe grise et sale :</p>
+          <p>– Eh ! la petite demoiselle, on se promène donc toute seule, maintenant ?</p>
+          <p>En se redressant fièrement, Luz riposta :</p>
+          <p>– Bien sûr ! Je suis assez grande pour ça !</p>
+          <p>Le père Le Mirro rit encore, en montrant largement sa mâchoire édentée. Luz, mécontente, pressa le pas en continuant sa route. Elle ne l’aimait pas du tout, ce vieux bonhomme, avec ses paupières rouges, sa vilaine barbe, ses cheveux longs, sur lesquels tante Germaine et Mlle Élise jetaient des coups d’œil de défiance, quand elles rencontraient le vieillard ; et avec ça, il avait l’air de croire qu’elle ne pouvait pas se promener seule ! Quel impertinent !</p>
+          <p>Enfin, voici Kerlozo ! Encore une montée, assez raide, et Luz atteignait le pont jeté sur les douves, où frémissait toujours une eau limpide, jaillie d’une source qui se trouvait sous la cour du château. Le soleil de mars chauffait les débris de remparts, les restes croulants d’une tour, la sombre masse du château que Luz apercevait par la porte ouverte, au-delà du pont. L’enfant hésita un instant, un peu impressionnée. Jamais elle n’était venue si près de la féodale demeure. Que c’était vieux, et noir, et triste !</p>
+          <p>Puis elle se demandait ce que dirait M. de Pendeguy, s’il la voyait. Un jour elle l’avait aperçu et l’avait trouvé d’aspect peu engageant, avec son visage maussade, ses gros sourcils, sa barbe mal tenue et cette vieille houppelande verdie qu’il portait depuis sa jeunesse, affirmait-on dans le pays.</p>
+          <p>Eh bien ! tant pis ! Si elle le rencontrait, elle lui dirait bien poliment : « Je viens voir votre petit-neveu, monsieur. » Il ne devait pas être un ogre, ce vieux marquis. Autrement on le saurait dans le pays. Donc, il n’y avait rien à craindre...</p>
+          <p>En s’encourageant ainsi, Luz franchit le pont. Devant elle s’étendait une cour dont le sol disparaissait sous l’herbe. À droite se dressait la ferronnerie d’un puits. Sur la margelle moussue était assis Hoël, occupé à écrire. Luz, à sa vue, jeta un petit cri de joie...</p>
+          <p>– Ah ! quelle chance !</p>
+          <p>Hoël eut un léger sursaut et demeura pendant un instant immobile, stupéfait, les yeux fixés sur la petite créature vêtue de blanc qui courait vers lui, ses boucles brunes flottant autour de son visage ambré.</p>
+          <p>– C’est moi, Luz, qui viens vous dire que vous êtes mon roi ; que j’ai été bien fâchée, qu’Albert et Claire sont très sots...</p>
+          <p>Elle parlait d’une voix un peu haletante, en tendant à Hoël sa toute petite main. Lui, surpris, hésitant, n’avançait pas la sienne. Luz dit d’un ton inquiet :</p>
+          <p>– Est-ce que vous êtes fâché ?</p>
+          <p>– Oh ! pas contre vous, bien sûr ! Vous êtes très gentille...</p>
+          <p>Cette fois, il prenait la main offerte et la serrait doucement. Ses yeux, bleus en ce moment, regardaient Luz en souriant.</p>
+          <p>Elle dit d’un ton joyeux :</p>
+          <p>– Ah ! tant mieux ! Ils ont été méchants pour vous, les autres, mais ça n’empêche pas que je suis votre reine et puis que vous m’avez tirée de l’eau froide, où j’allais mourir. Alors vous comprenez, je suis très en colère parce qu’on vous a fait de la peine.</p>
+          <p>Hoël leva les épaules et un pli de dédain souleva sa lèvre.</p>
+          <p>– Oh ! je n’y pense plus guère ! Ce sont des sots, comme vous dites. Il n’y a que vous qui êtes une bonne petite...</p>
+          <p>Luz s’assit près de lui sur la margelle. Il objecta :</p>
+          <p>– Ce n’est peut-être pas prudent ? Ne remuez pas trop. Le puits est profond, profond, et si vous y tombiez je ne pourrais pas vous repêcher, comme l’autre jour.</p>
+          <p>– Oh ! je veux voir ! Tenez-moi bien, pendant que je regarde...</p>
+          <p>Elle se pencha au-dessus de l’ouverture béante, et se rejeta en arrière dans un mouvement d’effroi.</p>
+          <p>– Que c’est noir ! Et on voit l’eau au fond, tout au fond... Vous n’avez pas peur de tomber dedans ?</p>
+          <p>– Non, j’en ai l’habitude.</p>
+          <p>Luz se pencha curieusement vers le papier qu’Hoël tenait dans sa main gauche.</p>
+          <p>– Qu’est-ce que vous écrivez ? Vous faites vos devoirs ?</p>
+          <p>– Non, ce sont des vers que je fais pour mon plaisir.</p>
+          <p>Luz dit d’un air connaisseur :</p>
+          <p>– Ah ! oui, je sais ! Mlle Élise nous en donne à apprendre. J’en sais déjà beaucoup... Voulez-vous que je vous dise Le loup et l’agneau ?</p>
+          <p>Et, sans attendre la réponse, Luz commença la fable de La Fontaine. Elle la disait de façon charmante, avec d’amusantes petites mines à l’appui. Et Hoël riait, en l’écoutant. Sa main droite tenait le bras de la petite fille, pour que celle-ci ne risquât pas de choir dans le puits. Autour d’eux, le soleil glissait de grandes bandes lumineuses sur l’herbe de la cour et sur les vieux murs noirs. Le chien pelé rôdait dans l’ombre d’une ouverture en ogive, dont la porte pendait au-dehors, presque séparée de ses gonds. Tout était silencieux, tout parlait de ruine et d’abandon. Mais Luz ne se laissait plus impressionner par la sombre mélancolie de ce décor. Elle était très contente de voir rire Hoël qu’elle avait toujours vu sérieux ou triste – elle ne savait trop. En terminant la fable, elle demanda :</p>
+          <p>– Est-ce joli ?</p>
+          <p>– Très joli. Et vous la dites tout à fait bien.</p>
+          <p>Luz déclara, en petite personne qui connait déjà ses talents :</p>
+          <p>– On me fait toujours des compliments quand je la récite. Mais maintenant, ma tante ne veut plus...</p>
+          <p>En confidence, à l’oreille d’Hoël, la petite fille ajouta :</p>
+          <p>– Je crois que c’est à cause de Claire, qui est jalouse.</p>
+          <p>Hoël demanda :</p>
+          <p>– Claire, c’est la petite fille qui était avec vous, quand vous êtes tombée à l’eau ?</p>
+          <p>– Oui, Claire, ma cousine.</p>
+          <p>Hoël déclara sans ambages :</p>
+          <p>– Vous êtes beaucoup plus gentille qu’elle. C’est une chipie.</p>
+          <p>– Oh ! pas toujours ! Je l’aime bien, Claire. Nous jouons ensemble... Nous nous disputons quelquefois...</p>
+          <p>Puis, sans transition, Luz demanda :</p>
+          <p>– Dites, vous allez me réciter des vers, des vôtres ?</p>
+          <p>– Si cela vous fait plaisir...</p>
+          <p>Très simplement, Hoël dit quelques strophes. Il y était question des landes bretonnes, du troupeau de moutons, du vieux chien hargneux. Construction de phrases et prosodie se ressentaient du jeune âge de l’auteur. Mais, à travers cet essai, de bons juges eussent senti passer le souffle de l’inspiration et de l’originalité qui fait les grands poètes.</p>
+          <p>Luz battit des mains.</p>
+          <p>– C’est très bien ! Est-ce que c’est difficile de faire des vers ?</p>
+          <p>– Mais cela dépend. Moi, je ne trouve pas...</p>
+          <p>Il s’interrompit. Au seuil de la porte principale du château venait d’apparaître M. de Pendeguy. Il descendit d’un pas pesant les trois marches usées conduisant à la cour, tout en jetant un vague coup d’œil sur les deux enfants. Ceux-ci s’étaient levés. Poliment, quand il passa devant eux, Luz dit :</p>
+          <p>– Bonjour, monsieur.</p>
+          <p>Le vieillard, s’adressant à Hoël, demanda d’une voix grêle :</p>
+          <p>– Qui est cette petite ?</p>
+          <p>– La nièce à M. Sibreux, mon oncle.</p>
+          <p>– Et que fait-elle ici ?</p>
+          <p>Ce fut Luz qui répondit avec vivacité :</p>
+          <p>– Monsieur, je venais dire encore merci à votre neveu qui a empêché que je me noie dans l’étang.</p>
+          <p>– Qu’est-ce qu’elle raconte ? Tu ne m’as pas dit cela Hoël ?</p>
+          <p>Le garçonnet eut un geste d’insouciance. Une sorte de sourire souleva la lèvre supérieure de M. de Pendeguy, laissant voir sa gencive édentée</p>
+          <p>– Oui, pour un Pendeguy, c’est tout naturel d’être brave, de compter pour rien sa vie. Tu as raison, mon garçon... Bonjour, petite.</p>
+          <p>Il passa, courbé, ratatiné dans sa vieille houppelande. Luz le suivit des yeux. Quand il fut hors de la cour, elle demanda à mi-voix, en levant son petit visage songeur :</p>
+          <p>– Est-ce qu’il est méchant, votre oncle ?</p>
+          <p>– Méchant ? Mais non...</p>
+          <p>– C’est qu’il a l’air...</p>
+          <p>Elle ne trouvait pas de mot pour exprimer sa pensée. Un doigt posé au coin de sa bouche, elle regardait pensivement Hoël, dont les yeux prenaient une teinte d’un vert profond.</p>
+          <p>– ... Il est bon pour vous, alors ?</p>
+          <p>– Bon ? Mais non, il n’est pas bon. Il ne s’occupe pas de moi, il ne m’aime pas. Mais il me laisse faire ce que je veux.</p>
+          <p>Luz convint :</p>
+          <p>– Ça, c’est bien agréable ! Moi, il faut que j’obéisse toujours. Mais Mlle Élise est très bonne. Tante Germaine aussi... quelquefois.</p>
+          <p>Hoël demanda avec intérêt :</p>
+          <p>– Vous n’avez plus votre maman, vous non plus ?</p>
+          <p>– Non, je n’ai plus que papa, mais je ne le vois jamais. Il est très loin, dans l’Amérique, avec ma belle-mère et mes deux petites sœurs.</p>
+          <p>– Moi, je n’ai plus personne.</p>
+          <p>Les yeux verts devenaient tristes et songeurs. D’une voix plus lente, Hoël ajouta :</p>
+          <p>– Autrefois, j’avais maman. Elle m’aimait beaucoup, elle m’embrassait souvent... Et puis, elle est morte, tout d’un coup.</p>
+          <p>Une petite main tiède et douce se glissa dans la sienne.</p>
+          <p>– Oh ! que c’est triste ! Maintenant, personne ne vous embrasse plus ?</p>
+          <p>Hoël secoua négativement la tête.</p>
+          <p>– Et votre papa ?</p>
+          <p>– Il est mort au Sénégal, de la fièvre jaune. C’était un officier. Je n’ai plus d’autre parent que mon grand-oncle. Heureusement, il y a M. le recteur qui m’aime bien.</p>
+          <p>– Et moi aussi, je vous aimerai ! Dites, vous voulez ?</p>
+          <p>Hoël eut un de ces rares sourires qui éclairaient sa physionomie rêveuse.</p>
+          <p>– Mais oui, je veux bien.</p>
+          <p>Et il ajouta, après un instant de réflexion :</p>
+          <p>– J’aurais été content d’avoir une petite sœur comme vous.</p>
+          <p>Le chien jaune traversait la cour et venait à eux. Hoël appela :</p>
+          <p>– Kennoch !</p>
+          <p>L’animal s’approcha. Sa tête au poil rugueux, aux yeux ternis, s’offrit à la caresse des doigts fins de son petit maître.</p>
+          <p>Luz demanda :</p>
+          <p>– Il est très vieux ?</p>
+          <p>– Oui. Il ne sert plus à grand-chose pour la garde des moutons, car il devient sourd et aveugle et il marche difficilement. Mon oncle parlait de le faire abattre, parce qu’il ne lui rend plus de services et qu’il faut le nourrir quand même. Alors je lui ai demandé de le laisser mourir tranquillement, en lui disant que je me chargeais de sa nourriture. Tous les jours, je garde pour lui une partie de mon pain, puis la bonne de M. le recteur me donne des os, des débris de viande. Comme cela, il ne manque de rien, ce pauvre Kennoch.</p>
+          <p>Ses doigts flattaient le museau humide, caressaient les oreilles pointues. Le chien grogna de satisfaction. Luz le considéra d’un air perplexe. Elle le trouvait bien vilain, ce Kennoch. Cependant, son bon petit cœur, naturellement porté à la pitié, était capable de comprendre le sentiment de compassion et d’attachement qui faisait agir Hoël.</p>
+          <p>– Si je pouvais, je lui apporterais aussi quelque chose. Mais c’est trop loin, de la maison à ici. Et puis tante Germaine ne voudrait peut-être pas.</p>
+          <p>Elle resta un instant silencieuse, regardant le chien qu’Hoël caressait d’un geste machinal. Puis, passant à une autre idée, subitement, elle demanda d’un ton de prière câline :</p>
+          <p>– Voulez-vous bien me faire voir votre château ? Albert dit qu’il y a des grands trous noirs, où on mettait les prisonniers.</p>
+          <p>– Les oubliettes ? Oui, je ne demande pas mieux. Donnez-moi la main, pour ne pas tomber, car il y a un peu partout des pierres qui se sont détachées.</p>
+          <p>Puis, se ravisant, il demanda :</p>
+          <p>– Mais, sait-on, chez vous, que vous êtes ici ?</p>
+          <p>– Non, je suis venue sans rien dire. Mlle Élise est malade, et tante Germaine soigne Albert qui a la grippe aussi.</p>
+          <p>– Alors, on va peut-être vous chercher ? Et puis vous serez grondée ?</p>
+          <p>Luz secoua ses boucles brunes.</p>
+          <p>– On ne s’occupe pas de moi, en ce moment. Je peux faire ce que je veux, comme vous. Montrez-moi vite les oubliettes.</p>
+          <p>Elle glissait ses doigts dans la main d’Hoël.</p>
+          <p>Hoël, sans se faire prier davantage, l’emmena vers l’une des tours, à demi ruinée, qu’un lierre énorme couvrait de son feuillage sombre. Là se trouvaient les oubliettes. Luz se fit donner des explications et déclara à Hoël que les marquis de Pendeguy d’autrefois étaient de bien méchantes gens, pour avoir mis de pauvres hommes dans ces affreux trous noirs.</p>
+          <p>– Ils le faisaient seulement quand il s’agissait de très grands criminels. Ainsi mon oncle m’a raconté qu’il y avait autrefois, dans le pays, un homme très méchant qui guettait tous les petits enfants, les emmenait chez lui, et les tuait...</p>
+          <p>Luz l’interrompit par une exclamation d’effroi : « Oh ! Est-ce qu’il les mangeait, comme l’ogre du Petit Poucet ? »</p>
+          <p>– Ça, l’histoire ne le dit pas. Mais un jour, le seigneur de Kerlozo, avec ses hommes d’armes, passait près de la maison, quand il entendit des cris. Bien vite, il défonça la porte et vit l’affreux homme prêt à égorger un petit garçon qui criait, demandait grâce. Il le fit prendre par ses serviteurs, emmener au château et jeter dans une oubliette. Puis, après l’y avoir laissé quelque temps, il l’en fit sortir et le condamna à être pendu.</p>
+          <p>Luz écoutait de toutes ses oreilles. Ce vieux château commençait à l’intéresser énormément. Aussi accepta-t-elle avec enthousiasme l’offre que lui fit Hoël de lui montrer la salle des Gardes, la salle de Justice, bien conservée et très imposante, où se voyait une immense cheminée de pierre, la tour des Ducs, dont M. de Pendeguy avait transformé le rez-de-chaussée en salle des archives. C’était là qu’il passait la plus grande partie de son existence, avec ses deux chats qui se couchaient sans façon sur les parchemins jaunis.</p>
+          <p>Luz fit observer, en reniflant :</p>
+          <p>– Comme ça sent drôle, ici !</p>
+          <p>– Je crois bien ! Mon oncle ne veut jamais qu’on ouvre les fenêtres, ni qu’on nettoie. Aussi, voyez !</p>
+          <p>Il montrait les vitres des étroites fenêtres, opaques à force de couches de poussière et de toiles d’araignées.</p>
+          <p>– Ça fait bien l’affaire de Perrine, qui déteste les nettoyages. Mais quand on sort d’ici, on a joliment du plaisir à respirer !</p>
+          <p>En dernier lieu, il mena Luz au donjon, qui croulait à petit bruit, sous son revêtement de feuillage. Elle questionnait, s’intéressait à tout, avec une intelligence très éveillée. Hoël complètement conquis par la petite charmeuse, voulut l’accompagner jusqu’à une courte distance des Trois-Chênes, afin d’être bien sûr qu’il ne lui arriverait rien. En quittant le garçonnet, Luz déclara :</p>
+          <p>– Vous savez, il faudra venir me dire bonjour, quand je me promènerai avec Mlle Élise. Elle est très gentille et trouve que vous avez l’air très... Je ne sais plus comment elle a dit, mais c’était un mot comme un compliment.</p>
+          <p>Hoël secoua sa tête blonde. Subitement, son visage se rembrunissait.</p>
+          <p>– Non... Vous, je veux bien, mais pas les autres. Je suis mal habillé, j’ai l’air d’un pauvre, et on a honte de moi. Eh bien ! je reste de mon côté, je n’irai plus les gêner. Quand je vous verrai, je vous dirai bonjour de loin. Comment vous appelez-vous ?</p>
+          <p>– Luz.</p>
+          <p>– Luz ? C’est un drôle de nom.</p>
+          <p>– Un nom du pays de papa. Et vous, c’est Hoël ?</p>
+          <p>– Oui, Hoël. Au revoir, Luz.</p>
+          <p>– Au revoir, Hoël.</p>
+          <p>Ils se serrèrent la main, gravement. Luz s’en alla vers les Trois-Chênes, toute contente d’avoir fait plaisir à son jeune sauveur – car elle lui avait fait plaisir, cela se voyait très bien. Et Hoël la regarda s’éloigner, de son pas menu. Les yeux verts s’éclairaient d’émotion pensive. Cette sympathie enfantine était douce au cœur un peu farouche, un peu fermé, qui avait jusqu’ici ignoré l’amitié. Et puis, elle était irrésistible, cette jolie petite Luz. Comme ses yeux parlaient ! On y voyait toute sa charmante nature, vive, spontanée, affectueuse. Quelle différence avec l’autre, sa cousine, cette blonde qui faisait des grimaces !</p>
+          <p>Et, en pensant à sa petite visiteuse, Hoël reprit le chemin de Kerlozo.</p>
+        </div>
+        <div title="IV" type="chapter">
+          <head>IV</head>
+          <p> </p>
+          <p>Aux Trois-Chênes, l’escapade de Luz avait passé inaperçue. Néanmoins, la petite fille, par besoin inné de sincérité, la conta à Mlle Élise, quelques jours plus tard.</p>
+          <p>L’institutrice la gronda, à sa manière ferme et douce, puis lui fit promettre de ne plus recommencer.</p>
+          <p>– Mais vous me laisserez aller lui dire bonjour, quand je le verrai dehors, mademoiselle ? demanda-t-elle.</p>
+          <p>– Certainement, mon enfant. Vous lui devez de la reconnaissance, et je suis heureuse de voir que vous n’en manquez pas. Mais il ne faut pas pour cela vous rendre coupable de désobéissance, ainsi que vous l’avez fait l’autre jour.</p>
+          <p>À Claire, Luz ne dit mot de sa visite à Kerlozo. Puisque Albert et elle méprisaient Hoël parce qu’il était pauvre et mal vêtu, eh bien ! ils ne sauraient rien de tout ce qu’elle avait vu là-bas, de tout ce que le petit garçon de Kerlozo lui avait raconté. Il serait son ami à elle toute seule, voilà !</p>
+          <p>Cependant, le printemps, l’été passèrent sans que Luz eût occasion de parler à Hoël. Celui-ci continuait d’éviter les habitants des Trois-Chênes. Luz ne l’apercevait que de loin, dans la campagne. Elle lui criait : « bonjour Hoël ! », avec de gentils petits gestes d’appel. Mais Hoël se contentait d’enlever son chapeau et s’éloignait très vite.</p>
+          <p>Claire disait à sa cousine :</p>
+          <p>– Tu es bête de l’appeler comme ça ! Maman dit que c’est un sauvage. Et puis, il est sale.</p>
+          <p>Luz protestait avec indignation :</p>
+          <p>– Ce n’est pas vrai du tout. Ses mains et sa figure sont très propres, j’ai bien vu. C’est à cause de ses vieux habits déchirés qu’il fait d’abord cet effet-là. Mais ce n’est pas sa faute ! Un garçon, il ne peut pas les raccommoder !</p>
+          <p>Un jour, pendant la leçon de couture, elle confia à l’institutrice :</p>
+          <p>– Il faut que je me dépêche de savoir très bien coudre, parce que je voudrais pouvoir mettre des pièces aux vêtements d’Hoël. Il aurait comme ça l’air moins pauvre.</p>
+          <p>Et, dans ce but, elle apportait au travail à l’aiguille une attention extraordinaire qui lui avait fait défaut jusqu’alors.</p>
+          <p>Vers la fin de septembre, Mlle Élise s’absenta pour une quinzaine de jours. Mme Sibreux, chaque après-midi, fit faire aux petites filles leur habituelle promenade. Mais, un jour, retenue par une visiteuse, elle chargea de ce soin Albert, en lui recommandant de ne pas les emmener trop loin. Ils s’en allèrent tous trois, avec Fox, le chien de chasse de M. Sibreux. Albert flânait, en sifflotant. Les petites filles, et surtout Luz, couraient de-ci, de-là, faisant dix fois le chemin, à l’exemple du pointer. Puis elles montèrent à l’assaut d’une éminence sur laquelle se dressait un vieux moulin aux ailes brisées. Fox les précédait en gambadant. Mais, en haut, il fut accueilli par un aboiement rauque, et Luz, qui venait avant sa cousine, vit le chien de Kerlozo qui grondait sourdement, les babines soulevées, en regardant l’intrus. Elle appela :</p>
+          <p>– Fox ! viens ici !... Fox !</p>
+          <p>Mais Fox, chien très gâté, avait deux défauts principaux : la désobéissance, et un caractère susceptible. Cet accueil lui déplut fortement, sans doute, car il gronda à son tour et sauta sur Kennoch. Ils roulèrent ensemble sur l’herbe qui couvrait l’éminence. De derrière le moulin surgit Hoël, un livre à la main. Il cria :</p>
+          <p>– Ici, Kennoch... ici !</p>
+          <p>Et la petite voix de Luz appelait toujours :</p>
+          <p>– Fox !... Fox !</p>
+          <p>Mais les deux bêtes ne se lâchaient pas. Plus jeune, plus souple, Fox tenait sous lui Kennoch et lui enfonçait ses crocs dans le cou. Cependant le vieux chien réussissait quand même à le mordre. Et ils grondaient, furieux, l’écume aux lèvres. Claire appelait :</p>
+          <p>– Albert !... Albert !</p>
+          <p>Luz criait :</p>
+          <p>– Ils vont se tuer !</p>
+          <p>Hoël, lui, se jeta résolument sur les chiens et saisit Fox par son collier. Mais l’animal, se détournant, le mordit au bras. Hoël ne le lâcha pas, cependant. Il réussit à l’entraîner à quelques pas plus loin. À ce moment, Albert apparaissait en courant. Il appela le chien, qui voulut bien obéir en jetant un coup d’œil de rancune vers son adversaire.</p>
+          <p>– Eh bien ! qu’est-ce qu’il y a ? demanda le jeune garçon.</p>
+          <p>Claire s’écria :</p>
+          <p>– Ils se sont battus ! C’est ce vieux vilain chien qui grognait...</p>
+          <p>Luz intervint avec vivacité :</p>
+          <p>– Mais c’est Fox qui s’est jeté dessus !... Et il a mordu Hoël !</p>
+          <p>Elle s’élançait vers le petit garçon, qui relevait la manche de sa veste.</p>
+          <p>– Oh ! mais oui ! Ça saigne !... Il vous a fait bien mal ?</p>
+          <p>Hoël dit, laconiquement :</p>
+          <p>– Oui.</p>
+          <p>Il était un peu pâle et serrait les lèvres.</p>
+          <p>Albert s’approcha, jeta un coup d’œil dédaigneux sur le bras maigre et blanc, où se voyaient les marques sanglantes des crocs de Fox, et dit d’un ton important :</p>
+          <p>– C’est la faute de votre chien. Il grogne toujours, dès qu’il en voit un autre. Quand on a une bête répugnante comme celle-là, on la garde chez soi !</p>
+          <p>Un peu de rougeur monta au visage pâli. Les yeux verts se foncèrent, devinrent presque noirs, en s’attachant sur le gros garçon qui prenait un air provoquant. Hoël dit d’un ton dur, étrange en cette bouche d’enfant :</p>
+          <p>– Ici, c’est à tout le monde. Mon chien a le droit d’y être tout comme le vôtre.</p>
+          <p>– Voyez-vous, ce mendiant ! Quel toupet !</p>
+          <p>Le gros Albert, furieux, se dandinait, en roulant des yeux irrités et en frappant ses mollets de la petite canne de jonc qu’il tenait à la main. Hoël se redressa, le regard étincelant.</p>
+          <p>– Je ne suis pas un mendiant ! Je m’appelle Hoël de Pendeguy, et mon oncle m’a dit, qu’autrefois, vos ancêtres étaient les valets des seigneurs de Kerlozo !</p>
+          <p>– Ah ! bien !... Ah ! bien !...</p>
+          <p>Albert étouffait de rage.</p>
+          <p>– Tu vas voir comment je traite leur descendant, en tout cas !</p>
+          <p>Il se précipitait sur Hoël, la canne levée. Mais l’enfant, leste et nerveux, se jeta de côté, saisit le jonc qui retombait en sifflant dans le vide et l’arracha à son agresseur.</p>
+          <p>Luz s’élançait vers eux, avec un cri d’effroi :</p>
+          <p>– Albert !... Quel méchant !... Oh ! pauvre Hoël !</p>
+          <p>Le garçonnet jeta au loin la badine, en tournant le dos à Albert. Puis, s’écartant, il sortit son mouchoir pour étancher le sang qui coulait sur son bras. Il était très rouge et ses mains tremblaient.</p>
+          <p>Luz, les yeux pleins de larmes, lui présenta son mouchoir, un peu chiffonné mais bien blanc.</p>
+          <p>– Tenez, prenez aussi le mien !... Comme ça saigne !</p>
+          <p>– Ce ne sera rien. Je vais aller chez M. le recteur, et sa mère me mettra quel que chose dessus... Ne pleurez pas, Luz. Et merci pour votre mouchoir. Mais je n’en ai pas besoin.</p>
+          <p>Il appela Kennoch, qui s’était relevé péniblement et vint à lui en boitant. Tous deux s’éloignèrent et disparurent derrière le moulin.</p>
+          <p>Albert les suivit d’un regard mauvais, en marmottant rageusement :</p>
+          <p>– Attends, je te revaudrai ça quelque jour, chenapan, miséreux ! Ça ose faire le fier avec des haillons sur le dos !</p>
+          <p>Il vit tout à coup se dresser devant lui une petite créature au visage empourpré, aux yeux brillants, qui lui cria, en tendant les poings vers lui :</p>
+          <p>– Tu es un méchant !... Un méchant... Un méchant ! Je te déteste ! Mlle Élise m’a expliqué : ça s’appelle un lâche, quand on bat quelqu’un de plus petit. Eh bien ! tu es un lâche !... Lâche !... Lâche !</p>
+          <p>Elle mettait toute sa force dans ces épithètes, la petite Luz. Et elle ne les cria que de plus belle, quand son cousin, dans un geste de fureur, lui eut appliqué un soufflet sur la joue.</p>
+          <p>Claire geignait :</p>
+          <p>– Tais-toi !... Albert, ne te mets pas en colère !... Allons-nous-en !</p>
+          <p>– Oui, partons !</p>
+          <p>Et le jeune garçon, sans s’occuper si Luz le suivait, commença de descendre l’éminence avec sa sœur. Luz demeura un instant en arrière. Elle venait de ramasser sur l’herbe le livre qu’Hoël tenait à la main, au moment de son intervention. C’était un vieux petit volume relié en peau. En l’ouvrant, elle vit qu’il était écrit en une langue étrangère. Elle pensa :</p>
+          <p>– Je vais le cacher, parce que si ce méchant Albert le voyait, il serait capable de le déchirer. Et je tâcherai de le rendre bientôt à Hoël.</p>
+          <p>Le petit garçon et Kennoch avaient repris le chemin de Kerlozo. Les veux verts restaient assombris, et des tressaillements de colère agitaient le fin visage. Hoël avait fort à faire pour lutter contre son orgueil – l’orgueil bien connu des Pendeguy, disait son oncle, qui n’en était pas dépourvu à sa manière. Aussi le recteur s’efforçait-il d’inculquer à son élève une sincère et profonde piété, seule capable de combattre le terrible défaut. Mais en ce moment, Hoël oubliait tous les enseignements reçus. Il n’existait en lui qu’une colère, un mépris frémissants pour ce gros garçon vaniteux et brutal qui avait voulu le frapper... Ah ! il l’avait appelé chenapan, miséreux ! Eh bien ! lui, Hoël, était tout de même plus fier d’être un Pendeguy que de s’appeler Albert Sibreux !</p>
+          <p>Ainsi, roulant en son cerveau toutes ces pensées, il rentra au logis. Mais, comme il passait le pont, la vieille Perrine apparut dans la cour, en levant les bras au ciel. Et elle cria de sa voix cassée :</p>
+          <p>– Monsieur Hoël, vite, allez chercher M. le recteur et le médecin ! Je viens de trouver Monsieur quasi mort, dans son fauteuil !</p>
+          <p>Hoël s’exclama :</p>
+          <p>– Mon oncle !... Ah !... Je cours, Perrine !</p>
+          <p>Mais il eut beau faire diligence, ce n’était plus qu’un cadavre qui reposait dans le grand fauteuil, devant la table couverte de papiers jaunis, quand le prêtre et le médecin furent introduits au rez-de-chaussée de la tour des Ducs.</p>
+        </div>
+        <div title="V" type="chapter">
+          <head>V</head>
+          <p> </p>
+          <p>Trois jours plus tard, un cercueil, porté par quatre hommes, sortait de Kerlozo. Immédiatement derrière venait Hoël, habillé d’un vêtement noir trop large que lui avait fait venir de Vannes Mme Muizen la mère du recteur. Puis, suivaient quelques gens du pays, des vieux surtout, venus là par une sorte de déférence pour le nom que portait le défunt et qui, si longtemps, avait été le premier du pays.</p>
+          <p>En quittant le cimetière, le recteur emmena Hoël chez lui. L’enfant avait été profondément remué par cette mort soudaine, devant laquelle frémissait la sensibilité cachée sous des apparences de rêverie et de froideur. Certes, le défunt n’avait eu pour lui et ne lui avait inspiré aucune affection. Néanmoins, il était son seul parent. De plus Hoël avait vu la mort de près pour la première fois. Enfin, sa foi était assez vive et sa piété assez réfléchie pour qu’il éprouvât quelque chose du douloureux effroi des âmes croyantes devant la fin subite de ce vieillard, dont l’existence s’était écoulée dans la plus complète indifférence religieuse.</p>
+          <p>Le recteur voulut qu’il demeurât chez lui, dès ce soir même. Il projetait de demander la tutelle de l’enfant, puisque celui-ci n’avait plus de parenté. Quant aux ressources pécuniaires, il convenait de voir ce que laissait après lui M. de Pendeguy. L’abbé Muizen avait là-dessus son idée, qui se trouva confirmée quelques jours plus tard, quand le juge de paix et le notaire allèrent faire l’inventaire à Kerlozo, avant d’y apposer les scellés. Le marquis de Pendeguy était bien un avare, comme le pensaient quelques-uns. On trouva chez lui, dissimulée dans un placard de sa chambre, une somme assez importante en or, billets et titres divers. Et un examen attentif amena cette constatation : le vieillard avait économisé même sur la pension militaire de son petit-neveu, privant presque l’enfant du nécessaire, le laissant aller vêtu comme un miséreux pour satisfaire son affreuse passion.</p>
+          <p>Cette découverte soulagea le recteur d’une inquiétude. Il avait tout juste de quoi vivre, avec sa mère et un jeune frère, et se demandait comment il lui serait possible de subvenir, en outre, à l’entretien d’Hoël. Maintenant, cette question se trouvait résolue. L’enfant pourrait recevoir une instruction convenable, dans une pension modeste, et ne se trouverait à la charge de personne.</p>
+          <p>Un matin, en sortant de l’église où il venait de dire sa messe, le prêtre fut arrêté sous le porche par Mlle Élise, qui tenait Luz par la main.</p>
+          <p>– Monsieur le recteur, cette petite fille a quelque chose à vous remettre.</p>
+          <p>Le recteur, en caressant la joue de l’enfant, demanda en souriant :</p>
+          <p>– Et quoi donc, petite Luz ?</p>
+          <p>L’année précédente, Luz avait commencé d’assister au catéchisme, et elle connaissait bien, de ce fait, M. le recteur. Elle l’aimait beaucoup parce qu’il était bon et doux. Étendant la main, elle lui présenta le vieux volume ramassé quelques jours auparavant près du moulin, après la bataille entre Fox et Kennoch.</p>
+          <p>– C’est un livre à Hoël, monsieur le recteur. Il était tombé sans qu’il s’en aperçût. Voulez-vous bien le lui donner, s’il vous plaît ?</p>
+          <p>– Mais oui, ma chère enfant. Ou bien, venez plutôt le lui remettre vous-même. Il est chez moi... En même temps, mademoiselle, j’aurais à vous demander un petit service. Il s’agirait d’aider ma mère à orner l’église, pour la Toussaint. Vous vous entendriez avec elle...</p>
+          <p>Tout en causant, ils gagnèrent le presbytère, grand logis gris que le cimetière séparait de l’église. Luz, toute joyeuse de revoir Hoël, sautillait en avant. Elle dit gentiment bonjour à Mme Muizen qui se tenait à une fenêtre du rez-de-chaussée et qui l’enleva sans façon, pour la faire passer par-dessus. Après qu’elle eût embrassé la bonne dame, qui chérissait tous les enfants, elle demanda Hoël, en expliquant que M. le recteur voulait qu’elle lui remît elle-même son livre.</p>
+          <p>Mme Muizen la conduisit dans une pièce voisine, ouvrant sur le jardin, et lui dit :</p>
+          <p>– Eh bien ! Allez le chercher là, ma mignonne.</p>
+          <p>Luz ne se fit pas prier. Elle s’engagea dans une petite allée, entre des poiriers chargés de fruits. Tout au bout, sous un pommier, Hoël était assis et lisait. En entendant un pas léger sur le sol humide de l’allée, il leva la tête et eut une exclamation :</p>
+          <p>– Ah ! Vous, Luz !</p>
+          <p>– Oui ! Je viens vous rapporter votre livre que vous avez laissé tomber près du moulin...</p>
+          <p>– En effet ! Je suis retourné pour le chercher, ensuite... Vous êtes bien gentille d’être venue...</p>
+          <p>– Je suis très contente ! Mlle Élise cause avec M. le recteur, et on m’a permis de venir vous voir.</p>
+          <p>Tout en parlant elle grimpait sur le banc, avec une souplesse de petite chatte, et s’y installait commodément. Ses yeux vifs inspectèrent Hoël, des pieds à la tête, et elle déclara :</p>
+          <p>– Ça vous change d’être en noir, et avec des habits neufs... Est-ce que vous avez du chagrin à cause de votre oncle qui est mort ?</p>
+          <p>Hoël songea un moment, les yeux fixés sur un vieux poirier aux branches moussues, avant de répondre :</p>
+          <p>– Oui, un peu, tout de même. Je n’ai plus personne, maintenant, plus de parents.</p>
+          <p>– Alors, avec qui allez-vous demeurer ?</p>
+          <p>– J’irai en pension, probablement.</p>
+          <p>– En pension ! Oh ! C’est triste, ça !</p>
+          <p>Hoël secoua la tête. Une ombre d’angoisse couvrait ses yeux rêveurs.</p>
+          <p>– Oui... Mais je sais bien qu’il le faut. Je veux travailler, apprendre...</p>
+          <p>L’ombre se dissipait, et le vert profond des yeux devenait plus ardent.</p>
+          <p>– Je veux faire des vers, des vers très beaux, qui feront pleurer. Je veux être un poète.</p>
+          <p>Le fin visage hâlé frémissait. Dans le regard d’enfant passait la brûlante flamme du rêve qui, déjà, entraînait Hoël vers les idéales régions des concepts poétiques.</p>
+          <p>À ce même moment, dans le salon garni de solides meubles de noyer, où il recevait Mlle Élise, le recteur disait à son interlocutrice :</p>
+          <p>– Ce petit Hoël me paraît admirablement doué au point de vue intellectuel. Quelqu’un de compétent, à qui j’ai montré de ses vers, m’a déclaré qu’ils étaient étonnants pour un garçon de cet âge. Il a composé dernièrement un petit drame, en breton, que je trouve tout à fait charmant. Mais je ne le lui ai pas dit. Je ne veux pas trop l’encourager dans cette voie, qui peut lui réserver des désillusions. Car il n’a pas de fortune, ou, du moins, pas une fortune suffisante pour se contenter de la peu lucrative position de poète.</p>
+          <p>Mlle Élise demanda :</p>
+          <p>– C’est vous qui vous occuperez de lui, monsieur le recteur ?</p>
+          <p>– Mais oui, certainement. Je l’aime beaucoup, ce cher enfant. Puisqu’il est sans parenté, je demanderai sa tutelle. Puis, je le mettrai au Petit Séminaire de Vannes, dont mon frère est supérieur. Là, il fera de bonnes études. Après cela, nous verrons... S’il avait la vocation sacerdotale... Eh ! Ce serait encore la meilleure solution pour lui, de toute façon.</p>
+          <p>– Sa physionomie est très peu banale. Et il possède, en outre, une distinction innée très remarquable. Il eût été dommage qu’il demeurât plus longtemps dans ce vieux Kerlozo, sans surveillance, sans direction, vivant comme un petit pauvre.</p>
+          <p>– Oui, très dommage. La Providence conduit bien toutes choses. Si seulement ce malheureux vieillard avait eu le temps de se reconnaître !... Enfin, je m’efforcerai de faire d’Hoël un homme conscient de ses devoirs. Le terrain est excellent. Cet enfant a de l’énergie, un cœur affectueux, beaucoup de délicatesse. Un peu ombrageux, par exemple, ce petit Pendeguy... Un peu orgueilleux. Le défaut de la famille. La religion bien comprise l’atténuera, je l’espère.</p>
+          <p>Mlle Élise dit en souriant :</p>
+          <p>– Luz a une très grande sympathie pour lui.</p>
+          <p>– Oui, la chère enfant, Hoël m’a conté comme elle avait cherché à réparer les petites... méchancetés de ses cousins. Elle a une charmante nature, cette gentille Luz.</p>
+          <p>– Délicieuse. Pas toujours très facile, évidement. Mais, par le cœur, on en obtient tout. J’avoue ma préférence pour elle.</p>
+          <p>– Préférence très naturelle, de toute façon. Cette petite orpheline a bien droit à plus d’affection de votre part, mademoiselle, puisque les autres ont celle de leurs parents.</p>
+          <p>Quand, un peu plus tard, le recteur et Mlle Élise vinrent en causant jusqu’au banc sous le pommier, ils trouvèrent Luz, très attentive, les mains croisées sur sa petite jupe blanche, écoutant Hoël qui lisait à haute voix des poèmes bretons, dans le vieux livre rapporté par la petite fille. Celle-ci, à la vue des arrivants, se laissa glisser à terre et courut au prêtre, en s’écriant :</p>
+          <p>– Monsieur le recteur, je veux apprendre le breton, pour comprendre ce que lit Hoël ! Il m’a dit qu’il me donnerait des leçons quand je serai plus grande.</p>
+          <p>Le recteur se mit à rire, en prenant entre ses doigts le menton de l’enfant.</p>
+          <p>– Bien, petit lutin, nous verrons cela. Hoël n’aura sans doute pas le temps, car désormais il va falloir qu’il travaille... N’est-ce pas, mon cher garçon ?</p>
+          <p>Il regardait maintenant Hoël, qui s’était levé pour saluer Mlle Élise. De nouveau, une clarté vive passa dans les yeux songeurs. Et le petit garçon dit d’un ton ferme, en redressant la tête :</p>
+          <p>– Oui, monsieur le recteur, je veux travailler beaucoup, pour rebâtir Kerlozo et pour qu’on ne dise plus que les Pendeguy finissent comme des crétins.</p>
+          <p>– Qui a dit cela, Hoël ?</p>
+          <p>– Le cousin de Luz, ce gros...</p>
+          <p>Une nuance de dédain passait dans sa voix.</p>
+          <p>– Il savait très bien que je l’entendais.</p>
+          <p>– Ah ! vraiment ! Ce n’était pas fort gentil, en effet.</p>
+          <p>Luz demanda :</p>
+          <p>– Qu’est-ce que c’est, un crétin ?</p>
+          <p>– C’est un être qui n’a pas d’intelligence, presque un idiot... Vous savez, comme Yannich ?</p>
+          <p>La petite fille eut une exclamation indignée :</p>
+          <p>– Comme Yannich !... Mais Hoël n’est pas comme ça ! Qu’est-ce qu’il dit, Albert ?</p>
+          <p>– Des sottises, déclara Mlle Élise. Ne vous en occupez pas, Hoël. Et vous, Luz, venez vite, car nous nous sommes attardées.</p>
+          <p>La petite fille se tourna vers Hoël et lui saisit la main.</p>
+          <p>– Vous n’êtes pas un crétin ! C’est Albert qui l’est ! Et moi, je vous aime bien ! Au revoir, Hoël !</p>
+        </div>
+      </div>
+      <div title="Deuxième partie" type="part">
+        <head>Deuxième partie</head>
+        <div title="I" type="chapter">
+          <head>I</head>
+          <p> </p>
+          <p>Un matin d’octobre, après cinq années d’absence, Luz Talmez revit les Trois Chênes et ses habitants. Elle arrivait de Lima, où son père l’avait appelée dès qu’elle avait eu quinze ans, et venait faire un séjour de quelques mois chez ses parents de France.</p>
+          <p>De son enfance, elle avait conservé la vivacité, la gaieté charmeuse, la bonté vibrante, qui, maintenant qu’elle était jeune fille, ajoutaient encore à l’attrait de sa beauté. Celle-ci, héritée de la race paternelle, suscitait l’admiration partout où paraissait Luz. Mais les enseignements du recteur de Pelcoat et de Mlle Élise avaient produit leurs fruits en cette âme bien disposée. Luz restait simple, toute sincère, d’une piété forte et fervente. Les petites souffrances morales qu’elle avait dû supporter tant chez les Sibreux que dans la maison de son père, où sa belle-mère la voyait sans bienveillance, ne lui laissaient aucune aigreur, aucun vestige de rancune.</p>
+          <p>Sa cousine, physiquement et moralement, formait avec elle le contraste le plus complet. Coquette et poseuse, Claire avait, en outre, une nature envieuse, dépourvue d’idées élevées, avide de satisfactions vaniteuses. À Luz, dès le lendemain de l’arrivée de celle-ci, elle confia son désir d’épouser « quelqu’un de très riche, ou qui aurait une position brillante et très en vue ». Luz s’exclama :</p>
+          <p>– Oh ! moi, par exemple, ce n’est pas ce que je rechercherai d’abord ! Et j’espère, Claire, que tu ne te borneras pas non plus à ces considérations-là, quand viendra le moment de fixer ton avenir,</p>
+          <p>Claire déclara :</p>
+          <p>– Pour moi, c’est le principal. Après cela, il ne me déplairait aucunement que mon mari fût un homme chic, qu’il eût d’agréables qualités d’homme du monde, qu’il...</p>
+          <p>Luz l’interrompit :</p>
+          <p>– Ah ! ma pauvre Claire, tu ne parles que de l’extérieur, de tout ce qui n’est que vanité ! Ton idéal n’est pas très relevé !</p>
+          <p>Claire eut un petit rire narquois.</p>
+          <p>– L’idéal ! Je ne m’en soucie guère ! Et le tien, quel est-il, belle Péruvienne ?</p>
+          <p>Son regard ironique et jaloux s’attachait au délicieux visage ambré, aux grands yeux noirs, doux et profonds.</p>
+          <p>– Le mien ? Voici : je voudrais que mon mari fût excellent chrétien, très bon, très intelligent, très distingué. Si, avec cela, il avait de la fortune, je ne m’en plaindrais pas, naturellement. Mais je me sens de force à être très heureuse, même dans une position modeste, pourvu que j’aie près de moi une affection forte et fidèle et que mes idées, mes convictions trouvent un écho près du compagnon de ma vie.</p>
+          <p>Claire rit de nouveau.</p>
+          <p>– Ma chère, c’est de la vieille romance, cela ! Il faut être plus pratique, voyons ! On se marie pour se faire une belle position d’abord.</p>
+          <p>– Non pas ! Tu sembles tout à fait oublier, ma pauvre amie, que le mariage est un sacrement, et qu’ils commettent une grande faute ceux qui le considèrent comme une affaire.</p>
+          <p>Claire eut un mouvement d’épaules :</p>
+          <p>– Oh ! tu sais, je ne m’embarrasse pas de grandes idées, moi !</p>
+          <p>Elles causaient ainsi en s’en allant vers le village, où Claire avait une course à faire. La lande était rose de bruyère et toute baignée des clartés adoucies du soleil d’automne. Au-dessus des frondaisons rousses des châtaigniers, Kerlozo dressait son toit dégradé, ses tours croulantes sous leur vêtement de lierre, Claire, étendant la main, dit en riant :</p>
+          <p>– Eh bien ! il a fait du chemin, le seigneur de Kerlozo, depuis qu’il s’en allait tout haillonneux à travers le pays. Le voilà coté comme un de nos poètes de grand avenir... As-tu lu la pièce qu’il a donnée l’année dernière à l’Odéon ?</p>
+          <p>– « Les Prisonnières » ? Je crois bien, et avec quel plaisir ! C’est absolument délicieux ! D’ailleurs, elle a eu un grand succès.</p>
+          <p>– Oui. Il y a des vers admirables et des scènes fort émouvantes. On en annonce une autre, pour novembre, à la Porte-Saint-Martin. Il paraît que c’est un chef-d’œuvre.</p>
+          <p>– Oh ! que je voudrais l’entendre ! Ayant connu, autrefois, M. de Pendeguy, j’y prendrais double plaisir.</p>
+          <p>Claire laissa échapper un rire moqueur.</p>
+          <p>– En effet, tu lui avais voué une reconnaissance exaltée. Je me souviens de cette scène, près du moulin, quand son vieux chien et Fox se battirent, et qu’il faillit en arriver de même entre Albert et lui. Tu étais une véritable petite furie, pour ce pauvre Albert.</p>
+          <p>– Et j’ai encaissé son soufflet ! Il était peu aimable, en ce temps-là, mon cher cousin !</p>
+          <p>Luz parlait d’un ton mi-plaisant, mi-railleur. Elle ajouta :</p>
+          <p>– Et il n’aimait guère Hoël de Pendeguy. Toi non plus, d’ailleurs.</p>
+          <p>– Oh ! j’étais si petite, alors ! Je le trouvais mal vêtu, mal peigné... Il est fort bien, maintenant. On a donné son portrait dans les revues, l’année dernière. Tu l’as vu, sans doute ?</p>
+          <p>– Certainement. Il a toujours la même physionomie, fière et un peu froide, mais si distinguée et si peu banale ! Ses yeux paraissent pleins de rêves, comme autrefois... Tu ne l’as pas revu, ici ?</p>
+          <p>– Non, pas depuis six ans, au moins. Il a beaucoup voyagé et séjourné en Italie, en Grèce, en Espagne. Mais le recteur nous a dit qu’il comptait venir passer, cet hiver, quelque temps à Kerlozo.</p>
+          <p>Il songerait à réparer cette ruine. Il paraît que « Les Prisonnières » lui ont déjà rapporté une fortune.</p>
+          <p>Luz dit, pensivement, en regardant Kerlozo :</p>
+          <p>– Je suis bien heureuse de sa réussite ! Ses vers n’exaltent que de nobles sentiments et j’ai conservé de lui le meilleur souvenir.</p>
+          <p>Quand la jeune fille alla, le lendemain, rendre visite au recteur et à sa mère, elle entendit encore parler du jeune marquis de Pendeguy, dans cette demeure où Hoël avait toujours trouvé le plus affectueux accueil.</p>
+          <p>– Demain, ce sera la gloire pour lui, déclara sans ambages le recteur. Et une gloire toute pure qui ne devra rien aux compromissions de conscience. D’ailleurs Hoël a conservé ses convictions d’autrefois, et son âme très noble, très énergique sait résister aux enivrements du succès aussi bien qu’à ceux du plaisir. Je ne crains pas de le dire, c’est une nature d’élite.</p>
+          <p>Mme Muizen appuya, d’une voix chevrotante :</p>
+          <p>– Un si charmant jeune homme ! Et distingué, comme un vrai prince ! Et bon, reconnaissant pour tous ceux qui lui ont fait quelque bien ! Il nous écrit des lettres délicieuses... Je vais vous montrer la dernière. Elle m’est adressée de Paris, où il se trouve en ce moment pour les répétitions de sa nouvelle pièce.</p>
+          <p>Luz dit pensivement :</p>
+          <p>– J’aimerais le revoir. Il m’a sauvé la vie, et je ne l’oublie pas.</p>
+          <p>Le recteur sourit.</p>
+          <p>– Lui aussi se souvient fort bien de l’aimable petite fille qui allait si gentiment à lui, en dépit de sa pauvreté. Vous vous reverrez sans doute cet hiver, puisqu’il doit venir à Kerlozo.</p>
+          <p>– Ah ! tant mieux ! Et ce sera très amusant de voir transformé en homme presque célèbre ce pauvre petit Hoël d’autrefois !... Sa nouvelle œuvre sera-t-elle aussi belle que l’autre, monsieur le recteur ?</p>
+          <p>– Plus belle encore, d’après ce que j’en sais. Il veut que je fasse le voyage de Paris pour assister à la première. Lui s’en ira à ce moment-là. Peut-être viendra-t-il ici, attendre la nouvelle de son grand succès.</p>
+          <p>Avec un sourire, le recteur ajouta :</p>
+          <p>– Sous des dehors d’homme du monde, et en dépit de ses nombreuses et très belles relations, il est resté au fond un peu sauvage, ce cher Hoël, Pour le décider à faire jouer « Les Prisonnières », il a fallu l’insistance de ses amis.</p>
+          <p>Répondant à d’autres questions de Luz, il parla encore de son ancien élève, raconta comment, alors qu’Hoël avait seize ans, un petit poème de lui était tombé sous les yeux d’un écrivain notoire qui, appréciant aussitôt la valeur de ce jeune talent, avait mis en œuvre son influence pour le faire connaître. Plus tard, c’était lui encore qui avait fait recevoir, à l’Odéon, « Les Prisonnières », ce drame en vers qui était plus qu’une promesse et donnait au nom du jeune poète une notoriété considérable.</p>
+          <p>Quelques jours plus tard, Luz s’en alla vers Kerlozo. Elle était seule, sa cousine ayant refusé de sortir aujourd’hui, sous prétexte de fatigue. En réalité Claire s’ennuyait à la campagne. Ce matin même, elle avait arraché à sa mère, très faible à son égard, la promesse d’un séjour à Paris, vers la fin de novembre.</p>
+          <p>Sa compagnie ne manquait pas à Luz. À mesure que les deux cousines avaient grandi, leurs natures si différentes s’étaient éloignées l’une de l’autre. Et la distance semblait avoir encore augmenté entre elles, maintenant que leur personnalité s’affirmait.</p>
+          <p>Luz voulait revoir de près le vieux château. Tout en marchant d’un pas alerte, dans les sentiers humides d’une pluie récente, elle se remémorait la visite faite autrefois à Hoël de Pendeguy par une petite fille désobéissante. Il avait été fort gentil pour elle, ce pauvre Hoël... Pauvre Hoël ! Mais on ne pouvait plus dire cela, aujourd’hui ! Il était maintenant très connu, et demain sans doute il serait célèbre.</p>
+          <p>Le recteur assurait qu’il demeurait un peu sauvage. Vraiment, elle aurait bien voulu en juger ! Ce lui serait un très grand plaisir de le revoir, cet Hoël, autrefois si différent des enfants qu’elle avait connus, et qui, homme, s’élevait encore au-dessus de l’ordinaire banalité.</p>
+          <p>Le château lui apparut encore un peu plus croulant, un peu plus dévasté par le temps qu’elle ne l’avait vu cinq ans auparavant. Au-delà du petit pont de pierre, la porte, d’un brun déteint, restait close maintenant. Luz pensa :</p>
+          <p>– Il aura grand air, et ce sera une belle et curieuse demeure, après sa restauration, M. de Pendeguy songe sans doute à se marier et il veut que Kerlozo soit prêt pour recevoir sa femme.</p>
+          <p>Des clartés légères effleuraient le vieux logis silencieux. Un oiseau s’envola d’un mur couvert de lierre. Luz songeait, debout dans la tiède lumière d’automne. Elle se rappelait une parole d’Hoël : « Je veux travailler, pour rebâtir Kerlozo et pour qu’on ne dise pas que les Pendeguy finissent en crétin. » Il avait atteint ce but, maintenant. Comme il devait être fier !</p>
+          <p>En revenant vers les Trois-Chênes, Luz rencontra son cousin qui rentrait aussi. Albert faisait son droit à Paris, en vue d’acheter une étude d’avoué. Il se fatiguait peu le cerveau, d’ailleurs, étant demeuré aussi ennemi du travail qu’autrefois. Poseur et très snob, d’intelligence médiocre et de cœur mesquin, il était fort peu sympathique à Luz, en dépit de son amabilité, destinée sans doute à faire oublier à sa cousine les fréquentes disputes de leur enfance. Il lui demanda :</p>
+          <p>– D’où viens-tu comme cela, Luz ?</p>
+          <p>– De Kerlozo. Je voulais revoir le vieux château.</p>
+          <p>– En bien piteux état, le pauvre ! Mais son propriétaire aura de quoi maintenant le mettre en état. En a-t-il une chance, ce Pendeguy ! Vrai, on n’aurait pas prévu ça, autrefois ! Ce petit vagabond, mal nippé...</p>
+          <p>Luz l’interrompit avec impatience.</p>
+          <p>– Je crois qu’à cette époque déjà il t’en aurait remontré, en fait d’instruction. M. le recteur déclarait n’avoir jamais eu de meilleur élève et de plus intelligent.</p>
+          <p>Albert, vexé, eut un rire moqueur.</p>
+          <p>– Ah ! oui, c’est vrai, tu avais un béguin pour lui, à cette époque-là ! Je me souviens que tu nous l’amenas un beau jour et qu’il s’assit à la table où nous tirions les Rois. Il partit tout à coup, comme un sauvageon qu’il était...</p>
+          <p>– À cause d’une réflexion méchante faite par toi, et des mines de dédain de Claire. Il était fier et susceptible et vous vous montriez fort désagréables pour lui.</p>
+          <p>Albert fit sauter sa canne et la rattrapa d’un geste qu’il croyait plein d’élégance.</p>
+          <p>– C’est possible ! À cette époque, il n’était pas autre chose qu’un petit pauvre. Aujourd’hui, c’est fort différent. Le voilà lancé, grâce à son nom, à son talent...</p>
+          <p>– Et peut-être aussi à sa personne ? D’après le portrait de lui que j’ai vu, il est très bien, très distingué...</p>
+          <p>– Oui, d’après son portrait. On est quelquefois passablement flatté, dans ces cas-là. Il faudra voir. Je pense qu’il fera une apparition ici, cet hiver.</p>
+          <p>– On le dit. Il fait répéter sa pièce, en ce moment.</p>
+          <p>– Ah ! oui ! Aura-t-elle le succès de l’autre ? Très bien « Les Prisonnières » ! un peu... trop mystique peut-être. Un peu... trop sublime. Mais de beaux vers... des situations intéressantes... Oui, il y a de l’étoffe...</p>
+          <p>Luz se retint de lever les épaules, en songeant avec une impatience ironique : « Il est incapable de comprendre les beautés contenues dans cette œuvre, et je suis sûre qu’il s’est ennuyé à l’entendre. Mais on l’a louée et il est chic de l’admirer. Alors... il admire. Ah ! sottise ! »</p>
+        </div>
+        <div title="II" type="chapter">
+          <head>II</head>
+          <p> </p>
+          <p>Au contraire de sa cousine, Luz aimait la campagne. Toujours intelligemment occupée, s’intéressant à mille choses qui laissaient Claire indifférente, elle ne s’y ennuyait jamais. Aussi la perspective de séjourner tout l’hiver aux Trois-Chênes lui eût-elle paru fort agréable, si elle y avait trouvé plus de sympathie que ne lui en accordaient Mme Sibreux et sa fille.</p>
+          <p>Le charme de Luz, sa gaieté, sa vie intelligente lui valaient l’accueil le plus empressé chez les relations de ces dames. Dès qu’elle était dans quelque salon, elle attirait tous les regards. Les vieilles gens, pour qui elle se montrait gentiment respectueuse et serviable, chantaient ses louanges. Les jeunes la déclaraient la plus délicieuse créature du monde. Il n’en fallait pas tant pour exciter la jalousie de Claire, déjà éveillée par la seule vue de cette trop jolie cousine, lorsque Luz lui était apparue, descendant du train à la petite gare de Pelcoat. Elle la laissait transparaître par des mots, par des regards, les uns et les autres teintés de malveillance, et qui semblaient à Luz fort désagréables.</p>
+          <p>Vers la fin de novembre parvinrent aux Trois-Chênes, par la voie des journaux, les échos du triomphal succès qui accueillait la nouvelle œuvre d’Hoël de Pendeguy. Toute la critique se montrait unanime dans l’admiration. Cette fois, c’était la gloire pour le jeune poète, comme le répétait joyeusement Mme Muizen à Claire et à Luz qui la saluaient au sortir de la messe du dimanche. Claire demanda :</p>
+          <p>– Le verrons-nous bientôt ici ?</p>
+          <p>– Mais oui, je pense. Il est en ce moment chez un ami, en Angleterre. C’est là que la nouvelle de son succès a été le trouver.</p>
+          <p>Une revue que recevait Mme Sibreux donnait, avec le compte rendu de la pièce, des extraits que Luz ne se lassa pas de relire les jours suivants. Elle admirait ce vers sobre, puissant, aux sonorités superbes et qui savait cependant se plier à l’expression des sentiments les plus tendres, les plus délicats. Son désir d’entendre l’œuvre tout entière augmentait à chacune de ces lectures. Mais elle savait que bientôt elle pourrait le satisfaire. Mme Sibreux se préparait à partir pour Paris, avec sa fille et sa nièce. Elles y resteraient une quinzaine de jours, et l’une de leurs premières sorties du soir serait pour se rendre à la Porte Saint-Martin, où l’on jouait « Gwennola ».</p>
+          <p>Avant son départ, Luz alla voir le recteur. Celui-ci lui apprit qu’il se rendrait aussi prochainement à Paris, pour entendre l’œuvre d’Hoël.</p>
+          <p>– Le cher enfant m’a envoyé une grosse somme, pour mon voyage et mon séjour là-bas. Il voulait que j’assiste à la première. Mais impossible de m’absenter à ce moment-là. D’ailleurs, j’aime mieux y aller maintenant. Il va passer quelques jours à Paris, avant de venir ici, et je l’y retrouverai.</p>
+          <p>Ces quinze jours furent fort occupés, pour les dames Sibreux. Elles avaient à Paris des cousins, des amis qui les invitèrent à des réunions, des thés, des dîners. Puis, il fallait compter avec les nombreuses courses dans les magasins, sans parler des distractions diverses dont elles entendaient profiter largement pendant ce séjour. Claire se montrait infatigable et sa mère suivait le mouvement. Mais Luz, parfois, s’abstenait de les accompagner. Ses goûts étaient plus intellectuels, plus délicats. Une longue station dans un musée, l’audition de quelque chef-d’œuvre du théâtre ou de la musique, une promenade à Versailles ou à Fontainebleau lui auraient paru plaisirs fort supérieurs à ceux, très frivoles, dont rêvait sa cousine. Elle avait entendu l’œuvre d’Hoël de Pendeguy, et son âme demeurait toute frémissante de la tragique et ardente beauté dont le drame était imprégné en toutes ses parties.</p>
+          <p>Comme elle comprenait le succès qui l’avait accueilli, qui semblait croître encore à mesure que se donnaient des représentations nouvelles ! Oui, Hoël était un grand poète. Et si jeune encore, cependant ! Maintenant, la gloire et la fortune lui étaient acquises.</p>
+          <p>– Quel veinard ! disait Albert.</p>
+          <p>À quoi Luz ripostait :</p>
+          <p>– Tu n’aurais pourtant pas changé ton sort pour le sien, autrefois ! Mais c’est un travailleur, une nature énergique et persévérante. Même s’il n’avait eu ce don superbe, il serait arrivé à quelque chose.</p>
+          <p>Elle avait de fréquentes escarmouches avec son cousin, dont la suffisance et le snobisme l’horripilaient. Et encore retenait-elle les mots d’ironie qui lui montaient aux lèvres pour ne pas contrarier sa tante, celle-ci considérant comme parfait tout ce qui venait de ses enfants.</p>
+          <p>Vers le 12 décembre, Mme Sibreux et les jeunes filles réintégrèrent les Trois-Chênes. Un soleil pâle se glissait entre les nuages floconneux, lorsque Luz s’éveilla le lendemain, très reposée du voyage. Il était tard, et elle ne pouvait songer à se rendre à la messe, comme elle en avait coutume. Mais elle voulut se donner le plaisir d’une promenade avant le déjeuner, pour secouer un reste d’engourdissement. Aussitôt habillée elle sortit, laissant Claire paresseusement étendue dans un fauteuil et occupée à regretter Paris. D’un pas alerte, Luz s’en alla à travers la campagne. Un air vif, un peu humide encore, la frappait au visage et soulevait ses cheveux noirs qui bouclaient toujours, comme naguère. Elle longeait la lande par le sentier que suivait autrefois Hoël, le jour où deux petites filles insoumises s’en étaient allées vers l’étang. Aujourd’hui encore, Luz se dirigeait de ce côté. La nappe d’eau lui apparut, d’un beau vert profond et frémissant. Sur l’herbe de ses berges scintillaient les gouttes d’une pluie nocturne, et les grands joncs se courbaient au souffle du vent qui s’élevait.</p>
+          <p>Luz pensa : « Si Hoël ne m’avait sauvée, je serais morte là. » Et comme elle avait vingt ans, comme elle trouvait la vie belle, un petit frisson la secoua.</p>
+          <p>Elle reprit sans hâte le chemin du retour – un chemin qui n’était pas le plus direct, car il faisait passer par Kerlozo. Mais elle aimait traverser le bois de vieux chênes par lequel on passait, en venant de l’étang, pour monter au château. Et tout autour de celui-ci, l’air était plus vif, tout parfumé d’arômes sylvestres que Luz aspirait avec délices.</p>
+          <p>Toujours sombre et silencieuse, la vieille demeure apparut bientôt aux yeux de la jeune fille. En s’en approchant, elle constata que la porte au-delà du pont était ouverte. Par le recteur, elle savait que Le Meur, le sacristain, était chargé d’y faire une ronde de temps à autre, d’ouvrir quelques fenêtres, de secouer un peu la poussière. Sans doute était-ce lui qui s’y trouvait aujourd’hui.</p>
+          <p>Luz songea :</p>
+          <p>– Cela me ferait plaisir de revoir cette vieille cour, ce puits curieux...</p>
+          <p>Elle s’approcha, franchit le pont et se trouva dans la cour. Le puits était toujours là, avec sa margelle ruinée, verte de mousse, et sa belle ferronnerie. À gauche, la porte, définitivement arrachée de ses gonds, gisait sur les pierres disjointes de la cour. Les marches conduisant à l’entrée principale apparaissaient brisées par l’usure, couvertes de mousse. Les volets, clos sur les fenêtres, n’avaient plus de nuance définissable et leurs ferrures rouillées semblaient arrivées au dernier degré de résistance. L’impression de ruine, d’abandon grandiose et mélancolique, qui avait naguère à peine effleuré l’esprit de l’enfant, s’imposa à celui de la jeune fille. Elle comprit, mieux qu’elle ne l’avait fait jusqu’ici, la souffrance des races déchues. Cette demeure lui apparut comme l’image même de la ruine lente des Pendeguy, la vieille famille bretonne, puissante et fière autrefois, et destinée à finir dans la pauvreté, si son dernier rejeton n’avait reçu du ciel le don merveilleux.</p>
+          <p>Tout en songeant, Luz tenait son regard machinalement fixé sur l’ouverture sombre que découpait l’entrée, au-delà des marches. Car les deux vantaux de la porte étaient ouverts sur le vestibule obscur. La jeune fille eut un sursaut en voyant s’élancer de cette ombre un lévrier gris, souple et mince qui laissa échapper à sa vue un aboiement. Derrière lui, une voix jeune et impérative appela :</p>
+          <p>– Ici, Kennoch !</p>
+          <p>Kennoch ! Aussitôt, Luz revit le vieux chien jaune, pelé avec qui Hoël partageait sa pitance.</p>
+          <p>Et puis une vive rougeur monta à son teint ambré. Au seuil du château apparaissait un élégant et svelte jeune homme, blond, au visage à la fois fin et viril que des yeux ardents et songeurs éclairaient d’une lumière discrète. Pendant quelques secondes, il s’arrêta sur la marche moussue et regarda Luz. Puis, il descendit d’un pas souple les autres degrés et s’approcha de la jeune fille, un sourire aux lèvres.</p>
+          <p>– Je ne me trompe pas ? Vous êtes bien, mademoiselle, la petite Luz autrefois si charmante pour le pauvre garçon que j’étais ?</p>
+          <p>– Et vous, monsieur, vous êtes Hoël de Pendeguy ?</p>
+          <p>– En personne ! M’auriez-vous reconnu ?</p>
+          <p>– Oh ! oui ! Vos yeux, surtout...</p>
+          <p>– Et les vôtres, comme ils n’ont pas changé ! J’y retrouve la même expression... Oui, vraiment, au milieu de la plus nombreuse réunion, je ne me serais pas trompé ! J’aurais dit aussitôt : « Voilà celle qui fut la petite Luz... celle à qui je garde un souvenir si reconnaissant. »</p>
+          <p>– Ah ! monsieur, est-ce à vous de parler de reconnaissance ! Je viens précisément de l’étang, et j’ai pensé là-bas à ce que je vous devais...</p>
+          <p>– Ce que vous m’avez donné vaut encore bien davantage. Grâce à votre enfantine charité, je n’ai pas conservé un souvenir trop amer de ce temps où si souvent l’on m’humiliait, parce que j’étais pauvre. Toujours, devant ces réminiscences, c’est placée l’image d’une délicieuse petite fille, qui m’appelait son ami, et qui ne rougissait pas de moi devant ses cousins.</p>
+          <p>Elle rougissait bien en tout cas maintenant, la jolie Luz ! Ses yeux se baissaient sous le regard d’Hoël, très ému, et qui laissait voir une admiration discrète. Le lévrier vint en aide à son embarras. Il s’approchait d’elle et frôlait sa robe de son long museau. Les doigts de la jeune fille caressèrent la tête fine...</p>
+          <p>– Vous l’avez appelé Kennoch, comme l’autre ?</p>
+          <p>– Vous vous souvenez ?</p>
+          <p>– Oh ! je crois bien ! Votre oncle voulait le faire tuer, mais vous aviez demandé à partager avec lui vos repas.</p>
+          <p>– Oui, pauvre Kennoch ! Il n’était pas toujours agréable, mais moi il m’aimait bien. Sa mort m’a chagriné pendant quelque temps.</p>
+          <p>Un court silence passa. Puis Luz dit avec un sourire :</p>
+          <p>– Il faut que je m’excuse, monsieur, d’être entrée ainsi. J’ai vu la porte ouverte et, ignorant votre arrivée, j’ai cru que Le Meur...</p>
+          <p>– Vous avez très bien fait, mademoiselle ! Il m’est beaucoup plus agréable de vous revoir ici, où vous avez été si bonne pour moi, qu’au hasard d’une rencontre banale. Oui, je suis à Pelcoat depuis hier soir. Notre bon recteur, mon meilleur ami, m’accorde l’hospitalité jusqu’à ce que Kerlozo soit habitable.</p>
+          <p>– Vous le faites restaurer complètement, m’a-t-on dit ?</p>
+          <p>– En effet. Pauvre Kerlozo, en a-t-il besoin !</p>
+          <p>Son regard enveloppa les vieux bâtiments, erra un instant sur l’enceinte croulante.</p>
+          <p>– Vous réaliserez ainsi votre désir. Rebâtir Kerlozo était un des buts que vous proposiez à votre travail, je m’en souviens.</p>
+          <p>Les yeux verts et profonds se reportèrent sur le charmant visage ému et si délicatement rosé.</p>
+          <p>– Oui. Et je l’ai atteint.</p>
+          <p>– Par une voie magnifique ! J’ai vu jouer « Gwennola » pendant notre séjour à Paris. Comment vous exprimer ce que j’ai ressenti ? Venant après tant d’illustres suffrages, mon opinion, tout enthousiaste qu’elle fût, vous paraîtrait d’ailleurs bien modeste...</p>
+          <p>– Détrompez-vous, mademoiselle. Ainsi ma « Gwennola » vous a plu ?</p>
+          <p>– Oh ! à quel point ! Vos vers font frémir les fibres les plus secrètes et éveillent en nous des impressions si hautes ! Certes, ils voient juste, ceux qui prédisent que vous serez le plus grand poète de notre génération !</p>
+          <p>Les beaux yeux noirs étincelaient d’enthousiasme. Hoël la remercia d’une voix chaude.</p>
+          <p>Puis, faisant quelques pas, il désigna le vieux puits.</p>
+          <p>– Vous souvenez-vous qu’ici je vous ai lu des vers, le jour où vous êtes venue me voir ?</p>
+          <p>Elle inclina affirmativement la tête.</p>
+          <p>Tous deux souriaient, émus et discrètement gais.</p>
+          <p>– Et je vous ai montré le château. Devant les oubliettes, vous vous êtes indignée de la cruauté de mes ancêtres.</p>
+          <p>– Oui, je me rappelle tout cela ! Cette visite avait frappé mon imagination d’enfant... Ces vieux souvenirs du passé subsisteront-ils, en dépit de la restauration ?</p>
+          <p>– Certes ! Je surveillerai de très près l’architecte, pour qu’il ne me dénature pas mon vieux Kerlozo.</p>
+          <p>– En ce cas, vous resterez quelque temps à Pelcoat ?</p>
+          <p>– C’est probable. Je me contenterai de courts séjours à Paris. Ainsi, mademoiselle, j’espère avoir le très grand plaisir de vous rencontrer encore, probablement chez M. le recteur ?</p>
+          <p>Luz répondit avec sa spontanéité habituelle.</p>
+          <p>– Mais je l’espère bien aussi, monsieur !</p>
+          <p>Après quoi elle prit congé du jeune homme qui l’accompagna jusqu’au-delà du pont. Elle regagna les Trois-Chênes toute joyeuse. Enfin, elle l’avait revu, cet Hoël, dont le nom était aujourd’hui célèbre ! Comme, sous la correction élégante de la tenue, sous les manières d’homme du monde, elle le retrouvait semblable à autrefois !</p>
+          <p>Albert disait qu’on l’encensait, qu’on l’adulait partout où il paraissait. Cependant, il avait semblé à Luz dépourvu de toute fatuité, à la fois très simple et d’une distinction très patricienne. Ses yeux conservaient l’expression ardente et songeuse qui existait dans ceux du petit Hoël et son sourire était discret, un peu lointain, comme autrefois aussi. Jeune homme, il devait être resté semblable à l’enfant fier, méditatif, dont l’âme ne s’ouvrait que devant la sympathie affectueuse.</p>
+          <p>Mais comme elle aimait son regard ! Il s’en dégageait un charme profond dont elle se sentait encore toute pénétrée en arrivant aux Trois-Chênes.</p>
+          <p>Mme Sibreux et Claire s’occupaient à défaire des malles, dans leurs chambres contiguës. Voyant les portes ouvertes, Luz, au passage, leur annonça :</p>
+          <p>– M. de Pendeguy est arrivé !</p>
+          <p>Claire s’écria :</p>
+          <p>– Ah ! vraiment ! Comment l’as-tu appris ?</p>
+          <p>– Parce que je viens de le voir, dans la cour de Kerlozo, où, ignorant sa présence, j’étais entrée pour donner un coup d’œil aux ruines.</p>
+          <p>– Comment est-il ? Que t’a-t-il dit ?</p>
+          <p>– Mais il est très bien. Et il s’est montré fort aimable. Tu sais que nous étions très amis autrefois ?</p>
+          <p>Elle souriait, avec une ironie légère.</p>
+          <p>Claire dit vivement :</p>
+          <p>– Il faudra que nous entrions en relations avec lui, n’est-ce pas, maman ? Par le recteur, ce sera facile.</p>
+          <p>Mme Sibreux approuva avec empressement.</p>
+          <p>– Sans doute. Nous lui devons, d’ailleurs, nos félicitations. Il devient la gloire du pays, ce jeune homme.</p>
+          <p>– Et puis, sa famille est si ancienne ! Les Pendeguy ont été pendant longtemps de hauts personnages. Après une éclipse, leur nom reprend du relief... Marquis de Pendeguy... Hoël de Pendeguy... C’est un très beau nom.</p>
+          <p>Et Claire, tout à coup joyeuse, se remit à défaire sa malle, en chantonnant.</p>
+        </div>
+        <div title="III" type="chapter">
+          <head>III</head>
+          <p> </p>
+          <p>L’entrée en relation avec M. de Pendeguy ne fut pas tout à fait aussi facile que l’avait pensé Mme Sibreux. Le jeune homme venait chercher, dans son pays natal, la tranquillité et la solitude. Pour la trouver plus sûrement, il s’était installé, après quelques jours passés au presbytère, dans une chambre du château à peu près passable. Son domestique lui confectionnait un déjeuner très simple, et le soir il dînait généralement chez le recteur. Il faisait de longues promenades, à pied ou en automobile, et ne semblait aucunement se soucier d’avoir des rapports avec les notabilités du pays.</p>
+          <p>Claire s’en montrait fort vexée. M. de Pendeguy, par sa notoriété, revenait à ses yeux de snobinette une sorte de demi-dieu et il lui semblait qu’un peu de cette célébrité rejaillirait sur elle si elle pouvait dire : « Le marquis de Pendeguy, notre ami... »</p>
+          <p>Ces vanités demeuraient étrangères à Luz. Elle aussi eût aimé à voir souvent Hoël, mais parce que le jeune homme lui était fort sympathique et qu’elle admirait profondément son talent magnifique. Plusieurs fois, elle l’avait aperçu à l’église, puis l’avait croisé dans le village. Il la saluait discrètement et ses yeux souriaient en la regardant.</p>
+          <p>La restauration du château était commencée. Le recteur disait, en se frottant les mains :</p>
+          <p>– Ce sera parfait. Hoël surveille tout de près et ne laissera pas dénaturer le caractère féodal de son vieux château.</p>
+          <p>La veille de Noël, Luz, qui avait accepté de garnir l’autel, vint au presbytère dès le début de l’après-midi. Dans la salle à manger, elle trouva le recteur et sa mère en contemplation devant des fleurs couchées dans des mannes d’osier. Mme Muizen s’écria :</p>
+          <p>– Venez voir, Luz ! M. de Pendeguy, sans nous en rien dire, a fait venir des fleurs du Midi, pour la fête de demain ! Des fleurs superbes ! Voyez !</p>
+          <p>Luz admira à son tour et déclara gaiement qu’avec de tels éléments il faudrait qu’elle fût bien maladroite pour ne pas combiner une décoration merveilleuse.</p>
+          <p>Tous trois, portant les mannes, gagnèrent l’église. Dans la sacristie, Luz s’occupa aussitôt de garnir les vases habituels, tandis que Mme Muizen allait en réquisitionner d’autres chez les personnes pieuses du village. Car M. de Pendeguy avait bien fait les choses. Il y avait une profusion de fleurs, et des plus belles. Demain, lorsqu’elles auraient repris toute leur fraîcheur momentanément compromise par le voyage, elles formeraient à la petite église une parure digne des plus belles cathédrales, ainsi que le déclarait Mme Muizen.</p>
+          <p>Luz disposa les vases avec le goût qui lui était naturel. Quand ce fut fait, elle suivit au presbytère Mme Muizen qui voulait lui offrir une tasse de thé. Tandis que la vieille dame allait tout droit vers la cuisine, Luz entra dans le salon. Elle eut un léger mouvement de surprise, à la vue d’Hoël, debout près de la fenêtre.</p>
+          <p>Il avança et la salua, en souriant.</p>
+          <p>– Marie-Josèphe vient de me dire que vous étiez occupée à garnir l’église ?</p>
+          <p>– Oui, et admirablement, grâce à vous !</p>
+          <p>– Oh ! je ne pouvais moins faire pour ma chère vieille église ! Et je compte bien d’ailleurs ne pas m’en tenir là. J’ai une très grosse dette de reconnaissance envers Dieu et envers notre bon recteur. Songez donc à ce que j’aurais pu devenir, s’il n’avait été là ? J’étais, il faut le reconnaître, un enfant abandonné.</p>
+          <p>– Oui, et vous avez dû en souffrir souvent ! Votre pauvre oncle était bien indifférent !</p>
+          <p>– Complètement. Seuls l’abbé Muizen et sa mère m’ont aimé et conseillé. Puis aussi une sympathie enfantine que je n’oublierai jamais, croyez-le...</p>
+          <p>Une teinte rose montait aux joues de Luz. Il y avait tant d’émotion profonde dans le regard d’Hoël ! La jeune fille dit spontanément :</p>
+          <p>– Je suis très heureuse de vous avoir laissé ce bon souvenir.</p>
+          <p>Mme Muizen entra à ce moment et commença à remercier chaleureusement Hoël. Celui-ci l’interrompit avec une gaieté émue.</p>
+          <p>– N’en parlons pas. C’est mon cadeau de Noël à ma vieille église... À propos, il paraît que nous aurons le plaisir de vous entendre chanter, cette nuit, mademoiselle ?</p>
+          <p>– Oui, M. le recteur a voulu que je chante.</p>
+          <p>Mme Muizen ajouta :</p>
+          <p>– Et elle a une voix délicieuse ! Vous en jugerez, Hoël !</p>
+          <p>Luz dit en riant :</p>
+          <p>– Ne préparez pas une désillusion à M. de Pendeguy, madame ! Il a dû entendre les plus célèbres artistes, à Paris et au cours de ses voyages. Que lui paraîtra ma pauvre petite voix d’amateur ?</p>
+          <p>Hoël riposta sur le même ton :</p>
+          <p>– J’en jugerai, comme dit Mme Muizen. Et maintenant, bonne madame, voulez-vous me dire où je puis trouver M. le recteur ?</p>
+          <p>– Mais il est déjà à son confessionnal, mon cher enfant ! Si c’est pressé, allez le trouver...</p>
+          <p>– Pas pressé du tout. En passant, je suis entré pour lui donner le renseignement qu’il m’a demandé ce matin. Mais j’attendrai fort bien jusqu’à ce soir.</p>
+          <p>– Prenez une tasse de thé avec nous. Vous raconterez à Mlle Luz vos voyages.</p>
+          <p>Hoël ne se fit pas prier. Luz passa une bonne heure dans le salon du presbytère, en causerie charmante et pleine d’intérêt avec M. de Pendeguy. Celui-ci, pour un sauvage, comme l’avait qualifié le recteur, était vraiment fort agréable. Involontairement, Luz le comparait à son cousin, aux jeunes gens des alentours qui venaient parfois aux Trois-Chênes. Tout l’avantage restait à Hoël, si simple, aucunement poseur, aussi distingué d’esprit que de manières. Et quelle conversation intéressante était la sienne ! Luz en oubliait l’heure et dut se hâter pour rentrer aux Trois-Chênes avant la nuit.</p>
+          <p>Jamais elle n’avait aussi bien chanté qu’elle le fit en cette Messe de la Nativité. Dans sa voix pure et d’un timbre si chaud passaient toute son émotion, toute sa ferveur de croyante. En l’écoutant, les fidèles se recueillaient et priaient avec elle. Un suave parfum de fleurs se répandait dans la petite église. Au banc de Kerlozo, Hoël, agenouillé, appuyait son visage contre sa main. Il priait, lui aussi, en regardant l’autel baigné de la lumière mystique des cierges. Que demandait-il à l’Enfant divin ? Son visage tressaillait et ses yeux s’éclairaient de joie profonde, comme si quelque vision délicieuse s’était offerte à lui.</p>
+          <p>En sortant de l’église, derrière Mme Sibreux et Claire, Luz vit tout à coup près d’elle M. de Pendeguy.</p>
+          <p>– Mademoiselle, voulez-vous me permettre de vous dire quel plaisir m’a procuré votre admirable contralto ?</p>
+          <p>Elle répondit avec sa simplicité habituelle :</p>
+          <p>– J’en suis bien heureuse, monsieur ! Mais je pense que vous y mettez peut-être un peu trop d’indulgence.</p>
+          <p>Il protesta avec chaleur : « Oh ! certes non ! Aucune voix ne m’a ému à ce point... »</p>
+          <p>À ce moment, Claire se détourna. Reconnaissant M. de Pendeguy, elle vint à lui, la bouche pleine d’éloges. Sa mère l’imita. Hoël reçut leurs compliments avec une courtoise froideur. Cependant, lorsque Mme Sibreux lui dit, avec son plus aimable sourire : « J’espère que nous aurons le très grand plaisir de vous revoir, monsieur ? » Il répondit sans hésitation :</p>
+          <p>– J’aurai l’honneur de vous rendre visite cette semaine, Madame, si vous me le permettez.</p>
+          <p>Si on le lui permettait ! Claire exultait, en revenant vers les Trois-Chênes. Ce jeune marquis de Pendeguy était vraiment parfait de toutes façons. Et il serait riche, très riche. Sa dernière œuvre, disait-on, lui rapporterait une grosse fortune. Mme Sibreux conclut :</p>
+          <p>– Il est l’idéal du mari.</p>
+          <p>Luz, soudain éclairée sur les motifs de cet enthousiasme, dit avec surprise :</p>
+          <p>– Comment, tu songerais ?...</p>
+          <p>– Et pourquoi pas ? Il doit penser à se marier. Tout aussi bien, son choix pourrait se porter sur moi.</p>
+          <p>En parlant ainsi, Claire glissait vers sa cousine un coup d’œil d’inquiétude jalouse. Luz était délicieusement jolie avec ce petit chapeau qui encadrait son visage et cette fourrure dont la teinte foncée seyait si bien à son teint. Ses yeux avaient ce soir un éclat admirable. Claire songea avec colère :</p>
+          <p>– Dès qu’elle est là, on ne remarque plus qu’elle. Lui sera comme les autres.</p>
+          <p>Il faudrait qu’elle parte... Comment faire ?</p>
+        </div>
+        <div title="IV" type="chapter">
+          <head>IV</head>
+          <p> </p>
+          <p>Hoël vint aux Trois-Chênes un après-midi où précisément Luz se trouvait au village. Mme Sibreux et sa fille l’accablèrent des plus flatteuses amabilités. D’autres visiteurs étant apparus sur ces entrefaites, on le présenta avec orgueil.</p>
+          <p>Lui s’esquiva bientôt. Tout cet encens ne lui montait pas au cerveau. Le souvenir des affronts infligés au petit Hoël pauvre lui servait d’antidote contre la griserie de la gloire.</p>
+          <p>Sur le chemin, en revenant, il croisa Luz qui rentrait. Ils échangèrent quelques mots, puis continuèrent chacun leur route. En son cœur, Hoël emportait la chaude clarté de ces beaux yeux noirs, auxquels il rêvait souvent.</p>
+          <p>Le 3 janvier, il reçut une carte ainsi libellée :</p>
+          <p> </p>
+          <p>« Cher monsieur,</p>
+          <p>« Nous tirons les Rois jeudi. Voulez-vous bien nous donner la très grande satisfaction d’être des nôtres ? Tous nos amis seront heureux de vous complimenter, car vous êtes vraiment une de nos gloires françaises. Ce sera oui, n’est-ce pas ?</p>
+          <p>« Veuillez croire aux sentiments bien sympathiques d’une admiratrice de votre rare talent.</p>
+          <p>« G. SIBREUX. »</p>
+          <p> </p>
+          <p>Hoël se mit à rire. Puis il murmura :</p>
+          <p>– Toutes les fêtes des Rois ne se ressemblent pas.</p>
+          <p>Un pâle soleil d’hiver entrait dans la grande chambre aux meubles vermoulus, où le jeune homme était assis devant une lourde table de chêne. Il frôlait les cheveux blonds, le visage à la bouche railleuse, les mains fines qui froissaient machinalement la carte grise et parfumée. Hoël songeait :</p>
+          <p>– Irai-je ? N’irai-je pas ? Oui, j’irai à cause d’« elle ».</p>
+          <p>Il évoqua aussitôt l’image d’une petite fille aux boucles sombres, aux beaux yeux rieurs et doux qui autrefois l’avait entraîné aux Trois-Chênes, qui l’avait fait asseoir près d’elle. Roi, il l’avait choisie pour reine. Chère petite Luz, déjà si bonne, si délicate ! Comme elle avait senti l’humiliation infligée au pauvre Hoël ! Comme, aussi, elle avait bien su lui témoigner sa reconnaissance ! Tandis que les autres...</p>
+          <p>Hoël eut un geste de dédain et jeta la carte sur la table en murmurant :</p>
+          <p>– C’est bien pour elle seulement que j’irai !</p>
+          <p>Luz, secrètement, jugeait la circonstance mal choisie pour une invitation à M. de Pendeguy. Une autre fête des Rois, dans cette même demeure, avait dû laisser un souvenir désagréable au jeune homme. Cependant, elle s’abstint de toute réflexion à ce sujet. Sa tante et sa cousine, depuis Noël, se montraient peu aimables à son égard. Et il lui venait à l’idée qu’elle les gênait, qu’elles attendaient son départ avec impatience. Pourquoi ? Luz l’ignorait. Mais cette pensée lui devenait très pénible et elle avait résolu de chercher un prétexte pour avancer ce départ.</p>
+          <p>Les Sibreux, ce jeudi-là, avaient réuni leurs relations intimes, et les deux salons résonnaient du bruit des voix et des rires quand Hoël fut introduit. Aussitôt, Mme Sibreux et Claire l’accaparèrent. Toutes les attentions, tous les sourires étaient pour lui. Albert, très aimable, très empressé, lui présentait ses amis. M. de Pendeguy accueillait sourires et compliments avec une parfaite courtoisie de grand seigneur. Il causait aimablement avec tous. Mais son regard se dirigeait sans cesse vers Luz, vêtue de blanc, si jolie, si simplement gracieuse, et qui le paraissait d’autant plus dès qu’on la comparait à sa cousine, minaudière et sans charme, en dépit d’une toilette élégante inaugurée aujourd’hui.</p>
+          <p>Comme autrefois, le gâteau des Rois fut servi dans la salle à manger. Claire vint le présenter sous une serviette, à chaque convive. Quand chacun fut servi, elle s’assit à la droite de M. de Pendeguy, place qu’elle s’était réservée. Luz se trouvait au bout de la table, entre son cousin et un petit jeune homme prétentieux qui l’horripilait. Elle regardait Hoël, en pensant :</p>
+          <p>– Aura-t-il encore la fève, cette fois ?</p>
+          <p>La voix calme du jeune homme s’éleva :</p>
+          <p>– Je l’ai.</p>
+          <p>Entre ses doigts, comme jadis, il montrait la fève. Albert cria :</p>
+          <p>– Vive le roi !</p>
+          <p>– Vive le roi !</p>
+          <p>Mme Sibreux dit avec un aimable sourire :</p>
+          <p>– Eh bien ! monsieur, choisissez votre reine.</p>
+          <p>Claire glissait vers lui un regard très doux. Mais il se leva et, les yeux tournés vers Luz, demanda :</p>
+          <p>– Mademoiselle, voulez-vous bien accepter, comme autrefois ?</p>
+          <p>Une délicate rougeur montait aux joues de Luz. La jeune fille répondit avec un sourire :</p>
+          <p>– Mais, très volontiers, monsieur.</p>
+          <p>Il alla vers elle, mit la fève sur son assiette. Comme il faisait un mouvement pour regagner sa place, la femme du notaire, Mme Bry, qui détestait les Sibreux et aimait beaucoup Luz, fit observer :</p>
+          <p>– Mais le roi doit s’asseoir près de la reine ! Albert, il faut céder votre place à M. de Pendeguy.</p>
+          <p>Mme Sibreux dit, d’un ton sec :</p>
+          <p>– Ce dérangement est inutile. Nous boirons tout aussi bien ainsi à la santé de la reine et du roi.</p>
+          <p>Une gêne passait sur la réunion. Parmi ceux qui étaient là, plusieurs se trouvaient à la fête des Rois, où Albert et Claire avaient si bien témoigné leur mépris enfantin pour celui auquel, aujourd’hui, ils prodiguaient leurs adulations. M. de Pendeguy n’avait-il pas voulu donner une leçon discrète à ses hôtes ? Plusieurs le pensaient. Et la déconvenue de Mme Sibreux et de Claire réjouissait les bonnes amies déjà fort jalouses de ce que le jeune châtelain de Kerlozo, qui n’avait fait par ailleurs aucune visite, fût entré en relation avec les habitants des Trois-Chênes. Comme on revenait au salon, Mme Bry demanda :</p>
+          <p>– N’allez-vous pas nous chanter quelque chose, mademoiselle Luz ? Vous savez que tous nous aimons tant votre belle voix !</p>
+          <p>D’autres personnes appuyèrent :</p>
+          <p>– Oh ! oui, oui, chantez, mademoiselle !</p>
+          <p>Luz dit avec une souriante simplicité :</p>
+          <p>– Mais si cela peut vous faire plaisir, je suis toute prête...</p>
+          <p>Claire intervint :</p>
+          <p>– Tu avais mal à la gorge, dimanche.</p>
+          <p>– C’est tout à fait passé maintenant... M’accompagnes-tu, Claire ?</p>
+          <p>Mlle Sibreux répondit « oui », sans empressement. Il lui déplaisait fort que sa cousine, en plus de sa beauté, se fît encore remarquer par sa voix. Aussi s’essaya-t-elle, traîtreusement, à la gêner par un accompagnement fantaisiste.</p>
+          <p>Ce fut en vain. Luz possédait parfaitement le morceau choisi et elle le chanta à merveille. Quand elle se tut, ce furent d’enthousiastes félicitations. Le petit jeune homme prétentieux déclara, d’un ton d’oracle :</p>
+          <p>– Épatant ! C’est épatant ! Une mine d’or dans le gosier !</p>
+          <p>Un autre affirma :</p>
+          <p>– On n’entend pas si bien à l’Opéra !</p>
+          <p>Albert, en tirant sa moustache maigre, confia à Mme Bry qu’il avait engagé sa cousine à entrer au théâtre où elle aurait des succès fous.</p>
+          <p>La notairesse s’exclama d’un ton indigné :</p>
+          <p>– Eh bien ! ils sont jolis, vos conseils ! Heureusement, je suis certaine que Mlle Luz n’a aucune envie de les suivre.</p>
+          <p>– Bah ! cela viendra peut-être ! Elle y gagnerait une grosse fortune...</p>
+          <p>– Il y a autre chose que l’argent dans la vie, mon garçon !</p>
+          <p>Et, levant les épaules, elle s’avança vers Luz. En ce moment, M. de Pendeguy se trouvait près de la jeune fille. Il la complimentait chaleureusement, en attachant sur elle un regard charmé. Luz émue et rougissante, était délicieusement jolie. Mme Bry glissa un coup d’œil vers Mme Sibreux et Claire, et, voyant les visages contractés, l’irritation à peine voilée du regard dirigé vers Luz, elle pensa :</p>
+          <p>– Il y aura du grabuge de ce côté ! M. de Pendeguy trouve cette charmante Luz fort à son goût. Mais la cousine s’est mis dans l’idée que ce brillant parti était pour elle. Alors, gare !</p>
+          <p>Pendant le reste de l’après-midi, Hoël demeura presque constamment près de Luz. Tous eurent l’impression qu’il se posait en prétendant. Courtois et aimable pour les autres jeunes filles qui se trouvaient là, il n’avait, en réalité, d’attention que pour Mlle Talmez. Dans le cœur de Luz s’insinuait une joie profonde et ses yeux souriaient, s’éclairaient d’une vive et merveilleuse lumière, tandis qu’elle écoutait Hoël. Mme Bry songea avec satisfaction : « Allons, voilà un bon petit mariage qui se prépare ! »</p>
+          <p>Quand, leurs invités partis, les habitants des Trois-Chênes se retrouvèrent seuls, Luz dit gaiement :</p>
+          <p>– Cette petite réunion a été tout à fait réussie ! Je crois que nos hôtes sont partis enchantés de leur après-midi.</p>
+          <p>Un silence glacial lui répondit d’abord. Puis Claire ricana :</p>
+          <p>– Toi, en tout cas, tu peux en être satisfaite ! Tu as assez bien manœuvré pour cela !</p>
+          <p>– Moi, j’ai ?...</p>
+          <p>Luz regardait sa cousine avec stupéfaction. Claire, les yeux mauvais, la bouche crispée, s’avança de quelques pas.</p>
+          <p>– Tu veux faire l’innocente ? C’est inutile avec nous. Mais je te préviens que je ne me laisserai pas enlever ainsi celui que j’ai choisi.</p>
+          <p>– Voyons, Claire, que racontes-tu ?</p>
+          <p>Mme Sibreux intervint, de sa voix sèche :</p>
+          <p>– Du moment où Claire t’avais appris qu’elle songeait à M. de Pendeguy, tu aurais dû agir avec plus de circonspection, ne pas faire la coquette...</p>
+          <p>– J’ai fait la coquette ? Ah ! par exemple !</p>
+          <p>Luz jetait cette protestation d’un ton vibrant. Son regard fier se posa tour à tour sur sa tante, sur Claire, sur Albert qui riait sournoisement.</p>
+          <p>– En vérité, je ne comprends pas !... Veuillez m’expliquer, ma tante, ce que signifie une telle accusation ?</p>
+          <p>– N’exagérons rien, mon enfant. Il se peut que tu n’aies pas du tout songé à éclipser ta cousine. Mais, enfin, tu aurais dû te souvenir qu’elle avait exprimé, devant toi, le désir de voir s’arrêter sur elle le choix de M. de Pendeguy.</p>
+          <p>Luz, emportée par la vivacité de sa nature, dit d’une voix frémissante :</p>
+          <p>– Vous êtes injuste, ma tante, et vous le savez bien ! Mais pour vous ôter toute inquiétude, je crois préférable de répondre, dès maintenant à l’invitation que m’a adressée Mlle Élise. Dès demain matin, je partirai pour me rendre chez elle et j’attendrai là l’époque du voyage de mon père en France.</p>
+          <p>Mme Sibreux protesta, sans empressement :</p>
+          <p>– Rien ne presse...</p>
+          <p>Mais Claire intervint :</p>
+          <p>– Elle a raison. Cela vaut beaucoup mieux... Je ne te garderai pas rancune, Luz, car je crois bien, comme le dit maman, que tu ne songeais pas du tout à me supplanter.</p>
+          <p>Le regard jaloux dirigé vers sa cousine démentait ses paroles. Luz eut un sourire d’ironie un peu dédaigneuse en ripostant :</p>
+          <p>– Tu dois en être persuadée, en effet.</p>
+          <p>Quand elle se retrouva seule dans sa chambre, elle s’assit près de la cheminée où brûlaient des souches de chêne et appuya sa main contre son front. Ses yeux se remplissaient de larmes. Toutes ses tristesses d’orpheline se ravivaient devant l’injustice de Mme Sibreux et de Claire. Était-ce sa faute, cependant, si M. de Pendeguy lui témoignait plus d’attention, plus de sympathie ? Aurait-il fallu qu’elle lui tournât le dos ? Elle seule avait été bonne pour lui, autrefois. Il s’en souvenait, voilà tout.</p>
+          <p>Pour éviter d’autres scènes de ce genre, elle n’avait qu’une chose à faire : partir. Il lui en coûtait beaucoup, cependant. Elle aimait ce pays et elle se réjouissait, en outre, de suivre les progrès de la restauration de Kerlozo. Puis, elle aurait été satisfaite de causer encore avec Hoël, si intéressant, si discrètement aimable...</p>
+          <p>Sa main trembla un peu contre son front et une larme, glissant le long de sa joue, tomba sur sa robe blanche.</p>
+        </div>
+        <div title="V" type="chapter">
+          <head>V</head>
+          <p> </p>
+          <p>Sur la route, l’abbé Muizen cheminait allègrement, le lendemain. Il était chargé d’une mission qui lui agréait fort, et ce contentement se lisait sur son visage brun et sec, aux traits fortement saillants. Ce n’est pas tous les jours que l’on voit en perspective un mariage réunissant les meilleures garanties de bonheur��! Deux chers enfants, qu’il connaissait bien, et qui semblaient faits l’un pour l’autre...</p>
+          <p>Oui, en vérité, l’ambassade était fort agréable !</p>
+          <p>Il longeait maintenant le mur du jardin des Sibreux. Le vent très vif agitait les branches dépouillées des arbres qui s’allongeaient par-dessus la crête couverte de lierre. Le recteur passa près des trois chênes, arbres séculaires qui avaient donné leur nom à la propriété, et franchit le seuil de la grille toujours ouverte. Mme Sibreux, qui inspectait ses rosiers devant la maison, l’aperçut et vint à lui.</p>
+          <p>– Bonjour, monsieur le recteur. C’est une aimable pensée de venir nous faire une visite.</p>
+          <p>– Je ne vous dérange pas trop, madame ? Il s’agit d’une question importante...</p>
+          <p>– Vous ne me dérangez pas du tout. Entrez donc...</p>
+          <p>Il la suivit dans le salon élégant et clair, où se groupaient de jolis sièges inconfortables. Mme Sibreux en désigna un au prêtre et s’assit en face de lui. Elle demanda des nouvelles de Mme Muizen, parla de la santé de son mari qui laissait à désirer. Après quoi, le recteur vint au but de sa visite.</p>
+          <p>– Je viens vous adresser, madame, une demande en mariage. M. de Pendeguy, mon ancien et cher élève, aime profondément votre charmante nièce, Mlle Luz. Je suis chargé par lui de vous informer de ses sentiments, afin que vous en fassiez part à M. Talmez et lui transmettiez la demande de la main de sa fille pour le marquis de Pendeguy.</p>
+          <p>Le froid visage de son interlocutrice s’était contracté. Mme Sibreux dit sèchement :</p>
+          <p>– Ah ! M. de Pendeguy songe à Luz ? Je m’en étonne, de la part d’un jeune homme si sérieux. Elle est bien enfant...</p>
+          <p>– Enfant, elle ? Mais aucunement ! Sa nature est gaie, très vive, très spontanée ; mais elle est aussi, tout autant que Hoël, sérieuse et profondément chrétienne</p>
+          <p>Les lèvres pincées, Mme Sibreux riposta :</p>
+          <p>– Je ne suis pas de votre avis. Mais, enfin, cela regarde M. de Pendeguy. J’écrirai donc au docteur Talmez pour l’informer de cette demande, monsieur le recteur.</p>
+          <p>– Le plus tôt possible, n’est-ce pas, madame ? Hoël est si impatient de pouvoir nommer Mlle Luz sa fiancée !</p>
+          <p>Mme Sibreux dit avec un accent dont elle ne put dissimuler complètement l’aigreur :</p>
+          <p>– Il aurait pu trouver cependant un parti bien autrement brillant, dans sa situation. Luz n’a qu’une petite dote et très peu d’espérances, car son père est sans fortune personnelle et ne fait guère d’économies.</p>
+          <p>– Oh ! M. de Pendeguy ne regarde pas à cela ! Mlle Luz lui plaît, il ne demande pas autre chose.</p>
+          <p>– Allons, tant mieux !... Nous serons certainement très satisfaits de voir M. de Pendeguy entrer dans notre famille...</p>
+          <p>Mme Sibreux, se reprenant, après le premier moment de saisissement irrité, prononçait des phrases qu’elle voulait rendre aimables, mais sous lesquelles le prêtre discernait l’effort. Il connaissait d’ailleurs assez sa paroissienne pour se douter des sentiments qui l’agitaient en ce moment. Aussi ne prolongea-t-il pas sa visite. En se levant, il demanda :</p>
+          <p>– Ferez-vous part, dès maintenant, à Mlle Luz, du désir de M. de Pendeguy, madame ?</p>
+          <p>– Luz n’est pas ici pour le moment, monsieur le recteur. Elle a dû s’absenter, un peu impromptu... Je crois d’ailleurs préférable de ne rien lui dire avant la réponse de son père.</p>
+          <p>– Cependant M. Talmez souhaitera sans doute connaître les sentiments de sa fille ?</p>
+          <p>– C’est probable. En ce cas, il lui écrira... Je réfléchirai à tout cela, monsieur le recteur.</p>
+          <p>Quand l’abbé Muizen rentra au presbytère, il dit à Hoël, qui l’attendait et venait au-devant de lui, des questions impatientes aux lèvres :</p>
+          <p>– Eh bien ! mon cher enfant, je crois que la tante va essayer de nous mettre des bâtons dans les roues !</p>
+          <p>– Comment cela ?</p>
+          <p>– Mais parce que – je le soupçonne – on avait espéré que vous choisiriez Claire. J’ai bien vu aussitôt la déception, la colère mal dissimulée de Mme Sibreux. Elle a dit cependant qu’elle allait écrire à M. Talmez. D’autre part, Luz est absente des Trois-Chênes, paraît-il.</p>
+          <p>Hoël dont le front s’était plissé aux paroles du prêtre, s’écria :</p>
+          <p>– Comment, depuis hier ?</p>
+          <p>– Oui, elle est partie ce matin. Mme Sibreux ne m’a pas dit pour quelle destination ; mais j’ai lieu de penser qu’elle se trouve chez Mlle Élise. Celle-ci, après avoir terminé l’éducation de Claire, s’est retirée à Vannes où elle vit de ses petites rentes. Luz m’avait dit qu’elle comptait aller passer près d’elle quelques jours. Cependant, je croyais qu’elle ne s’y rendrait qu’un peu plus tard.</p>
+          <p>Hoël fit quelques pas à travers la pièce succinctement meublée qui servait de bureau au recteur, puis revint près de celui-ci.</p>
+          <p>– Je me méfie de ces deux femmes. De quelle façon vont-elles présenter ma demande à M. Talmez ? Il faut que je voie Mlle Luz, que je sache par elle l’adresse de son père. Et alors, j’écrirai à celui-ci, je plaiderai moi-même ma cause.</p>
+          <p>– Mais que dira de cela Mme Sibreux ?</p>
+          <p>– Oh ! ce qu’elle voudra ! Vous comprendrez, monsieur le recteur, que je ne veuille pas laisser mon sort entre les mains d’une femme intéressée à nuire à sa nièce, dans l’espoir que je me rejetterais sur sa fille... L’ancienne institutrice habite Vannes, dites-vous ? Savez-vous son adresse ?</p>
+          <p>– Oui. Je vais vous la chercher. Vous aurez en Mlle Élise une excellente alliée, car elle chérit Luz. Et, dès longtemps, elle avait prévu la jalousie de Claire à l’égard de sa cousine.</p>
+          <p>Hoël arriva à Vannes assez tard dans la soirée. Il ne pouvait se présenter à cette heure chez Mlle Élise. Mais le lendemain matin, dès dix heures, il sonnait à la petite maison grise et lézardée, sise dans une vieille rue au pavé inégal, sur lequel fondait une neige légère, tombée dans la nuit.</p>
+          <p>La porte fut ouverte par l’ancienne institutrice, dont le visage ridé s’entourait d’une fanchon de laine noire. Hoël se nomma, en s’excusant de la déranger à cette heure. Mais elle dit avec un bon sourire :</p>
+          <p>– Je suis très heureuse de recevoir dans ma petite maison celui qui honore tant notre Bretagne. Et puis, nous sommes d’anciennes connaissances... Entrez donc, monsieur.</p>
+          <p>Elle l’introduisit dans une salle à manger étroite et longue, que chauffait un clair feu de bois. Sur une étagère du vieux buffet d’acajou, des roses de Noël s’épanouissaient dans une faïence rustique. Au milieu de la table couverte d’un tapis de drap grenat, une jardinière de cuivre contenait de superbes touffes de houx. Mlle Élise les désigna, en disant avec un sourire :</p>
+          <p>– C’est Luz Talmez, mon ancienne élève, qui a décoré si joliment mon logis.</p>
+          <p>– Ah ! elle est ici, mademoiselle ? C’est à son sujet que je viens...</p>
+          <p>Et aussitôt, Hoël exposa le but de sa visite. Quand il eut fini, Mlle Élise déclara :</p>
+          <p>– Vous faites bien de prendre vos précautions. Mme Sibreux ne voit au monde que ses enfants, et je ne sais trop si, l’intérêt de l’un d’eux étant en jeu, elle s’arrêterait devant une petite déloyauté. Venez, vous allez parler à Luz. Elle est, en ce moment, dans le jardin à contempler des effets de soleil sur la neige.</p>
+          <p>D’un pas alerte, Mlle Élise précéda le jeune homme dans le couloir et, de là, dans le jardin, tout en longueur, garni de plates-bandes bordées de buis. Sur les arbres dépouillés, sur les branches d’un vieil épicéa, la neige légère demeurait encore, caressée par les rayons d’un pâle soleil qui la fondait lentement. Luz se promenait dans l’unique allée. Elle était vêtue de gris pâle, et un capulet de laine blanche couvrait sa tête. Au bruit des pas sur le sol humide, elle se détourna. Aussitôt, une teinte rose monta à son joli visage, à la vue d’Hoël. D’un ton ému et surpris, elle s’écria :</p>
+          <p>– Monsieur de Pendeguy !</p>
+          <p>En quelques pas, Hoël fut près d’elle.</p>
+          <p>– Oui, mademoiselle, je suis venu, parce que j’avais une très importante requête à vous adresser. De ce que vous me répondrez, le bonheur de ma vie dépendra.</p>
+          <p>Mlle Élise ajouta, d’un ton allègre :</p>
+          <p>– En deux mots, voici ce que désire M. de Pendeguy : c’est que vous deveniez sa femme, ma petite Luz.</p>
+          <p>La teinte rose se fonça sur les joues de Luz, les beaux yeux s’éclairèrent d’une émotion plus vive. Avec un sourire tremblant, Luz murmura :</p>
+          <p>– Oh ! vous voulez, monsieur ?...</p>
+          <p>– Oui, je veux avoir, pour compagne de toute ma vie, celle qui fut, autrefois, si bonne pour le déshérité que j’étais alors. Je n’ai rien oublié, mademoiselle. Vous étiez, en ce temps-là, une enfant charmante, très franche, ignorant les petites vanités communes à tant d’autres, déjà sensible et pitoyable à toutes les misères. En vous revoyant jeune fille, j’ai compris aussitôt que vous n’aviez pas changé, que je trouverais en vous toutes les qualités pour ma future épouse. Voilà pourquoi je vous demande de devenir ma femme, mademoiselle.</p>
+          <p>Il se penchait un peu, avec des yeux pleins de prière.</p>
+          <p>Une petite main très blanche se tendit vers lui.</p>
+          <p>– Je dis oui bien volontiers !... Mais il faut demander à mon père... Et puis... Ah ! cela va mettre ma tante tellement en colère !</p>
+          <p>Tout à coup lui revenait le souvenir de la scène qui avait motivé son départ. Elle ajouta, en s’adressant à Mlle Élise :</p>
+          <p>– C’est pour le coup que l’on va m’accuser de manœuvres, de je ne sais quoi !</p>
+          <p>Hoël dit vivement :</p>
+          <p>– Comment ?... Avez-vous eu déjà des ennuis à ce sujet ?</p>
+          <p>Mlle Élise répliqua :</p>
+          <p>– Mais je crois bien ! C’est pour cela qu’elle est ici... Puis-je raconter tout à M. de Pendeguy, Luz ? Il est presque votre fiancé, maintenant.</p>
+          <p>Hoël protesta : « Oh ! tout à fait ! J’ai son consentement. »</p>
+          <p>Sa main serra longuement celle de la jeune fille, et la retint, pendant que Mlle Élise rapportait les attaques injustes auxquelles Luz avait été en butte de la part de sa tante et de sa cousine. En entendant cela, Hoël parut irrité au dernier point.</p>
+          <p>– Les misérables jalouses ! Mais elles en seront pour leur méchanceté. Vous me donnerez l’adresse de M. votre père, mademoiselle, et je lui écrirai dès ce matin, pour lui adresser directement ma demande.</p>
+          <p>– Il recevra en même temps une lettre de moi, ajouta Luz. Je veux lui dire tout ce que je pense de vous. Il est très bon, mon cher papa, et il a grande confiance en moi. Je suis bien certaine que la lettre de ma tante n’aura pas d’influence sur lui.</p>
+          <p>– Il faut l’espérer ! Au cas contraire, l’abbé Muizen saurait remettre les choses au point... Je vais donc, maintenant, me retirer, en emportant bien plus qu’un espoir...</p>
+          <p>Mlle Élise l’interrompit :</p>
+          <p>– Pas du tout, vous resterez déjeuner avec nous !... N’est-ce pas, Luz ?</p>
+          <p>– Oh ! oui, oui !</p>
+          <p>Les yeux souriants et pleins d’une chaude lumière s’attachaient sur Hoël qui considérait la jeune fille avec une tendresse émue.</p>
+          <p>– Je ne demande pas mieux, si je ne dois pas vous dérangez trop. Vous savez, pas de cérémonies ! Votre ordinaire habituel, mademoiselle Élise.</p>
+          <p>– Convenu ! Nous oublierons que vous êtes un homme riche, célèbre, etc.</p>
+          <p>– Pour ne vous souvenir que du petit Hoël qui ne mangeait pas toujours à sa faim. C’est cela. Je retourne à l’hôtel écrire ma lettre à M. Talmez et je reviens.</p>
+          <p>Il se pencha, baisa les doigts de Luz, puis la longue main ridée de Mlle Élise, et s’éloigna d’un pas alerte, le cœur plein de joie.</p>
+          <p>Quand il eut disparu, Luz se jeta dans les bras de la vieille demoiselle, en murmurant avec des larmes de bonheur :</p>
+          <p>– Oh ! mademoiselle, je suis si heureuse ! Je l’aime tant !</p>
+          <p> </p>
+          <p>*</p>
+          <p> </p>
+          <p>Luz avait bien prévu, quant à la réponse de son père. Sans se laisser influencer par les phrases ambiguës dont Mme Sibreux avait rempli sa lettre, il accorda son consentement, par retour du courrier, en termes chaleureux. Il annonçait aussi son arrivée en France, dans trois semaines, et demandait que l’on fixât la date du mariage de façon qu’elle coïncidât avec le séjour d’un mois qu’il comptait faire à Paris, avec sa femme et ses enfants.</p>
+          <p>Mme Sibreux, dissimulant sa colère, rappela sa nièce aux Trois-Chênes. Il lui fallait faire contre mauvaise fortune bon cœur, à cause de ses relations. Mais quelle amertume, pour elle, que ces fiançailles ! Avec quelle colère jalouse, difficilement contenue, Claire voyait le bonheur de Luz et d’Hoël, les attentions dont le jeune homme entourait sa fiancée, les gâteries dont il la comblait !</p>
+          <p>À l’égard des dames Sibreux, Hoël conservait une attitude de courtoisie froide qui les froissait secrètement. Néanmoins, elles lui témoignaient une amabilité empressée. Une telle alliance était un grand honneur pour la famille. À défaut du mari célèbre, très riche, jeune et charmant, possesseur d’un des plus vieux noms de Bretagne, dont avait rêvé Claire, on se parerait du cousin. Et déjà Albert faisait la roue au milieu de ses camarades, en parlant du marquis de Pendeguy, fiancé de sa cousine.</p>
+          <p>Hoël pressait la restauration de Kerlozo. Il voulait pouvoir, au retour de son voyage de noces, s’y installer aussitôt. En outre, il commençait à racheter des terres aux alentours, et M. Sibreux venait de lui vendre l’étang de Penbaol avec les landes qui l’environnaient.</p>
+          <p>Un après-midi, il se rendit à Kerlozo en compagnie de Luz et du docteur Talmez, arrivé de la veille. Il fit visiter le château à son futur beau-père et soumit à sa fiancée ses projets d’ameublement que Luz approuva pleinement, car il était homme de goût et très fin connaisseur. Dans la tour où avait autrefois élu domicile le défunt M. de Pendeguy, le docteur Talmez, amateur de vieux papiers, tomba en arrêt devant des paperasses jaunies et s’attarda à les examiner. Les fiancés sortirent dans la cour et allèrent s’asseoir sur la margelle du vieux puits. Luz demanda :</p>
+          <p>– Vous le laisserez tel qu’il est, notre puits ?</p>
+          <p>– Oh ! je crois bien ! Il me rappelle un trop charmant souvenir... C’est ici que je vous ai lu des vers, Luz – un de mes premiers essais.</p>
+          <p>Elle sourit, en inclinant affirmativement la tête.</p>
+          <p>– Je me souviens. Les avez-vous conservés ?</p>
+          <p>– Oui. Je vous les montrerai.</p>
+          <p>– Moi aussi, j’ai gardé quelque chose...</p>
+          <p>Elle prit dans sa poche un petit portefeuille de cuir foncé, l’ouvrit et en sortit un papier de soie qu’elle déplia.</p>
+          <p>– Voyez ces deux fèves... Elles m’ont été données par celui dont je fus la reine, deux fois...</p>
+          <p>– Dont vous serez la reine toujours, Luz, chère petite âme compatissante !</p>
+          <p>Longtemps, ils parlèrent du passé, firent des projets pour l’avenir, assis sur la margelle du puits ancien, dans la cour silencieuse d’où se retiraient les derniers rayons du soleil. Et le docteur Talmez les trouva là, quand, une heure plus tard, un peu confus de s’être ainsi oublié, il s’arracha aux vieux papiers qui racontaient les hauts faits des très puissants barons de Pendeguy, seigneurs de Kerlozo, dont le descendant allait devenir son gendre.</p>
+          <p> </p>
+          <p> </p>
+          <p> </p>
+          <p> </p>
+        </div>
+      </div>
+    </body>
+    <back/>
+  </text>
+</TEI>

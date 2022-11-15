@@ -1,0 +1,681 @@
+<?xml version='1.0' encoding='UTF8'?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>La maison dans la forêt</title>
+        <author from="1875" key="" name="Petitjean de la Rosière, Jeanne-Marie" sex="female" to="1947"/>
+        <edition n=""/>
+        <editor name="Édition du Dauphin" where="Paris"/>
+      </titleStmt>
+      <publicationStmt>
+        <date type="created" when="1956"/>
+        <date type="issued" when="1956"/>
+      </publicationStmt>
+      <editionStmt>
+        <profileDesc tag="non-canon" type="genre">
+          <textClass>
+            <keywords>
+              <term>roman sentimental</term>
+            </keywords>
+          </textClass>
+        </profileDesc>
+      </editionStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docAuthor/>
+        <docTitle>
+          <titlePart main=""/>
+          <titlePart sub=""/>
+        </docTitle>
+      </titlePage>
+    </front>
+    <body>
+      <p>La maison dans la forêt</p>
+      <p> </p>
+      <p>Édition de référence :</p>
+      <p>Édition du Dauphin, Paris.</p>
+      <div title="I" type="chapter">
+        <head>I</head>
+        <p> </p>
+        <p>Le commandant de Clercy traversa la grande antichambre un peu sombre et demanda à la servante qui allait et venait dans la salle à manger, pour mettre le couvert :</p>
+        <p>– M. Gilbert est-il rentré, Louise ?</p>
+        <p>– Oui, monsieur, il vient d’arriver. Je pense qu’il est dans sa chambre.</p>
+        <p>M. de Clercy ouvrit une porte, longea un couloir maigrement éclairé par deux impostes haut placées, et entra dans une pièce de belles dimensions, à deux fenêtres ouvrant sur un vieux jardin silencieux.</p>
+        <p>Assis devant une table, un très jeune homme écrivait. Il leva la tête, et ses yeux foncés, calmes et sérieux, sourirent à l’arrivant.</p>
+        <p>– Tu travailles, Gilbert ?</p>
+        <p>Tout en parlant, M. de Clercy s’avançait. Il mit sa main sur l’épaule de son fils, en enveloppant d’un regard affectueux le jeune visage aux traits déjà virils, à la bouche ferme et résolue.</p>
+        <p>– Non, mon père, j’écrivais à Helcker pour lui annoncer que vous m’autorisiez à accepter son invitation pour le mois d’août.</p>
+        <p>M. de Clercy prit une chaise, et s’assit près de son fils. Des taches de lumière, que formait le soleil passant entre les interstices des volets clos, dansèrent sur le visage maigre et brun, sur les cheveux foncés où paraissaient de nombreux fils d’argent, sur le drap bleu de la tenue d’officier de dragons.</p>
+        <p>– Écoute, mon enfant, j’ai réfléchi à quelques chose... Et je viens te demander de faire le sacrifice de ce plaisir, pour remplir un devoir.</p>
+        <p>Un peu de surprise apparut sur la physionomie de Gilbert.</p>
+        <p>– Un devoir ? Lequel donc, mon père ?</p>
+        <p>M. de Clercy passa lentement la main sur sa longue moustache. Son regard s’abaissa un instant vers une grande photographie posée sur la table de travail. Elle représentait sa femme, morte à trente ans, la mère de Gilbert, à qui le jeune homme ressemblait. Mince et souple, Mme de Clercy s’appuyait au dossier sculpté d’un fauteuil, et ses beaux yeux pensifs semblaient considérer avec tendresse les deux hommes unis par une forte et confiante affection.</p>
+        <p>– Voici ce que j’ai pensé, Gilbert : il faut que ton bisaïeul te connaisse, et pour cela, tu dois aller le trouver là-bas !</p>
+        <p>Gilbert, en s’accoudant à la table, appuyait contre sa main repliée sa joue mate. La perspective ne semblait pas lui sourire. Cependant, il ne protesta pas. Dès l’enfance, on l’avait habitué à l’idée du devoir. Il dit seulement :</p>
+        <p>– Mais me recevra-t-il ?</p>
+        <p>– Je l’ignore. Il faut essayer en tout cas. Ce serait le désir de ta pauvre mère, si elle vivait.</p>
+        <p>Le commandant se tut un moment. Son regard suivait machinalement le vol d’une mouche, à travers la chambre. Gilbert avait repoussé la feuille de papier déjà en partie couverte de sa ferme écriture, et il attachait sur son père ses yeux bruns, qui interrogeaient. M. de Clercy les rencontra quand il tourna de nouveau la tête vers le jeune homme.</p>
+        <p>– Tu voudrais savoir pourquoi M. de Sernailles a tenu rigueur à ta mère, et a toujours refusé de te connaître, Gilbert ? Mon intention était de te le dire aujourd’hui, afin que tu saches bien à quelles difficultés tu vas te heurter, à quelles impossibilités, peut-être. Mais, n’importe, notre devoir est de tenter que tu prennes près de ton bisaïeul la place qui est la tienne, et que des étrangers usurpent injustement,</p>
+        <p>– Des étrangers ?</p>
+        <p>– Oui... Quand je connus ta mère, Marguerite de Sernailles, elle était orpheline depuis plusieurs années, et vivait à Dijon chez une tante de sa mère, cette bonne Mme de Rancy, que tu as vue dans ta petite enfance. Son grand-père du côté paternel, le baron de Sernailles, l’avait exilée loin de lui, à la suite d’un terrible événement dont il la rendait responsable... Marguerite, enfant, habitait avec son jeune frère Thierry au Château de Caubreterre, chez l’aïeul. Celui-ci idolâtrait son petit-fils ; Thierry seul existait à ses yeux, et il ne se cachait pas pour le déclarer, fût-ce en présence de Marguerite. La pauvre enfant en souffrait, et, parfois le laissait voir. Mais, nature bonne et délicate, elle réprimait toutes les pensées de jalousie à l’égard de ce petit frère d’ailleurs tendrement aimé. Ce qui n’empêcha pas, cependant, qu’elle fût accusée par l’aïeul, fou de douleur, lorsqu’un matin on rapporta à Caubreterre le cadavre de Thierry, retiré de l’étang par un bûcheron. Les deux enfants étaient sortis ensemble, et Thierry, très indiscipliné, avait entraîné sa sœur vers cet endroit défendu. Tandis que Marguerite cueillait des fleurs, le petit garçon s’approchait sans bruit de l’étang. Quand la fillette se détourna, en entendant un appel étouffé, elle vit Thierry qui se débattait dans l’eau et qui enfonçait. Elle jeta des cris perçants, qui firent accourir un bûcheron occupé à la lisière de la forêt. Mais déjà, l’enfant avait disparu. Cet homme, bon nageur, se jeta à l’eau, plongea et réussit à atteindre le petit corps, qu’il ramena sur la berge. Puis, bien vite, il l’emporta au château. Mais tous les soins furent impuissants à y ramener la vie. Et deux jours plus tard, on conduisait à l’église du village le cercueil du dernier descendant des Sernailles, que suivait un vieillard courbé, qui se traînait au bras de son intendant.</p>
+        <p>« Pendant ce temps, au château, Marguerite délirait. Une fièvre violente l’avait saisie, et la tint pendant quelques jours entre la vie et la mort. Elle guérit cependant. Et, à peine commençait-elle à se lever, que M. de Sernailles, sans l’avoir revue, l’envoyait chez sa tante de Rancy. Jamais plus elle ne devait revenir à Caubreterre. Les lettres qu’elle écrivit à l’aïeul, pendant la première année de cet exil, restèrent sans réponse. Et un jour, Mme de Rancy lui dit : « Écoute, mon enfant, j’ai reçu un mot de M. de Sernailles. Il demande que tu ne lui écrives plus. » Et elle expliqua à l’enfant que son grand-père n’avait plus tout à fait ses idées depuis la mort de Thierry, qu’il ne fallait pas le contrarier, que plus tard elle pourrait peut-être retourner à Caubreterre...</p>
+        <p>« Marguerite ne connut la vérité que lorsqu’elle fut jeune fille : M. de Sernailles était persuadé – ou on lui avait persuadé – qu’elle s’était, volontairement, abstenue de surveiller son frère, après l’avoir entraîné vers ce lieu dangereux et interdit.</p>
+        <p>« Plus d’une fois, elle m’a dit ce que fut pour elle cette révélation. Aussitôt, elle écrivit à son grand-père pour protester contre l’erreur affreuse et lui faire connaître la douleur qu’elle lui causait. Elle le suppliait de la recevoir, afin qu’elle pût le convaincre elle-même de son entière innocence. Mais cette lettre, comme les autres, resta sans réponse.</p>
+        <p>« Alors, avec l’approbation de Mme de Rancy, Marguerite partit un jour pour le Jura, accompagnée d’une vieille femme de chambre, et se présenta à Caubreterre. Ce fut l’intendant qui la reçut. Il lui dit avoir des ordres formels de M. de Sernailles, fermant à jamais sa porte à sa petite-fille. Marguerite insista vainement. Le cœur lourd, elle dut s’éloigner. Après cela, elle ne fit plus d’autre tentative. Quand il fut question de son mariage avec moi, elle demanda par écrit l’autorisation de son aïeul. Il la lui envoya en quelques mots brefs, en ajoutant que son notaire était chargé de régler toutes les questions d’intérêt, car, jusqu’ici, tuteur de sa petite-fille, il avait administré la fortune qui lui venait de sa mère. Pas un banal souhait de bonheur n’était joint à ce glacial billet. Je me rappelle comme ta pauvre mère pleura, ce jour-là... Au moment de ta naissance, elle annonça à M. de Sernailles l’heureux événement. Puis, plus tard, quand tu eus six ans – l’âge auquel était mort son frère – elle lui envoya ta photographie. Il paraît que tu ressemblais d’une manière frappante à Thierry, et elle pensait que cette vue attendrirait l’implacable aïeul. Mais rien, toujours rien... C’était l’épine de sa vie, pauvre Margueritte. À ses derniers moments, elle me dit : « Tâche que grand-père connaisse Gilbert, et qu’il sache que sur mon lit de mort, j’ai affirmé n’avoir été coupable que d’étourderie. » C’est ce vœu que je te demande aujourd’hui d’exaucer, mon enfant.</p>
+        <p>Gilbert avait écouté avec une attention profonde, À mesure que le commandant avançait dans son récit, l’émotion devenait plus vive dans les beaux yeux expressifs. Quand M. de Clercy se tut, le jeune homme mit sa main sur celle de son père, en disant :</p>
+        <p>– Je le ferai, cher père. Oui, je comprends combien a dû souffrir ma pauvre maman ! Quelle longue, quelle terrible rancune ! Mais peut-être M. de Sernailles n’a-t-il plus, depuis cet événement, sa raison très nette ?</p>
+        <p>– Nous avons fait prendre de discrets renseignements dans le pays. Il vivait solitaire, se promenant de préférence dans la forêt, causant avec les bûcherons. Il parlait de façon sensée, lisait beaucoup, et paraissait, en résumé, jouir de toutes ses facultés. Il y a une dizaine d’années de cela. Aujourd’hui il a quatre-vingt-onze ans. Récemment, j’ai écrit au curé pour m’informer à son sujet. Il paraît qu’il se promène moins, qu’il se courbe beaucoup et donne l’impression d’un homme près de la tombe. Toujours on le voit au bras de son intendant. Et c’est de cet homme que je veux te parler maintenant, Gilbert. Il était déjà le « factotum » tout-puissant de M. de Sernailles, à l’époque où mourut Thierry. C’est un étranger – un Italien. Ce Bartholo Cledini a de bonnes manières, une certaine instruction et s’occupe avec beaucoup de zèle des intérêts de son maître. Il est marié à une femme de son pays, de bonne famille, assure-t-on, et il a un fils, marié également. Tout ce monde vit à Caubreterre, aux frais de M. de Sernailles... Et l’on dit que Bartholo a sur ce vieillard la plus complète influence. Souple, insinuant, il s’est rendu indispensable depuis longtemps... oui, depuis bien longtemps, puisque ta mère se souvenait qu’au temps où, petite fille, elle vivait à Caubreterre, l’intendant était toujours écouté et consulté. Pour son compte, elle le détestait, en dépit de ses cajoleries. Mais Thierry l’avait en grande affection parce qu’il flattait ses défauts d’enfants. Fût-ce lui qui insinua à M. de Sernailles l’odieux soupçon ? Marguerite en avait l’idée. Et plus j’y réfléchis, plus je me demande si elle ne devinait pas juste – d’autant mieux que, réussissant à éloigner la seule héritière légitime du vieillard, l’étranger avait toute liberté pour circonvenir cet homme accablé par le chagrin, et se faire donner une partie du bel héritage des Sernailles.</p>
+        <p>Gilbert dit vivement :</p>
+        <p>– Ah ! mais oui ! Mais oui ! Ce doit être cela ! Et ils doivent se croire les maîtres, aujourd’hui... les maîtres de Caubreterre, le vieux domaine de mes ancêtres. Voilà qui serait beau à voir ! Mais je le leur disputerai, mon père !</p>
+        <p>Il se redressait, et son jeune visage s’éclaira de résolution virile.</p>
+        <p>Le père approuva, avec un regard d’affectueuse fierté.</p>
+        <p>– Très bien, mon enfant. Ah ! si ton grand-père pouvait te voir en ce moment, comme il te reconnaîtrait bien de sa race ! Comme, j’en suis sûr, il rejetterait loin de lui tous ces étrangers ! Tu ressembles tellement à son fils, le père de ta mère et du petit Thierry, dont nous avons la photographie dans notre album ! Physiquement, tu es beaucoup plus Sernailles que Clercy et cela ne peut manquer de te servir puissamment en la circonstance.</p>
+        <p>– Oui... si ces gens me laissent pénétrer près de mon grand-père.</p>
+        <p>– Là se trouve toute la difficulté. Il faudra, cependant, tenter tout le possible, Gilbert.</p>
+        <p>– Oui, je vous le promets. Car je veux faire rendre justice à ma pauvre mère et confondre ces misérables usurpateurs.</p>
+        <p>Son regard s’abaissa vers la photographie de Mme de Clercy et s’adoucit en souriant à l’image maternelle.</p>
+      </div>
+      <div title="II" type="chapter">
+        <head>II</head>
+        <p> </p>
+        <p>Un jour d’août, Gilbert arriva au petit village de Claveronnes blotti au fond d’une combe que l’été ornait de verdure. Dans un doux ensoleillement matinal il vit la vieille église trapue, les maisons grises, au toit en pente rapide, disséminées le long du torrent et les sombres vagues immobiles des sapins qui couvraient à l’ouest l’escarpement au sol tourmenté, d’où pointait quelque roc aigu, tel un monstre figé après les cataclysmes des premiers âges. Le voiturier qui l’amenait de la gare, distante de huit kilomètres, le fit descendre devant une auberge d’aspect archaïque, dont la façade disparaissait presque sous le feuillage mouvant d’une vigne vierge. Au-dessus de la porte se balançait une enseigne portant ces mots, en lettres un peu effacées, au-dessous d’une licorne sur laquelle subsistaient quelques traces de dorure : « À la Licorne d’or. »</p>
+        <p>Une grande femme maigre, qui se tenait debout sur le seuil, s’avança sans hâte et salua tranquillement. Le voiturier lui dit :</p>
+        <p>– Eh ! dame Robienne, voilà un monsieur qui désire se loger.</p>
+        <p>D’un rapide coup d’œil, l’hôtesse examina le jeune voyageur, si distingué, dans son correct costume de voyage. Puis elle dit paisiblement :</p>
+        <p>– C’est bien facile... Voulez-vous entrer, monsieur ?... Déchargez la valise, Calicet, et portez-la dans la salle.</p>
+        <p>Elle précéda Gilbert à l’intérieur. En dépit de la clarté du dehors, la grande salle restait un peu sombre. Gilbert ne distingua qu’au bout d’un instant, près de l’âtre où pétillaient des troncs de sapin, une vieille femme assise, enveloppée dans une cape noire. Elle tournait vers lui des yeux encore vifs, très noirs dans le visage ridé, couleur de terre sèche. Gilbert la salua avec ce respect, que lui avait enseigné son père à l’égard de la vieillesse. La femme répondit, avec un fort accent courtois :</p>
+        <p>– Bien le bonjour, mon jeune monsieur. Et vous venez, comme ça, voir notre pays ?</p>
+        <p>– Mais oui, madame. Je compte faire aux environs beaucoup de promenades, car on m’a dit qu’il y en avait de fort belles.</p>
+        <p>Tout en parlant, il s’approchait. La vieille femme se pencha un peu pour mieux le regarder. Et ses mains nouées par les rhumatismes se rapprochèrent l’une de l’autre, tandis qu’elle murmurait avec stupéfaction :</p>
+        <p>– Mais... mais c’est M. Gilbert !</p>
+        <p>Le jeune homme, abasourdi, demanda :</p>
+        <p>– Comment savez-vous mon nom ?</p>
+        <p>– Votre nom ?... Vous vous appelez donc comme cela ?... Gilbert... mais pas Gilbert de Sernailles, pourtant ?</p>
+        <p>– Non, pas de Sernailles... Gilbert de Clercy.</p>
+        <p>Tout à coup, il comprenait. Ce nom de Gilbert était aussi celui de son grand-père maternel... Et sa ressemblance avec lui était donc bien réelle, puisque cette femme avait cru reconnaître, en lui le jeune homme qui reposait, depuis si longtemps, dans le cimetière de Claveronnes ?</p>
+        <p>Il pensa aussitôt : « Cela peut faire échouer mon plan. Il est possible, probable même, que d’autres, des anciens du pays, remarquent aussi cette ressemblance. Alors, l’italien se défiera et surveillera de plus près son maître. Cependant, je n’ai pas d’autre moyen que de tenter de rencontrer M. de Sernailles par surprise. »</p>
+        <p>La vieille continuait de le regarder. Pendant ce temps, Mme Robienne, inattentive en apparence, plaçait sur un trépied, au-dessus des bûches embrasées, une casserole pleine de lait crémeux, En se tournant à demi vers le jeune homme, elle demanda :</p>
+        <p>– Vous désirez sans doute déjeuner, monsieur, avant que je vous montre votre chambre ?</p>
+        <p>– Mais je ne demande pas mieux, en effet, car je n’ai rien mangé depuis hier soir.</p>
+        <p>La vieille femme demanda :</p>
+        <p>– Et vous venez de loin, comme ça ?... de Paris, peut-être ?</p>
+        <p>– À peu près, de Versailles,</p>
+        <p>La vieille dit sentencieusement :</p>
+        <p>– Oui, c’est un grand voyage. Mon défunt mari est allé par là aussi, dans le temps. C’était avant notre mariage. Il était valet à Caubreterre et accompagnait M. le Baron et M. Gilbert dans leurs voyages. De celui-là, le jeune monsieur revint marié. Une bien jolie dame, qui s’ennuyait à Caubreterre. Mais M. le Baron ne voulait pas entendre parler que son fils et sa bru allassent vivre ailleurs que dans le vieux château. Il était bon, mais voulait que tout se passât à son idée...</p>
+        <p>Mme Robienne intervint :</p>
+        <p>– Allons, maman, ces histoires du pays ne peuvent intéresser monsieur...</p>
+        <p>Et elle avançait une chaise près de la table de bois bien blanc.</p>
+        <p>La vieille cligna ses paupières ridées,</p>
+        <p>– Mais si, ça l’intéresse. Il est de la famille, bien sûr ? Il n’y a pas des ressemblances pareilles... Jusqu’à ce petit pli des lèvres que M. Gilbert avait si souvent !</p>
+        <p>Le jeune homme se sentait fort embarrassé. Que devait-il faire ? Dire la vérité à ces deux femmes, en leur demandant le secret ? Peut-être s’en faire des alliées utiles ? Il les regarda tour à tour. Elles avaient d’honnêtes visages, des yeux francs... Il se décida, Approchant la chaise, il s’assit près de la vieille femme.</p>
+        <p>– Oui, vous avez bien deviné ; je suis l’arrière-petit-fils du baron de Sernailles, le fils de Mlle Marguerite, que vous avez sans doute connue ?</p>
+        <p>La vieille joignit de nouveau les mains.</p>
+        <p>– Le fils de Mlle Marguerite !... Si je l’ai connue, pauvre petite ! C’est moi qui l’ai soignée après le terrible événement. Elle avait tant de chagrin, tant et tant qu’on crut qu’elle mourrait aussi... Et puis, quand elle fut guérie, on la renvoya de Caubreterre, et persone de nous ne la revit, M. le Baron ne pouvait plus supporter sa vue. Pauvre petite jolie ! Elle était pourtant douce et bonne, et pas jalouse, quoi qu’on ait prétendu... pas jalouse ! Oh ! non ! et pourtant, il y aurait eu sujet de l’être.</p>
+        <p>– M. de Sernailles n’aimait que son petit-fils, n’est-ce pas ?</p>
+        <p>– Rien que lui, oui, monsieur. Alors vous pensez !... Il y eut des jours terribles. On crut un moment que M. le Baron allait devenir fou. Il s’enfermait dans sa chambre et ne permettait qu’à son intendant de pénétrer près de lui.</p>
+        <p>– L’Italien ?... Bartholo Cledini ?</p>
+        <p>La vieille femme fit de la tête un signe affirmatif.</p>
+        <p>– Il est toujours à Caubreterre ?</p>
+        <p>– S’il y est !... Et plus installé que jamais ! Depuis un an il est veuf, mais il y a son fils, sa belle-fille et leurs deux enfants. Ce monde-là est déplaisant, monsieur. Sauf le Bartholo, qui fait le mielleux, les autres prennent des airs arrogants, comme s’ils étaient les maîtres du pays. En tout cas, ils le sont à Caubreterre. Le vieux monsieur, quoique ayant toute sa tête, a été si bien pris par cet Italien qu’il s’est habitué à le consulter sur tout et à se confier entièrement à lui. Aussi il faut penser qu’on le gruge largement. Et ce n’est pas trop tôt que l’héritier vienne prendre la place de tous ces rongeurs-là.</p>
+        <p>– Prendre la place ?... Cela ne sera pas facile. Ces gens ne me laisseront pas arriver près de mon grand-père.</p>
+        <p>– Ah ! ça, c’est bien vrai !</p>
+        <p>Mme Robienne, qui étendait une serviette sur la table, se détourna et se rapprocha.</p>
+        <p>– Il faudrait que vous puissiez rencontrer M. le Baron au cours de ses promenades, monsieur. Il est vrai qu’il est toujours accompagné d’un membre de la famille Cledini. Mais il suffirait peut-être que M. le Baron vît cette ressemblance avec le fils qu’il a tant aimé, pour qu’un changement se produise chez lui et qu’il ait le courage de secouer le joug du Bartholo,</p>
+        <p>– C’est possible, en effet... Sort-il souvent ?</p>
+        <p>– Non, plus maintenant. Il est bien vieux, bien affaibli... Cependant, par les beaux temps, il va parfois faire quelques pas en forêt. Il faudrait que vous le guettiez, monsieur... Autrement comme vous dites, les Italiens ne vous laisseront pas arriver jusqu’à lui. Ou bien, s’ils n’osent pas vous refuser sa porte, dans la crainte qu’on les accuse de séquestrer ce vieillard, ils le préviendront de telle sorte contre vous que vous serez mal accueilli, peut-être chassé.</p>
+        <p>– Mais ne risqué-je pas de voir quand même ces gens informés de ma présence, si d’autres constatent ma ressemblance avec mon grand-père ?</p>
+        <p>– Ce ne serait pas impossible. Les gens âgés de par ici l’ont bien connu. Cependant, ils n’ont peut-être pas gardé le souvenir de sa physionomie aussi net que ma mère, qui était femme de chambre au château et voyait par conséquent bien souvent M. Gilbert. Et puis, elle a une mémoire excellente, et très bonne vue.</p>
+        <p>La vieille femme eut un petit sourire content, qui montra ses gencives bien lisses, où les dents manquaient,</p>
+        <p>– Oui, j’y vois clair. Et j’ai bien reconnu tout de suite les beaux yeux, l’air fier et gentil tout de même du défunt M. Gilbert. Pour vous dire toute la vérité, monsieur, ça fait un grand plaisir à la vieille Marielle d’avoir vu le fils de cette bonne Mlle Marguerite et de le recevoir sous son toit.</p>
+        <p>Gilbert lui prit la main en la remerciant avec émotion. Marielle, visiblement ravie, dit à sa fille :</p>
+        <p>– Tu prépareras la belle chambre, n’est-ce pas ?... Et tu feras ce soir des gaudes pour M. Gilbert ?</p>
+        <p>Mme Robienne objecta :</p>
+        <p>– Il ne les aime peut-être pas ?</p>
+        <p>– Par exemple ?... N’est-ce pas que vous les aimez, monsieur ?</p>
+        <p>Gilbert avoua en souriant :</p>
+        <p>– Je l’ignore, car je n’en ai encore jamais mangé.</p>
+        <p>– Est-ce possible !... Il est vrai que Mlle Marguerite n’avait pas grand goût pour ce mets-là. Mais M. Gilbert en avalait des pleines assiettes. Clarisse, tu en feras, ce soir, pour que monsieur en goûte ?</p>
+        <p>– C’est bien facile, maman... Voilà le lait chaud, monsieur. Si vous voulez déjeuner ?</p>
+        <p>Tout en contentant son appétit excité par l’air vif et parfumé de sains arômes balsamiques, Gilbert et la vieille femme parlèrent de Marguerite de Sernailles et du funèbre événement qui avait été la cause de son exil. Marielle raconta comment tout le pays avait blâmé le baron pour son injustice à l’égard de sa petite-fille.</p>
+        <p>– Une enfant de dix ans, on ne peut pourtant pas lui faire un crime d’un moment d’inattention ! Sans compter que M. Thierry était un petit diable qui n’écoutait rien. Mais M. le Baron s’était buté à son idée, et il se trouvait quelqu’un près de lui pour l’y encourager,</p>
+        <p>Mme Robienne, qui allait et venait dans la salle, vaquait tranquillement à son ouvrage, s’arrêta près de Gilbert.</p>
+        <p>– Si vous m’en croyez, monsieur, vous ne vous montrerez pas trop dans le village, jusqu’à ce que vous ayez pu voir M. de Sernailles, pour éviter que d’autres remarquent votre ressemblance avec le défunt M. Gilbert.</p>
+        <p>– C’était mon intention. Mais ne faut-il pas y passer pour me rendre à Caubreterre ?</p>
+        <p>– Non, on peut l’éviter. Je vous conduirai... Est-ce que vous songez à y aller aujourd’hui ?</p>
+        <p>Gilbert jeta un regard vers le jour ensoleillé que découpait l’ouverture d’entrée de la porte.</p>
+        <p>– Peut-être serait-ce bien ? Il fait très beau. S’il sortait ?...</p>
+        <p>– Oui, il faudrait essayer... Eh bien, nous irons par là cet après-midi, monsieur, quand vous le voudrez.</p>
+        <p>Elle s’éloigna pour préparer la chambre du jeune homme, et Gilbert continua de causer avec Marielle de Caubreterre, de ses habitants défunts, du vieux baron, fier et autoritaire, mais si bien mené par son intendant, des Italiens qu’on regardait d’un œil défiant dans le pays.</p>
+        <p>– Voyez-vous, monsieur, le fils est encore plus déplaisant que le père. C’est un gros garçon aux yeux faux, qui veut faire le grand seigneur – sans y réussir, bien sûr. Son métier, on ne sait pas au juste ce que c’est. Il s’occupe de commission pour les pays étrangers, à ce qu’on dit. Et puis, en même temps, il est régisseur du domaine que le comte Haltzen a par ici. Drôle de régisseur, qui ne me donnerait pas confiance, rien qu’à son air. Mais peut-être que le comte ne le connaît pas. C’est un grand personnage, là-bas, en Autriche, Quelqu’un lui a sans doute recommandé Giuseppe Cledini, qui doit être un garçon intrigant, et qui parle toujours de ses amis par-ci, de ses amis par-là. Ce n’est pas, à dire vrai, que la situation soit bien conséquente. Le domaine se compose de la moitié de la forêt, dont l’autre appartient à M. le Baron. En fait de logis, il y a une vieille maison quasi ruinée, où personne n’habite plus, et qui n’a pas bon renom. Le Giuseppe n’a donc qu’à surveiller les coupes de bois, à recevoir les rapports du garde forestier et à rendre les comptes du revenu de la forêt au bout de l’année. Comme il est souvent parti, c’est le père qui se charge de la besogne, en ces temps-là. Il s’y entend, ça, c’est la vérité de le dire. Ainsi, pour le domaine de Caubreterre, il lui fait rapporter gros, maintenant. Autrefois, on laissait des endroits en friche, un peu partout. Mais, aujourd’hui, tout est bien cultivé, bien planté.</p>
+        <p>Gilbert songea tout haut :</p>
+        <p>– C’est qu’il croit travailler pour lui. Et ce n’est pas sans lutte que je conquerrai l’affection de mon aïeul et la terre de mes ancêtres.</p>
+      </div>
+      <div title="III" type="chapter">
+        <head>III</head>
+        <p> </p>
+        <p>Le jour était encore dans tout son éclat, quand Gilbert et Clarisse Robienne franchirent le torrent sur le vieux pont de pierre, dont les interstices donnaient asile à toute une flore. En sortant de l’auberge, Clarisse avait fait faire au jeune homme un détour, pour éviter le passage devant certains logis, où résidaient de vieilles gens qui auraient pu reconnaître Gilbert de Sernailles. Maintenant, elle le précédait dans le raide sentier montant parmi les sapins. Et elle expliquait :</p>
+        <p>– C’est un raccourci. Le vrai chemin est plus loin. L’Italien l’a fait refaire cette année, parce que sa voiture était trop cahotée... Une belle voiture, monsieur. C’est aux frais de M. le Baron, bien sûr. Et le fils a une automobile, qu’il gare à la maison de la forêt. C’est une drôle d’idée... À moins que le vieux monsieur n’aime pas à avoir chez lui cette machine-là qu’on ne connaissait pas de son temps.</p>
+        <p>Gilbert, en montant de son pas ferme et souple de jeune sportif, jetait autour de lui des regards charmés. La forêt se montrait à lui dans toute son austère beauté, dans tout son attirant mystère. Des coulées de lumière glissaient le long des branches, des troncs grisâtres, et s’étendaient sur le sol couvert de mousse, d’où avaient surgi des rocs aux formes tourmentées, qui étaient, au dire de la légende, des génies ainsi changés, en punition de quelque forfait collectif, dont le souvenir n’avait pas franchi les âges. Un silence impressionnant planait au travers de cette sylve superbe, à peine frémissante sous un léger souffle d’air brûlant.</p>
+        <p>Et puis l’ascension devint plus douce, cessa presque complètement. Gilbert et sa compagne étaient arrivés au grand plateau sur lequel, aux temps féodaux, les barons de Sernailles avaient dressé leur forteresse, en pleine forêt. Toujours en suivant un sentier, ils arrivèrent à une courte distance du château. Et à travers les troncs des sapins et des mélèzes, Gilbert put apercevoir la lourde masse grise, la grosse tour carrée de Caubreterre, demeure de ses aïeux.</p>
+        <p>Une émotion l’étreignit, à cette vue – une émotion mêlée de colère. Car il pensait : « Mon grand-père est là, et je ne puis aller à lui. De misérables intrigants m’interdiraient l’entrée comme au dernier des étrangers. »</p>
+        <p>Près de lui, Mme Robienne fit observer :</p>
+        <p>– Il faudrait trouver un endroit d’où vous puissiez surveiller la sortie sans être vu, monsieur.</p>
+        <p>Il la suivit, et, peu après il était installé derrière un tronc d’arbre, sur une élévation du terrain d’où il dominait le chemin principal et l’entrée du château,</p>
+        <p>– Est-ce que vous vous retrouverez pour le retour, monsieur, ou bien voulez-vous que je revienne vous chercher ? demanda Clarisse.</p>
+        <p>Il la remercia, en disant qu’il avait bien remarqué par où il passait, et qu’il pensait ne pas s’égarer. Elle le quitta alors en lui souhaitant bonne chance. Et Gilbert se trouva seul, à cinquante mètres de la demeure de son aïeul.</p>
+        <p>Il avait pris un livre pour se donner une contenance, au cas où l’un des habitants du château l’apercevrait. Mais il ne l’ouvrit pas. Son regard demeurait fixé sur le vieux logis, qui semblait tassé par le poids des siècles. Autrefois, sans doute, l’eau coulait dans les douves, comblées maintenant et plantées d’arbres fruitiers. Cependant, le château gardait encore un aspect de défense. La grande porte d’un brun déteint, enclose dans une ouverture cintrée surmontée du blason des Sernailles, était garnie de puissantes ferrures. Des grilles, visiblement solides, se dressaient devant, les fenêtres étroites, Gilbert songea : « Il ne serait pas facile d’entrer là-dedans malgré « eux ». »</p>
+        <p>Depuis une heure il était là, l’œil et l’oreille au guet, quand s’ouvrit, près de la porte principale, une petite porte pourvue d’une forte serrure. Deux hommes en sortirent : l’un, petit, maigre, avec un visage brun et ridé, des cheveux gris ; l’autre, plus jeune, petit aussi, mais doué de quelque embonpoint, très noir de cheveux et vêtu avec recherche. Il tenait son compagnon par le bras et lui parlait avec animation. Ils passèrent au-dessous de Gilbert, Celui-ci remarqua les yeux sombres, leur type bien caractéristique, et pensa aussitôt : « Ce doit être l’intendant et son fils. »</p>
+        <p>D’ailleurs, quelques mots prononcés en italien parvinrent à ses oreilles. Il comprenait cette langue... Et voici ce qu’il entendit :</p>
+        <p>– Je t’ai cent fois déclaré que c’était imprudent. On peut se méfier, un jour ou l’autre... ou bien elle peut s’échapper...</p>
+        <p>Le plus jeune eut un rire moqueur :</p>
+        <p>– S’échapper ? Par où ? Il n’y a même pas de cheminée. Et tout est bien cadenassé, vous pouvez vous en rapporter à moi.</p>
+        <p>Bartholo grommela quelque chose que Gilbert ne comprit pas. L’autre riposta :</p>
+        <p>– N’empêche que je le tiens par là, et que je le ferai chanter comme je voudrai. Cela me rapportera une grosse somme, qui viendra se joindre agréablement à l’héritage du vieux.</p>
+        <p>Ils passèrent, et les mots ne parvinrent plus qu’indistincts aux oreilles de Gilbert.</p>
+        <p>De qui voulaient-ils parler ? Quelle louche affaire tramait ce digne fils de Bartholo ? Vraiment, le pauvre aïeul semblait en de singulières mains !</p>
+        <p>Une demi-heure, une heure passèrent encore. Le soleil s’abaissait, et sa lumière se retirait lentement des sous-bois, autour de Gilbert. Bartholo rentra, seul. Mais M. de Sernailles ne parut pas. Et le jeune homme, quand le jour commença de décroître, dut se résoudre à abandonner la place, pour ne pas être surpris par la nuit dans cette forêt inconnue.</p>
+        <p>Il retrouva le sentier et fut en peu de temps au village. Dans l’ombre du crépuscule, il gagna l’église, qui dressait ses vieux murs au milieu d’une petite place déserte. La nuit se faisait déjà à l’intérieur. Quelques formes immobiles étaient agenouillées çà et là, dans les bancs cirés, usés par des générations de fidèles. Quand Gilbert, après une fervente prière pour le succès de sa démarche, se releva et se détourna pour sortir, il reconnut en l’une d’elles la vieille Marielle, qui se dressait sur ses jambes tremblantes en rajustant son bonnet.</p>
+        <p>Il l’attendit sur la place, et, voyant qu’elle marchait difficilement, l’obligea à prendre son bras.</p>
+        <p>– Vous êtes trop gentil, monsieur Gilbert !... Eh bien, vous ne l’avez pas vu ?</p>
+        <p>– Non, je n’ai aperçu que les Italiens, père et fils. Demain, peut-être, aurai-je plus de chance.</p>
+        <p>– Ah ! il faut l’espérer !... C’est que M. le Baron est si âgé ! Il est peut-être malade, qui sait ? Et ces gens-là sont bien capables de n’appeler ni le curé, ni le médecin. Ah ! il serait grand temps qu’on chassât à coups de balai tout cet entourage-là.</p>
+        <p>Quand Gilbert entra avec la vieille femme dans la salle de l’auberge, deux hommes y étaient attablés devant un verre de vin. Ils le saluèrent poliment, puis, après un court silence, continuèrent de causer, Gilbert gagna sa chambre, et y demeura jusqu’au dîner. Alors il redescendit dans la salle, déserte maintenant, où Clarisse lui servit les gaudes fumantes. Tout en mangeant, il redit aux deux femmes les paroles surprises au passage des Italiens, Clarisse déclara :</p>
+        <p>– Je n’ai entendu parler de rien qui puisse se rapporter à cela. Mais ça ne m’étonnerait pas que cet individu-là manigance à son tour quelque vilaine affaire. Tel père, tel fils... Tenez, ces deux bûcherons qui étaient en bas tout à l’heure, parlaient précisément de lui. Ils disaient que c’était un être sournois, aux allures louches, ils racontaient qu’on le voyait souvent se diriger vers la maison des Comtes, à la nuit...</p>
+        <p>– La maison des Comtes ?</p>
+        <p>– Oui, cette vieille maison presque ruinée, dans la forêt du comte Haltzen. Autrefois, dans le temps que le Comté appartenait à l’Autriche, les Haltzen habitaient là, quand ils venaient faire des séjours dans leur domaine. Un jour, deux frères, les comtes Godfried et Charobert, se prirent de querelle et s’entretuèrent. Là aussi, plus tard, la comtesse Hilda mena son sabbat de sorcière. Et depuis lors, la maison est maudite.</p>
+        <p>La vieille Marielle se signa, en murmurant :</p>
+        <p>– L’Italien n’en a pas peur, lui. Il est probablement bien avec le diable et ne craint pas l’odeur de roussi.</p>
+      </div>
+      <div title="IV" type="chapter">
+        <head>IV</head>
+        <p> </p>
+        <p>Gilbert s’abstint, toute la matinée du lendemain, de quitter l’auberge. Il se fit raconter par Marielle, qui les connaissait toutes, les légendes de la contrée. Plusieurs se rapportaient à l’époque de la domination autrichienne, alors que de grands seigneurs du Saint Empire étaient venus s’installer dans la Comté apportée en dot par Marguerite de Bourgogne à l’archiduc Philippe le Beau, fils de Charles-Quint. La chronique représentait les Haltzen comme de rudes gentilshommes, grands chasseurs, grands querelleurs, peu soucieux d’autre luxe que de celui de leurs armes. Puis était venue la comtesse Hilda, qui s’adonnait à la sorcellerie avec l’aide de son écuyer et de sa suivante arabe, ramenée de Syrie par son époux quand il était revenu de guerroyer contre l’infidèle. Alors, la maison de la forêt avait été le théâtre de scènes diaboliques, dont le souvenir s’était transmis à travers les siècles, chez les habitants de Claveronnes. Si bien qu’aujourd’hui encore, Marielle frissonnait en les racontant à Gilbert.</p>
+        <p>– ... Et après elle, monsieur, les comtes ne voulurent plus habiter cette maison où mouraient tous leurs jeunes enfants. Ils l’abandonnèrent, ainsi que la forêt, à la surveillance d’un intendant. Plus d’une fois, ils essayèrent de la vendre. Mais personne n’en voulait. Une prédiction assurait que celui qui l’achèterait attirerait sur lui la malédiction qui pèse sur les descendants de la comtesse Hilda. Alors, on ne veut pas se risquer, tout de même.</p>
+        <p>– Cependant, il me semble que c’est pousser la superstition un peu loin.</p>
+        <p>– Eh ! monsieur, on ne sait pas ! Ces choses-là, ça s’est vu. Ce qui est bien sûr, parce que les anciens l’ont raconté à ceux qui venaient après eux, c’est que les petits enfants des comtes mouraient tous de la même manière, quand ils naissaient à la maison de la forêt.</p>
+        <p>– Un mauvais germe de maladie y était peut-être resté, sans qu’on s’en doutât.</p>
+        <p>– Je ne sais pas, monsieur. Mais pour moi, voyez-vous, c’était la malédiction.</p>
+        <p>Au début de l’après-midi, Gilbert alla reprendre son poste près du château. La chaleur était plus lourde que la veille, le soleil plus brûlant. Le sacristain, en venant boire ce matin un verre de vin à la « Licorne d’or », avait prédit un orage pour la soirée, Gilbert pensait : « Pourvu que le temps ne se gâte pas pour bien des jours ! Alors, M. de Sernailles ne sortirait peut-être plus. »</p>
+        <p>L’heure passait. La chaleur accablante, le silence rendaient Gilbert somnolent. Il sursauta tout à coup, au bruit d’une porte qui se refermait, et se redressa, en regardant vers le château.</p>
+        <p>Deux hommes sortaient : un grand vieillard courbé qui s’appuyait sur l’épaule de Bartholo. Tous deux avançaient à petits pas. L’Italien soutenait son maître avec sollicitude. Les yeux du vieillard, encore vifs dans le visage maigre, creusé de rides, se levèrent et regardèrent le ciel qui s’étendait en longue traînée inégale, d’un bleu trop sombre, entre les branches immobiles des sapins.</p>
+        <p>– L’orage ne tardera guère, Bartholo.</p>
+        <p>– Nous l’aurons avant cette nuit, monsieur le Baron,</p>
+        <p>– Giuseppe est-il revenu ?</p>
+        <p>– Pas encore, monsieur le Baron. On lui a peut-être proposé une autre bonne affaire de commission, c’est ce qui le retarde. Ce garçon-là est habile à saisir toutes les occasions, pourvu qu’elles soient honnêtes...</p>
+        <p>Il s’interrompit brusquement, en s’arrêtant net. Un jeune homme venait de sauter sur la route et, se découvrant, disait au baron :</p>
+        <p>– Je suis venu vous voir, grand-père.</p>
+        <p>Le vieillard resta d’abord sans parole. Bartholo, lui aussi, semblait ahuri. Gilbert, maîtrisant son émotion, reprit :</p>
+        <p>– C’est moi, grand-père, moi, Gilbert, votre petit-fils.</p>
+        <p>Bartholo, reprenant un peu sa présence d’esprit, bégaya :</p>
+        <p>– Mais, monsieur... C’est un procédé...</p>
+        <p>Le vieillard fit deux pas en avant. Ses yeux s’attachaient au jeune visage, fier et loyal. Il dit d’une voix tremblante :</p>
+        <p>– Pourquoi m’arrêtez-vous ainsi ? Pourquoi n’êtes-vous pas venu sonner chez moi ?</p>
+        <p>– Parce que je craignais, grand-père, que vous refusiez de me recevoir. Et moi, je voulais vous voir, je voulais connaître mon aïeul, mon seul parent du côté maternel. Est-ce un crime, cela ?... Et allez-vous me repousser, parce que j’ai tenu à accomplir ce que je considérais comme un devoir ?</p>
+        <p>Le vieillard, raidi, le regardait toujours. Ses lèves, sèches et pâles, tremblaient. Près de lui, Bartholo, blêmissant, glissait vers le jeune homme un sombre regard, à l’ombre de ses paupières brunes.</p>
+        <p>Gilbert dit fièrement :</p>
+        <p>– Dois-je m’en aller, grand-père ?.,. Ou bien acceptez-vous de me recevoir ?</p>
+        <p>Les lèvres s’entrouvrirent, laissèrent échapper ces mots :</p>
+        <p>– Non, ne pars pas. Tu ressembles trop à mon fils. Tu es un Sernailles, À cause de toi, j’oublierai...</p>
+        <p>Il ouvrit les bras et serra Gilbert contre sa poitrine. Puis, se redressant, il ordonna :</p>
+        <p>– Nous rentrons, Bartholo. Allez rouvrir la porte, mon ami.</p>
+        <p>Il prit le bras de son petit-fils, et ce fut ainsi, en soutenant son aïeul, que Gilbert franchit le seuil de cette demeure d’où sa mère avait été pour jamais exilée.</p>
+        <p>Une voûte sombre conduisait à une cour intérieure, enserrée entre les bâtiments. À droite se dressait la grande cour carré. En face de la voûte s’ouvrait l’entrée du corps de logis principal. Bartholo, muet et calme – du moins en apparence – précédait le baron et Gilbert, ouvrait la porte massive donnant sur un vestibule orné de trophées de chasse, puis celle du salon, pièce immense, aux murs tendus de vieilles tapisseries. Trois portes-fenêtres l’éclairaient. Près de l’une d’elles était assise une petite fille qui lisait. À l’entrée de M. de Sernailles et de son petit-fils, elle leva sa mince figure mate, et deux yeux noirs, vifs et futés, dévisagèrent l’inconnu.</p>
+        <p>M. de Sernailles la désigna à son petit-fils :</p>
+        <p>– Rosa, ma filleule, la petite-fille de mon excellent intendant et ami Bartholo Cledini, que voilà...</p>
+        <p>Et il étendit la main vers l’italien qui s’inclina profondément.</p>
+        <p>– Allons, Rosa, viens dire bonjour à mon petit-fils, M. Gilbert de Clercy.</p>
+        <p>Rosa se leva, et vint avec empressement tendre sa main à Gilbert, qui restait froid et hautain. Puis elle dit, d’une voix douce, un peu chantante :</p>
+        <p>– Oh ! comme vous devez être content, mon parrain ! Et nous aussi, nous le sommes, car nous vous aimons tant !</p>
+        <p>M. de Sermailles étendit la main et lui caressa la joue :</p>
+        <p>– Oui, je le sais, ma petite Rosa. Tu es une bonne enfant. Va maintenant jouer dans le jardin... Bartholo, vous êtes libre maintenant, puisque je ne fais pas de promenade.</p>
+        <p>L’intendant s’inclina et sortit avec sa petite-fille, tandis que le baron s’asseyait dans un grand fauteuil de tapisserie, près d’une table chargée de livres. Il désigna un siège à Gilbert en disant :</p>
+        <p>– Mets-toi là, en face de moi, que je te voie bien... Oui, vraiment, il ne peut exister ressemblance plus frappante. Gilbert, mon fils, avait ce même regard... et lui aussi, Thierry, mon petit Thierry...</p>
+        <p>Gilbert se leva et vint s’asseoir près de l’aïeul, sur un tabouret. Sa main prit celle de M. de Sernailles – une belle main maigre et ridée, très aristocratique.</p>
+        <p>– Écoutez, grand-père, il faut avant toute chose que nous parlions de ce qui nous a séparés, trop longtemps... Il faut que vous ne conserviez plus rien de ce soupçon qui a tant fait souffrir ma mère.</p>
+        <p>Le vieillard dit sourdement :</p>
+        <p>– Tu me demandes trop ! Ce soupçon je l’ai toujours.,.</p>
+        <p>– Et si je vous assurais qu’à son lit de mort, à cette heure où l’on ne ment pas, ma mère a dit de vous répéter qu’elle ne se reconnaissait coupable que d’une inattention bien pardonnable chez une enfant ?</p>
+        <p>M. de Sernailles resta silencieux un long moment. Ses paupières se fermaient à demi. Il dit enfin :</p>
+        <p>– Eh bien ! oui, je veux le croire. Il n’en reste pas moins que si elle avait surveillé son frère, l’affreuse chose ne se serait pas produite.</p>
+        <p>– Grand-père, dites-moi si, en bonne justice, vous deviez, pour cet instant d’oubli trop naturel à son âge, conserver contre elle un si long grief ?</p>
+        <p>Il levait sur l’aïeul son calme et profond regard. M. de Sernailles mit sa main tremblante sur les cheveux blonds, en murmurant :</p>
+        <p>– Ah ! tu lui ressembles trop !... C’est mon Gilbert que je retrouve. Pour l’amour de lui, pour l’amour de toi, j’oublierai tout... j’oublie tout. En me donnant ce petit-fils si bien de notre race, Marguerite a réparé ce qui, autrefois, me la fit exiler loin de moi. Ce souvenir ne doit plus nous séparer, Gilbert, Désormais, Caubreterre est ta demeure, au même titre que la maison de ton père.</p>
+        <p>Gilbert n’avait pas rêvé triomphe si prompt, si complet, M. de Clercy avait eu raison en comptant, comme un tout-puissant appoint, sur cette ressemblance qui faisait de son fils un vrai Sernailles.</p>
+        <p>Maintenant, le baron questionnait Gilbert sur sa vie, sur ses études. Il parut charmé lorsque le jeune homme lui dit qu’il était entré l’année précédente à Saint-Cyr avec le numéro deux.</p>
+        <p>– Je suis content que tu sois officier, mon enfant. C’est une des plus belles carrières qui existent. Et je suis persuadé que, dans cette vie, tu feras honneur aux deux nobles races dont tu sors.</p>
+        <p>Gilbert parla ensuite de son père, qui avait remplacé près de lui, avec tant de délicatesse et de dévouement, la mère trop tôt disparue. M. de Sernailles lui dit :</p>
+        <p>– Il faudra lui demander de venir te revoir ici. Je serai trop heureux de le connaître.</p>
+        <p>En vérité, tout s’arrangeait avec une facilité dont s’émerveillait Gilbert. Mais il ne pouvait oublier que l’ennemi était là, dans la place, et qu’il ne se laisserait pas détrôner sans résistance – une résistance sournoise, probablement, la plus terrible de toutes.</p>
+        <p>Le baron demanda :</p>
+        <p>– Ton bagage est à la gare, sans doute ?</p>
+        <p>– Non, grand-père. Je suis arrivé hier, et je suis descendu à la « Licorne d’or ».</p>
+        <p>– Ah ! oui, chez Marielle et sa fille. De braves femmes... Tout à l’heure, je dirai à Bartholo d’envoyer le valet pour le chercher, car maintenant, tu restes ici. On te préparera la chambre de ton grand-père, qui est assez près de la mienne... Mais tu t’ennuieras peut-être dans ma solitude ?</p>
+        <p>– Oh ! non, grand-père ! Pensez donc, nous avons un tel arriéré d’affection, de causeries ! Vous me raconterez l’histoire de notre famille, vous me parlerez de vous, beaucoup....</p>
+        <p>Les mains tremblantes caressaient les cheveux de Gilbert et, dans les yeux du vieillard apparaissait une vive clarté d’émotion.</p>
+        <p>– De moi ? Ce ne sera guère intéressant, mon petit. Ma vie, depuis des années, est confinée dans ce coin de terre. Je lis, je songe... Tristes songeries, comme tu peux le penser ! Heureusement, j’ai près de moi le dévouement de mes bons Cledini. Cette petite Rosa me distrait, elle est intelligente, affectueuse, suffisamment discrète. Et Bartholo est devenu pour moi un ami.</p>
+        <p>Gilbert se raidit instinctivement. Des mots étaient sur ses lèvres qui les retinrent. Non, il ne fallait pas encore tenter d’ouvrir les yeux de l’aïeul. Ces gens avaient pris trop d’influence sur lui. Bien des jours, beaucoup de patience et d’adresse seraient nécessaires, avant que le vieillard comprît la duperie dont il était victime.</p>
+        <p>Vers quatre heures, Rosa parut, apportant la tasse de lait que le baron prenait toujours à cette heure. Avec des mines câlines elle la présenta à M. de Sernailles, Gilbert remarqua avec quelle recherche elle était vêtue, et comme elle semblait à l’aise, ici. Quand le jeune homme eut refusé l’offre que lui faisait son grand-père, de prendre un rafraîchissement, elle insista, telle une véritable fille de la maison,</p>
+        <p>M. de Sernailles lui dit :</p>
+        <p>– Va prier ta maman de faire préparer la chambre aux Verdures pour M. Gilbert. Et qu’on envoie Pietro chercher son bagage à la « Licorne d’or ».</p>
+        <p>– Oui, mon parrain, ce sera fait tout de suite.</p>
+        <p>Elle disparut, et le baron recommença le panégyrique des Cledini, Gilbert frémissait d’impatience en l’écoutant. Et tout à coup, une pensée lui vint, qu’il exprima tout haut :</p>
+        <p>– Vous n’aviez pas remarqué, grand-père, ma ressemblance avec votre fils et votre petit-fils Thierry, sur la photographie que ma pauvre maman vous avait envoyée quand j’avais six ans ?</p>
+        <p>– Une photographie ?... Je ne l’ai jamais reçue, mon enfant.</p>
+        <p>– Ah ! vous ne l’avez pas reçue ?</p>
+        <p>Gilbert n’ajouta rien. Mais il se doutait bien quel sort avait eu le dangereux portrait, intercepté par Bartholo avant d’arriver au destinataire. Allons, la trame était bien ourdie autour du pauvre aïeul ! Son petit-fils venait de la déchirer légèrement. Mais il restait beaucoup à faire avant de la détruire dans toutes ses parties.</p>
+      </div>
+      <div title="V" type="chapter">
+        <head>V</head>
+        <p> </p>
+        <p>L’orage annoncé n’éclata pas dans la nuit, mais seulement dans l’après-midi du lendemain. Une trombe d’eau s’abattit sur la forêt, et les vieux murs tremblèrent au fracas de la foudre. La fulgurante lueur des éclairs illumina jusqu’en ses profondeurs le grand salon aux beaux meubles sculptés du temps de Louis XIII, où Gilbert tenait compagnie à son grand-père. Puis, après une soirée et une nuit encore lourdes d’orage, le jour se leva clair et pacifié. Très vite, le soleil fit évaporer les gouttelettes d’eau tremblantes au bord des feuilles, et sécha les pavés ruisselants de la cour. Un air chaud commença de courir à travers la forêt, en portant des parfums de mousses humides et de fleurs mouillées. Gilbert en aspira longuement l’arôme tandis qu’il parcourait le jardin – un vieux jardin assez négligé – qui s’étendait derrière le château. Il erra le long des petites allées mal désherbées, entre de hautes bordures de buis lavé par les averses torrentielles. De beaux arbres étendaient leur ombre sur les parterres où les plantes, lourdes de pluie aux premières heures du matin, se redressaient maintenant en s’ouvrant à la lumière chaude. Au-delà, la forêt s’étendait, avec son attrayant mystère. Appuyé à une petite grille, encastrée dans le vieux mur du jardin, Gilbert contempla pendant un long moment le sous-bois dont la profondeur s’enfonçait dans l’ombre striée de lumière. M. de Sernailles lui avait dit, hier : « J’aime ma forêt, je n’ai jamais voulu m’en éloigner. » Tout nouveau que le jeune homme fût ici, il comprenait cette attraction. Il l’éprouvait déjà un peu même. Et, le déjeuner terminé, il répondit affirmativement à cette question de l’aïeul :</p>
+        <p>– Tu vas faire une longue promenade, cet après-midi, n’est-ce pas, mon cher enfant ?... Mais il te faudrait un guide, dans notre forêt... Bartholo pourrait t’accompagner...</p>
+        <p>Bartholo et sa famille prenaient leurs repas à la table de M. de Sernailles. L’Italien dit avec empressement :</p>
+        <p>– Mais certainement ! Je serai très heureux de guider M. Gilbert.</p>
+        <p>Le jeune homme répliqua avec une politesse froide :</p>
+        <p>– Je vous remercie, mais je ne veux déranger personne. J’ai une boussole, et avec cela je ne m’égarerai pas.</p>
+        <p>Bartholo insista encore, mais Gilbert maintint son refus. Ce que voyant, M. de Sernailles dit gaiement :</p>
+        <p>– Laissez-le, Bartholo. Il est comme moi, tenace dans ses résolutions. Et c’est bien plus agréable, au fait, quand on est jeune et alerte, d’errer seul à l’aventure dans nos sentiers. J’avais ce goût-là, moi aussi, à son âge.</p>
+        <p>Il enveloppait d’un regard plein de complaisance le jeune homme assis en face de lui. Depuis deux jours, il paraissait rajeuni. La présence de son petit-fils semblait lui avoir insufflé une vie nouvelle, et fait évanouir la lourde tristesse qui pesait sur lui, depuis tant d’années, depuis la mort de Thierry. Lui qui ne parlait plus guère, causait maintenant, souriait à la fine gaieté de Gilbert, à ses récits des menus événements de sa vie de collégien et de saint-cyrien, se réjouissait de le voir très au courant des vieux auteurs grecs et latins qui avaient distrait ses longues heures de solitude. Il confia au jeune homme :</p>
+        <p>– Bartholo me fait la lecture, et il est assez instruit pour que l’on puisse causer agréablement avec lui. Mais il n’a qu’une culture assez superficielle, et, de ce fait, bien des sujets ne pouvaient être traités dans nos causeries. Avec toi, ce sera différent.</p>
+        <p>Bartholo... En regardant le visage tranquille en apparence, les yeux doucereux et souriants, Gilbert songeait : « Quelle fureur doit s’agiter en cet homme ! Il faut que je me défie, car il est certainement très fort. »</p>
+        <p>Giuseppe n’avait pas paru encore. Mais Gilbert connaissait maintenant sa femme et son fils, un jeune garçon d’une quinzaine d’années, tous deux d’apparence insignifiante et effacée. Rosa devait être plus dangereuse. Elle ressemblait, physiquement, à son grand-père, elle avait les mêmes manières insinuantes et entourait, comme lui, le vieillard de petits soins. Celle-là, aussi, semblait dès l’abord à Gilbert une adversaire à surveiller.</p>
+        <p>Ce qu’il avait pu constater également, aussitôt, c’était que toute la direction intérieure se trouvait entre les mains de ces Cledini. M. de Sernailles gardait une autorité apparente, mais, en réalité, Bartholo et les siens, doucement, sournoisement, étaient devenus les maîtres de Caubreterre.</p>
+        <p>Gilbert en ressentait une sourde irritation qu’il avait beaucoup de peine à dissimuler sous une apparence de politesse froide, quand il se trouvait en présence des Cledini, de Bartholo surtout. Ces intrigants lui gâtaient complètement la joie qu’il éprouvait en se voyant accueilli avec tant d’affection par cet aïeul qui avait, si longtemps, refusé de le reconnaître. Mais il fallait patienter... Dès qu’il se sentirait assez fort sur le cœur du vieillard, dès qu’il verrait son influence annihiler celle des intrus, ceux-ci seraient chassés de Caubreterre pour toujours.</p>
+        <p>En attendant, il avait réussi à éviter la compagnie de Bartholo, pour sa promenade cet après-midi. Vers trois heures, quand la chaleur commença de décroître légèrement, sous le couvert de la forêt, il quitta le château et s’enfonça au hasard d’un chemin où se mouvaient dans l’ombre, au gré de la brise, les petites taches lumineuses glissées par le soleil entre les interstices des hautes branches de sapins. Il arriva ainsi, très vite, au bord d’un étang – sans doute celui où avait péri Thierry,</p>
+        <p>Le site était superbe. Entourée par la forêt, qui, d’un côté, s’élevait sur des assises rocheuses et tourmentées, la grande nappe d’eau, encore rutilante de soleil, s’étendrait avec des frémissements légers, en réfléchissant dans ses profondeurs éblouissantes les arbres d’alentour. Près de l’endroit où Gilbert s’était arrêté, des sorbiers se dressaient, minces et droits, avec leurs feuilles élégamment découpées, et leurs fruits qui commençaient à peine de jaunir. Des insectes crissaient dans l’herbe, sur la rive. Des poissons imitaient l’onde, en un remous rapide, et leurs écailles étincelaient pendant quelques secondes.</p>
+        <p>Un vieux bûcheron passa, le dos courbé, et salua Gilbert. Celui-ci, après avoir répondu, lui demanda :</p>
+        <p>– Est-ce ici que s’est noyé le petit-fils de M. de Sernailles ?</p>
+        <p>– Oui, monsieur... Mais, mais comme vous ressemblez au défunt M. Gilbert !</p>
+        <p>– Je suis son petit-fils.</p>
+        <p>– Son petit-fils ?</p>
+        <p>L’homme chercha un moment dans sa mémoire. Puis il dit en hésitant :</p>
+        <p>– Le fils de Mlle Marguerite, alors ?</p>
+        <p>– Oui, c’est cela.</p>
+        <p>Le vieillard hocha la tête :</p>
+        <p>– Ah ! la pauvre petite demoiselle ! Elle était bien gentille ! On n’a pas beaucoup compris M. le Baron, par ici, de lui avoir tenu rigueur. Ce n’était qu’une enfant, après tout... Et d’autres ont profité de ça pour s’installer comme chez eux à Caubreterre.</p>
+        <p>– Vous voulez parler des Italiens ?</p>
+        <p>– Oui, monsieur. On ne les aime pas dans le pays, malgré leurs airs mielleux. Aussi, vous pouvez penser qu’on sera bien heureux de vous voir maintenant par ici, et de penser qu’ils ne seront plus les maîtres.</p>
+        <p>Gilbert le remercia, puis lui demanda s’il était au service de M. de Sernailles.</p>
+        <p>– Non, monsieur. Je travaille dans la forêt qui appartient au comte Haltzen... Tenez, elle commence là. L’étang, qui est à M. le Baron, forme la limite. On ne voit jamais le comte, c’est Giuseppe, le fils de Bartholo, qui dirige tout en son nom. À la place de celui qui l’emploie, je ne m’y fierais guère. Il a une tête que je n’aime pas. Pour nous autres, il n’est pas trop tracassant, tout de même, et c’est le principal. Et puis, il est souvent à voyager, de côté ou d’autre. On dit qu’il fait de la commission...</p>
+        <p>Le vieil homme eut un rire narquois qui montra des dents encore superbes, et ajouta en clignant de l’œil :</p>
+        <p>– À mon avis, cette commission-là s’appelle d’un autre nom. Quand on est si près de la frontière... Ah ! c’est tentant !</p>
+        <p>– Vous voulez dire qu’il fait de la contrebande ?</p>
+        <p>– J’ai cette idée-là, oui, monsieur. Il est très ami avec le gros Varignaud, de Savigny, qui vit de ça, tout le monde le sait. Voilà qui explique aussi ses allées et venues à la vieille maison des Comtes, où il gare son automobile – et probablement entrepose les marchandises passées en fraude. Cependant, ce ne sont que des suppositions. Personne n’a rien vu, ne peut donner de preuves,</p>
+        <p>– Mais c’est assez admissible, en effet. Elle a mauvais renom. dit-on, cette vieille maison ?</p>
+        <p>– Oui, monsieur, depuis qu’une sorcière y a vécu. Sept démons y sont demeurés, et se fâchent quand on approche de là à la nuit tombée. Des fanfarons du village voulurent y aller voir, une fois. Ils revinrent avec une figure... Ah ! une figure qui ne donnait pas envie de rire, malgré tout ! Ils étaient si verts, monsieur !... et ils tremblaient si bien qu’ils ne pouvaient plus parler. Ils tremblèrent pendant deux jours, de fièvre, de je ne sais quoi, dans leur lit, où on les avait couchés bien vite. L’un d’eux avait des brûlures sur la figure. Les habits d’un autre sentaient le soufre. Quand ils purent dire quelques mots, ils racontèrent que des flammes rouges étaient sorties des fenêtres de la maison, que des figures effrayantes leur étaient apparues, en même temps qu’une fumée épaisse, à l’odeur de soufre, les enveloppait. Des ricanements se faisaient entendre. Enfin, toute la diablerie ! Et personne n’eut l’idée d’y aller voir après eux.</p>
+        <p>Gilbert dit avec une ironie amusée :</p>
+        <p>– Il faut donc penser que Giuseppe Cledini est au mieux avec les sept démons, puisqu’ils acceptent de garer sa voiture en leur demeure.</p>
+        <p>Le vieux bûcheron dit gravement :</p>
+        <p>– Il faut le penser, oui, monsieur. Et ça n’est pas pour étonner, par ici. On se doute bien que son âme est aussi noire que ses yeux.</p>
+        <p>– Par où faut-il passer pour se rendre à cette fameuse maison des Comtes ?</p>
+        <p>– Je vais vous mettre sur le chemin, si vous le voulez, monsieur. Mais ne vous y attardez pas quand la nuit tombera !</p>
+        <p>– J’en aurais garde – non que je craigne ces mystérieux démons, protecteurs de Giuseppe, mais parce que je risquerais fort de m’égarer en ces sentiers encore inconnus.</p>
+        <p>Le vieux secoua la tête.</p>
+        <p>– Il faut les craindre, monsieur. C’est des choses vraies, tout ça, voyez-vous. Et on donnerait gros, dans le pays, pour être débarrassés de cette vilaine maison-là.</p>
+        <p>Chemin faisant, Gilbert essaya de faire encore parler le bûcheron sur les Cledini. Mais il se convainquit que le vieillard savait peu de chose. Les Italiens avaient une vie assez retirée et ne frayaient avec personne du village. Les domestiques de Caubreterre, recrutés par eux en Italie, parlaient fort mal le français, ce qui ne favorisait guère les bavardages. Seul, le valet de chambre de M. de Sernailles était un Comtois, appartenant à une famille des environs de Poligny, mais il semblait complètement inféodé au parti des Italiens.</p>
+        <p>Brusquement, à un coude du chemin qu’il suivait près de son guide, Gilbert se trouva en face de la maison des Comtes. Elle s’élevait en pleine forêt, pressée, étouffée par la sylve qui avait repris possession du terrain déblayé, sans doute, jadis, sur un certain espace, autour du logis seigneurial. Celui-ci avait dû être un très grand pavillon de chasse. Une partie croulait, envahie par les ronces et le lierre. L’autre semblait solide encore. Toutes les fenêtres étaient closes. Entre les grilles rouillées qui les défendaient, au rez-de-chaussée, et au premier, on apercevait, derrière les vitres verdâtres, les volets intérieurs d’un gris sale, fermés eux aussi. Des mousses, des lichens bruns et verdâtres s’incrustaient dans la vieille pierre grise, effritée, sur laquelle les pluies de plusieurs siècles avaient tracé de longues traînées noires. Des herbes poussaient le long d’un mur, en folle liberté, et devant la porte de bois crevassé, à la serrure couverte de rouille. Cette demeure, d’aspect sinistre, semblait complètement abandonnée. Gilbert demanda :</p>
+        <p>– Mais il y a une autre entrée que celle-ci ?</p>
+        <p>– Oui, monsieur. Venez voir.</p>
+        <p>Ils contournèrent la maison, et Gilbert vit alors qu’un mur dégradé se dressait de ce côté, enclosant entre logis et lui une cour qui semblait assez vaste. Dans ce mur était percé un portail en assez bon état, muni d’une solide serrure... Sur le sol, des traces de roues dénonçaient le passage de l’automobile.</p>
+        <p>Gilbert songea tout haut :</p>
+        <p>– Oui, c’est une peu avenante demeure. Et elle est faite à souhait pour les besognes louches qui s’y trament peut-être.</p>
+        <p>Il remercia le bûcheron, qui s’éloigna après lui avoir indiqué, sur sa demande, le chemin du retour. Pendant un long moment, Gilbert considéra encore, pensivement, le lugubre logis. Puis il revint en flânant vers Caubreterre. Devant la porte, une automobile fermée stationnait. Et quand Gilbert entra dans le salon, il y trouva, assis près de son grand-père, le personnage qu’il avait vu, quelques jours auparavant, sortir du château en compagnie de Bartholo...</p>
+        <p>M. de Sernailles annonça :</p>
+        <p>– Gilbert, je te présente Giuseppe Gledini, le fils de mon bon Bartholo. Il vient d’arriver, retour d’un voyage entrepris pour ses affaires.... Un travailleur, ce Giuseppe !</p>
+        <p>L’Italien s’était levé. Il glissa vers Gilbert un rapide regard sournois, en tendant la main au jeune homme, tandis que ses lèvres minces souriaient aimablement.</p>
+        <p>– Très heureux de vous connaître, monsieur ! Vous venez de faire une promenade en forêt ?</p>
+        <p>Gilbert répondit en quelques mots brefs. Sa main avait à peine effleuré celle de Giuseppe d’un geste dont l’hésitation ne passa pas inaperçue de M. de Sernailles, car lorsque l’italien se fut éloigné, en feignant la discrétion, sans qu’on cherchât à le retenir, le baron dit à son petit-fils :</p>
+        <p>– Tu le trouves un peu familier, ce brave Giuseppe ? Que veux-tu, je n’ai pas traité son père en domestique, et il en profite pour prendre quelques libertés, bien pardonnables au fils d’un si excellent serviteur. Cependant, je t’approuverai de tenir à garder quelque peu les distances. D’ailleurs, Giuseppe n’est pas sot et il comprendra.</p>
+        <p>Gilbert s’était assis près du vieillard. Il demanda :</p>
+        <p>– Vous aimez la physionomie de cet homme, grand-père ?</p>
+        <p>M. de Sernailles répondit après un court instant de réflexion :</p>
+        <p>– Non, pas beaucoup. Mais il est cependant excellent garçon.</p>
+        <p>– Il a des yeux faux.</p>
+        <p>– Je l’ai trouvé parfois. Mais je n’ai jamais eu à me plaindre de lui. Eh bien, voyons, mon cher enfant, dis-moi ton impression sur notre forêt ?</p>
+        <p>– Elle est magnifique, grand-père ! Je me promets d’y passer, en longues promenades, des heures inoubliables.</p>
+        <p>Une vive satisfaction éclaira le regard de l’aïeul.</p>
+        <p>– Allons, tant mieux, tant mieux ! Tu es aussi sous ce rapport-là, un vrai Sernailles.</p>
+        <p>Il mit sa main sur l’épaule de son petit-fils, et considéra d’un air de tendresse joyeuse le jeune visage animé par la longue course à pied et l’air pur de la forêt. Il répéta orgueilleusement :</p>
+        <p>– Un vrai Sernailles !</p>
+        <p>Gilbert prit la main ridée et y posa ses lèvres.</p>
+        <p>– J’en suis heureux, puis c’est une joie pour vous, cher grand-père.</p>
+        <p>– Oui, une joie... ma dernière joie. Ah ! que tu as bien fait de venir, de te présenter ainsi à moi, comme une image vivante de mon fils tant aimé ! Sans cela, j’aurais terminé mes jours seul, sans te connaître ; je serais mort au milieu d’étrangers, dévoués, certes – mais enfin des étrangers.</p>
+        <p>Son bras entourait les épaules de Gilbert. Les deux visages étaient tout proches l’un de l’autre. M. de Sernailles dit impérieusement :</p>
+        <p>– Regarde-moi, Gilbert... là, bien en face... et dis-moi pourquoi tu as voulu me connaître ?</p>
+        <p>– Mais, grand-père, parce que vous êtes mon seul parent du côté maternel... et ensuite parce que ce fut le désir exprimé par ma mère mourante.</p>
+        <p>– Oui, je te crois. Tes yeux sont la loyauté même. Je suis persuadé que tu n’as pas été conduit seulement par une pensée de cupidité, par la considération de ma très grande fortune...</p>
+        <p>Gilbert eut un brusque mouvement et se redressa, en s’écartant des bras de l’aïeul.</p>
+        <p>– Ah ! on vous a dit cela ? Déjà, on a su vous insinuer ce soupçon ?</p>
+        <p>Sa voix vibrait d’indignation, et la colère donnait à ses beaux yeux, d’un brun si chaud, un éclat superbe.</p>
+        <p>– Mais, mon enfant, ne t’émeus pas ainsi ! Je te répète que je crois à la pensée désintéressée qui t’a amené ici. J’ai confiance en toi, Gilbert, confiance entière et spontanée, parce que je sens que tu es une âme d’une rare loyauté.</p>
+        <p>Le jeune homme se pencha et prit les mains de l’aïeul,</p>
+        <p>– Eh bien, grand-père, il faut me donner une preuve de cette confiance. Je vous demande de me répéter tout ce qu’on pourra vous dire contre moi, quelque chose que ce soit.</p>
+        <p>M. de Sernailles le regarda avec surprise.</p>
+        <p>– Mais que veux-tu qu’on me dise, cher enfant ?</p>
+        <p>– N’a-t-on pas déjà commencé par cette insinuation ? Faites-moi cette promesse, grand-père, n’est-ce pas ? Voyez-vous, j’y tiens énormément.</p>
+        <p>– En ce cas, qu’il en soit comme tu le désires. Je te donne ma parole que je te redirai tout le mal qu’on m’apprendra de toi... Et maintenant, laissons ce sujet, et raconte-moi ta promenade.</p>
+        <p>Pour ne pas réveiller les souvenirs pénibles, Gilbert évita de parler de l’étang. Mais il s’étendit sur l’impression lugubre que lui avait produite la vieille maison de la forêt.</p>
+        <p>– Oui, c’est un triste logis, approuva le baron. Et il n’est pas étonnant que l’imagination populaire en ait fait un refuge satanique.</p>
+        <p>– Cette mauvaise réputation n’effraye pas Giuseppe Cledini, paraît-il ?</p>
+        <p>– Oh ! Giuseppe n’est pas un cerveau crédule ! D’ailleurs, il n’habite jamais ce logis, mais il y gare sa machine. Par délicatesse, et bien que je lui aie dit n’en pas être incommodé, il ne veut pas la laisser ici. Cependant, je trouve peu prudent de l’abandonner ainsi dans cette maison déserte et isolée. Un de ces jours, on m’apprendrait qu’elle a disparu, que je n’en serais pas surpris... Et on mettrait cet escamotage sur le compte des sept démons, naturellement.</p>
+        <p>Le baron se mit à rire, et Gilbert lui fit écho.</p>
+        <p>– Pourquoi sept démons, grand-père ?</p>
+        <p>– La légende ne l’explique pas. Je suppose qu’ils représentent les vices de dame Hilda, cette sorcière dont le souvenir est resté vivant dans les mémoires populaires.</p>
+        <p>– A-t-elle réellement existé, cette comtesse Hilda ?</p>
+        <p>– Certes ! Nos vieilles chroniques en font foi. C’était, vraiment, une fort vilaine femme. Elle s’occupait de sorcellerie et composait de mystérieux poisons qui, évidemment, devaient avoir des destinataires. Mais il est fort probable que ses crimes ont été fort amplifiés par l’imagination des gens de la contrée dont elle était la terreur. Retirée en ce logis solitaire, elle s’y livrait à des pratiques sataniques, en les accompagnant de tout l’appareil obligatoire en pareil cas : jets de flamme s’échappant des fenêtres, apparitions effrayantes, cris et gémissements...</p>
+        <p>– Mais, grand-père, il paraît que cela s’est reproduit encore, si j’en crois ce que l’on m’a appris tout à l’heure ?</p>
+        <p>Et Gilbert rapporta à son aïeul le récit du vieux bûcheron.</p>
+        <p>M. de Sernailles se mit à rire.</p>
+        <p>– Effet de la peur, tout cela ! Nos braves ont eu une hallucination. À la nuit, ce logis est sinistre. Quand il m’arrivait de passer près de là au jour tombé, je ne pouvais retenir un désagréable petit frisson. Tu comprends ce que ce doit être pour des gens superstitieux, qui, en dépit de leurs prétentions d’esprits forts, croient encore aux revenants, aux sorcières et aux apparitions... Mais à la place du comte Haltzen, je ferais abattre ce logis qui a, plus d’une fois depuis son abandon, servi de refuge à des malfaiteurs ! Ils trouvaient un sûr abri dans les caves voûtées, communiquant avec un souterrain par lequel ils gagnaient une autre partie de la forêt. Ce souterrain a été muré, par ordre judiciaire, après que ce fut échappé ainsi un bandit fameux. Mais la maison est toujours là, Giuseppe prétend que le comte y tient, comme à un signe tangible de la domination de ses ancêtres, sur cette partie du pays, au temps jadis.</p>
+        <p>– On ne le voit jamais par ici, ce comte Haltzen ?</p>
+        <p>– Non jamais. Il a en Autriche d’autres domaines autrement beaux et agréables. C’est un homme fort riche, depuis qu’il a hérité, voici quelques mois, de la fortune de sa nièce, la fille d’une sœur unique, dont il était le tuteur. L’enfant s’est noyée, croit-on.</p>
+        <p>Il soupira et dit lentement :</p>
+        <p>– Elle s’est noyée, comme mon petit Thierry.</p>
+        <p>Gilbert serra plus fortement les mains de l’aïeul. Le vieillard pencha vers lui sa tête blanche et le regarda longuement, avec des yeux pleins d’émotion. Autour d’eux, des ombres commençaient à s’amasser dans les angles de la grande pièce. Le soleil, très bas, quittait le jardin silencieux, encore chaud de sa lumière brûlante, et un peu de brise tiède, au délicat arôme balsamique, pénétrait dans le salon. M. de Sernailles dit à mi-voix :</p>
+        <p>– Maintenant, ma consolation est venue. Et Caubreterre me semble déjà tout changé, parce que ta jeunesse y est entrée, et avec elle l’espoir de notre vieille race, dont tu es le dernier représentant, Gilbert de Clercy-Sernailles.</p>
+      </div>
+      <div title="VI" type="chapter">
+        <head>VI</head>
+        <p> </p>
+        <p>En rentrant le surlendemain d’une promenade matinale, Gilbert rencontra près du château le facteur, qui, sur sa demande, lui remit le courrier, dans lequel se trouvait une lettre à son adresse. Bartholo arriva comme déjà le jeune homme tenait tout le paquet entre ses doigts. Il demanda avec son sourire dangereux : Laissez-moi vous débarrasser de cela, monsieur, Je vais porter à M. le Baron ses lettres et ses journaux...</p>
+        <p>– Je les lui porterai moi-même... Tenez, ceci est pour vous..., ceci encore... et ce journal... c’est tout.</p>
+        <p>Et Gilbert, le tri ainsi fait, s’avança vers la porte. Mais Bartholo, dont le regard avait eu un éclair de colère, étendit la main...</p>
+        <p>– C’est moi qui dépouille le courrier de M. le Baron et qui lui en fais la lecture, monsieur...</p>
+        <p>– Ne vous en inquiétez pas, je m’en chargerai ce matin.</p>
+        <p>Là-dessus, Gilbert, avec ce calme dédaigneux dont il avait résolu de s’envelopper à l’égard des intrus, s’éloigna et entra dans le château. Il alla trouver M. de Sernailles et lui remit son courrier.</p>
+        <p>– Si vous avez besoin de mes services comme lecteur, usez de moi, cher grand-père, je serai trop heureux de vous être utile.</p>
+        <p>– J’accepte volontiers, mon enfant. Ordinairement, c’est Bartholo qui me fait cette lecture. Mais j’aime mieux encore que ce soit toi... As-tu une lettre de ton père ?</p>
+        <p>– Oui, la voici, grand-père.</p>
+        <p>– Eh bien, lis-la d’abord. Moi, je ne suis pas pressé, je n’attends plus rien d’intéressant, hélas !</p>
+        <p>Gilbert, en écrivant à son père dès le lendemain de sa première nuit à Caubreterre, lui avait transmis l’invitation de M. de Sernailles. À cela, M. de Clercy répondait :</p>
+        <p>« Remercie beaucoup pour moi ton grand-père, mon cher enfant, et dis-lui que je serai très heureux de me rendre à son invitation – mais plus tard, dans les derniers jours de ton séjour chez lui. En effet, je juge préférable que tu restes seul, pour le moment, afin de ne pas risquer, avant que tu te sois solidement implanté dans son cœur, d’éveiller fâcheusement sa jalousie. Tu lui diras que je ne puis obtenir un congé en ce moment... Mais il reste bien entendu que si tu as besoin de moi pour mener à bien ton entreprise, un télégramme me fera aussitôt accourir.</p>
+        <p>« Je ne puis trop te recommander d’être prudent, extrêmement prudent à l’égard de ces Italiens. Brûle mes lettres aussitôt reçues. Si je pouvais te les adresser ailleurs, cela n’en vaudrait que mieux. »</p>
+        <p>C’était aussi l’avis de Gilbert. Il était persuadé que tout à l’heure Bartholo guettait le facteur pour s’emparer de toute la correspondance, y compris la sienne. Les lettres du baron, depuis des années, ne devaient être remises à leur destinataire qu’après avoir passé sous les yeux de l’intendant, qui supprimait celles jugées dangereuses pour son intérêt. De toute évidence, il aurait été charmé de savoir ce que M. de Clercy écrivait à son fils. Celui-ci, par un heureux hasard, avait déjoué la combinaison – et en outre, il se défiait maintenant plus que jamais.</p>
+        <p>Dès ce jour-là, après le déjeuner, Gilbert, en répondant à son père, lui demanda d’adresser ses lettres à la « Licorne d’or ». Pour ne pas éveiller la surprise du baron, M. de Clercy devait en écrire quelques autres, ne contenant rien que d’insignifiant, et qu’il adresserait à Caubreterre... Puis le jeune homme descendit à Claveronnes et alla prévenir Clarisse Robienne. Celle-ci l’approuva fort...</p>
+        <p>– Voilà une précaution bien utile, monsieur. Il doit être habile à toutes ces besognes-là, le Cledini. Avez-vous remarqué ses doigts ?... C’est délié, c’est souple. Ouvrir une lettre, la lire et puis la remettre en état, c’est probablement un jeu pour lui. On vous gardera les vôtres ici, allez, monsieur, et on ne les remettra qu’à vous, soyez sans crainte.</p>
+        <p>La vieille Marielle exultait du prompt succès remporté par le jeune homme sur les étrangers,</p>
+        <p>– Vous voyez, monsieur Gilbert, que votre ressemblance avec votre grand-père vous a bien servi ! Maintenant, le plus difficile est fait.</p>
+        <p>Ce n’était pas du tout l’avis de Gilbert. Certes, il avait pris ses adversaires par surprise, en se présentant inopinément aux yeux de M. de Sernailles. Mais il les devinait trop habiles pour ne pas combiner maintenant contre lui de sournoises manœuvres. Après avoir pendant des années travaillé à isoler le vieillard, Bartholo n’abandonnerait pas ainsi l’espoir de voir une partie de cette grosse succession lui revenir.</p>
+        <p>Le jeune homme, après avoir pris congé de Marielle et de sa fille, s’en alla flâner dans le village qu’il ne connaissait guère encore. On le saluait, en le suivant de regards sympathiques. Marielle et Clarisse, n’ayant plus maintenant à cacher son identité, avaient appris aux habitants de Claveronnes que Caubreterre possédait maintenant un jeune maître, ce qui avait plu à tous, assuraient-elles, personne ne voyant les Italiens d’un œil bienveillant.</p>
+        <p>Devant le presbytère, Gilbert rencontra le curé, et le salua, en se présentant à lui. Le prêtre l’invita à entrer, ce qu’il accepta. Dans la petite salle fraîche, qui ouvrait sur un jardin d’où s’exhalait la senteur sucrée des prunes mûres chauffées par le soleil, ils causèrent longuement. L’abbé Resse, jeune prêtre calme et chétif, était depuis trois ans curé de Claveronnes. Il avait succédé à un prêtre nonagénaire, contemporain de M. de Sernailles, et qui, depuis la mort du petit Thierry, n’avait jamais été reçu par le châtelain, avec lequel, auparavant, il entretenait des relations amicales. L’aïeul ainsi frappé dans son affection presque idolâtre pour ce descendant de sa race gardait au ciel une farouche rancune, qu’il manifestait par cette rupture des rapports entre le ministre de Dieu et lui, et par son abstention de toutes les cérémonies religieuses autrefois suivies sinon avec piété, du moins avec une exactitude respectueuse.</p>
+        <p>– La situation n’a pas changé depuis que je suis ici, ajouta le jeune curé, en achevant de donner ces explications à Gilbert. Et M. de Sernailles a quatre-vingt-douze ans. D’un jour à l’autre, la mort peut le frapper. Jusqu’ici il était sans famille, entouré d’étrangers...</p>
+        <p>Il s’interrompit un instant, avant d’ajouter :</p>
+        <p>– Des étrangers bien peu sympathiques – le père et le fils surtout.</p>
+        <p>– Et qui ont dû tout faire pour que mon pauvre grand-père conserve ces sentiments peu chrétiens, car leur plan ne se serait guère arrangé d’une intervention – très probable – du curé en faveur de la petite-fille injustement exilée.</p>
+        <p>– Intervention certaine, monsieur. Le vieil abbé Haudrot, que j’ai assisté dans les derniers mois de sa vie, m’a dit qu’un de ses grands chagrins avait toujours été de n’avoir rien pu tenter pour ramener M. de Sernailles à une juste notion de son devoir à l’égard de cette enfant.</p>
+        <p>– Eh bien, ce Cledini s’en doutait, et il a agi en conséquence. Mais j’espère que, maintenant, mon grand-père changera de sentiments, peu à peu, et que je le ramènerai à l’église, monsieur le curé.</p>
+        <p>– Employez-y tout votre cœur, tout votre zèle, monsieur, et que Dieu vous aide !</p>
+        <p>Sur ce souhait, l’abbé Resse et Gilbert se séparèrent, après s’être promis de se revoir bientôt. Le jeune homme remonta vers Caubreterre. Il se sentait aujourd’hui alerte et presque joyeux. Une sympathie nouvelle venait de lui être offerte, et il devinait autour de lui celle de tout le pays, hostile aux étrangers. De nature prudente et réfléchie, il ne se dissimulait pas les difficultés qui lui restaient à vaincre ; mais elles lui semblaient déjà moins grandes, à l’idée que toute l’opinion, cette grande force morale, le soutenait par avance dans sa lutte contre les intrus.</p>
+        <p>Il montait sans hâte, entre les pins qui se pressaient au bord du chemin étroit. Le jour perdait lentement sa lumière. Dans les sous-bois où se glissait l’obscurité, la fraîcheur du soir commençait de s’insinuer. Des frôlements de feuilles, de légers bruits produits par le passage d’un insecte ou le susurrement d’une mouche, le choc du talon de Gilbert sur les cailloux du chemin, troublaient à peine l’apaisant silence du jour à son déclin. Gilbert n’entendait pas autre chose... Et cependant, voici qu’il avait l’impression d’être suivi, épié. Quelqu’un, il le sentait, suivait le même trajet que lui, sous le couvert du bois...</p>
+        <p>À un moment, le chemin passait au bas d’un haut talus, couvert de bruyères.</p>
+        <p>Mû par une impulsion qu’il ne chercha pas à maîtriser, il le gravit d’un bond... Et il vit, se glissant entre les arbres, essayant de se dissimuler, Rosa Cledini, la filleule de son grand-père.</p>
+        <p>Elle tenta de fuir. Mais il la rattrapa et lui saisit le bras,</p>
+        <p>– Pourquoi vous sauviez-vous ? Quelle vilaine action commettiez-vous donc là ?</p>
+        <p>Très rouge, mais les yeux hardis, elle riposta :</p>
+        <p>– Je ne faisais rien de mal, monsieur, mais vous m’avez effrayée...</p>
+        <p>– Pas de mensonges ! Je sais très bien que vous m’espionniez. Mais je ne vous conseille pas de recommencer, car, en ce pas, je vous mène devant M. de Sernailles, et je lui raconte tout. Dites-le bien à ceux qui vous font faire ce joli métier.</p>
+        <p>Il la lâcha et reprit sa route. L’indignation, maintenant, avait remplacé la quiétude de tout à l’heure. Ces êtres, qui ne craignaient pas d’employer leur fille et petite-fille à ce rôle d’espionne, devaient réellement être capables de tout. Il aurait à se garder d’eux à toute heure, en toute occasion. Fort heureusement, un meurtre entraînerait pour eux de trop gros risques, dans les circonstances présentes ; intelligents comme ils l’étaient, ils savaient certainement d’avance qu’un attentat contre le petit-fils de leur maître serait la pire maladresse qu’ils pussent commettre. Mais ils chercheraient d’autres moyens. Les manœuvres souterraines leur étaient certainement familières, le mensonge, la calomnie ne les gênaient pas. Dans l’ombre, ils allaient s’acharner après lui. L’affection soudaine de M. de Sernailles pour son petit-fils serait-elle assez forte pour résister à l’influence prise sur lui, depuis tant d’années, par l’intendant ?</p>
+        <p>Quand Gilbert entra dans le salon assombri, où pénétrait la fraîcheur du crépuscule, l’aïeul se souleva un peu sur son fauteuil, en tendant ses mains ridées :</p>
+        <p>– Ah ! cher enfant, j’ai trouvé cette après-midi longue sans toi !</p>
+        <p>Gilbert s’approcha, s’assit près de lui, sur un siège bas. Ses doigts prirent les mains tremblantes, et les étreignirent doucement,</p>
+        <p>– Vraiment, je vous ai manqué, grand-père ?</p>
+        <p>– Mais oui, mon enfant... Écoute, je me demande comment jusqu’ici j’ai pu vivre sans toi...</p>
+        <p>Son regard enveloppait avidement le jeune visage ému, aux yeux profonds et pleins de charme. D’une voix frémissante, où passait comme un souffle des souffrances passées, le vieillard acheva :</p>
+        <p>– Mais aussi, ce n’était pas une vie.</p>
+      </div>
+      <div title="VII" type="chapter">
+        <head>VII</head>
+        <p> </p>
+        <p>Quinze jours s’étaient écoulés maintenant, depuis que Gilbert était entré à Caubreterre pour la première fois. À travers le vieux château, le jeune homme avait fait des explorations, seul, car il avait refusé cette fois encore la compagnie de Bartholo. Celui-ci, sur l’ordre de M. de Sernailles, avait dû lui donner les clefs ouvrant les appartements inhabités, les vieilles tours et les curieuses caves voûtées. Au cours, de cette visite, Gilbert, dont l’esprit d’observation était encore aiguisé par la défiance, fit quelques constatations intéressantes. Certaines pièces lui parurent d’une nudité singulière. Au plafond de l’une d’elles, un énorme crochet semblait attendre le lustre absent. Une autre, superbe salle ornée de plafonds à solives peintes, montrait des murailles sans tentures.</p>
+        <p>En se trouvant seul, vers la fin de cette après-midi avec son grand-père, Gilbert lui raconta les impressions de son voyage de découvertes à travers la vieille demeure de ses ancêtres. Puis il fit observer :</p>
+        <p>– Il est seulement dommage qu’aucune tenture ne décore la grande salle du Nord, si belle.</p>
+        <p>– La salle du Nord ? Mais il y a des tapisseries magnifiques, sur ses murs.</p>
+        <p>– Je n’en ai pas vu trace, grand-père.</p>
+        <p>– C’est trop fort !... Que sont-elles donc devenues ? Sonne Bartholo, Gilbert.</p>
+        <p>Bartholo se présenta, très calme, et, à la question de son maître, répondit paisiblement :</p>
+        <p>– Les tapisseries étaient en fort mauvais état, monsieur le baron, et j’ai cru bien faire en les envoyant réparer, car je n’ignore pas comme monsieur le baron y tient. J’espère qu’elles seront prêtes dans quelques mois. De même, j’ai confié à une maison sûre le grand lustre de la chambre verte, qui avait besoin d’un nettoyage complet. Également, j’ai dû donner à réparer divers meubles, dont l’état de conservation laissait à désirer. Je l’ai fait de moi-même, Monsieur le Baron m’ayant dit une fois pour toutes qu’il me laissait carte blanche pour ces menus détails d’intérieur.</p>
+        <p>– Oui, oui, Bartholo, c’est très bien. Prenez soin de toutes ces vieilleries, auxquelles je tiens d’autant plus qu’elles seront la propriété de mon petit-fils... Il te faudra donc attendre un peu, mon cher Gilbert, avant de voir nos belles tapisseries, qui plairont certainement à ton goût d’artiste.</p>
+        <p>Gilbert demanda :</p>
+        <p>– Ces réparations dureront-elles longtemps ?</p>
+        <p>– C’est probable, monsieur. L’humidité a fort endommagé ces tentures, et le travail est considérable.</p>
+        <p>– Je n’ai pas cru remarquer cependant que les murs présentassent quelque trace d’humidité.</p>
+        <p>– La chaleur de l’été les a séchés, monsieur. Mais c’est en hiver qu’il faudrait les voir.</p>
+        <p>M. de Sernailles fit observer :</p>
+        <p>– Je n’avais jamais entendu parler d’humidité dans les étages supérieurs, cependant.</p>
+        <p>– Le château vieillit, monsieur le Baron, la pierre s’effrite, devient plus perméable. En outre, le dernier hiver, peu froid, a été terriblement pluvieux. Je puis emporter ceci, maintenant ?</p>
+        <p>Il étendait la main vers les clefs posées sur la table, près de M. de Sernailles. Celui-ci fit un signe affirmatif. Mais Gilbert demanda :</p>
+        <p>– Me permettez-vous de les garder encore, grand-père ? Il y a des pièces que j’aimerais à revoir...</p>
+        <p>– Mais tout ce que tu voudras, mon cher enfant... Laissez cela, Bartholo. Et tâchez de presser un peu les réparateurs de mes tapisseries, pour que M. Gilbert puisse les voir dans la grande salle où elles font vraiment fort bien.</p>
+        <p>– Je vais écrire ce soir même, monsieur le Baron.</p>
+        <p>Et Bartholo fit un pas pour se retirer. Mais une question de Gilbert l’immobilisa...</p>
+        <p>– À quelle maison les avez-vous confiées ?</p>
+        <p>Pendant quelques secondes, le jeune homme vit frémir le visage brun, aux rides légères. D’une voix imperceptiblement hésitante, l’Italien répondit :</p>
+        <p>– Mais à une maison sûre, monsieur... une maison de Paris, dont mon fils m’a procuré l’adresse.</p>
+        <p>– Mon père a fait réparer cet hiver un panneau des Gobelins qui orne son cabinet de travail. Il s’est adressé à la maison Dulac... Est-ce celle-là aussi ?</p>
+        <p>– Non, ce n’est pas ce nom-là... Je ne me souviens plus bien. Mais Giuseppe aura plus de mémoire que moi, sans doute,</p>
+        <p>– Vous devez d’ailleurs avoir inscrit cette adresse quelque part ?</p>
+        <p>– Oh ! naturellement ! Rien n’est plus simple que d’aller la chercher, si vous le désirez, monsieur.</p>
+        <p>– Non, vous me la direz ce soir. Je verrai si c’est une de celles qui ont été indiquées à mon père, comme étant de toute confiance.</p>
+        <p>– Eh ! il ne faudrait pas qu’on m’escamote mes tapisseries. Bartholo ! dit M. de Sernailles, elles valent une petite fortune... Je crains que vous n’ayez pas pris assez de précautions, mon ami.</p>
+        <p>– Que Monsieur le Baron se rassure ! Je suis un vieux serviteur dont la prudence doit lui être connue depuis longtemps. Les tapisseries sont en bonnes mains, et ne courent absolument aucun risque.</p>
+        <p>– C’est bien, Bartholo, Je sais, en effet, que vous n’êtes pas homme à agir à la légère... À tout à l’heure, mon bon ami.</p>
+        <p>Congédié par un geste cordial, Bartholo s’éloigna. Après son départ, il y eut un long moment de silence. Gilbert jouait avec une des clefs. M. de Sernailles regardait son petit-fils. Enfin, le vieillard demanda :</p>
+        <p>– À quoi penses-tu, Gilbert ?</p>
+        <p>Le jeune homme répondit :</p>
+        <p>– Je songeais que votre intendant prend un peu trop de liberté en s’arrogeant ainsi le droit de faire réparer des pièces d’une valeur aussi considérable, sans même vous en dire un mot.</p>
+        <p>– Évidemment, il aurait mieux fait de m’en parler. Mais il n’ignorait pas comme j’étais devenu insouciant de tout, désireux seulement qu’on me laissât finir ma pauvre vie en repos... Maintenant que tu es là, il en est autrement. Je m’intéresse de nouveau à nos vieux et précieux souvenirs, je me reprends à l’existence à cause de toi. Désormais – et sans blesser ce fidèle serviteur – je vais restreindre un peu les pouvoirs que je lui avais donnés. Quant à toi, cher enfant, tu es le maître ici ; tu peux y aller et venir à ton gré, choisir l’appartement qui te plaît, ou faire transporter les meubles de ton choix dans celui que tu occupes. En un mot, Caubreterre t’appartient, et je te transmets toute l’autorité que je ne puis plus exercer.</p>
+        <p> </p>
+        <p>*</p>
+        <p> </p>
+        <p>Ainsi, chaque jour, se consolidait l’empire que Gilbert prenait sur son aïeul. Le vieux cœur, si longtemps privé d’affection familiale, desséché dans une stérile douleur, s’ouvrait à cette nouvelle tendresse qui l’envahissait tout entier, M. de Sernailles aimait Gilbert comme il avait aimé Thierry, avec une sorte de passion orgueilleuse, qui n’eût pas souffert un blâme sur son idole. Les manœuvres de Bartholo pour nuire au jeune homme dans l’esprit de l’aïeul avaient complètement échoué devant cette subite emprise. Gilbert s’en rendait fort bien compte et se réjouissait de n’avoir rien à craindre à ce sujet. Mais il restait à éclairer le vieillard sur la réelle valeur de son intendant. Pour cela, il fallait une preuve sérieuse, capable d’ouvrir complètement des yeux bien aveuglés encore.</p>
+        <p>Les tapisseries s’étaient retrouvées à leur place, quelques jours plus tard. Les réparations, moins importantes qu’il ne l’avait cru, avaient été terminées plus vite qu’on ne le pensait, avait dit Bartholo. Et elles étaient si remarquablement faites que Gilbert n’avait pu en trouver trace. Par contre, le lustre, également revenu et suspendu de nouveau dans la chambre verte, avait été visiblement l’objet d’un nettoyage hâtif, fort insuffisant. Gilbert s’abstint de faire aucune remarque à ce sujet, Bartholo aurait su encore trouver quelque stratagème pour leurrer son maître. Mais le jeune homme, en insistant, avait obligé l’intendant à donner le nom de la maison à laquelle, soi-disant, il avait confié la réparation des tapisseries. Tout aussitôt, il avait écrit à son père en lui demandant de s’informer si cette maison existait, et si elle avait réellement fait ce travail. Maintenant, il attendait la réponse qui allait lui permettre de confondre les imposteurs.</p>
+        <p>Toute la famille n’était pour lui que prévenances et sourires. M. de Sernailles disait à son petit-fils : « Ce bon Bartholo ne tarit pas d’éloges enthousiastes sur toi. Il est positivement ravi de voir comme ta présence me transforme. » À ces moments-là, Gilbert devait faire effort pour retenir sur ses lèvres les mots de mépris qui s’y pressaient. Par touches discrètes seulement, il commençait à dessiller les yeux de l’aïeul, à lui faire remarquer de menus faits, à l’engager sur la voie des réflexions au sujet du rôle joué près de lui par l’intendant, pendant tant d’années, et des suggestions qui avaient contribué à l’exil sans retour de Marguerite de Sernailles.</p>
+        <p>Chaque jour, Gilbert se promenait longuement en forêt. Il avait fait la connaissance des gardes au service de son grand-père, et, parfois, prenait pour guide et compagnon l’un d’eux, Savinien Bordes, jeune et sympathique, avec lequel il se promettait de chasser dans quelque temps. Plus d’une fois, il était passé près de la maison des Comtes. La lugubre demeure l’attirait. Il songeait : « Ce Giuseppe doit brasser de louches affaires. Peut-être en trouverait-on le secret entre ces murs ? Mais le logis est bien clos. Comment savoir ? »</p>
+        <p>La chaleur, après quelques jours plus tempérés, redevenait lourde et fatigante, Gilbert devait retarder l’heure de ses promenades, Parfois, il sortait après le dîner, pour respirer le souffle d’air qui s’élevait généralement à la tombée de la nuit. Il s’en allait le long des sentiers maintenant connus, où il ne craignait plus de s’égarer. Son but le plus fréquent était l’étang, près duquel il s’asseyait pour rêver, en regardant l’eau frissonnante qu’un rayon de lune caressait, les nuits où le ciel chargé d’orages se dégageait un peu.</p>
+        <p> </p>
+        <p>*</p>
+        <p> </p>
+        <p>Un soir, tenté par une fraîcheur inusitée, il allongea sa promenade, et se trouva, presque inconsciemment, près de la vieille maison. Sous la clarté timide d’une lune voilée, elle avait, plus que jamais, un sinistre aspect de coupe-gorge. Gilbert la considéra un long moment. Puis il la contourna et longea le mur, très doucement. Il s’arrêta, tout à coup. Il lui semblait entendre, derrière cette clôture, un bruit de pas, feutrés comme si l’on marchait en chaussons... puis un gémissement étouffé, un court chuchotement...</p>
+        <p>Allons, l’occasion de savoir peut-être quelque chose était trop belle. Le mur dégradé serait escaladé facilement... Et Gilbert avait remarqué précédemment qu’un arbre dressait dans la cour sa tête touffue, juste contre ce mur, de telle sorte que le curieux se trouverait à l’abri des regards.</p>
+        <p>En quelques secondes, sans bruit, avec cette souplesse qu’il devait aux exercices de sport pratiqués depuis son enfance, le jeune homme eut gagné son poste d’observation, Et là, il vit...</p>
+        <p>Il vit un homme petit, gros, aux cheveux sombres, en qui il reconnut aussitôt Giuseppe. L’Italien tenait par l’épaule une petite fille, dont les bras étaient liés derrière le dos, et la faisait marcher de long en large dans la cour. Quand ils furent arrivés à l’extrémité, et se retournèrent pour revenir sur leurs pas, Gilbert vit que l’enfant avait un bâillon sur la bouche.</p>
+        <p>Tout son sang généreux s’agita. Dans son saisissement indigné, il fut sur le point de s’élancer dans la cour, de courir au misérable, de lui sauter à la gorge... Mais il eut la force de se contenir. Seul, sans armes, il ne pourrait lutter contre cet homme, plus fort que lui. Et il se perdrait sans sauver l’enfant. Il y avait mieux à faire maintenant. Dès demain, la police serait prévenue, et la maison des Comtes livrerait son secret.</p>
+        <p>La prisonnière et le geôlier continuaient leur lente promenade. La petite fille semblait se traîner avec peine. À sa taille, Gilbert lui donnait huit à dix ans. Le pâle rayon de lune permettait de distinguer la teinte blonde de ses cheveux, noués en une natte très lâche sur les épaules maigres qui pointaient sous une robe trop large. À un moment, elle passa non loin de l’arbre derrière lequel se dissimulait Gilbert, et celui-ci vit de grands yeux tristes, sur lesquels battaient des cils tremblants.</p>
+        <p>De grands beaux yeux d’enfant, pleins de souffrance poignante, qui l’émurent si violemment qu’une fois encore, il dut avoir recours à toute son énergie pour ne pas engager à l’instant une lutte folle, disproportionnée, qui perdrait tout.</p>
+        <p>Maintenant, Giuseppe ramenait la petite fille vers la maison, qui dressait, dans la clarté vague, sa façade sombre aux ouvertures closes. L’Italien ouvrit une petite porte basse, fit passer devant lui l’enfant, et disparut à son tour.</p>
+        <p>Alors Gilbert se laissa glisser à terre et s’éloigna à grands pas dans la direction du château. Il se hâtait, car il s’était attardé ce soir, et il ne fallait pas que Bartholo eût des soupçons... Pourvu encore qu’il ne fût pas épié, en ses promenades nocturnes ! Heureusement, il avait eu la bonne idée de dire plusieurs fois, devant les Italiens, que la vieille maison l’impressionnait désagréablement, et qu’il comprenait que les gens du village évitassent d’y passer la nuit. À ce moment, il ne songeait qu’à se ménager les moyens de prendre en flagrant délit de recel ou de contrebande, ce Giuseppe aux yeux faux, aux gestes patelins. Mais il s’agissait maintenant de tout autre chose. Cette enfant, qui était-elle ? Pourquoi Giuseppe la retenait-il prisonnière ? Quels autres crimes allait-on découvrir encore ? Gilbert dut faire effort pour se composer un visage à peu près calme, en se retrouvant devant son grand-père. Il ne voulait rien lui apprendre encore, afin de ménager sa faiblesse de vieillard. M. de Sernailles remarqua cependant des distractions inusitées, chez son jeune partenaire, tandis qu’ils faisaient une partie de cartes, comme chaque soir. Et les mains de Gilbert avaient des tressaillements, ses yeux s’éclairaient ou s’assombrissaient tour à tour, comme sous l’afflux de pensées obsédantes.</p>
+        <p>– Tu ne sembles pas à ton aise, mon enfant ? fit remarquer l’aïeul.</p>
+        <p>– Ce temps d’orage m’énerve un peu, je crois, grand-père.</p>
+        <p>– Il me semble cependant qu’il fait plus frais, ce soir ?</p>
+        <p>– En effet. Mais l’orage est toujours dans l’air.</p>
+        <p>– Eh bien ! laissons ces cartes, Aussi bien, j’aime mieux aussi prendre l’air. Rapprochons-nous de la fenêtre.</p>
+        <p>Près de la porte vitrée ouverte sur le jardin vaguement éclairé par une clarté diffuse, l’aïeul et son petit-fils rêvèrent une heure encore, en échangeant des phrases courtes, comme lassées. Gilbert songeait à l’enfant à peine entrevue, à la pauvre petite prisonnière aux cheveux blonds. Il se disait : « Demain, je la délivrerai. Et nous saurons, alors... »</p>
+      </div>
+      <div title="VIII" type="chapter">
+        <head>VIII</head>
+        <p> </p>
+        <p>Toute la nuit, il continua d’y penser, et prépara son plan pour le lendemain. Au matin, avant cinq heures, il était debout, prêt à sortir, Bartholo ne s’en étonnerait pas, car depuis quelques jours Gilbert avait coutume d’aller errer dans la forêt, à cette heure matinale où elle était si particulièrement belle. Sans se presser, le jeune homme descendit. Au passage, il répondit par un bref « bonjour » au salut empressé de Rosa, qui se glissait le long des couloirs avec une allure de petit serpent. Du même pas tranquille, il gagna la maisonnette où Savinien Bordes vivait avec sa mère et sa sœur. En quelques mots, il lui apprit sa découverte de la veille. Le jeune garde ne parut qu’à moitié surpris...</p>
+        <p>– Voyez-vous, monsieur, j’ai toujours eu l’idée – et je ne suis pas le seul dans le pays – que ces gens-là tramaient quelque chose de louche. Mais il va falloir délivrer cette petite malheureuse ?</p>
+        <p>– Je descends à Claveronnes pour prévenir le maire. Mais, auparavant, je voulais vous demander d’exercer dès maintenant une surveillance discrète autour de la vieille maison, au cas où ce Giuseppe, se méfiant de quelque chose, songerait à emmener ailleurs l’enfant. Et même, s’il était possible de vous adjoindre un autre garde, ce serait mieux encore, car vous pourriez avoir à lutter pour empêcher cet homme de réaliser son dessein...</p>
+        <p>– Je vais de ce pas raconter la chose à mon collègue, Hendreuil, et nous nous embusquons aussitôt près de la maison maudite. Comptez sur nous, monsieur.</p>
+        <p>Rassuré de ce côté, Gilbert rentra au château, déjeuna et descendit à Claveronnes. Tout droit, il se dirigea vers la demeure du maire. Celui-ci, un vieux paysan à la physionomie intelligente et froide, écouta avec attention le récit bref et très clair qui lui était fait. Quand Gilbert eut terminé, il dit, comme le garde tout à l’heure :</p>
+        <p>– Je me suis toujours défié de ces gens-là, et ce que vous m’apprenez ne m’étonne pas du tout, monsieur. Qui peut être cette petite fille, par exemple ? Je n’ai pas du tout entendu parler de disparition d’enfant dans la contrée... Enfin, c’est affaire à la justice de découvrir cela. Je vais faire prévenir la gendarmerie, c’est le plus pressé.</p>
+        <p>Puis il ajouta :</p>
+        <p>– Ça nous fera plaisir à tous dans le pays, de voir ces gens-là mis à la porte de Caubreterre, où ils ont si longtemps aveuglé M. le Baron. Et nous sommes bien heureux de votre présence parmi nous, monsieur.</p>
+        <p>Gilbert le remercia, en lui tendant une main qu’il serra fortement. Puis le jeune homme gagna la « Licorne d’or », où l’attendait une lettre de son père. Quand il eut achevé de lire, la vieille Marielle, qui le regardait avec complaisance, demanda :</p>
+        <p>– Eh bien ! est-ce que ça avance, monsieur Gilbert, le moment où les étrangers seront chassés de chez nous ?</p>
+        <p>– Je crois que oui, ma bonne Marielle. Ce moment est même peut-être fort proche.</p>
+        <p>Il n’en dit pas davantage, en dépit de la curiosité visible de la vieille femme. La prudence lui commandait le silence, tant que la justice n’aurait pas pénétré le mystère de la vieille maison. À pas lents, il remonta vers Caubreterre. Dans une poche intérieure de son veston, il avait enfermé la lettre de M. de Clercy, où celui-ci, après enquête, lui, apprenait que la maison indiquée par Bartholo existait réellement, mais qu’elle n’avait jamais eu connaissance des tapisseries dont Gilbert avait envoyé à son père une très exacte description, et qu’aucun travail ne lui avait été commandé de la part du baron de Sernailles.</p>
+        <p>Gilbert en était persuadé à l’avance. Mais cette preuve allait lui servir puissamment pour éclairer son grand-père sur la valeur du « fidèle » Bartholo. Quand la maison de la forêt aurait livré son secret, il révélerait tout au vieillard, et ceux des Italiens qui ne se trouveraient pas compromis dans la mystérieuse affaire seraient expulsés sur l’heure.</p>
+        <p>Perspective délicieuse, que surpassait seulement, dans la pensée de Gilbert, la joie de voir bientôt la pauvre petite prisonnière enlevée à son geôlier.</p>
+        <p>Absorbé dans ses réflexions, il se heurta presque, en entrant dans le vestibule du château, à Giuseppe qui sortait. Toute sa présence d’esprit lui fut nécessaire pour ne pas laisser échapper un trop vif mouvement de répulsion. Brièvement, il répondit au bonjour mielleux de l’Italien. Celui-ci, avec son habituel coup d’œil en dessous, dit de sa voix doucereuse :</p>
+        <p>– Il fait bien beau ce matin, n’est-ce pas, monsieur ? Je crois que nous n’aurons pas encore d’orage aujourd’hui.</p>
+        <p>– Je ne le pense pas non plus.</p>
+        <p>– S’il vous était agréable de faire quelques promenades en automobile, je suis tout à votre disposition. La machine est bonne et file bien. Cela vous changerait un peu de la forêt.</p>
+        <p>– Je vous remercie. Peut-être profiterai-je de votre offre quelque jour,</p>
+        <p>– Quand vous voudrez, monsieur, quand vous voudrez. Je serai très heureux, très honoré... À tout à l’heure, cher monsieur.</p>
+        <p>Et, après un nouveau salut, il passa.</p>
+        <p>« J’espère qu’on va te faire faire ce soir une autre promenade, misérable, songea Gilbert. Et tu ne m’appelleras plus « cher monsieur », alors ! »</p>
+        <p>Les heures, à partir de ce moment, lui parurent interminables. Sans cesse, il avait présente à l’esprit, la pauvre petite créature enfermée dans le lugubre logis ; il revoyait les beaux yeux au poignant regard de détresse, qui l’avaient si profondément ému. Sous son apparence calme, Gilbert cachait une âme vibrante et un cœur très chaud, sensible à toutes les souffrances. Il devait faire aujourd’hui un grand effort sur lui-même pour dissimuler ses préoccupations aux yeux de l’aïeul, pour rester impassible devant Giuseppe et son père, les deux complices, il en était certain. Car il se rappelait, et comprenait maintenant, les paroles échangées entre eux, le premier jour où il guettait la sortie de M. de Sernailles... Celle dont ils parlaient, c’était l’enfant, la petite prisonnière inconnue.</p>
+        <p>Après le déjeuner, le baron demanda à son petit-fils :</p>
+        <p>– Que fais-tu cette après-midi, mon enfant ?</p>
+        <p>– Je vais sortir, grand-père. J’ai donné rendez-vous à Savinien Bordes, pour une promenade,</p>
+        <p>– Tu auras bien chaud ! La température s’annonce fort lourde.</p>
+        <p>– Eh bien, s’il fait trop chaud, nous reviendrons, grand-père, et je passerai une bonne après-midi près de vous.</p>
+        <p>Quoi qu’en eût prédit Giuseppe, l’orage menaçait déjà quand Gilbert, vers deux heures, s’en alla sur la route de Claveronnes. À mi-chemin du village, il rencontra le maire, qu’accompagnaient deux gendarmes et un serrurier requis pour ouvrir les portes de la mystérieuse demeure, au cas prévu où elles resteraient closes devant les sommations de l’autorité.</p>
+        <p>Gilbert se joignit à eux, et tous s’engagèrent sur la route agrémentée d’ornières qui conduisait à la maison des Comtes. Chemin faisant, le brigadier de gendarmerie apprit au jeune homme que depuis peu on avait presque la certitude des accointances de Giuseppe avec deux gros organisateurs de la contrebande et qu’ordre avait été donné de surveiller ses agissements.</p>
+        <p>Bientôt, le sombre logis apparut, clos et silencieux comme toujours. Du couvert de la forêt surgirent Savinien Bordes et son compagnon. Ils n’avaient pas quitté les alentours, et avaient vu, vers onze heures, arriver Giuseppe, une gibecière gonflée sur le dos. Il était entré dans la maison, pour en ressortir au bout de dix minutes. Sa gibecière, cette fois, pendait toute flasque.</p>
+        <p>Le brigadier alla frapper à plusieurs reprises au portail. Rien ne bougea. Pour la forme, il fit une seconde tentative, aussi infructueuse. Alors, le serrurier ouvrit, non sans peine, car la serrure était de qualité supérieure. Tous pénétrèrent dans la cour. Celle-ci, plus longue que large, était couverte d’herbe, sur laquelle se voyaient les foulées produites par des pas, et par les roues de l’automobile garée sous un hangar, à droite. Au milieu de la façade du logis, un perron, vert de moisissure, et à demi ruine, s’avançait, précédant une porte aux ferrures rouillées. Mais une forte serrure, beaucoup moins ancienne, fermait la petite porte que Gilbert désigna comme étant celle par où avaient passé Giuseppe et l’enfant.</p>
+        <p>Ce fut à celle-là que s’attaqua l’ouvrier. Elle résista longtemps. Le brigadier fit observer :</p>
+        <p>– Décidément, on cache dans ce triste logis quelque chose de bien précieux, pour prendre de pareilles précautions ! Je crois, en effet, que notre petite visite domiciliaire ne sera pas inutile.</p>
+        <p>Enfin, la serrure céda. Derrière les gendarmes – sauf les gardes qui demeuraient postés à l’extérieur – tous entrèrent dans un petit couloir, descendirent un escalier étroit, où l’obscurité s’amassait. Le brigadier déclara :</p>
+        <p>– Il nous faudrait de la lumière.</p>
+        <p>– J’ai bien des allumettes, dit l’autre gendarme. Mais ce n’est pas suffisant.</p>
+        <p>– À tout hasard je me suis muni d’une lampe électrique, déclara Gilbert.</p>
+        <p>Tirant aussitôt l’objet d’une des larges poches de son trench-coat, il alluma et en braqua le puissant faisceau droit devant lui. Alors, une vaste salle apparut aux yeux de tous. Un énorme pilier trapu, au milieu, soutenait la voûte basse. Dans chaque paroi, à droite et à gauche, se voyaient trois portes closes.</p>
+        <p>– Allons, Sauriot, il faut encore vous y mettre, mon garçon, dit le maire au serrurier.</p>
+        <p>Au hasard, une porte fut ouverte. Un caveau apparut, plein de marchandises variées : étoffes, dentelles, horlogerie...</p>
+        <p>– Tout un magasin, quoi ! conclut le brigadier, après avoir fouillé partout avec son sabre.</p>
+        <p>Mais Gilbert pressait pour qu’on violât le secret caché derrière les autres portes. Le serrurier se remit au travail... Dans un second caveau apparurent quelques très beaux meubles anciens, une petite glace au cadre délicatement ciselé, divers objets précieux parmi lesquels un collier en diamants et émeraudes, dans un écrin portant les initiales « M. S. » surmontées d’un tortil de baron.</p>
+        <p>Gilbert songea tout haut :</p>
+        <p>– Voilà sans doute où s’étaient réfugiés les tapisseries et le lustre de Caubreterre. Et ceci encore vient de la même source, sans doute !</p>
+        <p>La troisième porte s’ouvrit à son tour. Le gendarme dirigea vers le caveau la lumière de la lampe électrique. Un gémissement se fit entendre. Et tous virent, pelotonnée sur le sol, une enfant qui cachait sa tête entre ses mains.</p>
+        <p>Gilbert s’avança vivement...</p>
+        <p>– Ne craignez rien ! Nous sommes des amis...</p>
+        <p>Tout en parlant, il s’agenouillait, et, très doucement, écartait les petites mains maigres. Il vit alors les beaux yeux effrayés, dans un délicat visage émacié, trop blanc. L’enfant tremblait convulsivement. Gilbert l’entoura de ses bras, en répétant :</p>
+        <p>– Ne craignez rien ! Ne craignez rien ! Nous allons vous emmener d’ici, et ce misérable ne vous fera plus souffrir.</p>
+        <p>La petite fille essaya de parler. Mais une émotion trop forte la suffoquait. Elle ferma les yeux. Croyant qu’elle se trouvait mal, Gilbert s’écria :</p>
+        <p>– Il faut la porter dehors !</p>
+        <p>Avec l’aide du brigadier, il la transporta dans la cour. Mais elle n’avait pas perdu connaissance. Aussitôt au jour, elle rouvrit les yeux, regarda tour à tour chacun de ceux qui étaient autour d’elle... Peu à peu, elle comprenait qu’elle ne rêvait pas, qu’elle était bien sauvée... Et les yeux noirs changeaient d’expression, s’éclairaient de joie, dans le pauvre petit visage pâli, si délicatement modelé,</p>
+        <p>Elle demanda d’une voix faible, avec un léger accent étranger :</p>
+        <p>– Alors, vous allez me faire sortir d’ici ?</p>
+        <p>Elle s’adressait à Gilbert, qui, sans doute, lui semblait de tous le plus sympathique.</p>
+        <p>– Mais je crois bien, ma pauvre enfant ! Et nous vous remettrons à vos parents... Qui êtes-vous ? Comment vous appelez-vous ?</p>
+        <p>– Je suis la comtesse Litta Haltzen.</p>
+        <p>Le maire s’exclama :</p>
+        <p>– Haltzen ?... La comtesse Haltzen ? La fille du propriétaire de cette maison ?</p>
+        <p>L’enfant secoua la tête.</p>
+        <p>– Mon père est mort depuis cinq ans, et maman depuis deux ans. Je n’ai plus qu’un oncle, le comte Rudolph Haltzen,</p>
+        <p>– Bien oui, le comte Rudolph Haltzen... C’est à lui qu’appartient la moitié de la forêt, puisqu’il a hérité de sa nièce...</p>
+        <p>Et, subitement, il comprit... Tous comprirent.</p>
+        <p>– Mais, sa nièce, c’est vous... qu’on disait morte...</p>
+        <p>L’enfant répéta, d’un ton stupéfait : On disait que j’étais morte ?</p>
+        <p>Tous s’entreregardèrent. Gilbert murmura :</p>
+        <p>– Il y a peut-être là quelque chose de terrible.</p>
+        <p>Le brigadier eut un geste qui signifiait : « Je le crains ». S’adressant à l’enfant, qu’il considérait avec attendrissement, car il était un très bon père de famille, il demanda :</p>
+        <p>– Depuis combien de temps êtes-vous là, savez-vous, mademoiselle ?</p>
+        <p>– Oh ! je ne peux pas dire ! Il me semble qu’il y a des années... Et c’était si long, si long toute seule, dans ce caveau noir !</p>
+        <p>Elle frissonna, et l’horreur des jours passés se refléta dans son regard.</p>
+        <p>Gilbert, qui tenait sa main entre les siennes, la serra doucement,</p>
+        <p>– Ces mauvais jours sont finis. Quand vous serez mieux, pauvre petite, vous nous raconterez ce qu’on vous a fait, comment cet homme vous a enlevée...</p>
+        <p>Elle frissonna de nouveau et regarda le jeune homme d’un air suppliant.</p>
+        <p>– Oh ! je voudrais partir d’ici ! J’ai peur qu’il revienne !</p>
+        <p>– Vous n’avez pas à avoir peur au milieu de nous, ma petite fille.</p>
+        <p>– Oui, c’est vrai !... Mais, qui êtes-vous ? Je ne vous connais pas... Je ne vous ai jamais vus... Et, où suis-je, ici ?</p>
+        <p>– À la maison des Comtes, qui vous appartient, ainsi que je le devine, petite comtesse.</p>
+        <p>– À la maison des Comtes ?.... En France ?.... Dans le Jura ?...</p>
+        <p>– Oui, c’est cela.</p>
+        <p>– Mais comment ?... Comment cela s’est-il fait ?... Quand il m’a emportée, j’étais en Autriche, au château de Tresnatz...</p>
+        <p>– Vous ne vous êtes pas aperçue qu’on vous faisait voyager ?</p>
+        <p>– Non, je ne me suis aperçue de rien. Entre le moment où cet homme, sautant sur moi, tandis que je jouais dans le parc, m’a jeté sur le visage une étoffe qui avait une odeur très forte, et celui où je me suis réveillée ici, dans le caveau, je ne sais pas ce qui s’est passé.</p>
+        <p>– Il vous avait endormie, et vous a transportée ainsi.</p>
+        <p>Tandis que les autres continuaient la perquisition du vieux logis, Gilbert demeura près de l’enfant, avec les gardes, en cas d’arrivée inopinée de Giuseppe. Le jeune homme acheva de rassurer Litta, qui lui raconta toutes les souffrances endurées dans le caveau sombre, presque sans air, d’où l’italien la faisait sortir chaque jour pour une promenade d’une demi-heure dans la cour. Il lui attachait alors les mains, et la bâillonnait, pour lui enlever toute possibilité de jeter un appel au secours. Par ailleurs, il ne la maltraitait pas, sauf lorsqu’elle le suppliait de lui dire ce qu’elle avait fait pour être traitée ainsi, et de lui rendre la liberté. Elle était assez bien nourrie : mais la solitude, la privation d’air et d’exercice, la terreur des jours et des nuits, l’empêchaient de manger. Guiseppe se fâchait, grommelait de sourdes menaces. Aujourd’hui, ayant trouvé intact le repas de la veille, il avait dit : « Attends un peu, si tu n’as pas mangé ce soir ce que je t’apporte, je te gaverai demain, tu verras ! »</p>
+        <p>Gilbert gronda :</p>
+        <p>– Le monstre ! Il était temps que nous arrivions !</p>
+        <p>Litta murmura :</p>
+        <p>– Je pense que je serais morte bientôt, parce que je n’avais plus beaucoup de forces.</p>
+        <p>Elle était bien maigre, en effet, bien diaphane, la pauvre petite prisonnière – et si touchante, avec ses yeux tristes et si doux, son délicat visage, sa grâce fragile d’enfant affaiblie ! Déjà, Gilbert se sentait pénétré pour elle d’une sympathie profonde et attendrie.</p>
+        <p>– Ce Giuseppe, cet homme qui vous retenait ici, ne vous a jamais dit pour quel motif il agissait ainsi ?</p>
+        <p>– Non, jamais. Quand je lui demandais, il ne répondait pas, ou bien il se fâchait.</p>
+        <p>Après un court instant de silence, Gilbert demanda :</p>
+        <p>– Est-ce que votre oncle était bon pour vous ?</p>
+        <p>Elle secoua la tête :</p>
+        <p>– Il ne s’occupait pas de moi. Je ne le voyais presque jamais. Il m’avait confiée à Mme Muzet, une institutrice française que j’aimais beaucoup.</p>
+        <p>– Et cette dame était là, le jour où vous avez été enlevée ?</p>
+        <p>– Non, c’était justement pendant qu’elle se trouvait chez sa mère, malade, à Paris. Je me promenais seule dans le parc, pas très loin du château, quand l’homme s’est jeté sur moi.</p>
+        <p>– On a dit que vous vous étiez noyée. Y avait-il près de là un étang, une rivière ?</p>
+        <p>– Il y a le Danube ; il longe une partie du parc,</p>
+        <p>– Et vous n’aviez pas d’autres parents, en dehors de cet oncle ?</p>
+        <p>– Si, des cousins. Mais je les connais très peu. Maman était malade, depuis la mort de papa, elle vivait très retirée. J’étais toujours seule avec elle...</p>
+        <p>Des sanglots s’étouffèrent dans la gorge de l’enfant. Tout bas, Litta gémit :</p>
+        <p>– Oh ! Maman !... Maman !</p>
+        <p>De grosses larmes glissaient le long de son visage, Gilbert, en serrant bien fort ses mains frissonnantes, lui parla avec une réconfortante affection de grand frère. Elle murmura, en le regardant d’un air confiant :</p>
+        <p>– Oh ! maintenant, je n’ai plus peur, parce que je sens bien que vous êtes bon, vous, et que vous ne me laisserez pas retomber entre les mains de cet homme.</p>
+        <p>Le maire et ses compagnons apparurent bientôt. D’autres marchandises de contrebande avaient été découvertes dans les caves. Mais, dans la maison, rien de suspect n’était apparu.</p>
+        <p>– Maintenant, nous allons arrêter le coupable, ajouta le brigadier.</p>
+        <p>Il partit en avant avec son compagnon, le maire et le serrurier, qui s’offrait à leur prêter main-forte en cas de résistance de l’italien et d’assistance du père. Gilbert, soucieux d’épargner à l’enfant de nouvelles émotions, ne quitta le vieux logis qu’un peu plus tard, en compagnie des deux gardes, qui l’aidaient à porter Litta. Quand ils arrivèrent à Caubreterre, ils virent la porte ouverte et, sur le seuil, le maire qui les attendait visiblement.</p>
+        <p>– Eh bien ? demanda Gilbert.</p>
+        <p>– Eh bien, c’est fait, monsieur, mais pas sans peine. Les gendarmes les ont emmenés, pour qu’ils racontent leur histoire à ces messieurs de la justice. Ah ! les vilains renards ! Le père protestait, protestait d’abord !... Pour un peu, il aurait assuré que la petite fille était venue là toute seule ! Le Giuseppe, lui, ne disait presque rien, mais il avait des yeux en dessous !... Puis, voilà qu’ils se font un signe, et tous deux, en même temps, se jettent sur les gendarmes. Le fils sortait déjà un revolver... Je saute sur lui. Il ne se défiait pas d’un vieux bonhomme comme moi, ni de Sauriot qui est gringalet en apparence. C’était un tort. À nous quatre, nous les avons matés, sans autre mal qu’une petite éraflure à l’oreille du brigadier. On leur a mis les menottes, et les voilà partis, avec leur cas encore aggravé par cette attaque contre les représentants de la loi.</p>
+        <p>Là-dessus, le brave homme, visiblement soulagé d’avoir vu finir ainsi l’aventure, prit congé de Gilbert et redescendit vers Claveronnes, tandis que le jeune homme entrait au château avec ses compagnons.</p>
+        <p>La cour était déserte, le vestibule également. Dans l’ombre qui enveloppait l’escalier, Gilbert distingua une silhouette enfantine qui s’enfuyait... Il eut une pensée de pitié pour cette petite Rosa, si peu sympathique cependant, sournoise, hypocrite – mais qui n’était peut-être telle que par l’exemple et les préceptes de ses parents. Puis il reporta son regard sur Litta, dont la jolie tête lasse s’appuyait sur son épaule, et l’indignation le fit tressaillir, à l’idée que cet homme, ce père, avait pu faire souffrir ainsi une petite créature innocente, presque de l’âge de sa propre fille.</p>
+        <p>Laissant les gardes avec l’enfant dans une pièce voisine, il entra seul dans le salon où se tenait son grand-père. Celui-ci tourna vers le jeune homme un visage paisible, en demandant :</p>
+        <p>– Eh bien, ta promenade a été bonne, Gilbert ? Il est temps que tu rentres, je crois. L’air devient irrespirable, et l’orage doit menacer beaucoup ?</p>
+        <p>– L’orage ?... Je ne sais pas... Je n’ai pas fait attention...</p>
+        <p>M. de Sernailles enveloppa son petit-fils d’un regard surpris :</p>
+        <p>– Qu’as-tu ?.... Ta physionomie est toute troublée...</p>
+        <p>Il n’avait rien entendu, rien soupçonné de l’événement qui s’était passé tout à l’heure dans sa demeure. Ce salon était éloigné de l’entrée ; de plus, le vieillard était quelque peu dur d’oreille, Gilbert avait escompté cela. Car, il aimait mieux faire lui-même à l’aïeul cette révélation, pour lui amortir le saisissement d’une pareille nouvelle.</p>
+        <p>Le choc fut rude, néanmoins. D’une voix étouffée, M. de Sernailles répétait :</p>
+        <p>– Non, ce n’est pas possible !... Ce n’est pas possible !...</p>
+        <p>– Les preuves sont irréfutables, grand-père. Tout à l’heure, vous allez voir la pauvre petite fille... Et votre Bartholo, complice de son fils, était, lui aussi, un voleur... Tenez, voici la lettre de mon père, m’apprenant que les tapisseries n’ont jamais été confiées à la maison dont cet homme nous avait donné l’adresse, Elles se trouvaient dans un des caveaux de la vieille maison, avec le lustre, en compagnie des autres meubles et objets précieux qui y sont encore... et qui, sans doute, vous appartiennent aussi ?</p>
+        <p>Sur la description que lui en fit le jeune homme, M. de Sernailles reconnut, qu’en effet, meubles et bijoux avaient dû être soustraits de sa demeure – comme avance sur la part de son héritage escomptée par les intrus.</p>
+        <p>Le vieillard était anéanti. Subitement, une confiance de quarante années s’écroulait. Et il lui restait le remords d’avoir repoussé sa petite-fille sur les suggestions de ces êtres indignes.</p>
+        <p>Gilbert alla chercher Litta et l’amena près de l’aïeul. Quand celui-ci la vit venir, si jolie, si faible, appuyée sur le bras de Gilbert, il s’écria :</p>
+        <p>– Oh ! pauvre petite !</p>
+        <p>Et tendant les bras, il serra contre sa poitrine cette autre victime des Cledini.</p>
+      </div>
+      <div title="IX" type="chapter">
+        <head>IX</head>
+        <p> </p>
+        <p>Dès le lendemain Mme Cledini et ses enfants quittèrent Caubreterre, sans bruit, sans avoir cherché à revoir le baron, à disculper Bartholo et Giuseppe. Ceux-ci, sans doute, avaient fait leurs complices platoniques de cette femme et de ces enfants, qui s’en allaient aujourd’hui, tremblants, la tête basse, après avoir rêvé d’être les maîtres d’une grosse partie de la fortune des Sernailles.</p>
+        <p>Sur l’ordre de M. de Sernailles, la domesticité italienne fut aussi congédiée ce jour même. Le vieillard ne voulait plus voir autour de lui rien de ce qui lui rappelait les imposteurs, Clarisse Robienne monta à Caubreterre, avec une femme du village, pour faire le service en attendant que d’autres domestiques fussent engagés. Il lui fallut, aussi, s’occuper de la petite comtesse Litta, installée dans une des chambres du château. Dès le premier moment, l’enfant, douce et gracieuse, charmait tous ceux qui l’approchaient, à commencer par M. de Sernailles.</p>
+        <p>– Ce sera dur de la voir partir, confia-t-il à son petit-fils, quelques jours plus tard.</p>
+        <p>Gilbert répliqua :</p>
+        <p>– Eh bien, grand-père, si son oncle est reconnu coupable, mon père demandera la tutelle, et Litta restera près de nous.</p>
+        <p>Car Giuseppe avait fait des révélations. D’après lui, le comte Haltzen, voulant supprimer l’enfant qui détenait une grosse fortune, avait demandé à l’Italien, rencontré jadis par lui à Naples, de se charger de cette besogne, en échange d’une somme importante. Giuseppe s’était laissé tenter. Mais reculant devant le meurtre, prétendait-il, il avait simplement endormi la petite comtesse pour l’emmener à la vieille maison de la forêt.</p>
+        <p>– Mais qu’en auriez-vous fait, plus tard ? demanda le juge, vous ne pouviez pas la garder indéfiniment prisonnière ?</p>
+        <p>Giuseppe eut un geste vague.</p>
+        <p>– Oh ! plus tard !...</p>
+        <p>Et ceux qui étaient là comprirent qu’il avait escompté la mort par affaiblissement, qui le débarrasserait de l’enfant sans violence.</p>
+        <p>Ce que l’enquête apprit, plus tard, en même temps que la véracité des dires de l’italien au sujet du comte Haltzen, ce fut le chantage qu’avait commencé d’exercer Giuseppe sur l’oncle criminel, en lui apprenant que l’enfant vivait toujours et qu’il pouvait, d’un jour à l’autre, la faire reparaître, Là, se trouvait, évidemment, le véritable motif des scrupules du misérable au sujet du meurtre commandé,</p>
+        <p>Le comte se trouvait à l’étranger, au moment où se passaient ces événements. Il réussit à échapper à la justice de son pays, Giuseppe fut condamné aux travaux forcés, et son père à plusieurs années de prison comme complice et coupable, en outre, de vols au préjudice de M. de Sernailles. Tout le monde applaudit au verdict. Comme le dit un jour Clarisse à Gilbert, c’était un soulagement de voir enfin Caubreterre débarrassé des intrus.</p>
+        <p> </p>
+        <p>*</p>
+        <p> </p>
+        <p>Ces événements avaient fortement ébranlé le baron, étant donné son grand âge. Cependant, à la fin de septembre, quand Gilbert, que son père était venu rejoindre, dut repartir pour Saint-Cyr, le vieillard quitta, lui aussi, son Caubreterre où, disait-il, il lui serait impossible de demeurer seul maintenant. Dans un vaste hôtel du quartier Saint-Louis, à Versailles, où le commandant de Clercy était en garnison, ils s’installèrent tous – y compris Litta, dont M. de Clercy avait demandé la tutelle. L’enfant, de nature charmante et très affectueuse, s’était déjà attachée profondément à ses protecteurs. Sa santé ébranlée se remettait peu à peu, grâce aux soins dont l’entourait son ancienne institutrice, Mme Muzet, à qui le commandant avait demandé de revenir près d’elle. Entourée de tendresse, elle oubliait, peu à peu, les affres de son séjour à la vieille maison. Personne ne lui en parlait jamais. Et quand, aux vacances, elle se retrouva à Caubreterre, avec M. de Sernailles et les Clercy, Gilbert évita toujours de la faire passer aux alentours du triste logis, demeuré la terreur de la contrée, bien que Giuseppe, au cours de son procès, eût avoué être l’auteur des diableries qui avaient si fort effrayé naguère les habitants de Claveronnes.</p>
+        <p>À la fin de septembre, le vieux baron s’éteignit paisiblement, entouré de M. de Clercy, de Gilbert et de Litta, qu’il appelait « ma chère petite-fille ». Sa fin fut toute chrétienne, grâce au zèle discret de Gilbert. Quand son corps eut été déposé dans la sépulture des Sernailles, Caubreterre fut fermé, pour ne plus se rouvrir que rarement, lorsque le lieutenant de Clercy, envoyé au Maroc, venait y faire une apparition, au cours d’un congé.</p>
+        <p>Puis, Gilbert fut appelé en garnison à Lyon, et, un jour, tout le pays, autour du vieux domaine, apprit avec satisfaction qu’il épousait la jolie comtesse Litta.</p>
+        <p> </p>
+        <p>*</p>
+        <p> </p>
+        <p>Par un matin de septembre clair et frais, six mois après leur mariage, ils arrivèrent tous deux à Claveronnes en automobile. On se pressait autour d’eux, pour les saluer. Gilbert, sachant faire plaisir à ces braves gens qui avaient si fort applaudi à la défaite des intrigants, avait mis sa tenue d’officier, qu’il portait avec une extrême élégance. Il remerciait d’un air affable et gai, serrait les mains de tous, tandis que la blonde comtesse souriait et caressait les enfants, attirés par son doux regard. À Caubreterre, ce furent les gardes, les bûcherons qui offrirent leurs souhaits aux jeunes époux. Et l’intérieur du vieux château apparut tout orné de feuillage, disposé par Clarisse, aidée d’autres femmes du pays.</p>
+        <p>En revenant le lendemain d’une promenade dans la forêt, Gilbert dit à sa femme :</p>
+        <p>– Alors, Litta, c’est convenu, nous faisons abattre la maison des Comtes ?</p>
+        <p>Elle inclina affirmativement la tête. Puis elle dit en hésitant :</p>
+        <p>– Je voudrais la revoir auparavant.</p>
+        <p>– Cela ne vous émotionnera pas trop, ma petite Litta ?</p>
+        <p>– Non, je ne crois pas. Dix ans ont passé, depuis... et j’ai été si heureuse !</p>
+        <p>Dans la matinée du lendemain, ils se rendirent à la vieille maison. Le soleil, à cette heure, l’entourait de chaudes clartés. Cependant, elle restait lugubre, avec ses murs couverts de moisissure, ses barreaux de fer, ses volets clos derrière les vitres verdâtres. L’herbe poussait follement autour d’elle et dans la cour où achevait de pourrir le hangar sous lequel, autrefois, s’abritait l’automobile de Giuseppe. La porte de la maison, au-dessus du perron dégradé, s’ouvrit en grinçant. Une odeur de moisi, de poussière, de sépulcre, s’exhala du vestibule dallé. Cette odeur, Gilbert et Litta devaient la retrouver partout, dans les pièces vides où leurs pas éveillaient un écho sonore, dans les caves obscures où ils descendirent ensuite. En frissonnant un peu, Litta revit sa prison, le caveau sombre où elle avait passé des jours et des nuits de terreur. Bien vite, Gilbert l’emmena au-dehors, au clair soleil qui faisait la forêt si belle ce matin. Alors, Litta ne frissonna plus. Un peu de rose remonta à ses joues que la visite du vieux logis sinistre avait fait pâlir, et ses beaux yeux retrouvèrent leur vive lumière. Le long des petits sentiers ensoleillés, où l’air sentait la résine et la mousse humide, Gilbert et elle revinrent à Caubreterre, dont toutes les fenêtres ouvertes accueillaient la clarté du matin et le souffle pur des bois. Litta eut un sourire pour le vieux château que transformait la présence de sa jeunesse et dit, à mi-voix :</p>
+        <p>– Oh ! Gilbert, j’aime Caubreterre, et la forêt, et tout ici... Il n’y a que cette maison...</p>
+        <p>– Elle tombera quand vous le voudrez, Litta.</p>
+        <p> </p>
+        <p>*</p>
+        <p> </p>
+        <p>Elle tomba quelques semaines plus tard, sous la pioche des démolisseurs. Les vieux murs, solides encore en certaines parties, se désagrégèrent, jonchèrent le sol de leurs débris. Avec ceux-ci les caves furent comblées et, sur le sol nivelé, dès l’année suivante, l’herbe commença à pousser. Il ne resta plus dans le pays que le souvenir de la maison maudite, d’où, cette fois, les sept démons de la comtesse Hilda avaient dû s’enfuir honteusement. Mais aux étrangers qui s’arrêtaient à Claveronnes, on ne manqua pas, pendant longtemps, de conter la captivité de la petite comtesse Litta et les méfaits de Giuseppe, en ajoutant :</p>
+        <p>– Heureusement qu’elle n’était pas tout à fait morte, car sans cela nous n’aurions pas, au château, une si jolie dame, qui est bonne pour tous et que nous aimons bien.</p>
+        <p> </p>
+        <p>*</p>
+        <p> </p>
+        <p>Ainsi finit la vieille maison de la forêt, grâce à laquelle Gilbert de Clercy confondit les usurpateurs beaucoup plus vite qu’il ne l’avait pensé, et trouva la femme de ses rêves, la blonde et douce comtesse qui répandait le bonheur autour d’elle.</p>
+        <p> </p>
+        <p> </p>
+        <p> </p>
+        <p> </p>
+      </div>
+    </body>
+    <back/>
+  </text>
+</TEI>
