@@ -1,0 +1,921 @@
+<?xml version='1.0' encoding='UTF8'?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> Le carrosse aux deux lézards verts </title>
+        <author from="1867" key="" name="Boylesve, René" sex="male" to="1926"/>
+        <edition n=""/>
+        <editor name="Calmann-Lévy" where="1920"/>
+      </titleStmt>
+      <publicationStmt>
+        <date type="created" when="1920"/>
+        <date type="issued" when="1920"/>
+      </publicationStmt>
+      <editionStmt>
+        <profileDesc tag="non-canon" type="genre">
+          <textClass>
+            <keywords>
+              <term>fantastique</term>
+            </keywords>
+          </textClass>
+        </profileDesc>
+      </editionStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docAuthor/>
+        <docTitle>
+          <titlePart main="Le carrosse aux deux lézards verts"/>
+          <titlePart sub=""/>
+        </docTitle>
+      </titlePage>
+    </front>
+    <body>
+      <p> René Boylesve </p>
+      <p> Le carrosse aux deux lézards verts </p>
+      <lb/>
+      <lb/>
+      <lb/>
+      <div type="dedication">
+        <salute>
+          <p> À Gonzague Truc </p>
+        </salute>
+        <epigraph>
+          <p> LA NATURE A ATTACHÉ sa malédiction à l’immobilité.  Gœthe, Conversations.  Ils n’ont pas Virgile, et on les dit heureux parce qu’ils ont des ascenseurs. </p>
+          <p> Anatole France, Le Jardin d’Épicure. </p>
+        </epigraph>
+      </div>
+      <p></p>
+      <div title="Chapitre 1 Une espèce de dissertation littéraire sur la meilleure manière de traiter le sujet." type="chapter">
+        <p> Chapitre 1 </p>
+        <lb/>
+        <p> Une espèce de dissertation littéraire sur la meilleure manière de traiter le sujet. </p>
+        <p> MES LECTEURS, J’AIMERAIS MIEUX bavarder avec vous sans faire d’embarras, que de vous laisser tomber, comme la manne, du haut des cieux, un récit qui n’aura peut-être aucun goût, mais se donnera des airs d’avoir été composé par un être sans âge, sans sexe, insoumis aux lois de la pesanteur et de la vie, et écrivant à la façon de Moïse, sous la dictée de l’Éternel. </p>
+        <p> Car enfin, si un auteur ne cause pas tout simplement, c’est bien cette attitude surhumaine qu’il se donne. Je sais qu’il y a encore aujourd’hui nombre de gens à qui il ne répugne pas de se laisser duper par une autorité prétendue ; mais comment se fait-il que les mêmes soient acharnés, lorsqu’ils ont lu un livre, à obtenir mille renseignements sur la personne de l’écrivain ? Ce n’est pas la peine que celui-ci se soit fait passer pour un grand-prêtre, un initié, un inspiré, si tout aussitôt il doit vous communiquer son état civil, sa photographie, le menu de son repas, l’aveu de sa fleur préférée. Jeu cruel, qui consiste à se faire d’un homme, durant une heure ou deux, l’image d’une espèce de demi-dieu, et puis à le rabaisser soudain, voire à se délecter de ses petitesses ! </p>
+        <p> La vérité est qu’il y a des hommes très grands qui sont plus simples que le premier venu. Les pensées profondes, la haute sagesse, les riches constructions de l’imagination sont l’apanage de bonshommes qui ressemblent à tout le monde, et vivent comme vous et moi. Méfiez-vous de ceux qui donnent à leur vie une tournure extravagante : ce sont probablement des farceurs, de creux comédiens avides de leurrer l’âme crédule, et qui se dégonflent un beau matin, comme des ballons remplis de vent. Souvenez-vous que Corneille portait de fort mauvaises chaussures, que Racine fut bourgeoisement le père d’une nombreuse famille, et Stendhal un petit consul ennuyé, à Civita-Vecchia. </p>
+        <p> Nous n’écrivons pas dans les nuages. Un ange n’est point apparu pour me dire : « Prends ta plume et écris aux amateurs éclairés qui, depuis vingt-cinq ans, supportent la lecture de tes livres dénués d’intrigues et finissant mal. » </p>
+        <p> Non. Voici comment les choses se sont passées. </p>
+        <p> Je réfléchissais à un sujet de conte, choisi parmi ceux qui se rapportent le plus possible au temps présent, – on ne croit guère qu’aux aventures du temps présent, je ne sais pas pourquoi, – lorsqu’on vint m’annoncer la visite d’un jeune homme tout à fait moderne. Il venait me confesser qu’ayant jusqu’ici ignoré mes ouvrages, sous prétexte qu’il me tenait pour un Monsieur « arrivé », – il paraît qu’il est tout à fait superflu de connaître les auteurs qui se sont fait une réputation, – il avait été poussé à les lire par le mal extrême que l’on en disait, et, comme il était loyal, il désirait m’avouer que mes livres l’avaient touché ; seulement, et avec beaucoup de politesse et un entrain endiablé, il m’exprima aussi son regret sincère que je n’eusse point coutume de traiter des sujets plus actuels. « Qu’appelez-vous donc un sujet « actuel » ? lui demandai-je. – Comment ! monsieur, dit-il, mais le monde est renouvelé par les découvertes scientifiques. . . », etc. Et le voilà à m’énumérer les dernières merveilles : avions, torpilles, sous-marins, sans-fil, et les gaz asphyxiants récompensés par le prix Nobel. Bref, le roman, par exemple, des « Ondes hertziennes » traité par l’auteur de La jeune fille bien élevée, lui paraissait désirable. Je trouvais ce jeune homme charmant ; il était intelligent, informé, piqué par le goût de l’innovation, ce qui n’est pas pour me déplaire ; et, évidemment, seule lui échappait une expérience prolongée de la littérature. Je songeais : « A-t-il de la chance ! D’abord il est très jeune ; et il attache à une découverte scientifique l’importance que je donnais, de mon temps, au Réalisme dans nos parlotes de débutants ! Le sans-fil va plus loin que le réalisme, je le reconnais ; mais que sont ces prétendus perturbateurs au prix d’une ode d’Horace, d’un vers de Ronsard ou d’une de ces nonchalantes réflexions de Montaigne qui s’enlacent autour de vos membres et vous pénètrent pour la durée de la vie comme le lierre la muraille ? Il n’y a jamais eu, il n’y aura jamais qu’une sorte de littérature, c’est celle qui nous entretient de l’esprit et du cœur humains. Les accidents de l’état social ou des mœurs, comme l’esclavage antique, la féodalité au moyen âge, ou le merveilleux scientifique de nos jours, n’ont vraiment d’intérêt que dans la mesure où ils influencent notre manière de penser ou de sentir ; or les « Dialogues » de Platon, qui ne datent pas d’hier, n’ont jamais flatté davantage l’intelligence ; la femme de nos jours est aussi perfide que Circé ; et n’aime-t-on point encore comme faisait Didon ? Un monsieur qui nous eût raconté avec stupeur les premiers chemins de fer nous paraîtrait sans doute un peu coco. Je crois bien, moi qui vous parle et qui ai connu les diligences, avoir été un des premiers à narrer un voyage en automobile ; je ne voudrais pas le relire à présent, tandis que l’émoi d’une jeune fille à l’éveil de la première tendresse, qui fut sincèrement écrit il y a soixante ou cent ans, il me semble qu’il a conservé sa fraîcheur malgré tout ce que l’ingéniosité des hommes, à leurs moments perdus, a ajouté depuis lors aux arts chimiques et mécaniques. » </p>
+        <p> Et voyez, s’il vous plaît, comment les choses arrivent, et les hasards singuliers qui déterminent nos écrits ! Pendant que mon jeune homme parlait et pendant que je faisais, à part moi, les précédents retours, – que je me gardais bien de lui communiquer, parce qu’il se serait moqué de moi, vieille barbe, – je prenais la résolution d’abandonner le projet de conte choisi, lequel me paraissait tout à coup encore trop rapproché du temps présent, quoiqu’il ne le fût certes pas assez au gré de mon visiteur, et je faisais le serment de conter quelque aventure qui, non seulement n’eût aucun caractère scientifique, mais fût aussi invraisemblable que possible. </p>
+        <p> « C’est avoir l’esprit mal fait, me direz-vous, c’est procéder par réaction. » Hélas ! je sais bien que nous n’agissons presque jamais d’autre manière, mais ici, je jure que je ne pensais point à réagir ; j’aurais au contraire aimé à contenter mon visiteur : j’étais pour lui plein de reconnaissance, car il venait de m’éclairer en me montrant à quel point j’eusse été sot de donner dans les nouveautés. </p>
+        <p> « Mais ce n’est pas une raison pour écrire une histoire invraisemblable ! » Je vous demande bien pardon. À mesure que la littérature s’opposait pour moi, d’une manière définitive, à l’esprit scientifique, je reconnaissais que la véritable littérature était la littérature invraisemblable. Entendons-nous. </p>
+        <p> Voyons, ne prenez-vous pas en pitié tous ces écrivains qui se donnent un mal affreux pour agencer d’une manière véridique des séries compliquées de faits, lesquels, si bien imbriqués qu’ils soient, ne signifient rien du tout ? Que m’importent mille faits ingénieusement combinés, qui ne fournissent aucune lumière à mon esprit, aucune émotion durable à mon cœur ? Je vous en prie, croyez-moi : ce ne sont pas les faits qui doivent être vraisemblables, c’est le sens qui se dégage des images présentées à vos yeux. Si je vous dis qu’aidé d’un diable je soulève tous les toits de Paris ou de Madrid et vous montre la vie des hommes que ces couvertures abritent, le fait est nettement incroyable, mais ne nuit en rien au caractère véridique de l’histoire. Il n’est pas vraisemblable que le chêne ait dit jamais quelque chose au roseau : trouvez-vous que la fable de La Fontaine pèche par la base ? Les péripéties de Candide sont insensées : il n’existe pas à mon avis d’ouvrage plus vrai. </p>
+        <p> Ce qui est vraisemblable, hélas ! c’est que nous avons été de grands bêtas, en accordant une importance à des éléments qui n’en ont point, et en convertissant, comme nous-mêmes, la littérature au matérialisme. Les faits, ce sont des signes comme les mots. Une littérature qui arrive à conférer des dignités excessives aux mots est proche de la décadence ; si pareils honneurs sont rendus aux faits, la pauvre littérature perd son cerveau ; c’est une folle, une innocente de village, et sa chair même n’est pas belle, car c’est la vigueur spirituelle qui lui eût valu son principal agrément. </p>
+        <p> Mais voilà trop de pédanteries et j’ai hâte d’entreprendre le récit d’une aventure à laquelle il me plaît, je vous en avertis, de donner les apparences de la plus extravagante folie et de la plus surannée. </p>
+        <p> Je ne sais pas si vous avez lu les « Contes de ma Mère l’Oye ». On les connaissait de mon temps, et les grandes personnes n’en faisaient pas fi. Je n’en suis pas autrement entiché, mais leur absence de prétention, leur apparence de s’adresser aux enfants – comme l’œuvre de notre Fabuliste, qu’il faut être un grand sage pour comprendre – m’ont toujours séduit. Il vaut mieux avoir l’air de chuchoter de toutes petites choses au niveau de l’oreille des fourmis que de simuler qu’on embouche les trompettes du jugement dernier. Quelqu’un se trouvera, un jour ou l’autre, pour juger la valeur des choses qui auront été dites ou d’aussi bas ou d’aussi haut. </p>
+        <p> Veuillez donc me permettre de vous mener au cœur même d’une forêt, non d’une forêt d’aujourd’hui savamment exploitée ou saccagée pour les besoins de la guerre ; au cœur d’une bonne forêt d’autrefois où les arbres croissent à leur gré et ne meurent, la plupart du temps, que de leur mort naturelle. Cela ne forme pas un enlacement de troncs et de branches inextricable, car chaque plante se défend comme un homme, a horreur d’être incommodée par le voisin et tâche à être la plus forte afin d’exterminer qui la gêne. À défaut d’aboutir à cette extrémité toujours tentante pour un être vivant, eh bien ! l’on se retire sur soi-même, on raccourcit ses rameaux, on les dirige en hauteur, on se résigne à une taille fluette et un peu trop longue, mais du moins on est seul et ne se commet point, si l’on est bouleau, avec un sapin, si l’on est frêne avec un cornouiller. Les chênes sont maîtres, cela va de soi, et étouffent la gent myrmidonesque, par la musculature de leurs bras et l’épaisse ampleur de leur ombre. </p>
+        <p> Au beau milieu d’une telle végétation, vivaient en bonne intelligence un bûcheron nommé Gilles et sa femme, qui, étant demeurés assez longtemps – à leur grand désespoir – sans enfants, furent tout à coup favorisés de deux filles jumelles, autrement dit « bessonnes », comme il était d’usage de s’exprimer dans ce temps-là au fond des provinces. </p>
+        <p> Le bûcheron Gilles et sa bûcheronne n’étaient pas gens à se mettre en frais d’imagination pour trouver des noms à donner à leurs filles : ils les appelèrent sans barguigner Gillette et Gillonne. </p>
+        <p> Mais il s’agissait de faire baptiser les deux petites. </p>
+        <p> Quand je vous ai dit que tout ce monde-là gîtait au beau milieu d’une forêt, cela signifie qu’il était très loin de tout hameau ou village. De la chaumière, on n’entendait pas les cloches les plus voisines, même quand le vent portait. Aussi ce fut une expédition dans le genre de celle des Rois Mages, lorsque la mère, qui nourrissait les deux marmots, étant relevée de ses couches, se jugea en état d’aller jusqu’à l’église métropolitaine. </p>
+        <p> Il y avait bien quelques huttes de bûcherons dans les environs, où l’on ramassa un parrain et une marraine, peu reluisants, à la vérité, mais qui consentirent à faire la route – si l’on peut dire – à pied, et qui, entre nous, n’étaient pas fâchés qu’une occasion s’offrît à eux de voir des lieux habités. </p>
+        <p> L’humble cortège se mit en marche, de très bonne heure, un beau matin, après avoir soigneusement verrouillé les portes. </p>
+        <p> Nos bonnes gens étaient fort aises parce que le jour qui commençait à poindre devait être celui d’une de ces fêtes de famille dont on se souvient. </p>
+        <p> Mais ils étaient loin de soupçonner qu’ils dussent avoir sujet de se remémorer cette fête-là, et longtemps. </p>
+        <p> Après une marche d’une heure et demie sur la mousse, les champignons et les aiguilles de pin qui rendent le pied glissant, ils s’assirent afin que la mère prît un peu de repos et donnât le sein à ses poupons. Et celle-ci donnait, le sein droit et le sein gauche tout ensemble, afin de ne point perdre de temps ; et les deux jumelles emmaillotées, comme deux paquets croisés sur les genoux, s’accommodaient de cette double coulée et épuisaient gloutonnement les provisions maternelles. </p>
+        <p> Gilles, pendant cette opération, s’était écarté avec le bûcheron qui devait remplir les fonctions de parrain et avec quelques autres qui les accompagnaient pour l’honneur ; et, tous, ils examinaient en connaisseurs les fûts des hêtres et des chênes, fixant le prix au cours du jour. </p>
+        <p> Tandis qu’ils s’adonnaient à leurs calculs, ils furent distraits par des cris plaintifs issus d’un trou profond. Et, s’étant approchés de la margelle de ce puits, ils distinguèrent une vieille femme en haillons. </p>
+        <p> — Qu’as-tu, la mère ? lui dirent-ils ; est-ce le fait d’une femme de ton âge de passer la nuit à la belle étoile ? </p>
+        <p> — Hélas ! mes bons messieurs, dit la vieille, je me suis laissée choir en ce maudit lieu à la tombée de la nuit, qui m’a paru longue, car je pense que j’ai une jambe cassée. . . Mais que doivent penser, eux, mes pauvres enfants qui me croient morte à l’heure qu’il est ? </p>
+        <p> Les bûcherons descendirent dans le trou et se mirent en devoir de tirer de là la pauvresse. Elle poussait des cris de renard pris au piège, à quoi ils reconnurent qu’elle pouvait, selon son dire, avoir quelque membre rompu ; et ils étaient très embarrassés, car enfin ils ne pouvaient pas l’emmener ainsi à la ville, ni chez le rebouteur qui habitait loin en arrière. Alors, sans réfléchir davantage, ils la conduisirent à la mère Gilles, car, bien que les hommes médisent ordinairement des femmes, ils vont d’instinct vers elles dès qu’il s’agit de prendre conseil. </p>
+        <p> — Mon Dieu, dit la mère Gilles, en apercevant l’antique percluse, il faut remettre le baptême : ce n’est pas chrétien que d’abandonner une si pauvre femme en plein bois ! </p>
+        <p> Mais la vieille, à la vue des deux bessonnes, interrompit ses plaintes et dit : </p>
+        <p> — C’est à vous, madame, ces deux gentilles petites créatures ? </p>
+        <p> — Oui, fit la mère, et elles prennent bien, comme vous voyez ; ce sont deux filles, pour mon malheur. On a du mal à tenir cette engeance-là ; deux garçons auraient mieux fait mon affaire. . . </p>
+        <p> — Ne vous mettez point en peine, dit la vieille ; je vois que vous êtes de braves gens. . . </p>
+        <p> À ce moment, – écoutez-moi bien, – le jour parut dans toute sa splendeur, par une trouée qui se fit soudain dans les cimes, sous l’influence de l’air matinal. Et nul ne sut jamais comment se fit la chose : les bûcherons furent allégés de leur fardeau ; la vieille disparut ; tout gémissement s’éteignit. Et l’on vit, non sur le sol en vérité, mais bien au-dessus, à la hauteur d’au moins deux tailles d’homme, donc soutenue miraculeusement dans les airs, une dame d’une merveilleuse beauté. </p>
+        <p> Et cette dame, aussi brillante et non moins belle que le jour, s’adressa de là-haut aux bûcherons et aux bûcheronnes fort surpris. Sa voix avait la douceur et le charme du vent qui chante dans les ramures des pins : « Je suis, dit-elle, la fée Malice. Mais n’ayez pas peur de mon nom !. . . J’ai voulu éprouver votre cœur. Je vois qu’il y a encore, par le monde, quelques braves gens, du moins au fond des bois. Vous m’avez secourue : je ne demeurerai pas en reste avec vous, car, Dieu merci, je suis riche. Allez faire baptiser vos bessonnes, et, à votre retour, vous trouverez une surprise. . . » </p>
+        <p> Ayant dit ces mots, la fée Malice disparut beaucoup trop tôt, au gré de tous, car nul, parmi les gens présents, n’avait vu jusqu’ici une figure si admirable, ni entendu de paroles si suavement prononcées. </p>
+        <p> Alors un des bûcherons, qui était du cortège, fit mine de vouloir retourner, sans plus tarder, vers les cabanes, car il était anxieux de connaître la surprise qu’avait promise la fée. On l’arrêta par le fond de son pantalon, en lui faisant observer que la surprise n’était pas pour lui et que, s’il n’assistait pas comme tout le monde au baptême, la Fée serait bien capable de lui poser une taie sur les deux yeux. </p>
+        <p> Il suivit donc les autres, pas à pas, mais en grommelant ; et au bout d’une heure de marche, ayant ruminé dans son esprit de bûcheron, il dit à ses compagnons qui s’entretenaient de l’événement : </p>
+        <p> — Et alors, vous y croyez, vous ? </p>
+        <p> — À quoi ? firent-ils tous, hommes et femmes. </p>
+        <p> — Mais, à la fée. </p>
+        <p> — Le farceur ! et il voulait retourner sur ses pas pour ne point la perdre ! </p>
+        <p> — Je voulais retourner boire un coup, faute de quoi je me sens capable d’avoir encore des visions comme une fillette aux pâles couleurs. . . </p>
+        <p> Les autres bûcherons furent choqués de son impertinence, mais ce n’est jamais en vain que l’on entend émettre une idée, si mauvaise soit-elle, et principalement une qui tend à détruire quelque chose. </p>
+        <p> Un autre bûcheron dit : </p>
+        <p> — C’est peut-être bien l’éclat du jour qui nous a éblouis, ma foi. . . </p>
+        <p> — Éblouis ! éblouis ! dit la mère Gilles, et tes oreilles, et tes doigts ? Est-ce que tu n’as pas touché la vieille ? N’as-tu pas senti ses os pointus ? Ne s’est-elle pas évanouie pour toi comme pour les autres dans le même moment où la belle dame a paru en l’air et a dit pour nous tous les mêmes choses ?. . . Répète un peu ce qu’elle a dit ! </p>
+        <p> L’un répéta ce qu’il avait entendu. Mais il fut contredit par un autre qui avait ouï différemment. Comme on ne réussissait pas à tomber d’accord, l’incrédule bûcheron triomphait. </p>
+        <p> — Moi, je sais bien une chose, dit la mère Gilles, c’est qu’elle a promis de ne pas demeurer en reste avec nous, attendu qu’elle est riche, et en désignant mes filles, elle nous a annoncé une surprise au retour. . . </p>
+        <p> Mais il ne se trouva que son mari pour avoir entendu la même chose, car la bonne promesse s’adressait à son ménage et non point aux autres. </p>
+        <p> Et à mesure qu’il s’accréditait que la surprise était réservée aux bessonnes, la croyance à la fée faiblissait, et même elle était réduite à néant avant que l’on eût atteint la ville. </p>
+        <p> Tant et si bien que Gilles et sa femme eux-mêmes finissaient par concevoir quelque inquiétude. </p>
+        <p> Cependant, il se produisit, en pleine ville, une chose étonnante. C’est qu’aussitôt les bessonnes présentées aux fonts baptismaux, les cloches sonnèrent à toute volée, bien que les pauvres parents n’eussent point eu le moyen de faire les frais du carillon, ce qui causa un grand émerveillement et attira un fort concours d’oisifs à l’entour de l’église. Or, lorsque le cortège sortit, ne voilà-t-il pas que des gamins se trouvèrent là, assez proprement habillés, ma foi, et qui semaient des dragées à grands gestes, comme on répand le blé dans les sillons, et ces gamins tiraient ces sucreries de corbeilles toutes neuves, profondes, et que nulle prodigalité n’épuisait. </p>
+        <p> On supposa que les bûcherons avaient de puissants protecteurs dans l’endroit ; cependant on ne les vit ni monter au château, ni franchir le porche d’aucun hôtel opulent. Ils allèrent tout simplement à l’auberge du Cheval Blanc, mangèrent et burent en gens économes, de quoi ils eurent vif regret, à la vérité, quand, voulant solder leur écot, ils apprirent que leur repas était payé. </p>
+        <p> Je vous laisse à penser si tout cela donna lieu à facéties de la part des bûcherons incrédules qui voulaient bien admettre quelque tour de sorcellerie, quoiqu’ils n’eussent point vu de sorcier, mais qui refusaient d’admettre la fée que cependant ils avaient tous vue, touchée et entendue. </p>
+        <p></p>
+      </div>
+      <div title="Chapitre 2 La surprise." type="chapter">
+        <p> Chapitre 2 </p>
+        <lb/>
+        <p> La surprise. </p>
+        <p> QUE LA MÉMOIRE DES hommes est donc courte !  Nos gens n’avaient pas fait quatre lieues sur le chemin de retour – songez que l’on se relayait pour porter les marmots – et juré une bonne douzaine de fois le nom du Seigneur, à cause du sol rocailleux, des éboulis et des ornières profondes, qu’aucun d’eux ne se souvenait de ce qui était arrivé durant le séjour à la ville, ni de la discussion sur la croyance à la Fée ou à la sorcellerie, ni même enfin de la Fée ! </p>
+        <p> Ils pensaient à la fatigue de leurs membres et à la nuit qui, à leur gré, tombait un peu trop vite. C’est qu’il leur allait falloir tantôt se diriger sous bois. </p>
+        <p> La nature humaine est curieuse aussi, reconnaissons-le ! Voilà de pauvres hommes ruraux à qui est échue aujourd’hui l’aubaine d’un secours extraordinaire : ne point avoir à solder les frais de leur petite ripaille ! Eh bien, ils se trouvent, les ténèbres tombées, dans un chemin malaisé : pas un d’eux à qui vienne l’idée qu’un véhicule pourrait paraître tout à coup et les transporter commodément au logis. Ils sont si peu accoutumés aux gâteries du sort que, lorsque celui-ci par hasard leur sourit, ils en demeurent plus stupéfaits que reconnaissants, et, ne pouvant s’expliquer l’accident heureux, ils le nient. </p>
+        <p> Bien leur prit, d’ailleurs, de ne point s’attendre à des merveilles ce jour-là, car il ne s’en produisit aucune. Les bûcherons eurent beaucoup de mal à rentrer chez eux ; ils s’égarèrent plusieurs fois ; les femmes épuisées durent s’asseoir tandis que le temps précieux s’écoulait et faisait grommeler les hommes rudes. </p>
+        <p> Quand le père Gilles, sa bourgeoise et les deux nouvelles chrétiennes franchirent enfin le seuil de leur cabane, rien n’y était changé, et ils s’endormirent simplement, du sommeil qui suit les journées de fatigue. </p>
+        <p> Et le lendemain, le travail reprit, tout comme à l’ordinaire. </p>
+        <p> Et il en fut de même pendant plusieurs années. Je dis bien : plusieurs années. </p>
+        <p> De sorte que, si, par hasard, à la veillée, les bûcherons voisins se réunissaient et se prenaient à deviser sur les choses passées, – car celles-ci reviennent au coin du feu taquiner la mémoire paresseuse, – qui donc, s’il vous plaît, se trouvait avoir raison ? C’étaient les incrédules. Aussi, que de gorges chaudes au sujet de la prétendue fée Malice, et du carillon et des dragées et du déjeuner aux frais de la princesse ! N’y a-t-il pas partout des farceurs, disaient-ils, et des gens fortunés qui se plaisent à jouer des tours, même favorables ? </p>
+        <p> À la vérité, le père et la mère des deux petites filles avaient le dessous ; et, bien que les promesses féeriques eussent été faites en leur faveur, ils n’y ajoutaient plus aucune foi. </p>
+        <p> Cependant, il se passait, sous la hutte, des choses qui, pour minces qu’elles fussent, ne laissaient point d’être notables en un ménage qui gagne péniblement sa vie et pour qui un sou est un sou. </p>
+        <p> C’est que, tout justement, quand la mère Gilles en était au chapitre de ses comptes, il arrivait, ce qui est bien aussi étrange qu’un carillon gratuit ou la visite d’une fée, que ses comptes se réglaient par un excédent de recettes et jamais par un déficit. </p>
+        <p> La première fois qu’elle en fit la remarque à son homme, celui-ci n’en fut point du tout si content que vous pourriez croire, et il obligea la malheureuse à recommencer dix et vingt fois ses calculs, et il les fit lui-même. Les piécettes d’argent étaient là ; non qu’il plût, à vrai dire, des sacs d’écus dans les armoires ; mais, sou par sou, l’un arrondissant l’autre, le magot, au bout d’un temps, représentait de belles et bonnes économies. Et ceci ne s’était encore jamais vu, de mémoire d’homme. </p>
+        <p> Mais comme ces bénéfices extraordinaires ne se réalisaient, à chaque coup, que sous les apparences d’une somme minime, on ne leur attribua aucun caractère inquiétant ; mieux même, on en vint à s’y accoutumer si bien qu’à supposer que l’excédent indu se fût trouvé inférieur à celui de la veille, c’eût été ce dernier cas qu’on eût jugé suspect. </p>
+        <p> Gilles usait sagement de ses économies. Il acheta quelques lopins de terre qui se muèrent bientôt en arpents ; et il allait de temps en temps à la ville, et plus volontiers seul qu’en compagnie, afin d’y faire des prêts au denier dix. </p>
+        <p> Ne parla-t-on pas d’un procès qu’il eut à soutenir pour avoir été seulement frustré de quelques livres tournois, et qu’il eût gagné d’ailleurs, car il y avait dès ce temps-là une justice ? </p>
+        <p> Toujours est-il que Gilles fut mis, à cette époque, en grand émoi, d’abord parce qu’il n’admettait pas qu’on lui dérobât son argent, ensuite parce que cette sotte affaire le signalait dans le pays comme détenteur d’une petite fortune, ce qui pouvait tenter les voleurs et détrousseurs. </p>
+        <p> Quoi qu’il en soit, la chose était désormais notoire : le bûcheron avait du bien, ce qui, de tout temps, excita, en même temps que pillerie et convoitise, la considération des hommes. </p>
+        <p> Et l’on venait, de plusieurs lieues à la ronde, visiter les époux Gilles, le dimanche. </p>
+        <p> Ces réunions étaient composées d’hommes maniant la cognée, de leurs compagnes et d’une nombreuse marmaille. On leur distribuait du lait, du vin blanc, des rôties : la mère Gilles excellait à faire ce que l’on appelle du « pain perdu ». Son mari trouvait que cela lui coûtait cher, et elle avait beau lui prouver après coup que, quelle que fût la dépense, le petit excédent à son avantage était le même le dimanche que les autres jours, le bûcheron lui répliquait : </p>
+        <p> — Alors il faudrait voir si, ne faisant, le dimanche, nulle dépense, l’excédent ne serait pas beaucoup plus fort !. . . </p>
+        <p> Et ils essayèrent, un dimanche, de simuler qu’ils n’étaient pas là ; ils enfermèrent les bessonnes au cellier, clôturèrent portes et fenêtres et dormirent tout le jour. </p>
+        <p> Le soir on fit ses comptes. En effet, la somme que l’on eût pu passer ce tantôt au chapitre des générosités amicales, était là, bien là, sonnante et trébuchante, avec le petit excédent en outre. </p>
+        <p> — Tu le vois, ma femme ! Ne te l’avais-je pas dit ? Et il suffisait d’avoir un peu de bon sens pour en être assuré. . . </p>
+        <p> Il trouvait la chose logique et naturelle. Et l’avantage, il le tenait, désormais, comme à lui dû personnellement. </p>
+        <p> Mais, voici qu’il ne voulait plus, à présent, entendre parler de servir à ses compagnons et voisins le lait, le vin blanc, les rôties et le pain perdu ! À cette lubie, sa femme, heureusement, mit le holà : elle était moins intéressée que lui ; de plus elle aimait la compagnie ; enfin elle affirmait que ses filles étaient d’âge maintenant à ne point vivre en recluses ou comme des lapins sous leur toit : elles auraient un jour une dot ! </p>
+        <p> — C’est vrai, dit l’heureux père. </p>
+        <p> Et il se prit, dès cette heure, à regarder ses filles d’un œil nouveau. C’étaient des filles de bûcheron, oui, mais qui, par le diable, auraient une dot. Et il décida, quoique les petites fussent bien éloignées de cette échéance, qu’elles ne se marieraient point avec des gars du voisinage, mais avec deux beaux jeunes gens de la ville. </p>
+        <p> — Tu me fais rire, dit la mère : elles vont tout juste sur leurs six ans !. . . </p>
+        <p> — Je veux, déclara le père, qu’elles sachent lire. </p>
+        <p> — Et écrire aussi ! pourquoi pas ? dit la mère en se tenant les côtes. Feraient-elles pas mieux, je te le demande, de rester honnêtes ? </p>
+        <p> — Elles sauront lire et écrire ! s’écria le père. </p>
+        <p> Et il n’en démordit pas. </p>
+        <p> Tel fut, dès lors, l’objet de son souci. </p>
+        <p> Mais comment deux filles de bûcheron, vivant au centre d’une forêt immense et ne fréquentant que des ignares, pourraient-elles devenir savantes ? Il n’y avait pas un monastère à moins de dix lieues de là, encore était-il d’hommes. </p>
+        <p> Voilà à quoi songeait le papa Gilles, un jour, assis sur une bille de chêne, non loin de sa cognée au tranchant courbe et brillant. </p>
+        <p> Et tandis que son regard était attiré par le foyer lumineux que formait, frappé par le soleil, son fidèle instrument de travail, il entendit, pour ainsi dire à ses pieds, une petite voix toute menue qui disait : </p>
+        <p> — Es-tu bête !. . . Cornichon. . . Es-tu bête !. . . </p>
+        <p> Il se retourna vivement, ne pouvant avec vraisemblance attribuer ce propos qu’à sa femme. Cependant celle-ci n’était point dans les environs, non plus qu’aucun être humain. Mais il vit un petit lézard, le cœur essoufflé sans doute d’avoir à traîner une queue si longue. </p>
+        <p> — Tu te chagrines, reprit la voix menue, comme tous les gens qui ont trop de chance. . . </p>
+        <p> — Ah çà, est-ce toi, Lézard, fit le bûcheron, qui te mêles de m’adresser la parole ? </p>
+        <p> Aussitôt le lézard disparut sous la grosse bille de bois. </p>
+        <p> Le bûcheron se prit à réfléchir. </p>
+        <p> Et voyez comme les choses s’arrangent ! Tandis qu’il songeait à la petite bête à longue queue, voilà qu’il vit au loin, sous bois, du côté du soleil couchant, non seulement le plus étrange spectacle imaginable, mais un spectacle qui rappelait l’objet de sa pensée vagabonde. </p>
+        <p> C’était, s’il vous plaît, un carrosse. Un carrosse, oui, en pleine forêt, ce qui est déjà peu croyable ; et un carrosse attelé, non pas de chevaux, mais de lézards verts, fabuleux, grands comme des percherons. </p>
+        <p> Gilles se frotta les yeux, car il croyait rêver. Mais lorsqu’il les eut ouverts de nouveau, son ouïe vint confirmer ce que lui affirmait sa vue folle. On n’entendait point les sabots d’un attelage qui d’ailleurs filait à une allure inusitée, mais l’on distinguait nettement les sauts et soubresauts des grandes roues ferrées, sur le sol inégal et sur les brindilles pétillantes. Comment un tel équipage ne se brisait-il pas aux mille détours nécessaires pour éviter soit un tronc, soit un bouquet de baliveaux ou bien un entonnoir tel que celui d’où jadis avait été retirée la fée sous figure de vieille ? C’était miracle assurément ; mais cela tenait aussi à l’extrême dextérité de cette paire de lézards géants qui se faufilaient dans la forêt aussi aisément que fait un ordinaire lézard parmi la pierraille. </p>
+        <p> Ces lézards, ai-je dit, étaient verts, d’un vert que je ne saurais que ternir par la plus flambante épithète, disons du plus beau des verts. Ils dressaient leur fantastique queue, avec quelle habileté, je vous le laisse à penser, car il s’agissait pour ces monstres de ne point la laisser écraser sous les roues. Ah ! par exemple, ne se privaient-ils pas d’en battre les grosses joues et le nez rougeaud du cocher qui s’efforçait de rire, mais transpirait : il eût eu chaud à seulement assujettir son chapeau que les queues fouettaient par cruelle facétie, semblait-il. </p>
+        <p> Quant au carrosse, il était superbe. Il était du genre de ceux qu’aimait mon cher et regretté ami, le peintre La Touche, mais ce carrosse-ci était de jade et d’émeraude. Et la quantité de ces verts, et ces formes baroques et admirables, parmi les verts infiniment variés de la forêt caressée d’en haut par la lumière d’été, composaient un spectacle de nature à émouvoir un bûcheron rêvasseur, ami des sous-bois, troublé de vivre à l’heure où les bêtes parlent, et, par-dessus tout, piqué du souci de la future grandeur de ses filles. </p>
+        <p> Il ne vit pas approcher de lui un objet aussi peu coutumier, sans tendre sa main vers la fidèle cognée appuyée comme lui-même à la bille de bois. Il savait, tudieu ! manier l’instrument qui met à bas les plus puissants chênes, et, ma foi, il ruminait dans ce moment-ci de trancher pattes et queues à ces lézards démesurés qui, aussi bien, commençaient déjà à lui donner de l’humeur. </p>
+        <p> Il l’eût fait si ce satané attelage n’eût couru un train hors de toute comparaison avec la vitesse que l’esprit d’un homme sensé peut concevoir. En effet, le carrosse et son attelage soufflant étaient déjà là, mais là, ce qui s’appelle là, à cinq ou six coudées devant la bille de bois ; et, de l’intérieur du carrosse, sortait une voix, ou plus exactement sortaient deux voix de femmes qui, tout en se contrariant, comme deux notes de musique moderne, disaient exactement la même chose, à savoir : </p>
+        <p> — Bonjour, Gilles, notre cher voisin ! </p>
+        <p> Le carrosse était trop beau, les dames trop polies. Nonobstant les lézards, Gilles ôta son chapeau. </p>
+        <p> Le valet de pied avait sauté à la portière. Une des dames descendit. Elle était fort bien mise et vêtue d’une robe et d’un chapeau rappelant les couleurs éclatantes du jour. L’autre, au contraire, et qui paraissait du même âge, affectionnait les teintes plus effacées. Ni l’une ni l’autre n’étaient vieilles, et elles n’étaient pas non plus jeunes. Elles s’étaient prises de bec dans la voiture, cela était évident à leur teint animé, à leurs regards acérés, mais elles appartenaient non moins certainement à la meilleure compagnie et, vis-à-vis de l’étranger, elles savaient présenter les figures les plus avenantes. </p>
+        <p> La première dit : </p>
+        <p> — Nous venons de faire un voyage exquis. </p>
+        <p> — Le voyage que nous venons d’accomplir, dit l’autre, ressemble à la plupart des voyages : il n’a pas été sans agréments ni sans incommodités. </p>
+        <p> Le bûcheron les considérait, tout en faisant tourner son chapeau. Elles l’avaient nommé chacune « Mon cher voisin » !. . . Elles lui rendaient compte d’un voyage qu’il ignorait totalement. Il pensa avoir affaire à des femmes démentes. </p>
+        <p> L’une d’elles fit au cocher rougeaud : </p>
+        <p> — Allez ! </p>
+        <p> Et ce ne fut ni sans satisfaction, ni toutefois sans angoisse, que Gilles vit s’éloigner l’attelage diabolique, à une allure vertigineuse. Ne plus sentir si près de soi les lézards aux goitres haletants et à la queue de dragon, c’était certes délivrance ; mais est-ce que ces deux pécores, à présent, allaient lui demeurer sur les bras ? </p>
+        <p> Mû plutôt par le sentiment de l’intérêt que par celui de la politesse, le bûcheron dit aux deux femmes : </p>
+        <p> — Quoi ! mesdames, vous donnez congé à votre équipage ?. . . </p>
+        <p> — Peuh ! firent-elles, ne sommes-nous pas à deux enjambées de chez nous ?. . . </p>
+        <p> Gilles laissa tomber sa cognée qu’il avait jusque-là tenue par le manche, et il se pinça fortement pour savoir s’il était vivant : </p>
+        <p> — À deux enjambées ? répéta-t-il. </p>
+        <p> — À combien estimez-vous, cher voisin, la distance d’ici à nos deux pavillons ? </p>
+        <p> — Deux pavillons !. . . répéta, comme un écho, le bûcheron complètement ahuri. </p>
+        <p> Et, ce disant, il se retourna, regardant du côté de sa propre demeure que les dames semblaient désigner du geste. </p>
+        <p> Et il vit en effet à quelque deux cents pas de sa chaumière d’où une fumée bleue s’échappait, deux pavillons, deux pavillons voisins sans qu’ils se pussent confondre, deux pavillons cossus, non pas tout à fait semblables, mais d’importance égale, deux pavillons qui n’avaient pas l’air de dater d’hier, car la belle patine du temps dorait la pierre meulière dont ils étaient construits ; et une fine mousse bleuâtre agrémentait l’ardoise des toitures et les petites lucarnes percées en œil-de-bœuf. </p>
+        <p> Cet homme robuste crut s’évanouir. Jamais la forêt n’avait été habitée par une personne de qualité, et il n’avait été construit sous bois d’autres demeures que les huttes couvertes de bruyères. Cependant les deux pavillons étaient là ; ils lui crevaient les yeux, si l’on peut dire ; et c’étaient deux maîtres pavillons ! </p>
+        <p> Gilles ne poussa pas un cri, ne hasarda pas une parole de nature à laisser accroire qu’il ignorait les pavillons. La main en abat-jour sur les yeux, il dit : </p>
+        <p> — En effet !. . . en effet !. . . Ces dames n’ont que deux enjambées à faire. . . </p>
+        <p> — Nous ne voyons pas assez vos bessonnes, dit l’une des dames, il faudra nous les envoyer : que diable ! les voilà d’âge à apprendre à lire et à écrire. . . </p>
+        <p> Le pauvre bûcheron, ébaubi, saluait, saluait les deux fantômes qui trottinaient sur les aiguilles de pin. Il crut fermement qu’ils allaient s’évaporer comme une brume. </p>
+        <p> Le carrosse avait disparu aussi rapidement qu’un mulot ordinaire sous la brande. Et Gilles croyait voir bientôt rentrer sous terre les deux pavillons, aussi vite qu’ils en étaient sortis. </p>
+        <p> Point du tout. Les dames diminuaient à ses yeux exactement comme des personnes réelles qui s’éloigneraient à petits pas ; et il les vit nettement pénétrer, chacune en son pavillon, comme une poupée dans sa maisonnette. </p>
+        <p> Et une demi-heure, et une heure après, les pavillons étaient encore là, debout, solides, et d’aplomb ; même, un rayon de soleil baissant, qui frappait une de leurs vitres, reflété par elles, illuminait toute la région forestière. </p>
+        <p> Quand l’heure de rentrer fut venue, non pas auparavant, malgré la tentation qu’il en eut, le bûcheron rentra chez lui pour souper. </p>
+        <p> Il dit à sa femme : </p>
+        <p> — Mes filles sauront lire et écrire. </p>
+        <p> La mère haussa les épaules : </p>
+        <p> — Et qui c’est-il, fit-elle, sur un ton de dérision, qui leur apprendra ces belles choses ? </p>
+        <p> — Elles auront, chacune, une maîtresse, comme les filles de monsieur le duc !. . . </p>
+        <p> — Mon homme, tu n’es plus bon qu’à mettre à l’asile, c’est certain. Mais, je me souviens, à propos, ajouta-t-elle, n’est-ce pas toi qui, jadis, crus, de tes yeux, voir une fée ?. . . </p>
+        <p> — Ça, c’étaient des lubies, dit le bûcheron, mais n’empêche que mes filles auront, dès demain, chacune pour maîtresse une dame de grande naissance. </p>
+        <p> — Mange ta soupe, pendant qu’elle est chaude, mon pauvre vieux, dit la mère. . . Tu as trouvé des dames de grande naissance sous ta bille de bois !. . . </p>
+        <p> — J’ai reçu des propositions, dit Gilles, en se rengorgeant. </p>
+        <p> — D’un pic-vert ou bien d’une merlette, sans doute ? </p>
+        <p> — Non, mais des deux dames, nos voisines. . . </p>
+        <p> — Nos voisines ?. . . </p>
+        <p> — Enfin, celles qui habitent les pavillons. . . </p>
+        <p> — Les pavillons ? </p>
+        <p> Et cette fois, la mère Gilles s’écarta de son mari et eut peur. Les deux bessonnes elles-mêmes s’arrêtèrent de mordre leur tartine, et, la bouche ouverte, elles avaient des moustaches de fromage blanc, montant jusqu’aux pommettes. </p>
+        <p> — Eh bien ! fit le bûcheron, qu’est-ce donc que j’ai dit ? </p>
+        <p> — Tu as dit « les pavillons », mon pauvre homme ! </p>
+        <p> — Oui, je l’ai dit. Je ne peux pas dire : les taupinières ! </p>
+        <p> La mère fit signe qu’elle ne parlerait pas plus longtemps de ce sujet et elle commanda à ses filles de se tenir convenablement, car les bessonnes commençaient à se moquer de leur père. </p>
+        <p> Quand celui-ci eut fini de souper, il essuya son couteau, le ferma et le mit dans sa poche, selon la coutume des hommes de la campagne, et il dit à sa famille : </p>
+        <p> — Allons faire un tour à la brune. </p>
+        <p> — Vas-y avec les fillettes : ce n’est pas prudent d’abandonner la maison. </p>
+        <p> — Je tiens, dit le père, que chacun ici mesure exactement le temps qu’il faut aux petites pour se rendre à l’école. </p>
+        <p> Plus morte que vive, assurée d’avoir affaire à un homme perdu quant à l’esprit, la bûcheronne, après avoir soigneusement essuyé la bouche des bessonnes, ferma son huis avec l’attention qu’elle apportait à toute chose. Et, résignée aux pires extrémités, elle suivit son maître avec ses enfants. </p>
+        <p> La nuit, même en forêt, n’était pas complètement répandue. Deux minutes étaient à peine écoulées, que la mère Gilles tomba sur son derrière sans pousser un seul cri. Et elle s’obstinait à ne pas regarder dans une certaine direction, et elle voulait à toute force revenir vers sa chaumière. </p>
+        <p> Mais les bessonnes, comme leur maman, avaient aperçu les deux pavillons, et, elles, au contraire, émerveillées, voulaient aller vers ces jolies demeures. Elles tiraient leur mère par les bras. </p>
+        <p> On arriva rapidement au pied des pavillons. La mère était muette, les fillettes enthousiasmées comme de toute nouveauté. Le père toucha du doigt le flanc des murailles et voulut que sa femme fît comme lui. À ce moment on entendit un chien aboyer derrière les grilles, et un autre chien répondit du pavillon voisin. On distinguait, entre les volets rabattus, sur la cour, à plusieurs fenêtres, une raie lumineuse. </p>
+        <p> Entre les barreaux de la grille, une grosse balle d’étoupe, à la fois pesante et molle, se détacha et tomba aux pieds de la famille : </p>
+        <p> — Mais, c’est Minou ! Regarde, maman, c’est Minou !. . . </p>
+        <p> C’était le chat de la maison, qui ondulait de la tête au bout de la queue, et offrait son échine aux caresses. </p>
+        <p> Et dire qu’on se demandait où le vaurien passait la nuit ! </p>
+        <p></p>
+      </div>
+      <div title="Chapitre 3 Les pavillons, les perroquets et les deux dames." type="chapter">
+        <p> Chapitre 3 </p>
+        <lb/>
+        <p> Les pavillons, les perroquets et les deux dames. </p>
+        <p> ET L’ON SE PORTA vers l’autre pavillon, fermé également par une grille. Minou suivit : il connaissait tous les lieux. Dans la cour, le chien aboyait toujours, et l’on voyait à deux fenêtres, entre les lamelles des persiennes, de petites barres horizontales et lumineuses. </p>
+        <p> La nuit était complète à présent et la lune commençait à donner sur la clairière. À sa lueur, qui jouait sur les toitures, on distinguait une herbe fine entre les pavés de la cour. </p>
+        <p> — Ce n’est pas loin, dit Gilles : mes enfants, demain, vous viendrez là et vous apprendrez à lire et à écrire ! </p>
+        <p> Les petites ne se tenaient pas de joie. Leur mère demeurait pétrifiée. </p>
+        <p> Le père, lui, faisait le malin, et, sur le chemin du retour, il dit : </p>
+        <p> — Que serait-ce si je vous parlais du carrosse et des lézards verts !. . . </p>
+        <p> — Tais-toi, lui dit sa femme ; j’en ai assez, et attendons le grand jour. </p>
+        <p> Elle pensait encore, en son for intérieur, que tout cela était songe et fantasmagorie et que la forêt se retrouverait au matin dans l’état où on l’avait toujours vue. </p>
+        <p> Cependant, elle dormit mal ou ne dormit point, et elle fut debout de bonne heure. Elle sortit aussitôt : les deux pavillons étaient là, sous la saine lumière du jour comme sous la lueur de la lune propice aux enchantements. </p>
+        <p> Quant à y envoyer ses deux fillettes, ah ! non. </p>
+        <p> Alors le père annonça qu’il les y conduirait lui-même, que d’abord c’était chose convenue avec « ces dames », et secondement qu’il ne se souciait pas de revoir venir au-devant des petites le carrosse avec ses lézards. </p>
+        <p> — J’ai eu moins de terreur, dit là-dessus la mère Gilles, en entendant autrefois un père capucin décrire les cavernes de l’Enfer, qu’en voyant, de mes yeux, s’accomplir de petites choses quasi comiques, mais qui confondent l’entendement. . . </p>
+        <p> Le lendemain était un dimanche. On habitait ici trop loin de tout pour songer à aller à la messe, aussi n’y assistait-on que le jour de Pâques. Dès le matin, quoiqu’il n’imaginât point de leçon qui fût possible un tel jour, le père Gilles estima que les convenances exigeaient des petites une visite à leurs maîtresses. </p>
+        <p> On vêtit les bessonnes de leurs plus beaux atours, et on les regarda s’éloigner, unies par la main, vers les grilles que l’on avait touchées la veille au soir et d’où était tombé Minou. Il fallait la présence de Minou là-bas, où le chat semblait comme chez lui, – voire mieux, puisqu’il y restait, – pour rassurer la mère qui, par ailleurs, croyait envoyer ses filles au sacrifice. </p>
+        <p> Les bessonnes revinrent presque aussitôt et elles dirent qu’à l’un comme à l’autre pavillon elles avaient été accueillies par un domestique en livrée, et galonné, qui leur avait appris très poliment que ces dames étaient pour l’heure à la ville, mais ne tarderaient pas à rentrer. Les petites avaient vu Minou dans la cour, en train de se pourlécher les babines auprès d’un bol de lait. </p>
+        <p> — Comment ces dames sont-elles dès le matin à la ville et vont-elles rentrer tout à l’heure ? se demanda la bûcheronne. </p>
+        <p> Sur quoi son mari souriait dans sa barbe. </p>
+        <p> Il ne quitta pas des yeux les deux grilles, étant de loisir ce jour-là. Vit-il quelque chose ? ne vit-il rien ? Une heure après, toutefois, il commanda aux petites de retourner là-bas. </p>
+        <p> Et, cette fois-ci, les petites ne reparurent qu’après une heure écoulée. Elles étaient entières ; elles étaient fraîches et de bonne humeur. Et, de plus, elles étaient frisées. </p>
+        <p> La mère leva les deux bras au ciel. Elle n’avait jamais jugé ses deux filles aussi jolies. Elle avait eu aussi, secrètement, grand émoi. </p>
+        <p> Mais il s’agissait bien de cela, à présent ! </p>
+        <p> Il s’agissait de faire taire les bessonnes qui ne tarissaient pas, ou bien d’en faire au moins taire une, afin qu’on pût entendre l’autre. </p>
+        <p> L’une disait que d’abord elle avait vu un perroquet. L’autre en même temps disait qu’on lui avait fait prendre un bain. </p>
+        <p> — Un bain ? </p>
+        <p> — À moi aussi, s’écriait l’autre. D’abord, moi aussi j’ai vu un perroquet. </p>
+        <p> — Tais-toi, faisait le père. Laisse parler Gillette ! </p>
+        <p> Et Gillette disait : </p>
+        <p> — J’ai vu un perroquet. . . un beau perroquet vert qui faisait comme ça : « Bonjour ! bonjour ! ah quel beau temps ! mais qu’il fait donc beau !. . . » </p>
+        <p> — Mais non ! interrompait Gillonne, ce n’est pas ça qu’il disait ; il disait : « Voilà qu’il pleut. . . Sacré pays de chien !. . . » </p>
+        <p> — Tais-toi ! faisait Gilles ; laisse parler ta sœur. Et d’abord : avez-vous vu le même perroquet ? </p>
+        <p> — Non, dit Gillette, puisque je n’étais pas dans le même pavillon. . . </p>
+        <p> — Si, dit Gillonne, puisque mon perroquet était tout vert comme le sien ! </p>
+        <p> — Voyons ! entendons-nous ; vous a-t-on séparées l’une de l’autre ? </p>
+        <p> Sur ce point, on finit par s’accorder, quoique les deux récits parallèles fussent encombrés de détails. Mais on en vint à un certain moment qui semblait hors de débat, et c’était celui de la séparation, attendu que l’une des sœurs était passée du premier pavillon dans le second, tandis que l’autre n’avait pas fait ce voyage. La difficulté, qui s’expliqua par la suite, venait de ce qu’on n’avait point pris l’enfant par la main pour la faire sortir du premier pavillon et la conduire au second, mais qu’on l’avait priée de s’engager en des escaliers et des couloirs. Il en résultait que les pavillons communiquaient entre eux par quelque galerie souterraine. </p>
+        <p> Une fois séparées, par les soins d’une femme de chambre, elles avaient été l’une et l’autre enfermées dans une belle pièce où un perroquet, sur sa tige de bois, répandait le chènevis à plus d’un pas à la ronde. Et le perroquet de Gillette disait, ou à peu près, entre autres choses : « Qu’il fait donc beau ! » tandis que celui de Gillonne disait : « Quel sacré temps ! » </p>
+        <p> Ensuite on les avait priées de prendre un bain. Puis, par les soins de la femme de chambre, toutes deux s’étaient vu peigner et friser. </p>
+        <p> — Et après ? leur demandait-on. </p>
+        <p> — Oh ! après, on les avait introduites dans une pièce encore plus belle où se tenait une dame. </p>
+        <p> — Une dame en cheveux jaunes, dit Gillette. </p>
+        <p> — Non pas ! en cheveux gris, rectifiait Gillonne. </p>
+        <p> — Puisque ce n’était pas la même ! dit le père. </p>
+        <p> — La dame a dit qu’elle arrivait de la messe, qu’elle avait vu le duc, la duchesse et quantité de gens, que l’église était remplie de beau monde et que monsieur le curé avait prononcé un sermon digne de Bossuet. . . </p>
+        <p> — Elle a dit, rapporta Gillonne, qu’elle était arrivée à l’office un peu en retard, parce que sa sœur et elle étaient paresseuses et le cocher aussi. . . Elle a dit qu’elle pensait que les gens de la ville étaient eux-mêmes peu du matin, car l’affluence était mince et composée de fretin, enfin que le curé, d’ailleurs bon homme, prêchait comme une savate. </p>
+        <p> — Ça, c’est exact, dit Gilles ; il cherche ses mots, comme quelqu’un qui, le matin, n’a pas encore tué le ver. </p>
+        <p> — Je vois, opina la mère, que ces deux dames ne regardent pas les choses du même œil. </p>
+        <p> — Il y en a une qui voit clair, dit Gilles. </p>
+        <p> — Peut-être qu’il vaut mieux voir beau, dit la mère Gilles. Mais, par quel moyen ces dames ont-elles pu se rendre à la messe. . . et être de retour ? </p>
+        <p> Le bûcheron ricana. </p>
+        <p> — Oh ! toi, tu veux toujours avoir l’air de savoir les secrets. . . </p>
+        <p> — Moi, dit Gilles, on m’a assez tourné en dérision, il y a de cela six ans, lorsque j’ai vu la fée Malice ; je verrais le bon Dieu entouré de ses saints, que je n’en soufflerais mot. </p>
+        <p> En attendant, les petites savaient déjà la moitié de leur alphabet, et elles traçaient des lettres majuscules et minuscules, avec un morceau de charbon, sur les murailles et sur tous les objets. </p>
+        <p> Gillette affirmait que c’était facile et qu’elle saurait écrire au bout de huit jours. Gillonne trouvait que ce n’était pas si aisé et qu’il faudrait des mois avant qu’elle fût en état d’adresser une lettre à sa marraine. </p>
+        <p> Entre elles, elles s’entretenaient surtout des perroquets. </p>
+        <p> Les pavillons, les deux dames, les perroquets et la leçon étaient sujets de colloques animés, sous le toit des Gilles, quand, l’après-midi, les amis bûcherons et bûcheronnes se présentèrent pour manger les rôties et le pain perdu. </p>
+        <p> On parla des dames, des perroquets, des pavillons et de la leçon. Une idée neuve ne se loge pas plus sûrement dans le cerveau des hommes qu’une balle tirée à cinq cents pas. Il fallut un certain temps pour que l’un des bûcherons en fût atteint. </p>
+        <p> — Ah ! çà, de quoi est-il question ici ? Êtes-vous point devenus fous, compère et commère ? </p>
+        <p> De quoi compère et commère parurent beaucoup plus étonnés qu’ils ne l’avaient été en découvrant eux-mêmes pavillons et tout ce qui s’ensuit. </p>
+        <p> — Mieux vaut parler de ce qu’on voit que de traiter de billevesées, dit Gilles. </p>
+        <p> Les bessonnes allaient de l’un à l’autre, racontant leur matinée et parlant de leurs perroquets. Il n’y eut pas jusqu’à Minou qui, revenu à domicile pour les friandises du dimanche, ne fût pris à témoin : il passait, lui, ses nuits là-bas ; il était tombé en boule, hier au soir, du haut de la grille du pavillon de gauche. . . </p>
+        <p> « Du pavillon de gauche ! ». . . s’écria un des bûcherons en poussant un juron à faire damner toute la province ; puis il se mit à rire de telle manière que tous les bûcherons, autour de lui, pris de gaieté, s’esclaffèrent et dansèrent une ronde autour du père et de la mère Gilles, et leurs sabots rythmaient le pas sur le sol de terre desséchée. La marmaille les imitait dans les coins. Et Minou, grimpé sur la huche, la queue droite, le dos arrondi, les regardait de ses yeux de braise. </p>
+        <p> Sans protester, sans mot dire, le père Gilles, en reconduisant tout son monde, l’inclina du côté des deux pavillons, et quand l’on fut en vue de ceux-ci, au point d’en pouvoir compter les vitres, il dit simplement : </p>
+        <p> — Vous voyez : il n’y a pas loin pour les petites à venir prendre leur leçon. . . </p>
+        <p> Aucun des hommes, aucune des femmes qui se trouvaient là ne voulut ni paraître étonné, ni surtout avoir nié une vérité évidente. Ils firent : </p>
+        <p> — En effet, en effet. . . </p>
+        <p> Et leur petite troupe s’achemina, en se divisant, pour laisser au milieu l’espace occupé par les deux pavillons que chacun voyait. Mais ces paysans ne les regardaient pas trop, soit que ce voisinage leur donnât la chair de poule, soit qu’ils fussent résolus de dissimuler leur dépit ou leur stupeur. </p>
+        <p> Le dimanche suivant, pas une allusion à l’étrangeté du fait. Celui-ci était passé au nombre des choses admises de tout temps. </p>
+        <p> Le père et la mère Gilles en éprouvèrent même un dépit assez vif. Ils avaient fait du merveilleux leur chose, et ils regrettaient qu’un cas si extraordinaire demeurât, du moins en apparence, comme s’il était inexistant. </p>
+        <p> Une idée de femme ordonnée vint à la mère Gilles, et elle la confia aussitôt à son mari : </p>
+        <p> — Rien n’est pour rien, dit-elle. Nos filles apprennent à lire et à écrire – c’est bien toi qui l’as voulu ! – et ces dames des pavillons sont bien savantes, c’est entendu ; mais reste à savoir ce que cette fantaisie va nous coûter. Quand on a affaire à un précepteur, je l’ai entendu dire, c’est tout comme à un homme de peine, on fait avec lui marché d’avance. </p>
+        <p> — Tu ne parles pas mal, pour une fois, dit le père. On pourrait leur porter quelques livres de beurre, du fromage blanc et des fraises des bois ; ça ferait en même temps une visite de politesse. . . </p>
+        <p> — On verrait les perroquets, dit la mère, et aussi comment c’est fait là-dedans. </p>
+        <p> Un jour, à une heure autre que celle de la leçon, le père et la mère Gilles revêtirent leurs habits de fête, suspendirent à leurs bras les paniers, et s’acheminèrent vers les pavillons. </p>
+        <p> Ils furent reçus à la grille du pavillon de gauche – qu’ils avaient choisi à tout hasard – par un domestique en livrée devant qui ils déclinèrent leurs noms et qualités et à qui ils confièrent leur intention de voir madame. . . madame qui ?. . . À ce moment ils s’aperçurent qu’ils ignoraient son nom. On les fit entrer, néanmoins, non dans le salon au perroquet, mais à la cuisine. Ils n’en furent pas froissés, car c’étaient de pauvres et bien honnêtes gens, mais humiliés cependant en pensant aux quelques livres de beurre qu’ils apportaient, alors que, le beurre, il coulait à flots sur les flancs dorés de poulardes à la broche, que faisait tourner, en face d’un grand feu, un petit singe vêtu de blanc et coiffé d’une calotte de marmiton. </p>
+        <p> — C’est bien dommage, dit la mère, que les enfants ne soient pas là, car elles auraient ri tout leur content !. . . </p>
+        <p> Ce petit singe, assis sur son séant, tournait la broche avec un imperturbable sérieux ; mais le feu vif lui brûlait le museau et il se le garantissait à l’aide de sa main oisive qui tenait, comme celle d’une vieille marquise à mitaines, un écran de carton. Il était aussi tenté de goûter au rôti, et, n’était qu’un chef passait et repassait fréquemment pour lui administrer une chiquenaude, le drôle eût lapé, en quelques coups de langue, le jus onctueux des superbes volailles. </p>
+        <p> C’est en ce milieu que le père et la mère Gilles revirent Minou. Il était là, posté sur une haute étagère, entre une bassinoire de cuivre et un fort gros cuisseau de porc fumé, et il vous regardait de ses yeux jaunes, tranquille et pleinement satisfait, comme un serviteur sympathique qui a atteint avant ses maîtres les sereines régions du bienheureux séjour. L’odeur du lieu, il faut le dire, était délectable pour un estomac dispos. </p>
+        <p> Nos bonnes gens se trouvèrent si embarrassés avec leurs paniers, qu’ils les laissèrent là quand on les vint avertir que Madame leur faisait l’honneur de les recevoir. </p>
+        <p> Ils repassèrent par la cour d’entrée, où ils eurent le loisir de constater qu’une herbe fine poussait çà et là entre les pavés, comme dans les maisons qui ne datent pas d’hier, et tandis que Gilles s’attardait à remarquer qu’il y avait même du pissenlit et de la mâche, sa femme ne retint pas un cri parce que, hors des portes closes de l’écurie, sortaient, rasant le sol, deux grands serpentins verdâtres dont on ne voyait pas la tête, sans doute trop grosse pour passer sous les battants, mais dont la queue, démesurément longue et souple, s’agitait de terrifiante manière. Gilles regarda la chose et se prit simplement à rire. Elle jugea son mari ou très brave ou plutôt stupide. On voyait ailleurs, dans une grande remise entrouverte, plusieurs hommes, en bras de chemise, épongeant un grand carrosse vert. La mère Gilles se souvint que son mari s’était flatté d’avoir vu un carrosse dans la forêt. Elle fut plongée dans la perplexité. À une fenêtre une soubrette, les bras et la gorge nus, faisait tranquillement sa toilette. </p>
+        <p> — Ne regarde pas par là, dit la mère Gilles. </p>
+        <p> Mais on les introduisait l’un et l’autre dans une pièce spacieuse et ornée. </p>
+        <p> La mère Gilles fut aussitôt éblouie. Elle confia à son mari : </p>
+        <p> — Il y a maldonne, c’est moi qui te le dis : les leçons ici seront trop chères pour des pauvres bougres comme nous. </p>
+        <p> Ils pénétraient, cette fois, bel et bien, dans le salon où perchait le perroquet. </p>
+        <p> Cet oiseau les accueillit par un « Bonjour, bonjour ! » plein d’aménité, et il ajouta : « Quel temps charmant ! quelle température délicieuse ! » ce qui fit sourire nos gens, parce que, s’il ne pleuvait pas aujourd’hui, c’était tout juste : la chaleur était accablante et un orage se préparait à l’horizon. </p>
+        <p> Tout à coup le perroquet se mit à chanter, mais à chanter d’une voix atténuée, lointaine, où les articulations manquaient, mais qui était cependant suave, caressante, accompagnée parfois de sons filés tels qu’en rend un archet sur une corde sonore ; c’était curieux, étrange et drolatique entre les branches cornues du bec de cet oiseau imitateur, à tête de vieil hébreu. Sans s’interrompre, mais sur un ton prosaïque, il dit successivement : « Où est donc Minou ? », « J’ai mangé du lard aux choux », et « Mon enfant, vous chantez comme un ange !. . . » </p>
+        <p> Le bûcheron et sa femme riaient à qui mieux mieux et ne trouvaient pas le temps long. Ce fut presque à regret qu’ils suivirent le valet qui vint les prendre pour les introduire cette fois en une pièce mieux ornée encore, où le sol brillait comme un miroir et où ils virent une dame à cheveux jaunes reconduisant un jeune garçon très bien mis, à qui elle disait : « Mon enfant, vous chantez comme un ange ! » et en lequel tous deux, sans s’y pouvoir méprendre, reconnurent le jeune Loys, propre fils de M. le conseiller Périnelle. </p>
+        <p> Et ils étaient là à se demander par quel moyen le fils du conseiller Périnelle, habitant à dix lieues d’ici, pouvait être transporté avant midi en pleine forêt pour y « chanter comme un ange », avec une dame à cheveux jaunes, lorsque celle-ci vint vers eux, marchant avec aisance sur le parquet lumineux, et leur dit : </p>
+        <p> — Vos filles sont des amours. Celle qui m’est confiée, Gillette, va lire à livre ouvert, à la fin de la semaine. . . Vous êtes les plus heureux parents du monde. . . Dieu ! quel beau temps ! la température est exquise. . . Cet enfant a la plus belle voix du royaume. . . </p>
+        <p> Comme elle reprenait haleine, le bûcheron dit : </p>
+        <p> — Nous connaissons bien le fils de monsieur le conseiller Périnelle. . . </p>
+        <p> — Ah ! vous le connaissez ? dit la dame. Il vient ici tous les deux jours, prendre sa leçon avant vos filles. . . Son père est l’homme le plus vertueux de la terre. . . </p>
+        <p> Sur ce, elle voulut faire asseoir le bûcheron et la bûcheronne qui n’y consentirent point. </p>
+        <p> Ils avaient hâte, étant troublés, d’en arriver au but de leur visite. </p>
+        <p> — Madame. . . fit Gilles, je dis « madame » tout simplement, parce que vous êtes pour nous madame. . . je ne sais qui. . . </p>
+        <p> Elle s’esclaffa : </p>
+        <p> — « Madame Je-ne-sais-qui ! » c’est cela ; c’est charmant. Je serai pour vous madame Je-ne-sais-qui !. . . </p>
+        <p> — Madame Je-ne-sais-qui, reprit-il, nous venions vous trouver, la bourgeoise et moi, pour vous demander. . . pour vous demander. . . Ah ! dame, ça n’est pas si facile à dire. . . Parle donc, toi ! dit-il, en se tournant vers sa femme. </p>
+        <p> — Mon Dieu ! madame, dit la mère Gilles, nous sommes confus de vos bontés ; mais on voudrait bien savoir. . . – pensez, madame Je-ne-sais-qui, que l’on est du pauvre monde. . . – enfin si ça nous coûtera cher, les leçons aux petites. . . </p>
+        <p> Madame Je-ne-sais-qui se mit à rire de nouveau et de plus belle : </p>
+        <p> — Laissez cela, mes bonnes gens, et écoutez-moi bien : il ne sera jamais question d’argent entre nous. . . </p>
+        <p> Le bûcheron et sa femme rougirent de plaisir. Mais tout aussitôt, dans l’esprit de la femme, germa le soupçon que si l’une de ces dames donnait ses leçons gratuitement, l’autre les pourrait bien faire payer le double d’un prix honnête. Elle poussa le coude de son mari qui la devina aussitôt et dit : </p>
+        <p> — Pardon, madame Je-ne-sais-qui, vous nous comblez, mais nous voudrions bien aussi présenter nos devoirs à Madame. . . à Madame. . . Ah ! qui est-elle ?. . . </p>
+        <p> — Madame « Ah !-qui-est-elle ! » Voilà, voilà le nom qui convient à ma sœur ! Que vous feriez un bon curé de campagne, vous, mon brave homme : vous vous entendez comme nul autre à baptiser les gens ! Eh ! bien, on va vous conduire près de madame Ah !-qui-est-elle. . . </p>
+        <p> Et elle se reprit à rire, puis à chanter comme une gamine. </p>
+        <p> — Je comprends, opina la mère Gilles, que les enfants ne s’ennuient pas dans cette maison. </p>
+        <p> — Voilà du beau et du bon monde, dit le bûcheron. </p>
+        <p> Ils ne s’aperçurent point de quelle façon ils arrivèrent, tout en devisant, dans une salle à peu près pareille à celle du perroquet ; et, en effet, l’oiseau aux couleurs crues était là, sur son perchoir, avec son chènevis qui souillait le sol tout à l’entour. Mais celui-là disait : « Encore des fautes, vaurien !. . . Vous êtes un âne, savez-vous ? Le sale pays. . . Quel sacré temps !. . . » </p>
+        <p> — Ce n’est pas le même, dit la mère : celui-ci est beaucoup moins bien élevé. </p>
+        <p> — Mais meilleur juge, dit le bûcheron, car en réalité le tonnerre éclate et il pleut à torrents. </p>
+        <p></p>
+      </div>
+      <div title="Chapitre 4 Même dans le merveilleux le temps passe." type="chapter">
+        <p> Chapitre 4 </p>
+        <lb/>
+        <p> Même dans le merveilleux le temps passe. </p>
+        <p> ILS FURENT INTRODUITS PRÈS d’une dame qui ne ressemblait pas à l’autre, tout en ayant avec elle quelque air de famille. Et celle-ci était occupée à donner une leçon au même garçon en lequel ils avaient reconnu le fils de M. Périnelle. Tout en parlant aux paysans, elle se garda de s’interrompre ; et le petit ânonnait sur les pages d’un grand livre. </p>
+        <p> — Vous ne saurez jamais rien, disait la dame. Je ne ferai pas de compliments de vous à monsieur votre père. . . </p>
+        <p> Elle reprit, se parlant à elle-même : </p>
+        <p> — Il n’y a rien de parfait. Rien ne marche ici-bas de manière à contenter un esprit clairvoyant. . . Et qu’est-ce que vous dites de ce temps, par exemple ? Je vais être obligée, Dieu me pardonne ! de faire allumer des chandelles en plein midi. . . </p>
+        <p> — Nous étions venus, madame. . . dit le bûcheron. </p>
+        <p> — Ah ! vos petites ? Je sais. Elles sont gentilles et elles apprendront peut-être convenablement ; mais il faut de longs et patients efforts : ce n’est pas si facile !. . . </p>
+        <p> — Celle-ci parle avec beaucoup de bon sens, dit le bûcheron à sa femme. </p>
+        <p> — Je ne dis pas non, fit la mère, mais l’autre a plus de grâce. </p>
+        <p> Gilles éprouvait encore la hâte d’arriver à ses fins. </p>
+        <p> Il dit : </p>
+        <p> — Nous étions venus, madame, pour la question du prix des leçons. </p>
+        <p> La dame sourit tout de même que sa sœur ; mais elle dit : </p>
+        <p> — Vous avez raison et vous êtes un honnête homme. Tout se paye, vous vous en doutez bien ! Vos filles apprennent à lire et à écrire ; c’est votre désir, n’est-il pas vrai ? Eh bien ! votre vœu étant accompli, le prix en sera seulement la conséquence naturelle. Rappelez-vous ces mots ; c’est le seul acompte que je vous demande. </p>
+        <p> Le couple s’inclina avec déférence et confusion. </p>
+        <p> Comme ces bonnes gens se retiraient, en faisant attention à ne pas s’étaler sur le parquet, le père Gilles aperçut, parmi d’autres, un grand portrait qui le sidéra. Il dit à sa femme : </p>
+        <p> — Ça ne te rappelle rien, à toi, ça ? </p>
+        <p> — Quoi ? </p>
+        <p> — Ce portrait ? </p>
+        <p> La mère Gilles pâlit, mais ne voulut absolument pas répondre. </p>
+        <p> Le bûcheron demeura troublé, même sous la pluie qui le trempa ainsi que sa femme jusqu’à l’os. </p>
+        <p> — Tu n’es donc pas content ? lui demandait sa femme. « Il ne sera jamais question d’argent entre nous. . . » Comme elle a dit ça, madame Je-ne-sais-qui ! </p>
+        <p> — Oui, mais : « Le prix en sera seulement la conséquence naturelle », a dit madame Ah !-qui-est-elle ; que veut dire ceci : c’est peut-être une attrape ?. . . </p>
+        <p> Puis il se reprit à songer au portrait qu’il avait vu. </p>
+        <p> Une demi-douzaine d’années après ces événements, il ne s’était pas produit grand changement dans le coin de la forêt, si ce n’est que les bûcherons étaient un peu moins ingambes et les bessonnes deux grandes filles fort avancées pour leur âge, de visage agréable, de taille bien prise et que l’on commençait partout à traiter de demoiselles. </p>
+        <p> Ainsi la vie s’écoulait dans le merveilleux, aussi tranquillement qu’elle l’eût pu faire au milieu des circonstances les plus ordinaires. </p>
+        <p> Rappelons-nous d’abord le petit excédent régulier de recettes, qui augmentait progressivement la fortune du bûcheron. </p>
+        <p> Ensuite les deux pavillons, qui étaient toujours là, faisant partie des images familières, non seulement des bûcherons mais de leurs amis, comme si ces bâtiments eussent existé du temps de leurs pères, aïeux et bisaïeux. </p>
+        <p> Enfin, les bessonnes, âgées d’une douzaine d’années, lisaient, cela va sans dire, et écrivaient comme des clercs ; en outre, elles savaient jouer de divers instruments de musique et chantaient si agréablement qu’on les priait dans plusieurs maisons de la ville et notamment chez M. le conseiller Périnelle, le seul esprit libéral de l’endroit, qui faisait peu de distinction entre les classes et aimait que les savants vécussent autour de lui. </p>
+        <p> Quand Gillette et Gillonne avaient à se rendre à la ville, elles commençaient par aller aux pavillons, puis on n’entendait plus parler d’elles jusqu’à leur retour. Et lorsqu’elles revenaient de leurs matinées et soirées, c’était à l’heure dite, et sans trace de fatigue. Et personne ne s’étonnait qu’elles eussent fait vingt lieues comme autant de pas. </p>
+        <p> Leurs toilettes ? mais elles leur tombaient du ciel. Qui de vous se demande s’il en pourrait être autrement ? La maman Gilles n’eût pas toléré le cas contraire sans prendre tous les gens du bois à témoin que le gouvernement avait juré la perte d’une honnête famille. </p>
+        <p> Oh, oh ! n’allez pas vous imaginer à présent que le père et la mère Gilles fussent contents de leur sort ! </p>
+        <p> Ils ne cessaient de récriminer. La maman prétendait qu’il était honteux de vivre dans un taudis quand on avait des filles si instruites et si richement habillées. Elle se plaignait d’être tenue de faire le long trajet de la ville à pied, alors qu’il existait d’autres moyens dont on ne lui parlait pas, mais dont elle soupçonnait l’existence. Enfin elle eût aimé que ses deux filles fussent pareilles en tous points, vêtues de même et éduquées d’une seule manière. Or Gillette recevait du ciel des robes couleur d’aurore et Gillonne couleur de crépuscule ; Gillette blondissait dans la mesure où Gillonne devenait brune davantage ; Gillette avait la voix aiguë et Gillonne fort grave ; Gillette lisait des contes à dormir debout et Gillonne des histoires véridiques ; Gillette trouvait que tout était beau, bon et bien fait dans la création, tandis que Gillonne possédait un sens critique souvent amer, mais aussi très amusant ; elle disait à chacun son fait et ne s’en laissait imposer par qui ni par quoi que ce fût. </p>
+        <p> Le père Gilles trouvait que Gillonne était bien plus intelligente que sa sœur ; la mère Gilles estimait Gillette plus que Gillonne. </p>
+        <p> — D’abord, elle sera plus heureuse, dit-elle, puisqu’elle juge tout beau et bien. </p>
+        <p> — Taratata, faisait le père, elle aura des déconvenues parce qu’elle ne sait pas voir le mal où il est, tandis que sa sœur s’entendra pour le dépister. </p>
+        <p> La discussion était sans fin. . . </p>
+        <p> Un beau dimanche, la troupe amicale des bûcherons et bûcheronnes arriva avec sa marmaille. Tous ces gens étaient blêmes, les jambes vacillantes, les yeux exorbités, beaucoup d’entre eux même ayant restitué leur déjeuner comme des personnes souffrant du mal de mer. </p>
+        <p> Ils eussent vu la moitié de la planète se détacher et tomber dans la nuit vide, qu’ils n’eussent point manifesté plus de terreur. </p>
+        <p> Qu’avaient-ils donc vu ? Ils avaient vu, sur l’herbe, étendu, à la porte de l’un des pavillons, un lézard vert de la taille d’un cheval de trait. </p>
+        <p> Gilles se tenait les côtes. </p>
+        <p> — Il y en a deux, disait-il. . . </p>
+        <p> — Et vous dites cela, s’écrièrent les gens du bois, comme vous parleriez d’une portée de lapins !. . . </p>
+        <p> — Comment ! disait Gilles, je vous ai menés un jour voir des pavillons poussés dans la nuit, comme des morilles après la pluie, et cependant plus anciens l’un et l’autre que votre arrière-grand-père : vous n’avez pas bronché ; et vous voilà aujourd’hui les membres coupés et le ventre débordant comme un marais, parce que vous avez vu un lézard !. . . </p>
+        <p> — Quatre maisons comme la tienne tiendraient dans sa panse ! murmurait un homme tremblant. </p>
+        <p> La mère Gilles opina : </p>
+        <p> — Je n’aime pas ces bêtes-là. . . non plus que tout ce qui arrive. . . </p>
+        <p> — Qu’est-ce qui arrive ? lui demanda-t-on. </p>
+        <p> — Je m’entends. . . Je m’entends. . . </p>
+        <p> Ce qui arrivait pour le moment, en tout cas, c’est que les bessonnes n’étaient point de retour. Et leur retard même était grand et tout à fait inusité. </p>
+        <p> À part lui, le père Gilles pensait : « Elles ne sont point revenues de la messe, et le lézard se prélasse sur l’herbe. . . Qu’est ceci ?. . . » Il se doutait que, dans les communs des pavillons, il y avait mieux encore que les lézards pour vous conduire à bonne distance. </p>
+        <p> Mais aussi, raison de plus pour vous ramener sans retard. </p>
+        <p> On épilogua sur l’absence de Gillette et de Gillonne. </p>
+        <p> Quelqu’un dit : </p>
+        <p> — Moi, je ne serais pas tranquille. . . </p>
+        <p> — Pourquoi ? dit le père. </p>
+        <p> — À cause de ce lézard du diable. </p>
+        <p> — Moi, dit un autre, je ferai, ce soir, un détour de cinq lieues, plutôt que de repasser par l’endroit où je l’ai vu. </p>
+        <p> Les bessonnes n’arrivaient point. Les conversations n’étaient pas de nature à tranquilliser les parents. </p>
+        <p> — J’aime mieux vivre loin de toutes ces singularités-là, dit une femme : mes petits ne sauront ni lire ni écrire. On s’en est bien passé jusqu’ici. </p>
+        <p> — Toutes les fois qu’il se fait une chose de bien, dit un autre, on peut être sûr qu’elle a en mal son pendant exact. Vous en subirez la conséquence. . . </p>
+        <p> — La conséquence ?. . . fit le père Gilles, tiré de sa songerie. </p>
+        <p> — La conséquence naturelle, oui, mon compère. Il n’y a pas à dire, dans ce bas monde, c’est comme au marché : rien pour rien. Tout se paye. </p>
+        <p> Ce fut au père Gilles de trembler, car il se souvenait des paroles prononcées dans un des pavillons par la maîtresse de Gillonne. </p>
+        <p> Il ne cessait d’aller de sa chaumière à l’endroit d’où l’on apercevait les pavillons, et il mettait la main en auvent sur son front, et il amenuisait ses yeux qui étaient bons et voyaient loin. </p>
+        <p> Les bessonnes ne paraissaient pas. </p>
+        <p> On s’attabla pour les rôties et le pain perdu, comme les dimanches ordinaires. Mais le cœur n’était pas à la collation. Et quand on attend quelqu’un, il est difficile de parler d’un sujet autre que celui de son absence. </p>
+        <p> — À supposer, hasardait quelqu’un, que mesdemoiselles vos filles soient reconduites et seulement jusqu’à la lisière de la forêt, par la voiture du duc, c’est-à-dire par ce qu’il peut se faire de mieux, il faut encore un bout de temps pour venir jusqu’ici, même sur des jambes de jeunesse. Pour ce qui est de faire pénétrer un carrosse sous bois, à d’autres !. . . </p>
+        <p> Gilles regardait avec dédain celui qui venait de parler. </p>
+        <p> — On peut bien aussi détacher un cheval et galoper à califourchon ! dit une vieille. </p>
+        <p> — Comment donc, après tout, est-ce qu’elles s’y prennent, les autres dimanches ? </p>
+        <p> — Les autres dimanches, dit la mère Gilles, elles sont à l’heure, voilà ce que je sais. </p>
+        <p> — Moi, dit une femme, je ne me suis jamais séparée de mes filles. . . </p>
+        <p> — Il faudra bien que tu le fasses, eh ! la belle, le jour où elles auront chacune trouvé un galant !. . . Ah ! Eh bien, alors, le diable m’emporte si elles viennent te raconter ce qui leur sera arrivé. </p>
+        <p> — Les enfants, c’est fait pour inquiéter les parents. Ils ne sont jamais pareils à nous. Ils ont leurs manières de voir. On ne les tient pas. </p>
+        <p> — Et qui veut les élever trop bien les élève mal. . . </p>
+        <p> — C’est comme s’il dépensait cher pour faire d’eux des étrangers. . . </p>
+        <p> Durant que Gilles était hors de la chaumière à explorer l’horizon, l’on se permettait ces aphorismes de la vieille sagesse des familles. Et sa femme, le nez dans la poêle à frire, entendait peu les propos des commères. </p>
+        <p> Tout à coup, elle poussa un cri. Sous sa cuiller et sous les jets en pétarade de la friture, elle venait de discerner un objet qui n’était ni œuf, ni tartine, et qu’elle se hâta d’amener au jour. Avec une pince, on le retira. Cela avait la forme d’un billet, et le cachet y était, qui avait failli fondre. </p>
+        <p> — Il y a un farceur sur le toit. . . Peut-être bien aussi que les petites s’amusent là-haut à nous jouer un tour !. . . </p>
+        <p> On appela le père à demi mort d’inquiétude : </p>
+        <p> — Une lettre ! compère Gilles : parions que tu as loué, vieil avare, ton premier étage à une sorcière !. . . </p>
+        <p> Une lettre ? Ma foi, oui. Le cachet portait un écusson inconnu, soutenu par des chimères. </p>
+        <p> — Une lettre ! dit le père Gilles. Ah ! si elles étaient là !. . . Qui c’est-il, parmi nous, qui est seulement fichu de la lire ? </p>
+        <p> En effet, personne n’en était capable. Il rompit le cachet avec rage et dit qu’il s’en allait aux pavillons. </p>
+        <p> — Le dernier des marmitons, grommelait-il, le singe tourne-broche, les perroquets, y sont plus savants que nous !. . . </p>
+        <p> On le trouva plein de courage ; car aucun homme n’eût voulu se risquer du côté des pavillons. Cependant, en troupe, armés de fourches, de cognées, de manches à balai, de lardoires, ils le suivirent, les femmes en arrière, faisant force signes de croix et priant afin qu’il n’arrivât point malheur. </p>
+        <p> Aux pavillons, les grilles closes. On appelle ; point de réponse. Pas le moindre signe de vie, ni dans une cour ni dans l’autre. Toutes les persiennes rabattues. Pas le relent d’un fumet aux issues des cuisines. Pas le plus frêle écho d’une voix de perroquet. On eût souhaité voir sous la porte des écuries onduler la queue d’un dragon. Rien. De Minou, nous ne parlons pas : c’était dimanche, jour de rôties ; il était au logis familial. </p>
+        <p> Le pauvre Gilles tenait sa lettre à la main. Ce n’était pas un long écrit : trois lignes à peine. Mais ce papier, par miracle tombé de la cheminée, Gilles avait l’assurance qu’il lui apportait des nouvelles de ses filles, de qui nulle nouveauté ne l’étonnait. Il enrageait de ne pouvoir déchiffrer ces trois lignes. Aussi était-ce grande pitié pour tous de le voir pleurer comme un enfant. </p>
+        <p> — Et vous dites, s’écriait-il, qu’il ne faut pas apprendre à lire ! Mais si je savais lire, j’aurais, à cette heure, des nouvelles de mes filles. . . </p>
+        <p> — Si tes filles n’avaient pas appris à lire, elles seraient près de toi !. . . </p>
+        <p> Il annonça qu’il allait aller à la ville se faire expliquer le contenu de la lettre. C’était insensé à cette heure : il passerait la nuit dans les chemins ! Mais il ne voulut entendre aucun conseil, et il partit, tel qu’il était, sans vouloir se retourner. </p>
+        <p> À l’écart de la mère Gilles, qui versait des larmes, les femmes échangeaient leurs opinions. L’une était d’avis qu’à n’en pas douter, un sort avait été jeté aux malheureux bûcherons ; une autre, que le père des bessonnes était un être avide, ayant fait le serment de s’élever au-dessus de sa condition, et qu’il était puni par où il avait péché ; mais presque toutes pensaient que le lézard géant avait dévoré les fillettes et que c’était pendant sa digestion pénible qu’on avait vu, ce matin, le monstre affalé sur le tapis herbeux de la clairière. . . </p>
+        <p> — Il sera moins dangereux quand nous repasserons, dit un joyeux de la compagnie : ces bêtes-là ne font pas deux repas en un jour ! </p>
+        <p> — Dis plutôt qu’elles dédaigneront ta vieille carne, après s’être régalées de fines cailles à leur déjeuner. </p>
+        <p> Ils n’en firent pas moins, tous et toutes, un grand détour, le soir, en regagnant leurs chaumières. </p>
+        <p></p>
+      </div>
+      <div title="Chapitre 5 Le Frère Ildebert." type="chapter">
+        <p> Chapitre 5 </p>
+        <lb/>
+        <p> Le Frère Ildebert. </p>
+        <p> PENDANT CE TEMPS, LE père Gilles, lui, parvenait à la ville, en pleine nuit, sans pouvoir seulement s’en faire ouvrir les portes. Il coucha à la belle étoile, proche du vieux pont-levis, en compagnie d’une racaille composée de malandrins ou de figures suspectes que le guet repoussait hors des murs à la tombée du jour. </p>
+        <p> Il avisa, parmi cette gent, un vieillard, qui paraissait plus pauvre que malhonnête. À vrai dire, ce bonhomme était contrefait et peu ragoûtant, mais il s’exprimait bien ; mieux que cela, il agrémentait son langage aisé de mots et de proverbes latins. Nul doute qu’il fût d’église. </p>
+        <p> En effet, et avant de rien répondre aux questions du bûcheron, il raconta sa propre histoire. Il se nommait Frère Ildebert, ex-religieux prémontré. Il avait été mal vu au couvent, sous le prétexte qu’il s’adonnait aux sciences profanes et avait fait des découvertes propres, affirmait-il, à mettre l’univers sens dessus dessous. Il disait, sans se faire comprendre, bien entendu, de personne : </p>
+        <p> — Il y aura du nouveau, non dans le sens de l’esprit, lequel a atteint ses fins, mais dans celui de la matière qui corrompra l’esprit des hommes. . . </p>
+        <p> — Est-ce que vous pourriez lire ma lettre ? lui demanda le bûcheron. </p>
+        <p> Mais l’ex-Frère Ildebert reprenait : </p>
+        <p> — On a bien fait de me chasser du couvent ! Non que je croie fermement au diable, mais j’étais possédé de cet infernal génie qui, ayant une fois mis les molécules en mouvement, les dompte et les dirige, de façon à donner à la matière brute une sorte d’apparente dignité supérieure à l’âme, laquelle est seule digne aux yeux de Dieu. . . </p>
+        <p> — Je suis bien impatient, soupirait Gilles, d’avoir des nouvelles de mes filles. . . </p>
+        <p> — J’inventais, j’inventais, disait l’ancien moine. Ah ! j’étais vraiment sur un beau chemin !. . . </p>
+        <p> — La nuit est-elle vraiment trop sombre, suppliait le malheureux Gilles, pour que vous ne puissiez me rendre le service de jeter les yeux sur ce billet ? </p>
+        <p> Et il lui tendait le papier sous le nez. </p>
+        <p> Frère Ildebert dit : </p>
+        <p> — Le fait est que ce ne serait pas l’instant de chercher une puce entre deux draps, pour ceux du moins qui ont reçu du ciel la faveur de coucher dans un lit. </p>
+        <p> Ce disant, il se frotta par trois fois l’ongle du pouce contre le fond de sa culotte, et, l’approchant ensuite du papier, les caractères y furent visibles comme si on eût promené alentour trois vers luisants. Et, couramment, il lut : </p>
+        <p> « Cher papa et chère maman, </p>
+        <p> » Soyez bien tranquilles à la maison. Nous partons pour un grand voyage. Le moment en est venu, puisque nous savons lire et écrire. </p>
+        <p> » Gillette et Gillonne. » </p>
+        <p> Le pauvre bûcheron était fort ému. Et le plaisir de recevoir un mot de ses filles l’aveugla un long moment sur la manière stupéfiante dont le moine avait eu raison des ténèbres. </p>
+        <p> Mais, comme celui-ci recommençait de parler, Gilles lui dit : </p>
+        <p> — Et c’est une de vos inventions de vous servir de l’ongle comme chandelle ? </p>
+        <p> — Peuh ! fit Ildebert avec dédain, ceci n’est rien. . . Si l’on m’avait laissé faire !. . . </p>
+        <p> — Vous seriez riche à l’heure qu’il est ? </p>
+        <p> — Riche ? Oh ! ce n’est pas cela. D’autres que moi se seraient enrichis, oui. Mais c’était le plaisir !. . . Je vous dis qu’il a été inspiré du Très-Haut, le supérieur qui m’a brisé mes ustensiles et jeté à la porte du couvent. </p>
+        <p> — Cependant, voyez, vous venez de me rendre un fier service avec votre petite trouvaille !. . . </p>
+        <p> — Il n’est de service que d’apprendre à l’homme à se servir de sa pensée. </p>
+        <p> — S’il vous plaît ?. . . dit Gilles. </p>
+        <p> Mais l’ancien moine était déjà repris par la démangeaison de parler, fût-ce solitairement, et il disait : </p>
+        <p> — Oui, monsieur, diriger sa pensée, et dans l’ordre spirituel ! car pour ce qui est de l’autre partie de la création, – limon et fange, – ce n’est pas sa voie ; la pensée y met le feu ; elle en fait surgir des volcans et, ce qui est pis, elle s’y suicidera. </p>
+        <p> Le bûcheron, tranquillisé sur ses filles, commençait de somnoler, malgré l’incommodité du lieu. </p>
+        <p> — Il y aura du nouveau ! poursuivait le moine, ah ! fichtre, oui, il y en aura ; mais du côté du limon et de la boue. Et savez-vous, monsieur, ce qu’il y aura de plus fort parmi les nouveautés ? C’est que l’esprit, issu de Dieu, l’esprit complètement dévoyé, et à l’imitation des prodiges qu’il aura fait accomplir à la matière, voudra faire lui-même l’histrion, le pitre sur la place publique, prendra pour tours de force ce qui n’est que signes de son aberration ; oui, monsieur, il singera la matière ! Quel abaissement ! Quel sacrilège ! Comme elle, il voudra aller partout en même temps, et tandis qu’à notre époque, comme vous devez le savoir, monsieur Pascal s’effraie en sa chambre du vide des espaces infinis, lui, devenu ivre, prétendra, sans effroi aucun, pérégriner d’astre en astre, confondant la pensée, qui fut l’honneur de l’homme, avec la locomotion qui, je n’hésite pas à le prophétiser, marquera sa décrépitude. M’entendez-vous, monsieur ?. . . </p>
+        <p> Le bûcheron ronflait à poings fermés ; mais n’attribuant pas ce bruit à son interlocuteur, le moine allait pousser son raisonnement plus avant, lorsque quelque ruffian, que désobligeait une si abondante parole, s’approcha de l’orateur nocturne et lui administra un violent coup de poing en pleine mâchoire. </p>
+        <p> Rompu à la misère et aux inconvénients de la promiscuité, le défroqué se toucha seulement les articulations et, constatant que rien d’essentiel n’était brisé en son squelette, il alla un peu plus loin et baissa la voix, persuadé que le père des deux filles voyageuses le suivait. </p>
+        <p> — Si je croyais au diable, monsieur, dit-il, je serais porté à penser que Dieu, fatigué de gouverner le monde, a passé la main au Prince des ténèbres et que celui-ci m’a fait l’incertain honneur d’habiter dans ma cellule et sous le crâne que voici ! La tentation subie par l’esprit ailé et lumineux, de s’appliquer à fabriquer mille jouets puérils au moyen de cette boue qui n’est que fumier, a quelque chose de comparable à l’attrait, que vous savez fort vif, et qui jette un sexe sur l’autre. Je pressens une frénésie, une véritable débauche aux noces de l’esprit et de la matière qui, comme tous les excès de ce genre, ne saurait aboutir qu’à un lendemain chargé d’opprobre. . . </p>
+        <p> Il parla jusqu’au petit jour et ne s’aperçut pas qu’il avait prêché dans le désert. L’aube lui montra ses compagnons d’infortune étendus à vingt pas de lui, sur la pente du fossé de ville garni de tessons, de légumes avariés et de détritus de toutes sortes. Il ne se plaignait que d’une chose en son abjection, c’était de ne trouver que trop rarement à qui parler. « Les hommes affectent tous, disait-il, de savoir d’avance les sujets que l’on s’apprête à traiter devant eux ; ils n’admettent pas qu’on leur puisse apprendre quoi que ce soit hormis une nouvelle aussi vaine que celle-ci : « Un tel a été fait cocu », ou bien « Le Turc est entré en campagne ». Et pendant que vous leur adressez la parole, ils ruminent ce qu’ils vont vous dire à leur tour, et qui pourra être de nature �� vous asseoir sur votre séant. » Or le bûcheron avait manifesté une relative complaisance. Il le retrouva quand le jour fut venu. </p>
+        <p> Gilles, qui avait du savoir-vivre, invita le moine serviable à venir avec lui prendre un vin blanc à la ville. Et ils causèrent encore. </p>
+        <p> Pendant qu’ils étaient attablés, Gilles reconnut le jeune et charmant Loys, le fils du conseiller Périnelle, qui se rendait à un office matinal. Il courut à ce garçon savant, car il avait hâte d’avoir confirmation du sens prêté par le bavard défroqué à la lettre de ses filles. Loys lui lut, à la lumière du soleil, le texte même qu’avait lu le moine à la lueur magique de son ongle, et il ajouta avec intérêt : </p>
+        <p> — Ah ! elles sont parties pour un grand voyage ?. . . </p>
+        <p> — Avec les dames, répéta Gilles, qui avait vu jadis aux pavillons le fils du conseiller Périnelle prenant sa leçon de musique. </p>
+        <p> — Chut !. . . chut !. . . fit celui-ci, en portant l’index à la bouche. Vos filles sont gracieuses, maître Gilles, et elles sauront des choses que je ne sais point. . . Mon père me juge assez savant ; il dit là-dessus que trop est trop. Bien le bonjour à mesdemoiselles vos filles, maître Gilles. . .. Ah ! elles sont parties ? Diable ! elles en ont de la chance !. . . </p>
+        <p> Et il s’éloigna sur son beau cheval bai. </p>
+        <p> Quand Gilles fut de retour à l’auberge, Ildebert lui dit : </p>
+        <p> — Vous connaissez de beau monde ! Ah ! Voilà un jeune homme qui a été arrêté à temps : il était en bonne voie pour rater l’affaire de son salut !. . . Par qui, me direz-vous, fut-il éduqué, vu toutes les sciences qu’il a apprises ? ne me le demandez pas. Ce serait à croire, monsieur, que malgré ma cervelle infernale, il y a quelqu’un de plus fort que moi, et que j’ai été devancé. . . </p>
+        <p> Il réfléchit en vidant son verre, et il frappa le genou de son compagnon : </p>
+        <p> — Le diable, monsieur, tout compte fait, je ne suis pas sûr de n’y pas croire. . . Et s’il existe, savez-vous où il est ? Il est partout. </p>
+        <p> Ildebert accompagna Gilles, une demi-lieue sur le chemin de retour, en l’entretenant de sujets où l’homme simple n’entendait rien. Sur le point de le quitter, il lui dit : </p>
+        <p> — Savez-vous ce que je voudrais, à l’heure qu’il est ? </p>
+        <p> — Être à cheval plutôt qu’à pied, dit le bûcheron. </p>
+        <p> — Dire ma messe en simplicité, comme tant de frères que j’ai connus. C’est un sort maudit que celui qui m’a fait plus intelligent que les autres. . . Ou bien, savez-vous, à défaut de dire ma messe, ce que je voudrais ? </p>
+        <p> — Être attendu à déjeuner chez Madame la duchesse, je parie. </p>
+        <p> — Être un bûcheron comme vous, vivant dans la forêt, à côté de sa femme. </p>
+        <p> Pour le coup, le père Gilles éclata de rire. Ce souhait-là, par exemple, non, il n’était pas croyable. </p>
+        <p> — Parlons sérieusement, dit-il, en se rapprochant du moine ; dans le nombre de vos petites inventions, dites-moi, vous n’auriez pas, par hasard, vous n’auriez pas ?. . . </p>
+        <p> — Et quoi donc, dit le moine : le secret de la vie heureuse ? Je vous l’ai donné : c’est la pure simplicité de l’âme ou le développement de l’esprit pour l’esprit. . . </p>
+        <p> — Non, dit le bûcheron ; je voudrais trouver le moyen d’aller de chez moi à la ville sans débourser, ni user mes vieux membres, et aussi, mais vous allez hausser les épaules. . . </p>
+        <p> — Dites donc toujours ; je ne peux rien. </p>
+        <p> — Vous n’auriez pas, par hasard, trouvé le moyen de transformer une cabane de bûcheron en un palais cossu, avec carrosses et domestiques ?. . . </p>
+        <p> L’ancien moine s’en alla sans répondre, hochant la tête ; et, en lui-même, il pensait : </p>
+        <p> « J’ai cru parler toute la nuit à un homme ! Et celui-là, comme les autres, est bon pour le règne du démon qui distribuera des joujoux confectionnés avec le limon de la terre. . . » </p>
+        <p></p>
+      </div>
+      <div title="Chapitre 6 La correspondance." type="chapter">
+        <p> Chapitre 6 </p>
+        <lb/>
+        <p> La correspondance. </p>
+        <p> ET GILLES S’EN REVENAIT tout ragaillardi, parce qu’il s’était donné beaucoup de mal, avait passé la nuit dehors, avait causé ou cru causer avec quelqu’un, ce qui revient exactement au même ; et parce que, aussi, ayant grand besoin d’être consolé, il avait ajouté foi, volontiers, au témoignage de la lettre déchiffrée. </p>
+        <p> Mais sa femme ne s’en laissait point conter de la sorte et il eut beau affirmer que le Frère Ildebert s’était trouvé pleinement d’accord avec le fils du conseiller Périnelle sur le sens de la lettre, la mère Gilles lui jeta au nez qu’il n’était qu’un vieux sot, depuis longtemps crédule à toutes billevesées, et qui s’en allait à présent croire à un mot d’écrit trouvé dans la poêle à frire ! Quant à elle, non : ses filles avaient été enlevées, bien enlevées, par deux vieilles sorcières qui ne lui avaient jamais rien dit de bon. La faute en était à l’insanité et à l’orgueil du père, infatué de toute nouveauté et n’ayant à cœur que de faire de filles de bûcherons des princesses ! </p>
+        <p> La mère Gilles n’admettait aucune consolation ; et elle ne croyait à nulle chose, hormis à celles que lui dictait son sens commun. Il pouvait tomber du papier dans la poêle ou dans la soupière, elle n’en estimerait pas moins ses filles plus sûrement inexistantes que si elles étaient mortes de maladie, car dans ce cas, au moins, elle les saurait au lieu où vont les chrétiens et les honnêtes gens, tandis que, nonobstant toutes les belles écritures, elle estimait ses filles perdues, quant à leurs âmes, par le fait du regrettable marché conclu dans les Pavillons de malheur. </p>
+        <p> Le bûcheron ayant subi cette algarade s’en fut à son travail, l’échine courbée, car il était à présent plus troublé par l’opinion de sa bourgeoise qu’il ne l’avait été par le langage abondant de Frère Ildebert. </p>
+        <p> Après qu’un assez long temps se fut écoulé, une lettre en tous points semblable à la première, du moins en apparence, se trouva, non dans la poêle, en vérité, ni dans aucun lieu propre à faire croire à un pouvoir magique, mais, là, tout simplement, sur la table, entre la miche de pain et le fromage. </p>
+        <p> La mère Gilles haussa les épaules et déclara qu’au jour d’aujourd’hui, ses deux filles entreraient par la porte, comme tout le monde, qu’elle ne croirait point les voir, et ne leur ferait nul bon accueil. </p>
+        <p> Elle en fut quitte pour son affirmation de principe, car son mari, lui, sans prendre la peine de l’entendre, courait à la ville afin d’avoir lecture de la nouvelle missive. Et sa femme lui criait : </p>
+        <p> — Tu vas arriver là-bas de nuit, vieux fou, comme l’autre fois, et tu coucheras encore dehors avec des porteurs de vermine ! </p>
+        <p> Mais Gilles était déjà loin, et arriver de nuit ne l’effrayait pas, pourvu qu’il rencontrât encore Frère Ildebert. </p>
+        <p> Et, en effet, il arriva de nuit, passé le couvre-feu, et trouva portes closes. Mais parmi les sans-logis, coureurs de grands chemins et gibiers de potence qu’il côtoyait, il ne rencontra point son prémontré. Et, comme il s’informait de l’ancien religieux, on lui rit au nez : Ildebert était en prison. </p>
+        <p> La nouvelle n’était pas de celles qui confondent la raison. Mais, Gilles ayant demandé le motif qui avait valu au vieillard cette disgrâce, il lui fut répondu qu’il n’y avait pas à se mettre en peine de l’individu : il saurait bien se tirer d’affaire, étant homme à rompre les barreaux de sa geôle par un seul geste du petit doigt. </p>
+        <p> — Mais qu’a-t-il donc fait ? demanda Gilles. </p>
+        <p> — Il est dangereux, dit un chemineau. </p>
+        <p> — Mais encore ? </p>
+        <p> — Il se met à présent à guérir les convulsions et les rages de dents !. . . </p>
+        <p> — Je n’y vois point de mal, dit le bûcheron. </p>
+        <p> — Sans doute, si pour cela il employait les moyens ordinaires. . . </p>
+        <p> Alors Gilles se souvint que le moine avouait qu’il était atteint du mal d’invention. </p>
+        <p> — Il pratique les maléfices, lui fut-il dit. </p>
+        <p> Le père Gilles allait en oublier sa lettre. Il eût aussi bien fait, car s’il se trouvait là un quidam qui se déclarait capable de lire son Pater, du moins ne le pouvait-il faire à la nuit noire. </p>
+        <p> Et Gilles pesta jusqu’au petit jour, n’étant pas endormi cette fois par des propos diserts et philosophiques. </p>
+        <p> Mais, au matin, il ne se sentit aucune confiance en celui de ses compagnons qui prétendait savoir lire son Pater, et il entra dans la ville, afin de s’y informer, en premier lieu, du moine prisonnier. Ayant su que le savant homme était enfermé au Châtelet, il s’y rendit et il parvint à être admis dans une cour infecte sur laquelle donnait une étroite fenêtre grillée. </p>
+        <p> Gilles se mit en quête d’une grosse pierre, afin de se hisser jusqu’à la grille, de se faire reconnaître du prisonnier et, d’autre part, d’être bien sûr que c’était à lui et à nul autre qu’il avait affaire. </p>
+        <p> Ainsi juché, il cria : </p>
+        <p> — Ohé ! est-ce bien vous, Frère Ildebert ? </p>
+        <p> Et il vit en effet s’approcher des barreaux la bonne tête aux yeux vifs de Frère Ildebert. Alors, comme signe de reconnaissance, il lui tendit la lettre dont il désirait connaître le contenu, avant même de demander des nouvelles de l’infortuné. Mais celui-ci qui, de son côté, était plus pressé de parler de lui-même que de tout autre sujet, lui disait : </p>
+        <p> — Eh bien ! oui, me voilà à couvert !. . . Ils ont bien fait, ajoutait-il, car j’étais repris par mon péché. </p>
+        <p> L’autre avait oublié le péché qui avait valu au religieux d’être expulsé de son couvent. </p>
+        <p> — Mon péché ? Mais : mon goût immodéré pour la damnée chose matérielle. Ne me mettais-je pas tout de bon à faire des miracles ! </p>
+        <p> — Notre-Seigneur en a fait ! </p>
+        <p> — Lui, c’était pour donner éclat à sa toute-puissance. Tandis que moi, c’est par amour de l’art !. . . Je n’ai que ce que je mérite. </p>
+        <p> — Mais votre science ne peut-elle vous aider à sortir de ce trou ? </p>
+        <p> — Le ciel m’en garde ! dit l’ancien moine. Je suis trop heureux aussitôt libre et en présence des choses admirables de la nature dont j’ai envie de changer toutes les combinaisons. C’est dégoûtant d’être ainsi fait. La pénitence m’est nécessaire. Songez que même ici, où je ne vois que l’eau de ma cruche, je suis tenté d’utiliser ce liquide innocent que je me souviens d’avoir vu bouillir autrefois, oui, de l’utiliser à des choses. . . dont il vaut mieux ne pas parler. Ma cervelle, monsieur, est comme un moût qui fermente. Et au lieu de tourner à l’amélioration des hommes, ce satané génie ne cherche qu’à jouer de la matière. . . </p>
+        <p> — Pourriez-vous me lire cette lettre ? demanda Gilles. C’est qu’il y en a long cette fois. . . </p>
+        <p> — Je crois bien, dit Frère Ildebert : ce sont deux lettres et non pas une. Elles ne sont pas de même écriture. </p>
+        <p> — Souvenez-vous que j’ai deux filles bessonnes et qui savent lire et écrire ! </p>
+        <p> — Voilà, dit le moine prisonnier : </p>
+        <p> « Cher papa et chère maman, </p>
+        <p> » Nous sommes arrivées dans un pays où la température est exquise et où tout ce qu’on voit est propre à nous ravir. Il y a un fleuve dont les eaux ne sont ni bleues ni vertes comme chez nous, mais plutôt de la couleur d’un beau soleil qui se couche. On voit chaque soir des feux d’artifice, choses plus belles que nature ; figurez-vous que toute la forêt brûle, oui, mais pendant des semaines de suite. Nous venons d’assister à un splendide défilé de gens d’armes, à la tête desquels, dit-on, était le Roi. Ces grandes fêtes vont finir ; c’est bien malheureux ; mais certaines gens prétendent que l’on nous réserve des surprises et que l’on verra mieux encore. Je n’ai pas besoin de vous dire que j’ai du goût pour le voyage ; on ne peut rien imaginer de plus amusant. . . Ces dames sont excellentes ; elles nous aiment, ma sœur et moi, comme elles s’aiment mutuellement. </p>
+        <p> » Votre fille obéissante et dévouée. </p>
+        <p> » Gillette. » </p>
+        <p> — Elles ne s’embêtent pas, vos filles, dit le moine. Mais où sont-elles ? </p>
+        <p> — Oh ! pour Gillette, elle est dans un beau pays où l’on voit de belles choses et le nom lui importe peu. </p>
+        <p> — Voyons l’autre, dit Frère Ildebert. </p>
+        <p> « Mes chers parents, </p>
+        <p> » Tout d’abord, j’ai idée que vous ne devez pas être contents de nous, peut-être, car notre départ a été brusque et c’est une singulière manière d’agir, pour des filles, que de s’en aller ainsi en un si long voyage, sans avoir l’assentiment ni de son père ni de sa mère. Mais il paraît qu’il n’y avait pas à tergiverser, que, d’abord, quand on fait son éducation, il la faut faire complète, qu’une bonne éducation comporte de longs voyages, qu’enfin, pour ces voyages, le vent était tel qu’il fallait, et il ne l’aurait sans doute plus jamais été. . . </p>
+        <p> » Si je m’expliquais plus clairement, je vous livrerais le secret de la manière dont nous voyageons, et ce n’est pas possible. Sachez seulement que si je vous ai parlé du vent, ce n’est pas à l’étourdie, et que nous voyageons sans toucher terre et cependant non par eau. </p>
+        <p> » Oh ! ça n’est pas sans inconvénients. Quelques-uns nous prennent pour des oiseaux et nous envient, mais quelques-uns aussi nous tirent dessus avec leurs mousquets et il faut recourir à des manœuvres pour échapper au danger. </p>
+        <p> » D’autres fois, la grande difficulté est de savoir où se poser. Car tous les endroits ne sont pas bons, et fort peu offrent la sécurité. </p>
+        <p> » Il ne m’est pas permis de vous dire où nous sommes, car être ici paraîtrait chez vous invraisemblable, et nous risquerions de nous faire condamner au bûcher lorsque nous retournerions au pays. </p>
+        <p> » La nation qui nous abrite est en guerre avec deux de ses voisines. Il y a eu d’horribles batailles ; le sang coule à ce point que le fleuve qui roule des cadavres n’est composé lui-même à peu près que du liquide répandu par les blessures sans nombre. On tire ici à l’aide d’une artillerie bien plus perfectionnée que la nôtre et qui enflamme tout l’horizon. </p>
+        <p> » On nous a menées, naturellement, dans le pays destiné à être victorieux, parce qu’on y court relativement moins de périls, et nous avons vu tantôt défiler les troupes du général vainqueur : elles étaient très abîmées ; mais les hommes sont partout courageux ; c’est même, je vous dirai, la seule chose louable que j’aie reconnue, car pour ce qui est du reste, mieux vaut demeurer au fond de notre forêt. Je me demande même pourquoi l’on cherche à voir ou à apprendre tant, alors que la plus grande partie de ce qu’on voit est à vous détourner d’en voir davantage. </p>
+        <p> » Il y a toutefois une chose drôle, c’est d’entendre se disputer madame Je-ne-sais-qui et madame Ah !-qui-est-elle. Je n’ai jamais rien rencontré de plus comique, et cela console de beaucoup d’incommodités. </p>
+        <p> » Elles ne sont jamais d’accord ; elles se chamaillent comme deux poules ; l’une appelle blanc ce qui est noir et l’autre noir ce qui est blanc. Madame Je-ne-sais-qui pousse l’aménité jusqu’à trouver parfaites les opinions de sa sœur, qui sont exactement contraires aux siennes, mais cela révolte l’aînée ; celle-ci dit alors à sa cadette tant de mal de ses opinions et des gens défendus par elle, que l’autre, qui veut ces gens tous parfaits et leurs opinions toutes bonnes, finit par les défendre avec une impétuosité héroïque, ou bien se montre accablée par le chagrin, quand on lui démontre qu’il y a des créatures mauvaises. Et le rire nous en prend à toutes, même à l’accusatrice et même à Gillette qui, comme il convient, est toujours de l’avis de sa maîtresse. De sorte que c’est de nos propres maux que nous tirons et notre remède et notre principal agrément, et que, souvent, de nous rendre compte que nous sommes insupportables, nous amène à nous supporter. </p>
+        <p> » Ma maîtresse m’a dit que, lorsqu’on sait beaucoup, le principal résultat est de se trouver d’un avis opposé à celui des autres et fréquemment au sien propre. </p>
+        <p> » Elle dit que savoir engendre forcément discussion, doute et incrédulité. – « Alors, pourquoi apprenons-nous ? » lui ai-je demandé. Elle m’a répondu : « Parce qu’il n’y a pas moyen de faire autrement. » </p>
+        <p> » À l’heure où je vous écris, le peuple victorieux n’est pas content parce qu’il pense avec raison que le vaincu voudra être vainqueur demain. Alors il est question que les vainqueurs d’aujourd’hui se mangent les uns les autres, en attendant qu’ils soient vaincus. </p>
+        <p> » Nos maîtresses ont décidé que nous avions vu ici assez de choses instructives. Pour une fois, elles sont tombées d’accord, et nous repartons vers un pays nouveau. C’est bien commode. </p>
+        <p> » Voilà, mes chers parents. Je pourrais vous en dire beaucoup plus, mais je crains que vous n’ayez déjà de la peine à vous faire lire cela. De vos nouvelles qui nous manquent, mon Dieu ! nous ne nous mettons point trop en peine, car nous savons que votre vie est régulière et monotone, ce qui s’appelle heureuse. . . </p>
+        <p> » Je vous embrasse tendrement. </p>
+        <p> » Gillonne. » </p>
+        <p> L’ancien prémontré retenait les deux lettres dans sa main tremblante. </p>
+        <p> — Ça vous fatigue de lire ? demanda Gilles. </p>
+        <p> — Ce n’est pas cela, dit le prisonnier, mais je vois par cette lettre qu’ils ont tout découvert. . . </p>
+        <p> — Quoi ? </p>
+        <p> — Ils ont découvert ce que je cherchais !. . . </p>
+        <p> — Vous cherchiez à m’enlever mes filles ? </p>
+        <p> — Non. Mais à voyager. . . </p>
+        <p> Et il répéta : </p>
+        <p> — Voyager !. . . </p>
+        <p> Son œil de rêveur se fixa au loin, et il voyait sans doute de fantastiques moyens de transport et le globe entier roulant sous ses pieds comme une boule. </p>
+        <p> Aussitôt il fit son signe de croix et s’agenouilla dans le cachot. </p>
+        <p> Il demandait pardon à Dieu d’une concupiscence excessive et qu’il jugeait criminelle. </p>
+        <p> À peine réapparu à la fenêtre grillée, il dit à Gilles : </p>
+        <p> — Ce n’est pas tout ça, mon bonhomme : il faut que vous teniez ces lettres soigneusement secrètes. . . </p>
+        <p> — Je ne peux manquer de donner à ma femme des nouvelles de ses filles ?. . . et comment tiendrais-je ma langue vis-à-vis des amis qui croient que mes deux petites ont mal tourné ?. . . </p>
+        <p> — En ce cas, vous êtes perdu, dit Frère Ildebert. </p>
+        <p> — Comment cela ? </p>
+        <p> — Votre fille prend la précaution de vous en avertir elle-même : je vous vois cuits et rôtis avant moi, vous et votre progéniture. . . Ignoriez-vous que toutes ces innovations diaboliques étaient, à bon droit, mal vues par les gens sages ?. . . Voyons ! de vous à moi, entre quelles mains sont-elles ? Et par quels diables les avez-vous fait éduquer ? </p>
+        <p> Il fallut que Gilles racontât tout ce qui était advenu depuis la rencontre de la fée Malice. </p>
+        <p> L’ancien religieux retomba encore une fois à genoux après force signes de croix. Puis il dit : </p>
+        <p> — Je ne doute plus de quel seigneur proviennent les imaginations dont je suis assailli. J’en avais le triste pressentiment. On a bien fait de me jeter à la porte du couvent, oui ; mais je veux rentrer en grâce ! Je me ferai exorciser. . . J’irai à Rome, à pied, s’il le faut. . . </p>
+        <p> — Parbleu ! vous aimez le voyage, dit Gilles. </p>
+        <p> — Ah ! vous avez raison, simple homme des bois ! fit Ildebert. Et voyez ! jusqu’en mes moments de contrition la plus vive, le Malin vient me tendre des pièges. . . C’est le voyage qui me plaisait ! Et je gage que, pour aller à Rome, j’eusse construit quelque ustensile inouï. . . </p>
+        <p> — Moi, dit l’homme des bois, je crois tout bonnement que la prison vous est contraire ; et, si je pouvais vous tirer de là. . . </p>
+        <p> — N’en faites rien, quand vous connaîtriez des puissants du monde ! dit l’ancien moine, car je commettrais le mal encore plus sûrement au dehors qu’au dedans. Mais si la réclusion vous effraye, ne vous exposez pas vous-même à la subir. Vous avez dans votre poche de quoi vous faire monter sur le bûcher !. . . </p>
+        <p> — Adieu et merci, Frère Ildebert, portez-vous bien ! </p>
+        <p> Gilles s’en alla à l’auberge où il avait tué le ver, lors de son dernier voyage à la ville, en compagnie du défroqué. </p>
+        <p> Il demeurait perplexe et ruminait plusieurs choses à la fois dans sa tête. </p>
+        <p> Il n’était pas assis là depuis un quart d’heure, sous le cep qui tord ses vieux câbles le long de la maison, qu’il vit arriver vers lui, toujours fidèle à l’heure de l’office matinal, le jeune Loys, le fils de M. le conseiller Périnelle. </p>
+        <p> À sa grande surprise, cette fois-ci, c’était le fils du conseiller Périnelle qui avait l’air de le chercher : Loys avait mis son beau cheval bai au pas, et il lorgnait attentivement les gens de l’auberge. </p>
+        <p> Il appela en effet Gilles par son nom et lui fit signe de s’approcher : </p>
+        <p> — Avez-vous des nouvelles ? demanda Loys. </p>
+        <p> — Et de qui donc ? fit Gilles stupéfait. </p>
+        <p> — Mais de vos charmantes filles, parbleu ! dit le propre fils du conseiller au parlement. Vous savez que je raffole des voyages, quoique je ne sois allé nulle part, mais je n’aurais rien autant aimé que d’en faire un. . . surtout un tel que celui qu’elles font, j’imagine. . . </p>
+        <p> Et, ce disant, ses yeux quittèrent le monde visible et s’égarèrent un long moment dans l’azur matinal. Comme le religieux tourmenté du démon, ce jeune homme rêvait à des voyages. . . Puis il poussa un gros soupir et dit : </p>
+        <p> — Vous n’avez donc rien à me faire lire, ce matin ? </p>
+        <p> Il n’eut point de peine, ayant été très bien instruit à la fois par les deux Dames, c’est-à-dire étant habile à interpréter les choses de la manière la plus favorable et aussi à les juger implacablement, il n’eut point de peine à démêler, dans l’attitude du père des bessonnes, un grand embarras. </p>
+        <p> — Quelqu’un vous a déjà rendu ce service, je parie ? Vous connaissez des clercs, père Gilles ? </p>
+        <p> — Des clercs ?. . . Oui et non !. . . Si c’était un effet de votre bonté, j’irais vous expliquer cela un peu plus loin des yeux et des oreilles. . . </p>
+        <p> — Venez donc, dit Loys. </p>
+        <p> Gilles régla son écot et, enrichi de la considération de l’aubergiste et de ses clients, à cause des belles relations qu’il avait, il s’en alla, sous un orme, rejoindre le fils du conseiller au Parlement, lequel avait mis, s’il vous plaît, pied à terre. </p>
+        <p> Gilles lui demanda de jurer sur le Sacrement qu’il ne dévoilerait à qui que ce soit, même en confession, le secret qu’il allait lui confier ; et, avant de lui donner à lire ses deux lettres, il lui narra toute l’histoire de l’infortuné Frère Ildebert. </p>
+        <p> Le bûcheron, qui était sans malignité, et qui croyait ne s’adresser qu’à un puissant personnage capable de faire élargir le prisonnier, ne se doutait pas que le fils du conseiller Périnelle, élève des deux Dames et versé en toute science dès son jeune âge, mais « retiré à temps », selon la parole même du prémontré, portait un intérêt particulier à toutes les choses qui troublaient la cervelle d’Ildebert. Loys promit d’aller lui-même visiter le prisonnier aussitôt après la messe, et, ou de le faire rentrer au couvent, dit-il, ou bien d’y perdre lui-même son latin. </p>
+        <p> L’aventure le toucha si fort qu’il en allait oublier les lettres. Il les lut vite, pendant que le premier coup de l’office tintait à l’église métropolitaine. Et il dit à Gilles : </p>
+        <p> — Mais comment avez-vous reçu cela ? </p>
+        <p> Gilles mit un doigt sur sa bouche : </p>
+        <p> — Je vous le dirais bien ; mais ça n’est pas croyable. </p>
+        <p> Le jeune homme incomplètement initié aux sciences professées dans les Pavillons s’écria : </p>
+        <p> — Peste ! </p>
+        <p> Ses joues s’empourprèrent. Il était avide de merveilles, et l’aventure des filles du bûcheron l’intéressait plus que tout au monde. </p>
+        <p> — Gardons le secret ! toute parole, en effet, pourrait être fatale. . . </p>
+        <p> Et il remonta sur son beau cheval bai. </p>
+        <p></p>
+      </div>
+      <div title="Chapitre 7 Le secret." type="chapter">
+        <p> Chapitre 7 </p>
+        <lb/>
+        <p> Le secret. </p>
+        <p> GILLES, DE RETOUR À sa cabane, n’eut point de cesse qu’il n’eût raconté à sa femme les moindres détails de son voyage à la ville et du contenu des deux lettres.  Il eut une double occasion de s’en repentir : d’abord la mère Gilles se refusa absolument à rien entendre, ensuite elle poursuivit son mari de quolibets dans la mesure même où il se montrait crédule ; et il n’y avait de moment, que ce fût le jour ou bien la nuit, où elle ne trouvât le moyen de se gausser de la sottise du bonhomme. </p>
+        <p> Et, comme elle ne prenait rien au sérieux de tout ce qu’il avait dit, vous pensez si elle se priva, devant les amis du dimanche, de narrer les lubies de son époux et les prétendues rencontres singulières qu’il faisait à la ville, sinon avec le fils du conseiller Périnelle, car elle avait peur des personnages puissants, du moins avec le moine défroqué ! </p>
+        <p> Les bûcherons et leur famille se trouvèrent divisés en deux clans. Dans le premier : ceux qui prenaient le parti de rire, lesquels laissèrent toutes ces affaires à l’état de plaisanteries. Dans le second : les quinteux, qui avaient pour la plupart une oreille plus basse que l’autre, lesquels commencèrent par ne dire mot, puis amenèrent, le dimanche suivant, certain parent à eux, qui était tonsuré, et à qui l’on fit lire les lettres fameuses arrivées d’un pays fabuleux, et tombées entre la miche de pain et le fromage. </p>
+        <p> Il n’en fallut pas plus pour que le pays fût en émoi. Les langues allèrent leur train par la forêt et les villages, et, en peu de jours, les faits tels que nous les avons rapportés, étaient devenus les suivants : </p>
+        <p> Gilles et sa femme avaient, primo, vendu leur âme au diable ; secundo, livré leurs deux filles à une troupe de malandrins, faux monnayeurs, que le misérable allait retrouver à la nuit dans les fossés de la ville. Moyennant quoi, tout en simulant qu’ils habitaient un toit de chaume, les époux Gilles avaient fait élever deux pavillons opulents où se célébrait le Sabbat et où pullulaient des animaux féroces destinés à dévorer tous les petits enfants du pays. </p>
+        <p> — Enfin ! lui jeta un jour quelqu’un, tu t’enrichis et nous ne le faisons pas : est-ce un fait, cela, oui ou non ? </p>
+        <p> C’était un fait ; et c’était même le motif de toute l’accusation. </p>
+        <p> Mais Gilles, descendant alors au fond de lui-même, se souvenait que, depuis de longues années, il y avait dans son coffre, à chaque fois qu’il y regardait, un petit excédent de recettes, et qu’il avait très vite tenu cet avantage pour légitime et dû à sa personne. Et il lui était arrivé, depuis lors, tant de choses merveilleuses, que celle-là lui avait paru la plus ordinaire. Était-elle le résultat d’un pacte ? Ce pacte, est-ce qu’il l’aurait conclu en dormant ? ou bien un jour qu’il était ivre ? </p>
+        <p> De sorte qu’il était d’autant plus malheureux qu’il se demandait s’il n’était pas coupable. </p>
+        <p> Les amis du dimanche s’écartèrent de la hutte. Mais on voyait certains d’entre eux rôder dans le voisinage, l’œil aux aguets, comme s’ils allaient découvrir quelque monstrueux prodige autour de la demeure du bûcheron, et, par exemple, l’entrée du diable, cornu et couleur de braise, se faufilant à leur place pour manger les rôties et le pain perdu. </p>
+        <p> Ce qu’ils virent arriver et pénétrer dans la hutte, un beau dimanche, à la place du diable, ce furent quatre membres du clergé séculier, suivis de jeunes clercs portant l’eau bénite et de plusieurs gens de robe et d’épée. </p>
+        <p> La cabane fut aspergée et les bûcherons interrogés ; on visita coins et recoins ; on fractura un coffre empli de pièces d’or ; elles étaient pures, de poids juste et à l’effigie du Roi, mais d’une quantité propre à rendre, par elle seule, suspect un tâcheron à la journée ; on trouva aussi les lettres que le père imprudent conservait sur son cœur ; et lecture en fut donnée à haute voix. Par là se trouvèrent redressées certaines des calomnies répandues sur le compte de Gilles ; mais quand il dit, naïvement, la manière dont ces lettres lui étaient parvenues, on l’appréhenda au col. </p>
+        <p> Et, ainsi maintenu par la poigne vigoureuse des hommes d’armes, Gilles fut sommé de conduire la compagnie aux trop fameux pavillons. </p>
+        <p> On en prit le chemin. Le père et la mère Gilles versaient des larmes en commun, mais s’accusaient mutuellement du malheur arrivé. </p>
+        <p> Ils marchèrent durant un temps qui leur parut long, sans rencontrer ni pavillons, ni grilles, ni même une pierre décelant qu’une construction se fût élevée là. Gilles dit : </p>
+        <p> — Je ne me trompe pas : voici le soleil ; il est quatre heures de relevée ; nous sommes bien dans la direction. . . à moins que j’aie la berlue. </p>
+        <p> — Tu ne te trompes pas, lui fut-il répondu, mais tu nous trompes ; et il faut nous montrer ces pavillons. . . </p>
+        <p> — Voici la clairière, dit Gilles : celui de gauche est ici, celui de droite est là. . . </p>
+        <p> — Gauche ou droite, lui fut-il dit, le certain est qu’il n’y a rien. </p>
+        <p> Gilles, se croyant fou, demanda à retourner à la cabane et à revenir sur ses pas. </p>
+        <p> On consentit à le ramener, toujours maintenu, à la cabane ; et il revint en comptant ses pas, les yeux bandés ; il s’arrêta exactement au même endroit. </p>
+        <p> Alors on lui dit qu’il était un imposteur et qu’il se moquait des autorités ecclésiastiques, civiles et militaires. Il persista à soutenir que les pavillons s’élevaient là, encore, la veille au soir, même qu’il avait vu l’herbe envahir les cours, la mousse y couvrir les toitures, des arbustes pousser dans la muraille déchaussée, et qu’il avait dû abattre de la main les toiles d’araignée tissées entre les barreaux, où le chat lui-même ne passait plus. </p>
+        <p> Et, comme il persistait en son dire, bien qu’il fût patent aux yeux de tous, et même aux siens, que la clairière était nue, sans pierrailles, et même hérissée d’une jolie bruyère rose, Gilles reçut l’ordre, ainsi que sa femme, de suivre l’escorte jusqu’à la ville. </p>
+        <p> Au moment où l’on allait lui lier les mains, il demanda à ramasser, sur le sol herbeux, un objet brillant qu’il apercevait. C’était un médaillon de taille à être logé au creux de la main et reproduisant en miniature le grand portrait vu dans le salon de musique, le jour mémorable de la visite. </p>
+        <p> À peine le cortège s’était-il ébranlé, que les bûcherons voisins approchèrent de la hutte abandonnée ; ils y firent main basse sur tous objets et notamment sur le trésor enfermé dans le coffre : et, le lieu étant vidé, l’un d’eux mit le feu à la toiture. Il croyait bien agir. </p>
+        <p> Et, s’étant éloignés, ils regardèrent flamber la cabane de Gilles le bûcheron. </p>
+        <p> Mais ils virent aussi surgir alors d’on ne sait quel lieu et l’on eût dit que c’était des cendres, le chat du logis, Minou, qui se mit à s’élancer dans les airs, le dos arqué, la queue ramassée sous le ventre, à retomber sur ses quatre pattes, à rebondir comme un ballon, à grimper aux troncs des arbres voisins en les écorchant de ses griffes, puis à se laisser choir par culbutes vertigineuses, son corps écartelé tout à coup et semblant fixé par quatre épingles comme une chauve-souris, puis, touchant le sol, pour se livrer, sur les débris calcinés de la demeure, à une danse sauvage et terrifiante, et qui n’avait d’égale en horreur que les haltes soudaines de l’animal au gros dos, aux prunelles jaunes, étincelant dans la nuit qui tombe. </p>
+        <p> Tous s’enfuirent, assurés que si l’on avait délivré la forêt d’un couple pernicieux, le diable, lui, du moins, demeurait sain et sauf. </p>
+        <p></p>
+      </div>
+      <div title="Chapitre 8 Le cachot. La fée. Nouvelles du pays des merveilles. Marche funèbre." type="chapter">
+        <p> Chapitre 8 </p>
+        <lb/>
+        <p> Le cachot. La fée. Nouvelles du pays des merveilles. Marche funèbre. </p>
+        <p> A L’ASPECT DES COULOIRS QU’ON lui fit parcourir, Gilles reconnut qu’on le dirigeait dans la partie du Châtelet où il avait été admis à visiter le Frère Ildebert ; et en effet, c’était celle qui était affectée au Saint-Office, juridiction dont il relevait, lui ainsi que sa femme, du chef de l’accusation de sorcellerie. </p>
+        <p> On ne les sépara ni ne les fouilla, ni ne les mensura, bien entendu, car tous les progrès dont nous jouissons n’étaient pas accomplis, mais on les jeta dans un cachot obscur où il leur sembla dès l’abord que d’autres prisonniers comme eux se trouvaient. </p>
+        <p> Gilles alla aussitôt à la fenêtre qui était élevée et grillagée ; il se hissa sur le ballot de hardes qu’il avait apporté avec lui et reconnut parfaitement la cour sordide où il avait tenu conversation, non pas longtemps auparavant, avec l’ancien moine. Il en conclut qu’Ildebert ne devait pas être logé loin d’ici. </p>
+        <p> — C’est bien l’endroit où séjourna Frère Ildebert, dit une femme qui gisait en un coin du réduit. Mais vous ne le verrez plus : il est retourné dans son couvent. . . </p>
+        <p> Gilles fut émerveillé que quelqu’un eût surpris ainsi sa pensée, car il n’avait point parlé de Frère Ildebert. </p>
+        <p> — Qui êtes-vous ? demanda-t-il. </p>
+        <p> Et il discerna une femme excessivement vieille qui lui dit qu’elle était comme lui prisonnière, par la faute de posséder le don de seconde vue. Elle voyait, disait-elle, ce qui se passait au loin comme dans le voisinage, et était à même de prédire ce qui se passerait demain. </p>
+        <p> — En ce cas, dit Gilles, je ne suis pas fâché de vous rencontrer, car je voudrais savoir ce qu’il advient pour l��heure de mes deux filles bessonnes, et si je serai demain brûlé vif avec ma bourgeoise, malgré le fils de monsieur le conseiller Périnelle que j’ai l’honneur de connaître et qui doit avoir le bras long. . . </p>
+        <p> — Pour ce qui est du fils de monsieur le conseiller Périnelle, dit la vieille, il ne serait pas prudent de fonder sur lui grand espoir, car il a été incapable de faire élargir le Frère Ildebert, étant lui-même un peu suspect de s’adonner à la magie. </p>
+        <p> — Ah ! dit Gilles, et comment le Frère Ildebert est-il sorti de prison ? </p>
+        <p> — Grâce à l’idée qu’a eue son supérieur, de venir le réclamer. </p>
+        <p> — Mais comment son supérieur a-t-il pu concevoir une telle idée, le Frère ayant été chassé de son couvent pour s’être adonné à des commerces diaboliques ? </p>
+        <p> — Oh ! c’est bien simple, dit la vieille ; une maladie s’était déclarée sur les vignes du couvent, les celliers étaient vides. Le supérieur s’est souvenu que le Frère Ildebert connaissait des secrets. </p>
+        <p> — Et alors ? </p>
+        <p> — Frère Ildebert a remis les vignes en état de prospérité et il a rempli les celliers. On lui a permis de réendosser sa robe, de dire la messe, comme il en avait le désir, et, depuis lors, on ferme les yeux sur ses petites pratiques. </p>
+        <p> — C’est un homme qui eût inventé la poudre ! dit Gilles. </p>
+        <p> — Il y a bien d’autres choses à inventer, dit la vieille. </p>
+        <p> À ce moment, Gilles, commençant de se faire à la pénombre, distingua les traits de la vieille. Ils ne lui étaient pas tout à fait inconnus. </p>
+        <p> — Où donc est-ce que je vous ai vue ? lui demanda-t-il. </p>
+        <p> — Le monde est petit, se contenta-t-elle de répondre. </p>
+        <p> — Et mes filles ? reprit Gilles. </p>
+        <p> — Ah ! vos filles ?. . . Eh bien ! tenez, je les vois. </p>
+        <p> — Vous les voyez ! </p>
+        <p> — Vous les voyez ? dit la mère Gilles, incrédule, mais qui ne pouvait contenir son besoin de croire. Mais voilà qu’à présent elle avait peur de ce qu’elle pourrait entendre, et elle fit signe à la vieille de se taire. </p>
+        <p> Gilles s’assit tristement dans une encoignure du cachot et pensa à ses filles voyageuses ; puis il tira de son gousset le médaillon qu’il avait ramassé à l’endroit même où s’était élevé un des pavillons. Et, profitant d’un restant de lumière, il dit à sa femme : </p>
+        <p> — Ça ne te rappelle rien, à toi ? </p>
+        <p> Elle haussa les épaules, voulant signifier que tout le monde perdait la tête. </p>
+        <p> Gilles regardait néanmoins le médaillon et ne pouvait s’empêcher de penser qu’il était singulier que ce seul objet, reste des pavillons disparus, lui fût tombé entre les mains. </p>
+        <p> Il le regarda si attentivement que, la nuit suivante, il le revit en songe, mais déformé par l’imagination capricieuse du sommeil et agrandi, notamment, outre mesure. </p>
+        <p> La femme jeune et admirable qui y était représentée, non seulement avait atteint les proportions de l’objet que ce médaillon rappelait à Gilles, – et qui n’était autre que le portrait aperçu un jour dans la grande pièce des Pavillons, – mais adoptait, cette fois, toutes les apparences de la vie. C’était une femme chaude, animée, et belle, telle que le bûcheron n’en avait jamais vu – sauf une fois, le matin du baptême de ses filles, et pendant un temps beaucoup trop court ; – elle était vêtue d’une tunique, non de drap d’or, mais de lin fort léger qui décelait les formes d’une déesse ; ses cheveux étaient trop beaux pour être décrits ; son visage eût été aimable s’il n’eût paru supérieur à celui de tous les mortels ; et lorsqu’elle parlait, son sourire découvrait des dents bien rangées et éclatantes de pureté. </p>
+        <p> Cette femme merveilleuse parla, et elle dit à Gilles des choses qui lui parurent superbes, mais auxquelles il ne comprit absolument rien : </p>
+        <p> — Invisibles, parmi la foule des humains, dit-elle, il est des êtres que traverse la divine lumière et qui voltigent mieux que l’oiseau, le papillon ou la luciole des soirs d’été, sans être incommodés de ces deux pesants fardeaux que vous nommez l’espace et le temps. </p>
+        <p> » Nous sommes les génies, ô bûcheron ! Nous buvons la rosée du matin ; nous nous baignons dans les sources de la forêt ; nous nous plaisons au cœur des arbres que tu soignes ou que tu abats, car rien n’égale en volupté la senteur des bois et des feuillages ; nous dansons la nuit sur les bruyères que la plante de nos pieds n’a même pas foulées le matin ; et nous adorons la lune, notre sœur pâle, qui aime à se mirer dans l’eau immobile des étangs. </p>
+        <p> » Les plus parfaites d’entre nous ignorent ce qui vous fait du bien, à vous, et ce qui vous fait du mal, car cela – si vous saviez ! – a si peu d’importance ! C’est pourquoi certaines d’entre nous vous maltraitent comme vous maltraitez vous-mêmes les insectes. Mais d’autres, qui ont gardé quelque attache à la terre, éprouvent le besoin de vous avertir que telle chose vous sera bonne et telle autre néfaste ; elles pleurent encore de vos maux et se réjouissent de vos plaisirs. Cela nous semble, à nous, un peu risible, et nous fait songer à des scènes de la comédie, au temps où les hommes avaient l’esprit fin. </p>
+        <p> » Il n’est qu’une seule chose dans le monde, ô bûcheron ! c’est l’âme, dont nous ne savons seulement pas si elle a été créée par un dieu ou si elle est Dieu lui-même. Mais le certain, c’est qu’elle se meut comme une balle de sureau qu’un enfant lance avec sa sarbacane et qui semble s’élever à tout jamais dans l’azur profond. . . Le curieux est qu’elle revient !. . . Oui, ami, tu t’en moques, mais elle revient à son point de départ. Rien ne s’arrête ; mais rien ne dépasse une altitude, entre nous, bien pauvre. . . </p>
+        <p> » Les naïfs prennent ce mouvement pour un progrès dont ils tirent vanité ; et les pires maux sont engendrés par les ingénus qui croient que demain sera meilleur que n’est aujourd’hui et que ne fut hier. Si vous ne vous faisiez pas cette illusion, d’ailleurs, à quoi vous occuperiez-vous, ô misérables ? Les hommes ont en eux une frénésie d’air qu’ils ne savent comment employer, et, s’apercevant que tout se déplace, ils ont imaginé de s’enorgueillir de ce mouvement qu’ils rendent néfaste en se bousculant pour y prendre mieux part. Pour leur bonheur, ah ! qu’ils feraient mieux de demeurer en repos ! Et encore une fois, je te le dis : cela nous est tellement égal ! Et tout, d’ailleurs, est indifférent, hormis l’existence du génie qui découvre et comprend. . . </p>
+        <p> » Ceux qui jugent que tout est bien, ont encore raison sur ceux qui pèsent minutieusement le pour et le contre, puisqu’ils ne froncent jamais le sourcil, sourient sans cesse, et finalement atteignent le même but, que ce soit aujourd’hui, que ce soit demain. </p>
+        <p> » Avec toi, mon bonhomme, je me suis divertie et j’ai joui de ton ambition saugrenue ; mais j’en aurai bientôt assez. Tiens, bûcheron, je m’en retourne pour me dissoudre parmi les humidités de l’aurore. Si, par la chaleur de midi, tu me rencontres à l’ombre de tes bois, j’en serai la fraîcheur au goût âpre, le bruit de perles des fontaines, ou le rayon qui caresse les pointes fleuries des bruyères. Alors, ne me sache point gré, ni ne m’aie de rancune de quoi que ce soit, car je suis le Génie ou la Fée qui se moque de toi comme la Nature elle-même, et contre qui tu ne peux rien. » </p>
+        <p> Ayant tenu ce discours, l’être radieux, qui rappelait le portrait du médaillon, disparut. Et quoique cette figure de femme fût médiocrement bienveillante, le bûcheron, en son rêve, tendit les mains vers elle avec regret, parce qu’elle était belle. Et il eût souffert mille maux pour la revoir et lui entendre encore dire des paroles, fût-ce les plus amères et les plus détestables. </p>
+        <p> Lorsqu’il s’éveilla, le matin, il vit près de lui sa femme et, non loin, la centenaire ainsi que plusieurs gens de mauvaise mine. </p>
+        <p> Alors il fut pris d’une grande tristesse, car il pensait au songe de la nuit ; et il se mit à contempler le médaillon qui était pareil, en petit, à ce qu’il avait eu le plaisir d’admirer. </p>
+        <p> Il y a dans le beau, comme dans le vrai et dans le bien, quelque principe subtil qui nous contraint à l’aimer alors même qu’il nous tue. </p>
+        <p> Gilles en oubliait tout : et de s’informer s’il y avait chance qu’il sortît de prison, et de demander à la vieille à double vue de lui parler des bessonnes. </p>
+        <p> Ce fut la mère qui, n’y tenant plus, interrogea la première. </p>
+        <p> — Votre blondine, dit la vieille, est dans une belle salle de palais, car vos filles habitent chez un prince, et un jeune homme est à ses pieds. . . </p>
+        <p> — Un jeune homme ! s’écria Gilles, mais je n’aime pas tant cela ! Ma fille n’est pas née pour épouser un freluquet. Et que fait donc sa gouvernante ? </p>
+        <p> — Sa gouvernante a dit que c’était parfait, que le jeune homme était excessivement bien élevé, et elle a été prendre l’air sous prétexte que la température est exquise. . . </p>
+        <p> — Je lui tirerai les oreilles et je donnerai sa perruque jaune à manger aux lapins. </p>
+        <p> La vieille continuait : </p>
+        <p> — Les instruments de musique font entendre des mélodies troublantes ; des jeunes filles dansent harmonieusement ; on sert dans des plateaux d’or les fruits du pays, et des liqueurs vermeilles dans des aiguières. . . Je vois des colonnes de porphyre, des esclaves sans nombre, des brûle-parfums, des corps frottés d’huile, des vêtements splendides, des têtes couronnées et des scènes d’amour. . . </p>
+        <p> — Mes filles sont perdues. . . dirent le bûcheron et sa femme. </p>
+        <p> — On court toujours quelque risque, du moment que l’on sort de chez soi. </p>
+        <p> La mère Gilles lança un coup d’œil du côté de son mari. </p>
+        <p> Cet entretien fut interrompu par l’entrée de certains juges dans la prison. Ils venaient procéder à l’interrogatoire des époux. </p>
+        <p> Nous n’insisterons pas sur cette triste affaire. Elle était en fort mauvaise voie. </p>
+        <p> Les accusés écoutèrent bouche bée, comprirent peu de chose et tinrent leur supplice pour assuré avant même que ne pussent revenir les bessonnes dont le sort les tenait haletants. </p>
+        <p> Depuis qu’elle considérait son sort comme désespéré, la mère Gilles, qui avait quasi renoncé à ses filles, ne pensait plus qu’à sa maison ; et, bien qu’elle eût grand mépris pour la centenaire à double vue ou soi-disant telle, elle lui demanda si Minou, au moins, se nourrissait convenablement et rentrait de nuit par la chatière. </p>
+        <p> La vieille ricana : </p>
+        <p> — Votre maison, ma pauvre femme, elle est dispersée au vent comme la graine de pissenlit sur laquelle s’amuse à souffler une petite fille !. . . </p>
+        <p> Alors la mère Gilles, qui pourtant ne voulait point croire cette bohémienne, ne s’intéressa plus à rien. </p>
+        <p> Lorsque le fils du conseiller Périnelle vint la voir dans sa prison et lui dit, ainsi qu’à son conjoint, qu’il ne pouvait point détacher sa pensée de ses gracieuses filles, qu’il les suivait en leur voyage extraordinaire, et qu’il était résolu à ne prendre aucune femme sinon l’une d’elles, elle fut à cela aussi insensible que si on lui eût dit qu’il tomberait, sur les quatre heures, une petite pluie. </p>
+        <p> Gilles, lui, à cette proposition plus extraordinaire que tout ce qui lui était arrivé, se montrait très embarrassé et il disait seulement : </p>
+        <p> — Pourvu qu’elles reviennent ! </p>
+        <p> — Elles reviendront, dit la vieille. </p>
+        <p> — Mais quand cela ? demandait Gilles. </p>
+        <p> — Quand la plante des pieds nous cuira. . . </p>
+        <p> — Que signifient ces paroles, Seigneur Dieu ? </p>
+        <p> La mère Gilles, dans son coin : </p>
+        <p> — Madame t’annonce que nous allons monter sur le bûcher, et cela au moins est chose vraisemblable. </p>
+        <p> Le fils du conseiller Périnelle dit qu’il irait plutôt trouver le Roi, la Reine ou Monseigneur le Dauphin qui était né le même jour que lui. </p>
+        <p> — Oui, fit malignement la mère Gilles, mais il n’a pas été instruit à la même école !. . . </p>
+        <p> Et, en effet, à ces mots, le beau Loys rougit. Il avait rencontré le père et la mère Gilles dans les fameux Pavillons. Et, sans cette circonstance, il eût eu de l’ascendant aujourd’hui et eût tiré les malheureux de prison. </p>
+        <p> Élevé, lui, à la fois par les deux « Dames », il trouvait tout bel et bon comme la première, et ne se tourmentait de rien ; et à l’exemple de la seconde, il jugeait néanmoins gens et choses impitoyablement, ce qui le rendait perplexe et inhabile à la décision. </p>
+        <p> — On vous en a trop appris, mon beau jeune homme, disait la mère Gilles, et vous seriez plus à l’aise et plus avancé, n’ayant jamais mis les pieds à l’école. </p>
+        <p> — Tais-toi ! s’écriait le père Gilles ; il faut apprendre à ses risques et périls ! Et tu le prouves toi-même, car c’est honteux de n’être qu’une bête. </p>
+        <p> Ils se seraient disputés plus longtemps et plus aigrement encore si des gens à mine chafouine n’étaient entrés pour conduire nos pauvres détenus devant le tribunal. Nous ne les suivrons point là, n’y ayant rien au monde qui m’éloigne autant que l’appareil de la justice des hommes. </p>
+        <p> Sachez que lorsque les époux Gilles revinrent, ils étaient reconnus coupables et condamnés à être brûlés vifs. La centenaire avait été happée avec eux, car son destin légal était le même, paraît-il. </p>
+        <p> Ils étaient remplis de stupeur, mais non pas plus malheureux qu’auparavant, car l’assurance du suprême malheur vous tue un peu par avance. Il n’y avait que le jeune et beau Loys, le fils du conseiller Périnelle, qui pleurât. Ce doux et docte garçon ne savait où donner de la tête ; il s’en allait partout criant qu’il épouserait à la fois les deux filles du condamné ; il faisait harnacher son cheval bai et se mettait en route pour aller implorer grâce auprès du Roi, de la Reine et de Monseigneur le Dauphin ; mais avant l’heure du couvre-feu, il était de retour et dans son lit, à cause de ses idées contradictoires. </p>
+        <p> Cependant Gilles, dont les dernières pensées allaient à ses filles et à l’espoir invétéré d’une brillante situation pour elles, consultait la vieille : </p>
+        <p> — Et à présent, disait-il, que deviennent-elles ? </p>
+        <p> — Je vois un grand voyage qu’elles ont rapidement accompli. Votre Gillette aime les déplacements et y trouve tout agréable. Gillonne fait volontiers la grimace et est sans cesse préoccupée de ses bagages et de la peur de tomber. . . </p>
+        <p> — De tomber ?. . . </p>
+        <p> — Oui, de tomber, et même de haut !. . . Mais ce n’est pas tout ça : je les vois qui se prélassent aujourd’hui dans des demeures couleur de faïence. . . Il y a à leur disposition des jardins majestueux et frais, des allées de cyprès, des bois de cèdres, des bancs de marbre et des vasques luisantes qui invitent au bain. On entend une musique cachée. . . Attention ! voici trois plongeons dans la mer voisine : ce sont trois créatures enfermées dans un sac de toile et que les bourreaux jettent à l’eau. . . Mais le concert continue. . . Gillette ôte ses vêtements, car sa gouvernante lui a dit que la température était exquise, et votre fille pose les pieds dans un bassin luisant. . . </p>
+        <p> — Et Gillonne ? </p>
+        <p> — Gillonne se méfie. Sa gouvernante lui a fait remarquer qu’après tout, ce pays était mal connu et qu’il convenait peut-être de demeurer seule en sa chambre. . . Dans un jardin voisin, ah ! tenez, je vois un homme enrubanné qui tranche le cou de quelqu’un avec un grand couteau recourbé. . . </p>
+        <p> — Mais, on tue donc partout ? s’écria Gilles épouvanté. </p>
+        <p> — Oh ! ce n’est rien. Le sang a giclé au loin, mais des gens étaient là qui ont tout lessivé en un instant, et déjà, tenez. . . je vois que l’on danse au même lieu. . . Eh ! mais, mon bonhomme, voici une lettre qu’on a passée sous la porte : est-ce pour vous ? est-ce pour moi ? J’ai de mauvais yeux. </p>
+        <p> — Je ne sais pas lire, dit Gilles tout penaud. </p>
+        <p> — Dans ce cas, il faudra attendre que nous trouvions quelque clerc. . . On nous enverra peut-être un confesseur avant que d’aller au bûcher. . . </p>
+        <p> Le pauvre Gilles prit la lettre ; mais il tremblait de tous ses membres : </p>
+        <p> — Tu vois ce que c’est que de ne point être capable de lire, dit-il à sa femme. </p>
+        <p> Celle-ci se contenta de hausser les épaules. </p>
+        <p> Par bonheur, dans l’après-midi, le jeune et beau Loys se présenta, et l’on était si pressé de connaître le contenu de la lettre, que l’on ne pensa seulement pas à lui demander s’il avait vu le Roi, la Reine ou le Dauphin. Il fut enchanté de n’avoir point de comptes à rendre, et il lut avec complaisance. La lettre était bien à l’adresse du bûcheron, et elle émanait des bessonnes : </p>
+        <p> « Mon cher papa et ma chère maman, </p>
+        <p> » Je vous dirai que j’ai épousé hier un jeune prince plus beau que le jour et qui ne m’avait pas plutôt vue qu’il demandait ma main. J’étais bien loin de vous pour solliciter votre consentement, mais sachez que ce prince qui m’adore, m’a déjà couverte de perles et de diamants et qu’il me permet de puiser dans ses coffres. Tout va donc pour le mieux et je suis enchantée du voyage. . . etc. » </p>
+        <p> Le fils du conseiller Périnelle chercha un siège, car il avait besoin de s’asseoir, tant il était ému ; mais il ne se trouvait pas là le moindre escabeau, et Loys se laissa choir à terre, comme tout le monde. </p>
+        <p> — Allons ! lui dit la vieille, remettez-vous, beau garçon : on ne saurait avoir deux femmes ; et voilà qui va vous ôter l’embarras du choix. </p>
+        <p> — Passons à l’autre lettre, dit Gilles. </p>
+        <p> Et le beau Loys, contenant son cœur, lut la lettre de Gillonne. </p>
+        <p> « Mes chers parents, </p>
+        <p> » Voici bien longtemps que je ne vous ai donné de nos nouvelles ; mais il nous arrive trop de choses et je ne saurais vous les raconter. </p>
+        <p> » Nous avons fait d’abord de longs voyages où dix fois nous avons cru périr. Quand je dis « nous », il s’agit de ma gouvernante et de moi, car pour ce qui est de ma sœur et de son singulier mentor, elles ne voient de dangers nulle part. Enfin nous avons parcouru les mers pendant des jours et des nuits ; nous avons été prises par des orages, des tempêtes, jetées dans des îles perdues où des peuplades sauvages n’ont pas dévoré nos « Dames » parce qu’elles les trouvaient trop coriaces, mais où elles ont découpé des filets dans le dos de ma sœur et dans le mien, avec des lames de couteaux bien aiguisés. Nous avons vu ces misérables faire cuire ces belles tranches et s’en régaler pendant que nous nous tordions de douleur et mourions de faim. Heureusement ces « Dames » ont des baumes efficaces qui nous ont guéries rapidement et, une fois réparée, Gillette a déclaré qu���elle n’avait rien connu encore d’aussi curieux. Enfin nous sommes reparties et, depuis lors, je ne suis jamais rassurée. Pour le moment, le pays où nous sommes est beau, et nous sommes bien satisfaites d’y être descendues, car il appartient à un groupe de royaumes où l’on est meilleur, dit-on, et beaucoup plus intelligent que partout ailleurs ; c’est le pays le plus avancé du monde ; et, par exemple, on y a décidé de supprimer la guerre, usage dont nous avons reconnu partout la grande faveur et le désagrément. </p>
+        <p> » On est ici très hospitalier aux étrangers. On l’est même trop, car nous sommes en butte à des propositions d’une galanterie qu’il est bien difficile d’éluder. Sachez qu’on vous épouse ici, comme on vous baise la main. Ma sœur qui juge cela très honnête, est déjà mariée avec un garçon qu’elle croit prince parce qu’il le dit. Moi je refuse toute alliance sous prétexte que notre religion nous interdit de nous unir hors de notre pays, et je tremble qu’on n’en tire vengeance. . . </p>
+        <p> » Ce pays est celui où l’industrie humaine a été jusqu’ici le plus loin. Aussi présente-t-il le spectacle d’une magnifique activité. On n’y voit presque personne conduire la charrue, dans les champs, et les jolies campagnes sont désertes. Mais les villes regorgent d’habitants et l’on y voit plus clair la nuit que le jour. Les voitures vont toutes seules ; impossible de traverser une rue sans être écrasé ou sans manquer de l’être plusieurs fois ; de voiture à voiture, on se culbute fréquemment, ce qui donne lieu à des accidents « sensationnels », disent-ils avec une certaine satisfaction, et qui sont aussitôt reproduits et colportés par l’image. On voyage aussi dans l’air ; on voyage sous terre ; et l’on voyage sous les eaux ; de sorte qu’il semble que personne ne fasse que de voyager. Toi qui as tant voulu nous enseigner à lire et à écrire, cher papa, si tu voyais ce pays vraiment savant, tu comprendrais combien c’était peine perdue : les gens d’ici ne lisent ni n’écrivent plus : ils ont des mécaniques qui exécutent tous les signaux nécessaires à se faire entendre de loin comme de près, et ils se contentent, comme les enfants de chez nous, de regarder des images. Madame Je-ne-sais-qui dit que c’est beaucoup mieux ; madame Ah !-qui-est-elle affirme que c’est retourner à la stupidité première. Nous sommes ahuries par le bruit de toutes ces machineries. Nulle causerie possible avec qui que ce soit, car tous ne font que se mouvoir d’un point à un autre ou que sauter sur place, et j’ai peine à concevoir que cela soit supérieur à l’état que nous avons connu dans notre enfance : nous avons appris tant de jolies choses dans les Pavillons de la clairière, dans les livres que nous ouvrions le soir à la chandelle ou sous cette sainte bénédiction qui tombe des arbres de la forêt. . . </p>
+        <p> » Mes chers parents, on m’annonce à l’instant que nous n’allons pas pouvoir rester ici parce que la guerre est déclarée entre tous ces royaumes d’extrême civilisation. . . Nous n’attendons pour partir que les couches de Gillette. . . » </p>
+        <p> La lettre non achevée restait suspendue à ces mots alarmants. </p>
+        <p> Loys, ayant réfléchi, déclara solennellement aux parents Gilles que l’une de leurs filles étant mariée, il avait pris une décision, et qu’il épouserait Gillonne. </p>
+        <p> Ils en étaient aux effusions, car c’était un parti magnifique, quand une procession d’hommes, les uns noirs et les autres rouges, pénétra dans la cellule comme une longue chenille. Tous comprirent le sens de cette visite, et Gilles demanda s’il aurait au moins le droit de choisir son confesseur, car le bonhomme conservait son idée de derrière la tête. On lui répondit affirmativement, car les hommes ont une certaine condescendance respectueuse pour ceux qu’ils ont condamnés à mort. Alors Gilles déclara qu’il entendait confesser ses péchés au Frère Ildebert, de l’ordre des Prémontrés. </p>
+        <p> La demande eut du moins l’effet d’apporter quelque retard à l’exécution, car il s’agissait de dépêcher quelqu’un au couvent. Hélas ! la réponse fut prompte : il n’avait pas fallu aller loin pour apprendre que Frère Ildebert n’était pas présentement au couvent, mais bien dans une des nombreuses maisons succursales. Depuis sa rentrée en grâce, l’ingénieux prémontré avait découvert le moyen de distiller l’alcool tiré des vins qu’il produisait en abondance, et de l’améliorer et parfaire en le mélangeant à des herbes connues de lui seul, de manière à en composer un nectar propre à saouler de plaisir les dieux de l’Olympe. La liqueur se vendait et se répandait par le monde ; le couvent s’enrichissait ; et le Frère Ildebert y était mieux vu que quiconque. Mais où ce garnement de Frère Ildebert pratiquait-il aujourd’hui son industrie ? Gilles décida que faute des secours spirituels d’Ildebert, il préférait mourir sans sacrements. Cela jeta le trouble parmi ceux qui étaient chargés de le mener à sa fin, et les discussions se prolongèrent à propos de l’incident, jusque passé l’heure de midi. </p>
+        <p> La mère Gilles était déjà plus morte que vive. La centenaire ne se tourmentait pas plus que s’il se fût agi d’aller tirer l’horoscope d’un nouveau-né. </p>
+        <p> Cependant l’ordre vint de haut de ne point laisser perdre les préparatifs faits sur la place publique. Et tous ces gens tremblaient à l’idée de l’entêté bûcheron qui allait mourir sans confession. </p>
+        <p> Ce n’était pas tant cette idée qui lui nuisait, quant à lui, mais bien la pensée de ses filles qui non seulement arriveraient après qu’il aurait été réduit à une pincée de cendres, mais qui, malgré tout leur savoir et leurs voyages, ne lui semblaient point avoir atteint une situation satisfaisante. </p>
+        <p> — J’épouserai Gillonne, disait Loys qui marchait à côté du condamné. </p>
+        <p> — C’est très bien, disait le malheureux père, mais il y a l’autre qui a commis la sottise de se marier avec un homme étranger. . . </p>
+        <p> Et il était enfoncé en de sombres méditations, pensant à ses bessonnes et tenant à la main le petit médaillon qu’on ne lui avait point enlevé. </p>
+        <p> Or, ses pensées étaient si obscures que probablement il s’imagina qu’il faisait nuit, et il rêva tout en marchant au supplice. </p>
+        <p> Et le médaillon se transforma, comme l’autre nuit, en une femme belle et vêtue d’un lin fort léger, qui allait du même pas que lui, quoique ses pieds touchassent à peine la terre, et qui lui disait : </p>
+        <p> — Écoute, bûcheron, tu t’en vas mourir ! Et tu n’as souci que de tes enfants. Voilà qui me confond et m’arrache à ma sérénité de déesse. Aussi je veux, pour une fois, vous aimer, pauvres hommes ! comme j’ai aimé les nuages, la fantaisie, ou l’ombre de tes bois. Ton honnêteté est grande, ami, et tu aurais pu mener jusqu’au bout une destinée heureuse, si tu n’avais cru, par suite d’un amour déréglé, qu’il fallait que tes filles s’élevassent indéfiniment. Pourtant, Gilles, on te l’a dit : il n’y a qu’un bien pour qui n’est pas doué de génie, c’est la simplicité du cœur. Et le génie n’a rien de commun avec le bonheur, il s’en faut. Dis-moi ; maintenant que tu perds tes filles en même temps que ta femme et ta vie, pour avoir trop désiré, je veux cependant combler ton dernier vœu : que désires-tu pour le fils de ta fille ? </p>
+        <p> — Le génie ! répondit le condamné à mort. </p>
+        <p> À ce moment le cortège s’arrêta parce qu’il était arrivé sur la place publique, et Gilles, voyant clair, s’aperçut qu’il était entouré d’hommes sinistres chantant sur le mode mineur et portant des cires allumées. Les cloches sonnaient le glas à l’église métropolitaine, et l’on avait construit une éminence composée de fagots et de bûches, sur quoi les misérables étaient invités à monter après s’être défaits de leurs chaussures. </p>
+        <p> Soudain, des récriminations et un grand désordre : on vient de s’apercevoir que la centenaire a disparu, évasion due au maléfice, car on ne se faufile pas parmi la foule, comme une belette, à pareil âge. </p>
+        <p> Néanmoins, la cérémonie ne subit point de retard à cause de ce détail, et Gilles et sa femme surent que le rite à accomplir était de monter les degrés d’une échelle appuyée contre la pyramide de fagots. Ils montèrent, sa femme et lui ; et quelqu’un, faisant jaillir une étincelle par le frottement de deux silex, mit le feu à l’épaisse masse de bois. Une fumée s’éleva aussitôt, qui fit reculer les curieux en leur piquant le bord des paupières, et la flamme, vilaine en plein jour, et qui s’élève avec une impétuosité d’animal vorace, pénétra bûches et fagots et atteignit bientôt les pieds nus du couple infortuné. </p>
+        <p> À ce moment précis, la foule dut s’écarter pour livrer passage à un chariot empli de cruchons de grès, de bouteilles pansues contenant une liqueur d’or, et que menaient plusieurs frères lais et un moine gras à la trogne rubiconde. </p>
+        <p> Le patient dont la plante des pieds s’échauffait, mais qui n’avait nullement perdu l’usage de ses sens, n’eut pas de peine, malgré l’embonpoint du moine, à reconnaître en lui le Frère Ildebert ; et, comme il y allait, non seulement de son salut éternel, mais peut-être bien d’un dernier avantage ici-bas, il l’appela par son nom à travers la fumée âcre et tourbillonnante. </p>
+        <p> Frère Ildebert fit arrêter les chevaux, et, à la faveur d’un coup de vent qui écartait le nuage asphyxiant, il eut tôt fait de remettre le brave bûcheron qui l’avait écouté complaisamment et dont les filles étaient livrées au démon des inventions scientifiques. </p>
+        <p> Il accourut en criant : </p>
+        <p> — Cet homme est innocent et sa femme est la plus vertueuse des créatures ! Bref, ils sont mes amis. . . </p>
+        <p> Aussitôt le bourreau s’empressa de délier les malheureux qui ne se firent pas prier pour descendre, quoique leurs pieds commençassent à se clouter de cloques douloureuses. </p>
+        <p> Gilles, en présence du Frère Ildebert, croyait encore qu’il ne s’agissait que de se confesser. </p>
+        <p> — Taisez-vous donc ! dit le Frère : de nous deux, le pécheur c’est moi, qui viens d’inventer un poison dont les hommes s’enivreront et s’abrutiront à l’avenir. . . Mais c’est grâce aux cruchons qui emplissent ma voiture, que vous voyez tous ces gens dociles à ma voix. </p>
+        <p> Ce disant, il tirait de son froc un onguent à lui, dont il frotta les pieds du bûcheron et de son épouse, lesquels devinrent nets et sains aussitôt. </p>
+        <p> — Mais je croyais, observa Gilles, que l’on vous avait mis sous les verrous pour avoir exercé vos dons de guérisseur ?. . . </p>
+        <p> — C’est que je guérissais au dehors ! J’opère à présent sur mes frères et en dedans des murs de clôture ; et vous m’en voyez récompensé. </p>
+        <p> Se tournant vers la foule, vers les gens d’armes et les clercs, il ajouta : </p>
+        <p> — Qu’on distribue tout ce bois aux pauvres et qu’on laisse en paix ces braves gens !. . . Avez-vous, dit-il à l’oreille de Gilles, des nouvelles de vos filles ? </p>
+        <p> — Hélas ! </p>
+        <p> — Quoi ? ne voyagent-elles plus et par des moyens qui semblent extraordinaires aux ignorants ? </p>
+        <p> — Elles voyagent, soupira Gilles ; elles voyagent, mais l’une va me revenir avec un enfant. . . </p>
+        <p> Pendant qu’ils s’entretenaient, ayant déjà quitté la place, une sorte d’oiseau d’immense envergure apparut, planant au-dessus de leurs têtes, mais à une merveilleuse altitude. Ce fut Loys qui le fit remarquer à plusieurs jeunes gens, lesquels coururent chercher, qui son arc, qui son mousqueton. Et tous les gens de qualité du lieu, de tirer à qui mieux mieux sur un si bel oiseau. </p>
+        <p> On crut que celui-ci était touché et perdait une patte ou bien deux car la chute d’un objet fut constatée. Mais l’oiseau, qui traçait de grands cercles dans l’espace, s’éloigna, et on le perdit de vue. </p>
+        <p> Le Frère Ildebert fit observer : </p>
+        <p> — La jeunesse tire sur tout ce qu’elle voit. C’est ainsi que bien des objets du monde demeurent à la merci de l’ignorance et peuvent être anéantis par elle. Pourquoi, ajouta-t-il en laissant virer tout à coup ses idées, suis-je arrivé sur la place au moment où vous alliez, monsieur, madame, griller comme deux côtelettes ? </p>
+        <p> — Je n’en sais fichtre rien, dit Gilles, mais ceci, par exemple, est une chose bien faite ! </p>
+        <p> — Qu’est-ce qui est bien ? Qu’est-ce qui est mal ?. . . demanda le jeune Loys troublé par sa double éducation. </p>
+        <p> — Taisez-vous donc, mon garçon ! dit la mère Gilles : on sait cela les yeux fermés. </p>
+        <p> — Moi, je sais pertinemment que je fais le mal, dit Ildebert ; et aux yeux de tous je passe pour un saint homme, précisément depuis que je le fais. . . </p>
+        <p> Il regarda en arrière, du côté de ses cruchons d’élixir, qui le suivaient, menés par des moinillons. Puis il confia à Gilles : </p>
+        <p> — Je viens de trouver la formule d’une petite poudre qui produirait sur la terre autant de dégât que le déluge. . . </p>
+        <p> — Vous ne l’avez pas dit à votre couvent, j’espère ! </p>
+        <p> — Si fait ! et le couvent s’en réjouit, car à cause de cela il est respecté à cent lieues à la ronde. </p>
+        <p> On arriva ainsi au bel hôtel habité par le jeune Loys qui voulait offrir réconfort et asile aux bûcherons. Frère Ildebert vendait couramment son élixir à tous les membres du Parlement. </p>
+        <p></p>
+      </div>
+      <div title="Chapitre 9 Le déjeuner chez le conseiller Périnelle." type="chapter">
+        <p> Chapitre 9 </p>
+        <lb/>
+        <p> Le déjeuner chez le conseiller Périnelle. </p>
+        <p> ON FIT ENTRER LA charrette, les cruchons et les moinillons dans la cour pavée précédée de deux beaux pignons sur rue ; et M. le conseiller Périnelle lui-même, étant averti, vint au-devant du couple échappé, on peut le dire, des bras de la mort, et il serra la main du Frère Ildebert qu’il estimait de longtemps. Il leur dit à tous que madame la conseillère les voulait recevoir à sa table. </p>
+        <p> C’était un homme un peu regardé de biais à cause de la hardiesse de ses idées, mais dont la situation était grande et la sagesse non moindre. </p>
+        <p> Frère Ildebert aurait bien voulu savoir de lui par quel moyen il envoyait jadis et si rapidement son fils aux Pavillons de la forêt, et à cause de cela, il regardait, en souriant, le conseiller et, à la fois, la charrette contenant les beaux cruchons ; mais le conseiller était la prudence incarnée et il préférait payer de bonne monnaie les bouteilles qui pourraient être objets de son désir, et conserver par devers lui son secret. </p>
+        <p> On était encore dans la cour, au bas du perron, à se féliciter de l’heureuse issue des événements de la matinée, lorsqu’un murmure se produisit au dehors, et la porte cochère se trouva ouverte, et l’on vit entrer, au milieu d’une foule émue, deux femmes, l’une d’âge incertain et l’autre jeune et fort avenante, mais toutes les deux en proie à une émotion indicible. </p>
+        <p> Le père Gilles et sa femme s’écrièrent en même temps : </p>
+        <p> — Gillonne ! </p>
+        <p> Cependant la mère avait dit que, quand elle verrait entrer là ses filles vivantes et palpables, elle n’y croirait point. </p>
+        <p> — Et Gillette ? dirent le père et la mère. </p>
+        <p> Gillonne et la femme qui l’accompagnait, et qui n’était autre que sa gouvernante, firent un signe désespéré. Et aussitôt l’une et l’autre pâlirent, chancelèrent, et elles se seraient évanouies sans les soins du prémontré. </p>
+        <p> Pendant qu’il débouchait un de ses flacons d’élixir, puis humectait les lèvres des malades d’une admirable liqueur couleur de rubis, on s’aperçut qu’un singe était déjà grimpé sur la voiture, faisant le simulacre, lui aussi, de décacheter le goulot des bonbonnes, et que deux perroquets voltigeant et se perchant au doigt du premier venu, disaient, l’un : « Ce jeune homme est charmant. . . La température est exquise. . . » et l’autre : « Est-ce bien la peine de bouger ?. . . quel cochon de pays !. . . » </p>
+        <p> De sorte que cela amenait la bonne humeur sur certains visages, tandis que d’autres étaient absorbés par l’état alarmant des deux femmes. </p>
+        <p> Il fallut un long temps pour qu’on réussît à tirer d’elles quelques paroles. Cependant la foule répétait qu’on les avait trouvées l’une et l’autre assises et hébétées à la porte de ville, pendant qu’un oiseau fabuleux fuyait à tire-d’aile dans les profondeurs célestes. </p>
+        <p> — Et Gillette ?. . . leur demandait-on. </p>
+        <p> Hélas ! il fallut discerner, parmi leurs hoquets, qu’elles avaient voyagé ce matin jusqu’à la forêt, mais qu’à la forêt il n’y avait plus ni Pavillons, ni cabane ; qu’alors donc on était revenu vers la ville, – fatal retour ! – que Gillette, allaitant son petit, avait aperçu une haute fumée inexplicable et avait été prise du désir de voir encore une fois quelque chose d’extraordinaire. . . </p>
+        <p> — Et alors ?. . . et alors ?. . . demandait tout le monde à la fois. </p>
+        <p> Alors Gillette, s’étant penchée, avait reçu un choc, avait porté la main à sa poitrine, s’était penchée davantage, enfin avait fait une chute !. . . </p>
+        <p> — À quoi s’occupait donc sa gouvernante ? demanda M. le conseiller Périnelle. </p>
+        <p> La gouvernante, interprétant toujours les choses dans un sens favorable, avait dit : « Oh ! ce n’est rien ! ce n’est rien ! l’air est doux, la température est exquise. . . qu’avons-nous besoin de ce support ?. . . une petite promenade dans l’azur. . . » </p>
+        <p> — Et ?. . . </p>
+        <p> Et la gouvernante s’était jetée elle aussi dans le vide. . . On avait bien retrouvé le pauvre corps de Gillette, – il était proche du gros tilleul, au carrefour des Quatre-Chemins, – mais non pas celui de sa gouvernante. . . </p>
+        <p> — La gouvernante, je m’en moque ! dit Gilles, mais l’enfant ?. . . le fils de ma fille ? </p>
+        <p> Il avait disparu. Entraîné par la gouvernante, on l’avait vu, ainsi qu’elle, se dissiper comme une buée matinale. . . </p>
+        <p> — Nous autres, dit la gouvernante de Gillonne, nous n’avons pas perdu la tête, et nous sommes arrivées saines et sauves à la porte de ville. . . </p>
+        <p> À ce moment, la plupart des personnes présentes, et même madame la conseillère, qui avait entendu le sinistre récit, commencèrent de regarder d’un mauvais œil celle des deux gouvernantes qui restait, non qu’on eût positivement à lui reprocher quelque chose, mais parce que, en définitive, elle était sœur de l’autre, et que, toutes ces aventures inouïes dues à leur étrange savoir et qui venaient de si mal finir, on en avait assez. </p>
+        <p> Alors, et comme on lui eût pu faire un mauvais parti, on vit se dissiper, elle aussi, à son tour, la gouvernante de Gillonne, exactement comme la vapeur qui monte du potage vers le plafond. </p>
+        <p> Il ne resta de tout ce merveilleux, que les deux perroquets et le singe qu’on enferma dans une cage à poules. </p>
+        <p> Gillonne, qui avait grandi en raison comme en beauté, dit : </p>
+        <p> — Je regretterai beaucoup ces deux Dames. Elles étaient d’excellentes personnes et nous ont appris à voir, l’une le monde tel qu’il est, l’autre tel qu’il devrait être. </p>
+        <p> — Mais, Gillette ? </p>
+        <p> — Oh ! Gillette était la meilleure de nous ; elle a toujours cru que les gens et les choses avaient d’aussi bonnes intentions qu’elle-même. </p>
+        <p> Gilles pleurait. Il disait : </p>
+        <p> — Et l’enfant ?. . . l’enfant ?. . . le fils de ma fille ? </p>
+        <p> Une voix qui venait on ne sait d’où prononça : « Insensé ! ne l’as-tu pas voué toi-même au génie ?. . . Il n’avait que faire de demeurer parmi vous. . . » </p>
+        <p> Et, dans le même instant, le petit médaillon que Gilles avait toujours conservé à la main, se brisa en mille morceaux, de façon qu’il n’en demeura que poussière. </p>
+        <p> Alors on pensa qu’il était temps de mettre à la porte les manants et de passer à l’intérieur se restaurer les uns et les autres, à la suite de si fortes secousses. </p>
+        <p> Malgré le deuil qui troublait singulièrement ce qui eût été une réunion joyeuse, M. le conseiller Périnelle, accoutumé à traverser d’un front serein les scènes pathétiques, maintint la conversation sur un ton de décence modérée. Le voyage extraordinaire accompli par la jeune fille présente ne pouvait manquer de fournir la matière convenable ; et d’ailleurs, le conseiller, ouvert, comme il a été dit, à toutes les innovations, était piqué au vif par l’exemple de cette fille de bûcheron qui avait vu ce que, par prudence, il avait interdit à son fils de connaître. </p>
+        <p> Il loua d’abord les parents Gilles de leur initiative courageuse. Quelque prix que doivent être payées de telles entreprises, il trouvait beau et bien que des familles se dévouassent à faire sortir l’humanité de l’ornière où, à la fin, elle s’embourbe. </p>
+        <p> Le père Gilles sentait l’orgueil lui gonfler le col et il se rengorgeait en regardant son honnête épouse qui branlait le chef, insensible aux belles paroles, et tout entière absorbée par son intime chagrin. </p>
+        <p> — Il faut de l’initiative, répéta le conseiller. Mais cependant il conviendrait de l’arrêter à un juste point. </p>
+        <p> — Mais, papa, lui dit Loys, quand il s’agit de l’instruction comme du voyage, on commence, on part, et il ne dépend plus de soi de faire halte. </p>
+        <p> — Lire, écrire, cultiver les arts d’agrément, dit le conseiller, et étudier soigneusement les bons auteurs est une besogne digne d’un homme, et suffisante. </p>
+        <p> — Mais, les « bons auteurs » qui nous renseignent et sur ce qu’ils ont vu sur place et sur ce qu’ils ont vu au loin, il faut bien qu’en toutes matières ils aient été jusqu’au bout ?. . . </p>
+        <p> — Passe pour ceux-ci, dit le conseiller ; ils ne seront jamais très nombreux et leur déplacement en profondeur ou en étendue ne sera jamais une cause de trouble sérieux pour l’État. . . </p>
+        <p> — Pardon ! interrompit Gillonne, c’est ce qui vous trompe, monsieur ; moi je reviens de certains pays où ce que vous nommez les bons auteurs, ayant été une fois attrayants pour le public, une foule de grimauds ou d’entrepreneurs de bas étage ont fait la gageure de les imiter, ont simulé qu’ils étudiaient l’esprit humain en des régions les plus obscures et l’univers en ses déserts inexplorés ; ils voyaient en réalité peu de chose ou le voyaient tout de travers, faute d’une bonne méthode, et de dispositions naturelles ; ils n’en ont crié que plus fort le résultat de leurs prétendues découvertes, et le public, en général, les a confondus avec les « bons auteurs. . . » Il s’est précipité à leur suite. . . </p>
+        <p> — Ah ! vraiment ? dit le conseiller, </p>
+        <p> — Oui, monsieur, et cela n’a produit qu’un grand trouble comparable à celui d’une fourmilière dérangée, avec cette différence que la fourmilière s’agite pour se ranger de nouveau, tandis qu’en ces pays, chacun, désorienté, tire à soi, prétendant avoir aperçu un ordre nouveau. </p>
+        <p> — L’exemple que vous me citez est affligeant, dit le conseiller, mais peut-être n’est-il que particulier ? </p>
+        <p> — Nous n’avons pas, en effet, rencontré beaucoup de pays ayant dépassé notre degré de connaissance, dit Gillonne, et nous en avons même vu de sauvages. Mais ceux que l’on nous a invitées à considérer de plus près formaient un groupe de royaumes que l’on ne semblait point pouvoir dépasser par la science. Ils avaient même supprimé la guerre. . . </p>
+        <p> — Oh ! fit le conseiller, stupéfait. Et comment procèdent-ils pour en arriver là ? </p>
+        <p> — Ils prennent pour base l’égalité absolue, ils ont nettement comme fin dernière le bonheur de l’homme. . . C’est là que nous avons trente-cinq fois failli être écrasées par une circulation si active que les personnes qui vont à pied sont considérées comme grains de sable ou vers de terre par ceux qui roulent en chars perfectionnés. Les riches y sont beaucoup plus hautains pour les déshérités que les seigneurs, chez nous, pour les vilains. . . </p>
+        <p> — Mais vous me dites que la société là-bas est fondée sur l’égalité ? dit le conseiller. </p>
+        <p> — C’est ainsi. </p>
+        <p> — Mais, le bonheur ? </p>
+        <p> — C’est à cause de lui que nous avons failli nous fixer dans ces pays et que ma pauvre sœur Gillette y a contracté alliance. Mais la guerre nous en a chassées. . . </p>
+        <p> — Quoi ! mais vous nous disiez qu’ils avaient supprimé ce fléau ? </p>
+        <p> — En effet. Mais celle qui a éclaté était si perfectionnée que, nous qui avions regardé toutes les autres, nous n’avons pas pu demeurer. Le mari de Gillette a été tué tout d’abord. </p>
+        <p> — Enfin, le bonheur, dit le conseiller, dans toutes vos pérégrinations, l’avez-vous rencontré ? </p>
+        <p> — Je le crois, dit Gillonne. </p>
+        <p> — Où ça donc ? </p>
+        <p> — Nous avons bien cru l’apercevoir, monsieur, mais dans un endroit où nous étions les unes et les autres si peu disposées à le rencontrer que nous l’avons à peine reconnu. . . C’est peu satisfaisant, c’est déconcertant pour l’esprit, c’est peu croyable, mais c’est vrai : nous l’avons vu en un pays vieux comme le monde, où toutes choses ne se passaient peut-être pas de la manière la plus louable, mais où personne n’était seulement assez avisé pour les concevoir meilleures. . . Nous l’avons vu en un pays où rien ne se faisait autrement que cela ne s’était fait plus de mille ans auparavant, où la foule vivait dans la terreur sacrée d’un prophète inconnu de chacun et qu’à cause de cela elle admirait et vénérait davantage. Ces bonnes gens n’imaginaient rien de mieux que de s’approcher du saint tombeau et d’y jeter un caillou. Ils se rendaient à ce lieu de prière avec des mines contrites, mais ils eussent préféré, jeunes ou vieux, se faire hacher menu comme chair à pâté, plutôt que de ne pas s’y rendre. Ils se mariaient, ils faisaient élever leurs enfants et les mariaient, comme eux-mêmes, selon des rites auxquels personne n’entendait goutte, mais sans qu’il vînt à personne l’idée de se demander le pourquoi de ces traditions saugrenues. Ils égorgeaient des volailles en l’honneur du Prophète, et en regardaient couler le sang dans des rigoles avec satisfaction, tandis qu’en cent autres ruisselets gazouillants, une eau cristalline s’épandait, arrosait les parterres fleuris, emplissait les vasques ou s’élevait en jets d’eau prodigieux de la taille des cèdres antiques. Enfin, ils semblaient endormis tous, allaient, venaient, agissaient comme en un rêve. C’est là qu’à la réflexion, il nous a paru que nous avions vu le bonheur. </p>
+        <p> M. le conseiller Périnelle s’attristait à ce récit plus que s’il eût perdu son propre fils : </p>
+        <p> — Comment ! s’écriait-il, comment ! il n’y aurait pas mieux à faire que de laisser s’endormir sa pensée et de répéter éternellement les mêmes gestes !. . . </p>
+        <p> Le Frère Ildebert qui venait, tout en mangeant, de trouver une manière ingénieuse de tirer le bouchon du goulot d’une bouteille, déclara : </p>
+        <p> — Cette demoiselle a vu de ses yeux : il n’y a pas mieux, monsieur le conseiller. </p>
+        <p> — Et c’est pourquoi, dit Gillonne, ma gouvernante disait qu’elle avait adopté, elle et sa sœur, comme emblèmes vivants, le perroquet et le singe, qui, sans rien innover, imitent, avec entrain, tout ce qui s’est dit ou fait avant eux. . . </p>
+        <p> — C’est tout de même une belle chose que le voyage !. . . soupira Loys. Car, si entendre parler mademoiselle est instructif et agréable, que serait-ce, à son côté, de se rendre compte des choses de visu ! </p>
+        <p> — Surtout, dit Frère Ildebert, si l’on a trouvé l’instrument propre à vous permettre de déguerpir lorsque la situation devient périlleuse. . . </p>
+        <p> — On ne peut se déclarer grand clerc, dit Loys, que lorsqu’on a parcouru les diverses parties du monde. </p>
+        <p> — Oui, dit Gillonne, tant que celles-ci restent différentes de la vôtre. Mais dans l’important groupe de royaumes dont je vous ai parlé, et qui tient la tête des nations par les progrès de toutes sortes, notamment par celui de la locomotion, qui est prodigieuse, chacun passe sa vie à se déplacer d’une capitale à une autre, et dans chacune de ces capitales, on ne trouve rien qui ne ressemble exactement à ce qu’on connaît dans la ville qu’on vient de quitter. C’est logique, puisque chaque citoyen étant, pour ainsi dire, dans chacun des royaumes à la fois, y apporte ses goûts, son langage, sa religion et son habit ; tout se ressemble. </p>
+        <p> — Alors, dit le conseiller, en somme, ce grand effort et ce perfectionnement admirables qui aboutissent, je le vois, à s’enrichir, et à s’enrichir pour se pouvoir transporter, a pour dernière fin de se transporter dans des lieux qui sont les mêmes que ceux que vous venez de quitter ? </p>
+        <p> — Ils sont les mêmes, et ils le sont bien plus encore aujourd’hui, dit Gillonne, car, ayant pu parcourir d’un peu haut tous ces royaumes, après trois semaines de carnage savant, nous avons remarqué que dans les uns comme dans les autres il ne restait plus rien. </p>
+        <p> — Comment ! plus rien ? </p>
+        <p> — Rien, ce qui s’appelle rien ; plus rien que la terre rase et d’ailleurs bouleversée. </p>
+        <p></p>
+      </div>
+      <div title="Chapitre 10 Nonobstant paroles et exemples." type="chapter">
+        <p> Chapitre 10 </p>
+        <lb/>
+        <p> Nonobstant paroles et exemples. </p>
+        <p> A LA SUITE DE CET entretien, il fut naturellement beaucoup question des douceurs de la vie de famille, dans un pays ayant gardé ses coutumes anciennes, ses clochers et ses bois. On en parla d’autant plus que Loys était follement épris de Gillonne et que le mariage des deux jeunes gens avait été décidé d’un commun accord entre les familles. </p>
+        <p> M. le conseiller Périnelle offrit aux époux Gilles de demeurer sous son toit, attendu qu’ils n’avaient plus de cabane. Mais les bûcherons choisirent de mourir comme ils étaient nés et de faire reconstruire leur cabane. </p>
+        <p> Il y eut un beau mariage, en effet, à l’église métropolitaine, et célébré par le Frère Ildebert qui leur fit un maître-sermon où il maudissait le règne de la matière et l’esprit de nouveauté. Après quoi et comme les voyages de noces n’étaient pas encore inventés, les jeunes époux embrassèrent leur famille pour se retirer dans une honnête maison d��été qu’on leur avait fait construire à la campagne. </p>
+        <p> Mais au milieu des embrassades – comme l’un et l’autre ne manquaient pas de loyauté – ils ne purent se retenir de confesser qu’ils partaient, non pour la maison de campagne, mais pour un voyage. . . </p>
+        <p> — Pas pour un long voyage, j’espère ? s’écria chaque membre de la famille. </p>
+        <p> — Nous ne savons pas, dirent-ils, déjà loin, nous partons pour un voyage autour de la planète !. . . </p>
+        <p> On les accompagna, pleurant, jusqu’à la porte de la ville, non loin du tilleul, au carrefour des Quatre-Chemins, où reposait Gillette, la pauvre victime de la locomotion outrancière ; et, à la grande stupéfaction de tous, on les vit monter, mais aussi tranquillement que dans une bonne calèche de grands-pères, on les vit monter dans le fameux carrosse vert attelé des deux lézards géants. </p>
+        <p> Cet extravagant véhicule était conduit par le cocher rougeaud, à côté de qui se tenait le valet de pied, tous deux fort incommodés par les énormes queues dont les extrémités brimballaient jusqu’à leur nez incliné du côté opposé. </p>
+        <p> De l’ahurissement qu’un tel spectacle provoquait, une chose sauva les esprits ; ce fut un bruit étrange, comparable à celui du vent de l’ouragan et de la meule transportée par la trombe meurtrière, et qui faisait relever les têtes, ici comme là-bas, dans les profondeurs de la foule : c’était la cage contenant le singe et les deux perroquets ! </p>
+        <p> Cette cage volait, sans ailes ni secours d’aucune sorte, au-dessus du peuple pressé. Elle volait à la vitesse d’un gerfaut lancé contre sa proie, et elle produisait, dans l’air transpercé, une sorte de sifflement de sirène. Les trois animaux y furent toutefois parfaitement identifiés, à la grande joie des enfants. </p>
+        <p> Et cette cage, avec son contenu, vint d’elle-même s’asseoir sur le toit du carrosse vert, où le valet de pied, adroitement, l’assujettit avec des liens. </p>
+        <p> Et la voiture repartit à l’allure ordinaire de ses fantastiques coursiers. </p>
+        <p> Frère Ildebert, venu jusque-là, s’écria : </p>
+        <p> — Dieu les bénisse !. . . Ils ont le diable au corps. </p>
+        <p></p>
+      </div>
+      <head/>
+    </body>
+    <back/>
+    <back/>
+  </text>
+</TEI>

@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='UTF8'?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> L'Homme à la peau de bique </title>
+        <author from="1864" key="" name="Leblanc, Maurice" sex="male" to="1941"/>
+        <edition n=""/>
+        <editor name="Baudinière" where="Paris"/>
+      </titleStmt>
+      <publicationStmt>
+        <date type="created" when="1927"/>
+        <date type="issued" when="1927"/>
+      </publicationStmt>
+      <editionStmt>
+        <profileDesc tag="non-canon" type="genre">
+          <textClass>
+            <keywords>
+              <term>cycles et séries</term>
+              <term>nouvelles</term>
+              <term>policier</term>
+              <term>roman d'aventures</term>
+            </keywords>
+          </textClass>
+        </profileDesc>
+      </editionStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docAuthor/>
+        <docTitle>
+          <titlePart main="L'Homme à la peau de bique"/>
+          <titlePart sub=""/>
+        </docTitle>
+      </titlePage>
+    </front>
+    <body>
+      <div title="L'homme à la peau de bique" type="nouvelle">
+        <p> Le village fut terrifié. </p>
+        <p> C’était un dimanche. Les paysans de Saint-Nicolas et des environs sortaient de l’église et se répandaient à travers la place quand, tout à coup, des femmes, qui marchaient en avant et tournaient déjà sur la grande route, refluèrent en poussant des cris d’épouvante. </p>
+        <p> Et aussitôt on aperçut, énorme, effroyable, pareille à un monstre, une automobile qui débouchait à une allure vertigineuse. Parmi les clameurs et la fuite éperdue des gens, elle piqua droit vers l’église, vira au moment même où elle allait se briser contre les marches, frôla le mur du presbytère, retrouva le prolongement de la route nationale, s’éloigna, sans même avoir – miracle incompréhensible ! – effleuré, en ce crochet diabolique, une seule des personnes qui encombraient la place… et disparut. </p>
+        <p> Mais on avait vu ! On avait vu, sur le siège, couvert d’une peau de bique, coiffé de fourrure, le visage masqué de grosses lunettes, un homme qui conduisait ; et, près de lui, sur le devant de ce siège, renversée, ployée en deux, une femme dont la tête ensanglantée pendait au-dessus du capot. </p>
+        <p> Et on avait entendu ! On avait entendu les cris de cette femme, cris d’horreur, cris d’agonie… </p>
+        <p> Et ce fut une telle vision de carnage et d’enfer que les gens demeurèrent, quelques secondes, immobiles, stupides. </p>
+        <p> – Du sang ! hurla quelqu’un. </p>
+        <p> Il y en avait partout, du sang, sur les cailloux de la place, sur la terre que les premières gelées de l’automne avaient durcie, et, lorsque des gamins et des hommes s’élancèrent à la poursuite de l’auto, ils n’eurent qu’à se diriger d’après ces marques sinistres. </p>
+        <p> Elles suivaient d’ailleurs la grande route, mais d’une si étrange manière ! allant d’un côté à l’autre, et traçant, près du sillage des pneumatiques, une piste en zigzag qui donnait le frisson. Comment l’automobile n’avait-elle pas heurté cet arbre ? Comment avait-on pu la redresser avant qu’elle ne fît panache au long de ce talus ? Quel novice, quel fou, quel ivrogne, ou plutôt criminel effaré, conduisait cette voiture avec de tels soubresauts ? </p>
+        <p> Un des paysans proféra : </p>
+        <p> – Jamais ils ne prendront le tournant de la forêt. </p>
+        <p> Et un autre dit : </p>
+        <p> – Parbleu non ! c’est la culbute. </p>
+        <p> À cinq cents mètres de Saint-Nicolas commençait la forêt de Morgues, et la route, droite jusque-là, sauf un coude léger au sortir du village, montait dès son entrée dans la forêt, et faisait un tournant brusque parmi les rocs et les arbres. Ce tournant, aucune automobile ne pouvait le prendre sans avoir ralenti au préalable. Des poteaux indicateurs signalaient le danger. </p>
+        <p> Essoufflés, les paysans arrivèrent au quinconce de hêtres qui formaient la lisière. </p>
+        <p> Et, tout de suite, l’un d’eux s’écria : </p>
+        <p> – Ça y est ! </p>
+        <p> – Quoi ? </p>
+        <p> – La culbute. </p>
+        <p> L’automobile en effet – une limousine – gisait, retournée, démolie, tordue, informe. Près d’elle, le cadavre de la femme. Mais ce qu’il y avait de plus affreux, spectacle ignoble et stupéfiant, c’est que la tête de cette femme était écrasée, aplatie, invisible, sous un bloc de pierre énorme, posé là on ne pouvait savoir par quelle force prodigieuse. </p>
+        <p> Quant à l’homme à la peau de bique, on ne le trouva point. On ne le trouva point sur le lieu de l’accident. On ne le trouva point non plus aux environs. En outre, des ouvriers qui descendaient la côte de Morgues déclarèrent qu’ils n’avaient rencontré personne. </p>
+        <p> Donc, l’homme s’était sauvé par les bois. Ces bois, que l’on appelle forêt à cause de la beauté et de la vieillesse des arbres, sont de dimensions restreintes. La gendarmerie aussitôt prévenue fit, avec l’aide de paysans, une battue minutieuse. On ne découvrit rien. De même les magistrats instructeurs ne tirèrent, de l’enquête approfondie qu’ils poursuivirent pendant plusieurs jours, aucun indice susceptible de leur donner la moindre lumière sur ce drame inexplicable. Au contraire, les investigations aboutissaient à d’autres énigmes et à d’autres invraisemblances. </p>
+        <p> Ainsi, on constata que le bloc de pierre provenait d’un éboulement distant d’au moins quarante mètres. Or, l’assassin, en quelques minutes, l’avait apporté et jeté sur la tête de sa victime. </p>
+        <p> D’autre part, cet assassin, qui, en toute certitude, n’était pas caché dans la forêt – sans quoi on l’aurait inévitablement découvert – cet assassin, huit jours après le crime, eut l’audace de revenir au tournant de la côte et d’y laisser sa peau de bique. Pourquoi ? Dans quel but ? Sauf un tire-bouchon et une serviette, cette fourrure ne contenait aucun objet. Alors ? On s’adressa au fabricant de l’automobile, qui reconnut cette limousine pour l’avoir vendue trois ans auparavant à un Russe, lequel Russe, affirma le fabricant, l’avait vendue aussitôt. À qui ? Elle ne portait pas de numéro matricule. </p>
+        <p> De même, il fut impossible d’identifier le cadavre de la morte. Ses vêtements, son linge n’offraient aucune marque. </p>
+        <p> Quant à son visage, on l’ignorait. </p>
+        <p> Cependant des émissaires de la Sûreté remontaient en sens inverse la route nationale suivie par les acteurs de ce drame mystérieux. Mais qui prouvait que, dans le courant de la nuit précédente, l’automobile eût justement suivi cette route ? </p>
+        <p> On vérifia, on interrogea. Enfin on réussit à établir que, la veille au soir, à trois cents kilomètres de là, dans une petite ville située le long d’un chemin de grande communication qui s’embranchait sur la route nationale, une limousine s’était arrêtée devant un magasin d’épicerie et d’alimentation. </p>
+        <p> Le conducteur avait d’abord empli son réservoir d’essence, acheté de l’huile et des bidons de rechange, puis avait emporté quelques provisions, du jambon, des fruits, des gâteaux secs, du vin et une demi-bouteille de cognac Trois Étoiles. Sur le siège, il y avait une dame. Elle ne descendit point. Les rideaux de la limousine étaient baissés. L’un de ces rideaux bougea plusieurs fois. Le garçon de magasin ne doutait pas qu’il n’y eût quelqu’un à l’intérieur. </p>
+        <p> Si la déposition de ce garçon était juste, le problème se compliquait encore, car aucun indice n’avait révélé la présence d’une troisième personne. </p>
+        <p> En attendant, puisque les voyageurs s’étaient munis de provisions, il restait à établir ce qu’ils en avaient fait et ce qu’étaient devenus les débris de ces provisions. </p>
+        <p> Les agents revinrent sur leurs pas. Ce n’est qu’à la bifurcation des deux routes, c’est-à-dire à dix-huit kilomètres de Saint-Nicolas, qu’un berger, questionné par eux, leur signala une prairie voisine, que cachait un rideau d’arbustes et où il avait vu une bouteille vide et différentes choses. Au premier examen, les agents furent convaincus. L’automobile avait stationné là, et les inconnus, probablement après une nuit de repos dans leur automobile, s’étaient restaurés et avaient repris leur voyage au cours de la matinée. Comme preuve irrécusable, on retrouva la demi-bouteille de cognac Trois Étoiles vendue par l’épicier. </p>
+        <p> Cette bouteille avait été brisée net, au ras du goulot. </p>
+        <p> Le caillou dont on s’était servi fut recueilli, ainsi que le goulot muni de son bouchon cacheté. Sur le cachet de métal se voyait la trace des tentatives faites pour déboucher normalement la bouteille. Les agents continuèrent leurs recherches et suivirent un fossé qui bordait la prairie, perpendiculairement à la route. Il aboutissait à une petite source cachée sous des ronces, et d’où il semblait que se dégageât une odeur putride. </p>
+        <p> Ayant soulevé ces ronces, ils aperçurent un cadavre, le cadavre d’un homme, dont la tête fracassée ne formait plus qu’une sorte de bouillie où les bêtes pullulaient. Il était habillé d’un pantalon et d’une veste de cuir marron. Les poches étaient vides. Ni papiers, ni portefeuille, ni montre. </p>
+        <p> Le surlendemain l’épicier et son garçon de magasin, convoqués en hâte, reconnaissaient formellement, à son costume et à sa stature, le voyageur qui, la veille du crime avait acheté des provisions et de l’essence. </p>
+        <p> Ainsi donc toute l’affaire recommençait sur de nouvelles bases. Il ne s’agissait plus d’un drame à deux personnages – un homme et une femme – dont l’un avait tué l’autre ; mais d’un drame à trois personnages, avec deux victimes dont l’une était précisément l’homme que l’on accusait d’avoir tué sa compagne ! </p>
+        <p> Quant à l’assassin, aucun doute. C’était le troisième personnage qui voyageait à l’intérieur de l’automobile, et qui prenait la précaution de se dissimuler derrière les rideaux. Se débarrassant d’abord du conducteur, il l’avait dépouillé, puis, blessant la femme, il l’emportait dans une véritable course à la mort. </p>
+        <p> Affaire nouvelle, découvertes inopinées, témoignages imprévus… On pouvait espérer que le mystère allait s’éclaircir, ou, tout au moins, que l’instruction ferait quelques pas dans la voie de la vérité. Il n’en fut rien. Un cadavre se rangea auprès du premier cadavre. Des problèmes s’ajoutèrent aux autres problèmes. L’accusation d’assassinat passa de celui-ci à celui-là. </p>
+        <p> Voilà tout. En dehors de ces faits tangibles, évidents, les ténèbres. </p>
+        <p> Le nom de la femme, le nom de l’homme, le nom de l’assassin, autant d’énigmes. </p>
+        <p> Et puis, qu’était devenu cet assassin ? S’il avait disparu d’une minute à l’autre, c’eût été déjà un phénomène passablement curieux. Mais le phénomène touchait au miracle en ce que l’assassin n’avait pas absolument disparu ! Il était là ! Il revenait sur le lieu de la catastrophe ! Outre la peau de bique, on ramassa un jour une casquette de fourrure, et, prodige inouï, un matin, après une nuit complète passée en faction dans les rochers du fameux tournant, des lunettes de chauffeur, cassées, rouillées, salies, hors d’usage. Comment l’assassin avait-il pu rapporter ces lunettes sans que les agents le vissent ? Et surtout, pourquoi les avait-il rapportées ? </p>
+        <p> Il y eut mieux. La nuit suivante, un paysan, obligé de traverser la forêt, et qui, par précaution, avait emporté son fusil et emmené ses deux chiens, s’arrêta net au passage d’une ombre dans les ténèbres. Ses chiens – deux chiens-loups à demi sauvages et d’une vigueur exceptionnelle – bondirent au milieu des taillis et la poursuite commença. </p>
+        <p> Elle dura peu. Presque aussitôt le paysan perçut deux hurlements horribles, qui s’achevèrent du même coup en plaintes d’agonie. Et puis le silence, le silence absolu. </p>
+        <p> Terrifié, il prit la fuite, abandonnant son fusil. </p>
+        <p> Or le lendemain, on ne retrouva aucun des deux chiens. On ne retrouva pas non plus la crosse du fusil. Quant au canon, il était fiché en terre, tout droit, et il y avait, dans un de ses tubes, une fleur, une colchique d’automne, cueillie à cinquante pas de là ! </p>
+        <p> Qu’est-ce que cela signifiait ? Pourquoi cette fleur ? Pourquoi toutes ces complications dans le crime ? Pourquoi ces actes inutiles ? La raison se troublait devant de telles anomalies. Ce n’est qu’avec une sorte de crainte que l’on se risquait dans cette aventure équivoque. On avait l’impression d’une atmosphère lourde, étouffante, où il était impossible de respirer, qui voilait les yeux, et qui déconcertait les plus clairvoyants. </p>
+        <p> Le juge d’instruction tomba malade. Au bout de quatre jours, son remplaçant avoua que l’affaire lui semblait inextricable. On arrêta deux chemineaux qu’on relâcha sur-le-champ. On en poursuivit un troisième qu’on ne put rejoindre et contre lequel, d’ailleurs, on ne possédait aucune preuve. Bref, ce n’était que désordre, obscurité et contradiction. </p>
+        <p> Un hasard conduisit à la solution, ou plutôt détermina un ensemble de circonstances qui conduisirent à la solution. Un simple hasard. Le rédacteur d’une grande feuille parisienne envoyé sur place résumait son article en ces termes : </p>
+        <p> « Par conséquent, je le répète, il faut attendre la collaboration du destin. Sans quoi, on perd son temps. Les éléments de vérité ne suffisent même pas à établir une hypothèse plausible. C’est la nuit épaisse, absolue, angoissante. Il n’y a rien à faire. Tous les Sherlock Holmes du monde n’y verraient que du feu, et Arsène Lupin lui-même, passez-moi l’expression, donnerait sa langue au chat. » </p>
+        <p> Or, le lendemain du jour où parut cet article, le journal publiait le télégramme ci-après : </p>
+        <lb/>
+        <p> Ai quelquefois donné ma langue au chat, mais jamais pour des bêtises. Le drame Saint-Nicolas est un mystère pour enfants en nourrice. Arsène Lupin. </p>
+        <lb/>
+        <p> La dépêche fit du bruit. On se la rappelle, et on se rappelle les polémiques que suscita aussitôt l’intervention du célèbre aventurier. </p>
+        <p> Intervention réelle ? On en doutait. Le journal lui-même se méfiait et prenait ses précautions. </p>
+        <p> « À titre de document, ajoutait-il, nous insérons ce télégramme, qui est certainement l’œuvre d’un farceur. Arsène Lupin, quoique passé maître en mystification, ne montrerait tout de même pas cette outrecuidance un peu puérile. » </p>
+        <p> Quelques jours s’écoulèrent. Chaque matin, la curiosité, déçue, devenait plus vive. Allait-on savoir ? Enfin le journal publia cette fameuse lettre si précise, si catégorique, où Arsène Lupin donnait le mot de l’énigme. La voici dans son intégralité. </p>
+        <lb/>
+        <p> Monsieur le directeur, </p>
+        <p> En me mettant au défi, vous me prenez par mon faible. Provoqué, je réponds. </p>
+        <p> Et tout de suite, j’affirme à nouveau : le drame de Saint-Nicolas est un mystère pour enfants en nourrice. Je ne connais rien qui soit aussi naïf, et la preuve de cette simplicité sera justement la brièveté de ma démonstration. </p>
+        <p> Elle tient, cette démonstration, en ces quelques mots : </p>
+        <p> Quand un crime semble échapper à la mesure ordinaire des choses, quand il semble hors nature, stupide, il y a bien des chances pour qu’il ne puisse trouver son explication que dans des motifs extraordinaires, extra-naturels, extra-humains. Je dis qu’il y a bien des chances, car il faut toujours admettre la part de l’absurdité dans les événements les plus logiques et les plus vulgaires. Mais là, en vérité, comment ne pas voir ce qui est, et ne pas faire entrer en ligne de compte l’absurdité et le disproportionné ? </p>
+        <p> Dès le début, le caractère très net d’anomalie me frappa. Les zigzags d’abord, l’allure maladroite de l’automobile, que l’on eût dit menée par un novice. On a parlé d’un ivrogne ou d’un fou. Supposition justifiée. Mais ni la folie ni l’ivresse ne peuvent provoquer l’exaspération de force nécessaire pour transporter, et surtout en si peu de temps, la pierre qui écrasa la tête de la malheureuse femme. Pour cela il faut une puissance de muscles telle que je n’hésite pas à y voir un second signe de cette anomalie qui domine tout le drame. </p>
+        <p> Et pourquoi le transport de cette pierre énorme, quand il suffisait d’un caillou pour achever la victime ? Et comment d’un autre côté, dans la culbute effroyable de la voiture, l’assassin ne fut-il pas tué ou tout au moins réduit à une immobilité temporaire ? Comment a-t-il disparu ? Et pourquoi, ayant disparu, est-il revenu sur le lieu de l’accident ? Pourquoi avoir jeté là sa fourrure, puis un autre jour sa casquette, puis un autre jour ses lunettes ? </p>
+        <p> Anomalies, actes inutiles et stupides. </p>
+        <p> Pourquoi, d’ailleurs, avoir emmené cette femme blessée, moribonde, sur ce siège d’automobile où tout le monde pouvait la voir ? Pourquoi cela au lieu de l’enfermer à l’intérieur, ou de la jeter morte, en quelque coin, comme on avait jeté l’homme sous les ronces de la rivière ? </p>
+        <p> Anomalie. Stupidité. </p>
+        <p> Tout est absurde dans l’aventure. Tout y dénote le balbutiement, l’incohérence, la gaucherie, la bêtise d’un enfant, ou plutôt d’un sauvage imbécile et forcené, d’une brute. </p>
+        <p> Regardez la bouteille de cognac. Il y avait un tire-bouchon (on l’a retrouvé dans la poche de la fourrure). Le meurtrier s’en est-il servi ? Oui, les traces de tire-bouchon sont visibles sur le cachet. Mais le geste était trop compliqué pour lui. Il a cassé le goulot avec une pierre. </p>
+        <p> Toujours des pierres, notez ce détail. C’est la seule arme et le seul instrument qu’emploie cet individu. C’est son arme habituelle, c’est son instrument familier. Il tue l’homme avec une pierre, la femme avec une pierre, et il débouche les bouteilles avec une pierre. </p>
+        <p> Une brute, je le répète, un sauvage forcené, détraqué, rendu fou subitement. Par quoi ? Eh ! morbleu, justement par cette eau-de-vie, qu’il a avalée d’un coup, tandis que le conducteur de l’auto et sa compagne déjeunaient dans la prairie. Il est sorti de la limousine, au fond de laquelle il voyageait couvert d’une peau de bique et coiffé d’une casquette, et il a pris la bouteille, et il l’a brisée, et il a bu. Voilà toute l’histoire. Ayant bu, il est devenu fou furieux, il a frappé au hasard, sans raison. Puis, saisi d’une peur instinctive, craignant l’inévitable châtiment, il a dissimulé le cadavre de l’homme. Puis, idiotement, il a enlevé la femme blessée et il s’est enfui. Il s’est enfui dans cette automobile qu’il ne savait pas manœuvrer, mais qui, pour lui, représentait le salut, l’impossibilité d’être rattrapé. </p>
+        <p> – Mais l’argent ? me direz-vous. Le portefeuille volé ? </p>
+        <p> – Eh ! qui vous dit que c’est lui le voleur ? Qui vous dit que ce n’est pas tel chemineau, tel paysan attiré par l’odeur du cadavre ? </p>
+        <p> – Soit, soit, objectez-vous encore, mais on l’eût retrouvée, cette brute, puisqu’elle se cache aux environs mêmes du tournant et puisque, après tout, il faut qu’elle mange et qu’elle boive… </p>
+        <p> – Quoi ? </p>
+        <p> – Vous ne devinez pas ? </p>
+        <p> – Non ! Et cependant, vous êtes sûr qu’elle est toujours là ? </p>
+        <p> – Certes, et la preuve, c’est le paysan qui a vu son ombre. Et c’est aussi, ajouterai-je, la disparition de ces deux chiens-loups, des molosses, qu’elle a escamotés comme des caniches d’appartement… </p>
+        <p> Et c’est aussi ce canon de fusil fiché en terre, stupidement, avec une fleur. Est-ce assez bête cela ? et niais ? et grotesque ? Allons, vous n’y êtes pas ? Aucun détail ne vous éclaire ? Non ? Alors le plus simple, voyez-vous, pour en finir et pour répondre à vos objections, c’est d’aller droit au but. Assez d’explications… Des actes. Donc, que ces messieurs de la police et de la gendarmerie veuillent bien y aller eux-mêmes, à ce but. Qu’ils prennent des fusils. Qu’ils explorent la forêt dans un rayon de deux ou trois cents mètres, pas davantage. Mais que, au lieu d’explorer, la tête basse et les yeux fixés au sol, ils regardent en l’air, oui, en l’air, parmi les branches et les feuilles des chênes les plus hauts et des hêtres les plus inaccessibles. Et croyez-moi, ils le verront. Il est là. Il est là, désemparé, pitoyable, en quête de celui et de celle qu’il a tués, et les cherchant, et les attendant, et n’osant s’éloigner, et ne comprenant pas… </p>
+        <p> Pour moi, je regrette infiniment d’être retenu à Paris par de grosses occupations et la mise en train d’affaires très compliquées, car j’aurais eu plaisir à suivre jusqu’au bout cette assez curieuse aventure. </p>
+        <p> Veuillez donc m’excuser auprès de mes bons amis de la justice, et croire, Monsieur le Directeur, à l’assurance de mes sentiments distingués. </p>
+        <p> Signé : Arsène Lupin. </p>
+        <lb/>
+        <p> On se rappelle le dénouement. Ces messieurs de la justice et de la gendarmerie haussèrent les épaules et ne tinrent aucun compte de cette élucubration. Mais quatre hobereaux de la contrée prirent leurs fusils et se mirent en chasse, les yeux au ciel, comme s’ils eussent voulu démolir quelques corbeaux. Au bout d’une demi-heure, ils apercevaient l’assassin. Deux coups de feu : il dégringola de branche en branche. </p>
+        <p> Il n’était que blessé. On le captura. </p>
+        <p> Le soir, un journal de Paris, lequel ne connaissait pas encore cette capture, publiait la note suivante : </p>
+        <p> « On est sans nouvelles d’un monsieur et d’une madame Bragoff, débarqués, il y a six semaines, à Marseille où ils avaient loué une automobile. </p>
+        <p> « Habitant l’Australie depuis de longues années, ils venaient en Europe pour la première fois, et ils avaient prévenu le directeur du Jardin d’Acclimatation, avec qui ils étaient en correspondance, qu’ils amenaient avec eux un être bizarre, d’une espèce absolument inconnue, et dont on ne pouvait dire si c’était un homme ou un singe. </p>
+        <p> « D’après M. Bragoff, archéologue distingué, on serait en présence du singe-anthropoïde, ou plutôt de l’homme singe dont on n’avait pu jusqu’ici prouver l’existence. Sa structure serait exactement pareille à celle du Pithécanthrope Rectus découvert à Java en 1891 par le docteur Dubois, et certaines particularités sembleraient donner raison aux théories du naturaliste argentin M. Ameghino, lequel, avec des fragments de crâne trouvés lors des travaux de creusement du port de Buenos Aires, avait pu reconstituer le Diprothomme. </p>
+        <p> « Intelligent, observateur, cet animal singulier servait de domestique à ses maîtres dans la propriété qu’ils occupaient en Australie, nettoyait leur automobile, essayait même de la conduire. </p>
+        <p> « Que sont devenus M. et Mme Bragoff ? Qu’est devenu l’étrange primate qui les accompagnait ?… » </p>
+        <p> La réponse à cette question était facile maintenant. Grâce aux indications d’Arsène Lupin, on connaissait tous les éléments du drame. Grâce à lui le coupable se trouvait entre les mains de la justice. </p>
+        <p> On peut le voir au Jardin d’Acclimatation où il est emprisonné sous le nom de Trois Étoiles . C’est un singe, en effet. Mais c’est un homme aussi. Il a la douceur et la sagesse des animaux domestiques, et la tristesse qu’ils éprouvent quand leur maître est mort. Mais il a beaucoup d’autres caractères qui le rattachent de plus près à l’humanité. Il est fourbe, cruel, paresseux, gourmand, rageur et, surtout, il a pour l’eau-de-vie une passion immodérée. </p>
+        <p> À part cela, décidément, c’est un singe. </p>
+        <p> À moins que… </p>
+        <p> Quelques jours après son… arrestation, j’aperçus, immobile devant la cage, Arsène Lupin, qui, sans aucun doute, cherchait à résoudre cet intéressant problème. Tout de suite, je lui dis – car la chose me tenait à cœur : </p>
+        <p> – Vous savez, Lupin… eh bien, votre intervention dans cette affaire, votre démonstration, votre lettre enfin ne m’a pas épaté. </p>
+        <p> – Ah ! fit-il tranquillement, et pourquoi ? </p>
+        <p> – Pourquoi ? parce que l’aventure s’est déjà produite, il y a soixante-dix ou quatre-vingts ans. Edgar Poe en a fait le sujet d’un de ses plus beaux contes. Dans ces conditions, le mot de l’énigme se trouvait aisément. </p>
+        <p> Arsène Lupin me prit le bras et m’entraîna : </p>
+        <p> – Quand donc, dit-il, l’avez-vous deviné, vous ? </p>
+        <p> Je confessai : </p>
+        <p> – En lisant votre lettre. </p>
+        <p> – Et à quel endroit de ma lettre ? </p>
+        <p> – Vers la fin. </p>
+        <p> – Vers la fin, n’est-ce pas ? après que j’eus mis les points sur les i. Ainsi donc, voilà un crime que le hasard répète, dans des circonstances tout à fait différentes évidemment, mais pourtant avec la même sorte de héros, et, à vous comme aux autres, du reste, il a fallu qu’on ouvrît les yeux. Il a fallu le secours de ma lettre, de cette lettre où je me suis amusé – j’y étais d’ailleurs contraint par les faits – à employer la démonstration, quelquefois même les termes dont s’est servi le grand poète américain. Vous voyez bien que ma lettre n’était pas absolument inutile, et que l’on peut se permettre de redire aux gens ce qu’ils n’ont appris que pour l’oublier. </p>
+        <p> Sur quoi Lupin se retourna et pouffa de rire au nez du vieux singe qui méditait avec l’air grave d’un philosophe… </p>
+      </div>
+      <head/>
+    </body>
+    <back/>
+    <back/>
+  </text>
+</TEI>
