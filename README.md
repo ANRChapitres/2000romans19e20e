@@ -1,5 +1,11 @@
 **2000 ROMANS FRANÇAIS EN .XML**
 
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7446728.svg)](https://doi.org/10.5281/zenodo.7446728)
+
+
+
 Ce corpus de 2031 romans francophones libres de droit qui couvre de 1813 au milieu du 20e siècle a été rassemblé à des fins de fouille textuelle en littérature, dans le cadre du [projet ANR Chapitres](https://chapitres.hypotheses.org/presentation). Nous souhaitons le rendre disponible à la communauté des chercheurs afin qu’ils puissent en bénéficier pour leurs propres recherches.
 
 Les textes sont intégraux, sous forme de fichier .xml. Ils sont encodés en XML-TEI. Chaque roman est assorti d’un ensemble de métadonnées qui ont fait l’objet de vérifications minutieuses. 
